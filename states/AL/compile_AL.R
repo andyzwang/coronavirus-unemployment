@@ -27,6 +27,8 @@ output <- raw %>%
     # modify dates
     date = mdy(wed_title),
     week = week(date),
+    month = month(date),
+    year = year(date),
 
     # state FIPS code and name
 
@@ -53,7 +55,7 @@ output <- raw %>%
 
   select(
     state, state_fips, state_short, county, county_fips,
-    date, week, claims
+    date, week, month, year, claims
   ) %>%
   arrange(week)
 
