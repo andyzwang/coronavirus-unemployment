@@ -32,7 +32,7 @@ output <- raw %>%
 
     # state FIPS code and name
 
-    state_fips = "01",
+    state_fips = "1",
     state_short = "AL",
     state = "Alabama",
 
@@ -59,4 +59,4 @@ output <- raw %>%
   ) %>%
   arrange(week)
 
-write.csv(output, file="AL_compiled.csv")
+write.csv(output, file="AL_compiled.csv", row.names = FALSE)
