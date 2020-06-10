@@ -74,3 +74,16 @@ No data found
 * [Kentucky Center for Statistics](https://kystats.ky.gov/KYLMI/UIClaimTables)
   * Format: PDF, Updated: Monthly, Level: County
   * Data: Unemployment Claims, Industries, Unemployment
+
+## Louisiana
+No Data
+
+## Maine
+No data
+
+## Maryland
+* [Maryland Department of Labor](https://www.dllr.state.md.us/employment/uicounty.shtml)
+  * Format: Web Table, Updated: Weekly, Level: County
+  * Data: Unemployment Claims
+
+## 
