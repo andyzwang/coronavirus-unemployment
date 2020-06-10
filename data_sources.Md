@@ -69,3 +69,8 @@ No data found
 * [Kansas Department of Labor](https://klic.dol.ks.gov/gsipub/index.asp?docid=756)
   * Format: Map, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+
+## Kentucky
+* [Kentucky Center for Statistics](https://kystats.ky.gov/KYLMI/UIClaimTables)
+  * Format: PDF, Updated: Monthly, Level: County
+  * Data: Unemployment Claims, Industries, Unemployment
