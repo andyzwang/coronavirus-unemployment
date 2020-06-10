@@ -39,3 +39,8 @@ No data found
 * [Georgia Department of Labor](https://dol.georgia.gov/current-labor-force-data-and-graphs)
   * Format: PDF, Updated: Monthly, Level: County
   * Data: Unemployment Claims, Unemployment
+
+## Hawaii
+* [Hawaii Department of Labor](https://labor.hawaii.gov/rs/files/2020/01/IC2020.pdf)
+  * Format: PDF, Updated: Weekly, Level: County
+  * Data: Unemployment Claims
