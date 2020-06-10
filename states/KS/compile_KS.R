@@ -5,25 +5,45 @@ library(janitor)
 library(lubridate)
 library(maps)
 library(stringr)
-library(tabulizer)
 
+# import
+raw <- read_csv("KS_gathered.csv")
 
-raw <- read_csv("GA_gathered.csv")
+# import FIPS codes
+
+data(county.fips)
 
 output <- raw %>%
-  rename(state = state_name,
-         state_short = state_abbrev,
-         county = county_name,
-         claims = initial_claims) %>%
   mutate(
-    date = ceiling_date(ymd(paste(year, month, "01", sep = "-")), "month") -1,
-    week = NA
+    
+    # date info
+    
+    date = mdy(date),
+    week = week(date),
+    month = month(date),
+    year = year(date),
+    
+    # set general info
+    state = "Kansas",
+    state_fips = 20,
+    state_short = "KS",
+    
+    polyname = case_when(
+      TRUE ~ paste("kansas,", tolower(county), sep = "")
+    )
+  ) %>%
+  
+  # Join with FIPS
+  
+  left_join(county.fips, by = "polyname") %>%
+  rename(
+    county_fips = fips
   ) %>%
   select(
     state, state_fips, state_short, county, county_fips,
     date, week, month, year, claims
   ) %>%
-  arrange(month)
+  arrange(week)
 
 # output
-write.csv(output, file = "GA_compiled.csv", row.names = FALSE)
+write.csv(output, file = "KS_compiled.csv", row.names = FALSE)
