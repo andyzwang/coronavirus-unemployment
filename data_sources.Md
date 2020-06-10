@@ -64,3 +64,8 @@ No data found
 * [data.iowa.gov](https://data.iowa.gov/Economic-Statistics/Iowa-Unemployment-Insurance-Initial-Claims-by-Coun/xeyb-8kfg)
   * Format: CSV, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+
+## Kansas
+* [Kansas Department of Labor](https://klic.dol.ks.gov/gsipub/index.asp?docid=756)
+  * Format: Map, Updated: Weekly, Level: County
+  * Data: Unemployment Claims
