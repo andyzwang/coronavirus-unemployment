@@ -86,4 +86,13 @@ No data
   * Format: Web Table, Updated: Weekly, Level: County
   * Data: Unemployment Claims
 
-## 
+## Massachusetts
+No Data
+
+## Michigan
+No Data
+
+## Minnesota
+* [Minnesota Empolyment and Economic Development](https://apps.deed.state.mn.us/lmi/ui/Results.aspx?area=R11000&date=202001)
+  * Format: Web Table, Updated: Monthly, Level: County
+  * Data: Unemployment Claims, Industries, Demographics
