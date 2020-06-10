@@ -1,0 +1,348 @@
+"state","state_fips","state_short","county","county_fips","date","week","month","year","claims"
+"Minnesota",27,"MN","Kittson",27069,2020-01-31,NA,1,2020,15
+"Minnesota",27,"MN","Marshall",27089,2020-01-31,NA,1,2020,78
+"Minnesota",27,"MN","Norman",27107,2020-01-31,NA,1,2020,20
+"Minnesota",27,"MN","Pennington",27113,2020-01-31,NA,1,2020,267
+"Minnesota",27,"MN","Polk",27119,2020-01-31,NA,1,2020,88
+"Minnesota",27,"MN","Red Lake",27125,2020-01-31,NA,1,2020,57
+"Minnesota",27,"MN","Roseau",27135,2020-01-31,NA,1,2020,126
+"Minnesota",27,"MN","Beltrami",27007,2020-01-31,NA,1,2020,157
+"Minnesota",27,"MN","Clearwater",27029,2020-01-31,NA,1,2020,73
+"Minnesota",27,"MN","Hubbard",27057,2020-01-31,NA,1,2020,96
+"Minnesota",27,"MN","Lake of the Woods",27077,2020-01-31,NA,1,2020,15
+"Minnesota",27,"MN","Mahnomen",27087,2020-01-31,NA,1,2020,14
+"Minnesota",27,"MN","Aitkin",27001,2020-01-31,NA,1,2020,87
+"Minnesota",27,"MN","Carlton",27017,2020-01-31,NA,1,2020,170
+"Minnesota",27,"MN","Cook",27031,2020-01-31,NA,1,2020,19
+"Minnesota",27,"MN","Itasca",27061,2020-01-31,NA,1,2020,323
+"Minnesota",27,"MN","Koochiching",27071,2020-01-31,NA,1,2020,43
+"Minnesota",27,"MN","Lake",27075,2020-01-31,NA,1,2020,63
+"Minnesota",27,"MN","Saint Louis",27137,2020-01-31,NA,1,2020,755
+"Minnesota",27,"MN","Becker",27005,2020-01-31,NA,1,2020,123
+"Minnesota",27,"MN","Clay",27027,2020-01-31,NA,1,2020,110
+"Minnesota",27,"MN","Douglas",27041,2020-01-31,NA,1,2020,103
+"Minnesota",27,"MN","Grant",27051,2020-01-31,NA,1,2020,15
+"Minnesota",27,"MN","Otter Tail",27111,2020-01-31,NA,1,2020,197
+"Minnesota",27,"MN","Pope",27121,2020-01-31,NA,1,2020,34
+"Minnesota",27,"MN","Stevens",27149,2020-01-31,NA,1,2020,19
+"Minnesota",27,"MN","Traverse",27155,2020-01-31,NA,1,2020,13
+"Minnesota",27,"MN","Wilkin",27167,2020-01-31,NA,1,2020,10
+"Minnesota",27,"MN","Cass",27021,2020-01-31,NA,1,2020,138
+"Minnesota",27,"MN","Crow Wing",27035,2020-01-31,NA,1,2020,237
+"Minnesota",27,"MN","Morrison",27097,2020-01-31,NA,1,2020,185
+"Minnesota",27,"MN","Todd",27153,2020-01-31,NA,1,2020,91
+"Minnesota",27,"MN","Wadena",27159,2020-01-31,NA,1,2020,71
+"Minnesota",27,"MN","Kandiyohi",27067,2020-01-31,NA,1,2020,165
+"Minnesota",27,"MN","McLeod",27085,2020-01-31,NA,1,2020,143
+"Minnesota",27,"MN","Meeker",27093,2020-01-31,NA,1,2020,95
+"Minnesota",27,"MN","Renville",27129,2020-01-31,NA,1,2020,69
+"Minnesota",27,"MN","Big Stone",27011,2020-01-31,NA,1,2020,11
+"Minnesota",27,"MN","Chippewa",27023,2020-01-31,NA,1,2020,50
+"Minnesota",27,"MN","Lac qui Parle",27073,2020-01-31,NA,1,2020,20
+"Minnesota",27,"MN","Swift",27151,2020-01-31,NA,1,2020,87
+"Minnesota",27,"MN","Yellow Medicine",27173,2020-01-31,NA,1,2020,34
+"Minnesota",27,"MN","Chisago",27025,2020-01-31,NA,1,2020,328
+"Minnesota",27,"MN","Isanti",27059,2020-01-31,NA,1,2020,242
+"Minnesota",27,"MN","Kanabec",27065,2020-01-31,NA,1,2020,114
+"Minnesota",27,"MN","Mille Lacs",27095,2020-01-31,NA,1,2020,165
+"Minnesota",27,"MN","Pine",27115,2020-01-31,NA,1,2020,158
+"Minnesota",27,"MN","Benton",27009,2020-01-31,NA,1,2020,207
+"Minnesota",27,"MN","Sherburne",27141,2020-01-31,NA,1,2020,445
+"Minnesota",27,"MN","Stearns",27145,2020-01-31,NA,1,2020,720
+"Minnesota",27,"MN","Wright",27171,2020-01-31,NA,1,2020,575
+"Minnesota",27,"MN","Cottonwood",27033,2020-01-31,NA,1,2020,58
+"Minnesota",27,"MN","Jackson",27063,2020-01-31,NA,1,2020,49
+"Minnesota",27,"MN","Lincoln",27081,2020-01-31,NA,1,2020,15
+"Minnesota",27,"MN","Lyon",27083,2020-01-31,NA,1,2020,71
+"Minnesota",27,"MN","Murray",27101,2020-01-31,NA,1,2020,35
+"Minnesota",27,"MN","Nobles",27105,2020-01-31,NA,1,2020,81
+"Minnesota",27,"MN","Pipestone",27117,2020-01-31,NA,1,2020,38
+"Minnesota",27,"MN","Redwood",27127,2020-01-31,NA,1,2020,59
+"Minnesota",27,"MN","Rock",27133,2020-01-31,NA,1,2020,11
+"Minnesota",27,"MN","Blue Earth",27013,2020-01-31,NA,1,2020,261
+"Minnesota",27,"MN","Brown",27015,2020-01-31,NA,1,2020,190
+"Minnesota",27,"MN","Faribault",27043,2020-01-31,NA,1,2020,68
+"Minnesota",27,"MN","Le Sueur",27079,2020-01-31,NA,1,2020,149
+"Minnesota",27,"MN","Martin",27091,2020-01-31,NA,1,2020,81
+"Minnesota",27,"MN","Nicollet",27103,2020-01-31,NA,1,2020,90
+"Minnesota",27,"MN","Sibley",27143,2020-01-31,NA,1,2020,54
+"Minnesota",27,"MN","Waseca",27161,2020-01-31,NA,1,2020,65
+"Minnesota",27,"MN","Watonwan",27165,2020-01-31,NA,1,2020,61
+"Minnesota",27,"MN","Dodge",27039,2020-01-31,NA,1,2020,82
+"Minnesota",27,"MN","Fillmore",27045,2020-01-31,NA,1,2020,83
+"Minnesota",27,"MN","Freeborn",27047,2020-01-31,NA,1,2020,103
+"Minnesota",27,"MN","Goodhue",27049,2020-01-31,NA,1,2020,212
+"Minnesota",27,"MN","Houston",27055,2020-01-31,NA,1,2020,61
+"Minnesota",27,"MN","Mower",27099,2020-01-31,NA,1,2020,124
+"Minnesota",27,"MN","Olmsted",27109,2020-01-31,NA,1,2020,380
+"Minnesota",27,"MN","Rice",27131,2020-01-31,NA,1,2020,209
+"Minnesota",27,"MN","Steele",27147,2020-01-31,NA,1,2020,153
+"Minnesota",27,"MN","Wabasha",27157,2020-01-31,NA,1,2020,84
+"Minnesota",27,"MN","Winona",27169,2020-01-31,NA,1,2020,141
+"Minnesota",27,"MN","Anoka",27003,2020-01-31,NA,1,2020,1237
+"Minnesota",27,"MN","Carver",27019,2020-01-31,NA,1,2020,255
+"Minnesota",27,"MN","Dakota",27037,2020-01-31,NA,1,2020,1339
+"Minnesota",27,"MN","Hennepin",27053,2020-01-31,NA,1,2020,3184
+"Minnesota",27,"MN","Ramsey",27123,2020-01-31,NA,1,2020,1644
+"Minnesota",27,"MN","Scott",27139,2020-01-31,NA,1,2020,438
+"Minnesota",27,"MN","Washington",27163,2020-01-31,NA,1,2020,823
+"Minnesota",27,"MN","Kittson",27069,2020-02-29,NA,2,2020,4
+"Minnesota",27,"MN","Marshall",27089,2020-02-29,NA,2,2020,23
+"Minnesota",27,"MN","Norman",27107,2020-02-29,NA,2,2020,6
+"Minnesota",27,"MN","Pennington",27113,2020-02-29,NA,2,2020,42
+"Minnesota",27,"MN","Polk",27119,2020-02-29,NA,2,2020,97
+"Minnesota",27,"MN","Red Lake",27125,2020-02-29,NA,2,2020,17
+"Minnesota",27,"MN","Roseau",27135,2020-02-29,NA,2,2020,92
+"Minnesota",27,"MN","Beltrami",27007,2020-02-29,NA,2,2020,91
+"Minnesota",27,"MN","Clearwater",27029,2020-02-29,NA,2,2020,27
+"Minnesota",27,"MN","Hubbard",27057,2020-02-29,NA,2,2020,51
+"Minnesota",27,"MN","Lake of the Woods",27077,2020-02-29,NA,2,2020,8
+"Minnesota",27,"MN","Mahnomen",27087,2020-02-29,NA,2,2020,10
+"Minnesota",27,"MN","Aitkin",27001,2020-02-29,NA,2,2020,44
+"Minnesota",27,"MN","Carlton",27017,2020-02-29,NA,2,2020,122
+"Minnesota",27,"MN","Cook",27031,2020-02-29,NA,2,2020,11
+"Minnesota",27,"MN","Itasca",27061,2020-02-29,NA,2,2020,192
+"Minnesota",27,"MN","Koochiching",27071,2020-02-29,NA,2,2020,47
+"Minnesota",27,"MN","Lake",27075,2020-02-29,NA,2,2020,34
+"Minnesota",27,"MN","Saint Louis",27137,2020-02-29,NA,2,2020,574
+"Minnesota",27,"MN","Becker",27005,2020-02-29,NA,2,2020,98
+"Minnesota",27,"MN","Clay",27027,2020-02-29,NA,2,2020,90
+"Minnesota",27,"MN","Douglas",27041,2020-02-29,NA,2,2020,73
+"Minnesota",27,"MN","Grant",27051,2020-02-29,NA,2,2020,10
+"Minnesota",27,"MN","Otter Tail",27111,2020-02-29,NA,2,2020,120
+"Minnesota",27,"MN","Pope",27121,2020-02-29,NA,2,2020,15
+"Minnesota",27,"MN","Stevens",27149,2020-02-29,NA,2,2020,6
+"Minnesota",27,"MN","Traverse",27155,2020-02-29,NA,2,2020,3
+"Minnesota",27,"MN","Wilkin",27167,2020-02-29,NA,2,2020,6
+"Minnesota",27,"MN","Cass",27021,2020-02-29,NA,2,2020,91
+"Minnesota",27,"MN","Crow Wing",27035,2020-02-29,NA,2,2020,160
+"Minnesota",27,"MN","Morrison",27097,2020-02-29,NA,2,2020,110
+"Minnesota",27,"MN","Todd",27153,2020-02-29,NA,2,2020,68
+"Minnesota",27,"MN","Wadena",27159,2020-02-29,NA,2,2020,46
+"Minnesota",27,"MN","Kandiyohi",27067,2020-02-29,NA,2,2020,82
+"Minnesota",27,"MN","McLeod",27085,2020-02-29,NA,2,2020,107
+"Minnesota",27,"MN","Meeker",27093,2020-02-29,NA,2,2020,70
+"Minnesota",27,"MN","Renville",27129,2020-02-29,NA,2,2020,46
+"Minnesota",27,"MN","Big Stone",27011,2020-02-29,NA,2,2020,7
+"Minnesota",27,"MN","Chippewa",27023,2020-02-29,NA,2,2020,58
+"Minnesota",27,"MN","Lac qui Parle",27073,2020-02-29,NA,2,2020,18
+"Minnesota",27,"MN","Swift",27151,2020-02-29,NA,2,2020,25
+"Minnesota",27,"MN","Yellow Medicine",27173,2020-02-29,NA,2,2020,25
+"Minnesota",27,"MN","Chisago",27025,2020-02-29,NA,2,2020,255
+"Minnesota",27,"MN","Isanti",27059,2020-02-29,NA,2,2020,172
+"Minnesota",27,"MN","Kanabec",27065,2020-02-29,NA,2,2020,71
+"Minnesota",27,"MN","Mille Lacs",27095,2020-02-29,NA,2,2020,123
+"Minnesota",27,"MN","Pine",27115,2020-02-29,NA,2,2020,128
+"Minnesota",27,"MN","Benton",27009,2020-02-29,NA,2,2020,115
+"Minnesota",27,"MN","Sherburne",27141,2020-02-29,NA,2,2020,361
+"Minnesota",27,"MN","Stearns",27145,2020-02-29,NA,2,2020,377
+"Minnesota",27,"MN","Wright",27171,2020-02-29,NA,2,2020,469
+"Minnesota",27,"MN","Cottonwood",27033,2020-02-29,NA,2,2020,31
+"Minnesota",27,"MN","Jackson",27063,2020-02-29,NA,2,2020,32
+"Minnesota",27,"MN","Lincoln",27081,2020-02-29,NA,2,2020,8
+"Minnesota",27,"MN","Lyon",27083,2020-02-29,NA,2,2020,35
+"Minnesota",27,"MN","Murray",27101,2020-02-29,NA,2,2020,12
+"Minnesota",27,"MN","Nobles",27105,2020-02-29,NA,2,2020,29
+"Minnesota",27,"MN","Pipestone",27117,2020-02-29,NA,2,2020,26
+"Minnesota",27,"MN","Redwood",27127,2020-02-29,NA,2,2020,29
+"Minnesota",27,"MN","Rock",27133,2020-02-29,NA,2,2020,5
+"Minnesota",27,"MN","Blue Earth",27013,2020-02-29,NA,2,2020,171
+"Minnesota",27,"MN","Brown",27015,2020-02-29,NA,2,2020,99
+"Minnesota",27,"MN","Faribault",27043,2020-02-29,NA,2,2020,39
+"Minnesota",27,"MN","Le Sueur",27079,2020-02-29,NA,2,2020,85
+"Minnesota",27,"MN","Martin",27091,2020-02-29,NA,2,2020,64
+"Minnesota",27,"MN","Nicollet",27103,2020-02-29,NA,2,2020,81
+"Minnesota",27,"MN","Sibley",27143,2020-02-29,NA,2,2020,39
+"Minnesota",27,"MN","Waseca",27161,2020-02-29,NA,2,2020,42
+"Minnesota",27,"MN","Watonwan",27165,2020-02-29,NA,2,2020,35
+"Minnesota",27,"MN","Dodge",27039,2020-02-29,NA,2,2020,53
+"Minnesota",27,"MN","Fillmore",27045,2020-02-29,NA,2,2020,61
+"Minnesota",27,"MN","Freeborn",27047,2020-02-29,NA,2,2020,81
+"Minnesota",27,"MN","Goodhue",27049,2020-02-29,NA,2,2020,146
+"Minnesota",27,"MN","Houston",27055,2020-02-29,NA,2,2020,45
+"Minnesota",27,"MN","Mower",27099,2020-02-29,NA,2,2020,67
+"Minnesota",27,"MN","Olmsted",27109,2020-02-29,NA,2,2020,287
+"Minnesota",27,"MN","Rice",27131,2020-02-29,NA,2,2020,143
+"Minnesota",27,"MN","Steele",27147,2020-02-29,NA,2,2020,94
+"Minnesota",27,"MN","Wabasha",27157,2020-02-29,NA,2,2020,56
+"Minnesota",27,"MN","Winona",27169,2020-02-29,NA,2,2020,102
+"Minnesota",27,"MN","Anoka",27003,2020-02-29,NA,2,2020,956
+"Minnesota",27,"MN","Carver",27019,2020-02-29,NA,2,2020,197
+"Minnesota",27,"MN","Dakota",27037,2020-02-29,NA,2,2020,980
+"Minnesota",27,"MN","Hennepin",27053,2020-02-29,NA,2,2020,2562
+"Minnesota",27,"MN","Ramsey",27123,2020-02-29,NA,2,2020,1200
+"Minnesota",27,"MN","Scott",27139,2020-02-29,NA,2,2020,338
+"Minnesota",27,"MN","Washington",27163,2020-02-29,NA,2,2020,560
+"Minnesota",27,"MN","Kittson",27069,2020-03-31,NA,3,2020,92
+"Minnesota",27,"MN","Marshall",27089,2020-03-31,NA,3,2020,290
+"Minnesota",27,"MN","Norman",27107,2020-03-31,NA,3,2020,132
+"Minnesota",27,"MN","Pennington",27113,2020-03-31,NA,3,2020,771
+"Minnesota",27,"MN","Polk",27119,2020-03-31,NA,3,2020,799
+"Minnesota",27,"MN","Red Lake",27125,2020-03-31,NA,3,2020,153
+"Minnesota",27,"MN","Roseau",27135,2020-03-31,NA,3,2020,1100
+"Minnesota",27,"MN","Beltrami",27007,2020-03-31,NA,3,2020,2049
+"Minnesota",27,"MN","Clearwater",27029,2020-03-31,NA,3,2020,341
+"Minnesota",27,"MN","Hubbard",27057,2020-03-31,NA,3,2020,1008
+"Minnesota",27,"MN","Lake of the Woods",27077,2020-03-31,NA,3,2020,242
+"Minnesota",27,"MN","Mahnomen",27087,2020-03-31,NA,3,2020,133
+"Minnesota",27,"MN","Aitkin",27001,2020-03-31,NA,3,2020,684
+"Minnesota",27,"MN","Carlton",27017,2020-03-31,NA,3,2020,1411
+"Minnesota",27,"MN","Cook",27031,2020-03-31,NA,3,2020,525
+"Minnesota",27,"MN","Itasca",27061,2020-03-31,NA,3,2020,2083
+"Minnesota",27,"MN","Koochiching",27071,2020-03-31,NA,3,2020,498
+"Minnesota",27,"MN","Lake",27075,2020-03-31,NA,3,2020,592
+"Minnesota",27,"MN","Saint Louis",27137,2020-03-31,NA,3,2020,10992
+"Minnesota",27,"MN","Becker",27005,2020-03-31,NA,3,2020,1809
+"Minnesota",27,"MN","Clay",27027,2020-03-31,NA,3,2020,1182
+"Minnesota",27,"MN","Douglas",27041,2020-03-31,NA,3,2020,1913
+"Minnesota",27,"MN","Grant",27051,2020-03-31,NA,3,2020,229
+"Minnesota",27,"MN","Otter Tail",27111,2020-03-31,NA,3,2020,2343
+"Minnesota",27,"MN","Pope",27121,2020-03-31,NA,3,2020,406
+"Minnesota",27,"MN","Stevens",27149,2020-03-31,NA,3,2020,232
+"Minnesota",27,"MN","Traverse",27155,2020-03-31,NA,3,2020,59
+"Minnesota",27,"MN","Wilkin",27167,2020-03-31,NA,3,2020,101
+"Minnesota",27,"MN","Cass",27021,2020-03-31,NA,3,2020,1396
+"Minnesota",27,"MN","Crow Wing",27035,2020-03-31,NA,3,2020,4004
+"Minnesota",27,"MN","Morrison",27097,2020-03-31,NA,3,2020,1373
+"Minnesota",27,"MN","Todd",27153,2020-03-31,NA,3,2020,729
+"Minnesota",27,"MN","Wadena",27159,2020-03-31,NA,3,2020,605
+"Minnesota",27,"MN","Kandiyohi",27067,2020-03-31,NA,3,2020,1514
+"Minnesota",27,"MN","McLeod",27085,2020-03-31,NA,3,2020,1599
+"Minnesota",27,"MN","Meeker",27093,2020-03-31,NA,3,2020,900
+"Minnesota",27,"MN","Renville",27129,2020-03-31,NA,3,2020,552
+"Minnesota",27,"MN","Big Stone",27011,2020-03-31,NA,3,2020,124
+"Minnesota",27,"MN","Chippewa",27023,2020-03-31,NA,3,2020,455
+"Minnesota",27,"MN","Lac qui Parle",27073,2020-03-31,NA,3,2020,173
+"Minnesota",27,"MN","Swift",27151,2020-03-31,NA,3,2020,277
+"Minnesota",27,"MN","Yellow Medicine",27173,2020-03-31,NA,3,2020,390
+"Minnesota",27,"MN","Chisago",27025,2020-03-31,NA,3,2020,3007
+"Minnesota",27,"MN","Isanti",27059,2020-03-31,NA,3,2020,2303
+"Minnesota",27,"MN","Kanabec",27065,2020-03-31,NA,3,2020,664
+"Minnesota",27,"MN","Mille Lacs",27095,2020-03-31,NA,3,2020,1268
+"Minnesota",27,"MN","Pine",27115,2020-03-31,NA,3,2020,1193
+"Minnesota",27,"MN","Benton",27009,2020-03-31,NA,3,2020,2240
+"Minnesota",27,"MN","Sherburne",27141,2020-03-31,NA,3,2020,5214
+"Minnesota",27,"MN","Stearns",27145,2020-03-31,NA,3,2020,7663
+"Minnesota",27,"MN","Wright",27171,2020-03-31,NA,3,2020,6943
+"Minnesota",27,"MN","Cottonwood",27033,2020-03-31,NA,3,2020,247
+"Minnesota",27,"MN","Jackson",27063,2020-03-31,NA,3,2020,226
+"Minnesota",27,"MN","Lincoln",27081,2020-03-31,NA,3,2020,102
+"Minnesota",27,"MN","Lyon",27083,2020-03-31,NA,3,2020,850
+"Minnesota",27,"MN","Murray",27101,2020-03-31,NA,3,2020,217
+"Minnesota",27,"MN","Nobles",27105,2020-03-31,NA,3,2020,376
+"Minnesota",27,"MN","Pipestone",27117,2020-03-31,NA,3,2020,183
+"Minnesota",27,"MN","Redwood",27127,2020-03-31,NA,3,2020,785
+"Minnesota",27,"MN","Rock",27133,2020-03-31,NA,3,2020,201
+"Minnesota",27,"MN","Blue Earth",27013,2020-03-31,NA,3,2020,3981
+"Minnesota",27,"MN","Brown",27015,2020-03-31,NA,3,2020,1129
+"Minnesota",27,"MN","Faribault",27043,2020-03-31,NA,3,2020,495
+"Minnesota",27,"MN","Le Sueur",27079,2020-03-31,NA,3,2020,1340
+"Minnesota",27,"MN","Martin",27091,2020-03-31,NA,3,2020,690
+"Minnesota",27,"MN","Nicollet",27103,2020-03-31,NA,3,2020,1593
+"Minnesota",27,"MN","Sibley",27143,2020-03-31,NA,3,2020,535
+"Minnesota",27,"MN","Waseca",27161,2020-03-31,NA,3,2020,754
+"Minnesota",27,"MN","Watonwan",27165,2020-03-31,NA,3,2020,315
+"Minnesota",27,"MN","Fillmore",27045,2020-03-31,NA,3,2020,694
+"Minnesota",27,"MN","Freeborn",27047,2020-03-31,NA,3,2020,1036
+"Minnesota",27,"MN","Goodhue",27049,2020-03-31,NA,3,2020,2040
+"Minnesota",27,"MN","Houston",27055,2020-03-31,NA,3,2020,460
+"Minnesota",27,"MN","Mower",27099,2020-03-31,NA,3,2020,1287
+"Minnesota",27,"MN","Olmsted",27109,2020-03-31,NA,3,2020,6319
+"Minnesota",27,"MN","Rice",27131,2020-03-31,NA,3,2020,2548
+"Minnesota",27,"MN","Steele",27147,2020-03-31,NA,3,2020,1546
+"Minnesota",27,"MN","Wabasha",27157,2020-03-31,NA,3,2020,834
+"Minnesota",27,"MN","Winona",27169,2020-03-31,NA,3,2020,2342
+"Minnesota",27,"MN","Anoka",27003,2020-03-31,NA,3,2020,20123
+"Minnesota",27,"MN","Carver",27019,2020-03-31,NA,3,2020,4647
+"Minnesota",27,"MN","Dakota",27037,2020-03-31,NA,3,2020,23751
+"Minnesota",27,"MN","Hennepin",27053,2020-03-31,NA,3,2020,69909
+"Minnesota",27,"MN","Ramsey",27123,2020-03-31,NA,3,2020,29305
+"Minnesota",27,"MN","Scott",27139,2020-03-31,NA,3,2020,7972
+"Minnesota",27,"MN","Washington",27163,2020-03-31,NA,3,2020,12997
+"Minnesota",27,"MN","Kittson",27069,2020-04-30,NA,4,2020,89
+"Minnesota",27,"MN","Marshall",27089,2020-04-30,NA,4,2020,319
+"Minnesota",27,"MN","Norman",27107,2020-04-30,NA,4,2020,246
+"Minnesota",27,"MN","Pennington",27113,2020-04-30,NA,4,2020,610
+"Minnesota",27,"MN","Polk",27119,2020-04-30,NA,4,2020,1014
+"Minnesota",27,"MN","Red Lake",27125,2020-04-30,NA,4,2020,159
+"Minnesota",27,"MN","Roseau",27135,2020-04-30,NA,4,2020,882
+"Minnesota",27,"MN","Beltrami",27007,2020-04-30,NA,4,2020,2267
+"Minnesota",27,"MN","Clearwater",27029,2020-04-30,NA,4,2020,510
+"Minnesota",27,"MN","Hubbard",27057,2020-04-30,NA,4,2020,1046
+"Minnesota",27,"MN","Lake of the Woods",27077,2020-04-30,NA,4,2020,215
+"Minnesota",27,"MN","Mahnomen",27087,2020-04-30,NA,4,2020,601
+"Minnesota",27,"MN","Aitkin",27001,2020-04-30,NA,4,2020,752
+"Minnesota",27,"MN","Carlton",27017,2020-04-30,NA,4,2020,2314
+"Minnesota",27,"MN","Cook",27031,2020-04-30,NA,4,2020,461
+"Minnesota",27,"MN","Itasca",27061,2020-04-30,NA,4,2020,2460
+"Minnesota",27,"MN","Koochiching",27071,2020-04-30,NA,4,2020,531
+"Minnesota",27,"MN","Lake",27075,2020-04-30,NA,4,2020,812
+"Minnesota",27,"MN","Saint Louis",27137,2020-04-30,NA,4,2020,11770
+"Minnesota",27,"MN","Becker",27005,2020-04-30,NA,4,2020,1922
+"Minnesota",27,"MN","Clay",27027,2020-04-30,NA,4,2020,1386
+"Minnesota",27,"MN","Douglas",27041,2020-04-30,NA,4,2020,1806
+"Minnesota",27,"MN","Grant",27051,2020-04-30,NA,4,2020,192
+"Minnesota",27,"MN","Otter Tail",27111,2020-04-30,NA,4,2020,2110
+"Minnesota",27,"MN","Pope",27121,2020-04-30,NA,4,2020,401
+"Minnesota",27,"MN","Stevens",27149,2020-04-30,NA,4,2020,209
+"Minnesota",27,"MN","Traverse",27155,2020-04-30,NA,4,2020,68
+"Minnesota",27,"MN","Wilkin",27167,2020-04-30,NA,4,2020,142
+"Minnesota",27,"MN","Cass",27021,2020-04-30,NA,4,2020,1941
+"Minnesota",27,"MN","Crow Wing",27035,2020-04-30,NA,4,2020,3616
+"Minnesota",27,"MN","Morrison",27097,2020-04-30,NA,4,2020,1824
+"Minnesota",27,"MN","Todd",27153,2020-04-30,NA,4,2020,961
+"Minnesota",27,"MN","Wadena",27159,2020-04-30,NA,4,2020,571
+"Minnesota",27,"MN","Kandiyohi",27067,2020-04-30,NA,4,2020,1576
+"Minnesota",27,"MN","McLeod",27085,2020-04-30,NA,4,2020,1703
+"Minnesota",27,"MN","Meeker",27093,2020-04-30,NA,4,2020,884
+"Minnesota",27,"MN","Renville",27129,2020-04-30,NA,4,2020,462
+"Minnesota",27,"MN","Big Stone",27011,2020-04-30,NA,4,2020,144
+"Minnesota",27,"MN","Chippewa",27023,2020-04-30,NA,4,2020,610
+"Minnesota",27,"MN","Lac qui Parle",27073,2020-04-30,NA,4,2020,197
+"Minnesota",27,"MN","Swift",27151,2020-04-30,NA,4,2020,404
+"Minnesota",27,"MN","Yellow Medicine",27173,2020-04-30,NA,4,2020,402
+"Minnesota",27,"MN","Chisago",27025,2020-04-30,NA,4,2020,3204
+"Minnesota",27,"MN","Isanti",27059,2020-04-30,NA,4,2020,2263
+"Minnesota",27,"MN","Kanabec",27065,2020-04-30,NA,4,2020,1046
+"Minnesota",27,"MN","Mille Lacs",27095,2020-04-30,NA,4,2020,1703
+"Minnesota",27,"MN","Pine",27115,2020-04-30,NA,4,2020,2170
+"Minnesota",27,"MN","Benton",27009,2020-04-30,NA,4,2020,2268
+"Minnesota",27,"MN","Sherburne",27141,2020-04-30,NA,4,2020,5408
+"Minnesota",27,"MN","Stearns",27145,2020-04-30,NA,4,2020,8365
+"Minnesota",27,"MN","Wright",27171,2020-04-30,NA,4,2020,7353
+"Minnesota",27,"MN","Cottonwood",27033,2020-04-30,NA,4,2020,381
+"Minnesota",27,"MN","Jackson",27063,2020-04-30,NA,4,2020,343
+"Minnesota",27,"MN","Lincoln",27081,2020-04-30,NA,4,2020,113
+"Minnesota",27,"MN","Lyon",27083,2020-04-30,NA,4,2020,893
+"Minnesota",27,"MN","Murray",27101,2020-04-30,NA,4,2020,283
+"Minnesota",27,"MN","Nobles",27105,2020-04-30,NA,4,2020,631
+"Minnesota",27,"MN","Pipestone",27117,2020-04-30,NA,4,2020,202
+"Minnesota",27,"MN","Redwood",27127,2020-04-30,NA,4,2020,509
+"Minnesota",27,"MN","Rock",27133,2020-04-30,NA,4,2020,203
+"Minnesota",27,"MN","Blue Earth",27013,2020-04-30,NA,4,2020,4232
+"Minnesota",27,"MN","Brown",27015,2020-04-30,NA,4,2020,999
+"Minnesota",27,"MN","Faribault",27043,2020-04-30,NA,4,2020,683
+"Minnesota",27,"MN","Le Sueur",27079,2020-04-30,NA,4,2020,1535
+"Minnesota",27,"MN","Martin",27091,2020-04-30,NA,4,2020,768
+"Minnesota",27,"MN","Nicollet",27103,2020-04-30,NA,4,2020,1800
+"Minnesota",27,"MN","Sibley",27143,2020-04-30,NA,4,2020,644
+"Minnesota",27,"MN","Waseca",27161,2020-04-30,NA,4,2020,806
+"Minnesota",27,"MN","Watonwan",27165,2020-04-30,NA,4,2020,385
+"Minnesota",27,"MN","Dodge",27039,2020-04-30,NA,4,2020,1054
+"Minnesota",27,"MN","Fillmore",27045,2020-04-30,NA,4,2020,893
+"Minnesota",27,"MN","Freeborn",27047,2020-04-30,NA,4,2020,1565
+"Minnesota",27,"MN","Goodhue",27049,2020-04-30,NA,4,2020,2761
+"Minnesota",27,"MN","Houston",27055,2020-04-30,NA,4,2020,548
+"Minnesota",27,"MN","Mower",27099,2020-04-30,NA,4,2020,1474
+"Minnesota",27,"MN","Olmsted",27109,2020-04-30,NA,4,2020,9852
+"Minnesota",27,"MN","Rice",27131,2020-04-30,NA,4,2020,2933
+"Minnesota",27,"MN","Steele",27147,2020-04-30,NA,4,2020,1871
+"Minnesota",27,"MN","Wabasha",27157,2020-04-30,NA,4,2020,1054
+"Minnesota",27,"MN","Winona",27169,2020-04-30,NA,4,2020,2231
+"Minnesota",27,"MN","Anoka",27003,2020-04-30,NA,4,2020,22568
+"Minnesota",27,"MN","Carver",27019,2020-04-30,NA,4,2020,5534
+"Minnesota",27,"MN","Dakota",27037,2020-04-30,NA,4,2020,26720
+"Minnesota",27,"MN","Hennepin",27053,2020-04-30,NA,4,2020,78651
+"Minnesota",27,"MN","Ramsey",27123,2020-04-30,NA,4,2020,32760
+"Minnesota",27,"MN","Scott",27139,2020-04-30,NA,4,2020,9656
+"Minnesota",27,"MN","Washington",27163,2020-04-30,NA,4,2020,14594
