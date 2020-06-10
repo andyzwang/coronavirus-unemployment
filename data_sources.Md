@@ -51,8 +51,11 @@ No data found
   * Data: Unemployment Claims
 
 ## Illinois
-  * [Illinois Department of Labor](https://www2.illinois.gov/ides/lmi/Pages/Unemployment_Insurance_Program_Data.aspx)
+* [Illinois Department of Labor](https://www2.illinois.gov/ides/lmi/Pages/Unemployment_Insurance_Program_Data.aspx)
   * Format: Excel, Updated: Monthly, Level: County
   * Data: Unemployment Claims
 
-  
+## Indiana
+* [Indiana Department of Labor](http://www.hoosierdata.in.gov/dpage.asp?id=58&view_number=2&menu_level=&panel_number=2)
+  * Format: Excel, Updated: Weekly,  Level: County
+  * Data: Unemployment Claims 
