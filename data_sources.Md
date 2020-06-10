@@ -21,4 +21,21 @@ No data found
   * Format: PDF, Updated: Monthly, Level: County
   * Data: Unemployment Claims
 
-  
+## Colorado
+* [Department of Labor and Employment](https://www.colmigateway.com/gsipub/index.asp?docid=807)
+  * Format: Excel, Updated: Weekly, Level: County
+  * Data: Unemployment Claims, Industry, Unemployment
+
+## Connecticut:
+No data found
+
+## Delaware:
+No data found
+
+## Florida:
+No data found
+
+## Georgia:
+* [Georgia Department of Labor](https://dol.georgia.gov/current-labor-force-data-and-graphs)
+  * Format: PDF, Updated: Monthly, Level: County
+  * Data: Unemployment Claims, Unemployment
