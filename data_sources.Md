@@ -49,3 +49,10 @@ No data found
 * [Idaho Department of Labor](https://lmi.idaho.gov/ui-weekly-claims)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+
+## Illinois
+  * [Illinois Department of Labor](https://www2.illinois.gov/ides/lmi/Pages/Unemployment_Insurance_Program_Data.aspx)
+  * Format: Excel, Updated: Monthly, Level: County
+  * Data: Unemployment Claims
+
+  
