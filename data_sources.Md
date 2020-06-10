@@ -58,4 +58,9 @@ No data found
 ## Indiana
 * [Indiana Department of Labor](http://www.hoosierdata.in.gov/dpage.asp?id=58&view_number=2&menu_level=&panel_number=2)
   * Format: Excel, Updated: Weekly,  Level: County
-  * Data: Unemployment Claims 
+  * Data: Unemployment Claims
+
+## Iowa
+* [data.iowa.gov](https://data.iowa.gov/Economic-Statistics/Iowa-Unemployment-Insurance-Initial-Claims-by-Coun/xeyb-8kfg)
+  * Format: CSV, Updated: Weekly, Level: County
+  * Data: Unemployment Claims
