@@ -44,3 +44,8 @@ No data found
 * [Hawaii Department of Labor](https://labor.hawaii.gov/rs/files/2020/01/IC2020.pdf)
   * Format: PDF, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+
+## Idaho
+* [Idaho Department of Labor](https://lmi.idaho.gov/ui-weekly-claims)
+  * Format: Excel, Updated: Weekly, Level: County
+  * Data: Unemployment Claims
