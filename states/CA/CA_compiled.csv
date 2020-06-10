@@ -1,0 +1,233 @@
+"state","state_fips","state_short","county","county_fips","date","week","month","year","claims"
+"California",6,"CA","Alameda",6001,2020-01-31,NA,1,2020,6430
+"California",6,"CA","Alpine",6003,2020-01-31,NA,1,2020,12
+"California",6,"CA","Amador",6005,2020-01-31,NA,1,2020,224
+"California",6,"CA","Butte",6007,2020-01-31,NA,1,2020,1739
+"California",6,"CA","Calaveras",6009,2020-01-31,NA,1,2020,319
+"California",6,"CA","Colusa",6011,2020-01-31,NA,1,2020,921
+"California",6,"CA","Contra Costa",6013,2020-01-31,NA,1,2020,4759
+"California",6,"CA","Del Norte",6015,2020-01-31,NA,1,2020,207
+"California",6,"CA","El Dorado",6017,2020-01-31,NA,1,2020,1003
+"California",6,"CA","Fresno",6019,2020-01-31,NA,1,2020,13016
+"California",6,"CA","Glenn",6021,2020-01-31,NA,1,2020,375
+"California",6,"CA","Humboldt",6023,2020-01-31,NA,1,2020,1008
+"California",6,"CA","Imperial",6025,2020-01-31,NA,1,2020,2984
+"California",6,"CA","Inyo",6027,2020-01-31,NA,1,2020,96
+"California",6,"CA","Kern",6029,2020-01-31,NA,1,2020,11751
+"California",6,"CA","Kings",6031,2020-01-31,NA,1,2020,2151
+"California",6,"CA","Lake",6033,2020-01-31,NA,1,2020,572
+"California",6,"CA","Lassen",6035,2020-01-31,NA,1,2020,232
+"California",6,"CA","Los Angeles",6037,2020-01-31,NA,1,2020,52544
+"California",6,"CA","Madera",6039,2020-01-31,NA,1,2020,1519
+"California",6,"CA","Marin",6041,2020-01-31,NA,1,2020,699
+"California",6,"CA","Mariposa",6043,2020-01-31,NA,1,2020,180
+"California",6,"CA","Mendocino",6045,2020-01-31,NA,1,2020,666
+"California",6,"CA","Merced",6047,2020-01-31,NA,1,2020,4726
+"California",6,"CA","Modoc",6049,2020-01-31,NA,1,2020,70
+"California",6,"CA","Mono",6051,2020-01-31,NA,1,2020,85
+"California",6,"CA","Monterey",6053,2020-01-31,NA,1,2020,6279
+"California",6,"CA","Napa",6055,2020-01-31,NA,1,2020,680
+"California",6,"CA","Nevada",6057,2020-01-31,NA,1,2020,524
+"California",6,"CA","Orange",6059,2020-01-31,NA,1,2020,10299
+"California",6,"CA","Placer",6061,2020-01-31,NA,1,2020,1664
+"California",6,"CA","Plumas",6063,2020-01-31,NA,1,2020,300
+"California",6,"CA","Riverside",6065,2020-01-31,NA,1,2020,13396
+"California",6,"CA","Sacramento",6067,2020-01-31,NA,1,2020,8852
+"California",6,"CA","San Benito",6069,2020-01-31,NA,1,2020,698
+"California",6,"CA","San Bernardino",6071,2020-01-31,NA,1,2020,12970
+"California",6,"CA","San Diego",6073,2020-01-31,NA,1,2020,13326
+"California",6,"CA","San Francisco",6075,2020-01-31,NA,1,2020,3781
+"California",6,"CA","San Joaquin",6077,2020-01-31,NA,1,2020,7004
+"California",6,"CA","San Luis Obispo",6079,2020-01-31,NA,1,2020,1080
+"California",6,"CA","San Mateo",6081,2020-01-31,NA,1,2020,1987
+"California",6,"CA","Santa Barbara",6083,2020-01-31,NA,1,2020,2522
+"California",6,"CA","Santa Clara",6085,2020-01-31,NA,1,2020,6069
+"California",6,"CA","Santa Cruz",6087,2020-01-31,NA,1,2020,3286
+"California",6,"CA","Shasta",6089,2020-01-31,NA,1,2020,1959
+"California",6,"CA","Sierra",6091,2020-01-31,NA,1,2020,33
+"California",6,"CA","Siskiyou",6093,2020-01-31,NA,1,2020,593
+"California",6,"CA","Solano",6095,2020-01-31,NA,1,2020,2836
+"California",6,"CA","Sonoma",6097,2020-01-31,NA,1,2020,2391
+"California",6,"CA","Stanislaus",6099,2020-01-31,NA,1,2020,5729
+"California",6,"CA","Sutter",6101,2020-01-31,NA,1,2020,1388
+"California",6,"CA","Tehama",6103,2020-01-31,NA,1,2020,578
+"California",6,"CA","Trinity",6105,2020-01-31,NA,1,2020,148
+"California",6,"CA","Tulare",6107,2020-01-31,NA,1,2020,7569
+"California",6,"CA","Tuolumne",6109,2020-01-31,NA,1,2020,411
+"California",6,"CA","Ventura",6111,2020-01-31,NA,1,2020,4550
+"California",6,"CA","Yolo",6113,2020-01-31,NA,1,2020,1554
+"California",6,"CA","Yuba",6115,2020-01-31,NA,1,2020,847
+"California",6,"CA","Alameda",6001,2020-02-29,NA,2,2020,5130
+"California",6,"CA","Alpine",6003,2020-02-29,NA,2,2020,0
+"California",6,"CA","Amador",6005,2020-02-29,NA,2,2020,158
+"California",6,"CA","Butte",6007,2020-02-29,NA,2,2020,1126
+"California",6,"CA","Calaveras",6009,2020-02-29,NA,2,2020,246
+"California",6,"CA","Colusa",6011,2020-02-29,NA,2,2020,335
+"California",6,"CA","Contra Costa",6013,2020-02-29,NA,2,2020,3609
+"California",6,"CA","Del Norte",6015,2020-02-29,NA,2,2020,144
+"California",6,"CA","El Dorado",6017,2020-02-29,NA,2,2020,642
+"California",6,"CA","Fresno",6019,2020-02-29,NA,2,2020,7884
+"California",6,"CA","Glenn",6021,2020-02-29,NA,2,2020,212
+"California",6,"CA","Humboldt",6023,2020-02-29,NA,2,2020,628
+"California",6,"CA","Imperial",6025,2020-02-29,NA,2,2020,1860
+"California",6,"CA","Inyo",6027,2020-02-29,NA,2,2020,67
+"California",6,"CA","Kern",6029,2020-02-29,NA,2,2020,7290
+"California",6,"CA","Kings",6031,2020-02-29,NA,2,2020,1190
+"California",6,"CA","Lake",6033,2020-02-29,NA,2,2020,346
+"California",6,"CA","Lassen",6035,2020-02-29,NA,2,2020,94
+"California",6,"CA","Los Angeles",6037,2020-02-29,NA,2,2020,43272
+"California",6,"CA","Madera",6039,2020-02-29,NA,2,2020,1041
+"California",6,"CA","Marin",6041,2020-02-29,NA,2,2020,614
+"California",6,"CA","Mariposa",6043,2020-02-29,NA,2,2020,79
+"California",6,"CA","Mendocino",6045,2020-02-29,NA,2,2020,400
+"California",6,"CA","Merced",6047,2020-02-29,NA,2,2020,2476
+"California",6,"CA","Modoc",6049,2020-02-29,NA,2,2020,39
+"California",6,"CA","Mono",6051,2020-02-29,NA,2,2020,49
+"California",6,"CA","Monterey",6053,2020-02-29,NA,2,2020,2298
+"California",6,"CA","Napa",6055,2020-02-29,NA,2,2020,481
+"California",6,"CA","Nevada",6057,2020-02-29,NA,2,2020,343
+"California",6,"CA","Orange",6059,2020-02-29,NA,2,2020,7961
+"California",6,"CA","Placer",6061,2020-02-29,NA,2,2020,1111
+"California",6,"CA","Plumas",6063,2020-02-29,NA,2,2020,128
+"California",6,"CA","Riverside",6065,2020-02-29,NA,2,2020,10400
+"California",6,"CA","Sacramento",6067,2020-02-29,NA,2,2020,6233
+"California",6,"CA","San Benito",6069,2020-02-29,NA,2,2020,461
+"California",6,"CA","San Bernardino",6071,2020-02-29,NA,2,2020,9580
+"California",6,"CA","San Diego",6073,2020-02-29,NA,2,2020,10347
+"California",6,"CA","San Francisco",6075,2020-02-29,NA,2,2020,3303
+"California",6,"CA","San Joaquin",6077,2020-02-29,NA,2,2020,4504
+"California",6,"CA","San Luis Obispo",6079,2020-02-29,NA,2,2020,736
+"California",6,"CA","San Mateo",6081,2020-02-29,NA,2,2020,1751
+"California",6,"CA","Santa Barbara",6083,2020-02-29,NA,2,2020,1469
+"California",6,"CA","Santa Clara",6085,2020-02-29,NA,2,2020,4909
+"California",6,"CA","Santa Cruz",6087,2020-02-29,NA,2,2020,1348
+"California",6,"CA","Shasta",6089,2020-02-29,NA,2,2020,1111
+"California",6,"CA","Sierra",6091,2020-02-29,NA,2,2020,19
+"California",6,"CA","Siskiyou",6093,2020-02-29,NA,2,2020,261
+"California",6,"CA","Solano",6095,2020-02-29,NA,2,2020,2013
+"California",6,"CA","Sonoma",6097,2020-02-29,NA,2,2020,1600
+"California",6,"CA","Stanislaus",6099,2020-02-29,NA,2,2020,3909
+"California",6,"CA","Sutter",6101,2020-02-29,NA,2,2020,1003
+"California",6,"CA","Tehama",6103,2020-02-29,NA,2,2020,361
+"California",6,"CA","Trinity",6105,2020-02-29,NA,2,2020,69
+"California",6,"CA","Tulare",6107,2020-02-29,NA,2,2020,4032
+"California",6,"CA","Tuolumne",6109,2020-02-29,NA,2,2020,260
+"California",6,"CA","Ventura",6111,2020-02-29,NA,2,2020,3315
+"California",6,"CA","Yolo",6113,2020-02-29,NA,2,2020,899
+"California",6,"CA","Yuba",6115,2020-02-29,NA,2,2020,523
+"California",6,"CA","Alameda",6001,2020-03-31,NA,3,2020,70977
+"California",6,"CA","Alpine",6003,2020-03-31,NA,3,2020,41
+"California",6,"CA","Amador",6005,2020-03-31,NA,3,2020,1324
+"California",6,"CA","Butte",6007,2020-03-31,NA,3,2020,8312
+"California",6,"CA","Calaveras",6009,2020-03-31,NA,3,2020,1660
+"California",6,"CA","Colusa",6011,2020-03-31,NA,3,2020,783
+"California",6,"CA","Contra Costa",6013,2020-03-31,NA,3,2020,49349
+"California",6,"CA","Del Norte",6015,2020-03-31,NA,3,2020,606
+"California",6,"CA","El Dorado",6017,2020-03-31,NA,3,2020,7907
+"California",6,"CA","Fresno",6019,2020-03-31,NA,3,2020,33709
+"California",6,"CA","Glenn",6021,2020-03-31,NA,3,2020,821
+"California",6,"CA","Humboldt",6023,2020-03-31,NA,3,2020,5865
+"California",6,"CA","Imperial",6025,2020-03-31,NA,3,2020,6491
+"California",6,"CA","Inyo",6027,2020-03-31,NA,3,2020,734
+"California",6,"CA","Kern",6029,2020-03-31,NA,3,2020,27457
+"California",6,"CA","Kings",6031,2020-03-31,NA,3,2020,3982
+"California",6,"CA","Lake",6033,2020-03-31,NA,3,2020,2445
+"California",6,"CA","Lassen",6035,2020-03-31,NA,3,2020,451
+"California",6,"CA","Los Angeles",6037,2020-03-31,NA,3,2020,460370
+"California",6,"CA","Madera",6039,2020-03-31,NA,3,2020,4659
+"California",6,"CA","Marin",6041,2020-03-31,NA,3,2020,8882
+"California",6,"CA","Mariposa",6043,2020-03-31,NA,3,2020,836
+"California",6,"CA","Mendocino",6045,2020-03-31,NA,3,2020,3296
+"California",6,"CA","Merced",6047,2020-03-31,NA,3,2020,8981
+"California",6,"CA","Modoc",6049,2020-03-31,NA,3,2020,162
+"California",6,"CA","Mono",6051,2020-03-31,NA,3,2020,1254
+"California",6,"CA","Monterey",6053,2020-03-31,NA,3,2020,17518
+"California",6,"CA","Napa",6055,2020-03-31,NA,3,2020,7996
+"California",6,"CA","Nevada",6057,2020-03-31,NA,3,2020,4596
+"California",6,"CA","Orange",6059,2020-03-31,NA,3,2020,131272
+"California",6,"CA","Placer",6061,2020-03-31,NA,3,2020,15786
+"California",6,"CA","Plumas",6063,2020-03-31,NA,3,2020,523
+"California",6,"CA","Riverside",6065,2020-03-31,NA,3,2020,102692
+"California",6,"CA","Sacramento",6067,2020-03-31,NA,3,2020,64394
+"California",6,"CA","San Benito",6069,2020-03-31,NA,3,2020,3603
+"California",6,"CA","San Bernardino",6071,2020-03-31,NA,3,2020,77093
+"California",6,"CA","San Diego",6073,2020-03-31,NA,3,2020,153297
+"California",6,"CA","San Francisco",6075,2020-03-31,NA,3,2020,44306
+"California",6,"CA","San Joaquin",6077,2020-03-31,NA,3,2020,31190
+"California",6,"CA","San Luis Obispo",6079,2020-03-31,NA,3,2020,12862
+"California",6,"CA","San Mateo",6081,2020-03-31,NA,3,2020,29665
+"California",6,"CA","Santa Barbara",6083,2020-03-31,NA,3,2020,17246
+"California",6,"CA","Santa Clara",6085,2020-03-31,NA,3,2020,75135
+"California",6,"CA","Santa Cruz",6087,2020-03-31,NA,3,2020,13556
+"California",6,"CA","Shasta",6089,2020-03-31,NA,3,2020,7489
+"California",6,"CA","Sierra",6091,2020-03-31,NA,3,2020,72
+"California",6,"CA","Siskiyou",6093,2020-03-31,NA,3,2020,1298
+"California",6,"CA","Solano",6095,2020-03-31,NA,3,2020,19282
+"California",6,"CA","Sonoma",6097,2020-03-31,NA,3,2020,24519
+"California",6,"CA","Stanislaus",6099,2020-03-31,NA,3,2020,22017
+"California",6,"CA","Sutter",6101,2020-03-31,NA,3,2020,3567
+"California",6,"CA","Tehama",6103,2020-03-31,NA,3,2020,1584
+"California",6,"CA","Trinity",6105,2020-03-31,NA,3,2020,232
+"California",6,"CA","Tulare",6107,2020-03-31,NA,3,2020,12907
+"California",6,"CA","Tuolumne",6109,2020-03-31,NA,3,2020,2143
+"California",6,"CA","Ventura",6111,2020-03-31,NA,3,2020,35851
+"California",6,"CA","Yolo",6113,2020-03-31,NA,3,2020,6472
+"California",6,"CA","Yuba",6115,2020-03-31,NA,3,2020,2621
+"California",6,"CA","Alameda",6001,2020-04-30,NA,4,2020,99984
+"California",6,"CA","Alpine",6003,2020-04-30,NA,4,2020,58
+"California",6,"CA","Amador",6005,2020-04-30,NA,4,2020,1809
+"California",6,"CA","Butte",6007,2020-04-30,NA,4,2020,10118
+"California",6,"CA","Calaveras",6009,2020-04-30,NA,4,2020,2152
+"California",6,"CA","Colusa",6011,2020-04-30,NA,4,2020,820
+"California",6,"CA","Contra Costa",6013,2020-04-30,NA,4,2020,66518
+"California",6,"CA","Del Norte",6015,2020-04-30,NA,4,2020,934
+"California",6,"CA","El Dorado",6017,2020-04-30,NA,4,2020,9610
+"California",6,"CA","Fresno",6019,2020-04-30,NA,4,2020,45284
+"California",6,"CA","Glenn",6021,2020-04-30,NA,4,2020,1118
+"California",6,"CA","Humboldt",6023,2020-04-30,NA,4,2020,6211
+"California",6,"CA","Imperial",6025,2020-04-30,NA,4,2020,12993
+"California",6,"CA","Inyo",6027,2020-04-30,NA,4,2020,810
+"California",6,"CA","Kern",6029,2020-04-30,NA,4,2020,40746
+"California",6,"CA","Kings",6031,2020-04-30,NA,4,2020,5588
+"California",6,"CA","Lake",6033,2020-04-30,NA,4,2020,3084
+"California",6,"CA","Lassen",6035,2020-04-30,NA,4,2020,631
+"California",6,"CA","Los Angeles",6037,2020-04-30,NA,4,2020,685742
+"California",6,"CA","Madera",6039,2020-04-30,NA,4,2020,5786
+"California",6,"CA","Marin",6041,2020-04-30,NA,4,2020,13822
+"California",6,"CA","Mariposa",6043,2020-04-30,NA,4,2020,747
+"California",6,"CA","Mendocino",6045,2020-04-30,NA,4,2020,3994
+"California",6,"CA","Merced",6047,2020-04-30,NA,4,2020,11773
+"California",6,"CA","Modoc",6049,2020-04-30,NA,4,2020,180
+"California",6,"CA","Mono",6051,2020-04-30,NA,4,2020,1225
+"California",6,"CA","Monterey",6053,2020-04-30,NA,4,2020,21296
+"California",6,"CA","Napa",6055,2020-04-30,NA,4,2020,7768
+"California",6,"CA","Nevada",6057,2020-04-30,NA,4,2020,5387
+"California",6,"CA","Orange",6059,2020-04-30,NA,4,2020,224970
+"California",6,"CA","Placer",6061,2020-04-30,NA,4,2020,20091
+"California",6,"CA","Plumas",6063,2020-04-30,NA,4,2020,691
+"California",6,"CA","Riverside",6065,2020-04-30,NA,4,2020,149099
+"California",6,"CA","Sacramento",6067,2020-04-30,NA,4,2020,85294
+"California",6,"CA","San Benito",6069,2020-04-30,NA,4,2020,3915
+"California",6,"CA","San Bernardino",6071,2020-04-30,NA,4,2020,117206
+"California",6,"CA","San Diego",6073,2020-04-30,NA,4,2020,204188
+"California",6,"CA","San Francisco",6075,2020-04-30,NA,4,2020,57537
+"California",6,"CA","San Joaquin",6077,2020-04-30,NA,4,2020,43266
+"California",6,"CA","San Luis Obispo",6079,2020-04-30,NA,4,2020,14946
+"California",6,"CA","San Mateo",6081,2020-04-30,NA,4,2020,41672
+"California",6,"CA","Santa Barbara",6083,2020-04-30,NA,4,2020,22262
+"California",6,"CA","Santa Clara",6085,2020-04-30,NA,4,2020,100566
+"California",6,"CA","Santa Cruz",6087,2020-04-30,NA,4,2020,15599
+"California",6,"CA","Shasta",6089,2020-04-30,NA,4,2020,8612
+"California",6,"CA","Sierra",6091,2020-04-30,NA,4,2020,99
+"California",6,"CA","Siskiyou",6093,2020-04-30,NA,4,2020,1582
+"California",6,"CA","Solano",6095,2020-04-30,NA,4,2020,24325
+"California",6,"CA","Sonoma",6097,2020-04-30,NA,4,2020,29621
+"California",6,"CA","Stanislaus",6099,2020-04-30,NA,4,2020,29776
+"California",6,"CA","Sutter",6101,2020-04-30,NA,4,2020,5107
+"California",6,"CA","Tehama",6103,2020-04-30,NA,4,2020,2130
+"California",6,"CA","Trinity",6105,2020-04-30,NA,4,2020,375
+"California",6,"CA","Tulare",6107,2020-04-30,NA,4,2020,18292
+"California",6,"CA","Tuolumne",6109,2020-04-30,NA,4,2020,3016
+"California",6,"CA","Ventura",6111,2020-04-30,NA,4,2020,48656
+"California",6,"CA","Yolo",6113,2020-04-30,NA,4,2020,8297
+"California",6,"CA","Yuba",6115,2020-04-30,NA,4,2020,3565
