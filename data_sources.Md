@@ -115,6 +115,11 @@ No data
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries
 
+## Nevada
+* [Department of Employment, Training, and Rehabilitation](http://nvlmi.mt.gov/Portals/197/UI%20Monthly%20Claims%20Press%20Release/Dashboards/UICountyTrends.html)
+  * Format: Web Tables, Updated: Weekly, Level: County
+  * Data: Unemployment Claims
+
 ## New Hampshire
 No Data
 
@@ -161,5 +166,5 @@ No data
 
 ## Rhode Island
 * [RI Department of Labor and Training](http://www.dlt.ri.gov/lmi/uiadmin/initial.htm)
-  * Format: Excel, Updated: weekly, Level: State 
+  * Format: Excel, Updated: weekly, Level: State
   * Data: Unemployment Claims, Industries, Demographics
