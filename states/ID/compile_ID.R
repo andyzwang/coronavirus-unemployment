@@ -19,7 +19,7 @@ output <- raw %>%
 
   # select relevant
 
-  select(-"Grand Total", -Unclassified) %>%
+  select(-"Grand Total") %>%
 
   # pivot long
 
