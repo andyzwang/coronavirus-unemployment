@@ -41,7 +41,7 @@ output <- raw %>%
   
   # only recent entries
   
-  filter(year == 2020) %>%
+  filter(year >= 2019) %>%
   
   # Join with FIPS codes
 
@@ -59,3 +59,4 @@ output <- raw %>%
 
 # output
 write.csv(output, file = "MO_compiled.csv", row.names = FALSE)
+
