@@ -125,3 +125,8 @@ No Data
 * [New Mexico Department of Workforce Solutions - *April*](https://www.jobs.state.nm.us/admin/gsipub/htmlarea/uploads/lmr_Apr_20.pdf)
   * Format: PDF Document, Updated: Monthly, Level: County
   * Data: Unemployment Claims
+
+## New York
+* [New York State Department of Labor](https://labor.ny.gov/stats/weekly-ui-claims-report.shtm)
+  * Format: PDF tables, Updated: Weekly, Level: County
+  * Data: Unemployment Claims
