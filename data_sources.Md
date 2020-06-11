@@ -174,4 +174,22 @@ No data
   * Format: PDF Map, Updated: Weekly, Level: County
   * Data: Unemployment Claims
 
-## 
+## South Dakota
+
+## Tennessee
+
+## Texas
+
+## Utah
+
+## Vermont
+
+## Virginia
+
+## Washington
+
+## West Virginia
+
+## Wisconsin
+
+## Wyoming
