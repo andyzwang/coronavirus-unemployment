@@ -23,6 +23,7 @@
 "Maryland",24,"MD","Washington",24043,2020-03-07,10,3,2020,42
 "Maryland",24,"MD","Wicomico",24045,2020-03-07,10,3,2020,36
 "Maryland",24,"MD","Worcester",24047,2020-03-07,10,3,2020,33
+"Maryland",24,"MD","Non-Maryland",NA,2020-03-07,10,3,2020,208
 "Maryland",24,"MD","Allegany",24001,2020-03-14,11,3,2020,62
 "Maryland",24,"MD","Anne Arundel",24003,2020-03-14,11,3,2020,281
 "Maryland",24,"MD","Baltimore City",24510,2020-03-14,11,3,2020,746
@@ -47,6 +48,7 @@
 "Maryland",24,"MD","Washington",24043,2020-03-14,11,3,2020,95
 "Maryland",24,"MD","Wicomico",24045,2020-03-14,11,3,2020,78
 "Maryland",24,"MD","Worcester",24047,2020-03-14,11,3,2020,30
+"Maryland",24,"MD","Non-Maryland",NA,2020-03-14,11,3,2020,449
 "Maryland",24,"MD","Allegany",24001,2020-03-21,12,3,2020,848
 "Maryland",24,"MD","Anne Arundel",24003,2020-03-21,12,3,2020,4517
 "Maryland",24,"MD","Baltimore City",24510,2020-03-21,12,3,2020,5392
@@ -71,6 +73,7 @@
 "Maryland",24,"MD","Washington",24043,2020-03-21,12,3,2020,1238
 "Maryland",24,"MD","Wicomico",24045,2020-03-21,12,3,2020,922
 "Maryland",24,"MD","Worcester",24047,2020-03-21,12,3,2020,971
+"Maryland",24,"MD","Non-Maryland",NA,2020-03-21,12,3,2020,2779
 "Maryland",24,"MD","Allegany",24001,2020-03-28,13,3,2020,1196
 "Maryland",24,"MD","Anne Arundel",24003,2020-03-28,13,3,2020,8983
 "Maryland",24,"MD","Baltimore City",24510,2020-03-28,13,3,2020,8685
@@ -95,6 +98,8 @@
 "Maryland",24,"MD","Washington",24043,2020-03-28,13,3,2020,2557
 "Maryland",24,"MD","Wicomico",24045,2020-03-28,13,3,2020,1896
 "Maryland",24,"MD","Worcester",24047,2020-03-28,13,3,2020,1415
+"Maryland",24,"MD","Non-Maryland",NA,2020-03-28,13,3,2020,5323
+"Maryland",24,"MD","Unknown",NA,2020-03-28,13,3,2020,61
 "Maryland",24,"MD","Allegany",24001,2020-04-04,14,4,2020,1057
 "Maryland",24,"MD","Anne Arundel",24003,2020-04-04,14,4,2020,10573
 "Maryland",24,"MD","Baltimore City",24510,2020-04-04,14,4,2020,10691
@@ -119,6 +124,8 @@
 "Maryland",24,"MD","Washington",24043,2020-04-04,14,4,2020,2394
 "Maryland",24,"MD","Wicomico",24045,2020-04-04,14,4,2020,1972
 "Maryland",24,"MD","Worcester",24047,2020-04-04,14,4,2020,1355
+"Maryland",24,"MD","Non-Maryland",NA,2020-04-04,14,4,2020,6524
+"Maryland",24,"MD","Unknown",NA,2020-04-04,14,4,2020,97
 "Maryland",24,"MD","Allegany",24001,2020-04-11,15,4,2020,699
 "Maryland",24,"MD","Anne Arundel",24003,2020-04-11,15,4,2020,5733
 "Maryland",24,"MD","Baltimore City",24510,2020-04-11,15,4,2020,6150
@@ -143,6 +150,8 @@
 "Maryland",24,"MD","Washington",24043,2020-04-11,15,4,2020,1402
 "Maryland",24,"MD","Wicomico",24045,2020-04-11,15,4,2020,1048
 "Maryland",24,"MD","Worcester",24047,2020-04-11,15,4,2020,664
+"Maryland",24,"MD","Non-Maryland",NA,2020-04-11,15,4,2020,4785
+"Maryland",24,"MD","Unknown",NA,2020-04-11,15,4,2020,50
 "Maryland",24,"MD","Allegany",24001,2020-04-18,16,4,2020,551
 "Maryland",24,"MD","Anne Arundel",24003,2020-04-18,16,4,2020,4441
 "Maryland",24,"MD","Baltimore City",24510,2020-04-18,16,4,2020,4894
@@ -167,6 +176,8 @@
 "Maryland",24,"MD","Washington",24043,2020-04-18,16,4,2020,1017
 "Maryland",24,"MD","Wicomico",24045,2020-04-18,16,4,2020,816
 "Maryland",24,"MD","Worcester",24047,2020-04-18,16,4,2020,467
+"Maryland",24,"MD","Non-Maryland",NA,2020-04-18,16,4,2020,3384
+"Maryland",24,"MD","Unknown",NA,2020-04-18,16,4,2020,43
 "Maryland",24,"MD","Allegany",24001,2020-04-25,17,4,2020,394
 "Maryland",24,"MD","Anne Arundel",24003,2020-04-25,17,4,2020,3269
 "Maryland",24,"MD","Baltimore City",24510,2020-04-25,17,4,2020,3778
@@ -191,6 +202,8 @@
 "Maryland",24,"MD","Washington",24043,2020-04-25,17,4,2020,738
 "Maryland",24,"MD","Wicomico",24045,2020-04-25,17,4,2020,636
 "Maryland",24,"MD","Worcester",24047,2020-04-25,17,4,2020,380
+"Maryland",24,"MD","Non-Maryland",NA,2020-04-25,17,4,2020,2549
+"Maryland",24,"MD","Unknown",NA,2020-04-25,17,4,2020,27
 "Maryland",24,"MD","Allegany",24001,2020-05-02,18,5,2020,757
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-02,18,5,2020,9840
 "Maryland",24,"MD","Baltimore City",24510,2020-05-02,18,5,2020,9447
@@ -215,6 +228,8 @@
 "Maryland",24,"MD","Washington",24043,2020-05-02,18,5,2020,1968
 "Maryland",24,"MD","Wicomico",24045,2020-05-02,18,5,2020,1521
 "Maryland",24,"MD","Worcester",24047,2020-05-02,18,5,2020,1368
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-02,18,5,2020,6522
+"Maryland",24,"MD","Unknown",NA,2020-05-02,18,5,2020,13
 "Maryland",24,"MD","Allegany",24001,2020-05-09,19,5,2020,538
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-09,19,5,2020,5454
 "Maryland",24,"MD","Baltimore City",24510,2020-05-09,19,5,2020,6538
@@ -239,6 +254,8 @@
 "Maryland",24,"MD","Washington",24043,2020-05-09,19,5,2020,1286
 "Maryland",24,"MD","Wicomico",24045,2020-05-09,19,5,2020,1063
 "Maryland",24,"MD","Worcester",24047,2020-05-09,19,5,2020,713
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-09,19,5,2020,4843
+"Maryland",24,"MD","Unknown",NA,2020-05-09,19,5,2020,4
 "Maryland",24,"MD","Allegany",24001,2020-05-16,20,5,2020,412
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-16,20,5,2020,4042
 "Maryland",24,"MD","Baltimore City",24510,2020-05-16,20,5,2020,5675
@@ -263,6 +280,8 @@
 "Maryland",24,"MD","Washington",24043,2020-05-16,20,5,2020,1060
 "Maryland",24,"MD","Wicomico",24045,2020-05-16,20,5,2020,750
 "Maryland",24,"MD","Worcester",24047,2020-05-16,20,5,2020,578
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-16,20,5,2020,4276
+"Maryland",24,"MD","Unknown",NA,2020-05-16,20,5,2020,5
 "Maryland",24,"MD","Allegany",24001,2020-05-23,21,5,2020,376
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-23,21,5,2020,3779
 "Maryland",24,"MD","Baltimore City",24510,2020-05-23,21,5,2020,5745
@@ -287,6 +306,8 @@
 "Maryland",24,"MD","Washington",24043,2020-05-23,21,5,2020,956
 "Maryland",24,"MD","Wicomico",24045,2020-05-23,21,5,2020,675
 "Maryland",24,"MD","Worcester",24047,2020-05-23,21,5,2020,430
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-23,21,5,2020,3877
+"Maryland",24,"MD","Unknown",NA,2020-05-23,21,5,2020,7
 "Maryland",24,"MD","Allegany",24001,2020-05-30,22,5,2020,293
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-30,22,5,2020,3270
 "Maryland",24,"MD","Baltimore City",24510,2020-05-30,22,5,2020,5345
@@ -311,3 +332,7 @@
 "Maryland",24,"MD","Washington",24043,2020-05-30,22,5,2020,746
 "Maryland",24,"MD","Wicomico",24045,2020-05-30,22,5,2020,658
 "Maryland",24,"MD","Worcester",24047,2020-05-30,22,5,2020,366
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-30,22,5,2020,3749
+"Maryland",24,"MD","Unknown",NA,2020-05-30,22,5,2020,6
+"Maryland",24,"MD","Non-Maryland",NA,2020-06-06,23,6,2020,7307
+"Maryland",24,"MD","Unknown",NA,2020-06-06,23,6,2020,32
