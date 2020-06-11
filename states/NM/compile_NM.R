@@ -8,12 +8,11 @@ library(stringr)
 library(tabulizer)
 
 
-raw <- read_csv("NM_gathered.csv") %>%
-  remove_empty("cols") %>%
-  remove_empty("rows")
+raw <- read_csv("NM_gathered.csv") 
 
 
 output <- raw %>%
+  pivot_longer(cols = !starts_with("county"), names_to = "date", values_to = "claims") %>%
   mutate(
 
     # info
