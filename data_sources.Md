@@ -96,3 +96,10 @@ No Data
 * [Minnesota Empolyment and Economic Development](https://apps.deed.state.mn.us/lmi/ui/Results.aspx?area=R11000&date=202001)
   * Format: Web Table, Updated: Monthly, Level: County
   * Data: Unemployment Claims, Industries, Demographics
+
+## Mississippi
+* [Mississippi Department of Employment Security](https://mdes.ms.gov/media/23357/labormarketdata.pdf)
+  * Format: PDF, Updated: Monthly, Level: County
+  * Data: Unemployment Claims, Unemployment
+
+  
