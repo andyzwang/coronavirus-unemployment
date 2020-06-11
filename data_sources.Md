@@ -143,3 +143,11 @@ No data
 * [Ohio Department of Job and Family Services](https://ohiolmi.com/home/UIclaims)
   * Format: PDF, Updated: Weekly, Daily, Level: County
   * Data: Unemployment Claims, Demographics
+
+## Oklahoma
+No data
+
+## Oregon
+* [State of Oregon Employment Department](https://www.qualityinfo.org/covid-19)
+  * Format: Excel, Updated: Weekly, Level: County
+  * Data: Unemployment Claims, Industries, Demographics
