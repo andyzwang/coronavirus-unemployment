@@ -138,6 +138,7 @@ No data
 * [North Dakota Labor Market Information](https://www.ndlmi.com/gsipub/index.asp?docid=687)
   * Format: Tableau, Updated: Weekly, Daily, Level: County
   * Data: Unemployment Claims, Industries
+  * *Note*: Good Visualizations
 
 ## Ohio
 * [Ohio Department of Job and Family Services](https://ohiolmi.com/home/UIclaims)
@@ -151,3 +152,4 @@ No data
 * [State of Oregon Employment Department](https://www.qualityinfo.org/covid-19)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries, Demographics
+  * *Note*: Good Visualizations
