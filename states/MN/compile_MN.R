@@ -8,11 +8,11 @@ library(stringr)
 library(tabulizer)
 
 
-raw <- read_csv("MN_gathered.csv") %>%
-  remove_empty("cols")
+raw <- read_csv("MN_gathered.csv") 
 
 
 output <- raw %>%
+  pivot_longer(cols = !starts_with("county"), names_to = "date", values_to = "claims") %>%
   mutate(
 
     # info
@@ -22,7 +22,7 @@ output <- raw %>%
 
     # dates
 
-    date = ceiling_date(mdy(month), "month") - 1,
+    date = ceiling_date(mdy(date), "month") - 1,
     month = month(date),
     week = NA,
     year = year(date),
