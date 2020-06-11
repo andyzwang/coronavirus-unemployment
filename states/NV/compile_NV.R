@@ -25,9 +25,9 @@ output <- raw %>%
     year = year(date),
     
     # set general info
-    state = "Kansas",
-    state_fips = 20,
-    state_short = "KS",
+    state = "Nevada",
+    state_fips = 32,
+    state_short = "NV",
     
     polyname = case_when(
       TRUE ~ paste("nevada,", tolower(county), sep = "")
