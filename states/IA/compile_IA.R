@@ -36,8 +36,9 @@ output <- raw %>%
     state, state_fips, state_short, county, county_fips,
     date, week, month, year, claims
   ) %>%
-  filter(year >= 2020) %>%
-  arrange(week)
+  arrange(week) %>%
+  filter(year >= 2019)
 
 # output
 write.csv(output, file = "IA_compiled.csv", row.names = FALSE)
+
