@@ -7,21 +7,38 @@ library(maps)
 library(stringr)
 
 
-raw <- read_csv("NV_gathered.csv") %>%
-  remove_empty("cols")
+raw <- read_csv("NV_gathered.csv") 
+
+# import FIPS codes
+
+data(county.fips)
 
 output <- raw %>%
-  rename(
-    state = state_name,
-    state_short = state_abbrev,
-    county = county_name,
-    claims = initial_claims
-  ) %>%
+  pivot_longer(cols = !starts_with("county"), names_to = "date", values_to = "claims") %>%
   mutate(
+    
+    # date info
+    
     date = mdy(date),
-    year = year(date),
     week = week(date),
-    month = month(date)
+    month = month(date),
+    year = year(date),
+    
+    # set general info
+    state = "Kansas",
+    state_fips = 20,
+    state_short = "KS",
+    
+    polyname = case_when(
+      TRUE ~ paste("nevada,", tolower(county), sep = "")
+    )
+  ) %>%
+  
+  # Join with FIPS
+  
+  left_join(county.fips, by = "polyname") %>%
+  rename(
+    county_fips = fips
   ) %>%
   select(
     state, state_fips, state_short, county, county_fips,
