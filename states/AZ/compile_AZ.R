@@ -12,8 +12,6 @@ library(readxl)
 
 raw <- read_excel("AZ_data.xlsx", range = "A4:S21")
 
-head(raw)
-
 # import FIPS codes
 
 data(county.fips)
@@ -22,12 +20,12 @@ output <- raw %>%
 
   # remove unnecessary columns
 
-  select(-"Not Coded", -"Arizona", -"Unknown") %>%
+  select(-"Arizona") %>%
 
   # pivot long
 
   pivot_longer(
-    cols = ends_with("County"), names_to = "county",
+    cols = !starts_with("date"), names_to = "county",
     values_to = "claims"
   ) %>%
   mutate(
@@ -65,3 +63,4 @@ output <- raw %>%
 
 # output
 write.csv(output, file = "AZ_compiled.csv", row.names = FALSE)
+
