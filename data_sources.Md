@@ -138,3 +138,8 @@ No data
 * [North Dakota Labor Market Information](https://www.ndlmi.com/gsipub/index.asp?docid=687)
   * Format: Tableau, Updated: Weekly, Daily, Level: County
   * Data: Unemployment Claims, Industries
+
+## Ohio
+* [Ohio Department of Job and Family Services](https://ohiolmi.com/home/UIclaims)
+  * Format: PDF, Updated: Weekly, Daily, Level: County
+  * Data: Unemployment Claims, Demographics
