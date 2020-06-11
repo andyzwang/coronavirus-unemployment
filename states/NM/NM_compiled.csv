@@ -1,0 +1,34 @@
+"state","state_fips","state_short","county","county_fips","date","week","month","year","claims"
+"New Mexico",35,"NM","San Juan",35045,2020-04-30,NA,4,2020,6838
+"New Mexico",35,"NM","McKinley",35031,2020-04-30,NA,4,2020,2465
+"New Mexico",35,"NM","Cibola",35006,2020-04-30,NA,4,2020,856
+"New Mexico",35,"NM","Catron",35003,2020-04-30,NA,4,2020,68
+"New Mexico",35,"NM","Grant",35017,2020-04-30,NA,4,2020,1419
+"New Mexico",35,"NM","Hidalgo",35023,2020-04-30,NA,4,2020,74
+"New Mexico",35,"NM","Luna",35029,2020-04-30,NA,4,2020,1680
+"New Mexico",35,"NM","Rio Arriba",35039,2020-04-30,NA,4,2020,2039
+"New Mexico",35,"NM","Los Alamos",35028,2020-04-30,NA,4,2020,333
+"New Mexico",35,"NM","Sandoval",35043,2020-04-30,NA,4,2020,9422
+"New Mexico",35,"NM","Bernalillo",35001,2020-04-30,NA,4,2020,47582
+"New Mexico",35,"NM","Valencia",35061,2020-04-30,NA,4,2020,3368
+"New Mexico",35,"NM","Socorro",35053,2020-04-30,NA,4,2020,498
+"New Mexico",35,"NM","Sierra",35051,2020-04-30,NA,4,2020,496
+"New Mexico",35,"NM","Dona Ana",35013,2020-04-30,NA,4,2020,10890
+"New Mexico",35,"NM","Taos",35055,2020-04-30,NA,4,2020,3183
+"New Mexico",35,"NM","Santa Fe",35049,2020-04-30,NA,4,2020,11427
+"New Mexico",35,"NM","Torrance",35057,2020-04-30,NA,4,2020,515
+"New Mexico",35,"NM","Lincoln",35027,2020-04-30,NA,4,2020,1361
+"New Mexico",35,"NM","Otero",35035,2020-04-30,NA,4,2020,2854
+"New Mexico",35,"NM","Colfax",35007,2020-04-30,NA,4,2020,488
+"New Mexico",35,"NM","Mora",35033,2020-04-30,NA,4,2020,179
+"New Mexico",35,"NM","San Miguel",35047,2020-04-30,NA,4,2020,1162
+"New Mexico",35,"NM","Guadalupe",35019,2020-04-30,NA,4,2020,111
+"New Mexico",35,"NM","De Baca",35011,2020-04-30,NA,4,2020,23
+"New Mexico",35,"NM","Chaves",35005,2020-04-30,NA,4,2020,2981
+"New Mexico",35,"NM","Eddy",35015,2020-04-30,NA,4,2020,2515
+"New Mexico",35,"NM","Union",35059,2020-04-30,NA,4,2020,71
+"New Mexico",35,"NM","Harding",35021,2020-04-30,NA,4,2020,NA
+"New Mexico",35,"NM","Quay",35037,2020-04-30,NA,4,2020,208
+"New Mexico",35,"NM","Curry",35009,2020-04-30,NA,4,2020,1447
+"New Mexico",35,"NM","Roosevelt",35041,2020-04-30,NA,4,2020,517
+"New Mexico",35,"NM","Lea",35025,2020-04-30,NA,4,2020,3537

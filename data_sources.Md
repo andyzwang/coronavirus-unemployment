@@ -106,5 +106,22 @@ No Data
 * [Data.Gov](https://catalog.data.gov/dataset/missouri-weekly-report-of-initial-unemployment-claims-2c10b)
     * Format: CSV, Updated: Weekly, Level: County
     * Data: Unemployment Claims
-    
+
 ## Montana
+No data
+
+## Nebraska
+* [NEWorks](https://neworks.nebraska.gov/gsipub/index.asp?docid=710)
+  * Format: Excel, Updated: Weekly, Level: County
+  * Data: Unemployment Claims, Industries
+
+## New Hampshire
+No Data
+
+## New Jersey
+No Data
+
+## New Mexico
+* [New Mexico Department of Workforce Solutions - *April*](https://www.jobs.state.nm.us/admin/gsipub/htmlarea/uploads/lmr_Apr_20.pdf)
+  * Format: PDF Document, Updated: Monthly, Level: County
+  * Data: Unemployment Claims
