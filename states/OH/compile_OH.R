@@ -5,10 +5,8 @@ library(janitor)
 library(lubridate)
 library(maps)
 library(stringr)
-library(tabulizer)
 
 # processing
-# NOTE: columns manually set
 
 raw <- read_csv("OH_gathered.csv") %>%
   remove_empty("rows")
