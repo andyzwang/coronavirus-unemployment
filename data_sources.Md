@@ -158,3 +158,8 @@ No data
 * [Center for Workforce Information and Analysis](https://www.workstats.dli.pa.gov/Products/UCActivity/Pages/default.aspx)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries
+
+## Rhode Island
+* [RI Department of Labor and Training](http://www.dlt.ri.gov/lmi/uiadmin/initial.htm)
+  * Format: Excel, Updated: weekly, Level: State 
+  * Data: Unemployment Claims, Industries, Demographics
