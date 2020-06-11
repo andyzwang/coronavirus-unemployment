@@ -44,7 +44,6 @@ output <- raw %>%
       TRUE ~ paste("alabama,", tolower(county), sep = "")
     )
   ) %>%
-  filter(county != "Out of State") %>%
 
   # Join with FIPS
 
