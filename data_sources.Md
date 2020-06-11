@@ -153,3 +153,8 @@ No data
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries, Demographics
   * *Note*: Good Visualizations
+
+## Pennslyvania
+* [Center for Workforce Information and Analysis](https://www.workstats.dli.pa.gov/Products/UCActivity/Pages/default.aspx)
+  * Format: Excel, Updated: Weekly, Level: County
+  * Data: Unemployment Claims, Industries
