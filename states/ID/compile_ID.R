@@ -51,7 +51,7 @@ output <- raw %>%
     state, state_fips, state_short, county, county_fips,
     date, week, month, year, claims
   ) %>%
-  filter(year == 2020) %>%
+  filter(year >= 2019) %>%
   arrange(week)
 
 
