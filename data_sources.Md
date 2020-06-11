@@ -131,4 +131,10 @@ No Data
   * Format: PDF tables, Updated: Weekly, Level: County
   * Data: Unemployment Claims
 
-##
+## North Carolina
+No data
+
+## North Dakota
+* [North Dakota Labor Market Information](https://www.ndlmi.com/gsipub/index.asp?docid=687)
+  * Format: Tableau, Updated: Weekly, Daily, Level: County
+  * Data: Unemployment Claims, Industries
