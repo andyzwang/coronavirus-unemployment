@@ -14,6 +14,7 @@ raw <- read_csv("KS_gathered.csv")
 data(county.fips)
 
 output <- raw %>%
+  pivot_longer(cols = !starts_with("county"), names_to = "date", values_to = "claims") %>%
   mutate(
     
     # date info
