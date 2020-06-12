@@ -10,7 +10,7 @@ library(readxl)
 # processing
 # NOTE: range is manually set
 
-raw <- read_excel("NE_data.xlsx", sheet = "County", skip = 2)
+raw <- read_excel("NE_data.xlsx", sheet = "County", skip = 2, na = "*")
 
 # import FIPS codes
 
