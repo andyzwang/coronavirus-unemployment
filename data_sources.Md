@@ -205,7 +205,10 @@ No data
   * Data: Unemployment Claims
 
 ## Virginia
-
+* [Virginia Employment Commission](https://www.vec.virginia.gov/node/11972)
+  * Format: Excel, Updated: weekly, Level: County / City
+  * Data: Initial / Continuing Claims, Industries
+  
 ## Washington
 
 ## West Virginia
