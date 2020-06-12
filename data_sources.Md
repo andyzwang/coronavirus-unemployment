@@ -188,6 +188,9 @@ No data
   * Data: Unemployment Claims
 
 ## Texas
+* [Texas Workforce Commission](https://www.twc.texas.gov/files/agency/weekly-claims-by-county-twc.xlsx)
+  * Format: Excel, Updated: Weekly, Level: County
+  * Data: Unemployment Claims
 
 ## Utah
 
