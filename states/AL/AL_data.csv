@@ -1,742 +1,898 @@
-WED_Title,County,State,Congressional District 7,F9,geogfips,WED,F5,F7,Number of Records,Total,Ucfe,UCX,UI
-5/30/20,Autauga,Alabama,Autauga,0,1,5/30/20,1730,0,1,1,0,0,195
-5/30/20,Baldwin,Alabama,Baldwin,0,3,5/30/20,7075,0,1,3,0,0,590
-5/30/20,Barbour,Alabama,Barbour,0,5,5/30/20,512,0,1,5,0,0,127
-5/30/20,Bibb,Alabama,Bibb,0,7,5/30/20,1013,0,1,7,0,0,123
-5/30/20,Blount,Alabama,Blount,0,9,5/30/20,895,0,1,9,0,0,116
-5/30/20,Bullock,Alabama,Bullock,0,11,5/30/20,287,0,1,11,0,0,56
-5/30/20,Butler,Alabama,Butler,0,13,5/30/20,1121,0,1,13,0,0,142
-5/30/20,Calhoun,Alabama,Calhoun,0,15,5/30/20,4626,0,1,15,0,0,467
-5/30/20,Chambers,Alabama,Chambers,0,17,5/30/20,1375,0,1,17,0,0,174
-5/30/20,Cherokee,Alabama,Cherokee,0,19,5/30/20,525,0,1,19,0,0,52
-5/30/20,Chilton,Alabama,Chilton,0,21,5/30/20,1257,0,1,21,0,0,137
-5/30/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,5/30/20,216,0,1,23,0,0,42
-5/30/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,5/30/20,747,0,1,25,0,0,121
-5/30/20,Clay,Alabama,Clay,0,27,5/30/20,197,0,1,27,0,0,35
-5/30/20,Cleburne,Alabama,Cleburne,0,29,5/30/20,213,0,1,29,0,0,20
-5/30/20,Coffee,Alabama,Coffee,0,31,5/30/20,1158,0,1,31,0,0,163
-5/30/20,Colbert,Alabama,Colbert,0,33,5/30/20,2095,0,1,33,0,0,183
-5/30/20,Conecuh,Alabama,Conecuh,0,35,5/30/20,313,0,1,35,0,0,75
-5/30/20,Coosa,Alabama,Coosa,0,37,5/30/20,321,0,1,37,0,0,34
-5/30/20,Covington,Alabama,Covington,0,39,5/30/20,747,0,1,39,0,0,101
-5/30/20,Crenshaw,Alabama,Crenshaw,0,41,5/30/20,436,0,1,41,0,0,54
-5/30/20,Cullman,Alabama,Cullman,0,43,5/30/20,2227,0,1,43,0,0,229
-5/30/20,Dale,Alabama,Dale,0,45,5/30/20,1098,0,1,45,0,0,142
-5/30/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,5/30/20,2133,0,1,47,0,0,232
-5/30/20,DeKalb,Alabama,DeKalb,0,49,5/30/20,1584,0,1,49,0,0,167
-5/30/20,Elmore,Alabama,Elmore,0,51,5/30/20,2439,0,1,51,0,0,321
-5/30/20,Escambia,Alabama,Escambia,0,53,5/30/20,870,0,1,53,0,0,188
-5/30/20,Etowah,Alabama,Etowah,0,55,5/30/20,4239,0,1,55,0,0,376
-5/30/20,Fayette,Alabama,Fayette,0,57,5/30/20,347,0,1,57,0,0,50
-5/30/20,Franklin,Alabama,Franklin,0,59,5/30/20,722,0,1,59,0,0,94
-5/30/20,Geneva,Alabama,Geneva,0,61,5/30/20,443,0,1,61,0,0,56
-5/30/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,5/30/20,488,0,1,63,0,0,53
-5/30/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,5/30/20,1123,0,1,65,0,0,144
-5/30/20,Henry,Alabama,Henry,0,67,5/30/20,316,0,1,67,0,0,52
-5/30/20,Houston,Alabama,Houston,0,69,5/30/20,2957,0,1,69,0,0,386
-5/30/20,Jackson,Alabama,Jackson,0,71,5/30/20,1478,0,1,71,0,0,158
-5/30/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,5/30/20,28945,0,1,73,0,0,3302
-5/30/20,Lamar,Alabama,Lamar,0,75,5/30/20,289,0,1,75,0,0,74
-5/30/20,Lauderdale,Alabama,Lauderdale,0,77,5/30/20,3193,0,1,77,0,0,265
-5/30/20,Lawrence,Alabama,Lawrence,0,79,5/30/20,669,0,1,79,0,0,68
-5/30/20,Lee,Alabama,Lee,0,81,5/30/20,5103,0,1,81,0,0,531
-5/30/20,Limestone,Alabama,Limestone,0,83,5/30/20,1899,0,1,83,0,0,159
-5/30/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,5/30/20,657,0,1,85,0,0,50
-5/30/20,Macon,Alabama,Macon,0,87,5/30/20,800,0,1,87,0,0,119
-5/30/20,Madison,Alabama,Madison,0,89,5/30/20,12430,0,1,89,0,0,1261
-5/30/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,5/30/20,479,0,1,91,0,0,73
-5/30/20,Marion,Alabama,Marion,0,93,5/30/20,622,0,1,93,0,0,110
-5/30/20,Marshall,Alabama,Marshall,0,95,5/30/20,2663,0,1,95,0,0,323
-5/30/20,Mobile,Alabama,Mobile,0,97,5/30/20,17856,0,1,97,0,0,2433
-5/30/20,Monroe,Alabama,Monroe,0,99,5/30/20,552,0,1,99,0,0,117
-5/30/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,5/30/20,11912,0,1,101,0,0,1479
-5/30/20,Morgan,Alabama,Morgan,0,103,5/30/20,3727,0,1,103,0,0,436
-5/30/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,5/30/20,483,0,1,105,0,0,62
-5/30/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,5/30/20,762,0,1,107,0,0,118
-5/30/20,Pike,Alabama,Pike,0,109,5/30/20,855,0,1,109,0,0,142
-5/30/20,Randolph,Alabama,Randolph,0,111,5/30/20,351,0,1,111,0,0,62
-5/30/20,Russell,Alabama,Russell,0,113,5/30/20,908,0,1,113,0,0,219
-5/30/20,St. Clair,Alabama,St. Clair,0,115,5/30/20,2555,0,1,115,0,0,257
-5/30/20,Shelby,Alabama,Shelby,0,117,5/30/20,4414,0,1,117,0,0,449
-5/30/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,5/30/20,386,0,1,119,0,0,57
-5/30/20,Talladega,Alabama,Talladega,0,121,5/30/20,3154,0,1,121,0,0,341
-5/30/20,Tallapoosa,Alabama,Tallapoosa,0,123,5/30/20,1460,0,1,123,0,0,173
-5/30/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,5/30/20,11768,0,1,125,0,0,1386
-5/30/20,Walker,Alabama,Walker,0,127,5/30/20,2006,0,1,127,0,0,267
-5/30/20,Washington,Alabama,Washington,0,129,5/30/20,554,0,1,129,0,0,88
-5/30/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,5/30/20,440,0,1,131,0,0,73
-5/30/20,Winston,Alabama,Winston,0,133,5/30/20,594,0,1,133,0,0,82
-5/23/20,Autauga,Alabama,Autauga,0,1,5/23/20,1981,0,1,1,0,0,299
-5/23/20,Baldwin,Alabama,Baldwin,0,3,5/23/20,7778,0,1,3,0,0,755
-5/23/20,Barbour,Alabama,Barbour,0,5,5/23/20,483,0,1,5,0,0,106
-5/23/20,Bibb,Alabama,Bibb,0,7,5/23/20,909,0,1,7,0,0,217
-5/23/20,Blount,Alabama,Blount,0,9,5/23/20,918,0,1,9,0,0,174
-5/23/20,Bullock,Alabama,Bullock,0,11,5/23/20,298,0,1,11,0,0,61
-5/23/20,Butler,Alabama,Butler,0,13,5/23/20,1209,0,1,13,0,0,150
-5/23/20,Calhoun,Alabama,Calhoun,0,15,5/23/20,5093,0,1,15,0,0,639
-5/23/20,Chambers,Alabama,Chambers,0,17,5/23/20,1375,0,1,17,0,0,219
-5/23/20,Cherokee,Alabama,Cherokee,0,19,5/23/20,564,0,1,19,0,0,61
-5/23/20,Chilton,Alabama,Chilton,0,21,5/23/20,1421,0,1,21,0,0,193
-5/23/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,5/23/20,224,0,1,23,0,0,51
-5/23/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,5/23/20,781,0,1,25,0,0,129
-5/23/20,Clay,Alabama,Clay,0,27,5/23/20,203,0,1,27,0,0,38
-5/23/20,Cleburne,Alabama,Cleburne,0,29,5/23/20,220,0,1,29,0,0,39
-5/23/20,Coffee,Alabama,Coffee,0,31,5/23/20,1164,0,1,31,0,0,178
-5/23/20,Colbert,Alabama,Colbert,0,33,5/23/20,2313,0,1,33,0,0,206
-5/23/20,Conecuh,Alabama,Conecuh,0,35,5/23/20,317,0,1,35,0,0,65
-5/23/20,Coosa,Alabama,Coosa,0,37,5/23/20,358,0,1,37,0,0,29
-5/23/20,Covington,Alabama,Covington,0,39,5/23/20,788,0,1,39,0,0,133
-5/23/20,Crenshaw,Alabama,Crenshaw,0,41,5/23/20,486,0,1,41,0,0,55
-5/23/20,Cullman,Alabama,Cullman,0,43,5/23/20,2546,0,1,43,0,0,292
-5/23/20,Dale,Alabama,Dale,0,45,5/23/20,1137,0,1,45,0,0,182
-5/23/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,5/23/20,2339,0,1,47,0,0,329
-5/23/20,DeKalb,Alabama,DeKalb,0,49,5/23/20,1770,0,1,49,0,0,253
-5/23/20,Elmore,Alabama,Elmore,0,51,5/23/20,2753,0,1,51,0,0,395
-5/23/20,Escambia,Alabama,Escambia,0,53,5/23/20,856,0,1,53,0,0,207
-5/23/20,Etowah,Alabama,Etowah,0,55,5/23/20,4467,0,1,55,0,0,542
-5/23/20,Fayette,Alabama,Fayette,0,57,5/23/20,349,0,1,57,0,0,89
-5/23/20,Franklin,Alabama,Franklin,0,59,5/23/20,772,0,1,59,0,0,125
-5/23/20,Geneva,Alabama,Geneva,0,61,5/23/20,453,0,1,61,0,0,81
-5/23/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,5/23/20,421,0,1,63,0,0,84
-5/23/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,5/23/20,1018,0,1,65,0,0,208
-5/23/20,Henry,Alabama,Henry,0,67,5/23/20,333,0,1,67,0,0,60
-5/23/20,Houston,Alabama,Houston,0,69,5/23/20,2982,0,1,69,0,0,503
-5/23/20,Jackson,Alabama,Jackson,0,71,5/23/20,1599,0,1,71,0,0,171
-5/23/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,5/23/20,28812,0,1,73,0,0,4221
-5/23/20,Lamar,Alabama,Lamar,0,75,5/23/20,279,0,1,75,0,0,118
-5/23/20,Lauderdale,Alabama,Lauderdale,0,77,5/23/20,3650,0,1,77,0,0,295
-5/23/20,Lawrence,Alabama,Lawrence,0,79,5/23/20,702,0,1,79,0,0,103
-5/23/20,Lee,Alabama,Lee,0,81,5/23/20,5358,0,1,81,0,0,606
-5/23/20,Limestone,Alabama,Limestone,0,83,5/23/20,2074,0,1,83,0,0,229
-5/23/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,5/23/20,676,0,1,85,0,0,80
-5/23/20,Macon,Alabama,Macon,0,87,5/23/20,840,0,1,87,0,0,120
-5/23/20,Madison,Alabama,Madison,0,89,5/23/20,12850,0,1,89,0,0,1564
-5/23/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,5/23/20,436,0,1,91,0,0,91
-5/23/20,Marion,Alabama,Marion,0,93,5/23/20,625,0,1,93,0,0,144
-5/23/20,Marshall,Alabama,Marshall,0,95,5/23/20,2852,0,1,95,0,0,569
-5/23/20,Mobile,Alabama,Mobile,0,97,5/23/20,17828,0,1,97,0,0,3167
-5/23/20,Monroe,Alabama,Monroe,0,99,5/23/20,559,0,1,99,0,0,127
-5/23/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,5/23/20,12596,0,1,101,0,0,1891
-5/23/20,Morgan,Alabama,Morgan,0,103,5/23/20,3965,0,1,103,0,0,516
-5/23/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,5/23/20,431,0,1,105,0,0,99
-5/23/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,5/23/20,633,0,1,107,0,0,155
-5/23/20,Pike,Alabama,Pike,0,109,5/23/20,824,0,1,109,0,0,164
-5/23/20,Randolph,Alabama,Randolph,0,111,5/23/20,382,0,1,111,0,0,77
-5/23/20,Russell,Alabama,Russell,0,113,5/23/20,879,0,1,113,0,0,264
-5/23/20,St. Clair,Alabama,St. Clair,0,115,5/23/20,2752,0,1,115,0,0,361
-5/23/20,Shelby,Alabama,Shelby,0,117,5/23/20,4593,0,1,117,0,0,583
-5/23/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,5/23/20,329,0,1,119,0,0,81
-5/23/20,Talladega,Alabama,Talladega,0,121,5/23/20,3685,0,1,121,0,0,431
-5/23/20,Tallapoosa,Alabama,Tallapoosa,0,123,5/23/20,1534,0,1,123,0,0,185
-5/23/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,5/23/20,10527,0,1,125,0,0,2272
-5/23/20,Walker,Alabama,Walker,0,127,5/23/20,2094,0,1,127,0,0,312
-5/23/20,Washington,Alabama,Washington,0,129,5/23/20,562,0,1,129,0,0,114
-5/23/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,5/23/20,451,0,1,131,0,0,62
-5/23/20,Winston,Alabama,Winston,0,133,5/23/20,576,0,1,133,0,0,159
-5/16/20,Autauga,Alabama,Autauga,0,1,5/16/20,1925,0,1,1,0,0,266
-5/16/20,Baldwin,Alabama,Baldwin,0,3,5/16/20,9198,0,1,3,0,0,811
-5/16/20,Barbour,Alabama,Barbour,0,5,5/16/20,481,0,1,5,0,0,110
-5/16/20,Bibb,Alabama,Bibb,0,7,5/16/20,953,0,1,7,0,0,134
-5/16/20,Blount,Alabama,Blount,0,9,5/16/20,1040,0,1,9,0,0,160
-5/16/20,Bullock,Alabama,Bullock,0,11,5/16/20,269,0,1,11,0,0,48
-5/16/20,Butler,Alabama,Butler,0,13,5/16/20,1188,0,1,13,0,0,119
-5/16/20,Calhoun,Alabama,Calhoun,0,15,5/16/20,7084,0,1,15,0,0,569
-5/16/20,Chambers,Alabama,Chambers,0,17,5/16/20,1413,0,1,17,0,0,201
-5/16/20,Cherokee,Alabama,Cherokee,0,19,5/16/20,629,0,1,19,0,0,54
-5/16/20,Chilton,Alabama,Chilton,0,21,5/16/20,1458,0,1,21,0,0,169
-5/16/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,5/16/20,226,0,1,23,0,0,58
-5/16/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,5/16/20,749,0,1,25,0,0,132
-5/16/20,Clay,Alabama,Clay,0,27,5/16/20,336,0,1,27,0,0,26
-5/16/20,Cleburne,Alabama,Cleburne,0,29,5/16/20,329,0,1,29,0,0,21
-5/16/20,Coffee,Alabama,Coffee,0,31,5/16/20,1243,0,1,31,0,0,154
-5/16/20,Colbert,Alabama,Colbert,0,33,5/16/20,2481,0,1,33,0,0,239
-5/16/20,Conecuh,Alabama,Conecuh,0,35,5/16/20,323,0,1,35,0,0,65
-5/16/20,Coosa,Alabama,Coosa,0,37,5/16/20,482,0,1,37,0,0,44
-5/16/20,Covington,Alabama,Covington,0,39,5/16/20,826,0,1,39,0,0,143
-5/16/20,Crenshaw,Alabama,Crenshaw,0,41,5/16/20,469,0,1,41,0,0,43
-5/16/20,Cullman,Alabama,Cullman,0,43,5/16/20,2800,0,1,43,0,0,285
-5/16/20,Dale,Alabama,Dale,0,45,5/16/20,1182,0,1,45,0,0,193
-5/16/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,5/16/20,2180,0,1,47,0,0,291
-5/16/20,DeKalb,Alabama,DeKalb,0,49,5/16/20,1986,0,1,49,0,0,226
-5/16/20,Elmore,Alabama,Elmore,0,51,5/16/20,2739,0,1,51,0,0,364
-5/16/20,Escambia,Alabama,Escambia,0,53,5/16/20,857,0,1,53,0,0,142
-5/16/20,Etowah,Alabama,Etowah,0,55,5/16/20,5406,0,1,55,0,0,462
-5/16/20,Fayette,Alabama,Fayette,0,57,5/16/20,333,0,1,57,0,0,42
-5/16/20,Franklin,Alabama,Franklin,0,59,5/16/20,824,0,1,59,0,0,120
-5/16/20,Geneva,Alabama,Geneva,0,61,5/16/20,495,0,1,61,0,0,67
-5/16/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,5/16/20,449,0,1,63,0,0,72
-5/16/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,5/16/20,981,0,1,65,0,0,147
-5/16/20,Henry,Alabama,Henry,0,67,5/16/20,338,0,1,67,0,0,55
-5/16/20,Houston,Alabama,Houston,0,69,5/16/20,3176,0,1,69,0,0,449
-5/16/20,Jackson,Alabama,Jackson,0,71,5/16/20,1695,0,1,71,0,0,168
-5/16/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,5/16/20,30333,0,1,73,0,0,3715
-5/16/20,Lamar,Alabama,Lamar,0,75,5/16/20,230,0,1,75,0,0,43
-5/16/20,Lauderdale,Alabama,Lauderdale,0,77,5/16/20,4015,0,1,77,0,0,417
-5/16/20,Lawrence,Alabama,Lawrence,0,79,5/16/20,741,0,1,79,0,0,103
-5/16/20,Lee,Alabama,Lee,0,81,5/16/20,5548,0,1,81,0,0,611
-5/16/20,Limestone,Alabama,Limestone,0,83,5/16/20,2279,0,1,83,0,0,295
-5/16/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,5/16/20,658,0,1,85,0,0,72
-5/16/20,Macon,Alabama,Macon,0,87,5/16/20,800,0,1,87,0,0,99
-5/16/20,Madison,Alabama,Madison,0,89,5/16/20,13822,0,1,89,0,0,1606
-5/16/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,5/16/20,437,0,1,91,0,0,71
-5/16/20,Marion,Alabama,Marion,0,93,5/16/20,627,0,1,93,0,0,141
-5/16/20,Marshall,Alabama,Marshall,0,95,5/16/20,3463,0,1,95,0,0,348
-5/16/20,Mobile,Alabama,Mobile,0,97,5/16/20,18466,0,1,97,0,0,3000
-5/16/20,Monroe,Alabama,Monroe,0,99,5/16/20,593,0,1,99,0,0,101
-5/16/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,5/16/20,12055,0,1,101,0,0,1596
-5/16/20,Morgan,Alabama,Morgan,0,103,5/16/20,4243,0,1,103,0,0,495
-5/16/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,5/16/20,415,0,1,105,0,0,70
-5/16/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,5/16/20,647,0,1,107,0,0,96
-5/16/20,Pike,Alabama,Pike,0,109,5/16/20,820,0,1,109,0,0,139
-5/16/20,Randolph,Alabama,Randolph,0,111,5/16/20,503,0,1,111,0,0,73
-5/16/20,Russell,Alabama,Russell,0,113,5/16/20,889,0,1,113,0,0,224
-5/16/20,St. Clair,Alabama,St. Clair,0,115,5/16/20,3640,0,1,115,0,0,315
-5/16/20,Shelby,Alabama,Shelby,0,117,5/16/20,5027,0,1,117,0,0,508
-5/16/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,5/16/20,325,0,1,119,0,0,68
-5/16/20,Talladega,Alabama,Talladega,0,121,5/16/20,5276,0,1,121,0,0,397
-5/16/20,Tallapoosa,Alabama,Tallapoosa,0,123,5/16/20,1892,0,1,123,0,0,174
-5/16/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,5/16/20,10792,0,1,125,0,0,1587
-5/16/20,Walker,Alabama,Walker,0,127,5/16/20,2254,0,1,127,0,0,270
-5/16/20,Washington,Alabama,Washington,0,129,5/16/20,537,0,1,129,0,0,125
-5/16/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,5/16/20,427,0,1,131,0,0,79
-5/16/20,Winston,Alabama,Winston,0,133,5/16/20,585,0,1,133,0,0,129
-5/9/20,Autauga,Alabama,Autauga,0,1,5/9/20,2180,0,1,1,0,0,265
-5/9/20,Baldwin,Alabama,Baldwin,0,3,5/9/20,9966,0,1,3,0,0,922
-5/9/20,Barbour,Alabama,Barbour,0,5,5/9/20,471,0,1,5,0,0,119
-5/9/20,Bibb,Alabama,Bibb,0,7,5/9/20,1108,0,1,7,0,0,105
-5/9/20,Blount,Alabama,Blount,0,9,5/9/20,1107,0,1,9,0,0,137
-5/9/20,Bullock,Alabama,Bullock,0,11,5/9/20,290,0,1,11,0,0,53
-5/9/20,Butler,Alabama,Butler,0,13,5/9/20,1274,0,1,13,0,0,128
-5/9/20,Calhoun,Alabama,Calhoun,0,15,5/9/20,7256,0,1,15,0,0,606
-5/9/20,Chambers,Alabama,Chambers,0,17,5/9/20,1532,0,1,17,0,0,228
-5/9/20,Cherokee,Alabama,Cherokee,0,19,5/9/20,702,0,1,19,0,0,51
-5/9/20,Chilton,Alabama,Chilton,0,21,5/9/20,1537,0,1,21,0,0,169
-5/9/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,5/9/20,210,0,1,23,0,0,56
-5/9/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,5/9/20,844,0,1,25,0,0,172
-5/9/20,Clay,Alabama,Clay,0,27,5/9/20,337,0,1,27,0,0,29
-5/9/20,Cleburne,Alabama,Cleburne,0,29,5/9/20,332,0,1,29,0,0,27
-5/9/20,Coffee,Alabama,Coffee,0,31,5/9/20,1336,0,1,31,0,0,190
-5/9/20,Colbert,Alabama,Colbert,0,33,5/9/20,2567,0,1,33,0,0,247
-5/9/20,Conecuh,Alabama,Conecuh,0,35,5/9/20,362,0,1,35,0,0,54
-5/9/20,Coosa,Alabama,Coosa,0,37,5/9/20,494,0,1,37,0,0,43
-5/9/20,Covington,Alabama,Covington,0,39,5/9/20,867,0,1,39,0,0,144
-5/9/20,Crenshaw,Alabama,Crenshaw,0,41,5/9/20,544,0,1,41,0,0,73
-5/9/20,Cullman,Alabama,Cullman,0,43,5/9/20,3024,0,1,43,0,0,341
-5/9/20,Dale,Alabama,Dale,0,45,5/9/20,1194,0,1,45,0,0,172
-5/9/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,5/9/20,2255,0,1,47,0,0,320
-5/9/20,DeKalb,Alabama,DeKalb,0,49,5/9/20,2204,0,1,49,0,0,218
-5/9/20,Elmore,Alabama,Elmore,0,51,5/9/20,3172,0,1,51,0,0,351
-5/9/20,Escambia,Alabama,Escambia,0,53,5/9/20,886,0,1,53,0,0,176
-5/9/20,Etowah,Alabama,Etowah,0,55,5/9/20,5759,0,1,55,0,0,500
-5/9/20,Fayette,Alabama,Fayette,0,57,5/9/20,389,0,1,57,0,0,85
-5/9/20,Franklin,Alabama,Franklin,0,59,5/9/20,857,0,1,59,0,0,124
-5/9/20,Geneva,Alabama,Geneva,0,61,5/9/20,544,0,1,61,0,0,76
-5/9/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,5/9/20,473,0,1,63,0,0,49
-5/9/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,5/9/20,1064,0,1,65,0,0,114
-5/9/20,Henry,Alabama,Henry,0,67,5/9/20,360,0,1,67,0,0,43
-5/9/20,Houston,Alabama,Houston,0,69,5/9/20,3254,0,1,69,0,0,497
-5/9/20,Jackson,Alabama,Jackson,0,71,5/9/20,1862,0,1,71,0,0,251
-5/9/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,5/9/20,30923,0,1,73,0,0,3920
-5/9/20,Lamar,Alabama,Lamar,0,75,5/9/20,245,0,1,75,0,0,42
-5/9/20,Lauderdale,Alabama,Lauderdale,0,77,5/9/20,4181,0,1,77,0,0,337
-5/9/20,Lawrence,Alabama,Lawrence,0,79,5/9/20,813,0,1,79,0,0,113
-5/9/20,Lee,Alabama,Lee,0,81,5/9/20,5843,0,1,81,0,0,652
-5/9/20,Limestone,Alabama,Limestone,0,83,5/9/20,2668,0,1,83,0,0,352
-5/9/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,5/9/20,757,0,1,85,0,0,76
-5/9/20,Macon,Alabama,Macon,0,87,5/9/20,820,0,1,87,0,0,107
-5/9/20,Madison,Alabama,Madison,0,89,5/9/20,14542,0,1,89,0,0,1916
-5/9/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,5/9/20,458,0,1,91,0,0,76
-5/9/20,Marion,Alabama,Marion,0,93,5/9/20,679,0,1,93,0,0,135
-5/9/20,Marshall,Alabama,Marshall,0,95,5/9/20,3819,0,1,95,0,0,404
-5/9/20,Mobile,Alabama,Mobile,0,97,5/9/20,18520,0,1,97,0,0,3043
-5/9/20,Monroe,Alabama,Monroe,0,99,5/9/20,639,0,1,99,0,0,95
-5/9/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,5/9/20,12847,0,1,101,0,0,1725
-5/9/20,Morgan,Alabama,Morgan,0,103,5/9/20,4649,0,1,103,0,0,612
-5/9/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,5/9/20,422,0,1,105,0,0,47
-5/9/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,5/9/20,691,0,1,107,0,0,87
-5/9/20,Pike,Alabama,Pike,0,109,5/9/20,887,0,1,109,0,0,137
-5/9/20,Randolph,Alabama,Randolph,0,111,5/9/20,417,0,1,111,0,0,60
-5/9/20,Russell,Alabama,Russell,0,113,5/9/20,902,0,1,113,0,0,189
-5/9/20,St. Clair,Alabama,St. Clair,0,115,5/9/20,3905,0,1,115,0,0,332
-5/9/20,Shelby,Alabama,Shelby,0,117,5/9/20,5422,0,1,117,0,0,611
-5/9/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,5/9/20,336,0,1,119,0,0,59
-5/9/20,Talladega,Alabama,Talladega,0,121,5/9/20,5295,0,1,121,0,0,401
-5/9/20,Tallapoosa,Alabama,Tallapoosa,0,123,5/9/20,2121,0,1,123,0,0,157
-5/9/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,5/9/20,11460,0,1,125,0,0,1319
-5/9/20,Walker,Alabama,Walker,0,127,5/9/20,2448,0,1,127,0,0,262
-5/9/20,Washington,Alabama,Washington,0,129,5/9/20,485,0,1,129,0,0,154
-5/9/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,5/9/20,443,0,1,131,0,0,79
-5/9/20,Winston,Alabama,Winston,0,999,5/9/20,733,0,1,133,0,0,147
-4/25/20,Autauga,Alabama,Autauga,0,1,4/25/20,1585,0,1,1,0,0,736
-4/25/20,Baldwin,Alabama,Baldwin,0,3,4/25/20,8232,0,1,3,0,0,4099
-4/25/20,Barbour,Alabama,Barbour,0,5,4/25/20,338,0,1,5,0,0,208
-4/25/20,Bibb,Alabama,Bibb,0,7,4/25/20,973,0,1,7,0,0,312
-4/25/20,Blount,Alabama,Blount,0,9,4/25/20,963,0,1,9,0,0,491
-4/25/20,Bullock,Alabama,Bullock,0,11,4/25/20,221,0,1,11,0,0,101
-4/25/20,Butler,Alabama,Butler,0,13,4/25/20,1071,0,1,13,0,0,262
-4/25/20,Calhoun,Alabama,Calhoun,0,15,4/25/20,5832,0,1,15,0,0,2293
-4/25/20,Chambers,Alabama,Chambers,0,17,4/25/20,1282,0,1,17,0,0,481
-4/25/20,Cherokee,Alabama,Cherokee,0,19,4/25/20,647,0,1,19,0,0,235
-4/25/20,Chilton,Alabama,Chilton,0,21,4/25/20,1244,0,1,21,0,0,529
-4/25/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,4/25/20,145,0,1,23,0,0,123
-4/25/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,4/25/20,509,0,1,25,0,0,290
-4/25/20,Clay,Alabama,Clay,0,27,4/25/20,258,0,1,27,0,0,128
-4/25/20,Cleburne,Alabama,Cleburne,0,29,4/25/20,263,0,1,29,0,0,154
-4/25/20,Coffee,Alabama,Coffee,0,31,4/25/20,997,0,1,31,0,0,629
-4/25/20,Colbert,Alabama,Colbert,0,33,4/25/20,2258,0,1,33,0,0,774
-4/25/20,Conecuh,Alabama,Conecuh,0,35,4/25/20,309,0,1,35,0,0,112
-4/25/20,Coosa,Alabama,Coosa,0,37,4/25/20,493,0,1,37,0,0,128
-4/25/20,Covington,Alabama,Covington,0,39,4/25/20,751,0,1,39,0,0,372
-4/25/20,Crenshaw,Alabama,Crenshaw,0,41,4/25/20,528,0,1,41,0,0,130
-4/25/20,Cullman,Alabama,Cullman,0,43,4/25/20,2571,0,1,43,0,0,1079
-4/25/20,Dale,Alabama,Dale,0,45,4/25/20,946,0,1,45,0,0,476
-4/25/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,4/25/20,1804,0,1,47,0,0,617
-4/25/20,DeKalb,Alabama,DeKalb,0,49,4/25/20,1789,0,1,49,0,0,827
-4/25/20,Elmore,Alabama,Elmore,0,51,4/25/20,2448,0,1,51,0,0,1065
-4/25/20,Escambia,Alabama,Escambia,0,53,4/25/20,734,0,1,53,0,0,393
-4/25/20,Etowah,Alabama,Etowah,0,55,4/25/20,4801,0,1,55,0,0,1621
-4/25/20,Fayette,Alabama,Fayette,0,57,4/25/20,305,0,1,57,0,0,152
-4/25/20,Franklin,Alabama,Franklin,0,59,4/25/20,817,0,1,59,0,0,341
-4/25/20,Geneva,Alabama,Geneva,0,61,4/25/20,422,0,1,61,0,0,257
-4/25/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,4/25/20,376,0,1,63,0,0,132
-4/25/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,4/25/20,929,0,1,65,0,0,262
-4/25/20,Henry,Alabama,Henry,0,67,4/25/20,285,0,1,67,0,0,149
-4/25/20,Houston,Alabama,Houston,0,69,4/25/20,2618,0,1,69,0,0,1366
-4/25/20,Jackson,Alabama,Jackson,0,71,4/25/20,1567,0,1,71,0,0,666
-4/25/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,4/25/20,24606,0,1,73,0,0,11878
-4/25/20,Lamar,Alabama,Lamar,0,75,4/25/20,239,0,1,75,0,0,108
-4/25/20,Lauderdale,Alabama,Lauderdale,0,77,4/25/20,3547,0,1,77,0,0,1294
-4/25/20,Lawrence,Alabama,Lawrence,0,79,4/25/20,677,0,1,79,0,0,309
-4/25/20,Lee,Alabama,Lee,0,81,4/25/20,4690,0,1,81,0,0,1840
-4/25/20,Limestone,Alabama,Limestone,0,83,4/25/20,2293,0,1,83,0,0,887
-4/25/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,4/25/20,579,0,1,85,0,0,164
-4/25/20,Macon,Alabama,Macon,0,87,4/25/20,641,0,1,87,0,0,253
-4/25/20,Madison,Alabama,Madison,0,89,4/25/20,11339,0,1,89,0,0,5615
-4/25/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,4/25/20,374,0,1,91,0,0,140
-4/25/20,Marion,Alabama,Marion,0,93,4/25/20,592,0,1,93,0,0,341
-4/25/20,Marshall,Alabama,Marshall,0,95,4/25/20,3054,0,1,95,0,0,1571
-4/25/20,Mobile,Alabama,Mobile,0,97,4/25/20,13832,0,1,97,0,0,8257
-4/25/20,Monroe,Alabama,Monroe,0,99,4/25/20,519,0,1,99,0,0,246
-4/25/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,4/25/20,9108,0,1,101,0,0,3859
-4/25/20,Morgan,Alabama,Morgan,0,103,4/25/20,3735,0,1,103,0,0,1713
-4/25/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,4/25/20,395,0,1,105,0,0,115
-4/25/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,4/25/20,597,0,1,107,0,0,192
-4/25/20,Pike,Alabama,Pike,0,109,4/25/20,709,0,1,109,0,0,342
-4/25/20,Randolph,Alabama,Randolph,0,111,4/25/20,446,0,1,111,0,0,187
-4/25/20,Russell,Alabama,Russell,0,113,4/25/20,699,0,1,113,0,0,591
-4/25/20,St. Clair,Alabama,St. Clair,0,115,4/25/20,3088,0,1,115,0,0,1372
-4/25/20,Shelby,Alabama,Shelby,0,117,4/25/20,4435,0,1,117,0,0,2192
-4/25/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,4/25/20,266,0,1,119,0,0,132
-4/25/20,Talladega,Alabama,Talladega,0,121,4/25/20,4570,0,1,121,0,0,1291
-4/25/20,Tallapoosa,Alabama,Tallapoosa,0,123,4/25/20,2002,0,1,123,0,0,466
-4/25/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,4/25/20,10520,0,1,125,0,0,3429
-4/25/20,Walker,Alabama,Walker,0,127,4/25/20,2034,0,1,127,0,0,887
-4/25/20,Washington,Alabama,Washington,0,129,4/25/20,311,0,1,129,0,0,262
-4/25/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,4/25/20,320,0,1,131,0,0,129
-4/25/20,Winston,Alabama,Winston,0,133,4/25/20,607,0,1,133,0,0,269
-4/18/20,Autauga,Alabama,Autauga,0,1,4/18/20,1331,0,1,1,0,0,675
-4/18/20,Baldwin,Alabama,Baldwin,0,3,4/18/20,6742,0,1,3,0,0,3221
-4/18/20,Barbour,Alabama,Barbour,0,5,4/18/20,282,0,1,5,0,0,158
-4/18/20,Bibb,Alabama,Bibb,0,7,4/18/20,808,0,1,7,0,0,292
-4/18/20,Blount,Alabama,Blount,0,9,4/18/20,820,0,1,9,0,0,366
-4/18/20,Bullock,Alabama,Bullock,0,11,4/18/20,181,0,1,11,0,0,64
-4/18/20,Butler,Alabama,Butler,0,13,4/18/20,915,0,1,13,0,0,354
-4/18/20,Calhoun,Alabama,Calhoun,0,15,4/18/20,4388,0,1,15,0,0,2436
-4/18/20,Chambers,Alabama,Chambers,0,17,4/18/20,1086,0,1,17,0,0,487
-4/18/20,Cherokee,Alabama,Cherokee,0,19,4/18/20,541,0,1,19,0,0,209
-4/18/20,Chilton,Alabama,Chilton,0,21,4/18/20,1044,0,1,21,0,0,412
-4/18/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,4/18/20,126,0,1,23,0,0,74
-4/18/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,4/18/20,419,0,1,25,0,0,268
-4/18/20,Clay,Alabama,Clay,0,27,4/18/20,201,0,1,27,0,0,124
-4/18/20,Cleburne,Alabama,Cleburne,0,29,4/18/20,204,0,1,29,0,0,139
-4/18/20,Coffee,Alabama,Coffee,0,31,4/18/20,815,0,1,31,0,0,446
-4/18/20,Colbert,Alabama,Colbert,0,33,4/18/20,2045,0,1,33,0,0,700
-4/18/20,Conecuh,Alabama,Conecuh,0,35,4/18/20,297,0,1,35,0,0,122
-4/18/20,Coosa,Alabama,Coosa,0,37,4/18/20,315,0,1,37,0,0,149
-4/18/20,Covington,Alabama,Covington,0,39,4/18/20,690,0,1,39,0,0,448
-4/18/20,Crenshaw,Alabama,Crenshaw,0,41,4/18/20,476,0,1,41,0,0,162
-4/18/20,Cullman,Alabama,Cullman,0,43,4/18/20,2205,0,1,43,0,0,890
-4/18/20,Dale,Alabama,Dale,0,45,4/18/20,795,0,1,45,0,0,471
-4/18/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,4/18/20,1495,0,1,47,0,0,612
-4/18/20,DeKalb,Alabama,DeKalb,0,49,4/18/20,1566,0,1,49,0,0,660
-4/18/20,Elmore,Alabama,Elmore,0,51,4/18/20,2032,0,1,51,0,0,1033
-4/18/20,Escambia,Alabama,Escambia,0,53,4/18/20,647,0,1,53,0,0,303
-4/18/20,Etowah,Alabama,Etowah,0,55,4/18/20,4010,0,1,55,0,0,1661
-4/18/20,Fayette,Alabama,Fayette,0,57,4/18/20,248,0,1,57,0,0,131
-4/18/20,Franklin,Alabama,Franklin,0,59,4/18/20,984,0,1,59,0,0,275
-4/18/20,Geneva,Alabama,Geneva,0,61,4/18/20,338,0,1,61,0,0,181
-4/18/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,4/18/20,302,0,1,63,0,0,119
-4/18/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,4/18/20,786,0,1,65,0,0,277
-4/18/20,Henry,Alabama,Henry,0,67,4/18/20,247,0,1,67,0,0,127
-4/18/20,Houston,Alabama,Houston,0,69,4/18/20,2182,0,1,69,0,0,1100
-4/18/20,Jackson,Alabama,Jackson,0,71,4/18/20,1357,0,1,71,0,0,698
-4/18/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,4/18/20,19907,0,1,73,0,0,9611
-4/18/20,Lamar,Alabama,Lamar,0,75,4/18/20,208,0,1,75,0,0,102
-4/18/20,Lauderdale,Alabama,Lauderdale,0,77,4/18/20,3096,0,1,77,0,0,1115
-4/18/20,Lawrence,Alabama,Lawrence,0,79,4/18/20,600,0,1,79,0,0,239
-4/18/20,Lee,Alabama,Lee,0,81,4/18/20,3816,0,1,81,0,0,1771
-4/18/20,Limestone,Alabama,Limestone,0,83,4/18/20,1879,0,1,83,0,0,816
-4/18/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,4/18/20,475,0,1,85,0,0,158
-4/18/20,Macon,Alabama,Macon,0,87,4/18/20,506,0,1,87,0,0,229
-4/18/20,Madison,Alabama,Madison,0,89,4/18/20,9462,0,1,89,0,0,4528
-4/18/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,4/18/20,311,0,1,91,0,0,167
-4/18/20,Marion,Alabama,Marion,0,93,4/18/20,586,0,1,93,0,0,252
-4/18/20,Marshall,Alabama,Marshall,0,95,4/18/20,2602,0,1,95,0,0,1183
-4/18/20,Mobile,Alabama,Mobile,0,97,4/18/20,11264,0,1,97,0,0,6708
-4/18/20,Monroe,Alabama,Monroe,0,99,4/18/20,459,0,1,99,0,0,251
-4/18/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,4/18/20,7254,0,1,101,0,0,3479
-4/18/20,Morgan,Alabama,Morgan,0,103,4/18/20,3153,0,1,103,0,0,1372
-4/18/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,4/18/20,335,0,1,105,0,0,101
-4/18/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,4/18/20,518,0,1,107,0,0,162
-4/18/20,Pike,Alabama,Pike,0,109,4/18/20,580,0,1,109,0,0,261
-4/18/20,Randolph,Alabama,Randolph,0,111,4/18/20,404,0,1,111,0,0,245
-4/18/20,Russell,Alabama,Russell,0,113,4/18/20,568,0,1,113,0,0,392
-4/18/20,St. Clair,Alabama,St. Clair,0,115,4/18/20,2292,0,1,115,0,0,1303
-4/18/20,Shelby,Alabama,Shelby,0,117,4/18/20,3476,0,1,117,0,0,1832
-4/18/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,4/18/20,222,0,1,119,0,0,110
-4/18/20,Talladega,Alabama,Talladega,0,121,4/18/20,3205,0,1,121,0,0,1866
-4/18/20,Tallapoosa,Alabama,Tallapoosa,0,123,4/18/20,1513,0,1,123,0,0,628
-4/18/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,4/18/20,8718,0,1,125,0,0,3033
-4/18/20,Walker,Alabama,Walker,0,127,4/18/20,1749,0,1,127,0,0,724
-4/18/20,Washington,Alabama,Washington,0,129,4/18/20,255,0,1,129,0,0,158
-4/18/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,4/18/20,278,0,1,131,0,0,133
-4/18/20,Winston,Alabama,Winston,0,133,4/18/20,518,0,1,133,0,0,217
-4/11/20,Autauga,Alabama,Autauga,0,,4/11/20,841,0,1,1,0,0,812
-4/11/20,Baldwin,Alabama,Baldwin,0,,4/11/20,4433,0,1,3,0,0,3750
-4/11/20,Barbour,Alabama,Barbour,0,,4/11/20,177,0,1,5,0,0,214
-4/11/20,Bibb,Alabama,Bibb,0,,4/11/20,575,0,1,7,0,0,338
-4/11/20,Blount,Alabama,Blount,0,,4/11/20,520,0,1,9,0,0,488
-4/11/20,Bullock,Alabama,Bullock,0,,4/11/20,127,0,1,11,0,0,92
-4/11/20,Butler,Alabama,Butler,0,,4/11/20,537,0,1,13,0,0,453
-4/11/20,Calhoun,Alabama,Calhoun,0,,4/11/20,2556,0,1,15,0,0,2745
-4/11/20,Chambers,Alabama,Chambers,0,,4/11/20,743,0,1,17,0,0,598
-4/11/20,Cherokee,Alabama,Cherokee,0,,4/11/20,352,0,1,19,0,0,222
-4/11/20,Chilton,Alabama,Chilton,0,,4/11/20,683,0,1,21,0,0,500
-4/11/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,72,0,1,23,0,0,91
-4/11/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,321,0,1,25,0,0,333
-4/11/20,Clay,Alabama,Clay,0,,4/11/20,109,0,1,27,0,0,123
-4/11/20,Cleburne,Alabama,Cleburne,0,,4/11/20,118,0,1,29,0,0,151
-4/11/20,Coffee,Alabama,Coffee,0,,4/11/20,494,0,1,31,0,0,635
-4/11/20,Colbert,Alabama,Colbert,0,,4/11/20,1475,0,1,33,0,0,894
-4/11/20,Conecuh,Alabama,Conecuh,0,,4/11/20,172,0,1,35,0,0,177
-4/11/20,Coosa,Alabama,Coosa,0,,4/11/20,176,0,1,37,0,0,147
-4/11/20,Covington,Alabama,Covington,0,,4/11/20,369,0,1,39,0,0,448
-4/11/20,Crenshaw,Alabama,Crenshaw,0,,4/11/20,315,0,1,41,0,0,193
-4/11/20,Cullman,Alabama,Cullman,0,,4/11/20,1602,0,1,43,0,0,1184
-4/11/20,Dale,Alabama,Dale,0,,4/11/20,509,0,1,45,0,0,467
-4/11/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,911,0,1,47,0,0,760
-4/11/20,DeKalb,Alabama,DeKalb,0,,4/11/20,1059,0,1,49,0,0,803
-4/11/20,Elmore,Alabama,Elmore,0,,4/11/20,1316,0,1,51,0,0,1113
-4/11/20,Escambia,Alabama,Escambia,0,,4/11/20,411,0,1,53,0,0,423
-4/11/20,Etowah,Alabama,Etowah,0,,4/11/20,2605,0,1,55,0,0,1885
-4/11/20,Fayette,Alabama,Fayette,0,,4/11/20,234,0,1,57,0,0,174
-4/11/20,Franklin,Alabama,Franklin,0,,4/11/20,797,0,1,59,0,0,354
-4/11/20,Geneva,Alabama,Geneva,0,,4/11/20,208,0,1,61,0,0,246
-4/11/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,221,0,1,63,0,0,117
-4/11/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,590,0,1,65,0,0,361
-4/11/20,Henry,Alabama,Henry,0,,4/11/20,151,0,1,67,0,0,160
-4/11/20,Houston,Alabama,Houston,0,,4/11/20,1406,0,1,69,0,0,1265
-4/11/20,Jackson,Alabama,Jackson,0,,4/11/20,1022,0,1,71,0,0,630
-4/11/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,13081,0,1,73,0,0,10709
-4/11/20,Lamar,Alabama,Lamar,0,,4/11/20,166,0,1,75,0,0,114
-4/11/20,Lauderdale,Alabama,Lauderdale,0,,4/11/20,1993,0,1,77,0,0,1525
-4/11/20,Lawrence,Alabama,Lawrence,0,,4/11/20,398,0,1,79,0,0,339
-4/11/20,Lee,Alabama,Lee,0,,4/11/20,2637,0,1,81,0,0,1916
-4/11/20,Limestone,Alabama,Limestone,0,,4/11/20,1118,0,1,83,0,0,1082
-4/11/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,280,0,1,85,0,0,233
-4/11/20,Macon,Alabama,Macon,0,,4/11/20,365,0,1,87,0,0,277
-4/11/20,Madison,Alabama,Madison,0,,4/11/20,6056,0,1,89,0,0,5501
-4/11/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,235,0,1,91,0,0,180
-4/11/20,Marion,Alabama,Marion,0,,4/11/20,446,0,1,93,0,0,279
-4/11/20,Marshall,Alabama,Marshall,0,,4/11/20,1528,0,1,95,0,0,1918
-4/11/20,Mobile,Alabama,Mobile,0,,4/11/20,7502,0,1,97,0,0,7019
-4/11/20,Monroe,Alabama,Monroe,0,,4/11/20,306,0,1,99,0,0,244
-4/11/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,4644,0,1,101,0,0,4407
-4/11/20,Morgan,Alabama,Morgan,0,,4/11/20,2009,0,1,103,0,0,1829
-4/11/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,227,0,1,105,0,0,119
-4/11/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,440,0,1,107,0,0,221
-4/11/20,Pike,Alabama,Pike,0,,4/11/20,373,0,1,109,0,0,343
-4/11/20,Randolph,Alabama,Randolph,0,,4/11/20,200,0,1,111,0,0,185
-4/11/20,Russell,Alabama,Russell,0,,4/11/20,377,0,1,113,0,0,465
-4/11/20,St. Clair,Alabama,St. Clair,0,,4/11/20,1374,0,1,115,0,0,1398
-4/11/20,Shelby,Alabama,Shelby,0,,4/11/20,2335,0,1,117,0,0,2019
-4/11/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,157,0,1,119,0,0,111
-4/11/20,Talladega,Alabama,Talladega,0,,4/11/20,1740,0,1,121,0,0,1923
-4/11/20,Tallapoosa,Alabama,Tallapoosa,0,,4/11/20,759,0,1,123,0,0,625
-4/11/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,6377,0,1,125,0,0,3617
-4/11/20,Walker,Alabama,Walker,0,,4/11/20,1223,0,1,127,0,0,918
-4/11/20,Washington,Alabama,Washington,0,,4/11/20,151,0,1,129,0,0,192
-4/11/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,4/11/20,170,0,1,131,0,0,149
-4/11/20,Winston,Alabama,Winston,0,,4/11/20,377,0,1,133,0,0,349
-4/4/20,Autauga,Alabama,Autauga,0,1,4/4/20,453,0,1,1,0,0,1088
-4/4/20,Baldwin,Alabama,Baldwin,0,3,4/4/20,2336,0,1,3,0,0,5696
-4/4/20,Barbour,Alabama,Barbour,0,5,4/4/20,89,0,1,5,0,0,212
-4/4/20,Bibb,Alabama,Bibb,0,7,4/4/20,314,0,1,7,0,0,588
-4/4/20,Blount,Alabama,Blount,0,9,4/4/20,300,0,1,9,0,0,645
-4/4/20,Bullock,Alabama,Bullock,0,11,4/4/20,73,0,1,11,0,0,125
-4/4/20,Butler,Alabama,Butler,0,13,4/4/20,228,0,1,13,0,0,536
-4/4/20,Calhoun,Alabama,Calhoun,0,15,4/4/20,1223,0,1,15,0,0,3111
-4/4/20,Chambers,Alabama,Chambers,0,17,4/4/20,288,0,1,17,0,0,787
-4/4/20,Cherokee,Alabama,Cherokee,0,19,4/4/20,216,0,1,19,0,0,402
-4/4/20,Chilton,Alabama,Chilton,0,21,4/4/20,331,0,1,21,0,0,810
-4/4/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,4/4/20,30,0,1,23,0,0,126
-4/4/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,4/4/20,144,0,1,25,0,0,340
-4/4/20,Clay,Alabama,Clay,0,27,4/4/20,58,0,1,27,0,0,143
-4/4/20,Cleburne,Alabama,Cleburne,0,29,4/4/20,49,0,1,29,0,0,192
-4/4/20,Coffee,Alabama,Coffee,0,31,4/4/20,243,0,1,31,0,0,821
-4/4/20,Colbert,Alabama,Colbert,0,33,4/4/20,713,0,1,33,0,0,1451
-4/4/20,Conecuh,Alabama,Conecuh,0,35,4/4/20,89,0,1,35,0,0,209
-4/4/20,Coosa,Alabama,Coosa,0,37,4/4/20,87,0,1,37,0,0,163
-4/4/20,Covington,Alabama,Covington,0,39,4/4/20,194,0,1,39,0,0,492
-4/4/20,Crenshaw,Alabama,Crenshaw,0,41,4/4/20,112,0,1,41,0,0,289
-4/4/20,Cullman,Alabama,Cullman,0,43,4/4/20,798,0,1,43,0,0,1625
-4/4/20,Dale,Alabama,Dale,0,45,4/4/20,257,0,1,45,0,0,668
-4/4/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,4/4/20,490,0,1,47,0,0,1019
-4/4/20,DeKalb,Alabama,DeKalb,0,49,4/4/20,615,0,1,49,0,0,1242
-4/4/20,Elmore,Alabama,Elmore,0,51,4/4/20,667,0,1,51,0,0,1614
-4/4/20,Escambia,Alabama,Escambia,0,53,4/4/20,191,0,1,53,0,0,544
-4/4/20,Etowah,Alabama,Etowah,0,55,4/4/20,1433,0,1,55,0,0,2514
-4/4/20,Fayette,Alabama,Fayette,0,57,4/4/20,132,0,1,57,0,0,292
-4/4/20,Franklin,Alabama,Franklin,0,59,4/4/20,445,0,1,59,0,0,565
-4/4/20,Geneva,Alabama,Geneva,0,61,4/4/20,107,0,1,61,0,0,364
-4/4/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,4/4/20,133,0,1,63,0,0,193
-4/4/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,4/4/20,316,0,1,65,0,0,568
-4/4/20,Henry,Alabama,Henry,0,67,4/4/20,95,0,1,67,0,0,212
-4/4/20,Houston,Alabama,Houston,0,69,4/4/20,719,0,1,69,0,0,1858
-4/4/20,Jackson,Alabama,Jackson,0,71,4/4/20,782,0,1,71,0,0,920
-4/4/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,4/4/20,7068,0,1,73,0,0,15839
-4/4/20,Lamar,Alabama,Lamar,0,75,4/4/20,125,0,1,75,0,0,158
-4/4/20,Lauderdale,Alabama,Lauderdale,0,77,4/4/20,1043,0,1,77,0,0,2229
-4/4/20,Lawrence,Alabama,Lawrence,0,79,4/4/20,230,0,1,79,0,0,455
-4/4/20,Lee,Alabama,Lee,0,81,4/4/20,1264,0,1,81,0,0,3032
-4/4/20,Limestone,Alabama,Limestone,0,83,4/4/20,475,0,1,83,0,0,1410
-4/4/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,4/4/20,170,0,1,85,0,0,247
-4/4/20,Macon,Alabama,Macon,0,87,4/4/20,177,0,1,87,0,0,339
-4/4/20,Madison,Alabama,Madison,0,89,4/4/20,3267,0,1,89,0,0,8019
-4/4/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,4/4/20,119,0,1,91,0,0,224
-4/4/20,Marion,Alabama,Marion,0,93,4/4/20,318,0,1,93,0,0,418
-4/4/20,Marshall,Alabama,Marshall,0,95,4/4/20,756,0,1,95,0,0,2041
-4/4/20,Mobile,Alabama,Mobile,0,97,4/4/20,4297,0,1,97,0,0,9171
-4/4/20,Monroe,Alabama,Monroe,0,99,4/4/20,170,0,1,99,0,0,277
-4/4/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,4/4/20,2462,0,1,101,0,0,5458
-4/4/20,Morgan,Alabama,Morgan,0,103,4/4/20,1141,0,1,103,0,0,2514
-4/4/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,4/4/20,126,0,1,105,0,0,223
-4/4/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,4/4/20,259,0,1,107,0,0,381
-4/4/20,Pike,Alabama,Pike,0,109,4/4/20,188,0,1,109,0,0,507
-4/4/20,Randolph,Alabama,Randolph,0,111,4/4/20,131,0,1,111,0,0,241
-4/4/20,Russell,Alabama,Russell,0,113,4/4/20,210,0,1,113,0,0,631
-4/4/20,St. Clair,Alabama,St. Clair,0,115,4/4/20,728,0,1,115,0,0,1707
-4/4/20,Shelby,Alabama,Shelby,0,117,4/4/20,1241,0,1,117,0,0,3034
-4/4/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,4/4/20,99,0,1,119,0,0,165
-4/4/20,Talladega,Alabama,Talladega,0,121,4/4/20,953,0,1,121,0,0,1864
-4/4/20,Tallapoosa,Alabama,Tallapoosa,0,123,4/4/20,476,0,1,123,0,0,716
-4/4/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,4/4/20,3365,0,1,125,0,0,6515
-4/4/20,Walker,Alabama,Walker,0,127,4/4/20,660,0,1,127,0,0,1349
-4/4/20,Washington,Alabama,Washington,0,129,4/4/20,71,0,1,129,0,0,216
-4/4/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,4/4/20,90,0,1,131,0,0,191
-4/4/20,Winston,Alabama,Winston,0,133,4/4/20,158,0,1,133,0,0,389
-4/4/20,Out of State,Alabama,Out of State,0,999,4/4/20,3626,0,1,,0,0,4355
-3/28/20,Autauga,Alabama,Autauga,0,1,3/28/20,168,0,1,1,0,0,843
-3/28/20,Baldwin,Alabama,Baldwin,0,3,3/28/20,552,0,1,3,0,0,4683
-3/28/20,Barbour,Alabama,Barbour,0,5,3/28/20,63,0,1,5,0,0,124
-3/28/20,Bibb,Alabama,Bibb,0,7,3/28/20,60,0,1,7,0,0,488
-3/28/20,Blount,Alabama,Blount,0,9,3/28/20,116,0,1,9,0,0,481
-3/28/20,Bullock,Alabama,Bullock,0,11,3/28/20,37,0,1,11,0,0,75
-3/28/20,Butler,Alabama,Butler,0,13,3/28/20,96,0,1,13,0,0,328
-3/28/20,Calhoun,Alabama,Calhoun,0,15,3/28/20,428,0,1,15,0,0,1918
-3/28/20,Chambers,Alabama,Chambers,0,17,3/28/20,116,0,1,17,0,0,338
-3/28/20,Cherokee,Alabama,Cherokee,0,19,3/28/20,44,0,1,19,0,0,204
-3/28/20,Chilton,Alabama,Chilton,0,21,3/28/20,69,0,1,21,0,0,669
-3/28/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,3/28/20,22,0,1,23,0,0,57
-3/28/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,3/28/20,83,0,1,25,0,0,170
-3/28/20,Clay,Alabama,Clay,0,27,3/28/20,30,0,1,27,0,0,68
-3/28/20,Cleburne,Alabama,Cleburne,0,29,3/28/20,21,0,1,29,0,0,107
-3/28/20,Coffee,Alabama,Coffee,0,31,3/28/20,82,0,1,31,0,0,493
-3/28/20,Colbert,Alabama,Colbert,0,33,3/28/20,211,0,1,33,0,0,1143
-3/28/20,Conecuh,Alabama,Conecuh,0,35,3/28/20,37,0,1,35,0,0,117
-3/28/20,Coosa,Alabama,Coosa,0,37,3/28/20,31,0,1,37,0,0,103
-3/28/20,Covington,Alabama,Covington,0,39,3/28/20,89,0,1,39,0,0,316
-3/28/20,Crenshaw,Alabama,Crenshaw,0,41,3/28/20,37,0,1,41,0,0,226
-3/28/20,Cullman,Alabama,Cullman,0,43,3/28/20,236,0,1,43,0,0,1406
-3/28/20,Dale,Alabama,Dale,0,45,3/28/20,104,0,1,45,0,0,452
-3/28/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,3/28/20,305,0,1,47,0,0,460
-3/28/20,DeKalb,Alabama,DeKalb,0,49,3/28/20,140,0,1,49,0,0,939
-3/28/20,Elmore,Alabama,Elmore,0,51,3/28/20,225,0,1,51,0,0,1149
-3/28/20,Escambia,Alabama,Escambia,0,53,3/28/20,97,0,1,53,0,0,287
-3/28/20,Etowah,Alabama,Etowah,0,55,3/28/20,592,0,1,55,0,0,1913
-3/28/20,Fayette,Alabama,Fayette,0,57,3/28/20,17,0,1,57,0,0,150
-3/28/20,Franklin,Alabama,Franklin,0,59,3/28/20,147,0,1,59,0,0,675
-3/28/20,Geneva,Alabama,Geneva,0,61,3/28/20,48,0,1,61,0,0,183
-3/28/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,3/28/20,37,0,1,63,0,0,163
-3/28/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,3/28/20,80,0,1,65,0,0,409
-3/28/20,Henry,Alabama,Henry,0,67,3/28/20,51,0,1,67,0,0,108
-3/28/20,Houston,Alabama,Houston,0,69,3/28/20,233,0,1,69,0,0,1337
-3/28/20,Jackson,Alabama,Jackson,0,71,3/28/20,216,0,1,71,0,0,796
-3/28/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,3/28/20,2523,0,1,73,0,0,13603
-3/28/20,Lamar,Alabama,Lamar,0,75,3/28/20,32,0,1,75,0,0,166
-3/28/20,Lauderdale,Alabama,Lauderdale,0,77,3/28/20,269,0,1,77,0,0,1797
-3/28/20,Lawrence,Alabama,Lawrence,0,79,3/28/20,82,0,1,79,0,0,422
-3/28/20,Lee,Alabama,Lee,0,81,3/28/20,468,0,1,81,0,0,1925
-3/28/20,Limestone,Alabama,Limestone,0,83,3/28/20,151,0,1,83,0,0,1191
-3/28/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,3/28/20,76,0,1,85,0,0,123
-3/28/20,Macon,Alabama,Macon,0,87,3/28/20,87,0,1,87,0,0,221
-3/28/20,Madison,Alabama,Madison,0,89,3/28/20,1056,0,1,89,0,0,6370
-3/28/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,3/28/20,47,0,1,91,0,0,158
-3/28/20,Marion,Alabama,Marion,0,93,3/28/20,105,0,1,93,0,0,371
-3/28/20,Marshall,Alabama,Marshall,0,95,3/28/20,237,0,1,95,0,0,1359
-3/28/20,Mobile,Alabama,Mobile,0,97,3/28/20,1936,0,1,97,0,0,7068
-3/28/20,Monroe,Alabama,Monroe,0,99,3/28/20,68,0,1,99,0,0,229
-3/28/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,3/28/20,906,0,1,101,0,0,3968
-3/28/20,Morgan,Alabama,Morgan,0,103,3/28/20,312,0,1,103,0,0,2428
-3/28/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,3/28/20,39,0,1,105,0,0,151
-3/28/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,3/28/20,88,0,1,107,0,0,257
-3/28/20,Pike,Alabama,Pike,0,109,3/28/20,81,0,1,109,0,0,328
-3/28/20,Randolph,Alabama,Randolph,0,111,3/28/20,30,0,1,111,0,0,107
-3/28/20,Russell,Alabama,Russell,0,113,3/28/20,96,0,1,113,0,0,347
-3/28/20,St. Clair,Alabama,St. Clair,0,115,3/28/20,220,0,1,115,0,0,1295
-3/28/20,Shelby,Alabama,Shelby,0,117,3/28/20,434,0,1,117,0,0,2439
-3/28/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,3/28/20,29,0,1,119,0,0,131
-3/28/20,Talladega,Alabama,Talladega,0,121,3/28/20,281,0,1,121,0,0,1209
-3/28/20,Tallapoosa,Alabama,Tallapoosa,0,123,3/28/20,150,0,1,123,0,0,394
-3/28/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,3/28/20,616,0,1,125,0,0,5458
-3/28/20,Walker,Alabama,Walker,0,127,3/28/20,226,0,1,127,0,0,1099
-3/28/20,Washington,Alabama,Washington,0,129,3/28/20,45,0,1,129,0,0,100
-3/28/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,3/28/20,55,0,1,131,0,0,82
-3/28/20,Winston,Alabama,Winston,0,133,3/28/20,86,0,1,133,0,0,195
-3/28/20,Out of State,Alabama,Out of State,0,999,3/28/20,1029,0,1,,0,0,2615
-3/21/20,Autauga,Alabama,Autauga,0,1,3/21/20,104,0,1,1,0,0,99
-3/21/20,Baldwin,Alabama,Baldwin,0,3,3/21/20,340,0,1,3,0,0,503
-3/21/20,Barbour,Alabama,Barbour,0,5,3/21/20,53,0,1,5,0,0,14
-3/21/20,Bibb,Alabama,Bibb,0,7,3/21/20,44,0,1,7,0,0,36
-3/21/20,Blount,Alabama,Blount,0,9,3/21/20,75,0,1,9,0,0,86
-3/21/20,Bullock,Alabama,Bullock,0,11,3/21/20,28,0,1,11,0,0,9
-3/21/20,Butler,Alabama,Butler,0,13,3/21/20,88,0,1,13,0,0,20
-3/21/20,Calhoun,Alabama,Calhoun,0,15,3/21/20,321,0,1,15,0,0,307
-3/21/20,Chambers,Alabama,Chambers,0,17,3/21/20,98,0,1,17,0,0,46
-3/21/20,Cherokee,Alabama,Cherokee,0,19,3/21/20,39,0,1,19,0,0,15
-3/21/20,Chilton,Alabama,Chilton,0,21,3/21/20,47,0,1,21,0,0,80
-3/21/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,23,3/21/20,24,0,1,23,0,0,11
-3/21/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,25,3/21/20,78,0,1,25,0,0,31
-3/21/20,Clay,Alabama,Clay,0,27,3/21/20,25,0,1,27,0,0,10
-3/21/20,Cleburne,Alabama,Cleburne,0,29,3/21/20,17,0,1,29,0,0,10
-3/21/20,Coffee,Alabama,Coffee,0,31,3/21/20,67,0,1,31,0,0,61
-3/21/20,Colbert,Alabama,Colbert,0,33,3/21/20,154,0,1,33,0,0,98
-3/21/20,Conecuh,Alabama,Conecuh,0,35,3/21/20,32,0,1,35,0,0,12
-3/21/20,Coosa,Alabama,Coosa,0,37,3/21/20,21,0,1,37,0,0,16
-3/21/20,Covington,Alabama,Covington,0,39,3/21/20,80,0,1,39,0,0,30
-3/21/20,Crenshaw,Alabama,Crenshaw,0,41,3/21/20,33,0,1,41,0,0,9
-3/21/20,Cullman,Alabama,Cullman,0,43,3/21/20,132,0,1,43,0,0,133
-3/21/20,Dale,Alabama,Dale,0,45,3/21/20,81,0,1,45,0,0,73
-3/21/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,47,3/21/20,177,0,1,47,0,0,48
-3/21/20,DeKalb,Alabama,DeKalb,0,49,3/21/20,109,0,1,49,0,0,74
-3/21/20,Elmore,Alabama,Elmore,0,51,3/21/20,177,0,1,51,0,0,146
-3/21/20,Escambia,Alabama,Escambia,0,53,3/21/20,97,0,1,53,0,0,23
-3/21/20,Etowah,Alabama,Etowah,0,55,3/21/20,521,0,1,55,0,0,180
-3/21/20,Fayette,Alabama,Fayette,0,57,3/21/20,15,0,1,57,0,0,13
-3/21/20,Franklin,Alabama,Franklin,0,59,3/21/20,76,0,1,59,0,0,26
-3/21/20,Geneva,Alabama,Geneva,0,61,3/21/20,40,0,1,61,0,0,30
-3/21/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,63,3/21/20,38,0,1,63,0,0,8
-3/21/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,65,3/21/20,67,0,1,65,0,0,32
-3/21/20,Henry,Alabama,Henry,0,67,3/21/20,35,0,1,67,0,0,19
-3/21/20,Houston,Alabama,Houston,0,69,3/21/20,180,0,1,69,0,0,169
-3/21/20,Jackson,Alabama,Jackson,0,71,3/21/20,152,0,1,71,0,0,98
-3/21/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,73,3/21/20,1624,0,1,73,0,0,2371
-3/21/20,Lamar,Alabama,Lamar,0,75,3/21/20,29,0,1,75,0,0,13
-3/21/20,Lauderdale,Alabama,Lauderdale,0,77,3/21/20,192,0,1,77,0,0,184
-3/21/20,Lawrence,Alabama,Lawrence,0,79,3/21/20,67,0,1,79,0,0,30
-3/21/20,Lee,Alabama,Lee,0,81,3/21/20,266,0,1,81,0,0,384
-3/21/20,Limestone,Alabama,Limestone,0,83,3/21/20,106,0,1,83,0,0,112
-3/21/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,85,3/21/20,26,0,1,85,0,0,20
-3/21/20,Macon,Alabama,Macon,0,87,3/21/20,50,0,1,87,0,0,55
-3/21/20,Madison,Alabama,Madison,0,89,3/21/20,712,0,1,89,0,0,1080
-3/21/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,91,3/21/20,44,0,1,91,0,0,13
-3/21/20,Marion,Alabama,Marion,0,93,3/21/20,78,0,1,93,0,0,31
-3/21/20,Marshall,Alabama,Marshall,0,95,3/21/20,192,0,1,95,0,0,156
-3/21/20,Mobile,Alabama,Mobile,0,97,3/21/20,1574,0,1,97,0,0,1024
-3/21/20,Monroe,Alabama,Monroe,0,99,3/21/20,75,0,1,99,0,0,24
-3/21/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,101,3/21/20,629,0,1,101,0,0,523
-3/21/20,Morgan,Alabama,Morgan,0,103,3/21/20,197,0,1,103,0,0,231
-3/21/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,105,3/21/20,29,0,1,105,0,0,9
-3/21/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,107,3/21/20,80,0,1,107,0,0,31
-3/21/20,Pike,Alabama,Pike,0,109,3/21/20,67,0,1,109,0,0,35
-3/21/20,Randolph,Alabama,Randolph,0,111,3/21/20,30,0,1,111,0,0,7
-3/21/20,Russell,Alabama,Russell,0,113,3/21/20,87,0,1,113,0,0,35
-3/21/20,St. Clair,Alabama,St. Clair,0,115,3/21/20,152,0,1,115,0,0,195
-3/21/20,Shelby,Alabama,Shelby,0,117,3/21/20,281,0,1,117,0,0,448
-3/21/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,119,3/21/20,29,0,1,119,0,0,7
-3/21/20,Talladega,Alabama,Talladega,0,121,3/21/20,225,0,1,121,0,0,143
-3/21/20,Tallapoosa,Alabama,Tallapoosa,0,123,3/21/20,113,0,1,123,0,0,52
-3/21/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,125,3/21/20,306,0,1,125,0,0,576
-3/21/20,Walker,Alabama,Walker,0,127,3/21/20,167,0,1,127,0,0,158
-3/21/20,Washington,Alabama,Washington,0,129,3/21/20,42,0,1,129,0,0,19
-3/21/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,131,3/21/20,60,0,1,131,0,0,4
-3/21/20,Winston,Alabama,Winston,0,133,3/21/20,67,0,1,133,0,0,26
-3/21/20,Out of State,Alabama,Out of State,0,999,3/21/20,193,0,1,,0,0,321
-3/14/20,Autauga,Alabama,Autauga,0,,3/14/20,110,0,1,1,0,0,21
-3/14/20,Baldwin,Alabama,Baldwin,0,,3/14/20,352,0,1,3,0,0,30
-3/14/20,Barbour,Alabama,Barbour,0,,3/14/20,51,0,1,5,0,0,3
-3/14/20,Bibb,Alabama,Bibb,0,,3/14/20,50,0,1,7,0,0,4
-3/14/20,Blount,Alabama,Blount,0,,3/14/20,73,0,1,9,0,0,12
-3/14/20,Bullock,Alabama,Bullock,0,,3/14/20,26,0,1,11,0,0,0
-3/14/20,Butler,Alabama,Butler,0,,3/14/20,101,0,1,13,0,0,4
-3/14/20,Calhoun,Alabama,Calhoun,0,,3/14/20,339,0,1,15,0,0,52
-3/14/20,Chambers,Alabama,Chambers,0,,3/14/20,96,0,1,17,0,0,12
-3/14/20,Cherokee,Alabama,Cherokee,0,,3/14/20,42,0,1,19,0,0,12
-3/14/20,Chilton,Alabama,Chilton,0,,3/14/20,55,0,1,21,0,0,10
-3/14/20,Choctaw,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,24,0,1,23,0,0,1
-3/14/20,Clarke,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,85,0,1,25,0,0,7
-3/14/20,Clay,Alabama,Clay,0,,3/14/20,25,0,1,27,0,0,4
-3/14/20,Cleburne,Alabama,Cleburne,0,,3/14/20,23,0,1,29,0,0,2
-3/14/20,Coffee,Alabama,Coffee,0,,3/14/20,78,0,1,31,0,0,12
-3/14/20,Colbert,Alabama,Colbert,0,,3/14/20,167,0,1,33,0,0,17
-3/14/20,Conecuh,Alabama,Conecuh,0,,3/14/20,36,0,1,35,0,0,3
-3/14/20,Coosa,Alabama,Coosa,0,,3/14/20,25,0,1,37,0,0,3
-3/14/20,Covington,Alabama,Covington,0,,3/14/20,77,0,1,39,0,0,21
-3/14/20,Crenshaw,Alabama,Crenshaw,0,,3/14/20,31,0,1,41,0,0,3
-3/14/20,Cullman,Alabama,Cullman,0,,3/14/20,152,0,1,43,0,0,25
-3/14/20,Dale,Alabama,Dale,0,,3/14/20,86,0,1,45,0,0,15
-3/14/20,Dallas,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,185,0,1,47,0,0,23
-3/14/20,DeKalb,Alabama,DeKalb,0,,3/14/20,114,0,1,49,0,0,18
-3/14/20,Elmore,Alabama,Elmore,0,,3/14/20,176,0,1,51,0,0,21
-3/14/20,Escambia,Alabama,Escambia,0,,3/14/20,101,0,1,53,0,0,15
-3/14/20,Etowah,Alabama,Etowah,0,,3/14/20,551,0,1,55,0,0,36
-3/14/20,Fayette,Alabama,Fayette,0,,3/14/20,16,0,1,57,0,0,3
-3/14/20,Franklin,Alabama,Franklin,0,,3/14/20,89,0,1,59,0,0,9
-3/14/20,Geneva,Alabama,Geneva,0,,3/14/20,42,0,1,61,0,0,5
-3/14/20,Greene,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,42,0,1,63,0,0,2
-3/14/20,Hale,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,73,0,1,65,0,0,17
-3/14/20,Henry,Alabama,Henry,0,,3/14/20,34,0,1,67,0,0,5
-3/14/20,Houston,Alabama,Houston,0,,3/14/20,184,0,1,69,0,0,37
-3/14/20,Jackson,Alabama,Jackson,0,,3/14/20,141,0,1,71,0,0,21
-3/14/20,Jefferson,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,1665,0,1,73,0,0,252
-3/14/20,Lamar,Alabama,Lamar,0,,3/14/20,26,0,1,75,0,0,8
-3/14/20,Lauderdale,Alabama,Lauderdale,0,,3/14/20,200,0,1,77,0,0,33
-3/14/20,Lawrence,Alabama,Lawrence,0,,3/14/20,63,0,1,79,0,0,9
-3/14/20,Lee,Alabama,Lee,0,,3/14/20,226,0,1,81,0,0,46
-3/14/20,Limestone,Alabama,Limestone,0,,3/14/20,115,0,1,83,0,0,26
-3/14/20,Lowndes,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,31,0,1,85,0,0,6
-3/14/20,Macon,Alabama,Macon,0,,3/14/20,44,0,1,87,0,0,5
-3/14/20,Madison,Alabama,Madison,0,,3/14/20,726,0,1,89,0,0,114
-3/14/20,Marengo,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,44,0,1,91,0,0,3
-3/14/20,Marion,Alabama,Marion,0,,3/14/20,85,0,1,93,0,0,11
-3/14/20,Marshall,Alabama,Marshall,0,,3/14/20,198,0,1,95,0,0,25
-3/14/20,Mobile,Alabama,Mobile,0,,3/14/20,1603,0,1,97,0,0,188
-3/14/20,Monroe,Alabama,Monroe,0,,3/14/20,81,0,1,99,0,0,7
-3/14/20,Montgomery,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,660,0,1,101,0,0,105
-3/14/20,Morgan,Alabama,Morgan,0,,3/14/20,214,0,1,103,0,0,35
-3/14/20,Perry,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,36,0,1,105,0,0,4
-3/14/20,Pickens,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,56,0,1,107,0,0,28
-3/14/20,Pike,Alabama,Pike,0,,3/14/20,71,0,1,109,0,0,19
-3/14/20,Randolph,Alabama,Randolph,0,,3/14/20,30,0,1,111,0,0,6
-3/14/20,Russell,Alabama,Russell,0,,3/14/20,82,0,1,113,0,0,16
-3/14/20,St. Clair,Alabama,St. Clair,0,,3/14/20,154,0,1,115,0,0,24
-3/14/20,Shelby,Alabama,Shelby,0,,3/14/20,294,0,1,117,0,0,38
-3/14/20,Sumter,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,30,0,1,119,0,0,1
-3/14/20,Talladega,Alabama,Talladega,0,,3/14/20,247,0,1,121,0,0,41
-3/14/20,Tallapoosa,Alabama,Tallapoosa,0,,3/14/20,112,0,1,123,0,0,18
-3/14/20,Tuscaloosa,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,316,0,1,125,0,0,54
-3/14/20,Walker,Alabama,Walker,0,,3/14/20,169,0,1,127,0,0,23
-3/14/20,Washington,Alabama,Washington,0,,3/14/20,47,0,1,129,0,0,3
-3/14/20,Wilcox,Alabama,"Choctaw, Clarke, Dallas and 11 more",0,,3/14/20,65,0,1,131,0,0,6
-3/14/20,Winston,Alabama,Winston,0,,3/14/20,69,0,1,133,0,0,5
-3/14/20,Out of State,Alabama,Out of State,0,,3/14/20,189,0,1,,0,0,175
+Congressional District 7,County,F9,geogfips,State,WED,WED_Title,F5,F7,Number of Records,Total,Ucfe,UCX,UI
+Autauga,Autauga,0,1,Alabama,6/6/20,6/6/20,1791,0,1,1,0,0,211
+Baldwin,Baldwin,0,3,Alabama,6/6/20,6/6/20,6454,0,1,3,0,0,644
+Barbour,Barbour,0,5,Alabama,6/6/20,6/6/20,540,0,1,5,0,0,100
+Bibb,Bibb,0,7,Alabama,6/6/20,6/6/20,1011,0,1,7,0,0,77
+Blount,Blount,0,9,Alabama,6/6/20,6/6/20,801,0,1,9,0,0,74
+Bullock,Bullock,0,11,Alabama,6/6/20,6/6/20,315,0,1,11,0,0,54
+Butler,Butler,0,13,Alabama,6/6/20,6/6/20,1194,0,1,13,0,0,129
+Calhoun,Calhoun,0,15,Alabama,6/6/20,6/6/20,4210,0,1,15,0,0,478
+Chambers,Chambers,0,17,Alabama,6/6/20,6/6/20,1376,0,1,17,0,0,191
+Cherokee,Cherokee,0,19,Alabama,6/6/20,6/6/20,489,0,1,19,0,0,61
+Chilton,Chilton,0,21,Alabama,6/6/20,6/6/20,1171,0,1,21,0,0,136
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,6/6/20,6/6/20,218,0,1,23,0,0,50
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,6/6/20,6/6/20,717,0,1,25,0,0,105
+Clay,Clay,0,27,Alabama,6/6/20,6/6/20,192,0,1,27,0,0,28
+Cleburne,Cleburne,0,29,Alabama,6/6/20,6/6/20,199,0,1,29,0,0,29
+Coffee,Coffee,0,31,Alabama,6/6/20,6/6/20,1092,0,1,31,0,0,136
+Colbert,Colbert,0,33,Alabama,6/6/20,6/6/20,1997,0,1,33,0,0,199
+Conecuh,Conecuh,0,35,Alabama,6/6/20,6/6/20,374,0,1,35,0,0,66
+Coosa,Coosa,0,37,Alabama,6/6/20,6/6/20,358,0,1,37,0,0,42
+Covington,Covington,0,39,Alabama,6/6/20,6/6/20,712,0,1,39,0,0,82
+Crenshaw,Crenshaw,0,41,Alabama,6/6/20,6/6/20,462,0,1,41,0,0,52
+Cullman,Cullman,0,43,Alabama,6/6/20,6/6/20,1957,0,1,43,0,0,205
+Dale,Dale,0,45,Alabama,6/6/20,6/6/20,1060,0,1,45,0,0,150
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,6/6/20,6/6/20,2153,0,1,47,0,0,228
+DeKalb,DeKalb,0,49,Alabama,6/6/20,6/6/20,1467,0,1,49,0,0,185
+Elmore,Elmore,0,51,Alabama,6/6/20,6/6/20,2617,0,1,51,0,0,274
+Escambia,Escambia,0,53,Alabama,6/6/20,6/6/20,926,0,1,53,0,0,148
+Etowah,Etowah,0,55,Alabama,6/6/20,6/6/20,3919,0,1,55,0,0,351
+Fayette,Fayette,0,57,Alabama,6/6/20,6/6/20,395,0,1,57,0,0,48
+Franklin,Franklin,0,59,Alabama,6/6/20,6/6/20,713,0,1,59,0,0,93
+Geneva,Geneva,0,61,Alabama,6/6/20,6/6/20,414,0,1,61,0,0,55
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,6/6/20,6/6/20,449,0,1,63,0,0,58
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,6/6/20,6/6/20,1088,0,1,65,0,0,72
+Henry,Henry,0,67,Alabama,6/6/20,6/6/20,301,0,1,67,0,0,56
+Houston,Houston,0,69,Alabama,6/6/20,6/6/20,2780,0,1,69,0,0,391
+Jackson,Jackson,0,71,Alabama,6/6/20,6/6/20,1391,0,1,71,0,0,183
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,6/6/20,6/6/20,28338,0,1,73,0,0,2977
+Lamar,Lamar,0,75,Alabama,6/6/20,6/6/20,258,0,1,75,0,0,50
+Lauderdale,Lauderdale,0,77,Alabama,6/6/20,6/6/20,2977,0,1,77,0,0,288
+Lawrence,Lawrence,0,79,Alabama,6/6/20,6/6/20,657,0,1,79,0,0,70
+Lee,Lee,0,81,Alabama,6/6/20,6/6/20,5059,0,1,81,0,0,502
+Limestone,Limestone,0,83,Alabama,6/6/20,6/6/20,1799,0,1,83,0,0,189
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,6/6/20,6/6/20,714,0,1,85,0,0,60
+Macon,Macon,0,87,Alabama,6/6/20,6/6/20,810,0,1,87,0,0,99
+Madison,Madison,0,89,Alabama,6/6/20,6/6/20,11760,0,1,89,0,0,1257
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,6/6/20,6/6/20,457,0,1,91,0,0,77
+Marion,Marion,0,93,Alabama,6/6/20,6/6/20,591,0,1,93,0,0,98
+Marshall,Marshall,0,95,Alabama,6/6/20,6/6/20,2248,0,1,95,0,0,340
+Mobile,Mobile,0,97,Alabama,6/6/20,6/6/20,17265,0,1,97,0,0,2369
+Monroe,Monroe,0,99,Alabama,6/6/20,6/6/20,564,0,1,99,0,0,98
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,6/6/20,6/6/20,12551,0,1,101,0,0,1518
+Morgan,Morgan,0,103,Alabama,6/6/20,6/6/20,3590,0,1,103,0,0,404
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,6/6/20,6/6/20,474,0,1,105,0,0,50
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,6/6/20,6/6/20,711,0,1,107,0,0,59
+Pike,Pike,0,109,Alabama,6/6/20,6/6/20,863,0,1,109,0,0,134
+Randolph,Randolph,0,111,Alabama,6/6/20,6/6/20,346,0,1,111,0,0,44
+Russell,Russell,0,113,Alabama,6/6/20,6/6/20,893,0,1,113,0,0,227
+St. Clair,St. Clair,0,115,Alabama,6/6/20,6/6/20,2385,0,1,115,0,0,238
+Shelby,Shelby,0,117,Alabama,6/6/20,6/6/20,4267,0,1,117,0,0,375
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,6/6/20,6/6/20,355,0,1,119,0,0,61
+Talladega,Talladega,0,121,Alabama,6/6/20,6/6/20,2837,0,1,121,0,0,323
+Tallapoosa,Tallapoosa,0,123,Alabama,6/6/20,6/6/20,1632,0,1,123,0,0,159
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,6/6/20,6/6/20,11746,0,1,125,0,0,889
+Walker,Walker,0,127,Alabama,6/6/20,6/6/20,1889,0,1,127,0,0,258
+Washington,Washington,0,129,Alabama,6/6/20,6/6/20,528,0,1,129,0,0,82
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,6/6/20,6/6/20,458,0,1,131,0,0,110
+Winston,Winston,0,133,Alabama,6/6/20,6/6/20,582,0,1,133,0,0,79
+INA,INA,0,,Alabama,6/6/20,6/6/20,8073,0,1,,0,0,1025
+Total,Total,0,,Alabama,6/6/20,6/6/20,174980,0,1,,0,0,19950
+Autauga,Autauga,0,1,Alabama,5/30/20,5/30/20,1730,0,1,1,0,0,195
+Baldwin,Baldwin,0,3,Alabama,5/30/20,5/30/20,7075,0,1,3,0,0,590
+Barbour,Barbour,0,5,Alabama,5/30/20,5/30/20,512,0,1,5,0,0,127
+Bibb,Bibb,0,7,Alabama,5/30/20,5/30/20,1013,0,1,7,0,0,123
+Blount,Blount,0,9,Alabama,5/30/20,5/30/20,895,0,1,9,0,0,116
+Bullock,Bullock,0,11,Alabama,5/30/20,5/30/20,287,0,1,11,0,0,56
+Butler,Butler,0,13,Alabama,5/30/20,5/30/20,1121,0,1,13,0,0,142
+Calhoun,Calhoun,0,15,Alabama,5/30/20,5/30/20,4626,0,1,15,0,0,467
+Chambers,Chambers,0,17,Alabama,5/30/20,5/30/20,1375,0,1,17,0,0,174
+Cherokee,Cherokee,0,19,Alabama,5/30/20,5/30/20,525,0,1,19,0,0,52
+Chilton,Chilton,0,21,Alabama,5/30/20,5/30/20,1257,0,1,21,0,0,137
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,5/30/20,5/30/20,216,0,1,23,0,0,42
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,5/30/20,5/30/20,747,0,1,25,0,0,121
+Clay,Clay,0,27,Alabama,5/30/20,5/30/20,197,0,1,27,0,0,35
+Cleburne,Cleburne,0,29,Alabama,5/30/20,5/30/20,213,0,1,29,0,0,20
+Coffee,Coffee,0,31,Alabama,5/30/20,5/30/20,1158,0,1,31,0,0,163
+Colbert,Colbert,0,33,Alabama,5/30/20,5/30/20,2095,0,1,33,0,0,183
+Conecuh,Conecuh,0,35,Alabama,5/30/20,5/30/20,313,0,1,35,0,0,75
+Coosa,Coosa,0,37,Alabama,5/30/20,5/30/20,321,0,1,37,0,0,34
+Covington,Covington,0,39,Alabama,5/30/20,5/30/20,747,0,1,39,0,0,101
+Crenshaw,Crenshaw,0,41,Alabama,5/30/20,5/30/20,436,0,1,41,0,0,54
+Cullman,Cullman,0,43,Alabama,5/30/20,5/30/20,2227,0,1,43,0,0,229
+Dale,Dale,0,45,Alabama,5/30/20,5/30/20,1098,0,1,45,0,0,142
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,5/30/20,5/30/20,2133,0,1,47,0,0,232
+DeKalb,DeKalb,0,49,Alabama,5/30/20,5/30/20,1584,0,1,49,0,0,167
+Elmore,Elmore,0,51,Alabama,5/30/20,5/30/20,2439,0,1,51,0,0,321
+Escambia,Escambia,0,53,Alabama,5/30/20,5/30/20,870,0,1,53,0,0,188
+Etowah,Etowah,0,55,Alabama,5/30/20,5/30/20,4239,0,1,55,0,0,376
+Fayette,Fayette,0,57,Alabama,5/30/20,5/30/20,347,0,1,57,0,0,50
+Franklin,Franklin,0,59,Alabama,5/30/20,5/30/20,722,0,1,59,0,0,94
+Geneva,Geneva,0,61,Alabama,5/30/20,5/30/20,443,0,1,61,0,0,56
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,5/30/20,5/30/20,488,0,1,63,0,0,53
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,5/30/20,5/30/20,1123,0,1,65,0,0,144
+Henry,Henry,0,67,Alabama,5/30/20,5/30/20,316,0,1,67,0,0,52
+Houston,Houston,0,69,Alabama,5/30/20,5/30/20,2957,0,1,69,0,0,386
+Jackson,Jackson,0,71,Alabama,5/30/20,5/30/20,1478,0,1,71,0,0,158
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,5/30/20,5/30/20,28945,0,1,73,0,0,3302
+Lamar,Lamar,0,75,Alabama,5/30/20,5/30/20,289,0,1,75,0,0,74
+Lauderdale,Lauderdale,0,77,Alabama,5/30/20,5/30/20,3193,0,1,77,0,0,265
+Lawrence,Lawrence,0,79,Alabama,5/30/20,5/30/20,669,0,1,79,0,0,68
+Lee,Lee,0,81,Alabama,5/30/20,5/30/20,5103,0,1,81,0,0,531
+Limestone,Limestone,0,83,Alabama,5/30/20,5/30/20,1899,0,1,83,0,0,159
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,5/30/20,5/30/20,657,0,1,85,0,0,50
+Macon,Macon,0,87,Alabama,5/30/20,5/30/20,800,0,1,87,0,0,119
+Madison,Madison,0,89,Alabama,5/30/20,5/30/20,12430,0,1,89,0,0,1261
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,5/30/20,5/30/20,479,0,1,91,0,0,73
+Marion,Marion,0,93,Alabama,5/30/20,5/30/20,622,0,1,93,0,0,110
+Marshall,Marshall,0,95,Alabama,5/30/20,5/30/20,2663,0,1,95,0,0,323
+Mobile,Mobile,0,97,Alabama,5/30/20,5/30/20,17856,0,1,97,0,0,2433
+Monroe,Monroe,0,99,Alabama,5/30/20,5/30/20,552,0,1,99,0,0,117
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,5/30/20,5/30/20,11912,0,1,101,0,0,1479
+Morgan,Morgan,0,103,Alabama,5/30/20,5/30/20,3727,0,1,103,0,0,436
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,5/30/20,5/30/20,483,0,1,105,0,0,62
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,5/30/20,5/30/20,762,0,1,107,0,0,118
+Pike,Pike,0,109,Alabama,5/30/20,5/30/20,855,0,1,109,0,0,142
+Randolph,Randolph,0,111,Alabama,5/30/20,5/30/20,351,0,1,111,0,0,62
+Russell,Russell,0,113,Alabama,5/30/20,5/30/20,908,0,1,113,0,0,219
+St. Clair,St. Clair,0,115,Alabama,5/30/20,5/30/20,2555,0,1,115,0,0,257
+Shelby,Shelby,0,117,Alabama,5/30/20,5/30/20,4414,0,1,117,0,0,449
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,5/30/20,5/30/20,386,0,1,119,0,0,57
+Talladega,Talladega,0,121,Alabama,5/30/20,5/30/20,3154,0,1,121,0,0,341
+Tallapoosa,Tallapoosa,0,123,Alabama,5/30/20,5/30/20,1460,0,1,123,0,0,173
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,5/30/20,5/30/20,11768,0,1,125,0,0,1386
+Walker,Walker,0,127,Alabama,5/30/20,5/30/20,2006,0,1,127,0,0,267
+Washington,Washington,0,129,Alabama,5/30/20,5/30/20,554,0,1,129,0,0,88
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,5/30/20,5/30/20,440,0,1,131,0,0,73
+Winston,Winston,0,133,Alabama,5/30/20,5/30/20,594,0,1,133,0,0,82
+INA,INA,0,,Alabama,5/30/20,5/30/20,6174,0,1,,0,0,555
+Total,Total,0,,Alabama,5/30/20,5/30/20,177983,0,1,,0,0,20786
+Autauga,Autauga,0,1,Alabama,5/23/20,5/23/20,1981,0,1,1,0,0,299
+Baldwin,Baldwin,0,3,Alabama,5/23/20,5/23/20,7778,0,1,3,0,0,755
+Barbour,Barbour,0,5,Alabama,5/23/20,5/23/20,483,0,1,5,0,0,106
+Bibb,Bibb,0,7,Alabama,5/23/20,5/23/20,909,0,1,7,0,0,217
+Blount,Blount,0,9,Alabama,5/23/20,5/23/20,918,0,1,9,0,0,174
+Bullock,Bullock,0,11,Alabama,5/23/20,5/23/20,298,0,1,11,0,0,61
+Butler,Butler,0,13,Alabama,5/23/20,5/23/20,1209,0,1,13,0,0,150
+Calhoun,Calhoun,0,15,Alabama,5/23/20,5/23/20,5093,0,1,15,0,0,639
+Chambers,Chambers,0,17,Alabama,5/23/20,5/23/20,1375,0,1,17,0,0,219
+Cherokee,Cherokee,0,19,Alabama,5/23/20,5/23/20,564,0,1,19,0,0,61
+Chilton,Chilton,0,21,Alabama,5/23/20,5/23/20,1421,0,1,21,0,0,193
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,5/23/20,5/23/20,224,0,1,23,0,0,51
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,5/23/20,5/23/20,781,0,1,25,0,0,129
+Clay,Clay,0,27,Alabama,5/23/20,5/23/20,203,0,1,27,0,0,38
+Cleburne,Cleburne,0,29,Alabama,5/23/20,5/23/20,220,0,1,29,0,0,39
+Coffee,Coffee,0,31,Alabama,5/23/20,5/23/20,1164,0,1,31,0,0,178
+Colbert,Colbert,0,33,Alabama,5/23/20,5/23/20,2313,0,1,33,0,0,206
+Conecuh,Conecuh,0,35,Alabama,5/23/20,5/23/20,317,0,1,35,0,0,65
+Coosa,Coosa,0,37,Alabama,5/23/20,5/23/20,358,0,1,37,0,0,29
+Covington,Covington,0,39,Alabama,5/23/20,5/23/20,788,0,1,39,0,0,133
+Crenshaw,Crenshaw,0,41,Alabama,5/23/20,5/23/20,486,0,1,41,0,0,55
+Cullman,Cullman,0,43,Alabama,5/23/20,5/23/20,2546,0,1,43,0,0,292
+Dale,Dale,0,45,Alabama,5/23/20,5/23/20,1137,0,1,45,0,0,182
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,5/23/20,5/23/20,2339,0,1,47,0,0,329
+DeKalb,DeKalb,0,49,Alabama,5/23/20,5/23/20,1770,0,1,49,0,0,253
+Elmore,Elmore,0,51,Alabama,5/23/20,5/23/20,2753,0,1,51,0,0,395
+Escambia,Escambia,0,53,Alabama,5/23/20,5/23/20,856,0,1,53,0,0,207
+Etowah,Etowah,0,55,Alabama,5/23/20,5/23/20,4467,0,1,55,0,0,542
+Fayette,Fayette,0,57,Alabama,5/23/20,5/23/20,349,0,1,57,0,0,89
+Franklin,Franklin,0,59,Alabama,5/23/20,5/23/20,772,0,1,59,0,0,125
+Geneva,Geneva,0,61,Alabama,5/23/20,5/23/20,453,0,1,61,0,0,81
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,5/23/20,5/23/20,421,0,1,63,0,0,84
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,5/23/20,5/23/20,1018,0,1,65,0,0,208
+Henry,Henry,0,67,Alabama,5/23/20,5/23/20,333,0,1,67,0,0,60
+Houston,Houston,0,69,Alabama,5/23/20,5/23/20,2982,0,1,69,0,0,503
+Jackson,Jackson,0,71,Alabama,5/23/20,5/23/20,1599,0,1,71,0,0,171
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,5/23/20,5/23/20,28812,0,1,73,0,0,4221
+Lamar,Lamar,0,75,Alabama,5/23/20,5/23/20,279,0,1,75,0,0,118
+Lauderdale,Lauderdale,0,77,Alabama,5/23/20,5/23/20,3650,0,1,77,0,0,295
+Lawrence,Lawrence,0,79,Alabama,5/23/20,5/23/20,702,0,1,79,0,0,103
+Lee,Lee,0,81,Alabama,5/23/20,5/23/20,5358,0,1,81,0,0,606
+Limestone,Limestone,0,83,Alabama,5/23/20,5/23/20,2074,0,1,83,0,0,229
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,5/23/20,5/23/20,676,0,1,85,0,0,80
+Macon,Macon,0,87,Alabama,5/23/20,5/23/20,840,0,1,87,0,0,120
+Madison,Madison,0,89,Alabama,5/23/20,5/23/20,12850,0,1,89,0,0,1564
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,5/23/20,5/23/20,436,0,1,91,0,0,91
+Marion,Marion,0,93,Alabama,5/23/20,5/23/20,625,0,1,93,0,0,144
+Marshall,Marshall,0,95,Alabama,5/23/20,5/23/20,2852,0,1,95,0,0,569
+Mobile,Mobile,0,97,Alabama,5/23/20,5/23/20,17828,0,1,97,0,0,3167
+Monroe,Monroe,0,99,Alabama,5/23/20,5/23/20,559,0,1,99,0,0,127
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,5/23/20,5/23/20,12596,0,1,101,0,0,1891
+Morgan,Morgan,0,103,Alabama,5/23/20,5/23/20,3965,0,1,103,0,0,516
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,5/23/20,5/23/20,431,0,1,105,0,0,99
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,5/23/20,5/23/20,633,0,1,107,0,0,155
+Pike,Pike,0,109,Alabama,5/23/20,5/23/20,824,0,1,109,0,0,164
+Randolph,Randolph,0,111,Alabama,5/23/20,5/23/20,382,0,1,111,0,0,77
+Russell,Russell,0,113,Alabama,5/23/20,5/23/20,879,0,1,113,0,0,264
+St. Clair,St. Clair,0,115,Alabama,5/23/20,5/23/20,2752,0,1,115,0,0,361
+Shelby,Shelby,0,117,Alabama,5/23/20,5/23/20,4593,0,1,117,0,0,583
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,5/23/20,5/23/20,329,0,1,119,0,0,81
+Talladega,Talladega,0,121,Alabama,5/23/20,5/23/20,3685,0,1,121,0,0,431
+Tallapoosa,Tallapoosa,0,123,Alabama,5/23/20,5/23/20,1534,0,1,123,0,0,185
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,5/23/20,5/23/20,10527,0,1,125,0,0,2272
+Walker,Walker,0,127,Alabama,5/23/20,5/23/20,2094,0,1,127,0,0,312
+Washington,Washington,0,129,Alabama,5/23/20,5/23/20,562,0,1,129,0,0,114
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,5/23/20,5/23/20,451,0,1,131,0,0,62
+Winston,Winston,0,133,Alabama,5/23/20,5/23/20,576,0,1,133,0,0,159
+INA,INA,0,,Alabama,5/23/20,5/23/20,8733,0,1,,0,0,1441
+Total,Total,0,,Alabama,5/23/20,5/23/20,185765,0,1,,0,0,27919
+Autauga,Autauga,0,1,Alabama,5/16/20,5/16/20,1925,0,1,1,0,0,266
+Baldwin,Baldwin,0,3,Alabama,5/16/20,5/16/20,9198,0,1,3,0,0,811
+Barbour,Barbour,0,5,Alabama,5/16/20,5/16/20,481,0,1,5,0,0,110
+Bibb,Bibb,0,7,Alabama,5/16/20,5/16/20,953,0,1,7,0,0,134
+Blount,Blount,0,9,Alabama,5/16/20,5/16/20,1040,0,1,9,0,0,160
+Bullock,Bullock,0,11,Alabama,5/16/20,5/16/20,269,0,1,11,0,0,48
+Butler,Butler,0,13,Alabama,5/16/20,5/16/20,1188,0,1,13,0,0,119
+Calhoun,Calhoun,0,15,Alabama,5/16/20,5/16/20,7084,0,1,15,0,0,569
+Chambers,Chambers,0,17,Alabama,5/16/20,5/16/20,1413,0,1,17,0,0,201
+Cherokee,Cherokee,0,19,Alabama,5/16/20,5/16/20,629,0,1,19,0,0,54
+Chilton,Chilton,0,21,Alabama,5/16/20,5/16/20,1458,0,1,21,0,0,169
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,5/16/20,5/16/20,226,0,1,23,0,0,58
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,5/16/20,5/16/20,749,0,1,25,0,0,132
+Clay,Clay,0,27,Alabama,5/16/20,5/16/20,336,0,1,27,0,0,26
+Cleburne,Cleburne,0,29,Alabama,5/16/20,5/16/20,329,0,1,29,0,0,21
+Coffee,Coffee,0,31,Alabama,5/16/20,5/16/20,1243,0,1,31,0,0,154
+Colbert,Colbert,0,33,Alabama,5/16/20,5/16/20,2481,0,1,33,0,0,239
+Conecuh,Conecuh,0,35,Alabama,5/16/20,5/16/20,323,0,1,35,0,0,65
+Coosa,Coosa,0,37,Alabama,5/16/20,5/16/20,482,0,1,37,0,0,44
+Covington,Covington,0,39,Alabama,5/16/20,5/16/20,826,0,1,39,0,0,143
+Crenshaw,Crenshaw,0,41,Alabama,5/16/20,5/16/20,469,0,1,41,0,0,43
+Cullman,Cullman,0,43,Alabama,5/16/20,5/16/20,2800,0,1,43,0,0,285
+Dale,Dale,0,45,Alabama,5/16/20,5/16/20,1182,0,1,45,0,0,193
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,5/16/20,5/16/20,2180,0,1,47,0,0,291
+DeKalb,DeKalb,0,49,Alabama,5/16/20,5/16/20,1986,0,1,49,0,0,226
+Elmore,Elmore,0,51,Alabama,5/16/20,5/16/20,2739,0,1,51,0,0,364
+Escambia,Escambia,0,53,Alabama,5/16/20,5/16/20,857,0,1,53,0,0,142
+Etowah,Etowah,0,55,Alabama,5/16/20,5/16/20,5406,0,1,55,0,0,462
+Fayette,Fayette,0,57,Alabama,5/16/20,5/16/20,333,0,1,57,0,0,42
+Franklin,Franklin,0,59,Alabama,5/16/20,5/16/20,824,0,1,59,0,0,120
+Geneva,Geneva,0,61,Alabama,5/16/20,5/16/20,495,0,1,61,0,0,67
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,5/16/20,5/16/20,449,0,1,63,0,0,72
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,5/16/20,5/16/20,981,0,1,65,0,0,147
+Henry,Henry,0,67,Alabama,5/16/20,5/16/20,338,0,1,67,0,0,55
+Houston,Houston,0,69,Alabama,5/16/20,5/16/20,3176,0,1,69,0,0,449
+Jackson,Jackson,0,71,Alabama,5/16/20,5/16/20,1695,0,1,71,0,0,168
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,5/16/20,5/16/20,30333,0,1,73,0,0,3715
+Lamar,Lamar,0,75,Alabama,5/16/20,5/16/20,230,0,1,75,0,0,43
+Lauderdale,Lauderdale,0,77,Alabama,5/16/20,5/16/20,4015,0,1,77,0,0,417
+Lawrence,Lawrence,0,79,Alabama,5/16/20,5/16/20,741,0,1,79,0,0,103
+Lee,Lee,0,81,Alabama,5/16/20,5/16/20,5548,0,1,81,0,0,611
+Limestone,Limestone,0,83,Alabama,5/16/20,5/16/20,2279,0,1,83,0,0,295
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,5/16/20,5/16/20,658,0,1,85,0,0,72
+Macon,Macon,0,87,Alabama,5/16/20,5/16/20,800,0,1,87,0,0,99
+Madison,Madison,0,89,Alabama,5/16/20,5/16/20,13822,0,1,89,0,0,1606
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,5/16/20,5/16/20,437,0,1,91,0,0,71
+Marion,Marion,0,93,Alabama,5/16/20,5/16/20,627,0,1,93,0,0,141
+Marshall,Marshall,0,95,Alabama,5/16/20,5/16/20,3463,0,1,95,0,0,348
+Mobile,Mobile,0,97,Alabama,5/16/20,5/16/20,18466,0,1,97,0,0,3000
+Monroe,Monroe,0,99,Alabama,5/16/20,5/16/20,593,0,1,99,0,0,101
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,5/16/20,5/16/20,12055,0,1,101,0,0,1596
+Morgan,Morgan,0,103,Alabama,5/16/20,5/16/20,4243,0,1,103,0,0,495
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,5/16/20,5/16/20,415,0,1,105,0,0,70
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,5/16/20,5/16/20,647,0,1,107,0,0,96
+Pike,Pike,0,109,Alabama,5/16/20,5/16/20,820,0,1,109,0,0,139
+Randolph,Randolph,0,111,Alabama,5/16/20,5/16/20,503,0,1,111,0,0,73
+Russell,Russell,0,113,Alabama,5/16/20,5/16/20,889,0,1,113,0,0,224
+St. Clair,St. Clair,0,115,Alabama,5/16/20,5/16/20,3640,0,1,115,0,0,315
+Shelby,Shelby,0,117,Alabama,5/16/20,5/16/20,5027,0,1,117,0,0,508
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,5/16/20,5/16/20,325,0,1,119,0,0,68
+Talladega,Talladega,0,121,Alabama,5/16/20,5/16/20,5276,0,1,121,0,0,397
+Tallapoosa,Tallapoosa,0,123,Alabama,5/16/20,5/16/20,1892,0,1,123,0,0,174
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,5/16/20,5/16/20,10792,0,1,125,0,0,1587
+Walker,Walker,0,127,Alabama,5/16/20,5/16/20,2254,0,1,127,0,0,270
+Washington,Washington,0,129,Alabama,5/16/20,5/16/20,537,0,1,129,0,0,125
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,5/16/20,5/16/20,427,0,1,131,0,0,79
+Winston,Winston,0,133,Alabama,5/16/20,5/16/20,585,0,1,133,0,0,129
+INA,INA,0,,Alabama,5/16/20,5/16/20,7941,0,1,,0,0,1534
+Total,Total,0,,Alabama,5/16/20,5/16/20,198823,0,1,,0,0,25150
+Autauga,Autauga,0,1,Alabama,5/9/20,5/9/20,2180,0,1,1,0,0,265
+Baldwin,Baldwin,0,3,Alabama,5/9/20,5/9/20,9966,0,1,3,0,0,922
+Barbour,Barbour,0,5,Alabama,5/9/20,5/9/20,471,0,1,5,0,0,119
+Bibb,Bibb,0,7,Alabama,5/9/20,5/9/20,1108,0,1,7,0,0,105
+Blount,Blount,0,9,Alabama,5/9/20,5/9/20,1107,0,1,9,0,0,137
+Bullock,Bullock,0,11,Alabama,5/9/20,5/9/20,290,0,1,11,0,0,53
+Butler,Butler,0,13,Alabama,5/9/20,5/9/20,1274,0,1,13,0,0,128
+Calhoun,Calhoun,0,15,Alabama,5/9/20,5/9/20,7256,0,1,15,0,0,606
+Chambers,Chambers,0,17,Alabama,5/9/20,5/9/20,1532,0,1,17,0,0,228
+Cherokee,Cherokee,0,19,Alabama,5/9/20,5/9/20,702,0,1,19,0,0,51
+Chilton,Chilton,0,21,Alabama,5/9/20,5/9/20,1537,0,1,21,0,0,169
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,5/9/20,5/9/20,210,0,1,23,0,0,56
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,5/9/20,5/9/20,844,0,1,25,0,0,172
+Clay,Clay,0,27,Alabama,5/9/20,5/9/20,337,0,1,27,0,0,29
+Cleburne,Cleburne,0,29,Alabama,5/9/20,5/9/20,332,0,1,29,0,0,27
+Coffee,Coffee,0,31,Alabama,5/9/20,5/9/20,1336,0,1,31,0,0,190
+Colbert,Colbert,0,33,Alabama,5/9/20,5/9/20,2567,0,1,33,0,0,247
+Conecuh,Conecuh,0,35,Alabama,5/9/20,5/9/20,362,0,1,35,0,0,54
+Coosa,Coosa,0,37,Alabama,5/9/20,5/9/20,494,0,1,37,0,0,43
+Covington,Covington,0,39,Alabama,5/9/20,5/9/20,867,0,1,39,0,0,144
+Crenshaw,Crenshaw,0,41,Alabama,5/9/20,5/9/20,544,0,1,41,0,0,73
+Cullman,Cullman,0,43,Alabama,5/9/20,5/9/20,3024,0,1,43,0,0,341
+Dale,Dale,0,45,Alabama,5/9/20,5/9/20,1194,0,1,45,0,0,172
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,5/9/20,5/9/20,2255,0,1,47,0,0,320
+DeKalb,DeKalb,0,49,Alabama,5/9/20,5/9/20,2204,0,1,49,0,0,218
+Elmore,Elmore,0,51,Alabama,5/9/20,5/9/20,3172,0,1,51,0,0,351
+Escambia,Escambia,0,53,Alabama,5/9/20,5/9/20,886,0,1,53,0,0,176
+Etowah,Etowah,0,55,Alabama,5/9/20,5/9/20,5759,0,1,55,0,0,500
+Fayette,Fayette,0,57,Alabama,5/9/20,5/9/20,389,0,1,57,0,0,85
+Franklin,Franklin,0,59,Alabama,5/9/20,5/9/20,857,0,1,59,0,0,124
+Geneva,Geneva,0,61,Alabama,5/9/20,5/9/20,544,0,1,61,0,0,76
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,5/9/20,5/9/20,473,0,1,63,0,0,49
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,5/9/20,5/9/20,1064,0,1,65,0,0,114
+Henry,Henry,0,67,Alabama,5/9/20,5/9/20,360,0,1,67,0,0,43
+Houston,Houston,0,69,Alabama,5/9/20,5/9/20,3254,0,1,69,0,0,497
+Jackson,Jackson,0,71,Alabama,5/9/20,5/9/20,1862,0,1,71,0,0,251
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,5/9/20,5/9/20,30923,0,1,73,0,0,3920
+Lamar,Lamar,0,75,Alabama,5/9/20,5/9/20,245,0,1,75,0,0,42
+Lauderdale,Lauderdale,0,77,Alabama,5/9/20,5/9/20,4181,0,1,77,0,0,337
+Lawrence,Lawrence,0,79,Alabama,5/9/20,5/9/20,813,0,1,79,0,0,113
+Lee,Lee,0,81,Alabama,5/9/20,5/9/20,5843,0,1,81,0,0,652
+Limestone,Limestone,0,83,Alabama,5/9/20,5/9/20,2668,0,1,83,0,0,352
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,5/9/20,5/9/20,757,0,1,85,0,0,76
+Macon,Macon,0,87,Alabama,5/9/20,5/9/20,820,0,1,87,0,0,107
+Madison,Madison,0,89,Alabama,5/9/20,5/9/20,14542,0,1,89,0,0,1916
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,5/9/20,5/9/20,458,0,1,91,0,0,76
+Marion,Marion,0,93,Alabama,5/9/20,5/9/20,679,0,1,93,0,0,135
+Marshall,Marshall,0,95,Alabama,5/9/20,5/9/20,3819,0,1,95,0,0,404
+Mobile,Mobile,0,97,Alabama,5/9/20,5/9/20,18520,0,1,97,0,0,3043
+Monroe,Monroe,0,99,Alabama,5/9/20,5/9/20,639,0,1,99,0,0,95
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,5/9/20,5/9/20,12847,0,1,101,0,0,1725
+Morgan,Morgan,0,103,Alabama,5/9/20,5/9/20,4649,0,1,103,0,0,612
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,5/9/20,5/9/20,422,0,1,105,0,0,47
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,5/9/20,5/9/20,691,0,1,107,0,0,87
+Pike,Pike,0,109,Alabama,5/9/20,5/9/20,887,0,1,109,0,0,137
+Randolph,Randolph,0,111,Alabama,5/9/20,5/9/20,417,0,1,111,0,0,60
+Russell,Russell,0,113,Alabama,5/9/20,5/9/20,902,0,1,113,0,0,189
+St. Clair,St. Clair,0,115,Alabama,5/9/20,5/9/20,3905,0,1,115,0,0,332
+Shelby,Shelby,0,117,Alabama,5/9/20,5/9/20,5422,0,1,117,0,0,611
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,5/9/20,5/9/20,336,0,1,119,0,0,59
+Talladega,Talladega,0,121,Alabama,5/9/20,5/9/20,5295,0,1,121,0,0,401
+Tallapoosa,Tallapoosa,0,123,Alabama,5/9/20,5/9/20,2121,0,1,123,0,0,157
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,5/9/20,5/9/20,11460,0,1,125,0,0,1319
+Walker,Walker,0,127,Alabama,5/9/20,5/9/20,2448,0,1,127,0,0,262
+Washington,Washington,0,129,Alabama,5/9/20,5/9/20,485,0,1,129,0,0,154
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,5/9/20,5/9/20,443,0,1,131,0,0,79
+Winston,Winston,0,999,Alabama,5/9/20,5/9/20,733,0,1,133,0,0,147
+INA,INA,0,,Alabama,5/9/20,5/9/20,11273,0,1,,0,0,1885
+Total,Total,0,,Alabama,5/9/20,5/9/20,212256,0,1,,0,0,26666
+Autauga,Autauga,0,1,Alabama,5/2/20,5/2/20,2090,0,1,1,0,0,314
+Baldwin,Baldwin,0,3,Alabama,5/2/20,5/2/20,9779,0,1,3,0,0,1280
+Barbour,Barbour,0,5,Alabama,5/2/20,5/2/20,449,0,1,5,0,0,102
+Bibb,Bibb,0,7,Alabama,5/2/20,5/2/20,1309,0,1,7,0,0,93
+Blount,Blount,0,9,Alabama,5/2/20,5/2/20,1137,0,1,9,0,0,146
+Bullock,Bullock,0,11,Alabama,5/2/20,5/2/20,277,0,1,11,0,0,53
+Butler,Butler,0,13,Alabama,5/2/20,5/2/20,1343,0,1,13,0,0,132
+Calhoun,Calhoun,0,15,Alabama,5/2/20,5/2/20,7169,0,1,15,0,0,735
+Chambers,Chambers,0,17,Alabama,5/2/20,5/2/20,1497,0,1,17,0,0,223
+Cherokee,Cherokee,0,19,Alabama,5/2/20,5/2/20,576,0,1,19,0,0,70
+Chilton,Chilton,0,21,Alabama,5/2/20,5/2/20,1486,0,1,21,0,0,197
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,5/2/20,5/2/20,195,0,1,23,0,0,40
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,5/2/20,5/2/20,655,0,1,25,0,0,134
+Clay,Clay,0,27,Alabama,5/2/20,5/2/20,335,0,1,27,0,0,51
+Cleburne,Cleburne,0,29,Alabama,5/2/20,5/2/20,335,0,1,29,0,0,33
+Coffee,Coffee,0,31,Alabama,5/2/20,5/2/20,1253,0,1,31,0,0,242
+Colbert,Colbert,0,33,Alabama,5/2/20,5/2/20,2566,0,1,33,0,0,245
+Conecuh,Conecuh,0,35,Alabama,5/2/20,5/2/20,368,0,1,35,0,0,47
+Coosa,Coosa,0,37,Alabama,5/2/20,5/2/20,456,0,1,37,0,0,63
+Covington,Covington,0,39,Alabama,5/2/20,5/2/20,864,0,1,39,0,0,131
+Crenshaw,Crenshaw,0,41,Alabama,5/2/20,5/2/20,650,0,1,41,0,0,62
+Cullman,Cullman,0,43,Alabama,5/2/20,5/2/20,3024,0,1,43,0,0,363
+Dale,Dale,0,45,Alabama,5/2/20,5/2/20,1159,0,1,45,0,0,195
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,5/2/20,5/2/20,2204,0,1,47,0,0,295
+DeKalb,DeKalb,0,49,Alabama,5/2/20,5/2/20,2147,0,1,49,0,0,230
+Elmore,Elmore,0,51,Alabama,5/2/20,5/2/20,3080,0,1,51,0,0,392
+Escambia,Escambia,0,53,Alabama,5/2/20,5/2/20,934,0,1,53,0,0,188
+Etowah,Etowah,0,55,Alabama,5/2/20,5/2/20,5715,0,1,55,0,0,520
+Fayette,Fayette,0,57,Alabama,5/2/20,5/2/20,505,0,1,57,0,0,35
+Franklin,Franklin,0,59,Alabama,5/2/20,5/2/20,793,0,1,59,0,0,123
+Geneva,Geneva,0,61,Alabama,5/2/20,5/2/20,542,0,1,61,0,0,103
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,5/2/20,5/2/20,521,0,1,63,0,0,46
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,5/2/20,5/2/20,1325,0,1,65,0,0,103
+Henry,Henry,0,67,Alabama,5/2/20,5/2/20,368,0,1,67,0,0,69
+Houston,Houston,0,69,Alabama,5/2/20,5/2/20,3238,0,1,69,0,0,538
+Jackson,Jackson,0,71,Alabama,5/2/20,5/2/20,1815,0,1,71,0,0,229
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,5/2/20,5/2/20,30524,0,1,73,0,0,3985
+Lamar,Lamar,0,75,Alabama,5/2/20,5/2/20,275,0,1,75,0,0,43
+Lauderdale,Lauderdale,0,77,Alabama,5/2/20,5/2/20,4096,0,1,77,0,0,400
+Lawrence,Lawrence,0,79,Alabama,5/2/20,5/2/20,765,0,1,79,0,0,110
+Lee,Lee,0,81,Alabama,5/2/20,5/2/20,5620,0,1,81,0,0,722
+Limestone,Limestone,0,83,Alabama,5/2/20,5/2/20,2679,0,1,83,0,0,310
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,5/2/20,5/2/20,694,0,1,85,0,0,83
+Macon,Macon,0,87,Alabama,5/2/20,5/2/20,794,0,1,87,0,0,95
+Madison,Madison,0,89,Alabama,5/2/20,5/2/20,13943,0,1,89,0,0,1964
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,5/2/20,5/2/20,479,0,1,91,0,0,66
+Marion,Marion,0,93,Alabama,5/2/20,5/2/20,660,0,1,93,0,0,107
+Marshall,Marshall,0,95,Alabama,5/2/20,5/2/20,3725,0,1,95,0,0,512
+Mobile,Mobile,0,97,Alabama,5/2/20,5/2/20,17517,0,1,97,0,0,3353
+Monroe,Monroe,0,99,Alabama,5/2/20,5/2/20,627,0,1,99,0,0,107
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,5/2/20,5/2/20,12143,0,1,101,0,0,1665
+Morgan,Morgan,0,103,Alabama,5/2/20,5/2/20,4470,0,1,103,0,0,582
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,5/2/20,5/2/20,467,0,1,105,0,0,45
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,5/2/20,5/2/20,889,0,1,107,0,0,81
+Pike,Pike,0,109,Alabama,5/2/20,5/2/20,877,0,1,109,0,0,150
+Randolph,Randolph,0,111,Alabama,5/2/20,5/2/20,407,0,1,111,0,0,60
+Russell,Russell,0,113,Alabama,5/2/20,5/2/20,852,0,1,113,0,0,221
+St. Clair,St. Clair,0,115,Alabama,5/2/20,5/2/20,3864,0,1,115,0,0,403
+Shelby,Shelby,0,117,Alabama,5/2/20,5/2/20,5423,0,1,117,0,0,648
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,5/2/20,5/2/20,370,0,1,119,0,0,47
+Talladega,Talladega,0,121,Alabama,5/2/20,5/2/20,5378,0,1,121,0,0,437
+Tallapoosa,Tallapoosa,0,123,Alabama,5/2/20,5/2/20,1975,0,1,123,0,0,213
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,5/2/20,5/2/20,13834,0,1,125,0,0,1137
+Walker,Walker,0,127,Alabama,5/2/20,5/2/20,2425,0,1,127,0,0,283
+Washington,Washington,0,129,Alabama,5/2/20,5/2/20,457,0,1,129,0,0,125
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,5/2/20,5/2/20,406,0,1,131,0,0,70
+Winston,Winston,0,133,Alabama,5/2/20,5/2/20,650,0,1,133,0,0,86
+INA,INA,0,999,Alabama,5/2/20,5/2/20,10875,0,1,,0,0,3053
+Total,Total,0,,Alabama,5/2/20,5/2/20,210319,0,1,,0,0,28985
+Autauga,Autauga,0,1,Alabama,4/25/20,4/25/20,1585,0,1,1,0,0,736
+Baldwin,Baldwin,0,3,Alabama,4/25/20,4/25/20,8232,0,1,3,0,0,4099
+Barbour,Barbour,0,5,Alabama,4/25/20,4/25/20,338,0,1,5,0,0,208
+Bibb,Bibb,0,7,Alabama,4/25/20,4/25/20,973,0,1,7,0,0,312
+Blount,Blount,0,9,Alabama,4/25/20,4/25/20,963,0,1,9,0,0,491
+Bullock,Bullock,0,11,Alabama,4/25/20,4/25/20,221,0,1,11,0,0,101
+Butler,Butler,0,13,Alabama,4/25/20,4/25/20,1071,0,1,13,0,0,262
+Calhoun,Calhoun,0,15,Alabama,4/25/20,4/25/20,5832,0,1,15,0,0,2293
+Chambers,Chambers,0,17,Alabama,4/25/20,4/25/20,1282,0,1,17,0,0,481
+Cherokee,Cherokee,0,19,Alabama,4/25/20,4/25/20,647,0,1,19,0,0,235
+Chilton,Chilton,0,21,Alabama,4/25/20,4/25/20,1244,0,1,21,0,0,529
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,4/25/20,4/25/20,145,0,1,23,0,0,123
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,4/25/20,4/25/20,509,0,1,25,0,0,290
+Clay,Clay,0,27,Alabama,4/25/20,4/25/20,258,0,1,27,0,0,128
+Cleburne,Cleburne,0,29,Alabama,4/25/20,4/25/20,263,0,1,29,0,0,154
+Coffee,Coffee,0,31,Alabama,4/25/20,4/25/20,997,0,1,31,0,0,629
+Colbert,Colbert,0,33,Alabama,4/25/20,4/25/20,2258,0,1,33,0,0,774
+Conecuh,Conecuh,0,35,Alabama,4/25/20,4/25/20,309,0,1,35,0,0,112
+Coosa,Coosa,0,37,Alabama,4/25/20,4/25/20,493,0,1,37,0,0,128
+Covington,Covington,0,39,Alabama,4/25/20,4/25/20,751,0,1,39,0,0,372
+Crenshaw,Crenshaw,0,41,Alabama,4/25/20,4/25/20,528,0,1,41,0,0,130
+Cullman,Cullman,0,43,Alabama,4/25/20,4/25/20,2571,0,1,43,0,0,1079
+Dale,Dale,0,45,Alabama,4/25/20,4/25/20,946,0,1,45,0,0,476
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,4/25/20,4/25/20,1804,0,1,47,0,0,617
+DeKalb,DeKalb,0,49,Alabama,4/25/20,4/25/20,1789,0,1,49,0,0,827
+Elmore,Elmore,0,51,Alabama,4/25/20,4/25/20,2448,0,1,51,0,0,1065
+Escambia,Escambia,0,53,Alabama,4/25/20,4/25/20,734,0,1,53,0,0,393
+Etowah,Etowah,0,55,Alabama,4/25/20,4/25/20,4801,0,1,55,0,0,1621
+Fayette,Fayette,0,57,Alabama,4/25/20,4/25/20,305,0,1,57,0,0,152
+Franklin,Franklin,0,59,Alabama,4/25/20,4/25/20,817,0,1,59,0,0,341
+Geneva,Geneva,0,61,Alabama,4/25/20,4/25/20,422,0,1,61,0,0,257
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,4/25/20,4/25/20,376,0,1,63,0,0,132
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,4/25/20,4/25/20,929,0,1,65,0,0,262
+Henry,Henry,0,67,Alabama,4/25/20,4/25/20,285,0,1,67,0,0,149
+Houston,Houston,0,69,Alabama,4/25/20,4/25/20,2618,0,1,69,0,0,1366
+Jackson,Jackson,0,71,Alabama,4/25/20,4/25/20,1567,0,1,71,0,0,666
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,4/25/20,4/25/20,24606,0,1,73,0,0,11878
+Lamar,Lamar,0,75,Alabama,4/25/20,4/25/20,239,0,1,75,0,0,108
+Lauderdale,Lauderdale,0,77,Alabama,4/25/20,4/25/20,3547,0,1,77,0,0,1294
+Lawrence,Lawrence,0,79,Alabama,4/25/20,4/25/20,677,0,1,79,0,0,309
+Lee,Lee,0,81,Alabama,4/25/20,4/25/20,4690,0,1,81,0,0,1840
+Limestone,Limestone,0,83,Alabama,4/25/20,4/25/20,2293,0,1,83,0,0,887
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,4/25/20,4/25/20,579,0,1,85,0,0,164
+Macon,Macon,0,87,Alabama,4/25/20,4/25/20,641,0,1,87,0,0,253
+Madison,Madison,0,89,Alabama,4/25/20,4/25/20,11339,0,1,89,0,0,5615
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,4/25/20,4/25/20,374,0,1,91,0,0,140
+Marion,Marion,0,93,Alabama,4/25/20,4/25/20,592,0,1,93,0,0,341
+Marshall,Marshall,0,95,Alabama,4/25/20,4/25/20,3054,0,1,95,0,0,1571
+Mobile,Mobile,0,97,Alabama,4/25/20,4/25/20,13832,0,1,97,0,0,8257
+Monroe,Monroe,0,99,Alabama,4/25/20,4/25/20,519,0,1,99,0,0,246
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,4/25/20,4/25/20,9108,0,1,101,0,0,3859
+Morgan,Morgan,0,103,Alabama,4/25/20,4/25/20,3735,0,1,103,0,0,1713
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,4/25/20,4/25/20,395,0,1,105,0,0,115
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,4/25/20,4/25/20,597,0,1,107,0,0,192
+Pike,Pike,0,109,Alabama,4/25/20,4/25/20,709,0,1,109,0,0,342
+Randolph,Randolph,0,111,Alabama,4/25/20,4/25/20,446,0,1,111,0,0,187
+Russell,Russell,0,113,Alabama,4/25/20,4/25/20,699,0,1,113,0,0,591
+St. Clair,St. Clair,0,115,Alabama,4/25/20,4/25/20,3088,0,1,115,0,0,1372
+Shelby,Shelby,0,117,Alabama,4/25/20,4/25/20,4435,0,1,117,0,0,2192
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,4/25/20,4/25/20,266,0,1,119,0,0,132
+Talladega,Talladega,0,121,Alabama,4/25/20,4/25/20,4570,0,1,121,0,0,1291
+Tallapoosa,Tallapoosa,0,123,Alabama,4/25/20,4/25/20,2002,0,1,123,0,0,466
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,4/25/20,4/25/20,10520,0,1,125,0,0,3429
+Walker,Walker,0,127,Alabama,4/25/20,4/25/20,2034,0,1,127,0,0,887
+Washington,Washington,0,129,Alabama,4/25/20,4/25/20,311,0,1,129,0,0,262
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,4/25/20,4/25/20,320,0,1,131,0,0,129
+Winston,Winston,0,133,Alabama,4/25/20,4/25/20,607,0,1,133,0,0,269
+INA,INA,0,999,Alabama,4/25/20,4/25/20,7847,0,1,,0,0,2645
+Total,Total,0,,Alabama,4/25/20,4/25/20,169982,0,1,,0,0,74966
+Autauga,Autauga,0,1,Alabama,4/18/20,4/18/20,1331,0,1,1,0,0,675
+Baldwin,Baldwin,0,3,Alabama,4/18/20,4/18/20,6742,0,1,3,0,0,3221
+Barbour,Barbour,0,5,Alabama,4/18/20,4/18/20,282,0,1,5,0,0,158
+Bibb,Bibb,0,7,Alabama,4/18/20,4/18/20,808,0,1,7,0,0,292
+Blount,Blount,0,9,Alabama,4/18/20,4/18/20,820,0,1,9,0,0,366
+Bullock,Bullock,0,11,Alabama,4/18/20,4/18/20,181,0,1,11,0,0,64
+Butler,Butler,0,13,Alabama,4/18/20,4/18/20,915,0,1,13,0,0,354
+Calhoun,Calhoun,0,15,Alabama,4/18/20,4/18/20,4388,0,1,15,0,0,2436
+Chambers,Chambers,0,17,Alabama,4/18/20,4/18/20,1086,0,1,17,0,0,487
+Cherokee,Cherokee,0,19,Alabama,4/18/20,4/18/20,541,0,1,19,0,0,209
+Chilton,Chilton,0,21,Alabama,4/18/20,4/18/20,1044,0,1,21,0,0,412
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,4/18/20,4/18/20,126,0,1,23,0,0,74
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,4/18/20,4/18/20,419,0,1,25,0,0,268
+Clay,Clay,0,27,Alabama,4/18/20,4/18/20,201,0,1,27,0,0,124
+Cleburne,Cleburne,0,29,Alabama,4/18/20,4/18/20,204,0,1,29,0,0,139
+Coffee,Coffee,0,31,Alabama,4/18/20,4/18/20,815,0,1,31,0,0,446
+Colbert,Colbert,0,33,Alabama,4/18/20,4/18/20,2045,0,1,33,0,0,700
+Conecuh,Conecuh,0,35,Alabama,4/18/20,4/18/20,297,0,1,35,0,0,122
+Coosa,Coosa,0,37,Alabama,4/18/20,4/18/20,315,0,1,37,0,0,149
+Covington,Covington,0,39,Alabama,4/18/20,4/18/20,690,0,1,39,0,0,448
+Crenshaw,Crenshaw,0,41,Alabama,4/18/20,4/18/20,476,0,1,41,0,0,162
+Cullman,Cullman,0,43,Alabama,4/18/20,4/18/20,2205,0,1,43,0,0,890
+Dale,Dale,0,45,Alabama,4/18/20,4/18/20,795,0,1,45,0,0,471
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,4/18/20,4/18/20,1495,0,1,47,0,0,612
+DeKalb,DeKalb,0,49,Alabama,4/18/20,4/18/20,1566,0,1,49,0,0,660
+Elmore,Elmore,0,51,Alabama,4/18/20,4/18/20,2032,0,1,51,0,0,1033
+Escambia,Escambia,0,53,Alabama,4/18/20,4/18/20,647,0,1,53,0,0,303
+Etowah,Etowah,0,55,Alabama,4/18/20,4/18/20,4010,0,1,55,0,0,1661
+Fayette,Fayette,0,57,Alabama,4/18/20,4/18/20,248,0,1,57,0,0,131
+Franklin,Franklin,0,59,Alabama,4/18/20,4/18/20,984,0,1,59,0,0,275
+Geneva,Geneva,0,61,Alabama,4/18/20,4/18/20,338,0,1,61,0,0,181
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,4/18/20,4/18/20,302,0,1,63,0,0,119
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,4/18/20,4/18/20,786,0,1,65,0,0,277
+Henry,Henry,0,67,Alabama,4/18/20,4/18/20,247,0,1,67,0,0,127
+Houston,Houston,0,69,Alabama,4/18/20,4/18/20,2182,0,1,69,0,0,1100
+Jackson,Jackson,0,71,Alabama,4/18/20,4/18/20,1357,0,1,71,0,0,698
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,4/18/20,4/18/20,19907,0,1,73,0,0,9611
+Lamar,Lamar,0,75,Alabama,4/18/20,4/18/20,208,0,1,75,0,0,102
+Lauderdale,Lauderdale,0,77,Alabama,4/18/20,4/18/20,3096,0,1,77,0,0,1115
+Lawrence,Lawrence,0,79,Alabama,4/18/20,4/18/20,600,0,1,79,0,0,239
+Lee,Lee,0,81,Alabama,4/18/20,4/18/20,3816,0,1,81,0,0,1771
+Limestone,Limestone,0,83,Alabama,4/18/20,4/18/20,1879,0,1,83,0,0,816
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,4/18/20,4/18/20,475,0,1,85,0,0,158
+Macon,Macon,0,87,Alabama,4/18/20,4/18/20,506,0,1,87,0,0,229
+Madison,Madison,0,89,Alabama,4/18/20,4/18/20,9462,0,1,89,0,0,4528
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,4/18/20,4/18/20,311,0,1,91,0,0,167
+Marion,Marion,0,93,Alabama,4/18/20,4/18/20,586,0,1,93,0,0,252
+Marshall,Marshall,0,95,Alabama,4/18/20,4/18/20,2602,0,1,95,0,0,1183
+Mobile,Mobile,0,97,Alabama,4/18/20,4/18/20,11264,0,1,97,0,0,6708
+Monroe,Monroe,0,99,Alabama,4/18/20,4/18/20,459,0,1,99,0,0,251
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,4/18/20,4/18/20,7254,0,1,101,0,0,3479
+Morgan,Morgan,0,103,Alabama,4/18/20,4/18/20,3153,0,1,103,0,0,1372
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,4/18/20,4/18/20,335,0,1,105,0,0,101
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,4/18/20,4/18/20,518,0,1,107,0,0,162
+Pike,Pike,0,109,Alabama,4/18/20,4/18/20,580,0,1,109,0,0,261
+Randolph,Randolph,0,111,Alabama,4/18/20,4/18/20,404,0,1,111,0,0,245
+Russell,Russell,0,113,Alabama,4/18/20,4/18/20,568,0,1,113,0,0,392
+St. Clair,St. Clair,0,115,Alabama,4/18/20,4/18/20,2292,0,1,115,0,0,1303
+Shelby,Shelby,0,117,Alabama,4/18/20,4/18/20,3476,0,1,117,0,0,1832
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,4/18/20,4/18/20,222,0,1,119,0,0,110
+Talladega,Talladega,0,121,Alabama,4/18/20,4/18/20,3205,0,1,121,0,0,1866
+Tallapoosa,Tallapoosa,0,123,Alabama,4/18/20,4/18/20,1513,0,1,123,0,0,628
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,4/18/20,4/18/20,8718,0,1,125,0,0,3033
+Walker,Walker,0,127,Alabama,4/18/20,4/18/20,1749,0,1,127,0,0,724
+Washington,Washington,0,129,Alabama,4/18/20,4/18/20,255,0,1,129,0,0,158
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,4/18/20,4/18/20,278,0,1,131,0,0,133
+Winston,Winston,0,133,Alabama,4/18/20,4/18/20,518,0,1,133,0,0,217
+INA,INA,0,999,Alabama,4/18/20,4/18/20,7866,0,1,,0,0,3442
+Total,Total,0,,Alabama,4/18/20,4/18/20,140995,0,1,,0,0,66432
+Autauga,Autauga,0,,Alabama,4/11/20,4/11/20,841,0,1,1,0,0,812
+Baldwin,Baldwin,0,,Alabama,4/11/20,4/11/20,4433,0,1,3,0,0,3750
+Barbour,Barbour,0,,Alabama,4/11/20,4/11/20,177,0,1,5,0,0,214
+Bibb,Bibb,0,,Alabama,4/11/20,4/11/20,575,0,1,7,0,0,338
+Blount,Blount,0,,Alabama,4/11/20,4/11/20,520,0,1,9,0,0,488
+Bullock,Bullock,0,,Alabama,4/11/20,4/11/20,127,0,1,11,0,0,92
+Butler,Butler,0,,Alabama,4/11/20,4/11/20,537,0,1,13,0,0,453
+Calhoun,Calhoun,0,,Alabama,4/11/20,4/11/20,2556,0,1,15,0,0,2745
+Chambers,Chambers,0,,Alabama,4/11/20,4/11/20,743,0,1,17,0,0,598
+Cherokee,Cherokee,0,,Alabama,4/11/20,4/11/20,352,0,1,19,0,0,222
+Chilton,Chilton,0,,Alabama,4/11/20,4/11/20,683,0,1,21,0,0,500
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,,Alabama,4/11/20,4/11/20,72,0,1,23,0,0,91
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,,Alabama,4/11/20,4/11/20,321,0,1,25,0,0,333
+Clay,Clay,0,,Alabama,4/11/20,4/11/20,109,0,1,27,0,0,123
+Cleburne,Cleburne,0,,Alabama,4/11/20,4/11/20,118,0,1,29,0,0,151
+Coffee,Coffee,0,,Alabama,4/11/20,4/11/20,494,0,1,31,0,0,635
+Colbert,Colbert,0,,Alabama,4/11/20,4/11/20,1475,0,1,33,0,0,894
+Conecuh,Conecuh,0,,Alabama,4/11/20,4/11/20,172,0,1,35,0,0,177
+Coosa,Coosa,0,,Alabama,4/11/20,4/11/20,176,0,1,37,0,0,147
+Covington,Covington,0,,Alabama,4/11/20,4/11/20,369,0,1,39,0,0,448
+Crenshaw,Crenshaw,0,,Alabama,4/11/20,4/11/20,315,0,1,41,0,0,193
+Cullman,Cullman,0,,Alabama,4/11/20,4/11/20,1602,0,1,43,0,0,1184
+Dale,Dale,0,,Alabama,4/11/20,4/11/20,509,0,1,45,0,0,467
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,,Alabama,4/11/20,4/11/20,911,0,1,47,0,0,760
+DeKalb,DeKalb,0,,Alabama,4/11/20,4/11/20,1059,0,1,49,0,0,803
+Elmore,Elmore,0,,Alabama,4/11/20,4/11/20,1316,0,1,51,0,0,1113
+Escambia,Escambia,0,,Alabama,4/11/20,4/11/20,411,0,1,53,0,0,423
+Etowah,Etowah,0,,Alabama,4/11/20,4/11/20,2605,0,1,55,0,0,1885
+Fayette,Fayette,0,,Alabama,4/11/20,4/11/20,234,0,1,57,0,0,174
+Franklin,Franklin,0,,Alabama,4/11/20,4/11/20,797,0,1,59,0,0,354
+Geneva,Geneva,0,,Alabama,4/11/20,4/11/20,208,0,1,61,0,0,246
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,,Alabama,4/11/20,4/11/20,221,0,1,63,0,0,117
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,,Alabama,4/11/20,4/11/20,590,0,1,65,0,0,361
+Henry,Henry,0,,Alabama,4/11/20,4/11/20,151,0,1,67,0,0,160
+Houston,Houston,0,,Alabama,4/11/20,4/11/20,1406,0,1,69,0,0,1265
+Jackson,Jackson,0,,Alabama,4/11/20,4/11/20,1022,0,1,71,0,0,630
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,,Alabama,4/11/20,4/11/20,13081,0,1,73,0,0,10709
+Lamar,Lamar,0,,Alabama,4/11/20,4/11/20,166,0,1,75,0,0,114
+Lauderdale,Lauderdale,0,,Alabama,4/11/20,4/11/20,1993,0,1,77,0,0,1525
+Lawrence,Lawrence,0,,Alabama,4/11/20,4/11/20,398,0,1,79,0,0,339
+Lee,Lee,0,,Alabama,4/11/20,4/11/20,2637,0,1,81,0,0,1916
+Limestone,Limestone,0,,Alabama,4/11/20,4/11/20,1118,0,1,83,0,0,1082
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,,Alabama,4/11/20,4/11/20,280,0,1,85,0,0,233
+Macon,Macon,0,,Alabama,4/11/20,4/11/20,365,0,1,87,0,0,277
+Madison,Madison,0,,Alabama,4/11/20,4/11/20,6056,0,1,89,0,0,5501
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,,Alabama,4/11/20,4/11/20,235,0,1,91,0,0,180
+Marion,Marion,0,,Alabama,4/11/20,4/11/20,446,0,1,93,0,0,279
+Marshall,Marshall,0,,Alabama,4/11/20,4/11/20,1528,0,1,95,0,0,1918
+Mobile,Mobile,0,,Alabama,4/11/20,4/11/20,7502,0,1,97,0,0,7019
+Monroe,Monroe,0,,Alabama,4/11/20,4/11/20,306,0,1,99,0,0,244
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,,Alabama,4/11/20,4/11/20,4644,0,1,101,0,0,4407
+Morgan,Morgan,0,,Alabama,4/11/20,4/11/20,2009,0,1,103,0,0,1829
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,,Alabama,4/11/20,4/11/20,227,0,1,105,0,0,119
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,,Alabama,4/11/20,4/11/20,440,0,1,107,0,0,221
+Pike,Pike,0,,Alabama,4/11/20,4/11/20,373,0,1,109,0,0,343
+Randolph,Randolph,0,,Alabama,4/11/20,4/11/20,200,0,1,111,0,0,185
+Russell,Russell,0,,Alabama,4/11/20,4/11/20,377,0,1,113,0,0,465
+St. Clair,St. Clair,0,,Alabama,4/11/20,4/11/20,1374,0,1,115,0,0,1398
+Shelby,Shelby,0,,Alabama,4/11/20,4/11/20,2335,0,1,117,0,0,2019
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,,Alabama,4/11/20,4/11/20,157,0,1,119,0,0,111
+Talladega,Talladega,0,,Alabama,4/11/20,4/11/20,1740,0,1,121,0,0,1923
+Tallapoosa,Tallapoosa,0,,Alabama,4/11/20,4/11/20,759,0,1,123,0,0,625
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,,Alabama,4/11/20,4/11/20,6377,0,1,125,0,0,3617
+Walker,Walker,0,,Alabama,4/11/20,4/11/20,1223,0,1,127,0,0,918
+Washington,Washington,0,,Alabama,4/11/20,4/11/20,151,0,1,129,0,0,192
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,,Alabama,4/11/20,4/11/20,170,0,1,131,0,0,149
+Winston,Winston,0,,Alabama,4/11/20,4/11/20,377,0,1,133,0,0,349
+INA,INA,0,,Alabama,4/11/20,4/11/20,5511,0,1,,0,0,3963
+Total,Total,0,,Alabama,4/11/20,4/11/20,92762,0,1,,0,0,77515
+Autauga,Autauga,0,1,Alabama,4/4/20,4/4/20,453,0,1,1,0,0,1088
+Baldwin,Baldwin,0,3,Alabama,4/4/20,4/4/20,2336,0,1,3,0,0,5696
+Barbour,Barbour,0,5,Alabama,4/4/20,4/4/20,89,0,1,5,0,0,212
+Bibb,Bibb,0,7,Alabama,4/4/20,4/4/20,314,0,1,7,0,0,588
+Blount,Blount,0,9,Alabama,4/4/20,4/4/20,300,0,1,9,0,0,645
+Bullock,Bullock,0,11,Alabama,4/4/20,4/4/20,73,0,1,11,0,0,125
+Butler,Butler,0,13,Alabama,4/4/20,4/4/20,228,0,1,13,0,0,536
+Calhoun,Calhoun,0,15,Alabama,4/4/20,4/4/20,1223,0,1,15,0,0,3111
+Chambers,Chambers,0,17,Alabama,4/4/20,4/4/20,288,0,1,17,0,0,787
+Cherokee,Cherokee,0,19,Alabama,4/4/20,4/4/20,216,0,1,19,0,0,402
+Chilton,Chilton,0,21,Alabama,4/4/20,4/4/20,331,0,1,21,0,0,810
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,4/4/20,4/4/20,30,0,1,23,0,0,126
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,4/4/20,4/4/20,144,0,1,25,0,0,340
+Clay,Clay,0,27,Alabama,4/4/20,4/4/20,58,0,1,27,0,0,143
+Cleburne,Cleburne,0,29,Alabama,4/4/20,4/4/20,49,0,1,29,0,0,192
+Coffee,Coffee,0,31,Alabama,4/4/20,4/4/20,243,0,1,31,0,0,821
+Colbert,Colbert,0,33,Alabama,4/4/20,4/4/20,713,0,1,33,0,0,1451
+Conecuh,Conecuh,0,35,Alabama,4/4/20,4/4/20,89,0,1,35,0,0,209
+Coosa,Coosa,0,37,Alabama,4/4/20,4/4/20,87,0,1,37,0,0,163
+Covington,Covington,0,39,Alabama,4/4/20,4/4/20,194,0,1,39,0,0,492
+Crenshaw,Crenshaw,0,41,Alabama,4/4/20,4/4/20,112,0,1,41,0,0,289
+Cullman,Cullman,0,43,Alabama,4/4/20,4/4/20,798,0,1,43,0,0,1625
+Dale,Dale,0,45,Alabama,4/4/20,4/4/20,257,0,1,45,0,0,668
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,4/4/20,4/4/20,490,0,1,47,0,0,1019
+DeKalb,DeKalb,0,49,Alabama,4/4/20,4/4/20,615,0,1,49,0,0,1242
+Elmore,Elmore,0,51,Alabama,4/4/20,4/4/20,667,0,1,51,0,0,1614
+Escambia,Escambia,0,53,Alabama,4/4/20,4/4/20,191,0,1,53,0,0,544
+Etowah,Etowah,0,55,Alabama,4/4/20,4/4/20,1433,0,1,55,0,0,2514
+Fayette,Fayette,0,57,Alabama,4/4/20,4/4/20,132,0,1,57,0,0,292
+Franklin,Franklin,0,59,Alabama,4/4/20,4/4/20,445,0,1,59,0,0,565
+Geneva,Geneva,0,61,Alabama,4/4/20,4/4/20,107,0,1,61,0,0,364
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,4/4/20,4/4/20,133,0,1,63,0,0,193
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,4/4/20,4/4/20,316,0,1,65,0,0,568
+Henry,Henry,0,67,Alabama,4/4/20,4/4/20,95,0,1,67,0,0,212
+Houston,Houston,0,69,Alabama,4/4/20,4/4/20,719,0,1,69,0,0,1858
+Jackson,Jackson,0,71,Alabama,4/4/20,4/4/20,782,0,1,71,0,0,920
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,4/4/20,4/4/20,7068,0,1,73,0,0,15839
+Lamar,Lamar,0,75,Alabama,4/4/20,4/4/20,125,0,1,75,0,0,158
+Lauderdale,Lauderdale,0,77,Alabama,4/4/20,4/4/20,1043,0,1,77,0,0,2229
+Lawrence,Lawrence,0,79,Alabama,4/4/20,4/4/20,230,0,1,79,0,0,455
+Lee,Lee,0,81,Alabama,4/4/20,4/4/20,1264,0,1,81,0,0,3032
+Limestone,Limestone,0,83,Alabama,4/4/20,4/4/20,475,0,1,83,0,0,1410
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,4/4/20,4/4/20,170,0,1,85,0,0,247
+Macon,Macon,0,87,Alabama,4/4/20,4/4/20,177,0,1,87,0,0,339
+Madison,Madison,0,89,Alabama,4/4/20,4/4/20,3267,0,1,89,0,0,8019
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,4/4/20,4/4/20,119,0,1,91,0,0,224
+Marion,Marion,0,93,Alabama,4/4/20,4/4/20,318,0,1,93,0,0,418
+Marshall,Marshall,0,95,Alabama,4/4/20,4/4/20,756,0,1,95,0,0,2041
+Mobile,Mobile,0,97,Alabama,4/4/20,4/4/20,4297,0,1,97,0,0,9171
+Monroe,Monroe,0,99,Alabama,4/4/20,4/4/20,170,0,1,99,0,0,277
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,4/4/20,4/4/20,2462,0,1,101,0,0,5458
+Morgan,Morgan,0,103,Alabama,4/4/20,4/4/20,1141,0,1,103,0,0,2514
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,4/4/20,4/4/20,126,0,1,105,0,0,223
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,4/4/20,4/4/20,259,0,1,107,0,0,381
+Pike,Pike,0,109,Alabama,4/4/20,4/4/20,188,0,1,109,0,0,507
+Randolph,Randolph,0,111,Alabama,4/4/20,4/4/20,131,0,1,111,0,0,241
+Russell,Russell,0,113,Alabama,4/4/20,4/4/20,210,0,1,113,0,0,631
+St. Clair,St. Clair,0,115,Alabama,4/4/20,4/4/20,728,0,1,115,0,0,1707
+Shelby,Shelby,0,117,Alabama,4/4/20,4/4/20,1241,0,1,117,0,0,3034
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,4/4/20,4/4/20,99,0,1,119,0,0,165
+Talladega,Talladega,0,121,Alabama,4/4/20,4/4/20,953,0,1,121,0,0,1864
+Tallapoosa,Tallapoosa,0,123,Alabama,4/4/20,4/4/20,476,0,1,123,0,0,716
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,4/4/20,4/4/20,3365,0,1,125,0,0,6515
+Walker,Walker,0,127,Alabama,4/4/20,4/4/20,660,0,1,127,0,0,1349
+Washington,Washington,0,129,Alabama,4/4/20,4/4/20,71,0,1,129,0,0,216
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,4/4/20,4/4/20,90,0,1,131,0,0,191
+Winston,Winston,0,133,Alabama,4/4/20,4/4/20,158,0,1,133,0,0,389
+Out of State,Out of State,0,999,Alabama,4/4/20,4/4/20,3626,0,1,,0,0,4355
+Total,Total,0,,Alabama,4/4/20,4/4/20,50213,0,1,,0,0,106739
+Autauga,Autauga,0,1,Alabama,3/28/20,3/28/20,168,0,1,1,0,0,843
+Baldwin,Baldwin,0,3,Alabama,3/28/20,3/28/20,552,0,1,3,0,0,4683
+Barbour,Barbour,0,5,Alabama,3/28/20,3/28/20,63,0,1,5,0,0,124
+Bibb,Bibb,0,7,Alabama,3/28/20,3/28/20,60,0,1,7,0,0,488
+Blount,Blount,0,9,Alabama,3/28/20,3/28/20,116,0,1,9,0,0,481
+Bullock,Bullock,0,11,Alabama,3/28/20,3/28/20,37,0,1,11,0,0,75
+Butler,Butler,0,13,Alabama,3/28/20,3/28/20,96,0,1,13,0,0,328
+Calhoun,Calhoun,0,15,Alabama,3/28/20,3/28/20,428,0,1,15,0,0,1918
+Chambers,Chambers,0,17,Alabama,3/28/20,3/28/20,116,0,1,17,0,0,338
+Cherokee,Cherokee,0,19,Alabama,3/28/20,3/28/20,44,0,1,19,0,0,204
+Chilton,Chilton,0,21,Alabama,3/28/20,3/28/20,69,0,1,21,0,0,669
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,3/28/20,3/28/20,22,0,1,23,0,0,57
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,3/28/20,3/28/20,83,0,1,25,0,0,170
+Clay,Clay,0,27,Alabama,3/28/20,3/28/20,30,0,1,27,0,0,68
+Cleburne,Cleburne,0,29,Alabama,3/28/20,3/28/20,21,0,1,29,0,0,107
+Coffee,Coffee,0,31,Alabama,3/28/20,3/28/20,82,0,1,31,0,0,493
+Colbert,Colbert,0,33,Alabama,3/28/20,3/28/20,211,0,1,33,0,0,1143
+Conecuh,Conecuh,0,35,Alabama,3/28/20,3/28/20,37,0,1,35,0,0,117
+Coosa,Coosa,0,37,Alabama,3/28/20,3/28/20,31,0,1,37,0,0,103
+Covington,Covington,0,39,Alabama,3/28/20,3/28/20,89,0,1,39,0,0,316
+Crenshaw,Crenshaw,0,41,Alabama,3/28/20,3/28/20,37,0,1,41,0,0,226
+Cullman,Cullman,0,43,Alabama,3/28/20,3/28/20,236,0,1,43,0,0,1406
+Dale,Dale,0,45,Alabama,3/28/20,3/28/20,104,0,1,45,0,0,452
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,3/28/20,3/28/20,305,0,1,47,0,0,460
+DeKalb,DeKalb,0,49,Alabama,3/28/20,3/28/20,140,0,1,49,0,0,939
+Elmore,Elmore,0,51,Alabama,3/28/20,3/28/20,225,0,1,51,0,0,1149
+Escambia,Escambia,0,53,Alabama,3/28/20,3/28/20,97,0,1,53,0,0,287
+Etowah,Etowah,0,55,Alabama,3/28/20,3/28/20,592,0,1,55,0,0,1913
+Fayette,Fayette,0,57,Alabama,3/28/20,3/28/20,17,0,1,57,0,0,150
+Franklin,Franklin,0,59,Alabama,3/28/20,3/28/20,147,0,1,59,0,0,675
+Geneva,Geneva,0,61,Alabama,3/28/20,3/28/20,48,0,1,61,0,0,183
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,3/28/20,3/28/20,37,0,1,63,0,0,163
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,3/28/20,3/28/20,80,0,1,65,0,0,409
+Henry,Henry,0,67,Alabama,3/28/20,3/28/20,51,0,1,67,0,0,108
+Houston,Houston,0,69,Alabama,3/28/20,3/28/20,233,0,1,69,0,0,1337
+Jackson,Jackson,0,71,Alabama,3/28/20,3/28/20,216,0,1,71,0,0,796
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,3/28/20,3/28/20,2523,0,1,73,0,0,13603
+Lamar,Lamar,0,75,Alabama,3/28/20,3/28/20,32,0,1,75,0,0,166
+Lauderdale,Lauderdale,0,77,Alabama,3/28/20,3/28/20,269,0,1,77,0,0,1797
+Lawrence,Lawrence,0,79,Alabama,3/28/20,3/28/20,82,0,1,79,0,0,422
+Lee,Lee,0,81,Alabama,3/28/20,3/28/20,468,0,1,81,0,0,1925
+Limestone,Limestone,0,83,Alabama,3/28/20,3/28/20,151,0,1,83,0,0,1191
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,3/28/20,3/28/20,76,0,1,85,0,0,123
+Macon,Macon,0,87,Alabama,3/28/20,3/28/20,87,0,1,87,0,0,221
+Madison,Madison,0,89,Alabama,3/28/20,3/28/20,1056,0,1,89,0,0,6370
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,3/28/20,3/28/20,47,0,1,91,0,0,158
+Marion,Marion,0,93,Alabama,3/28/20,3/28/20,105,0,1,93,0,0,371
+Marshall,Marshall,0,95,Alabama,3/28/20,3/28/20,237,0,1,95,0,0,1359
+Mobile,Mobile,0,97,Alabama,3/28/20,3/28/20,1936,0,1,97,0,0,7068
+Monroe,Monroe,0,99,Alabama,3/28/20,3/28/20,68,0,1,99,0,0,229
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,3/28/20,3/28/20,906,0,1,101,0,0,3968
+Morgan,Morgan,0,103,Alabama,3/28/20,3/28/20,312,0,1,103,0,0,2428
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,3/28/20,3/28/20,39,0,1,105,0,0,151
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,3/28/20,3/28/20,88,0,1,107,0,0,257
+Pike,Pike,0,109,Alabama,3/28/20,3/28/20,81,0,1,109,0,0,328
+Randolph,Randolph,0,111,Alabama,3/28/20,3/28/20,30,0,1,111,0,0,107
+Russell,Russell,0,113,Alabama,3/28/20,3/28/20,96,0,1,113,0,0,347
+St. Clair,St. Clair,0,115,Alabama,3/28/20,3/28/20,220,0,1,115,0,0,1295
+Shelby,Shelby,0,117,Alabama,3/28/20,3/28/20,434,0,1,117,0,0,2439
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,3/28/20,3/28/20,29,0,1,119,0,0,131
+Talladega,Talladega,0,121,Alabama,3/28/20,3/28/20,281,0,1,121,0,0,1209
+Tallapoosa,Tallapoosa,0,123,Alabama,3/28/20,3/28/20,150,0,1,123,0,0,394
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,3/28/20,3/28/20,616,0,1,125,0,0,5458
+Walker,Walker,0,127,Alabama,3/28/20,3/28/20,226,0,1,127,0,0,1099
+Washington,Washington,0,129,Alabama,3/28/20,3/28/20,45,0,1,129,0,0,100
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,3/28/20,3/28/20,55,0,1,131,0,0,82
+Winston,Winston,0,133,Alabama,3/28/20,3/28/20,86,0,1,133,0,0,195
+Out of State,Out of State,0,999,Alabama,3/28/20,3/28/20,1029,0,1,,0,0,2615
+Total,Total,0,,Alabama,3/28/20,3/28/20,16780,0,1,,0,0,80984
+Autauga,Autauga,0,1,Alabama,3/21/20,3/21/20,104,0,1,1,0,0,99
+Baldwin,Baldwin,0,3,Alabama,3/21/20,3/21/20,340,0,1,3,0,0,503
+Barbour,Barbour,0,5,Alabama,3/21/20,3/21/20,53,0,1,5,0,0,14
+Bibb,Bibb,0,7,Alabama,3/21/20,3/21/20,44,0,1,7,0,0,36
+Blount,Blount,0,9,Alabama,3/21/20,3/21/20,75,0,1,9,0,0,86
+Bullock,Bullock,0,11,Alabama,3/21/20,3/21/20,28,0,1,11,0,0,9
+Butler,Butler,0,13,Alabama,3/21/20,3/21/20,88,0,1,13,0,0,20
+Calhoun,Calhoun,0,15,Alabama,3/21/20,3/21/20,321,0,1,15,0,0,307
+Chambers,Chambers,0,17,Alabama,3/21/20,3/21/20,98,0,1,17,0,0,46
+Cherokee,Cherokee,0,19,Alabama,3/21/20,3/21/20,39,0,1,19,0,0,15
+Chilton,Chilton,0,21,Alabama,3/21/20,3/21/20,47,0,1,21,0,0,80
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,23,Alabama,3/21/20,3/21/20,24,0,1,23,0,0,11
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,25,Alabama,3/21/20,3/21/20,78,0,1,25,0,0,31
+Clay,Clay,0,27,Alabama,3/21/20,3/21/20,25,0,1,27,0,0,10
+Cleburne,Cleburne,0,29,Alabama,3/21/20,3/21/20,17,0,1,29,0,0,10
+Coffee,Coffee,0,31,Alabama,3/21/20,3/21/20,67,0,1,31,0,0,61
+Colbert,Colbert,0,33,Alabama,3/21/20,3/21/20,154,0,1,33,0,0,98
+Conecuh,Conecuh,0,35,Alabama,3/21/20,3/21/20,32,0,1,35,0,0,12
+Coosa,Coosa,0,37,Alabama,3/21/20,3/21/20,21,0,1,37,0,0,16
+Covington,Covington,0,39,Alabama,3/21/20,3/21/20,80,0,1,39,0,0,30
+Crenshaw,Crenshaw,0,41,Alabama,3/21/20,3/21/20,33,0,1,41,0,0,9
+Cullman,Cullman,0,43,Alabama,3/21/20,3/21/20,132,0,1,43,0,0,133
+Dale,Dale,0,45,Alabama,3/21/20,3/21/20,81,0,1,45,0,0,73
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,47,Alabama,3/21/20,3/21/20,177,0,1,47,0,0,48
+DeKalb,DeKalb,0,49,Alabama,3/21/20,3/21/20,109,0,1,49,0,0,74
+Elmore,Elmore,0,51,Alabama,3/21/20,3/21/20,177,0,1,51,0,0,146
+Escambia,Escambia,0,53,Alabama,3/21/20,3/21/20,97,0,1,53,0,0,23
+Etowah,Etowah,0,55,Alabama,3/21/20,3/21/20,521,0,1,55,0,0,180
+Fayette,Fayette,0,57,Alabama,3/21/20,3/21/20,15,0,1,57,0,0,13
+Franklin,Franklin,0,59,Alabama,3/21/20,3/21/20,76,0,1,59,0,0,26
+Geneva,Geneva,0,61,Alabama,3/21/20,3/21/20,40,0,1,61,0,0,30
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,63,Alabama,3/21/20,3/21/20,38,0,1,63,0,0,8
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,65,Alabama,3/21/20,3/21/20,67,0,1,65,0,0,32
+Henry,Henry,0,67,Alabama,3/21/20,3/21/20,35,0,1,67,0,0,19
+Houston,Houston,0,69,Alabama,3/21/20,3/21/20,180,0,1,69,0,0,169
+Jackson,Jackson,0,71,Alabama,3/21/20,3/21/20,152,0,1,71,0,0,98
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,73,Alabama,3/21/20,3/21/20,1624,0,1,73,0,0,2371
+Lamar,Lamar,0,75,Alabama,3/21/20,3/21/20,29,0,1,75,0,0,13
+Lauderdale,Lauderdale,0,77,Alabama,3/21/20,3/21/20,192,0,1,77,0,0,184
+Lawrence,Lawrence,0,79,Alabama,3/21/20,3/21/20,67,0,1,79,0,0,30
+Lee,Lee,0,81,Alabama,3/21/20,3/21/20,266,0,1,81,0,0,384
+Limestone,Limestone,0,83,Alabama,3/21/20,3/21/20,106,0,1,83,0,0,112
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,85,Alabama,3/21/20,3/21/20,26,0,1,85,0,0,20
+Macon,Macon,0,87,Alabama,3/21/20,3/21/20,50,0,1,87,0,0,55
+Madison,Madison,0,89,Alabama,3/21/20,3/21/20,712,0,1,89,0,0,1080
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,91,Alabama,3/21/20,3/21/20,44,0,1,91,0,0,13
+Marion,Marion,0,93,Alabama,3/21/20,3/21/20,78,0,1,93,0,0,31
+Marshall,Marshall,0,95,Alabama,3/21/20,3/21/20,192,0,1,95,0,0,156
+Mobile,Mobile,0,97,Alabama,3/21/20,3/21/20,1574,0,1,97,0,0,1024
+Monroe,Monroe,0,99,Alabama,3/21/20,3/21/20,75,0,1,99,0,0,24
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,101,Alabama,3/21/20,3/21/20,629,0,1,101,0,0,523
+Morgan,Morgan,0,103,Alabama,3/21/20,3/21/20,197,0,1,103,0,0,231
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,105,Alabama,3/21/20,3/21/20,29,0,1,105,0,0,9
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,107,Alabama,3/21/20,3/21/20,80,0,1,107,0,0,31
+Pike,Pike,0,109,Alabama,3/21/20,3/21/20,67,0,1,109,0,0,35
+Randolph,Randolph,0,111,Alabama,3/21/20,3/21/20,30,0,1,111,0,0,7
+Russell,Russell,0,113,Alabama,3/21/20,3/21/20,87,0,1,113,0,0,35
+St. Clair,St. Clair,0,115,Alabama,3/21/20,3/21/20,152,0,1,115,0,0,195
+Shelby,Shelby,0,117,Alabama,3/21/20,3/21/20,281,0,1,117,0,0,448
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,119,Alabama,3/21/20,3/21/20,29,0,1,119,0,0,7
+Talladega,Talladega,0,121,Alabama,3/21/20,3/21/20,225,0,1,121,0,0,143
+Tallapoosa,Tallapoosa,0,123,Alabama,3/21/20,3/21/20,113,0,1,123,0,0,52
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,125,Alabama,3/21/20,3/21/20,306,0,1,125,0,0,576
+Walker,Walker,0,127,Alabama,3/21/20,3/21/20,167,0,1,127,0,0,158
+Washington,Washington,0,129,Alabama,3/21/20,3/21/20,42,0,1,129,0,0,19
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,131,Alabama,3/21/20,3/21/20,60,0,1,131,0,0,4
+Winston,Winston,0,133,Alabama,3/21/20,3/21/20,67,0,1,133,0,0,26
+Out of State,Out of State,0,999,Alabama,3/21/20,3/21/20,193,0,1,,0,0,321
+Total,Total,0,,Alabama,3/21/20,3/21/20,11454,0,1,,0,0,10892
+Autauga,Autauga,0,,Alabama,3/14/20,3/14/20,110,0,1,1,0,0,21
+Baldwin,Baldwin,0,,Alabama,3/14/20,3/14/20,352,0,1,3,0,0,30
+Barbour,Barbour,0,,Alabama,3/14/20,3/14/20,51,0,1,5,0,0,3
+Bibb,Bibb,0,,Alabama,3/14/20,3/14/20,50,0,1,7,0,0,4
+Blount,Blount,0,,Alabama,3/14/20,3/14/20,73,0,1,9,0,0,12
+Bullock,Bullock,0,,Alabama,3/14/20,3/14/20,26,0,1,11,0,0,0
+Butler,Butler,0,,Alabama,3/14/20,3/14/20,101,0,1,13,0,0,4
+Calhoun,Calhoun,0,,Alabama,3/14/20,3/14/20,339,0,1,15,0,0,52
+Chambers,Chambers,0,,Alabama,3/14/20,3/14/20,96,0,1,17,0,0,12
+Cherokee,Cherokee,0,,Alabama,3/14/20,3/14/20,42,0,1,19,0,0,12
+Chilton,Chilton,0,,Alabama,3/14/20,3/14/20,55,0,1,21,0,0,10
+"Choctaw, Clarke, Dallas and 11 more",Choctaw,0,,Alabama,3/14/20,3/14/20,24,0,1,23,0,0,1
+"Choctaw, Clarke, Dallas and 11 more",Clarke,0,,Alabama,3/14/20,3/14/20,85,0,1,25,0,0,7
+Clay,Clay,0,,Alabama,3/14/20,3/14/20,25,0,1,27,0,0,4
+Cleburne,Cleburne,0,,Alabama,3/14/20,3/14/20,23,0,1,29,0,0,2
+Coffee,Coffee,0,,Alabama,3/14/20,3/14/20,78,0,1,31,0,0,12
+Colbert,Colbert,0,,Alabama,3/14/20,3/14/20,167,0,1,33,0,0,17
+Conecuh,Conecuh,0,,Alabama,3/14/20,3/14/20,36,0,1,35,0,0,3
+Coosa,Coosa,0,,Alabama,3/14/20,3/14/20,25,0,1,37,0,0,3
+Covington,Covington,0,,Alabama,3/14/20,3/14/20,77,0,1,39,0,0,21
+Crenshaw,Crenshaw,0,,Alabama,3/14/20,3/14/20,31,0,1,41,0,0,3
+Cullman,Cullman,0,,Alabama,3/14/20,3/14/20,152,0,1,43,0,0,25
+Dale,Dale,0,,Alabama,3/14/20,3/14/20,86,0,1,45,0,0,15
+"Choctaw, Clarke, Dallas and 11 more",Dallas,0,,Alabama,3/14/20,3/14/20,185,0,1,47,0,0,23
+DeKalb,DeKalb,0,,Alabama,3/14/20,3/14/20,114,0,1,49,0,0,18
+Elmore,Elmore,0,,Alabama,3/14/20,3/14/20,176,0,1,51,0,0,21
+Escambia,Escambia,0,,Alabama,3/14/20,3/14/20,101,0,1,53,0,0,15
+Etowah,Etowah,0,,Alabama,3/14/20,3/14/20,551,0,1,55,0,0,36
+Fayette,Fayette,0,,Alabama,3/14/20,3/14/20,16,0,1,57,0,0,3
+Franklin,Franklin,0,,Alabama,3/14/20,3/14/20,89,0,1,59,0,0,9
+Geneva,Geneva,0,,Alabama,3/14/20,3/14/20,42,0,1,61,0,0,5
+"Choctaw, Clarke, Dallas and 11 more",Greene,0,,Alabama,3/14/20,3/14/20,42,0,1,63,0,0,2
+"Choctaw, Clarke, Dallas and 11 more",Hale,0,,Alabama,3/14/20,3/14/20,73,0,1,65,0,0,17
+Henry,Henry,0,,Alabama,3/14/20,3/14/20,34,0,1,67,0,0,5
+Houston,Houston,0,,Alabama,3/14/20,3/14/20,184,0,1,69,0,0,37
+Jackson,Jackson,0,,Alabama,3/14/20,3/14/20,141,0,1,71,0,0,21
+"Choctaw, Clarke, Dallas and 11 more",Jefferson,0,,Alabama,3/14/20,3/14/20,1665,0,1,73,0,0,252
+Lamar,Lamar,0,,Alabama,3/14/20,3/14/20,26,0,1,75,0,0,8
+Lauderdale,Lauderdale,0,,Alabama,3/14/20,3/14/20,200,0,1,77,0,0,33
+Lawrence,Lawrence,0,,Alabama,3/14/20,3/14/20,63,0,1,79,0,0,9
+Lee,Lee,0,,Alabama,3/14/20,3/14/20,226,0,1,81,0,0,46
+Limestone,Limestone,0,,Alabama,3/14/20,3/14/20,115,0,1,83,0,0,26
+"Choctaw, Clarke, Dallas and 11 more",Lowndes,0,,Alabama,3/14/20,3/14/20,31,0,1,85,0,0,6
+Macon,Macon,0,,Alabama,3/14/20,3/14/20,44,0,1,87,0,0,5
+Madison,Madison,0,,Alabama,3/14/20,3/14/20,726,0,1,89,0,0,114
+"Choctaw, Clarke, Dallas and 11 more",Marengo,0,,Alabama,3/14/20,3/14/20,44,0,1,91,0,0,3
+Marion,Marion,0,,Alabama,3/14/20,3/14/20,85,0,1,93,0,0,11
+Marshall,Marshall,0,,Alabama,3/14/20,3/14/20,198,0,1,95,0,0,25
+Mobile,Mobile,0,,Alabama,3/14/20,3/14/20,1603,0,1,97,0,0,188
+Monroe,Monroe,0,,Alabama,3/14/20,3/14/20,81,0,1,99,0,0,7
+"Choctaw, Clarke, Dallas and 11 more",Montgomery,0,,Alabama,3/14/20,3/14/20,660,0,1,101,0,0,105
+Morgan,Morgan,0,,Alabama,3/14/20,3/14/20,214,0,1,103,0,0,35
+"Choctaw, Clarke, Dallas and 11 more",Perry,0,,Alabama,3/14/20,3/14/20,36,0,1,105,0,0,4
+"Choctaw, Clarke, Dallas and 11 more",Pickens,0,,Alabama,3/14/20,3/14/20,56,0,1,107,0,0,28
+Pike,Pike,0,,Alabama,3/14/20,3/14/20,71,0,1,109,0,0,19
+Randolph,Randolph,0,,Alabama,3/14/20,3/14/20,30,0,1,111,0,0,6
+Russell,Russell,0,,Alabama,3/14/20,3/14/20,82,0,1,113,0,0,16
+St. Clair,St. Clair,0,,Alabama,3/14/20,3/14/20,154,0,1,115,0,0,24
+Shelby,Shelby,0,,Alabama,3/14/20,3/14/20,294,0,1,117,0,0,38
+"Choctaw, Clarke, Dallas and 11 more",Sumter,0,,Alabama,3/14/20,3/14/20,30,0,1,119,0,0,1
+Talladega,Talladega,0,,Alabama,3/14/20,3/14/20,247,0,1,121,0,0,41
+Tallapoosa,Tallapoosa,0,,Alabama,3/14/20,3/14/20,112,0,1,123,0,0,18
+"Choctaw, Clarke, Dallas and 11 more",Tuscaloosa,0,,Alabama,3/14/20,3/14/20,316,0,1,125,0,0,54
+Walker,Walker,0,,Alabama,3/14/20,3/14/20,169,0,1,127,0,0,23
+Washington,Washington,0,,Alabama,3/14/20,3/14/20,47,0,1,129,0,0,3
+"Choctaw, Clarke, Dallas and 11 more",Wilcox,0,,Alabama,3/14/20,3/14/20,65,0,1,131,0,0,6
+Winston,Winston,0,,Alabama,3/14/20,3/14/20,69,0,1,133,0,0,5
+Out of State,Out of State,0,,Alabama,3/14/20,3/14/20,189,0,1,,0,0,175
+Total,Total,0,,Alabama,3/14/20,3/14/20,11800,0,1,,0,0,1819
