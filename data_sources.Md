@@ -193,6 +193,9 @@ No data
   * Data: Unemployment Claims
 
 ## Utah
+* [Utah Department of Workforce Services](https://jobs.utah.gov/wi/data/misstats/lmi/)
+  * Format: Tableau, Updated: Weekly, Level: County
+  * Data: Unemployment Claims, Industries, Demographics, Unemployment
 
 ## Vermont
 
