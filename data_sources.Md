@@ -89,7 +89,10 @@ No data
 ## Massachusetts
 * [Workforce Development Area Stats](https://public.tableau.com/profile/maeconomicresearch#!/vizhome/WorkforceDevelopmentAreaWDAProfile/WDAProfile)
   * Format: Tableau, Updated: Weekly, Level: WDA, town (but FIPS in data source)
-  * Data: Unemployment Claims, Employment
+  * Data: Employment
+* [MA Economic Data](https://public.tableau.com/profile/maeconomicresearch#!/vizhome/InitialClaimsbyCitiesandTowns/GenderandEthnicity)
+  * Format: Tableau, Updated: Weekly, Level: Town
+  * Data: UI claims, demographics, industries
 
 ## Michigan
 No Data
