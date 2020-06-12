@@ -215,7 +215,11 @@ No data
   * Data: Initial / Continuing Claims, Industries, Demographics
 
 ## West Virginia
+No data
 
 ## Wisconsin
-
+* [Department of Workforce Development](https://dwd.wisconsin.gov/uistats/)
+  * Format: Excel, Updated: weekly, Level: County
+  * Data: Initial / Continuing Claims
+  
 ## Wyoming
