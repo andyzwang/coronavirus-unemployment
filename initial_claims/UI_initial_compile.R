@@ -9,14 +9,12 @@ filenames <- list.files(".", recursive = T, pattern = "_compiled.csv")
 
 # put all in one table
 
-output <- Reduce(rbind, lapply(filenames, read.csv))
+output <- Reduce(rbind, lapply(filenames, read.csv)) %>%
+  filter(!is.na(claims)) %>%
+  filter(claims != 0)
 
 # save
 
-write.csv(output, file = "UI_initial_compiled.csv", row.names = F)
+write.csv(output, file = "UI_initial.csv", row.names = F)
 
 # voila ;)
-
-
-
-output %>% group_by(state) %>% summarize(cases = sum(claims))
