@@ -208,8 +208,11 @@ No data
 * [Virginia Employment Commission](https://www.vec.virginia.gov/node/11972)
   * Format: Excel, Updated: weekly, Level: County / City
   * Data: Initial / Continuing Claims, Industries
-  
+
 ## Washington
+* [Employment Security Department](https://esd.wa.gov/labormarketinfo/unemployment-insurance-data)
+  * Format: Excel, Updated: weekly, Level: County
+  * Data: Initial / Continuing Claims, Industries, Demographics
 
 ## West Virginia
 

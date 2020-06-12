@@ -1,0 +1,859 @@
+"state","state_fips","state_short","county","county_fips","date","week","month","year","claims"
+"Washington",53,"WA","Adams",53001,2020-01-11,2,1,2020,22
+"Washington",53,"WA","Asotin",53003,2020-01-11,2,1,2020,17
+"Washington",53,"WA","Benton",53005,2020-01-11,2,1,2020,312
+"Washington",53,"WA","Chelan",53007,2020-01-11,2,1,2020,152
+"Washington",53,"WA","Clallam",53009,2020-01-11,2,1,2020,121
+"Washington",53,"WA","Clark",53011,2020-01-11,2,1,2020,416
+"Washington",53,"WA","Columbia",53013,2020-01-11,2,1,2020,5
+"Washington",53,"WA","Cowlitz",53015,2020-01-11,2,1,2020,168
+"Washington",53,"WA","Douglas",53017,2020-01-11,2,1,2020,67
+"Washington",53,"WA","Ferry",53019,2020-01-11,2,1,2020,15
+"Washington",53,"WA","Franklin",53021,2020-01-11,2,1,2020,146
+"Washington",53,"WA","Garfield",53023,2020-01-11,2,1,2020,7
+"Washington",53,"WA","Grant",53025,2020-01-11,2,1,2020,236
+"Washington",53,"WA","Grays Harbor",53027,2020-01-11,2,1,2020,134
+"Washington",53,"WA","Island",53029,2020-01-11,2,1,2020,62
+"Washington",53,"WA","Jefferson",53031,2020-01-11,2,1,2020,21
+"Washington",53,"WA","King",53033,2020-01-11,2,1,2020,1889
+"Washington",53,"WA","Kitsap",53035,2020-01-11,2,1,2020,249
+"Washington",53,"WA","Kittitas",53037,2020-01-11,2,1,2020,88
+"Washington",53,"WA","Klickitat",53039,2020-01-11,2,1,2020,20
+"Washington",53,"WA","Lewis",53041,2020-01-11,2,1,2020,147
+"Washington",53,"WA","Lincoln",53043,2020-01-11,2,1,2020,12
+"Washington",53,"WA","Mason",53045,2020-01-11,2,1,2020,80
+"Washington",53,"WA","Okanogan",53047,2020-01-11,2,1,2020,107
+"Washington",53,"WA","Pacific",53049,2020-01-11,2,1,2020,18
+"Washington",53,"WA","Pend Oreille",53051,2020-01-11,2,1,2020,10
+"Washington",53,"WA","Pierce",53053,2020-01-11,2,1,2020,1221
+"Washington",53,"WA","San Juan",53055,2020-01-11,2,1,2020,19
+"Washington",53,"WA","Skagit",53057,2020-01-11,2,1,2020,226
+"Washington",53,"WA","Skamania",53059,2020-01-11,2,1,2020,16
+"Washington",53,"WA","Snohomish",53061,2020-01-11,2,1,2020,916
+"Washington",53,"WA","Spokane",53063,2020-01-11,2,1,2020,763
+"Washington",53,"WA","Stevens",53065,2020-01-11,2,1,2020,79
+"Washington",53,"WA","Thurston",53067,2020-01-11,2,1,2020,342
+"Washington",53,"WA","Wahkiakum",53069,2020-01-11,2,1,2020,2
+"Washington",53,"WA","Walla Walla",53071,2020-01-11,2,1,2020,43
+"Washington",53,"WA","Whatcom",53073,2020-01-11,2,1,2020,305
+"Washington",53,"WA","Whitman",53075,2020-01-11,2,1,2020,18
+"Washington",53,"WA","Yakima",53077,2020-01-11,2,1,2020,532
+"Washington",53,"WA","Adams",53001,2020-01-18,3,1,2020,33
+"Washington",53,"WA","Asotin",53003,2020-01-18,3,1,2020,13
+"Washington",53,"WA","Benton",53005,2020-01-18,3,1,2020,294
+"Washington",53,"WA","Chelan",53007,2020-01-18,3,1,2020,171
+"Washington",53,"WA","Clallam",53009,2020-01-18,3,1,2020,152
+"Washington",53,"WA","Clark",53011,2020-01-18,3,1,2020,332
+"Washington",53,"WA","Columbia",53013,2020-01-18,3,1,2020,4
+"Washington",53,"WA","Cowlitz",53015,2020-01-18,3,1,2020,146
+"Washington",53,"WA","Douglas",53017,2020-01-18,3,1,2020,86
+"Washington",53,"WA","Ferry",53019,2020-01-18,3,1,2020,7
+"Washington",53,"WA","Franklin",53021,2020-01-18,3,1,2020,151
+"Washington",53,"WA","Garfield",53023,2020-01-18,3,1,2020,3
+"Washington",53,"WA","Grant",53025,2020-01-18,3,1,2020,174
+"Washington",53,"WA","Grays Harbor",53027,2020-01-18,3,1,2020,118
+"Washington",53,"WA","Island",53029,2020-01-18,3,1,2020,83
+"Washington",53,"WA","Jefferson",53031,2020-01-18,3,1,2020,37
+"Washington",53,"WA","King",53033,2020-01-18,3,1,2020,1726
+"Washington",53,"WA","Kitsap",53035,2020-01-18,3,1,2020,201
+"Washington",53,"WA","Kittitas",53037,2020-01-18,3,1,2020,78
+"Washington",53,"WA","Klickitat",53039,2020-01-18,3,1,2020,42
+"Washington",53,"WA","Lewis",53041,2020-01-18,3,1,2020,153
+"Washington",53,"WA","Lincoln",53043,2020-01-18,3,1,2020,15
+"Washington",53,"WA","Mason",53045,2020-01-18,3,1,2020,82
+"Washington",53,"WA","Okanogan",53047,2020-01-18,3,1,2020,105
+"Washington",53,"WA","Pacific",53049,2020-01-18,3,1,2020,20
+"Washington",53,"WA","Pend Oreille",53051,2020-01-18,3,1,2020,22
+"Washington",53,"WA","Pierce",53053,2020-01-18,3,1,2020,1264
+"Washington",53,"WA","San Juan",53055,2020-01-18,3,1,2020,29
+"Washington",53,"WA","Skagit",53057,2020-01-18,3,1,2020,268
+"Washington",53,"WA","Skamania",53059,2020-01-18,3,1,2020,15
+"Washington",53,"WA","Snohomish",53061,2020-01-18,3,1,2020,1102
+"Washington",53,"WA","Spokane",53063,2020-01-18,3,1,2020,659
+"Washington",53,"WA","Stevens",53065,2020-01-18,3,1,2020,77
+"Washington",53,"WA","Thurston",53067,2020-01-18,3,1,2020,323
+"Washington",53,"WA","Wahkiakum",53069,2020-01-18,3,1,2020,1
+"Washington",53,"WA","Walla Walla",53071,2020-01-18,3,1,2020,48
+"Washington",53,"WA","Whatcom",53073,2020-01-18,3,1,2020,474
+"Washington",53,"WA","Whitman",53075,2020-01-18,3,1,2020,19
+"Washington",53,"WA","Yakima",53077,2020-01-18,3,1,2020,591
+"Washington",53,"WA","Adams",53001,2020-01-25,4,1,2020,16
+"Washington",53,"WA","Asotin",53003,2020-01-25,4,1,2020,10
+"Washington",53,"WA","Benton",53005,2020-01-25,4,1,2020,262
+"Washington",53,"WA","Chelan",53007,2020-01-25,4,1,2020,144
+"Washington",53,"WA","Clallam",53009,2020-01-25,4,1,2020,130
+"Washington",53,"WA","Clark",53011,2020-01-25,4,1,2020,296
+"Washington",53,"WA","Columbia",53013,2020-01-25,4,1,2020,6
+"Washington",53,"WA","Cowlitz",53015,2020-01-25,4,1,2020,129
+"Washington",53,"WA","Douglas",53017,2020-01-25,4,1,2020,103
+"Washington",53,"WA","Ferry",53019,2020-01-25,4,1,2020,15
+"Washington",53,"WA","Franklin",53021,2020-01-25,4,1,2020,146
+"Washington",53,"WA","Garfield",53023,2020-01-25,4,1,2020,0
+"Washington",53,"WA","Grant",53025,2020-01-25,4,1,2020,171
+"Washington",53,"WA","Grays Harbor",53027,2020-01-25,4,1,2020,111
+"Washington",53,"WA","Island",53029,2020-01-25,4,1,2020,64
+"Washington",53,"WA","Jefferson",53031,2020-01-25,4,1,2020,23
+"Washington",53,"WA","King",53033,2020-01-25,4,1,2020,1616
+"Washington",53,"WA","Kitsap",53035,2020-01-25,4,1,2020,211
+"Washington",53,"WA","Kittitas",53037,2020-01-25,4,1,2020,73
+"Washington",53,"WA","Klickitat",53039,2020-01-25,4,1,2020,24
+"Washington",53,"WA","Lewis",53041,2020-01-25,4,1,2020,144
+"Washington",53,"WA","Lincoln",53043,2020-01-25,4,1,2020,5
+"Washington",53,"WA","Mason",53045,2020-01-25,4,1,2020,92
+"Washington",53,"WA","Okanogan",53047,2020-01-25,4,1,2020,88
+"Washington",53,"WA","Pacific",53049,2020-01-25,4,1,2020,22
+"Washington",53,"WA","Pend Oreille",53051,2020-01-25,4,1,2020,18
+"Washington",53,"WA","Pierce",53053,2020-01-25,4,1,2020,1130
+"Washington",53,"WA","San Juan",53055,2020-01-25,4,1,2020,9
+"Washington",53,"WA","Skagit",53057,2020-01-25,4,1,2020,259
+"Washington",53,"WA","Skamania",53059,2020-01-25,4,1,2020,21
+"Washington",53,"WA","Snohomish",53061,2020-01-25,4,1,2020,1024
+"Washington",53,"WA","Spokane",53063,2020-01-25,4,1,2020,622
+"Washington",53,"WA","Stevens",53065,2020-01-25,4,1,2020,84
+"Washington",53,"WA","Thurston",53067,2020-01-25,4,1,2020,305
+"Washington",53,"WA","Wahkiakum",53069,2020-01-25,4,1,2020,1
+"Washington",53,"WA","Walla Walla",53071,2020-01-25,4,1,2020,61
+"Washington",53,"WA","Whatcom",53073,2020-01-25,4,1,2020,366
+"Washington",53,"WA","Whitman",53075,2020-01-25,4,1,2020,21
+"Washington",53,"WA","Yakima",53077,2020-01-25,4,1,2020,503
+"Washington",53,"WA","Adams",53001,2020-02-01,5,2,2020,24
+"Washington",53,"WA","Asotin",53003,2020-02-01,5,2,2020,16
+"Washington",53,"WA","Benton",53005,2020-02-01,5,2,2020,202
+"Washington",53,"WA","Chelan",53007,2020-02-01,5,2,2020,116
+"Washington",53,"WA","Clallam",53009,2020-02-01,5,2,2020,57
+"Washington",53,"WA","Clark",53011,2020-02-01,5,2,2020,345
+"Washington",53,"WA","Columbia",53013,2020-02-01,5,2,2020,3
+"Washington",53,"WA","Cowlitz",53015,2020-02-01,5,2,2020,136
+"Washington",53,"WA","Douglas",53017,2020-02-01,5,2,2020,42
+"Washington",53,"WA","Ferry",53019,2020-02-01,5,2,2020,13
+"Washington",53,"WA","Franklin",53021,2020-02-01,5,2,2020,106
+"Washington",53,"WA","Garfield",53023,2020-02-01,5,2,2020,1
+"Washington",53,"WA","Grant",53025,2020-02-01,5,2,2020,167
+"Washington",53,"WA","Grays Harbor",53027,2020-02-01,5,2,2020,87
+"Washington",53,"WA","Island",53029,2020-02-01,5,2,2020,51
+"Washington",53,"WA","Jefferson",53031,2020-02-01,5,2,2020,23
+"Washington",53,"WA","King",53033,2020-02-01,5,2,2020,1408
+"Washington",53,"WA","Kitsap",53035,2020-02-01,5,2,2020,170
+"Washington",53,"WA","Kittitas",53037,2020-02-01,5,2,2020,35
+"Washington",53,"WA","Klickitat",53039,2020-02-01,5,2,2020,18
+"Washington",53,"WA","Lewis",53041,2020-02-01,5,2,2020,84
+"Washington",53,"WA","Lincoln",53043,2020-02-01,5,2,2020,18
+"Washington",53,"WA","Mason",53045,2020-02-01,5,2,2020,56
+"Washington",53,"WA","Okanogan",53047,2020-02-01,5,2,2020,68
+"Washington",53,"WA","Pacific",53049,2020-02-01,5,2,2020,19
+"Washington",53,"WA","Pend Oreille",53051,2020-02-01,5,2,2020,17
+"Washington",53,"WA","Pierce",53053,2020-02-01,5,2,2020,942
+"Washington",53,"WA","San Juan",53055,2020-02-01,5,2,2020,7
+"Washington",53,"WA","Skagit",53057,2020-02-01,5,2,2020,138
+"Washington",53,"WA","Skamania",53059,2020-02-01,5,2,2020,10
+"Washington",53,"WA","Snohomish",53061,2020-02-01,5,2,2020,638
+"Washington",53,"WA","Spokane",53063,2020-02-01,5,2,2020,586
+"Washington",53,"WA","Stevens",53065,2020-02-01,5,2,2020,75
+"Washington",53,"WA","Thurston",53067,2020-02-01,5,2,2020,328
+"Washington",53,"WA","Wahkiakum",53069,2020-02-01,5,2,2020,1
+"Washington",53,"WA","Walla Walla",53071,2020-02-01,5,2,2020,51
+"Washington",53,"WA","Whatcom",53073,2020-02-01,5,2,2020,209
+"Washington",53,"WA","Whitman",53075,2020-02-01,5,2,2020,18
+"Washington",53,"WA","Yakima",53077,2020-02-01,5,2,2020,384
+"Washington",53,"WA","Adams",53001,2020-02-08,6,2,2020,20
+"Washington",53,"WA","Asotin",53003,2020-02-08,6,2,2020,6
+"Washington",53,"WA","Benton",53005,2020-02-08,6,2,2020,212
+"Washington",53,"WA","Chelan",53007,2020-02-08,6,2,2020,126
+"Washington",53,"WA","Clallam",53009,2020-02-08,6,2,2020,92
+"Washington",53,"WA","Clark",53011,2020-02-08,6,2,2020,352
+"Washington",53,"WA","Columbia",53013,2020-02-08,6,2,2020,3
+"Washington",53,"WA","Cowlitz",53015,2020-02-08,6,2,2020,149
+"Washington",53,"WA","Douglas",53017,2020-02-08,6,2,2020,58
+"Washington",53,"WA","Ferry",53019,2020-02-08,6,2,2020,15
+"Washington",53,"WA","Franklin",53021,2020-02-08,6,2,2020,92
+"Washington",53,"WA","Garfield",53023,2020-02-08,6,2,2020,0
+"Washington",53,"WA","Grant",53025,2020-02-08,6,2,2020,120
+"Washington",53,"WA","Grays Harbor",53027,2020-02-08,6,2,2020,93
+"Washington",53,"WA","Island",53029,2020-02-08,6,2,2020,52
+"Washington",53,"WA","Jefferson",53031,2020-02-08,6,2,2020,18
+"Washington",53,"WA","King",53033,2020-02-08,6,2,2020,1644
+"Washington",53,"WA","Kitsap",53035,2020-02-08,6,2,2020,166
+"Washington",53,"WA","Kittitas",53037,2020-02-08,6,2,2020,37
+"Washington",53,"WA","Klickitat",53039,2020-02-08,6,2,2020,26
+"Washington",53,"WA","Lewis",53041,2020-02-08,6,2,2020,104
+"Washington",53,"WA","Lincoln",53043,2020-02-08,6,2,2020,10
+"Washington",53,"WA","Mason",53045,2020-02-08,6,2,2020,71
+"Washington",53,"WA","Okanogan",53047,2020-02-08,6,2,2020,59
+"Washington",53,"WA","Pacific",53049,2020-02-08,6,2,2020,22
+"Washington",53,"WA","Pend Oreille",53051,2020-02-08,6,2,2020,17
+"Washington",53,"WA","Pierce",53053,2020-02-08,6,2,2020,1082
+"Washington",53,"WA","San Juan",53055,2020-02-08,6,2,2020,9
+"Washington",53,"WA","Skagit",53057,2020-02-08,6,2,2020,203
+"Washington",53,"WA","Skamania",53059,2020-02-08,6,2,2020,8
+"Washington",53,"WA","Snohomish",53061,2020-02-08,6,2,2020,812
+"Washington",53,"WA","Spokane",53063,2020-02-08,6,2,2020,575
+"Washington",53,"WA","Stevens",53065,2020-02-08,6,2,2020,76
+"Washington",53,"WA","Thurston",53067,2020-02-08,6,2,2020,319
+"Washington",53,"WA","Wahkiakum",53069,2020-02-08,6,2,2020,3
+"Washington",53,"WA","Walla Walla",53071,2020-02-08,6,2,2020,48
+"Washington",53,"WA","Whatcom",53073,2020-02-08,6,2,2020,247
+"Washington",53,"WA","Whitman",53075,2020-02-08,6,2,2020,11
+"Washington",53,"WA","Yakima",53077,2020-02-08,6,2,2020,336
+"Washington",53,"WA","Adams",53001,2020-02-15,7,2,2020,14
+"Washington",53,"WA","Asotin",53003,2020-02-15,7,2,2020,10
+"Washington",53,"WA","Benton",53005,2020-02-15,7,2,2020,181
+"Washington",53,"WA","Chelan",53007,2020-02-15,7,2,2020,86
+"Washington",53,"WA","Clallam",53009,2020-02-15,7,2,2020,60
+"Washington",53,"WA","Clark",53011,2020-02-15,7,2,2020,322
+"Washington",53,"WA","Columbia",53013,2020-02-15,7,2,2020,1
+"Washington",53,"WA","Cowlitz",53015,2020-02-15,7,2,2020,105
+"Washington",53,"WA","Douglas",53017,2020-02-15,7,2,2020,40
+"Washington",53,"WA","Ferry",53019,2020-02-15,7,2,2020,5
+"Washington",53,"WA","Franklin",53021,2020-02-15,7,2,2020,88
+"Washington",53,"WA","Garfield",53023,2020-02-15,7,2,2020,1
+"Washington",53,"WA","Grant",53025,2020-02-15,7,2,2020,98
+"Washington",53,"WA","Grays Harbor",53027,2020-02-15,7,2,2020,93
+"Washington",53,"WA","Island",53029,2020-02-15,7,2,2020,48
+"Washington",53,"WA","Jefferson",53031,2020-02-15,7,2,2020,17
+"Washington",53,"WA","King",53033,2020-02-15,7,2,2020,1490
+"Washington",53,"WA","Kitsap",53035,2020-02-15,7,2,2020,161
+"Washington",53,"WA","Kittitas",53037,2020-02-15,7,2,2020,35
+"Washington",53,"WA","Klickitat",53039,2020-02-15,7,2,2020,11
+"Washington",53,"WA","Lewis",53041,2020-02-15,7,2,2020,100
+"Washington",53,"WA","Lincoln",53043,2020-02-15,7,2,2020,7
+"Washington",53,"WA","Mason",53045,2020-02-15,7,2,2020,64
+"Washington",53,"WA","Okanogan",53047,2020-02-15,7,2,2020,58
+"Washington",53,"WA","Pacific",53049,2020-02-15,7,2,2020,27
+"Washington",53,"WA","Pend Oreille",53051,2020-02-15,7,2,2020,18
+"Washington",53,"WA","Pierce",53053,2020-02-15,7,2,2020,965
+"Washington",53,"WA","San Juan",53055,2020-02-15,7,2,2020,3
+"Washington",53,"WA","Skagit",53057,2020-02-15,7,2,2020,161
+"Washington",53,"WA","Skamania",53059,2020-02-15,7,2,2020,11
+"Washington",53,"WA","Snohomish",53061,2020-02-15,7,2,2020,757
+"Washington",53,"WA","Spokane",53063,2020-02-15,7,2,2020,491
+"Washington",53,"WA","Stevens",53065,2020-02-15,7,2,2020,45
+"Washington",53,"WA","Thurston",53067,2020-02-15,7,2,2020,257
+"Washington",53,"WA","Wahkiakum",53069,2020-02-15,7,2,2020,2
+"Washington",53,"WA","Walla Walla",53071,2020-02-15,7,2,2020,32
+"Washington",53,"WA","Whatcom",53073,2020-02-15,7,2,2020,241
+"Washington",53,"WA","Whitman",53075,2020-02-15,7,2,2020,11
+"Washington",53,"WA","Yakima",53077,2020-02-15,7,2,2020,337
+"Washington",53,"WA","Adams",53001,2020-02-22,8,2,2020,8
+"Washington",53,"WA","Asotin",53003,2020-02-22,8,2,2020,6
+"Washington",53,"WA","Benton",53005,2020-02-22,8,2,2020,140
+"Washington",53,"WA","Chelan",53007,2020-02-22,8,2,2020,81
+"Washington",53,"WA","Clallam",53009,2020-02-22,8,2,2020,57
+"Washington",53,"WA","Clark",53011,2020-02-22,8,2,2020,292
+"Washington",53,"WA","Columbia",53013,2020-02-22,8,2,2020,3
+"Washington",53,"WA","Cowlitz",53015,2020-02-22,8,2,2020,129
+"Washington",53,"WA","Douglas",53017,2020-02-22,8,2,2020,35
+"Washington",53,"WA","Ferry",53019,2020-02-22,8,2,2020,13
+"Washington",53,"WA","Franklin",53021,2020-02-22,8,2,2020,82
+"Washington",53,"WA","Garfield",53023,2020-02-22,8,2,2020,1
+"Washington",53,"WA","Grant",53025,2020-02-22,8,2,2020,98
+"Washington",53,"WA","Grays Harbor",53027,2020-02-22,8,2,2020,67
+"Washington",53,"WA","Island",53029,2020-02-22,8,2,2020,40
+"Washington",53,"WA","Jefferson",53031,2020-02-22,8,2,2020,17
+"Washington",53,"WA","King",53033,2020-02-22,8,2,2020,1357
+"Washington",53,"WA","Kitsap",53035,2020-02-22,8,2,2020,132
+"Washington",53,"WA","Kittitas",53037,2020-02-22,8,2,2020,29
+"Washington",53,"WA","Klickitat",53039,2020-02-22,8,2,2020,12
+"Washington",53,"WA","Lewis",53041,2020-02-22,8,2,2020,91
+"Washington",53,"WA","Lincoln",53043,2020-02-22,8,2,2020,6
+"Washington",53,"WA","Mason",53045,2020-02-22,8,2,2020,64
+"Washington",53,"WA","Okanogan",53047,2020-02-22,8,2,2020,47
+"Washington",53,"WA","Pacific",53049,2020-02-22,8,2,2020,26
+"Washington",53,"WA","Pend Oreille",53051,2020-02-22,8,2,2020,13
+"Washington",53,"WA","Pierce",53053,2020-02-22,8,2,2020,797
+"Washington",53,"WA","San Juan",53055,2020-02-22,8,2,2020,1
+"Washington",53,"WA","Skagit",53057,2020-02-22,8,2,2020,130
+"Washington",53,"WA","Skamania",53059,2020-02-22,8,2,2020,12
+"Washington",53,"WA","Snohomish",53061,2020-02-22,8,2,2020,617
+"Washington",53,"WA","Spokane",53063,2020-02-22,8,2,2020,477
+"Washington",53,"WA","Stevens",53065,2020-02-22,8,2,2020,43
+"Washington",53,"WA","Thurston",53067,2020-02-22,8,2,2020,223
+"Washington",53,"WA","Wahkiakum",53069,2020-02-22,8,2,2020,8
+"Washington",53,"WA","Walla Walla",53071,2020-02-22,8,2,2020,32
+"Washington",53,"WA","Whatcom",53073,2020-02-22,8,2,2020,185
+"Washington",53,"WA","Whitman",53075,2020-02-22,8,2,2020,9
+"Washington",53,"WA","Yakima",53077,2020-02-22,8,2,2020,354
+"Washington",53,"WA","Adams",53001,2020-02-29,9,2,2020,37
+"Washington",53,"WA","Asotin",53003,2020-02-29,9,2,2020,5
+"Washington",53,"WA","Benton",53005,2020-02-29,9,2,2020,177
+"Washington",53,"WA","Chelan",53007,2020-02-29,9,2,2020,72
+"Washington",53,"WA","Clallam",53009,2020-02-29,9,2,2020,57
+"Washington",53,"WA","Clark",53011,2020-02-29,9,2,2020,322
+"Washington",53,"WA","Columbia",53013,2020-02-29,9,2,2020,4
+"Washington",53,"WA","Cowlitz",53015,2020-02-29,9,2,2020,124
+"Washington",53,"WA","Douglas",53017,2020-02-29,9,2,2020,40
+"Washington",53,"WA","Ferry",53019,2020-02-29,9,2,2020,2
+"Washington",53,"WA","Franklin",53021,2020-02-29,9,2,2020,63
+"Washington",53,"WA","Garfield",53023,2020-02-29,9,2,2020,0
+"Washington",53,"WA","Grant",53025,2020-02-29,9,2,2020,182
+"Washington",53,"WA","Grays Harbor",53027,2020-02-29,9,2,2020,106
+"Washington",53,"WA","Island",53029,2020-02-29,9,2,2020,42
+"Washington",53,"WA","Jefferson",53031,2020-02-29,9,2,2020,13
+"Washington",53,"WA","King",53033,2020-02-29,9,2,2020,1400
+"Washington",53,"WA","Kitsap",53035,2020-02-29,9,2,2020,129
+"Washington",53,"WA","Kittitas",53037,2020-02-29,9,2,2020,53
+"Washington",53,"WA","Klickitat",53039,2020-02-29,9,2,2020,17
+"Washington",53,"WA","Lewis",53041,2020-02-29,9,2,2020,78
+"Washington",53,"WA","Lincoln",53043,2020-02-29,9,2,2020,8
+"Washington",53,"WA","Mason",53045,2020-02-29,9,2,2020,57
+"Washington",53,"WA","Okanogan",53047,2020-02-29,9,2,2020,44
+"Washington",53,"WA","Pacific",53049,2020-02-29,9,2,2020,29
+"Washington",53,"WA","Pend Oreille",53051,2020-02-29,9,2,2020,12
+"Washington",53,"WA","Pierce",53053,2020-02-29,9,2,2020,765
+"Washington",53,"WA","San Juan",53055,2020-02-29,9,2,2020,6
+"Washington",53,"WA","Skagit",53057,2020-02-29,9,2,2020,112
+"Washington",53,"WA","Skamania",53059,2020-02-29,9,2,2020,10
+"Washington",53,"WA","Snohomish",53061,2020-02-29,9,2,2020,594
+"Washington",53,"WA","Spokane",53063,2020-02-29,9,2,2020,442
+"Washington",53,"WA","Stevens",53065,2020-02-29,9,2,2020,66
+"Washington",53,"WA","Thurston",53067,2020-02-29,9,2,2020,223
+"Washington",53,"WA","Wahkiakum",53069,2020-02-29,9,2,2020,6
+"Washington",53,"WA","Walla Walla",53071,2020-02-29,9,2,2020,41
+"Washington",53,"WA","Whatcom",53073,2020-02-29,9,2,2020,181
+"Washington",53,"WA","Whitman",53075,2020-02-29,9,2,2020,13
+"Washington",53,"WA","Yakima",53077,2020-02-29,9,2,2020,353
+"Washington",53,"WA","Adams",53001,2020-03-07,10,3,2020,20
+"Washington",53,"WA","Asotin",53003,2020-03-07,10,3,2020,5
+"Washington",53,"WA","Benton",53005,2020-03-07,10,3,2020,171
+"Washington",53,"WA","Chelan",53007,2020-03-07,10,3,2020,89
+"Washington",53,"WA","Clallam",53009,2020-03-07,10,3,2020,41
+"Washington",53,"WA","Clark",53011,2020-03-07,10,3,2020,309
+"Washington",53,"WA","Columbia",53013,2020-03-07,10,3,2020,2
+"Washington",53,"WA","Cowlitz",53015,2020-03-07,10,3,2020,122
+"Washington",53,"WA","Douglas",53017,2020-03-07,10,3,2020,48
+"Washington",53,"WA","Ferry",53019,2020-03-07,10,3,2020,7
+"Washington",53,"WA","Franklin",53021,2020-03-07,10,3,2020,78
+"Washington",53,"WA","Garfield",53023,2020-03-07,10,3,2020,0
+"Washington",53,"WA","Grant",53025,2020-03-07,10,3,2020,92
+"Washington",53,"WA","Grays Harbor",53027,2020-03-07,10,3,2020,97
+"Washington",53,"WA","Island",53029,2020-03-07,10,3,2020,63
+"Washington",53,"WA","Jefferson",53031,2020-03-07,10,3,2020,18
+"Washington",53,"WA","King",53033,2020-03-07,10,3,2020,1837
+"Washington",53,"WA","Kitsap",53035,2020-03-07,10,3,2020,174
+"Washington",53,"WA","Kittitas",53037,2020-03-07,10,3,2020,46
+"Washington",53,"WA","Klickitat",53039,2020-03-07,10,3,2020,9
+"Washington",53,"WA","Lewis",53041,2020-03-07,10,3,2020,120
+"Washington",53,"WA","Lincoln",53043,2020-03-07,10,3,2020,8
+"Washington",53,"WA","Mason",53045,2020-03-07,10,3,2020,60
+"Washington",53,"WA","Okanogan",53047,2020-03-07,10,3,2020,90
+"Washington",53,"WA","Pacific",53049,2020-03-07,10,3,2020,23
+"Washington",53,"WA","Pend Oreille",53051,2020-03-07,10,3,2020,12
+"Washington",53,"WA","Pierce",53053,2020-03-07,10,3,2020,950
+"Washington",53,"WA","San Juan",53055,2020-03-07,10,3,2020,8
+"Washington",53,"WA","Skagit",53057,2020-03-07,10,3,2020,127
+"Washington",53,"WA","Skamania",53059,2020-03-07,10,3,2020,7
+"Washington",53,"WA","Snohomish",53061,2020-03-07,10,3,2020,733
+"Washington",53,"WA","Spokane",53063,2020-03-07,10,3,2020,459
+"Washington",53,"WA","Stevens",53065,2020-03-07,10,3,2020,82
+"Washington",53,"WA","Thurston",53067,2020-03-07,10,3,2020,265
+"Washington",53,"WA","Wahkiakum",53069,2020-03-07,10,3,2020,4
+"Washington",53,"WA","Walla Walla",53071,2020-03-07,10,3,2020,26
+"Washington",53,"WA","Whatcom",53073,2020-03-07,10,3,2020,198
+"Washington",53,"WA","Whitman",53075,2020-03-07,10,3,2020,8
+"Washington",53,"WA","Yakima",53077,2020-03-07,10,3,2020,339
+"Washington",53,"WA","Adams",53001,2020-03-14,11,3,2020,18
+"Washington",53,"WA","Asotin",53003,2020-03-14,11,3,2020,8
+"Washington",53,"WA","Benton",53005,2020-03-14,11,3,2020,207
+"Washington",53,"WA","Chelan",53007,2020-03-14,11,3,2020,110
+"Washington",53,"WA","Clallam",53009,2020-03-14,11,3,2020,56
+"Washington",53,"WA","Clark",53011,2020-03-14,11,3,2020,373
+"Washington",53,"WA","Columbia",53013,2020-03-14,11,3,2020,2
+"Washington",53,"WA","Cowlitz",53015,2020-03-14,11,3,2020,129
+"Washington",53,"WA","Douglas",53017,2020-03-14,11,3,2020,46
+"Washington",53,"WA","Ferry",53019,2020-03-14,11,3,2020,8
+"Washington",53,"WA","Franklin",53021,2020-03-14,11,3,2020,195
+"Washington",53,"WA","Garfield",53023,2020-03-14,11,3,2020,6
+"Washington",53,"WA","Grant",53025,2020-03-14,11,3,2020,93
+"Washington",53,"WA","Grays Harbor",53027,2020-03-14,11,3,2020,122
+"Washington",53,"WA","Island",53029,2020-03-14,11,3,2020,66
+"Washington",53,"WA","Jefferson",53031,2020-03-14,11,3,2020,25
+"Washington",53,"WA","King",53033,2020-03-14,11,3,2020,5834
+"Washington",53,"WA","Kitsap",53035,2020-03-14,11,3,2020,259
+"Washington",53,"WA","Kittitas",53037,2020-03-14,11,3,2020,62
+"Washington",53,"WA","Klickitat",53039,2020-03-14,11,3,2020,7
+"Washington",53,"WA","Lewis",53041,2020-03-14,11,3,2020,92
+"Washington",53,"WA","Lincoln",53043,2020-03-14,11,3,2020,6
+"Washington",53,"WA","Mason",53045,2020-03-14,11,3,2020,124
+"Washington",53,"WA","Okanogan",53047,2020-03-14,11,3,2020,78
+"Washington",53,"WA","Pacific",53049,2020-03-14,11,3,2020,25
+"Washington",53,"WA","Pend Oreille",53051,2020-03-14,11,3,2020,11
+"Washington",53,"WA","Pierce",53053,2020-03-14,11,3,2020,1559
+"Washington",53,"WA","San Juan",53055,2020-03-14,11,3,2020,17
+"Washington",53,"WA","Skagit",53057,2020-03-14,11,3,2020,163
+"Washington",53,"WA","Skamania",53059,2020-03-14,11,3,2020,13
+"Washington",53,"WA","Snohomish",53061,2020-03-14,11,3,2020,1386
+"Washington",53,"WA","Spokane",53063,2020-03-14,11,3,2020,455
+"Washington",53,"WA","Stevens",53065,2020-03-14,11,3,2020,49
+"Washington",53,"WA","Thurston",53067,2020-03-14,11,3,2020,351
+"Washington",53,"WA","Wahkiakum",53069,2020-03-14,11,3,2020,3
+"Washington",53,"WA","Walla Walla",53071,2020-03-14,11,3,2020,41
+"Washington",53,"WA","Whatcom",53073,2020-03-14,11,3,2020,238
+"Washington",53,"WA","Whitman",53075,2020-03-14,11,3,2020,11
+"Washington",53,"WA","Yakima",53077,2020-03-14,11,3,2020,265
+"Washington",53,"WA","Adams",53001,2020-03-21,12,3,2020,154
+"Washington",53,"WA","Asotin",53003,2020-03-21,12,3,2020,113
+"Washington",53,"WA","Benton",53005,2020-03-21,12,3,2020,3014
+"Washington",53,"WA","Chelan",53007,2020-03-21,12,3,2020,1473
+"Washington",53,"WA","Clallam",53009,2020-03-21,12,3,2020,1147
+"Washington",53,"WA","Clark",53011,2020-03-21,12,3,2020,6249
+"Washington",53,"WA","Columbia",53013,2020-03-21,12,3,2020,34
+"Washington",53,"WA","Cowlitz",53015,2020-03-21,12,3,2020,1458
+"Washington",53,"WA","Douglas",53017,2020-03-21,12,3,2020,539
+"Washington",53,"WA","Ferry",53019,2020-03-21,12,3,2020,20
+"Washington",53,"WA","Franklin",53021,2020-03-21,12,3,2020,1104
+"Washington",53,"WA","Garfield",53023,2020-03-21,12,3,2020,9
+"Washington",53,"WA","Grant",53025,2020-03-21,12,3,2020,1039
+"Washington",53,"WA","Grays Harbor",53027,2020-03-21,12,3,2020,1053
+"Washington",53,"WA","Island",53029,2020-03-21,12,3,2020,949
+"Washington",53,"WA","Jefferson",53031,2020-03-21,12,3,2020,568
+"Washington",53,"WA","King",53033,2020-03-21,12,3,2020,37296
+"Washington",53,"WA","Kitsap",53035,2020-03-21,12,3,2020,3606
+"Washington",53,"WA","Kittitas",53037,2020-03-21,12,3,2020,822
+"Washington",53,"WA","Klickitat",53039,2020-03-21,12,3,2020,141
+"Washington",53,"WA","Lewis",53041,2020-03-21,12,3,2020,1094
+"Washington",53,"WA","Lincoln",53043,2020-03-21,12,3,2020,59
+"Washington",53,"WA","Mason",53045,2020-03-21,12,3,2020,865
+"Washington",53,"WA","Okanogan",53047,2020-03-21,12,3,2020,357
+"Washington",53,"WA","Pacific",53049,2020-03-21,12,3,2020,212
+"Washington",53,"WA","Pend Oreille",53051,2020-03-21,12,3,2020,87
+"Washington",53,"WA","Pierce",53053,2020-03-21,12,3,2020,14730
+"Washington",53,"WA","San Juan",53055,2020-03-21,12,3,2020,279
+"Washington",53,"WA","Skagit",53057,2020-03-21,12,3,2020,1966
+"Washington",53,"WA","Skamania",53059,2020-03-21,12,3,2020,201
+"Washington",53,"WA","Snohomish",53061,2020-03-21,12,3,2020,13692
+"Washington",53,"WA","Spokane",53063,2020-03-21,12,3,2020,8766
+"Washington",53,"WA","Stevens",53065,2020-03-21,12,3,2020,388
+"Washington",53,"WA","Thurston",53067,2020-03-21,12,3,2020,4708
+"Washington",53,"WA","Wahkiakum",53069,2020-03-21,12,3,2020,19
+"Washington",53,"WA","Walla Walla",53071,2020-03-21,12,3,2020,726
+"Washington",53,"WA","Whatcom",53073,2020-03-21,12,3,2020,4428
+"Washington",53,"WA","Whitman",53075,2020-03-21,12,3,2020,282
+"Washington",53,"WA","Yakima",53077,2020-03-21,12,3,2020,2817
+"Washington",53,"WA","Adams",53001,2020-03-28,13,3,2020,176
+"Washington",53,"WA","Asotin",53003,2020-03-28,13,3,2020,176
+"Washington",53,"WA","Benton",53005,2020-03-28,13,3,2020,4294
+"Washington",53,"WA","Chelan",53007,2020-03-28,13,3,2020,1889
+"Washington",53,"WA","Clallam",53009,2020-03-28,13,3,2020,1827
+"Washington",53,"WA","Clark",53011,2020-03-28,13,3,2020,8661
+"Washington",53,"WA","Columbia",53013,2020-03-28,13,3,2020,39
+"Washington",53,"WA","Cowlitz",53015,2020-03-28,13,3,2020,2096
+"Washington",53,"WA","Douglas",53017,2020-03-28,13,3,2020,760
+"Washington",53,"WA","Ferry",53019,2020-03-28,13,3,2020,55
+"Washington",53,"WA","Franklin",53021,2020-03-28,13,3,2020,1648
+"Washington",53,"WA","Garfield",53023,2020-03-28,13,3,2020,9
+"Washington",53,"WA","Grant",53025,2020-03-28,13,3,2020,1577
+"Washington",53,"WA","Grays Harbor",53027,2020-03-28,13,3,2020,1709
+"Washington",53,"WA","Island",53029,2020-03-28,13,3,2020,1520
+"Washington",53,"WA","Jefferson",53031,2020-03-28,13,3,2020,803
+"Washington",53,"WA","King",53033,2020-03-28,13,3,2020,44613
+"Washington",53,"WA","Kitsap",53035,2020-03-28,13,3,2020,4941
+"Washington",53,"WA","Kittitas",53037,2020-03-28,13,3,2020,1093
+"Washington",53,"WA","Klickitat",53039,2020-03-28,13,3,2020,214
+"Washington",53,"WA","Lewis",53041,2020-03-28,13,3,2020,1825
+"Washington",53,"WA","Lincoln",53043,2020-03-28,13,3,2020,117
+"Washington",53,"WA","Mason",53045,2020-03-28,13,3,2020,1178
+"Washington",53,"WA","Okanogan",53047,2020-03-28,13,3,2020,524
+"Washington",53,"WA","Pacific",53049,2020-03-28,13,3,2020,449
+"Washington",53,"WA","Pend Oreille",53051,2020-03-28,13,3,2020,160
+"Washington",53,"WA","Pierce",53053,2020-03-28,13,3,2020,22145
+"Washington",53,"WA","San Juan",53055,2020-03-28,13,3,2020,465
+"Washington",53,"WA","Skagit",53057,2020-03-28,13,3,2020,3425
+"Washington",53,"WA","Skamania",53059,2020-03-28,13,3,2020,211
+"Washington",53,"WA","Snohomish",53061,2020-03-28,13,3,2020,21176
+"Washington",53,"WA","Spokane",53063,2020-03-28,13,3,2020,12102
+"Washington",53,"WA","Stevens",53065,2020-03-28,13,3,2020,744
+"Washington",53,"WA","Thurston",53067,2020-03-28,13,3,2020,6804
+"Washington",53,"WA","Wahkiakum",53069,2020-03-28,13,3,2020,27
+"Washington",53,"WA","Walla Walla",53071,2020-03-28,13,3,2020,904
+"Washington",53,"WA","Whatcom",53073,2020-03-28,13,3,2020,6268
+"Washington",53,"WA","Whitman",53075,2020-03-28,13,3,2020,383
+"Washington",53,"WA","Yakima",53077,2020-03-28,13,3,2020,4195
+"Washington",53,"WA","Adams",53001,2020-04-04,14,4,2020,202
+"Washington",53,"WA","Asotin",53003,2020-04-04,14,4,2020,196
+"Washington",53,"WA","Benton",53005,2020-04-04,14,4,2020,3696
+"Washington",53,"WA","Chelan",53007,2020-04-04,14,4,2020,1922
+"Washington",53,"WA","Clallam",53009,2020-04-04,14,4,2020,1553
+"Washington",53,"WA","Clark",53011,2020-04-04,14,4,2020,9378
+"Washington",53,"WA","Columbia",53013,2020-04-04,14,4,2020,65
+"Washington",53,"WA","Cowlitz",53015,2020-04-04,14,4,2020,2215
+"Washington",53,"WA","Douglas",53017,2020-04-04,14,4,2020,820
+"Washington",53,"WA","Ferry",53019,2020-04-04,14,4,2020,54
+"Washington",53,"WA","Franklin",53021,2020-04-04,14,4,2020,1435
+"Washington",53,"WA","Garfield",53023,2020-04-04,14,4,2020,32
+"Washington",53,"WA","Grant",53025,2020-04-04,14,4,2020,1512
+"Washington",53,"WA","Grays Harbor",53027,2020-04-04,14,4,2020,1631
+"Washington",53,"WA","Island",53029,2020-04-04,14,4,2020,1584
+"Washington",53,"WA","Jefferson",53031,2020-04-04,14,4,2020,670
+"Washington",53,"WA","King",53033,2020-04-04,14,4,2020,47233
+"Washington",53,"WA","Kitsap",53035,2020-04-04,14,4,2020,4860
+"Washington",53,"WA","Kittitas",53037,2020-04-04,14,4,2020,1065
+"Washington",53,"WA","Klickitat",53039,2020-04-04,14,4,2020,259
+"Washington",53,"WA","Lewis",53041,2020-04-04,14,4,2020,1703
+"Washington",53,"WA","Lincoln",53043,2020-04-04,14,4,2020,120
+"Washington",53,"WA","Mason",53045,2020-04-04,14,4,2020,1187
+"Washington",53,"WA","Okanogan",53047,2020-04-04,14,4,2020,662
+"Washington",53,"WA","Pacific",53049,2020-04-04,14,4,2020,418
+"Washington",53,"WA","Pend Oreille",53051,2020-04-04,14,4,2020,181
+"Washington",53,"WA","Pierce",53053,2020-04-04,14,4,2020,22379
+"Washington",53,"WA","San Juan",53055,2020-04-04,14,4,2020,443
+"Washington",53,"WA","Skagit",53057,2020-04-04,14,4,2020,3230
+"Washington",53,"WA","Skamania",53059,2020-04-04,14,4,2020,185
+"Washington",53,"WA","Snohomish",53061,2020-04-04,14,4,2020,21148
+"Washington",53,"WA","Spokane",53063,2020-04-04,14,4,2020,11347
+"Washington",53,"WA","Stevens",53065,2020-04-04,14,4,2020,715
+"Washington",53,"WA","Thurston",53067,2020-04-04,14,4,2020,6095
+"Washington",53,"WA","Wahkiakum",53069,2020-04-04,14,4,2020,45
+"Washington",53,"WA","Walla Walla",53071,2020-04-04,14,4,2020,952
+"Washington",53,"WA","Whatcom",53073,2020-04-04,14,4,2020,5885
+"Washington",53,"WA","Whitman",53075,2020-04-04,14,4,2020,438
+"Washington",53,"WA","Yakima",53077,2020-04-04,14,4,2020,4008
+"Washington",53,"WA","Adams",53001,2020-04-11,15,4,2020,210
+"Washington",53,"WA","Asotin",53003,2020-04-11,15,4,2020,131
+"Washington",53,"WA","Benton",53005,2020-04-11,15,4,2020,2336
+"Washington",53,"WA","Chelan",53007,2020-04-11,15,4,2020,1156
+"Washington",53,"WA","Clallam",53009,2020-04-11,15,4,2020,945
+"Washington",53,"WA","Clark",53011,2020-04-11,15,4,2020,5591
+"Washington",53,"WA","Columbia",53013,2020-04-11,15,4,2020,38
+"Washington",53,"WA","Cowlitz",53015,2020-04-11,15,4,2020,1330
+"Washington",53,"WA","Douglas",53017,2020-04-11,15,4,2020,571
+"Washington",53,"WA","Ferry",53019,2020-04-11,15,4,2020,48
+"Washington",53,"WA","Franklin",53021,2020-04-11,15,4,2020,1055
+"Washington",53,"WA","Garfield",53023,2020-04-11,15,4,2020,12
+"Washington",53,"WA","Grant",53025,2020-04-11,15,4,2020,894
+"Washington",53,"WA","Grays Harbor",53027,2020-04-11,15,4,2020,1170
+"Washington",53,"WA","Island",53029,2020-04-11,15,4,2020,1577
+"Washington",53,"WA","Jefferson",53031,2020-04-11,15,4,2020,435
+"Washington",53,"WA","King",53033,2020-04-11,15,4,2020,39796
+"Washington",53,"WA","Kitsap",53035,2020-04-11,15,4,2020,3905
+"Washington",53,"WA","Kittitas",53037,2020-04-11,15,4,2020,650
+"Washington",53,"WA","Klickitat",53039,2020-04-11,15,4,2020,173
+"Washington",53,"WA","Lewis",53041,2020-04-11,15,4,2020,1153
+"Washington",53,"WA","Lincoln",53043,2020-04-11,15,4,2020,86
+"Washington",53,"WA","Mason",53045,2020-04-11,15,4,2020,793
+"Washington",53,"WA","Okanogan",53047,2020-04-11,15,4,2020,440
+"Washington",53,"WA","Pacific",53049,2020-04-11,15,4,2020,264
+"Washington",53,"WA","Pend Oreille",53051,2020-04-11,15,4,2020,143
+"Washington",53,"WA","Pierce",53053,2020-04-11,15,4,2020,19377
+"Washington",53,"WA","San Juan",53055,2020-04-11,15,4,2020,271
+"Washington",53,"WA","Skagit",53057,2020-04-11,15,4,2020,2731
+"Washington",53,"WA","Skamania",53059,2020-04-11,15,4,2020,142
+"Washington",53,"WA","Snohomish",53061,2020-04-11,15,4,2020,27780
+"Washington",53,"WA","Spokane",53063,2020-04-11,15,4,2020,8382
+"Washington",53,"WA","Stevens",53065,2020-04-11,15,4,2020,439
+"Washington",53,"WA","Thurston",53067,2020-04-11,15,4,2020,4239
+"Washington",53,"WA","Wahkiakum",53069,2020-04-11,15,4,2020,34
+"Washington",53,"WA","Walla Walla",53071,2020-04-11,15,4,2020,510
+"Washington",53,"WA","Whatcom",53073,2020-04-11,15,4,2020,3968
+"Washington",53,"WA","Whitman",53075,2020-04-11,15,4,2020,275
+"Washington",53,"WA","Yakima",53077,2020-04-11,15,4,2020,3167
+"Washington",53,"WA","Adams",53001,2020-04-18,16,4,2020,170
+"Washington",53,"WA","Asotin",53003,2020-04-18,16,4,2020,118
+"Washington",53,"WA","Benton",53005,2020-04-18,16,4,2020,1534
+"Washington",53,"WA","Chelan",53007,2020-04-18,16,4,2020,740
+"Washington",53,"WA","Clallam",53009,2020-04-18,16,4,2020,683
+"Washington",53,"WA","Clark",53011,2020-04-18,16,4,2020,3707
+"Washington",53,"WA","Columbia",53013,2020-04-18,16,4,2020,20
+"Washington",53,"WA","Cowlitz",53015,2020-04-18,16,4,2020,899
+"Washington",53,"WA","Douglas",53017,2020-04-18,16,4,2020,334
+"Washington",53,"WA","Ferry",53019,2020-04-18,16,4,2020,40
+"Washington",53,"WA","Franklin",53021,2020-04-18,16,4,2020,673
+"Washington",53,"WA","Garfield",53023,2020-04-18,16,4,2020,10
+"Washington",53,"WA","Grant",53025,2020-04-18,16,4,2020,621
+"Washington",53,"WA","Grays Harbor",53027,2020-04-18,16,4,2020,785
+"Washington",53,"WA","Island",53029,2020-04-18,16,4,2020,713
+"Washington",53,"WA","Jefferson",53031,2020-04-18,16,4,2020,297
+"Washington",53,"WA","King",53033,2020-04-18,16,4,2020,24461
+"Washington",53,"WA","Kitsap",53035,2020-04-18,16,4,2020,2378
+"Washington",53,"WA","Kittitas",53037,2020-04-18,16,4,2020,370
+"Washington",53,"WA","Klickitat",53039,2020-04-18,16,4,2020,131
+"Washington",53,"WA","Lewis",53041,2020-04-18,16,4,2020,755
+"Washington",53,"WA","Lincoln",53043,2020-04-18,16,4,2020,62
+"Washington",53,"WA","Mason",53045,2020-04-18,16,4,2020,536
+"Washington",53,"WA","Okanogan",53047,2020-04-18,16,4,2020,292
+"Washington",53,"WA","Pacific",53049,2020-04-18,16,4,2020,168
+"Washington",53,"WA","Pend Oreille",53051,2020-04-18,16,4,2020,94
+"Washington",53,"WA","Pierce",53053,2020-04-18,16,4,2020,11016
+"Washington",53,"WA","San Juan",53055,2020-04-18,16,4,2020,191
+"Washington",53,"WA","Skagit",53057,2020-04-18,16,4,2020,1445
+"Washington",53,"WA","Skamania",53059,2020-04-18,16,4,2020,87
+"Washington",53,"WA","Snohomish",53061,2020-04-18,16,4,2020,10958
+"Washington",53,"WA","Spokane",53063,2020-04-18,16,4,2020,5069
+"Washington",53,"WA","Stevens",53065,2020-04-18,16,4,2020,254
+"Washington",53,"WA","Thurston",53067,2020-04-18,16,4,2020,2882
+"Washington",53,"WA","Wahkiakum",53069,2020-04-18,16,4,2020,22
+"Washington",53,"WA","Walla Walla",53071,2020-04-18,16,4,2020,366
+"Washington",53,"WA","Whatcom",53073,2020-04-18,16,4,2020,2612
+"Washington",53,"WA","Whitman",53075,2020-04-18,16,4,2020,224
+"Washington",53,"WA","Yakima",53077,2020-04-18,16,4,2020,2241
+"Washington",53,"WA","Adams",53001,2020-04-25,17,4,2020,292
+"Washington",53,"WA","Asotin",53003,2020-04-25,17,4,2020,145
+"Washington",53,"WA","Benton",53005,2020-04-25,17,4,2020,2425
+"Washington",53,"WA","Chelan",53007,2020-04-25,17,4,2020,1563
+"Washington",53,"WA","Clallam",53009,2020-04-25,17,4,2020,1325
+"Washington",53,"WA","Clark",53011,2020-04-25,17,4,2020,6292
+"Washington",53,"WA","Columbia",53013,2020-04-25,17,4,2020,39
+"Washington",53,"WA","Cowlitz",53015,2020-04-25,17,4,2020,1457
+"Washington",53,"WA","Douglas",53017,2020-04-25,17,4,2020,696
+"Washington",53,"WA","Ferry",53019,2020-04-25,17,4,2020,92
+"Washington",53,"WA","Franklin",53021,2020-04-25,17,4,2020,996
+"Washington",53,"WA","Garfield",53023,2020-04-25,17,4,2020,13
+"Washington",53,"WA","Grant",53025,2020-04-25,17,4,2020,983
+"Washington",53,"WA","Grays Harbor",53027,2020-04-25,17,4,2020,1229
+"Washington",53,"WA","Island",53029,2020-04-25,17,4,2020,1297
+"Washington",53,"WA","Jefferson",53031,2020-04-25,17,4,2020,746
+"Washington",53,"WA","King",53033,2020-04-25,17,4,2020,40088
+"Washington",53,"WA","Kitsap",53035,2020-04-25,17,4,2020,4266
+"Washington",53,"WA","Kittitas",53037,2020-04-25,17,4,2020,700
+"Washington",53,"WA","Klickitat",53039,2020-04-25,17,4,2020,234
+"Washington",53,"WA","Lewis",53041,2020-04-25,17,4,2020,1305
+"Washington",53,"WA","Lincoln",53043,2020-04-25,17,4,2020,111
+"Washington",53,"WA","Mason",53045,2020-04-25,17,4,2020,931
+"Washington",53,"WA","Okanogan",53047,2020-04-25,17,4,2020,613
+"Washington",53,"WA","Pacific",53049,2020-04-25,17,4,2020,376
+"Washington",53,"WA","Pend Oreille",53051,2020-04-25,17,4,2020,190
+"Washington",53,"WA","Pierce",53053,2020-04-25,17,4,2020,16680
+"Washington",53,"WA","San Juan",53055,2020-04-25,17,4,2020,503
+"Washington",53,"WA","Skagit",53057,2020-04-25,17,4,2020,2164
+"Washington",53,"WA","Skamania",53059,2020-04-25,17,4,2020,155
+"Washington",53,"WA","Snohomish",53061,2020-04-25,17,4,2020,15122
+"Washington",53,"WA","Spokane",53063,2020-04-25,17,4,2020,7794
+"Washington",53,"WA","Stevens",53065,2020-04-25,17,4,2020,650
+"Washington",53,"WA","Thurston",53067,2020-04-25,17,4,2020,5085
+"Washington",53,"WA","Wahkiakum",53069,2020-04-25,17,4,2020,51
+"Washington",53,"WA","Walla Walla",53071,2020-04-25,17,4,2020,650
+"Washington",53,"WA","Whatcom",53073,2020-04-25,17,4,2020,4343
+"Washington",53,"WA","Whitman",53075,2020-04-25,17,4,2020,354
+"Washington",53,"WA","Yakima",53077,2020-04-25,17,4,2020,3477
+"Washington",53,"WA","Adams",53001,2020-05-02,18,5,2020,259
+"Washington",53,"WA","Asotin",53003,2020-05-02,18,5,2020,83
+"Washington",53,"WA","Benton",53005,2020-05-02,18,5,2020,1983
+"Washington",53,"WA","Chelan",53007,2020-05-02,18,5,2020,1190
+"Washington",53,"WA","Clallam",53009,2020-05-02,18,5,2020,980
+"Washington",53,"WA","Clark",53011,2020-05-02,18,5,2020,4842
+"Washington",53,"WA","Columbia",53013,2020-05-02,18,5,2020,37
+"Washington",53,"WA","Cowlitz",53015,2020-05-02,18,5,2020,1130
+"Washington",53,"WA","Douglas",53017,2020-05-02,18,5,2020,569
+"Washington",53,"WA","Ferry",53019,2020-05-02,18,5,2020,51
+"Washington",53,"WA","Franklin",53021,2020-05-02,18,5,2020,873
+"Washington",53,"WA","Garfield",53023,2020-05-02,18,5,2020,7
+"Washington",53,"WA","Grant",53025,2020-05-02,18,5,2020,869
+"Washington",53,"WA","Grays Harbor",53027,2020-05-02,18,5,2020,909
+"Washington",53,"WA","Island",53029,2020-05-02,18,5,2020,882
+"Washington",53,"WA","Jefferson",53031,2020-05-02,18,5,2020,471
+"Washington",53,"WA","King",53033,2020-05-02,18,5,2020,31550
+"Washington",53,"WA","Kitsap",53035,2020-05-02,18,5,2020,2864
+"Washington",53,"WA","Kittitas",53037,2020-05-02,18,5,2020,510
+"Washington",53,"WA","Klickitat",53039,2020-05-02,18,5,2020,159
+"Washington",53,"WA","Lewis",53041,2020-05-02,18,5,2020,950
+"Washington",53,"WA","Lincoln",53043,2020-05-02,18,5,2020,98
+"Washington",53,"WA","Mason",53045,2020-05-02,18,5,2020,687
+"Washington",53,"WA","Okanogan",53047,2020-05-02,18,5,2020,410
+"Washington",53,"WA","Pacific",53049,2020-05-02,18,5,2020,263
+"Washington",53,"WA","Pend Oreille",53051,2020-05-02,18,5,2020,104
+"Washington",53,"WA","Pierce",53053,2020-05-02,18,5,2020,12813
+"Washington",53,"WA","San Juan",53055,2020-05-02,18,5,2020,336
+"Washington",53,"WA","Skagit",53057,2020-05-02,18,5,2020,1609
+"Washington",53,"WA","Skamania",53059,2020-05-02,18,5,2020,118
+"Washington",53,"WA","Snohomish",53061,2020-05-02,18,5,2020,10864
+"Washington",53,"WA","Spokane",53063,2020-05-02,18,5,2020,6056
+"Washington",53,"WA","Stevens",53065,2020-05-02,18,5,2020,416
+"Washington",53,"WA","Thurston",53067,2020-05-02,18,5,2020,3746
+"Washington",53,"WA","Wahkiakum",53069,2020-05-02,18,5,2020,29
+"Washington",53,"WA","Walla Walla",53071,2020-05-02,18,5,2020,506
+"Washington",53,"WA","Whatcom",53073,2020-05-02,18,5,2020,3170
+"Washington",53,"WA","Whitman",53075,2020-05-02,18,5,2020,306
+"Washington",53,"WA","Yakima",53077,2020-05-02,18,5,2020,2756
+"Washington",53,"WA","Adams",53001,2020-05-09,19,5,2020,302
+"Washington",53,"WA","Asotin",53003,2020-05-09,19,5,2020,115
+"Washington",53,"WA","Benton",53005,2020-05-09,19,5,2020,2444
+"Washington",53,"WA","Chelan",53007,2020-05-09,19,5,2020,955
+"Washington",53,"WA","Clallam",53009,2020-05-09,19,5,2020,767
+"Washington",53,"WA","Clark",53011,2020-05-09,19,5,2020,4905
+"Washington",53,"WA","Columbia",53013,2020-05-09,19,5,2020,35
+"Washington",53,"WA","Cowlitz",53015,2020-05-09,19,5,2020,1262
+"Washington",53,"WA","Douglas",53017,2020-05-09,19,5,2020,397
+"Washington",53,"WA","Ferry",53019,2020-05-09,19,5,2020,65
+"Washington",53,"WA","Franklin",53021,2020-05-09,19,5,2020,918
+"Washington",53,"WA","Garfield",53023,2020-05-09,19,5,2020,22
+"Washington",53,"WA","Grant",53025,2020-05-09,19,5,2020,927
+"Washington",53,"WA","Grays Harbor",53027,2020-05-09,19,5,2020,975
+"Washington",53,"WA","Island",53029,2020-05-09,19,5,2020,755
+"Washington",53,"WA","Jefferson",53031,2020-05-09,19,5,2020,334
+"Washington",53,"WA","King",53033,2020-05-09,19,5,2020,37701
+"Washington",53,"WA","Kitsap",53035,2020-05-09,19,5,2020,2995
+"Washington",53,"WA","Kittitas",53037,2020-05-09,19,5,2020,614
+"Washington",53,"WA","Klickitat",53039,2020-05-09,19,5,2020,191
+"Washington",53,"WA","Lewis",53041,2020-05-09,19,5,2020,954
+"Washington",53,"WA","Lincoln",53043,2020-05-09,19,5,2020,76
+"Washington",53,"WA","Mason",53045,2020-05-09,19,5,2020,736
+"Washington",53,"WA","Okanogan",53047,2020-05-09,19,5,2020,399
+"Washington",53,"WA","Pacific",53049,2020-05-09,19,5,2020,220
+"Washington",53,"WA","Pend Oreille",53051,2020-05-09,19,5,2020,95
+"Washington",53,"WA","Pierce",53053,2020-05-09,19,5,2020,12938
+"Washington",53,"WA","San Juan",53055,2020-05-09,19,5,2020,195
+"Washington",53,"WA","Skagit",53057,2020-05-09,19,5,2020,1529
+"Washington",53,"WA","Skamania",53059,2020-05-09,19,5,2020,110
+"Washington",53,"WA","Snohomish",53061,2020-05-09,19,5,2020,11677
+"Washington",53,"WA","Spokane",53063,2020-05-09,19,5,2020,6954
+"Washington",53,"WA","Stevens",53065,2020-05-09,19,5,2020,454
+"Washington",53,"WA","Thurston",53067,2020-05-09,19,5,2020,3920
+"Washington",53,"WA","Wahkiakum",53069,2020-05-09,19,5,2020,35
+"Washington",53,"WA","Walla Walla",53071,2020-05-09,19,5,2020,659
+"Washington",53,"WA","Whatcom",53073,2020-05-09,19,5,2020,2914
+"Washington",53,"WA","Whitman",53075,2020-05-09,19,5,2020,455
+"Washington",53,"WA","Yakima",53077,2020-05-09,19,5,2020,2991
+"Washington",53,"WA","Adams",53001,2020-05-16,20,5,2020,288
+"Washington",53,"WA","Asotin",53003,2020-05-16,20,5,2020,155
+"Washington",53,"WA","Benton",53005,2020-05-16,20,5,2020,3179
+"Washington",53,"WA","Chelan",53007,2020-05-16,20,5,2020,1333
+"Washington",53,"WA","Clallam",53009,2020-05-16,20,5,2020,1030
+"Washington",53,"WA","Clark",53011,2020-05-16,20,5,2020,5945
+"Washington",53,"WA","Columbia",53013,2020-05-16,20,5,2020,66
+"Washington",53,"WA","Cowlitz",53015,2020-05-16,20,5,2020,1546
+"Washington",53,"WA","Douglas",53017,2020-05-16,20,5,2020,629
+"Washington",53,"WA","Ferry",53019,2020-05-16,20,5,2020,70
+"Washington",53,"WA","Franklin",53021,2020-05-16,20,5,2020,1060
+"Washington",53,"WA","Garfield",53023,2020-05-16,20,5,2020,34
+"Washington",53,"WA","Grant",53025,2020-05-16,20,5,2020,1151
+"Washington",53,"WA","Grays Harbor",53027,2020-05-16,20,5,2020,1192
+"Washington",53,"WA","Island",53029,2020-05-16,20,5,2020,1037
+"Washington",53,"WA","Jefferson",53031,2020-05-16,20,5,2020,412
+"Washington",53,"WA","King",53033,2020-05-16,20,5,2020,47136
+"Washington",53,"WA","Kitsap",53035,2020-05-16,20,5,2020,3795
+"Washington",53,"WA","Kittitas",53037,2020-05-16,20,5,2020,896
+"Washington",53,"WA","Klickitat",53039,2020-05-16,20,5,2020,220
+"Washington",53,"WA","Lewis",53041,2020-05-16,20,5,2020,1103
+"Washington",53,"WA","Lincoln",53043,2020-05-16,20,5,2020,148
+"Washington",53,"WA","Mason",53045,2020-05-16,20,5,2020,828
+"Washington",53,"WA","Okanogan",53047,2020-05-16,20,5,2020,470
+"Washington",53,"WA","Pacific",53049,2020-05-16,20,5,2020,250
+"Washington",53,"WA","Pend Oreille",53051,2020-05-16,20,5,2020,136
+"Washington",53,"WA","Pierce",53053,2020-05-16,20,5,2020,16240
+"Washington",53,"WA","San Juan",53055,2020-05-16,20,5,2020,233
+"Washington",53,"WA","Skagit",53057,2020-05-16,20,5,2020,1902
+"Washington",53,"WA","Skamania",53059,2020-05-16,20,5,2020,122
+"Washington",53,"WA","Snohomish",53061,2020-05-16,20,5,2020,15028
+"Washington",53,"WA","Spokane",53063,2020-05-16,20,5,2020,8762
+"Washington",53,"WA","Stevens",53065,2020-05-16,20,5,2020,560
+"Washington",53,"WA","Thurston",53067,2020-05-16,20,5,2020,5293
+"Washington",53,"WA","Wahkiakum",53069,2020-05-16,20,5,2020,41
+"Washington",53,"WA","Walla Walla",53071,2020-05-16,20,5,2020,868
+"Washington",53,"WA","Whatcom",53073,2020-05-16,20,5,2020,3768
+"Washington",53,"WA","Whitman",53075,2020-05-16,20,5,2020,797
+"Washington",53,"WA","Yakima",53077,2020-05-16,20,5,2020,3813
+"Washington",53,"WA","Adams",53001,2020-05-23,21,5,2020,90
+"Washington",53,"WA","Asotin",53003,2020-05-23,21,5,2020,66
+"Washington",53,"WA","Benton",53005,2020-05-23,21,5,2020,1008
+"Washington",53,"WA","Chelan",53007,2020-05-23,21,5,2020,484
+"Washington",53,"WA","Clallam",53009,2020-05-23,21,5,2020,366
+"Washington",53,"WA","Clark",53011,2020-05-23,21,5,2020,2182
+"Washington",53,"WA","Columbia",53013,2020-05-23,21,5,2020,22
+"Washington",53,"WA","Cowlitz",53015,2020-05-23,21,5,2020,549
+"Washington",53,"WA","Douglas",53017,2020-05-23,21,5,2020,210
+"Washington",53,"WA","Ferry",53019,2020-05-23,21,5,2020,30
+"Washington",53,"WA","Franklin",53021,2020-05-23,21,5,2020,501
+"Washington",53,"WA","Garfield",53023,2020-05-23,21,5,2020,13
+"Washington",53,"WA","Grant",53025,2020-05-23,21,5,2020,409
+"Washington",53,"WA","Grays Harbor",53027,2020-05-23,21,5,2020,458
+"Washington",53,"WA","Island",53029,2020-05-23,21,5,2020,386
+"Washington",53,"WA","Jefferson",53031,2020-05-23,21,5,2020,183
+"Washington",53,"WA","King",53033,2020-05-23,21,5,2020,14371
+"Washington",53,"WA","Kitsap",53035,2020-05-23,21,5,2020,1398
+"Washington",53,"WA","Kittitas",53037,2020-05-23,21,5,2020,233
+"Washington",53,"WA","Klickitat",53039,2020-05-23,21,5,2020,69
+"Washington",53,"WA","Lewis",53041,2020-05-23,21,5,2020,443
+"Washington",53,"WA","Lincoln",53043,2020-05-23,21,5,2020,22
+"Washington",53,"WA","Mason",53045,2020-05-23,21,5,2020,326
+"Washington",53,"WA","Okanogan",53047,2020-05-23,21,5,2020,160
+"Washington",53,"WA","Pacific",53049,2020-05-23,21,5,2020,98
+"Washington",53,"WA","Pend Oreille",53051,2020-05-23,21,5,2020,47
+"Washington",53,"WA","Pierce",53053,2020-05-23,21,5,2020,6348
+"Washington",53,"WA","San Juan",53055,2020-05-23,21,5,2020,104
+"Washington",53,"WA","Skagit",53057,2020-05-23,21,5,2020,753
+"Washington",53,"WA","Skamania",53059,2020-05-23,21,5,2020,37
+"Washington",53,"WA","Snohomish",53061,2020-05-23,21,5,2020,5675
+"Washington",53,"WA","Spokane",53063,2020-05-23,21,5,2020,2932
+"Washington",53,"WA","Stevens",53065,2020-05-23,21,5,2020,208
+"Washington",53,"WA","Thurston",53067,2020-05-23,21,5,2020,1764
+"Washington",53,"WA","Wahkiakum",53069,2020-05-23,21,5,2020,14
+"Washington",53,"WA","Walla Walla",53071,2020-05-23,21,5,2020,300
+"Washington",53,"WA","Whatcom",53073,2020-05-23,21,5,2020,1418
+"Washington",53,"WA","Whitman",53075,2020-05-23,21,5,2020,194
+"Washington",53,"WA","Yakima",53077,2020-05-23,21,5,2020,1692
+"Washington",53,"WA","Adams",53001,2020-05-30,22,5,2020,42
+"Washington",53,"WA","Asotin",53003,2020-05-30,22,5,2020,37
+"Washington",53,"WA","Benton",53005,2020-05-30,22,5,2020,799
+"Washington",53,"WA","Chelan",53007,2020-05-30,22,5,2020,288
+"Washington",53,"WA","Clallam",53009,2020-05-30,22,5,2020,250
+"Washington",53,"WA","Clark",53011,2020-05-30,22,5,2020,1385
+"Washington",53,"WA","Columbia",53013,2020-05-30,22,5,2020,18
+"Washington",53,"WA","Cowlitz",53015,2020-05-30,22,5,2020,357
+"Washington",53,"WA","Douglas",53017,2020-05-30,22,5,2020,129
+"Washington",53,"WA","Ferry",53019,2020-05-30,22,5,2020,11
+"Washington",53,"WA","Franklin",53021,2020-05-30,22,5,2020,348
+"Washington",53,"WA","Garfield",53023,2020-05-30,22,5,2020,4
+"Washington",53,"WA","Grant",53025,2020-05-30,22,5,2020,300
+"Washington",53,"WA","Grays Harbor",53027,2020-05-30,22,5,2020,289
+"Washington",53,"WA","Island",53029,2020-05-30,22,5,2020,238
+"Washington",53,"WA","Jefferson",53031,2020-05-30,22,5,2020,110
+"Washington",53,"WA","King",53033,2020-05-30,22,5,2020,8974
+"Washington",53,"WA","Kitsap",53035,2020-05-30,22,5,2020,924
+"Washington",53,"WA","Kittitas",53037,2020-05-30,22,5,2020,119
+"Washington",53,"WA","Klickitat",53039,2020-05-30,22,5,2020,69
+"Washington",53,"WA","Lewis",53041,2020-05-30,22,5,2020,276
+"Washington",53,"WA","Lincoln",53043,2020-05-30,22,5,2020,22
+"Washington",53,"WA","Mason",53045,2020-05-30,22,5,2020,216
+"Washington",53,"WA","Okanogan",53047,2020-05-30,22,5,2020,142
+"Washington",53,"WA","Pacific",53049,2020-05-30,22,5,2020,58
+"Washington",53,"WA","Pend Oreille",53051,2020-05-30,22,5,2020,40
+"Washington",53,"WA","Pierce",53053,2020-05-30,22,5,2020,4069
+"Washington",53,"WA","San Juan",53055,2020-05-30,22,5,2020,64
+"Washington",53,"WA","Skagit",53057,2020-05-30,22,5,2020,590
+"Washington",53,"WA","Skamania",53059,2020-05-30,22,5,2020,33
+"Washington",53,"WA","Snohomish",53061,2020-05-30,22,5,2020,3580
+"Washington",53,"WA","Spokane",53063,2020-05-30,22,5,2020,1793
+"Washington",53,"WA","Stevens",53065,2020-05-30,22,5,2020,108
+"Washington",53,"WA","Thurston",53067,2020-05-30,22,5,2020,1011
+"Washington",53,"WA","Wahkiakum",53069,2020-05-30,22,5,2020,10
+"Washington",53,"WA","Walla Walla",53071,2020-05-30,22,5,2020,167
+"Washington",53,"WA","Whatcom",53073,2020-05-30,22,5,2020,959
+"Washington",53,"WA","Whitman",53075,2020-05-30,22,5,2020,113
+"Washington",53,"WA","Yakima",53077,2020-05-30,22,5,2020,1164
+"Washington",53,"WA","Adams",53001,2020-06-06,23,6,2020,51
+"Washington",53,"WA","Asotin",53003,2020-06-06,23,6,2020,19
+"Washington",53,"WA","Benton",53005,2020-06-06,23,6,2020,741
+"Washington",53,"WA","Chelan",53007,2020-06-06,23,6,2020,326
+"Washington",53,"WA","Clallam",53009,2020-06-06,23,6,2020,237
+"Washington",53,"WA","Clark",53011,2020-06-06,23,6,2020,1425
+"Washington",53,"WA","Columbia",53013,2020-06-06,23,6,2020,11
+"Washington",53,"WA","Cowlitz",53015,2020-06-06,23,6,2020,313
+"Washington",53,"WA","Douglas",53017,2020-06-06,23,6,2020,172
+"Washington",53,"WA","Ferry",53019,2020-06-06,23,6,2020,13
+"Washington",53,"WA","Franklin",53021,2020-06-06,23,6,2020,356
+"Washington",53,"WA","Garfield",53023,2020-06-06,23,6,2020,2
+"Washington",53,"WA","Grant",53025,2020-06-06,23,6,2020,271
+"Washington",53,"WA","Grays Harbor",53027,2020-06-06,23,6,2020,285
+"Washington",53,"WA","Island",53029,2020-06-06,23,6,2020,215
+"Washington",53,"WA","Jefferson",53031,2020-06-06,23,6,2020,95
+"Washington",53,"WA","King",53033,2020-06-06,23,6,2020,8725
+"Washington",53,"WA","Kitsap",53035,2020-06-06,23,6,2020,784
+"Washington",53,"WA","Kittitas",53037,2020-06-06,23,6,2020,142
+"Washington",53,"WA","Klickitat",53039,2020-06-06,23,6,2020,45
+"Washington",53,"WA","Lewis",53041,2020-06-06,23,6,2020,287
+"Washington",53,"WA","Lincoln",53043,2020-06-06,23,6,2020,20
+"Washington",53,"WA","Mason",53045,2020-06-06,23,6,2020,240
+"Washington",53,"WA","Okanogan",53047,2020-06-06,23,6,2020,144
+"Washington",53,"WA","Pacific",53049,2020-06-06,23,6,2020,57
+"Washington",53,"WA","Pend Oreille",53051,2020-06-06,23,6,2020,28
+"Washington",53,"WA","Pierce",53053,2020-06-06,23,6,2020,3703
+"Washington",53,"WA","San Juan",53055,2020-06-06,23,6,2020,47
+"Washington",53,"WA","Skagit",53057,2020-06-06,23,6,2020,487
+"Washington",53,"WA","Skamania",53059,2020-06-06,23,6,2020,22
+"Washington",53,"WA","Snohomish",53061,2020-06-06,23,6,2020,3493
+"Washington",53,"WA","Spokane",53063,2020-06-06,23,6,2020,1765
+"Washington",53,"WA","Stevens",53065,2020-06-06,23,6,2020,102
+"Washington",53,"WA","Thurston",53067,2020-06-06,23,6,2020,915
+"Washington",53,"WA","Wahkiakum",53069,2020-06-06,23,6,2020,5
+"Washington",53,"WA","Walla Walla",53071,2020-06-06,23,6,2020,142
+"Washington",53,"WA","Whatcom",53073,2020-06-06,23,6,2020,801
+"Washington",53,"WA","Whitman",53075,2020-06-06,23,6,2020,93
+"Washington",53,"WA","Yakima",53077,2020-06-06,23,6,2020,1140
