@@ -198,6 +198,9 @@ No data
   * Data: Unemployment Claims, Industries, Demographics, Unemployment
 
 ## Vermont
+* [Vermont Department of Labor](http://www.vtlmi.info/lmipub.htm)
+  * Format: PDF, Updated: Weekly, Level: Workforce Centers (roughly counties)
+  * Data: Unemployment Claims
 
 ## Virginia
 
