@@ -95,7 +95,9 @@ No data
   * Data: UI claims, demographics, industries
 
 ## Michigan
-No Data
+* [Upjohn Institute](https://www.upjohn.org/research-highlights/initial-claims-unemployment-insurance-level-remain-near-historical-highs)
+  * Format: Table, Updated: Weekly (only Mar 28 & Apr 4), Level: County
+  * Data: UI Claims, Industries
 
 ## Minnesota
 * [Minnesota Empolyment and Economic Development](https://apps.deed.state.mn.us/lmi/ui/Results.aspx?area=R11000&date=202001)
