@@ -221,5 +221,8 @@ No data
 * [Department of Workforce Development](https://dwd.wisconsin.gov/uistats/)
   * Format: Excel, Updated: weekly, Level: County
   * Data: Initial / Continuing Claims
-  
+
 ## Wyoming
+* [Wyoming Department of Workforce Services](https://doe.state.wy.us/lmi/UI/weekly_county.htm)
+  * Format: Excel / Tableau, Updated: Weekly, Level: County
+  * Data: Claims, Industry, Demographics
