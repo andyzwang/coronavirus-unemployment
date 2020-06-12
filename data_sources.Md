@@ -180,6 +180,9 @@ No data
 No data
 
 ## Tennessee
+* [TN Department of Labor and Workforce Development](https://www.tn.gov/workforce/covid-19/news.weekly-unemployment-claims-data.html)
+  * Format: PDF, Updated: Weekly, Level: WDA
+  * Data: Unemployment Claims
 
 ## Texas
 
