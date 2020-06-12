@@ -13,23 +13,26 @@ raw <- extract_tables("HI_data.pdf", output = "data.frame")[[1]] %>%
   slice(2:n()) %>%
   row_to_names(row_number = 1, remove_row = T)
 
+
 # create FIPS codes
 
 hawaii.fips <- tibble(
-  county = c("Oahu","Hawaii","Maui","Kauai"),
-  county_fips = c(15003, 15001, 15009, 15007)
+  county = c("Oahu","Hawaii","Maui","Kauai", "Unknown"),
+  county_fips = c(15003, 15001, 15009, 15007, NA)
 )
 
 output <- raw %>%
   
+  rename(Unknown = "Agent *") %>%
+  
   # take only top-level counties
   
-  select(date, OAHU, HAWAII, MAUI, KAUAI) %>%
+  select(date, OAHU, HAWAII, MAUI, KAUAI, Unknown) %>%
   
   # pivot long
   
   pivot_longer(
-    cols = OAHU:KAUAI, names_to = "county",
+    cols = OAHU:Unknown, names_to = "county",
     values_to = "claims"
   )  %>%
   
