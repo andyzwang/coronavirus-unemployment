@@ -28,7 +28,7 @@ output <- raw %>%
       paste(2020, month, "01", sep = "-")
     ), "month") - 1,
     month = month(date),
-    week = week(date),
+    week = NA,
     year = year(date),
     # create polyname
 
@@ -54,3 +54,4 @@ output <- raw %>%
 
 # output
 write.csv(output, file = "GA_compiled.csv", row.names = FALSE)
+
