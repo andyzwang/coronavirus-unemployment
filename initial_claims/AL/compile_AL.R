@@ -56,6 +56,7 @@ output <- raw %>%
     state, state_fips, state_short, county, county_fips,
     date, week, month, year, claims
   ) %>%
-  arrange(week)
+  arrange(week) %>%
+  filter(county != "Total")
 
 write.csv(output, file="AL_compiled.csv", row.names = FALSE)
