@@ -51,7 +51,11 @@ output <- raw %>%
   # Join with FIPS
 
   left_join(county.fips, by = "polyname") %>%
-  rename(county_fips = fips) %>%
+  mutate(fips = as.character(fips),
+    county_fips = case_when(
+      str_count(fips, "4.*") == 1 ~ paste("0", fips, sep = ""),
+      TRUE ~ "NA"
+    ))%>%
 
   # relevant columns
 
