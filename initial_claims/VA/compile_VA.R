@@ -19,8 +19,6 @@ output <- raw %>%
 
   # remove cities
 
-  filter(FIPS <= 200) %>%
-
   # pivot long
 
   pivot_longer(
@@ -28,7 +26,7 @@ output <- raw %>%
     values_to = "claims"
   ) %>%
   rename(county = COUNTY) %>%
-  select(county, date, claims) %>%
+  select(county, date, claims, FIPS) %>%
   mutate(
 
     # set general info
@@ -43,19 +41,8 @@ output <- raw %>%
     month = month(date),
     year = year(date),
 
-    # County FIPS code and name
-
-    polyname = case_when(
-      county == "Accomack" ~ "virginia,accomack:main",
-      county == "Albermarle" ~ "virginia,albemarle",
-      county == "King & Queen" ~ "virginia,king and queen",
-      TRUE ~ paste("virginia,", tolower(county), sep = "")
-    )
+    county_fips = paste("51", str_pad(FIPS, 3, pad = "0"), sep = "")
   ) %>%
-  # Join with FIPS
-
-  left_join(county.fips, by = "polyname") %>%
-  rename(county_fips = fips) %>%
 
   # relevant columns
 

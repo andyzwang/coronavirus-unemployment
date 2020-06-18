@@ -202,7 +202,7 @@ No data
 ## Vermont
 * [Vermont Department of Labor](http://www.vtlmi.info/lmipub.htm)
   * Format: PDF, Updated: Weekly, Level: Workforce Centers (roughly counties)
-  * Data: Unemployment Claims
+  * Data: Continuing Claims
 
 ## Virginia
 * [Virginia Employment Commission](https://www.vec.virginia.gov/node/11972)
