@@ -60,3 +60,4 @@ output <- raw %>%
   filter(county != "Total")
 
 write.csv(output, file="AL_compiled.csv", row.names = FALSE)
+
