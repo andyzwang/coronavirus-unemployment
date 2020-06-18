@@ -14,7 +14,7 @@ raw <- read_excel("IL_data.xlsx", sheet = "County Initial Claims", na = "", skip
 
   # select only things from this decade (otherwise overload on memory)
 
-  select("County name", starts_with("43"))
+  select("County name", starts_with(c("43", "44")))
 
 # import FIPS codes
 
@@ -26,7 +26,7 @@ output <- raw %>%
   # pivot long
 
   pivot_longer(
-    cols = "43009":"43922", names_to = "date", values_to = "claims"
+    cols = starts_with("43"), names_to = "date", values_to = "claims"
   ) %>%
   clean_names(case = "snake") %>%
   mutate(
