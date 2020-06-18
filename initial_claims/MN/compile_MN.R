@@ -8,7 +8,8 @@ library(stringr)
 library(tabulizer)
 
 
-raw <- read_csv("MN_gathered.csv") 
+raw <- read_csv("MN_gathered.csv")%>%
+  remove_empty("cols")
 
 
 output <- raw %>%

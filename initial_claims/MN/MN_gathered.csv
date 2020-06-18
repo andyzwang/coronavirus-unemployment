@@ -1,88 +1,88 @@
-"county","4/1/20","3/1/20","2/1/20","1/1/20"
-"Kittson County",89,92,4,15
-"Marshall County",319,290,23,78
-"Norman County",246,132,6,20
-"Pennington County",610,771,42,267
-"Polk County",1014,799,97,88
-"Red Lake County",159,153,17,57
-"Roseau County",882,1100,92,126
-"Beltrami County",2267,2049,91,157
-"Clearwater County",510,341,27,73
-"Hubbard County",1046,1008,51,96
-"Lake of the Woods County",215,242,8,15
-"Mahnomen County",601,133,10,14
-"Aitkin County",752,684,44,87
-"Carlton County",2314,1411,122,170
-"Cook County",461,525,11,19
-"Itasca County",2460,2083,192,323
-"Koochiching County",531,498,47,43
-"Lake County",812,592,34,63
-"Saint Louis County",11770,10992,574,755
-"Becker County",1922,1809,98,123
-"Clay County",1386,1182,90,110
-"Douglas County",1806,1913,73,103
-"Grant County",192,229,10,15
-"Otter Tail County",2110,2343,120,197
-"Pope County",401,406,15,34
-"Stevens County",209,232,6,19
-"Traverse County",68,59,3,13
-"Wilkin County",142,101,6,10
-"Cass County",1941,1396,91,138
-"Crow Wing County",3616,4004,160,237
-"Morrison County",1824,1373,110,185
-"Todd County",961,729,68,91
-"Wadena County",571,605,46,71
-"Kandiyohi County",1576,1514,82,165
-"McLeod County",1703,1599,107,143
-"Meeker County",884,900,70,95
-"Renville County",462,552,46,69
-"Big Stone County",144,124,7,11
-"Chippewa County",610,455,58,50
-"Lac qui Parle County",197,173,18,20
-"Swift County",404,277,25,87
-"Yellow Medicine County",402,390,25,34
-"Chisago County",3204,3007,255,328
-"Isanti County",2263,2303,172,242
-"Kanabec County",1046,664,71,114
-"Mille Lacs County",1703,1268,123,165
-"Pine County",2170,1193,128,158
-"Benton County",2268,2240,115,207
-"Sherburne County",5408,5214,361,445
-"Stearns County",8365,7663,377,720
-"Wright County",7353,6943,469,575
-"Cottonwood County",381,247,31,58
-"Jackson County",343,226,32,49
-"Lincoln County",113,102,8,15
-"Lyon County",893,850,35,71
-"Murray County",283,217,12,35
-"Nobles County",631,376,29,81
-"Pipestone County",202,183,26,38
-"Redwood County",509,785,29,59
-"Rock County",203,201,5,11
-"Blue Earth County",4232,3981,171,261
-"Brown County",999,1129,99,190
-"Faribault County",683,495,39,68
-"Le Sueur County",1535,1340,85,149
-"Martin County",768,690,64,81
-"Nicollet County",1800,1593,81,90
-"Sibley County",644,535,39,54
-"Waseca County",806,754,42,65
-"Watonwan County",385,315,35,61
-"Dodge County",1054,NA,53,82
-"Fillmore County",893,694,61,83
-"Freeborn County",1565,1036,81,103
-"Goodhue County",2761,2040,146,212
-"Houston County",548,460,45,61
-"Mower County",1474,1287,67,124
-"Olmsted County",9852,6319,287,380
-"Rice County",2933,2548,143,209
-"Steele County",1871,1546,94,153
-"Wabasha County",1054,834,56,84
-"Winona County",2231,2342,102,141
-"Anoka County",22568,20123,956,1237
-"Carver County",5534,4647,197,255
-"Dakota County",26720,23751,980,1339
-"Hennepin County",78651,69909,2562,3184
-"Ramsey County",32760,29305,1200,1644
-"Scott County",9656,7972,338,438
-"Washington County",14594,12997,560,823
+county,4/1/20,3/1/20,2/1/20,1/1/20,5/1/20,,,,,,,,,,,,,,
+Kittson County,89,92,4,15,31,,,,,,,,,,,,,,
+Marshall County,319,290,23,78,117,,,,,,,,,,,,,,
+Norman County,246,132,6,20,63,,,,,,,,,,,,,,
+Pennington County,610,771,42,267,244,,,,,,,,,,,,,,
+Polk County,1014,799,97,88,349,,,,,,,,,,,,,,
+Red Lake County,159,153,17,57,53,,,,,,,,,,,,,,
+Roseau County,882,1100,92,126,873,,,,,,,,,,,,,,
+Beltrami County,2267,2049,91,157,745,,,,,,,,,,,,,,
+Clearwater County,510,341,27,73,145,,,,,,,,,,,,,,
+Hubbard County,1046,1008,51,96,300,,,,,,,,,,,,,,
+Lake of the Woods County,215,242,8,15,120,,,,,,,,,,,,,,
+Mahnomen County,601,133,10,14,87,,,,,,,,,,,,,,
+Aitkin County,752,684,44,87,248,,,,,,,,,,,,,,
+Carlton County,2314,1411,122,170,716,,,,,,,,,,,,,,
+Cook County,461,525,11,19,86,,,,,,,,,,,,,,
+Itasca County,2460,2083,192,323,1231,,,,,,,,,,,,,,
+Koochiching County,531,498,47,43,161,,,,,,,,,,,,,,
+Lake County,812,592,34,63,226,,,,,,,,,,,,,,
+Saint Louis County,11770,10992,574,755,4602,,,,,,,,,,,,,,
+Becker County,1922,1809,98,123,659,,,,,,,,,,,,,,
+Clay County,1386,1182,90,110,544,,,,,,,,,,,,,,
+Douglas County,1806,1913,73,103,606,,,,,,,,,,,,,,
+Grant County,192,229,10,15,103,,,,,,,,,,,,,,
+Otter Tail County,2110,2343,120,197,828,,,,,,,,,,,,,,
+Pope County,401,406,15,34,122,,,,,,,,,,,,,,
+Stevens County,209,232,6,19,77,,,,,,,,,,,,,,
+Traverse County,68,59,3,13,24,,,,,,,,,,,,,,
+Wilkin County,142,101,6,10,46,,,,,,,,,,,,,,
+Cass County,1941,1396,91,138,434,,,,,,,,,,,,,,
+Crow Wing County,3616,4004,160,237,1144,,,,,,,,,,,,,,
+Morrison County,1824,1373,110,185,696,,,,,,,,,,,,,,
+Todd County,961,729,68,91,511,,,,,,,,,,,,,,
+Wadena County,571,605,46,71,185,,,,,,,,,,,,,,
+Kandiyohi County,1576,1514,82,165,732,,,,,,,,,,,,,,
+McLeod County,1703,1599,107,143,718,,,,,,,,,,,,,,
+Meeker County,884,900,70,95,384,,,,,,,,,,,,,,
+Renville County,462,552,46,69,246,,,,,,,,,,,,,,
+Big Stone County,144,124,7,11,46,,,,,,,,,,,,,,
+Chippewa County,610,455,58,50,185,,,,,,,,,,,,,,
+Lac qui Parle County,197,173,18,20,71,,,,,,,,,,,,,,
+Swift County,404,277,25,87,100,,,,,,,,,,,,,,
+Yellow Medicine County,402,390,25,34,115,,,,,,,,,,,,,,
+Chisago County,3204,3007,255,328,1234,,,,,,,,,,,,,,
+Isanti County,2263,2303,172,242,731,,,,,,,,,,,,,,
+Kanabec County,1046,664,71,114,300,,,,,,,,,,,,,,
+Mille Lacs County,1703,1268,123,165,493,,,,,,,,,,,,,,
+Pine County,2170,1193,128,158,540,,,,,,,,,,,,,,
+Benton County,2268,2240,115,207,905,,,,,,,,,,,,,,
+Sherburne County,5408,5214,361,445,2042,,,,,,,,,,,,,,
+Stearns County,8365,7663,377,720,3709,,,,,,,,,,,,,,
+Wright County,7353,6943,469,575,2697,,,,,,,,,,,,,,
+Cottonwood County,381,247,31,58,184,,,,,,,,,,,,,,
+Jackson County,343,226,32,49,134,,,,,,,,,,,,,,
+Lincoln County,113,102,8,15,46,,,,,,,,,,,,,,
+Lyon County,893,850,35,71,372,,,,,,,,,,,,,,
+Murray County,283,217,12,35,95,,,,,,,,,,,,,,
+Nobles County,631,376,29,81,373,,,,,,,,,,,,,,
+Pipestone County,202,183,26,38,79,,,,,,,,,,,,,,
+Redwood County,509,785,29,59,279,,,,,,,,,,,,,,
+Rock County,203,201,5,11,77,,,,,,,,,,,,,,
+Blue Earth County,4232,3981,171,261,1805,,,,,,,,,,,,,,
+Brown County,999,1129,99,190,420,,,,,,,,,,,,,,
+Faribault County,683,495,39,68,241,,,,,,,,,,,,,,
+Le Sueur County,1535,1340,85,149,541,,,,,,,,,,,,,,
+Martin County,768,690,64,81,357,,,,,,,,,,,,,,
+Nicollet County,1800,1593,81,90,760,,,,,,,,,,,,,,
+Sibley County,644,535,39,54,225,,,,,,,,,,,,,,
+Waseca County,806,754,42,65,386,,,,,,,,,,,,,,
+Watonwan County,385,315,35,61,182,,,,,,,,,,,,,,
+Dodge County,1054,NA,53,82,745,,,,,,,,,,,,,,
+Fillmore County,893,694,61,83,460,,,,,,,,,,,,,,
+Freeborn County,1565,1036,81,103,597,,,,,,,,,,,,,,
+Goodhue County,2761,2040,146,212,1025,,,,,,,,,,,,,,
+Houston County,548,460,45,61,155,,,,,,,,,,,,,,
+Mower County,1474,1287,67,124,789,,,,,,,,,,,,,,
+Olmsted County,9852,6319,287,380,6467,,,,,,,,,,,,,,
+Rice County,2933,2548,143,209,1142,,,,,,,,,,,,,,
+Steele County,1871,1546,94,153,1021,,,,,,,,,,,,,,
+Wabasha County,1054,834,56,84,581,,,,,,,,,,,,,,
+Winona County,2231,2342,102,141,980,,,,,,,,,,,,,,
+Anoka County,22568,20123,956,1237,8988,,,,,,,,,,,,,,
+Carver County,5534,4647,197,255,2106,,,,,,,,,,,,,,
+Dakota County,26720,23751,980,1339,9853,,,,,,,,,,,,,,
+Hennepin County,78651,69909,2562,3184,33011,,,,,,,,,,,,,,
+Ramsey County,32760,29305,1200,1644,14462,,,,,,,,,,,,,,
+Scott County,9656,7972,338,438,3569,,,,,,,,,,,,,,
+Washington County,14594,12997,560,823,5202,,,,,,,,,,,,,,
