@@ -61,4 +61,4 @@ output <- raw %>%
   ) %>%
   arrange(week)
 
-write.csv(output, file = "TN_compiled.csv", row.names = FALSE)
+write.csv(output, file = "MA_compiled.csv", row.names = FALSE)
