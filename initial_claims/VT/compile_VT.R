@@ -45,7 +45,7 @@ output <- raw %>%
     state_short = "VT",
 
     # modify dates
-    date = myd(date),
+    date = mdy(date),
     month = month(date),
     year = year(date),
     week = week(date),
