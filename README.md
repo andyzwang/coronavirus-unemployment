@@ -1,3 +1,3 @@
 # Coronavirus Unemployment Data
 
-A comprehensive list of data of states' unemployment data following the coronavirus pandemic.
+Key indicators in the employment sphere in the time of COVID.
