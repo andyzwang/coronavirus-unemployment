@@ -15,15 +15,16 @@
 "Maryland",24,"MD","Howard",24027,2020-03-07,10,3,2020,62
 "Maryland",24,"MD","Kent",24029,2020-03-07,10,3,2020,4
 "Maryland",24,"MD","Montgomery",24031,2020-03-07,10,3,2020,195
+"Maryland",24,"MD","Non-Maryland",NA,2020-03-07,10,3,2020,208
 "Maryland",24,"MD","Prince George's",24033,2020-03-07,10,3,2020,257
 "Maryland",24,"MD","Queen Anne's",24035,2020-03-07,10,3,2020,7
-"Maryland",24,"MD","Somerset",24037,2020-03-07,10,3,2020,7
-"Maryland",24,"MD","St. Mary's",24039,2020-03-07,10,3,2020,24
+"Maryland",24,"MD","Somerset",24039,2020-03-07,10,3,2020,7
+"Maryland",24,"MD","St. Mary's",24037,2020-03-07,10,3,2020,24
 "Maryland",24,"MD","Talbot",24041,2020-03-07,10,3,2020,6
+"Maryland",24,"MD","Unknown",NA,2020-03-07,10,3,2020,NA
 "Maryland",24,"MD","Washington",24043,2020-03-07,10,3,2020,42
 "Maryland",24,"MD","Wicomico",24045,2020-03-07,10,3,2020,36
 "Maryland",24,"MD","Worcester",24047,2020-03-07,10,3,2020,33
-"Maryland",24,"MD","Non-Maryland",NA,2020-03-07,10,3,2020,208
 "Maryland",24,"MD","Allegany",24001,2020-03-14,11,3,2020,62
 "Maryland",24,"MD","Anne Arundel",24003,2020-03-14,11,3,2020,281
 "Maryland",24,"MD","Baltimore City",24510,2020-03-14,11,3,2020,746
@@ -40,15 +41,16 @@
 "Maryland",24,"MD","Howard",24027,2020-03-14,11,3,2020,121
 "Maryland",24,"MD","Kent",24029,2020-03-14,11,3,2020,5
 "Maryland",24,"MD","Montgomery",24031,2020-03-14,11,3,2020,256
+"Maryland",24,"MD","Non-Maryland",NA,2020-03-14,11,3,2020,449
 "Maryland",24,"MD","Prince George's",24033,2020-03-14,11,3,2020,518
 "Maryland",24,"MD","Queen Anne's",24035,2020-03-14,11,3,2020,11
-"Maryland",24,"MD","Somerset",24037,2020-03-14,11,3,2020,10
-"Maryland",24,"MD","St. Mary's",24039,2020-03-14,11,3,2020,48
+"Maryland",24,"MD","Somerset",24039,2020-03-14,11,3,2020,10
+"Maryland",24,"MD","St. Mary's",24037,2020-03-14,11,3,2020,48
 "Maryland",24,"MD","Talbot",24041,2020-03-14,11,3,2020,15
+"Maryland",24,"MD","Unknown",NA,2020-03-14,11,3,2020,NA
 "Maryland",24,"MD","Washington",24043,2020-03-14,11,3,2020,95
 "Maryland",24,"MD","Wicomico",24045,2020-03-14,11,3,2020,78
 "Maryland",24,"MD","Worcester",24047,2020-03-14,11,3,2020,30
-"Maryland",24,"MD","Non-Maryland",NA,2020-03-14,11,3,2020,449
 "Maryland",24,"MD","Allegany",24001,2020-03-21,12,3,2020,848
 "Maryland",24,"MD","Anne Arundel",24003,2020-03-21,12,3,2020,4517
 "Maryland",24,"MD","Baltimore City",24510,2020-03-21,12,3,2020,5392
@@ -65,15 +67,16 @@
 "Maryland",24,"MD","Howard",24027,2020-03-21,12,3,2020,1587
 "Maryland",24,"MD","Kent",24029,2020-03-21,12,3,2020,90
 "Maryland",24,"MD","Montgomery",24031,2020-03-21,12,3,2020,3941
+"Maryland",24,"MD","Non-Maryland",NA,2020-03-21,12,3,2020,2779
 "Maryland",24,"MD","Prince George's",24033,2020-03-21,12,3,2020,3792
 "Maryland",24,"MD","Queen Anne's",24035,2020-03-21,12,3,2020,455
-"Maryland",24,"MD","Somerset",24037,2020-03-21,12,3,2020,128
-"Maryland",24,"MD","St. Mary's",24039,2020-03-21,12,3,2020,547
+"Maryland",24,"MD","Somerset",24039,2020-03-21,12,3,2020,128
+"Maryland",24,"MD","St. Mary's",24037,2020-03-21,12,3,2020,547
 "Maryland",24,"MD","Talbot",24041,2020-03-21,12,3,2020,456
+"Maryland",24,"MD","Unknown",NA,2020-03-21,12,3,2020,NA
 "Maryland",24,"MD","Washington",24043,2020-03-21,12,3,2020,1238
 "Maryland",24,"MD","Wicomico",24045,2020-03-21,12,3,2020,922
 "Maryland",24,"MD","Worcester",24047,2020-03-21,12,3,2020,971
-"Maryland",24,"MD","Non-Maryland",NA,2020-03-21,12,3,2020,2779
 "Maryland",24,"MD","Allegany",24001,2020-03-28,13,3,2020,1196
 "Maryland",24,"MD","Anne Arundel",24003,2020-03-28,13,3,2020,8983
 "Maryland",24,"MD","Baltimore City",24510,2020-03-28,13,3,2020,8685
@@ -90,16 +93,16 @@
 "Maryland",24,"MD","Howard",24027,2020-03-28,13,3,2020,3654
 "Maryland",24,"MD","Kent",24029,2020-03-28,13,3,2020,279
 "Maryland",24,"MD","Montgomery",24031,2020-03-28,13,3,2020,9384
+"Maryland",24,"MD","Non-Maryland",NA,2020-03-28,13,3,2020,5323
 "Maryland",24,"MD","Prince George's",24033,2020-03-28,13,3,2020,8738
 "Maryland",24,"MD","Queen Anne's",24035,2020-03-28,13,3,2020,773
-"Maryland",24,"MD","Somerset",24037,2020-03-28,13,3,2020,251
-"Maryland",24,"MD","St. Mary's",24039,2020-03-28,13,3,2020,1129
+"Maryland",24,"MD","Somerset",24039,2020-03-28,13,3,2020,251
+"Maryland",24,"MD","St. Mary's",24037,2020-03-28,13,3,2020,1129
 "Maryland",24,"MD","Talbot",24041,2020-03-28,13,3,2020,590
+"Maryland",24,"MD","Unknown",NA,2020-03-28,13,3,2020,61
 "Maryland",24,"MD","Washington",24043,2020-03-28,13,3,2020,2557
 "Maryland",24,"MD","Wicomico",24045,2020-03-28,13,3,2020,1896
 "Maryland",24,"MD","Worcester",24047,2020-03-28,13,3,2020,1415
-"Maryland",24,"MD","Non-Maryland",NA,2020-03-28,13,3,2020,5323
-"Maryland",24,"MD","Unknown",NA,2020-03-28,13,3,2020,61
 "Maryland",24,"MD","Allegany",24001,2020-04-04,14,4,2020,1057
 "Maryland",24,"MD","Anne Arundel",24003,2020-04-04,14,4,2020,10573
 "Maryland",24,"MD","Baltimore City",24510,2020-04-04,14,4,2020,10691
@@ -116,16 +119,16 @@
 "Maryland",24,"MD","Howard",24027,2020-04-04,14,4,2020,5736
 "Maryland",24,"MD","Kent",24029,2020-04-04,14,4,2020,281
 "Maryland",24,"MD","Montgomery",24031,2020-04-04,14,4,2020,15751
+"Maryland",24,"MD","Non-Maryland",NA,2020-04-04,14,4,2020,6524
 "Maryland",24,"MD","Prince George's",24033,2020-04-04,14,4,2020,13339
 "Maryland",24,"MD","Queen Anne's",24035,2020-04-04,14,4,2020,956
-"Maryland",24,"MD","Somerset",24037,2020-04-04,14,4,2020,274
-"Maryland",24,"MD","St. Mary's",24039,2020-04-04,14,4,2020,1282
+"Maryland",24,"MD","Somerset",24039,2020-04-04,14,4,2020,274
+"Maryland",24,"MD","St. Mary's",24037,2020-04-04,14,4,2020,1282
 "Maryland",24,"MD","Talbot",24041,2020-04-04,14,4,2020,560
+"Maryland",24,"MD","Unknown",NA,2020-04-04,14,4,2020,97
 "Maryland",24,"MD","Washington",24043,2020-04-04,14,4,2020,2394
 "Maryland",24,"MD","Wicomico",24045,2020-04-04,14,4,2020,1972
 "Maryland",24,"MD","Worcester",24047,2020-04-04,14,4,2020,1355
-"Maryland",24,"MD","Non-Maryland",NA,2020-04-04,14,4,2020,6524
-"Maryland",24,"MD","Unknown",NA,2020-04-04,14,4,2020,97
 "Maryland",24,"MD","Allegany",24001,2020-04-11,15,4,2020,699
 "Maryland",24,"MD","Anne Arundel",24003,2020-04-11,15,4,2020,5733
 "Maryland",24,"MD","Baltimore City",24510,2020-04-11,15,4,2020,6150
@@ -142,16 +145,16 @@
 "Maryland",24,"MD","Howard",24027,2020-04-11,15,4,2020,3005
 "Maryland",24,"MD","Kent",24029,2020-04-11,15,4,2020,118
 "Maryland",24,"MD","Montgomery",24031,2020-04-11,15,4,2020,9548
+"Maryland",24,"MD","Non-Maryland",NA,2020-04-11,15,4,2020,4785
 "Maryland",24,"MD","Prince George's",24033,2020-04-11,15,4,2020,7768
 "Maryland",24,"MD","Queen Anne's",24035,2020-04-11,15,4,2020,473
-"Maryland",24,"MD","Somerset",24037,2020-04-11,15,4,2020,164
-"Maryland",24,"MD","St. Mary's",24039,2020-04-11,15,4,2020,789
+"Maryland",24,"MD","Somerset",24039,2020-04-11,15,4,2020,164
+"Maryland",24,"MD","St. Mary's",24037,2020-04-11,15,4,2020,789
 "Maryland",24,"MD","Talbot",24041,2020-04-11,15,4,2020,309
+"Maryland",24,"MD","Unknown",NA,2020-04-11,15,4,2020,50
 "Maryland",24,"MD","Washington",24043,2020-04-11,15,4,2020,1402
 "Maryland",24,"MD","Wicomico",24045,2020-04-11,15,4,2020,1048
 "Maryland",24,"MD","Worcester",24047,2020-04-11,15,4,2020,664
-"Maryland",24,"MD","Non-Maryland",NA,2020-04-11,15,4,2020,4785
-"Maryland",24,"MD","Unknown",NA,2020-04-11,15,4,2020,50
 "Maryland",24,"MD","Allegany",24001,2020-04-18,16,4,2020,551
 "Maryland",24,"MD","Anne Arundel",24003,2020-04-18,16,4,2020,4441
 "Maryland",24,"MD","Baltimore City",24510,2020-04-18,16,4,2020,4894
@@ -168,16 +171,16 @@
 "Maryland",24,"MD","Howard",24027,2020-04-18,16,4,2020,2521
 "Maryland",24,"MD","Kent",24029,2020-04-18,16,4,2020,121
 "Maryland",24,"MD","Montgomery",24031,2020-04-18,16,4,2020,6938
+"Maryland",24,"MD","Non-Maryland",NA,2020-04-18,16,4,2020,3384
 "Maryland",24,"MD","Prince George's",24033,2020-04-18,16,4,2020,6216
 "Maryland",24,"MD","Queen Anne's",24035,2020-04-18,16,4,2020,341
-"Maryland",24,"MD","Somerset",24037,2020-04-18,16,4,2020,128
-"Maryland",24,"MD","St. Mary's",24039,2020-04-18,16,4,2020,604
+"Maryland",24,"MD","Somerset",24039,2020-04-18,16,4,2020,128
+"Maryland",24,"MD","St. Mary's",24037,2020-04-18,16,4,2020,604
 "Maryland",24,"MD","Talbot",24041,2020-04-18,16,4,2020,231
+"Maryland",24,"MD","Unknown",NA,2020-04-18,16,4,2020,43
 "Maryland",24,"MD","Washington",24043,2020-04-18,16,4,2020,1017
 "Maryland",24,"MD","Wicomico",24045,2020-04-18,16,4,2020,816
 "Maryland",24,"MD","Worcester",24047,2020-04-18,16,4,2020,467
-"Maryland",24,"MD","Non-Maryland",NA,2020-04-18,16,4,2020,3384
-"Maryland",24,"MD","Unknown",NA,2020-04-18,16,4,2020,43
 "Maryland",24,"MD","Allegany",24001,2020-04-25,17,4,2020,394
 "Maryland",24,"MD","Anne Arundel",24003,2020-04-25,17,4,2020,3269
 "Maryland",24,"MD","Baltimore City",24510,2020-04-25,17,4,2020,3778
@@ -194,16 +197,16 @@
 "Maryland",24,"MD","Howard",24027,2020-04-25,17,4,2020,1855
 "Maryland",24,"MD","Kent",24029,2020-04-25,17,4,2020,80
 "Maryland",24,"MD","Montgomery",24031,2020-04-25,17,4,2020,5615
+"Maryland",24,"MD","Non-Maryland",NA,2020-04-25,17,4,2020,2549
 "Maryland",24,"MD","Prince George's",24033,2020-04-25,17,4,2020,5072
 "Maryland",24,"MD","Queen Anne's",24035,2020-04-25,17,4,2020,263
-"Maryland",24,"MD","Somerset",24037,2020-04-25,17,4,2020,124
-"Maryland",24,"MD","St. Mary's",24039,2020-04-25,17,4,2020,494
+"Maryland",24,"MD","Somerset",24039,2020-04-25,17,4,2020,124
+"Maryland",24,"MD","St. Mary's",24037,2020-04-25,17,4,2020,494
 "Maryland",24,"MD","Talbot",24041,2020-04-25,17,4,2020,172
+"Maryland",24,"MD","Unknown",NA,2020-04-25,17,4,2020,27
 "Maryland",24,"MD","Washington",24043,2020-04-25,17,4,2020,738
 "Maryland",24,"MD","Wicomico",24045,2020-04-25,17,4,2020,636
 "Maryland",24,"MD","Worcester",24047,2020-04-25,17,4,2020,380
-"Maryland",24,"MD","Non-Maryland",NA,2020-04-25,17,4,2020,2549
-"Maryland",24,"MD","Unknown",NA,2020-04-25,17,4,2020,27
 "Maryland",24,"MD","Allegany",24001,2020-05-02,18,5,2020,757
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-02,18,5,2020,9840
 "Maryland",24,"MD","Baltimore City",24510,2020-05-02,18,5,2020,9447
@@ -220,16 +223,16 @@
 "Maryland",24,"MD","Howard",24027,2020-05-02,18,5,2020,5942
 "Maryland",24,"MD","Kent",24029,2020-05-02,18,5,2020,256
 "Maryland",24,"MD","Montgomery",24031,2020-05-02,18,5,2020,19192
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-02,18,5,2020,6522
 "Maryland",24,"MD","Prince George's",24033,2020-05-02,18,5,2020,15488
 "Maryland",24,"MD","Queen Anne's",24035,2020-05-02,18,5,2020,918
-"Maryland",24,"MD","Somerset",24037,2020-05-02,18,5,2020,255
-"Maryland",24,"MD","St. Mary's",24039,2020-05-02,18,5,2020,1241
+"Maryland",24,"MD","Somerset",24039,2020-05-02,18,5,2020,255
+"Maryland",24,"MD","St. Mary's",24037,2020-05-02,18,5,2020,1241
 "Maryland",24,"MD","Talbot",24041,2020-05-02,18,5,2020,623
+"Maryland",24,"MD","Unknown",NA,2020-05-02,18,5,2020,13
 "Maryland",24,"MD","Washington",24043,2020-05-02,18,5,2020,1968
 "Maryland",24,"MD","Wicomico",24045,2020-05-02,18,5,2020,1521
 "Maryland",24,"MD","Worcester",24047,2020-05-02,18,5,2020,1368
-"Maryland",24,"MD","Non-Maryland",NA,2020-05-02,18,5,2020,6522
-"Maryland",24,"MD","Unknown",NA,2020-05-02,18,5,2020,13
 "Maryland",24,"MD","Allegany",24001,2020-05-09,19,5,2020,538
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-09,19,5,2020,5454
 "Maryland",24,"MD","Baltimore City",24510,2020-05-09,19,5,2020,6538
@@ -246,16 +249,16 @@
 "Maryland",24,"MD","Howard",24027,2020-05-09,19,5,2020,3199
 "Maryland",24,"MD","Kent",24029,2020-05-09,19,5,2020,186
 "Maryland",24,"MD","Montgomery",24031,2020-05-09,19,5,2020,10391
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-09,19,5,2020,4843
 "Maryland",24,"MD","Prince George's",24033,2020-05-09,19,5,2020,9786
 "Maryland",24,"MD","Queen Anne's",24035,2020-05-09,19,5,2020,487
-"Maryland",24,"MD","Somerset",24037,2020-05-09,19,5,2020,194
-"Maryland",24,"MD","St. Mary's",24039,2020-05-09,19,5,2020,785
+"Maryland",24,"MD","Somerset",24039,2020-05-09,19,5,2020,194
+"Maryland",24,"MD","St. Mary's",24037,2020-05-09,19,5,2020,785
 "Maryland",24,"MD","Talbot",24041,2020-05-09,19,5,2020,348
+"Maryland",24,"MD","Unknown",NA,2020-05-09,19,5,2020,4
 "Maryland",24,"MD","Washington",24043,2020-05-09,19,5,2020,1286
 "Maryland",24,"MD","Wicomico",24045,2020-05-09,19,5,2020,1063
 "Maryland",24,"MD","Worcester",24047,2020-05-09,19,5,2020,713
-"Maryland",24,"MD","Non-Maryland",NA,2020-05-09,19,5,2020,4843
-"Maryland",24,"MD","Unknown",NA,2020-05-09,19,5,2020,4
 "Maryland",24,"MD","Allegany",24001,2020-05-16,20,5,2020,412
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-16,20,5,2020,4042
 "Maryland",24,"MD","Baltimore City",24510,2020-05-16,20,5,2020,5675
@@ -272,16 +275,16 @@
 "Maryland",24,"MD","Howard",24027,2020-05-16,20,5,2020,2206
 "Maryland",24,"MD","Kent",24029,2020-05-16,20,5,2020,135
 "Maryland",24,"MD","Montgomery",24031,2020-05-16,20,5,2020,7853
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-16,20,5,2020,4276
 "Maryland",24,"MD","Prince George's",24033,2020-05-16,20,5,2020,8140
 "Maryland",24,"MD","Queen Anne's",24035,2020-05-16,20,5,2020,333
-"Maryland",24,"MD","Somerset",24037,2020-05-16,20,5,2020,199
-"Maryland",24,"MD","St. Mary's",24039,2020-05-16,20,5,2020,503
+"Maryland",24,"MD","Somerset",24039,2020-05-16,20,5,2020,199
+"Maryland",24,"MD","St. Mary's",24037,2020-05-16,20,5,2020,503
 "Maryland",24,"MD","Talbot",24041,2020-05-16,20,5,2020,206
+"Maryland",24,"MD","Unknown",NA,2020-05-16,20,5,2020,5
 "Maryland",24,"MD","Washington",24043,2020-05-16,20,5,2020,1060
 "Maryland",24,"MD","Wicomico",24045,2020-05-16,20,5,2020,750
 "Maryland",24,"MD","Worcester",24047,2020-05-16,20,5,2020,578
-"Maryland",24,"MD","Non-Maryland",NA,2020-05-16,20,5,2020,4276
-"Maryland",24,"MD","Unknown",NA,2020-05-16,20,5,2020,5
 "Maryland",24,"MD","Allegany",24001,2020-05-23,21,5,2020,376
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-23,21,5,2020,3779
 "Maryland",24,"MD","Baltimore City",24510,2020-05-23,21,5,2020,5745
@@ -298,16 +301,16 @@
 "Maryland",24,"MD","Howard",24027,2020-05-23,21,5,2020,2140
 "Maryland",24,"MD","Kent",24029,2020-05-23,21,5,2020,110
 "Maryland",24,"MD","Montgomery",24031,2020-05-23,21,5,2020,7638
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-23,21,5,2020,3877
 "Maryland",24,"MD","Prince George's",24033,2020-05-23,21,5,2020,8246
 "Maryland",24,"MD","Queen Anne's",24035,2020-05-23,21,5,2020,231
-"Maryland",24,"MD","Somerset",24037,2020-05-23,21,5,2020,182
-"Maryland",24,"MD","St. Mary's",24039,2020-05-23,21,5,2020,498
+"Maryland",24,"MD","Somerset",24039,2020-05-23,21,5,2020,182
+"Maryland",24,"MD","St. Mary's",24037,2020-05-23,21,5,2020,498
 "Maryland",24,"MD","Talbot",24041,2020-05-23,21,5,2020,222
+"Maryland",24,"MD","Unknown",NA,2020-05-23,21,5,2020,7
 "Maryland",24,"MD","Washington",24043,2020-05-23,21,5,2020,956
 "Maryland",24,"MD","Wicomico",24045,2020-05-23,21,5,2020,675
 "Maryland",24,"MD","Worcester",24047,2020-05-23,21,5,2020,430
-"Maryland",24,"MD","Non-Maryland",NA,2020-05-23,21,5,2020,3877
-"Maryland",24,"MD","Unknown",NA,2020-05-23,21,5,2020,7
 "Maryland",24,"MD","Allegany",24001,2020-05-30,22,5,2020,293
 "Maryland",24,"MD","Anne Arundel",24003,2020-05-30,22,5,2020,3270
 "Maryland",24,"MD","Baltimore City",24510,2020-05-30,22,5,2020,5345
@@ -324,15 +327,65 @@
 "Maryland",24,"MD","Howard",24027,2020-05-30,22,5,2020,1788
 "Maryland",24,"MD","Kent",24029,2020-05-30,22,5,2020,84
 "Maryland",24,"MD","Montgomery",24031,2020-05-30,22,5,2020,6409
+"Maryland",24,"MD","Non-Maryland",NA,2020-05-30,22,5,2020,3749
 "Maryland",24,"MD","Prince George's",24033,2020-05-30,22,5,2020,7176
 "Maryland",24,"MD","Queen Anne's",24035,2020-05-30,22,5,2020,245
-"Maryland",24,"MD","Somerset",24037,2020-05-30,22,5,2020,161
-"Maryland",24,"MD","St. Mary's",24039,2020-05-30,22,5,2020,397
+"Maryland",24,"MD","Somerset",24039,2020-05-30,22,5,2020,161
+"Maryland",24,"MD","St. Mary's",24037,2020-05-30,22,5,2020,397
 "Maryland",24,"MD","Talbot",24041,2020-05-30,22,5,2020,169
+"Maryland",24,"MD","Unknown",NA,2020-05-30,22,5,2020,6
 "Maryland",24,"MD","Washington",24043,2020-05-30,22,5,2020,746
 "Maryland",24,"MD","Wicomico",24045,2020-05-30,22,5,2020,658
 "Maryland",24,"MD","Worcester",24047,2020-05-30,22,5,2020,366
-"Maryland",24,"MD","Non-Maryland",NA,2020-05-30,22,5,2020,3749
-"Maryland",24,"MD","Unknown",NA,2020-05-30,22,5,2020,6
+"Maryland",24,"MD","Allegany",24001,2020-06-06,23,6,2020,481
+"Maryland",24,"MD","Anne Arundel",24003,2020-06-06,23,6,2020,3785
+"Maryland",24,"MD","Baltimore City",24510,2020-06-06,23,6,2020,7240
+"Maryland",24,"MD","Baltimore County",24005,2020-06-06,23,6,2020,7308
+"Maryland",24,"MD","Calvert",24009,2020-06-06,23,6,2020,436
+"Maryland",24,"MD","Caroline",24011,2020-06-06,23,6,2020,188
+"Maryland",24,"MD","Carroll",24013,2020-06-06,23,6,2020,791
+"Maryland",24,"MD","Cecil",24015,2020-06-06,23,6,2020,503
+"Maryland",24,"MD","Charles",24017,2020-06-06,23,6,2020,1159
+"Maryland",24,"MD","Dorchester",24019,2020-06-06,23,6,2020,243
+"Maryland",24,"MD","Frederick",24021,2020-06-06,23,6,2020,1479
+"Maryland",24,"MD","Garrett",24023,2020-06-06,23,6,2020,133
+"Maryland",24,"MD","Harford",24025,2020-06-06,23,6,2020,1665
+"Maryland",24,"MD","Howard",24027,2020-06-06,23,6,2020,2112
+"Maryland",24,"MD","Kent",24029,2020-06-06,23,6,2020,115
+"Maryland",24,"MD","Montgomery",24031,2020-06-06,23,6,2020,7047
 "Maryland",24,"MD","Non-Maryland",NA,2020-06-06,23,6,2020,7307
+"Maryland",24,"MD","Prince George's",24033,2020-06-06,23,6,2020,8221
+"Maryland",24,"MD","Queen Anne's",24035,2020-06-06,23,6,2020,241
+"Maryland",24,"MD","Somerset",24039,2020-06-06,23,6,2020,185
+"Maryland",24,"MD","St. Mary's",24037,2020-06-06,23,6,2020,468
+"Maryland",24,"MD","Talbot",24041,2020-06-06,23,6,2020,209
 "Maryland",24,"MD","Unknown",NA,2020-06-06,23,6,2020,32
+"Maryland",24,"MD","Washington",24043,2020-06-06,23,6,2020,1028
+"Maryland",24,"MD","Wicomico",24045,2020-06-06,23,6,2020,740
+"Maryland",24,"MD","Worcester",24047,2020-06-06,23,6,2020,348
+"Maryland",24,"MD","Allegany",24001,2020-06-13,24,6,2020,600
+"Maryland",24,"MD","Anne Arundel",24003,2020-06-13,24,6,2020,6147
+"Maryland",24,"MD","Baltimore City",24510,2020-06-13,24,6,2020,9424
+"Maryland",24,"MD","Baltimore County",24005,2020-06-13,24,6,2020,11823
+"Maryland",24,"MD","Calvert",24009,2020-06-13,24,6,2020,743
+"Maryland",24,"MD","Caroline",24011,2020-06-13,24,6,2020,325
+"Maryland",24,"MD","Carroll",24013,2020-06-13,24,6,2020,1367
+"Maryland",24,"MD","Cecil",24015,2020-06-13,24,6,2020,825
+"Maryland",24,"MD","Charles",24017,2020-06-13,24,6,2020,2044
+"Maryland",24,"MD","Dorchester",24019,2020-06-13,24,6,2020,353
+"Maryland",24,"MD","Frederick",24021,2020-06-13,24,6,2020,2380
+"Maryland",24,"MD","Garrett",24023,2020-06-13,24,6,2020,189
+"Maryland",24,"MD","Harford",24025,2020-06-13,24,6,2020,2668
+"Maryland",24,"MD","Howard",24027,2020-06-13,24,6,2020,3547
+"Maryland",24,"MD","Kent",24029,2020-06-13,24,6,2020,165
+"Maryland",24,"MD","Montgomery",24031,2020-06-13,24,6,2020,11776
+"Maryland",24,"MD","Non-Maryland",NA,2020-06-13,24,6,2020,13252
+"Maryland",24,"MD","Prince George's",24033,2020-06-13,24,6,2020,12964
+"Maryland",24,"MD","Queen Anne's",24035,2020-06-13,24,6,2020,403
+"Maryland",24,"MD","Somerset",24039,2020-06-13,24,6,2020,254
+"Maryland",24,"MD","St. Mary's",24037,2020-06-13,24,6,2020,898
+"Maryland",24,"MD","Talbot",24041,2020-06-13,24,6,2020,312
+"Maryland",24,"MD","Unknown",NA,2020-06-13,24,6,2020,0
+"Maryland",24,"MD","Washington",24043,2020-06-13,24,6,2020,1631
+"Maryland",24,"MD","Wicomico",24045,2020-06-13,24,6,2020,1118
+"Maryland",24,"MD","Worcester",24047,2020-06-13,24,6,2020,530
