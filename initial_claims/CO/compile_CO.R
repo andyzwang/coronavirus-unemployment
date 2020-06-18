@@ -10,7 +10,7 @@ library(readxl)
 # processing
 # NOTE: range is manually set
 
-raw <- read_excel("CO_data.xlsx", range = "A2:BO14", na = "***")
+raw <- read_excel("CO_data.xlsx", range = "A2:BO16", na = "***") 
 
 # import FIPS codes
 
@@ -38,7 +38,7 @@ output <- raw %>%
     state_short = "CO",
     
     # modify dates
-    date = week_ending_date,
+    date = excel_numeric_to_date(as.numeric(week_ending_date)),
     week = week(date),
     month = month(date),
     year = year(date),
@@ -59,6 +59,9 @@ output <- raw %>%
     state, state_fips, state_short, county, county_fips,
     date, week, month, year, claims
   ) %>%
+  
+  filter(!is.na(date)) %>%
+  
   arrange(week)
 
 # output
