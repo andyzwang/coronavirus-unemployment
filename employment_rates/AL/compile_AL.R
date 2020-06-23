@@ -18,10 +18,7 @@ output <- raw %>%
   filter(areadesc == "County" | areadesc == "Major City" | areadesc == "State") %>%
   mutate(
     # dates
-    date = ceiling_date(mdy(datefield), "months") - 1,
-    month = month(date),
-    week = NA,
-    year = year(date),
+    period = month(mdy(datefield), label = T, abbr = F),
 
     area_type = case_when(
       areadesc == "Major City" ~ "City",
@@ -30,7 +27,7 @@ output <- raw %>%
 
     # set general info
 
-    state_fips = "1",
+    state_fips = "01",
     state_short = "AL",
     state = "Alabama",
 
@@ -43,7 +40,7 @@ output <- raw %>%
       areadesc == "County" ~ paste("alabama,", tolower(area), sep = "")
     )
   ) %>%
-  filter(year(date) >= 2019) %>%
+  filter(year >= 2019) %>%
 
   # Join with FIPS
 
@@ -55,8 +52,8 @@ output <- raw %>%
     fips = str_pad(fips, 5, pad = "0")
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, date, week, month, 
-    year,employment, labor_force, unemployment
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    employment, labor_force, unemployment
   )
 
 write.csv(output, file="AL_compiled.csv", row.names = FALSE)

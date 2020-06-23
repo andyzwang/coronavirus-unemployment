@@ -37,13 +37,10 @@ output <- raw %>%
     ),
     
     # dates
-    date = ceiling_date(mdy(paste(period, "1", year, sep = "/")), "months") - 1,
-    month = month(date),
-    year = year(date),
-    week = NA
+    period = month
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, date,
+    state_fips, state_short, state, area, area_type, fips, period, year, 
     employment, labor_force, unemployment
   )
 
