@@ -15,14 +15,17 @@ raw <- read_csv("AL_data.csv") %>%
 data(county.fips)
 
 output <- raw %>%
-  filter(areadesc == "County" | areadesc == "Major City") %>%
+  filter(areadesc == "County" | areadesc == "Major City" | areadesc == "State") %>%
   mutate(
     # dates
     date = ceiling_date(mdy(datefield), "months") - 1,
+    month = month(date),
+    week = NA,
+    year = year(date),
 
     area_type = case_when(
-      areadesc == "County" ~ "County",
-      areadesc == "Major City" ~ "City"
+      areadesc == "Major City" ~ "City",
+      TRUE ~ areadesc
     ),
 
     # set general info
@@ -52,8 +55,9 @@ output <- raw %>%
     fips = str_pad(fips, 5, pad = "0")
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, date,
-    employment, labor_force, unemployment
+    state_fips, state_short, state, area, area_type, fips, date, week, month, 
+    year,employment, labor_force, unemployment
   )
 
 write.csv(output, file="AL_compiled.csv", row.names = FALSE)
+
