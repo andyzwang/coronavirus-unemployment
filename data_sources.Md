@@ -4,9 +4,14 @@
 * [Alabama Department of Labor](http://www2.labor.alabama.gov/LAUS/InitialClaimsTab.aspx)
   * Format: Tableau, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [Alabama Department of Labor](http://www2.labor.alabama.gov/LAUS/LAUSTab.aspx)
+  * Format: Tableau, Updated: Monthly, Level: County, City
+  * Data: Unemployment Rates
 
 ## Alaska
-No data found
+* [Department of Labor and Workforce Development](https://live.laborstats.alaska.gov/labforce/labdataall.cfm?s=2&a=0)
+  * Format: CSV, Updated: Monthly, Level: Borough / MSA
+  * Data: Unemployment Rates
 
 ## Arizona
 * [Arizona Commerce Authority](https://www.azcommerce.com/oeo/labor-market/unemployment/#content-block-1)
