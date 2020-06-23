@@ -3,6 +3,7 @@ library(stringr)
 library(janitor)
 
 # import
+# using acs 2018 5-year survey
 raw <- read_csv("acs_data.csv")
 
 output <- raw %>%

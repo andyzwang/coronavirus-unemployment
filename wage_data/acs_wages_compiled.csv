@@ -1,839 +1,3222 @@
-"county_fips","median_household_income","NAME"
-"01117",71230,"Shelby County, Alabama"
-"01121",40315,"Talladega County, Alabama"
-"01125",54459,"Tuscaloosa County, Alabama"
-"04021",59058,"Pinal County, Arizona"
-"06045",51830,"Mendocino County, California"
-"06059",89759,"Orange County, California"
-"06067",69767,"Sacramento County, California"
-"12017",39964,"Citrus County, Florida"
-"17143",56138,"Peoria County, Illinois"
-"18059",71653,"Hancock County, Indiana"
-"18067",55868,"Howard County, Indiana"
-"22105",48205,"Tangipahoa Parish, Louisiana"
-"25003",60476,"Berkshire County, Massachusetts"
-"27139",100963,"Scott County, Minnesota"
-"36087",89812,"Rockland County, New York"
-"36105",52274,"Sullivan County, New York"
-"37037",74959,"Chatham County, North Carolina"
-"37085",51022,"Harnett County, North Carolina"
-"37195",42769,"Wilson County, North Carolina"
-"39007",46349,"Ashtabula County, Ohio"
-"39013",50250,"Belmont County, Ohio"
-"40031",52089,"Comanche County, Oklahoma"
-"42013",49942,"Blair County, Pennsylvania"
-"42039",51502,"Crawford County, Pennsylvania"
-"42051",52984,"Fayette County, Pennsylvania"
-"47113",45360,"Madison County, Tennessee"
-"48027",54495,"Bell County, Texas"
-"48061",38378,"Cameron County, Texas"
-"49057",68669,"Weber County, Utah"
-"51165",61199,"Rockingham County, Virginia"
-"51700",50180,"Newport News city, Virginia"
-"51710",49587,"Norfolk city, Virginia"
-"51810",77059,"Virginia Beach city, Virginia"
-"53007",57132,"Chelan County, Washington"
-"01015",45818,"Calhoun County, Alabama"
-"08005",76768,"Arapahoe County, Colorado"
-"13013",61225,"Barrow County, Georgia"
-"13157",73150,"Jackson County, Georgia"
-"13245",39413,"Richmond County, Georgia"
-"13285",44260,"Troup County, Georgia"
-"19061",60225,"Dubuque County, Iowa"
-"21227",53601,"Warren County, Kentucky"
-"27019",100324,"Carver County, Minnesota"
-"28075",37971,"Lauderdale County, Mississippi"
-"28081",53062,"Lee County, Mississippi"
-"28121",66480,"Rankin County, Mississippi"
-"36111",63889,"Ulster County, New York"
-"37183",79970,"Wake County, North Carolina"
-"39093",58613,"Lorain County, Ohio"
-"40119",48031,"Payne County, Oklahoma"
-"40131",60148,"Rogers County, Oklahoma"
-"42081",55045,"Lycoming County, Pennsylvania"
-"45015",62994,"Berkeley County, South Carolina"
-"45085",45994,"Sumter County, South Carolina"
-"47147",69079,"Robertson County, Tennessee"
-"48085",96051,"Collin County, Texas"
-"49045",72906,"Tooele County, Utah"
-"53041",61058,"Lewis County, Washington"
-"53053",75407,"Pierce County, Washington"
-"54061",50834,"Monongalia County, West Virginia"
-"55009",61651,"Brown County, Wisconsin"
-"06115",46574,"Yuba County, California"
-"13051",55308,"Chatham County, Georgia"
-"13063",46646,"Clayton County, Georgia"
-"13113",93468,"Fayette County, Georgia"
-"13223",73084,"Paulding County, Georgia"
-"17043",93750,"DuPage County, Illinois"
-"17089",79818,"Kane County, Illinois"
-"18089",55154,"Lake County, Indiana"
-"21059",50934,"Daviess County, Kentucky"
-"21185",102033,"Oldham County, Kentucky"
-"25009",76604,"Essex County, Massachusetts"
-"26163",46390,"Wayne County, Michigan"
-"29165",80468,"Platte County, Missouri"
-"36053",59678,"Madison County, New York"
-"37159",46035,"Rowan County, North Carolina"
-"39029",43745,"Columbiana County, Ohio"
-"41059",56842,"Umatilla County, Oregon"
-"42045",72045,"Delaware County, Pennsylvania"
-"42073",47853,"Lawrence County, Pennsylvania"
-"47157",47500,"Shelby County, Tennessee"
-"04003",50495,"Cochise County, Arizona"
-"04005",61843,"Coconino County, Arizona"
-"06023",50294,"Humboldt County, California"
-"06039",56305,"Madera County, California"
-"12097",50546,"Osceola County, Florida"
-"13059",42232,"Clarke County, Georgia"
-"13313",45028,"Whitfield County, Georgia"
-"16019",58729,"Bonneville County, Idaho"
-"22109",52820,"Terrebonne Parish, Louisiana"
-"24015",74452,"Cecil County, Maryland"
-"24037",92250,"St. Mary's County, Maryland"
-"25001",68902,"Barnstable County, Massachusetts"
-"25021",100356,"Norfolk County, Massachusetts"
-"27163",95124,"Washington County, Minnesota"
-"34033",65733,"Salem County, New Jersey"
-"34035",121378,"Somerset County, New Jersey"
-"36081",69320,"Queens County, New York"
-"36119",94811,"Westchester County, New York"
-"37109",63782,"Lincoln County, North Carolina"
-"42003",59899,"Allegheny County, Pennsylvania"
-"45035",66438,"Dorchester County, South Carolina"
-"48231",55248,"Hunt County, Texas"
-"51650",55466,"Hampton city, Virginia"
-"01077",49014,"Lauderdale County, Alabama"
-"09011",67197,"New London County, Connecticut"
-"17167",61997,"Sangamon County, Illinois"
-"21111",55851,"Jefferson County, Kentucky"
-"21151",52047,"Madison County, Kentucky"
-"22015",55922,"Bossier Parish, Louisiana"
-"24009",107884,"Calvert County, Maryland"
-"26025",47204,"Calhoun County, Michigan"
-"34025",99642,"Monmouth County, New Jersey"
-"37119",63967,"Mecklenburg County, North Carolina"
-"39055",82784,"Geauga County, Ohio"
-"39119",49602,"Muskingum County, Ohio"
-"41043",54113,"Linn County, Oregon"
-"42017",88569,"Bucks County, Pennsylvania"
-"42095",68591,"Northampton County, Pennsylvania"
-"45075",36536,"Orangeburg County, South Carolina"
-"48029",54149,"Bexar County, Texas"
-"48091",76203,"Comal County, Texas"
-"48361",56420,"Orange County, Texas"
-"48497",69040,"Wise County, Texas"
-"53009",59001,"Clallam County, Washington"
-"72021",24873,"Bayamón Municipio, Puerto Rico"
-"72137",25504,"Toa Baja Municipio, Puerto Rico"
-"04025",48148,"Yavapai County, Arizona"
-"13097",60829,"Douglas County, Georgia"
-"13135",72184,"Gwinnett County, Georgia"
-"15007",80921,"Kauai County, Hawaii"
-"16027",53374,"Canyon County, Idaho"
-"18019",56307,"Clark County, Indiana"
-"19013",51920,"Black Hawk County, Iowa"
-"21015",77429,"Boone County, Kentucky"
-"22051",50766,"Jefferson Parish, Louisiana"
-"23031",66614,"York County, Maine"
-"24027",116984,"Howard County, Maryland"
-"24031",108188,"Montgomery County, Maryland"
-"27053",76052,"Hennepin County, Minnesota"
-"28067",49393,"Jones County, Mississippi"
-"29510",43889,"St. Louis city, Missouri"
-"34013",63368,"Essex County, New Jersey"
-"34021",80632,"Mercer County, New Jersey"
-"36113",56482,"Warren County, New York"
-"36117",61515,"Wayne County, New York"
-"37129",52239,"New Hanover County, North Carolina"
-"39081",40308,"Jefferson County, Ohio"
-"42085",48847,"Mercer County, Pennsylvania"
-"42111",50988,"Somerset County, Pennsylvania"
-"51800",71829,"Suffolk city, Virginia"
-"53033",95009,"King County, Washington"
-"54033",46569,"Harrison County, West Virginia"
-"06111",84566,"Ventura County, California"
-"09005",76043,"Litchfield County, Connecticut"
-"09007",89131,"Middlesex County, Connecticut"
-"12023",48848,"Columbia County, Florida"
-"13047",56364,"Catoosa County, Georgia"
-"13247",61222,"Rockdale County, Georgia"
-"13297",66640,"Walton County, Georgia"
-"16005",50748,"Bannock County, Idaho"
-"24003",97814,"Anne Arundel County, Maryland"
-"28033",68385,"DeSoto County, Mississippi"
-"29097",46617,"Jasper County, Missouri"
-"30029",53193,"Flathead County, Montana"
-"35001",51208,"Bernalillo County, New Mexico"
-"36005",38467,"Bronx County, New York"
-"37019",60496,"Brunswick County, North Carolina"
-"37021",53980,"Buncombe County, North Carolina"
-"37127",51601,"Nash County, North Carolina"
-"37193",43466,"Wilkes County, North Carolina"
-"39035",49910,"Cuyahoga County, Ohio"
-"39061",57189,"Hamilton County, Ohio"
-"39165",86473,"Warren County, Ohio"
-"40017",70204,"Canadian County, Oklahoma"
-"42029",99119,"Chester County, Pennsylvania"
-"42077",62278,"Lehigh County, Pennsylvania"
-"45063",60154,"Lexington County, South Carolina"
-"47119",53794,"Maury County, Tennessee"
-"47189",76756,"Wilson County, Tennessee"
-"48203",50561,"Harrison County, Texas"
-"51041",80655,"Chesterfield County, Virginia"
-"55131",73435,"Washington County, Wisconsin"
-"09003",73151,"Hartford County, Connecticut"
-"12033",51050,"Escambia County, Florida"
-"18039",58350,"Elkhart County, Indiana"
-"18109",68338,"Morgan County, Indiana"
-"19049",83990,"Dallas County, Iowa"
-"23011",51653,"Kennebec County, Maine"
-"26049",48127,"Genesee County, Michigan"
-"26087",65561,"Lapeer County, Michigan"
-"26145",48990,"Saginaw County, Michigan"
-"30013",49948,"Cascade County, Montana"
-"32003",57076,"Clark County, Nevada"
-"36007",51125,"Broome County, New York"
-"36027",80227,"Dutchess County, New York"
-"37023",43663,"Burke County, North Carolina"
-"37035",53454,"Catawba County, North Carolina"
-"37125",58531,"Moore County, North Carolina"
-"39009",36944,"Athens County, Ohio"
-"39023",49875,"Clark County, Ohio"
-"39099",47962,"Mahoning County, Ohio"
-"45051",49047,"Horry County, South Carolina"
-"47093",55632,"Knox County, Tennessee"
-"51061",92145,"Fauquier County, Virginia"
-"72127",23012,"San Juan Municipio, Puerto Rico"
-"01069",48105,"Houston County, Alabama"
-"06083",77472,"Santa Barbara County, California"
-"10003",69479,"New Castle County, Delaware"
-"12113",70787,"Santa Rosa County, Florida"
-"13295",42609,"Walker County, Georgia"
-"20091",86746,"Johnson County, Kansas"
-"25017",100517,"Middlesex County, Massachusetts"
-"25025",69985,"Suffolk County, Massachusetts"
-"26055",66163,"Grand Traverse County, Michigan"
-"27137",53550,"St. Louis County, Minnesota"
-"31153",77941,"Sarpy County, Nebraska"
-"33011",78978,"Hillsborough County, New Hampshire"
-"34017",74414,"Hudson County, New Jersey"
-"37025",69679,"Cabarrus County, North Carolina"
-"38015",71172,"Burleigh County, North Dakota"
-"39085",65835,"Lake County, Ohio"
-"39153",58876,"Summit County, Ohio"
-"40037",55264,"Creek County, Oklahoma"
-"41039",53172,"Lane County, Oregon"
-"42001",62284,"Adams County, Pennsylvania"
-"42041",71802,"Cumberland County, Pennsylvania"
-"47065",57280,"Hamilton County, Tennessee"
-"47179",48765,"Washington County, Tennessee"
-"49005",59248,"Cache County, Utah"
-"53015",59225,"Cowlitz County, Washington"
-"54081",39122,"Raleigh County, West Virginia"
-"72013",18360,"Arecibo Municipio, Puerto Rico"
-"01103",53260,"Morgan County, Alabama"
-"06031",61663,"Kings County, California"
-"06089",56280,"Shasta County, California"
-"12073",50682,"Leon County, Florida"
-"12103",52198,"Pinellas County, Florida"
-"17093",89862,"Kendall County, Illinois"
-"26017",50606,"Bay County, Michigan"
-"26159",59295,"Van Buren County, Michigan"
-"32031",63310,"Washoe County, Nevada"
-"33013",75088,"Merrimack County, New Hampshire"
-"39045",67144,"Fairfield County, Ohio"
-"45041",48790,"Florence County, South Carolina"
-"48005",47519,"Angelina County, Texas"
-"53057",73206,"Skagit County, Washington"
-"53067",72703,"Thurston County, Washington"
-"54039",41141,"Kanawha County, West Virginia"
-"55025",71582,"Dane County, Wisconsin"
-"01097",43061,"Mobile County, Alabama"
-"06013",101618,"Contra Costa County, California"
-"12083",44576,"Marion County, Florida"
-"12091",63997,"Okaloosa County, Florida"
-"12117",67470,"Seminole County, Florida"
-"13073",82024,"Columbia County, Georgia"
-"13095",39659,"Dougherty County, Georgia"
-"13151",73541,"Henry County, Georgia"
-"13153",58965,"Houston County, Georgia"
-"17183",43655,"Vermilion County, Illinois"
-"17197",85818,"Will County, Illinois"
-"18141",54434,"St. Joseph County, Indiana"
-"19163",58175,"Scott County, Iowa"
-"23019",47217,"Penobscot County, Maine"
-"26111",56091,"Midland County, Michigan"
-"26115",61916,"Monroe County, Michigan"
-"27145",60669,"Stearns County, Minnesota"
-"35061",46493,"Valencia County, New Mexico"
-"36101",55569,"Steuben County, New York"
-"37097",59341,"Iredell County, North Carolina"
-"38017",62418,"Cass County, North Dakota"
-"38101",65719,"Ward County, North Dakota"
-"41051",71186,"Multnomah County, Oregon"
-"42021",45084,"Cambria County, Pennsylvania"
-"48485",47373,"Wichita County, Texas"
-"51015",59820,"Augusta County, Virginia"
-"51550",80265,"Chesapeake city, Virginia"
-"51770",42711,"Roanoke city, Virginia"
-"54011",38162,"Cabell County, West Virginia"
-"55141",55273,"Wood County, Wisconsin"
-"72061",36309,"Guaynabo Municipio, Puerto Rico"
-"01083",67000,"Limestone County, Alabama"
-"05051",42779,"Garland County, Arkansas"
-"08069",71091,"Larimer County, Colorado"
-"12035",58963,"Flagler County, Florida"
-"17201",53345,"Winnebago County, Illinois"
-"24025",88603,"Harford County, Maryland"
-"30031",68266,"Gallatin County, Montana"
-"37157",40688,"Rockingham County, North Carolina"
-"39155",46196,"Trumbull County, Ohio"
-"42019",66423,"Butler County, Pennsylvania"
-"42049",48007,"Erie County, Pennsylvania"
-"42079",54433,"Luzerne County, Pennsylvania"
-"45055",51467,"Kershaw County, South Carolina"
-"51107",139915,"Loudoun County, Virginia"
-"72135",26358,"Toa Alta Municipio, Puerto Rico"
-"01073",55206,"Jefferson County, Alabama"
-"04013",65252,"Maricopa County, Arizona"
-"05069",35652,"Jefferson County, Arkansas"
-"05145",42270,"White County, Arkansas"
-"06079",71148,"San Luis Obispo County, California"
-"08014",95800,"Broomfield County, Colorado"
-"09009",67845,"New Haven County, Connecticut"
-"12061",57508,"Indian River County, Florida"
-"13021",40495,"Bibb County, Georgia"
-"13089",64461,"DeKalb County, Georgia"
-"13127",55196,"Glynn County, Georgia"
-"16001",66405,"Ada County, Idaho"
-"17111",85275,"McHenry County, Illinois"
-"17179",60857,"Tazewell County, Illinois"
-"18053",44839,"Grant County, Indiana"
-"18081",68209,"Johnson County, Indiana"
-"19103",63035,"Johnson County, Iowa"
-"26099",62107,"Macomb County, Michigan"
-"27131",65839,"Rice County, Minnesota"
-"29051",63568,"Cole County, Missouri"
-"29071",58209,"Franklin County, Missouri"
-"33017",71528,"Strafford County, New Hampshire"
-"36067",59883,"Onondaga County, New York"
-"36069",62522,"Ontario County, New York"
-"37069",60598,"Franklin County, North Carolina"
-"37161",43111,"Rutherford County, North Carolina"
-"39169",59111,"Wayne County, Ohio"
-"41019",47004,"Douglas County, Oregon"
-"42055",61208,"Franklin County, Pennsylvania"
-"42133",65239,"York County, Pennsylvania"
-"44007",56461,"Providence County, Rhode Island"
-"45013",65607,"Beaufort County, South Carolina"
-"47125",56019,"Montgomery County, Tennessee"
-"47165",65948,"Sumner County, Tennessee"
-"48251",62390,"Johnson County, Texas"
-"48309",48713,"McLennan County, Texas"
-"48397",100595,"Rockwall County, Texas"
-"48409",55018,"San Patricio County, Texas"
-"49049",75349,"Utah County, Utah"
-"51179",110307,"Stafford County, Virginia"
-"51510",101215,"Alexandria city, Virginia"
-"53077",51555,"Yakima County, Washington"
-"72025",27714,"Caguas Municipio, Puerto Rico"
-"01089",63111,"Madison County, Alabama"
-"06087",86941,"Santa Cruz County, California"
-"12085",59978,"Martin County, Florida"
-"15003",84423,"Honolulu County, Hawaii"
-"16055",55236,"Kootenai County, Idaho"
-"17113",66256,"McLean County, Illinois"
-"17161",52148,"Rock Island County, Illinois"
-"18157",50256,"Tippecanoe County, Indiana"
-"18177",44928,"Wayne County, Indiana"
-"19193",61516,"Woodbury County, Iowa"
-"21145",47764,"McCracken County, Kentucky"
-"22073",44059,"Ouachita Parish, Louisiana"
-"23001",49697,"Androscoggin County, Maine"
-"27037",86302,"Dakota County, Minnesota"
-"27123",62919,"Ramsey County, Minnesota"
-"36015",53005,"Chemung County, New York"
-"42097",47160,"Northumberland County, Pennsylvania"
-"46103",59006,"Pennington County, South Dakota"
-"48037",47134,"Bowie County, Texas"
-"48141",43958,"El Paso County, Texas"
-"49053",56333,"Washington County, Utah"
-"51003",78584,"Albemarle County, Virginia"
-"51680",42389,"Lynchburg city, Virginia"
-"53063",59783,"Spokane County, Washington"
-"55097",57452,"Portage County, Wisconsin"
-"01043",44612,"Cullman County, Alabama"
-"06037",68093,"Los Angeles County, California"
-"06061",88592,"Placer County, California"
-"09013",91646,"Tolland County, Connecticut"
-"10005",60277,"Sussex County, Delaware"
-"13031",44179,"Bulloch County, Georgia"
-"13115",38462,"Floyd County, Georgia"
-"13217",57344,"Newton County, Georgia"
-"17031",63353,"Cook County, Illinois"
-"21047",38448,"Christian County, Kentucky"
-"25011",59248,"Franklin County, Massachusetts"
-"25013",52372,"Hampden County, Massachusetts"
-"26155",54456,"Shiawassee County, Michigan"
-"29047",68269,"Clay County, Missouri"
-"30063",56598,"Missoula County, Montana"
-"30111",60079,"Yellowstone County, Montana"
-"36045",53146,"Jefferson County, New York"
-"39063",60788,"Hancock County, Ohio"
-"39151",52068,"Stark County, Ohio"
-"42005",49950,"Armstrong County, Pennsylvania"
-"48139",77794,"Ellis County, Texas"
-"48201",60232,"Harris County, Texas"
-"48291",51955,"Liberty County, Texas"
-"48479",46862,"Webb County, Texas"
-"51095",83190,"James City County, Virginia"
-"51161",68595,"Roanoke County, Virginia"
-"55059",65330,"Kenosha County, Wisconsin"
-"06033",48554,"Lake County, California"
-"06075",112376,"San Francisco County, California"
-"08123",75938,"Weld County, Colorado"
-"12005",52107,"Bay County, Florida"
-"13015",57380,"Bartow County, Georgia"
-"20015",64898,"Butler County, Kansas"
-"20103",71071,"Leavenworth County, Kansas"
-"20161",44697,"Riley County, Kansas"
-"25015",76966,"Hampshire County, Massachusetts"
-"29031",49844,"Cape Girardeau County, Missouri"
-"36001",64435,"Albany County, New York"
-"36029",56369,"Erie County, New York"
-"37045",40690,"Cleveland County, North Carolina"
-"39109",58486,"Miami County, Ohio"
-"39145",37257,"Scioto County, Ohio"
-"41005",81278,"Clackamas County, Oregon"
-"45077",47148,"Pickens County, South Carolina"
-"47163",44652,"Sullivan County, Tennessee"
-"53027",48255,"Grays Harbor County, Washington"
-"72139",31078,"Trujillo Alto Municipio, Puerto Rico"
-"05031",44810,"Craighead County, Arkansas"
-"06071",63857,"San Bernardino County, California"
-"12099",61691,"Palm Beach County, Florida"
-"12107",41608,"Putnam County, Florida"
-"13117",104687,"Forsyth County, Georgia"
-"13121",70930,"Fulton County, Georgia"
-"17097",87133,"Lake County, Illinois"
-"20173",55882,"Sedgwick County, Kansas"
-"26005",61353,"Allegan County, Michigan"
-"26081",61537,"Kent County, Michigan"
-"29037",71114,"Cass County, Missouri"
-"29189",66778,"St. Louis County, Missouri"
-"34005",84889,"Burlington County, New Jersey"
-"34007",67523,"Camden County, New Jersey"
-"35035",42591,"Otero County, New Mexico"
-"37071",52741,"Gaston County, North Carolina"
-"37171",48398,"Surry County, North Carolina"
-"42091",90122,"Montgomery County, Pennsylvania"
-"46099",58742,"Minnehaha County, South Dakota"
-"47149",63739,"Rutherford County, Tennessee"
-"47187",110700,"Williamson County, Tennessee"
-"48183",51361,"Gregg County, Texas"
-"48347",46459,"Nacogdoches County, Texas"
-"48439",66063,"Tarrant County, Texas"
-"51069",80953,"Frederick County, Virginia"
-"55089",81104,"Ozaukee County, Wisconsin"
-"55133",86968,"Waukesha County, Wisconsin"
-"06065",66964,"Riverside County, California"
-"06085",126606,"Santa Clara County, California"
-"06099",60321,"Stanislaus County, California"
-"08101",48468,"Pueblo County, Colorado"
-"12053",45977,"Hernando County, Florida"
-"12101",54208,"Pasco County, Florida"
-"12115",61683,"Sarasota County, Florida"
-"12119",53895,"Sumter County, Florida"
-"18011",81145,"Boone County, Indiana"
-"26091",55378,"Lenawee County, Michigan"
-"29183",81663,"St. Charles County, Missouri"
-"29187",46796,"St. Francois County, Missouri"
-"36059",116304,"Nassau County, New York"
-"36071",75825,"Orange County, New York"
-"37133",50639,"Onslow County, North Carolina"
-"39113",50838,"Montgomery County, Ohio"
-"45045",61183,"Greenville County, South Carolina"
-"47059",47383,"Greene County, Tennessee"
-"48041",50110,"Brazos County, Texas"
-"48209",65943,"Hays County, Texas"
-"51059",122227,"Fairfax County, Virginia"
-"12081",59956,"Manatee County, Florida"
-"13057",82069,"Cherokee County, Georgia"
-"13215",47288,"Muscogee County, Georgia"
-"15001",57571,"Hawaii County, Hawaii"
-"18127",66476,"Porter County, Indiana"
-"22057",50296,"Lafourche Parish, Louisiana"
-"24510",51000,"Baltimore city, Maryland"
-"36083",71648,"Rensselaer County, New York"
-"37057",45320,"Davidson County, North Carolina"
-"39089",67784,"Licking County, Ohio"
-"41029",56546,"Jackson County, Oregon"
-"42063",49448,"Indiana County, Pennsylvania"
-"45007",51699,"Anderson County, South Carolina"
-"48135",64165,"Ector County, Texas"
-"48423",58226,"Smith County, Texas"
-"48469",50210,"Victoria County, Texas"
-"55127",63800,"Walworth County, Wisconsin"
-"01127",47602,"Walker County, Alabama"
-"05007",67164,"Benton County, Arkansas"
-"06101",59121,"Sutter County, California"
-"08001",70743,"Adams County, Colorado"
-"12087",71973,"Monroe County, Florida"
-"12095",58588,"Orange County, Florida"
-"13077",69240,"Coweta County, Georgia"
-"17099",51838,"LaSalle County, Illinois"
-"19113",64103,"Linn County, Iowa"
-"27013",58616,"Blue Earth County, Minnesota"
-"28047",45042,"Harrison County, Mississippi"
-"28049",45459,"Hinds County, Mississippi"
-"29099",65246,"Jefferson County, Missouri"
-"33009",66358,"Grafton County, New Hampshire"
-"36013",45479,"Chautauqua County, New York"
-"37067",49166,"Forsyth County, North Carolina"
-"39025",64526,"Clermont County, Ohio"
-"39041",99881,"Delaware County, Ohio"
-"39049",60373,"Franklin County, Ohio"
-"39103",75786,"Medina County, Ohio"
-"47011",50560,"Bradley County, Tennessee"
-"48021",69067,"Bastrop County, Texas"
-"48355",54560,"Nueces County, Texas"
-"53005",68115,"Benton County, Washington"
-"53073",62268,"Whatcom County, Washington"
-"04001",30207,"Apache County, Arizona"
-"04015",46060,"Mohave County, Arizona"
-"04019",53464,"Pima County, Arizona"
-"05143",50342,"Washington County, Arkansas"
-"06095",84395,"Solano County, California"
-"11001",85203,"District of Columbia, District of Columbia"
-"12109",80712,"St. Johns County, Florida"
-"16083",51196,"Twin Falls County, Idaho"
-"17115",50066,"Macon County, Illinois"
-"18167",48961,"Vigo County, Indiana"
-"21037",59524,"Campbell County, Kentucky"
-"22019",49113,"Calcasieu Parish, Louisiana"
-"22097",32867,"St. Landry Parish, Louisiana"
-"25023",90484,"Plymouth County, Massachusetts"
-"29043",56717,"Christian County, Missouri"
-"30049",65241,"Lewis and Clark County, Montana"
-"35025",50871,"Lea County, New Mexico"
-"39157",49658,"Tuscarawas County, Ohio"
-"40125",48776,"Pottawatomie County, Oklahoma"
-"45091",64319,"York County, South Carolina"
-"48441",47508,"Taylor County, Texas"
-"48471",40100,"Walker County, Texas"
-"50007",75852,"Chittenden County, Vermont"
-"51740",47919,"Portsmouth city, Virginia"
-"54107",43563,"Wood County, West Virginia"
-"56025",64833,"Natrona County, Wyoming"
-"01055",45868,"Etowah County, Alabama"
-"01081",46456,"Lee County, Alabama"
-"02020",83648,"Anchorage Municipality, Alaska"
-"08031",68377,"Denver County, Colorado"
-"12021",69867,"Collier County, Florida"
-"12086",52205,"Miami-Dade County, Florida"
-"18097",47780,"Marion County, Indiana"
-"20045",54668,"Douglas County, Kansas"
-"22063",64067,"Livingston Parish, Louisiana"
-"26037",69522,"Clinton County, Michigan"
-"28059",50546,"Jackson County, Mississippi"
-"36019",56704,"Clinton County, New York"
-"36061",85066,"New York County, New York"
-"36091",83765,"Saratoga County, New York"
-"37001",49979,"Alamance County, North Carolina"
-"37101",60132,"Johnston County, North Carolina"
-"37135",72563,"Orange County, North Carolina"
-"37179",80337,"Union County, North Carolina"
-"38035",52853,"Grand Forks County, North Dakota"
-"39017",60589,"Butler County, Ohio"
-"41017",67577,"Deschutes County, Oregon"
-"42033",46205,"Clearfield County, Pennsylvania"
-"45057",57224,"Lancaster County, South Carolina"
-"47009",58809,"Blount County, Tennessee"
-"48121",88117,"Denton County, Texas"
-"48375",40797,"Potter County, Texas"
-"48453",76392,"Travis County, Texas"
-"49011",84358,"Davis County, Utah"
-"51013",122394,"Arlington County, Virginia"
-"01101",49989,"Montgomery County, Alabama"
-"06073",79079,"San Diego County, California"
-"06077",64119,"San Joaquin County, California"
-"10001",54419,"Kent County, Delaware"
-"12111",54098,"St. Lucie County, Florida"
-"13185",34886,"Lowndes County, Georgia"
-"17001",56699,"Adams County, Illinois"
-"17037",63085,"DeKalb County, Illinois"
-"17199",43568,"Williamson County, Illinois"
-"18063",80582,"Hendricks County, Indiana"
-"19155",55376,"Pottawattamie County, Iowa"
-"24021",95850,"Frederick County, Maryland"
-"24033",83034,"Prince George's County, Maryland"
-"26045",67195,"Eaton County, Michigan"
-"26075",51031,"Jackson County, Michigan"
-"26121",50080,"Muskegon County, Michigan"
-"26139",69952,"Ottawa County, Michigan"
-"27003",82492,"Anoka County, Minnesota"
-"31055",64390,"Douglas County, Nebraska"
-"31109",57650,"Lancaster County, Nebraska"
-"33005",59186,"Cheshire County, New Hampshire"
-"34011",52795,"Cumberland County, New Jersey"
-"35049",60193,"Santa Fe County, New Mexico"
-"37051",46716,"Cumberland County, North Carolina"
-"42075",61362,"Lebanon County, Pennsylvania"
-"47037",60856,"Davidson County, Tennessee"
-"48113",59839,"Dallas County, Texas"
-"48167",73840,"Galveston County, Texas"
-"51153",107925,"Prince William County, Virginia"
-"51199",83593,"York County, Virginia"
-"53011",74060,"Clark County, Washington"
-"55117",60896,"Sheboygan County, Wisconsin"
-"56021",64306,"Laramie County, Wyoming"
-"06053",70681,"Monterey County, California"
-"08035",119615,"Douglas County, Colorado"
-"12031",55832,"Duval County, Florida"
-"13255",42920,"Spalding County, Georgia"
-"18003",54260,"Allen County, Indiana"
-"22005",79495,"Ascension Parish, Louisiana"
-"26161",71860,"Washtenaw County, Michigan"
-"28089",75992,"Madison County, Mississippi"
-"29021",55020,"Buchanan County, Missouri"
-"29077",43771,"Greene County, Missouri"
-"34015",81849,"Gloucester County, New Jersey"
-"34029",68551,"Ocean County, New Jersey"
-"34039",82186,"Union County, New Jersey"
-"36009",48179,"Cattaraugus County, New York"
-"36055",60222,"Monroe County, New York"
-"36109",57276,"Tompkins County, New York"
-"37027",42257,"Caldwell County, North Carolina"
-"37063",58073,"Durham County, North Carolina"
-"37191",40791,"Wayne County, North Carolina"
-"41003",63773,"Benton County, Oregon"
-"41067",83068,"Washington County, Oregon"
-"42025",53227,"Carbon County, Pennsylvania"
-"42069",53302,"Lackawanna County, Pennsylvania"
-"45003",51932,"Aiken County, South Carolina"
-"48213",42020,"Henderson County, Texas"
-"49035",73801,"Salt Lake County, Utah"
-"51177",88431,"Spotsylvania County, Virginia"
-"01051",60796,"Elmore County, Alabama"
-"01115",56602,"St. Clair County, Alabama"
-"05131",46826,"Sebastian County, Arkansas"
-"06055",87025,"Napa County, California"
-"08059",85890,"Jefferson County, Colorado"
-"12001",51241,"Alachua County, Florida"
-"12069",52096,"Lake County, Florida"
-"12127",50361,"Volusia County, Florida"
-"17119",59987,"Madison County, Illinois"
-"18105",47369,"Monroe County, Indiana"
-"19169",54586,"Story County, Iowa"
-"34027",112288,"Morris County, New Jersey"
-"36065",54593,"Oneida County, New York"
-"36075",54264,"Oswego County, New York"
-"37147",42481,"Pitt County, North Carolina"
-"39101",43008,"Marion County, Ohio"
-"39173",63695,"Wood County, Ohio"
-"41071",60893,"Yamhill County, Oregon"
-"42011",62564,"Berks County, Pennsylvania"
-"47155",47411,"Sevier County, Tennessee"
-"48099",46131,"Coryell County, Texas"
-"48367",72004,"Parker County, Texas"
-"51121",51932,"Montgomery County, Virginia"
-"53029",64793,"Island County, Washington"
-"55027",63077,"Dodge County, Wisconsin"
-"55039",57415,"Fond du Lac County, Wisconsin"
-"12071",56129,"Lee County, Florida"
-"12105",51670,"Polk County, Florida"
-"17019",52725,"Champaign County, Illinois"
-"21029",58119,"Bullitt County, Kentucky"
-"26073",46198,"Isabella County, Michigan"
-"28035",38837,"Forrest County, Mississippi"
-"34003",100361,"Bergen County, New Jersey"
-"34041",77452,"Warren County, New Jersey"
-"39003",49063,"Allen County, Ohio"
-"39043",49751,"Erie County, Ohio"
-"40145",62421,"Wagoner County, Oklahoma"
-"41053",61616,"Polk County, Oregon"
-"42043",57814,"Dauphin County, Pennsylvania"
-"42089",64170,"Monroe County, Pennsylvania"
-"44005",83822,"Newport County, Rhode Island"
-"44009",89847,"Washington County, Rhode Island"
-"45073",47132,"Oconee County, South Carolina"
-"48187",74459,"Guadalupe County, Texas"
-"48215",39165,"Hidalgo County, Texas"
-"48329",81210,"Midland County, Texas"
-"53061",87440,"Snohomish County, Washington"
-"55079",49636,"Milwaukee County, Wisconsin"
-"55101",59759,"Racine County, Wisconsin"
-"72113",17906,"Ponce Municipio, Puerto Rico"
-"06047",57745,"Merced County, California"
-"06081",124425,"San Mateo County, California"
-"02170",72667,"Matanuska-Susitna Borough, Alaska"
-"04027",43403,"Yuma County, Arizona"
-"05119",49613,"Pulaski County, Arkansas"
-"13045",51545,"Carroll County, Georgia"
-"13067",78894,"Cobb County, Georgia"
-"13139",61699,"Hall County, Georgia"
-"18085",55253,"Kosciusko County, Indiana"
-"18163",50325,"Vanderburgh County, Indiana"
-"22033",52947,"East Baton Rouge Parish, Louisiana"
-"24013",97430,"Carroll County, Maryland"
-"24045",57249,"Wicomico County, Maryland"
-"25027",71853,"Worcester County, Massachusetts"
-"26065",52691,"Ingham County, Michigan"
-"34019",111269,"Hunterdon County, New Jersey"
-"36063",55306,"Niagara County, New York"
-"36079",102525,"Putnam County, New York"
-"37049",50509,"Craven County, North Carolina"
-"37151",47653,"Randolph County, North Carolina"
-"39141",46769,"Ross County, Ohio"
-"40109",52214,"Oklahoma County, Oklahoma"
-"48245",47177,"Jefferson County, Texas"
-"48303",50505,"Lubbock County, Texas"
-"54003",59328,"Berkeley County, West Virginia"
-"55073",62890,"Marathon County, Wisconsin"
-"02090",75448,"Fairbanks North Star Borough, Alaska"
-"05085",53782,"Lonoke County, Arkansas"
-"06001",102125,"Alameda County, California"
-"06097",81395,"Sonoma County, California"
-"06113",68670,"Yolo County, California"
-"09015",65765,"Windham County, Connecticut"
-"12011",57278,"Broward County, Florida"
-"20177",52104,"Shawnee County, Kansas"
-"21067",54896,"Fayette County, Kentucky"
-"22017",39077,"Caddo Parish, Louisiana"
-"22079",49175,"Rapides Parish, Louisiana"
-"26147",56441,"St. Clair County, Michigan"
-"27171",88359,"Wright County, Minnesota"
-"29095",55929,"Jackson County, Missouri"
-"36051",61609,"Livingston County, New York"
-"36103",100468,"Suffolk County, New York"
-"40027",62096,"Cleveland County, Oklahoma"
-"40101",45290,"Muskogee County, Oklahoma"
-"41035",45354,"Klamath County, Oregon"
-"42101",46116,"Philadelphia County, Pennsylvania"
-"45019",63459,"Charleston County, South Carolina"
-"45047",42245,"Greenwood County, South Carolina"
-"47141",45199,"Putnam County, Tennessee"
-"48257",66668,"Kaufman County, Texas"
-"48381",70108,"Randall County, Texas"
-"55071",54393,"Manitowoc County, Wisconsin"
-"55139",56589,"Winnebago County, Wisconsin"
-"72031",25189,"Carolina Municipio, Puerto Rico"
-"01095",47528,"Marshall County, Alabama"
-"04017",40463,"Navajo County, Arizona"
-"06107",48817,"Tulare County, California"
-"08077",49848,"Mesa County, Colorado"
-"09001",91079,"Fairfield County, Connecticut"
-"12089",63913,"Nassau County, Florida"
-"17163",59141,"St. Clair County, Illinois"
-"18035",41662,"Delaware County, Indiana"
-"18091",51584,"LaPorte County, Indiana"
-"18095",49615,"Madison County, Indiana"
-"21117",64441,"Kenton County, Kentucky"
-"22055",60071,"Lafayette Parish, Louisiana"
-"24017",94368,"Charles County, Maryland"
-"26077",55416,"Kalamazoo County, Michigan"
-"27109",75327,"Olmsted County, Minnesota"
-"27141",80643,"Sherburne County, Minnesota"
-"34009",67007,"Cape May County, New Jersey"
-"35045",44841,"San Juan County, New Mexico"
-"36089",49681,"St. Lawrence County, New York"
-"37081",51803,"Guilford County, North Carolina"
-"39095",47360,"Lucas County, Ohio"
-"40143",55638,"Tulsa County, Oklahoma"
-"44003",68994,"Kent County, Rhode Island"
-"48039",73623,"Brazoria County, Texas"
-"48491",87454,"Williamson County, Texas"
-"53045",58094,"Mason County, Washington"
-"55105",57037,"Rock County, Wisconsin"
-"72097",11940,"Mayagüez Municipio, Puerto Rico"
-"06057",66299,"Nevada County, California"
-"12019",61825,"Clay County, Florida"
-"12055",39796,"Highlands County, Florida"
-"12131",62914,"Walton County, Florida"
-"15009",82885,"Maui County, Hawaii"
-"23005",72452,"Cumberland County, Maine"
-"33015",95160,"Rockingham County, New Hampshire"
-"35031",34080,"McKinley County, New Mexico"
-"36011",52376,"Cayuga County, New York"
-"36047",61220,"Kings County, New York"
-"37089",53706,"Henderson County, North Carolina"
-"39057",67680,"Greene County, Ohio"
-"39139",49564,"Richland County, Ohio"
-"41033",48315,"Josephine County, Oregon"
-"42007",54660,"Beaver County, Pennsylvania"
-"42037",50601,"Columbia County, Pennsylvania"
-"45031",33521,"Darlington County, South Carolina"
-"45079",52159,"Richland County, South Carolina"
-"48157",91931,"Fort Bend County, Texas"
-"48181",51158,"Grayson County, Texas"
-"48451",52283,"Tom Green County, Texas"
-"51019",64084,"Bedford County, Virginia"
-"53021",60012,"Franklin County, Washington"
-"53025",53057,"Grant County, Washington"
-"55109",81453,"St. Croix County, Wisconsin"
-"05045",51437,"Faulkner County, Arkansas"
-"06019",52629,"Fresno County, California"
-"08013",83755,"Boulder County, Colorado"
-"08041",68119,"El Paso County, Colorado"
-"12015",52927,"Charlotte County, Florida"
-"12057",58480,"Hillsborough County, Florida"
-"18043",66391,"Floyd County, Indiana"
-"21093",50981,"Hardin County, Kentucky"
-"22071",38423,"Orleans Parish, Louisiana"
-"23003",38233,"Aroostook County, Maine"
-"24005",76182,"Baltimore County, Maryland"
-"24043",63126,"Washington County, Maryland"
-"26125",80193,"Oakland County, Michigan"
-"34001",61212,"Atlantic County, New Jersey"
-"34023",88217,"Middlesex County, New Jersey"
-"34037",92818,"Sussex County, New Jersey"
-"35005",43941,"Chaves County, New Mexico"
-"35013",35262,"Doña Ana County, New Mexico"
-"36085",82166,"Richmond County, New York"
-"42071",66277,"Lancaster County, Pennsylvania"
-"42107",48458,"Schuylkill County, Pennsylvania"
-"42129",58471,"Westmoreland County, Pennsylvania"
-"45083",53581,"Spartanburg County, South Carolina"
-"48339",76929,"Montgomery County, Texas"
-"51087",68069,"Henrico County, Virginia"
-"51760",48987,"Richmond city, Virginia"
-"55035",60475,"Eau Claire County, Wisconsin"
-"55063",60905,"La Crosse County, Wisconsin"
-"01003",56813,"Baldwin County, Alabama"
-"05125",63084,"Saline County, Arkansas"
-"12009",57888,"Brevard County, Florida"
-"17091",51404,"Kankakee County, Illinois"
-"18005",62047,"Bartholomew County, Indiana"
-"18057",100209,"Hamilton County, Indiana"
-"19153",68291,"Polk County, Iowa"
-"20209",47285,"Wyandotte County, Kansas"
-"22045",42994,"Iberia Parish, Louisiana"
-"22103",65392,"St. Tammany Parish, Louisiana"
-"24001",42068,"Allegany County, Maryland"
-"25005",66205,"Bristol County, Massachusetts"
-"26021",51262,"Berrien County, Michigan"
-"26093",82884,"Livingston County, Michigan"
-"26103",54779,"Marquette County, Michigan"
-"29019",54356,"Boone County, Missouri"
-"34031",75259,"Passaic County, New Jersey"
-"35043",54338,"Sandoval County, New Mexico"
-"36093",64847,"Schenectady County, New York"
-"37031",54833,"Carteret County, North Carolina"
-"37155",35037,"Robeson County, North Carolina"
-"39133",64550,"Portage County, Ohio"
-"41047",56341,"Marion County, Oregon"
-"42027",57333,"Centre County, Pennsylvania"
-"42125",63251,"Washington County, Pennsylvania"
-"45059",41452,"Laurens County, South Carolina"
-"47001",50616,"Anderson County, Tennessee"
-"51085",91309,"Hanover County, Virginia"
-"53035",76945,"Kitsap County, Washington"
-"55055",65651,"Jefferson County, Wisconsin"
-"55087",64759,"Outagamie County, Wisconsin"
-"01049",36998,"DeKalb County, Alabama"
-"06007",51652,"Butte County, California"
-"06017",82742,"El Dorado County, California"
-"06025",48984,"Imperial County, California"
-"06029",51579,"Kern County, California"
-"06041",126373,"Marin County, California"
+"county_fips","median_household_income"
+"01001",58786
+"01003",55962
+"01005",34186
+"01007",45340
+"01009",48695
+"01011",32152
+"01013",39109
+"01015",45197
+"01017",39872
+"01019",41014
+"01021",45182
+"01023",34884
+"01025",36127
+"01027",41225
+"01029",40188
+"01031",53155
+"01033",47558
+"01035",33177
+"01037",38301
+"01039",40601
+"01041",39812
+"01043",42558
+"01045",45960
+"01047",31602
+"01049",39233
+"01051",59347
+"01053",35000
+"01055",44023
+"01057",37458
+"01059",40459
+"01061",38142
+"01063",21804
+"01065",30571
+"01067",48610
+"01069",45496
+"01071",39816
+"01073",51979
+"01075",36756
+"01077",46265
+"01079",44515
+"01081",48056
+"01083",56460
+"01085",30833
+"01087",32074
+"01089",63417
+"01091",32809
+"01093",35392
+"01095",42490
+"01097",46166
+"01099",30141
+"01101",47990
+"01103",49751
+"01105",23561
+"01107",37458
+"01109",34678
+"01111",41449
+"01113",40978
+"01115",54887
+"01117",75761
+"01119",23132
+"01121",41012
+"01123",43361
+"01125",52221
+"01127",41748
+"01129",40794
+"01131",27237
+"01133",38504
+"02013",69706
+"02016",85517
+"02020",83280
+"02050",54212
+"02060",84688
+"02068",84196
+"02070",58750
+"02090",77095
+"02100",64342
+"02105",63603
+"02110",88213
+"02122",66684
+"02130",70356
+"02150",78281
+"02158",35539
+"02164",46406
+"02170",75905
+"02180",58987
+"02185",75431
+"02188",62949
+"02195",66907
+"02198",54191
+"02220",71534
+"02230",72237
+"02240",71541
+"02261",82306
+"02275",57583
+"02282",65833
+"02290",40000
+"04001",32963
+"04003",48649
+"04005",57616
+"04007",42092
+"04009",51352
+"04011",60962
+"04012",33333
+"04013",61606
+"04015",43266
+"04017",40054
+"04019",51037
+"04021",55550
+"04023",40467
+"04025",50180
+"04027",44058
+"05001",39466
+"05003",39635
+"05005",41481
+"05007",64141
+"05009",43262
+"05011",39510
+"05013",44022
+"05015",43505
+"05017",33051
+"05019",39752
+"05021",33935
+"05023",43391
+"05025",42460
+"05027",36148
+"05029",41196
+"05031",45868
+"05033",46619
+"05035",39002
+"05037",43838
+"05039",36628
+"05041",30234
+"05043",43014
+"05045",51930
+"05047",39463
+"05049",36184
+"05051",43146
+"05053",51920
+"05055",47497
+"05057",41355
+"05059",41262
+"05061",35900
+"05063",43523
+"05065",40218
+"05067",33174
+"05069",38289
+"05071",37170
+"05073",32412
+"05075",38528
+"05077",28367
+"05079",45166
+"05081",45388
+"05083",39748
+"05085",57509
+"05087",43891
+"05089",35518
+"05091",41903
+"05093",37237
+"05095",35190
+"05097",37855
+"05099",37635
+"05101",39896
+"05103",34887
+"05105",46071
+"05107",29263
+"05109",37406
+"05111",39277
+"05113",37035
+"05115",41914
+"05117",41846
+"05119",50093
+"05121",36870
+"05123",35356
+"05125",62152
+"05127",35509
+"05129",36390
+"05131",43240
+"05133",46667
+"05135",33708
+"05137",36162
+"05139",44000
+"05141",36897
+"05143",49629
+"05145",43822
+"05147",31023
+"05149",42361
+"06001",92574
+"06003",64688
+"06005",61198
+"06007",48443
+"06009",58151
+"06011",56704
+"06013",93712
+"06015",45258
+"06017",80582
+"06019",51261
+"06021",47395
+"06023",45528
+"06025",45834
+"06027",52874
+"06029",52479
+"06031",53865
+"06033",42475
+"06035",56362
+"06037",64251
+"06039",52884
+"06041",110217
+"06043",51199
+"06045",49233
+"06047",50129
+"06049",45149
+"06051",63018
+"06053",66676
+"06055",84753
+"06057",63240
+"06059",85398
+"06061",84357
+"06063",53270
+"06065",63948
+"06067",63902
+"06069",81977
+"06071",60164
+"06073",74855
+"06075",104552
+"06077",61145
+"06079",70699
+"06081",113776
+"06083",71657
+"06085",116178
+"06087",78041
+"06089",50905
+"06091",48125
+"06093",44200
+"06095",77609
+"06097",76753
+"06099",57387
+"06101",56955
+"06103",42899
+"06105",38497
+"06107",47518
+"06109",56493
+"06111",84017
+"06113",65923
+"06115",52624
+"08001",67575
+"08003",39191
+"08005",73925
+"08007",50753
+"08009",37500
+"08011",34392
+"08013",78642
+"08014",89624
+"08015",54580
+"08017",55227
+"08019",69936
+"08021",34746
+"08023",30593
+"08025",37586
+"08027",44644
+"08029",44512
+"08031",63793
+"08033",41714
+"08035",115314
+"08037",84685
+"08039",96658
+"08041",65334
+"08043",46296
+"08045",72898
+"08047",75120
+"08049",70469
+"08051",54979
+"08053",52188
+"08055",36705
+"08057",48828
+"08059",78943
+"08061",39784
+"08063",51046
+"08065",46918
+"08067",64372
+"08069",67664
+"08071",41945
+"08073",49423
+"08075",48922
+"08077",53683
+"08079",61058
+"08081",52807
+"08083",46797
+"08085",48739
+"08087",51626
+"08089",34136
+"08091",62230
+"08093",66861
+"08095",50724
+"08097",71244
+"08099",40097
+"08101",44634
+"08103",55543
+"08105",38639
+"08107",74273
+"08109",34410
+"08111",46563
+"08113",64478
+"08115",45188
+"08117",77589
+"08119",65382
+"08121",49375
+"08123",70908
+"08125",48394
+"09001",92969
+"09003",72321
+"09005",78314
+"09007",84761
+"09009",67128
+"09011",71368
+"09013",84916
+"09015",64774
+"10001",58775
+"10003",70996
+"10005",60853
+"11001",82604
+"12001",49078
+"12003",61769
+"12005",51829
+"12007",46197
+"12009",54359
+"12011",57333
+"12013",38609
+"12015",49225
+"12017",41424
+"12019",62653
+"12021",65675
+"12023",44491
+"12027",35057
+"12029",38237
+"12031",53473
+"12033",49286
+"12035",53872
+"12037",42855
+"12039",40922
+"12041",42357
+"12043",39879
+"12045",44291
+"12047",34583
+"12049",37594
+"12051",40728
+"12053",46030
+"12055",37314
+"12057",56137
+"12059",38608
+"12061",52336
+"12063",39002
+"12065",48173
+"12067",39543
+"12069",51884
+"12071",54691
+"12073",51201
+"12075",37634
+"12077",37363
+"12079",35509
+"12081",56036
+"12083",43361
+"12085",57959
+"12086",48982
+"12087",67023
+"12089",66297
+"12091",62048
+"12093",40367
+"12095",54335
+"12097",50063
+"12099",59943
+"12101",50417
+"12103",51454
+"12105",48500
+"12107",35649
+"12109",77323
+"12111",49373
+"12113",66242
+"12115",58644
+"12117",63760
+"12119",55228
+"12121",42686
+"12123",36934
+"12125",41770
+"12127",46760
+"12129",62778
+"12131",53785
+"12133",37188
+"13001",39561
+"13003",34877
+"13005",36964
+"13007",37188
+"13009",39426
+"13011",45373
+"13013",57348
+"13015",55452
+"13017",32705
+"13019",37163
+"13021",39931
+"13023",45029
+"13025",37031
+"13027",34322
+"13029",71322
+"13031",41789
+"13033",42773
+"13035",41845
+"13037",31725
+"13039",56397
+"13043",32937
+"13045",49608
+"13047",55125
+"13049",40283
+"13051",54911
+"13053",46453
+"13055",36107
+"13057",79670
+"13059",36889
+"13061",25000
+"13063",45778
+"13065",25236
+"13067",75153
+"13069",38266
+"13071",35472
+"13073",76938
+"13075",38408
+"13077",70717
+"13079",43257
+"13081",35096
+"13083",44471
+"13085",65805
+"13087",39148
+"13089",59280
+"13091",35757
+"13093",35629
+"13095",37633
+"13097",62147
+"13099",31567
+"13101",34447
+"13103",65153
+"13105",37943
+"13107",34946
+"13109",39701
+"13111",45647
+"13113",87272
+"13115",46367
+"13117",101743
+"13119",40198
+"13121",64787
+"13123",49389
+"13125",41686
+"13127",50672
+"13129",44313
+"13131",42348
+"13133",49755
+"13135",67769
+"13137",49140
+"13139",59898
+"13141",31984
+"13143",46353
+"13145",74261
+"13147",41358
+"13149",48094
+"13151",68609
+"13153",58770
+"13155",32339
+"13157",62495
+"13159",43284
+"13161",36531
+"13163",34300
+"13165",27311
+"13167",39813
+"13169",53155
+"13171",41464
+"13173",39104
+"13175",37369
+"13177",65420
+"13179",45959
+"13181",41014
+"13183",55439
+"13185",41390
+"13187",47488
+"13189",39199
+"13191",47114
+"13193",31999
+"13195",51701
+"13197",44309
+"13199",36351
+"13201",42927
+"13205",37027
+"13207",54050
+"13209",40728
+"13211",62530
+"13213",45238
+"13215",45389
+"13217",53309
+"13219",88308
+"13221",44927
+"13223",66467
+"13225",42802
+"13227",64512
+"13229",44167
+"13231",58765
+"13233",43491
+"13235",38770
+"13237",51245
+"13239",30000
+"13241",40902
+"13243",30914
+"13245",40644
+"13247",57049
+"13249",41276
+"13251",37588
+"13253",34338
+"13255",42671
+"13257",43416
+"13259",25385
+"13261",36205
+"13263",36213
+"13265",31797
+"13267",38034
+"13269",33442
+"13271",30288
+"13273",38015
+"13275",40112
+"13277",42790
+"13279",36575
+"13281",43927
+"13283",37606
+"13285",43850
+"13287",38341
+"13289",33037
+"13291",44978
+"13293",36529
+"13295",43650
+"13297",58370
+"13299",39887
+"13301",34730
+"13303",38092
+"13305",44869
+"13307",35755
+"13309",27626
+"13311",46288
+"13313",46970
+"13315",36077
+"13317",35106
+"13319",37583
+"13321",46076
+"15001",59297
+"15003",82906
+"15005",61875
+"15007",78482
+"15009",77117
+"16001",63137
+"16003",45319
+"16005",49739
+"16007",54265
+"16009",46507
+"16011",51288
+"16013",51968
+"16015",53942
+"16017",48710
+"16019",56609
+"16021",43507
+"16023",42250
+"16025",38393
+"16027",49143
+"16029",59611
+"16031",50918
+"16033",35341
+"16035",42348
+"16037",39957
+"16039",46715
+"16041",56613
+"16043",53311
+"16045",43001
+"16047",48638
+"16049",39113
+"16051",60162
+"16053",49306
+"16055",54457
+"16057",45466
+"16059",37921
+"16061",41326
+"16063",48222
+"16065",36031
+"16067",50663
+"16069",54174
+"16071",51058
+"16073",40430
+"16075",50289
+"16077",49985
+"16079",39091
+"16081",68818
+"16083",50778
+"16085",55299
+"16087",37206
+"17001",51398
+"17003",34709
+"17005",58097
+"17007",66898
+"17009",58762
+"17011",55940
+"17013",54392
+"17015",51228
+"17017",51997
+"17019",51692
+"17021",52415
+"17023",54158
+"17025",48691
+"17027",65010
+"17029",44071
+"17031",62088
+"17033",49233
+"17035",53376
+"17037",61086
+"17039",55591
+"17041",54218
+"17043",88711
+"17045",51109
+"17047",49766
+"17049",56293
+"17051",44432
+"17053",51120
+"17055",41414
+"17057",50180
+"17059",42500
+"17061",46052
+"17063",74140
+"17065",56862
+"17067",51549
+"17069",43081
+"17071",52712
+"17073",57250
+"17075",51825
+"17077",37802
+"17079",54951
+"17081",47617
+"17083",56747
+"17085",57083
+"17087",50923
+"17089",76912
+"17091",57981
+"17093",91764
+"17095",43709
+"17097",86244
+"17099",56243
+"17101",45654
+"17103",57901
+"17105",56200
+"17107",57899
+"17109",43724
+"17111",84803
+"17113",65813
+"17115",50444
+"17117",53778
+"17119",57890
+"17121",46102
+"17123",55901
+"17125",45596
+"17127",42604
+"17129",69102
+"17131",58011
+"17133",81268
+"17135",50304
+"17137",48508
+"17139",59623
+"17141",59707
+"17143",54770
+"17145",48298
+"17147",69271
+"17149",42664
+"17151",40671
+"17153",33799
+"17155",65034
+"17157",52107
+"17159",48724
+"17161",52630
+"17163",53681
+"17165",41167
+"17167",60466
+"17169",46151
+"17171",53973
+"17173",51157
+"17175",52260
+"17177",48016
+"17179",62342
+"17181",49182
+"17183",45384
+"17185",51432
+"17187",49607
+"17189",59469
+"17191",49764
+"17193",47773
+"17195",53828
+"17197",83504
+"17199",49053
+"17201",52743
+"17203",71867
+"18001",51713
+"18003",53402
+"18005",59045
+"18007",46188
+"18009",42217
+"18011",80567
+"18013",61455
+"18015",56429
+"18017",47545
+"18019",54240
+"18021",53021
+"18023",52488
+"18025",43875
+"18027",51032
+"18029",65096
+"18031",54622
+"18033",53808
+"18035",42705
+"18037",58994
+"18039",55399
+"18041",43317
+"18043",61754
+"18045",49887
+"18047",58382
+"18049",49333
+"18051",52620
+"18053",42593
+"18055",49177
+"18057",94644
+"18059",73142
+"18061",57132
+"18063",78355
+"18065",48235
+"18067",50869
+"18069",52208
+"18071",49506
+"18073",59574
+"18075",44772
+"18077",51119
+"18079",49801
+"18081",68712
+"18083",46457
+"18085",58402
+"18087",60675
+"18089",54249
+"18091",51101
+"18093",52092
+"18095",47436
+"18097",46692
+"18099",54229
+"18101",51224
+"18103",47460
+"18105",47075
+"18107",53610
+"18109",62462
+"18111",53146
+"18113",55033
+"18115",61148
+"18117",45341
+"18119",48667
+"18121",48788
+"18123",51064
+"18125",52527
+"18127",68044
+"18129",62583
+"18131",48370
+"18133",56169
+"18135",45601
+"18137",56295
+"18139",50535
+"18141",50938
+"18143",47123
+"18145",59214
+"18147",56998
+"18149",48895
+"18151",56101
+"18153",46517
+"18155",47929
+"18157",51844
+"18159",55479
+"18161",48227
+"18163",46943
+"18165",48377
+"18167",43859
+"18169",50637
+"18171",61148
+"18173",70648
+"18175",47078
+"18177",44228
+"18179",56265
+"18181",55086
+"18183",61153
+"19001",51859
+"19003",49229
+"19005",51057
+"19007",41111
+"19009",50397
+"19011",65475
+"19013",52688
+"19015",61111
+"19017",68023
+"19019",61409
+"19021",54556
+"19023",55999
+"19025",50800
+"19027",57674
+"19029",48178
+"19031",65791
+"19033",52902
+"19035",54658
+"19037",55385
+"19039",51571
+"19041",47874
+"19043",52828
+"19045",50156
+"19047",53609
+"19049",84790
+"19051",58464
+"19053",42614
+"19055",61179
+"19057",49977
+"19059",58099
+"19061",61321
+"19063",48542
+"19065",50015
+"19067",48110
+"19069",53742
+"19071",54281
+"19073",54050
+"19075",66965
+"19077",57075
+"19079",56273
+"19081",61167
+"19083",53872
+"19085",60063
+"19087",52428
+"19089",52742
+"19091",52219
+"19093",55969
+"19095",58570
+"19097",54070
+"19099",55727
+"19101",43378
+"19103",61640
+"19105",56012
+"19107",51043
+"19109",54146
+"19111",48571
+"19113",64862
+"19115",53943
+"19117",50206
+"19119",64352
+"19121",64512
+"19123",52950
+"19125",58492
+"19127",54027
+"19129",69177
+"19131",55553
+"19133",45252
+"19135",49549
+"19137",47648
+"19139",57348
+"19141",53045
+"19143",58125
+"19145",49974
+"19147",52462
+"19149",64296
+"19151",49877
+"19153",66044
+"19155",57467
+"19157",53520
+"19159",52005
+"19161",54958
+"19163",58803
+"19165",55489
+"19167",67178
+"19169",54554
+"19171",55898
+"19173",48717
+"19175",47518
+"19177",47083
+"19179",45233
+"19181",74383
+"19183",61769
+"19185",45017
+"19187",44261
+"19189",51002
+"19191",62820
+"19193",55483
+"19195",54329
+"19197",50198
+"20001",42679
+"20003",46274
+"20005",48667
+"20007",50613
+"20009",50198
+"20011",40733
+"20013",48547
+"20015",63272
+"20017",46295
+"20019",38690
+"20021",41103
+"20023",46833
+"20025",50368
+"20027",56186
+"20029",44143
+"20031",58636
+"20033",56912
+"20035",48087
+"20037",40174
+"20039",44104
+"20041",48167
+"20043",49338
+"20045",55832
+"20047",49293
+"20049",38494
+"20051",52700
+"20053",48188
+"20055",56573
+"20057",53072
+"20059",55486
+"20061",49185
+"20063",48894
+"20065",40769
+"20067",55455
+"20069",64426
+"20071",51250
+"20073",42595
+"20075",45000
+"20077",49455
+"20079",56051
+"20081",53527
+"20083",53854
+"20085",55904
+"20087",61793
+"20089",42552
+"20091",84915
+"20093",51314
+"20095",58483
+"20097",51336
+"20099",47668
+"20101",51719
+"20103",71184
+"20105",46196
+"20107",43699
+"20109",51597
+"20111",44191
+"20113",57765
+"20115",51262
+"20117",50234
+"20119",55568
+"20121",69150
+"20123",45221
+"20125",45173
+"20127",50352
+"20129",43925
+"20131",58644
+"20133",44294
+"20135",51033
+"20137",49891
+"20139",55036
+"20141",48355
+"20143",51971
+"20145",42853
+"20147",48272
+"20149",64657
+"20151",54029
+"20153",48125
+"20155",49174
+"20157",48022
+"20159",50764
+"20161",49910
+"20163",50511
+"20165",40598
+"20167",52806
+"20169",50515
+"20171",71394
+"20173",54974
+"20175",47025
+"20177",55199
+"20179",56071
+"20181",52847
+"20183",43438
+"20185",48563
+"20187",46726
+"20189",56507
+"20191",54915
+"20193",57478
+"20195",56810
+"20197",60450
+"20199",58875
+"20201",48889
+"20203",57566
+"20205",46208
+"20207",34621
+"20209",44873
+"21001",39346
+"21003",40893
+"21005",54160
+"21007",44350
+"21009",40216
+"21011",40837
+"21013",24628
+"21015",75043
+"21017",51462
+"21019",46165
+"21021",43274
+"21023",45827
+"21025",26376
+"21027",48189
+"21029",60534
+"21031",40061
+"21033",44940
+"21035",40219
+"21037",59782
+"21039",39664
+"21041",43258
+"21043",33067
+"21045",34457
+"21047",41235
+"21049",52938
+"21051",26250
+"21053",31115
+"21055",43169
+"21057",32906
+"21059",49836
+"21061",41360
+"21063",33377
+"21065",31337
+"21067",54918
+"21069",42213
+"21071",31267
+"21073",55068
+"21075",28559
+"21077",50204
+"21079",49888
+"21081",45610
+"21083",41615
+"21085",37906
+"21087",37374
+"21089",49343
+"21091",52019
+"21093",53168
+"21095",26324
+"21097",49696
+"21099",37795
+"21101",45389
+"21103",51447
+"21105",40463
+"21107",45738
+"21109",32143
+"21111",54357
+"21113",56728
+"21115",37559
+"21117",61606
+"21119",29326
+"21121",28790
+"21123",41779
+"21125",39230
+"21127",31813
+"21129",23972
+"21131",30798
+"21133",29856
+"21135",31096
+"21137",39833
+"21139",46076
+"21141",43842
+"21143",50097
+"21145",44486
+"21147",23273
+"21149",50445
+"21151",48687
+"21153",29516
+"21155",38544
+"21157",50731
+"21159",35125
+"21161",41415
+"21163",57963
+"21165",39905
+"21167",50475
+"21169",35809
+"21171",34167
+"21173",41974
+"21175",34419
+"21177",43110
+"21179",57469
+"21181",41354
+"21183",42826
+"21185",97597
+"21187",45338
+"21189",25530
+"21191",52620
+"21193",31046
+"21195",34081
+"21197",36958
+"21199",37921
+"21201",38864
+"21203",36468
+"21205",37639
+"21207",36159
+"21209",66966
+"21211",64240
+"21213",48311
+"21215",77738
+"21217",39055
+"21219",41865
+"21221",52279
+"21223",47470
+"21225",42844
+"21227",52007
+"21229",50794
+"21231",34039
+"21233",40947
+"21235",36897
+"21237",22458
+"21239",62629
+"22001",41177
+"22003",41009
+"22005",76589
+"22007",44744
+"22009",38077
+"22011",50738
+"22013",30300
+"22015",53806
+"22017",40866
+"22019",49452
+"22021",32174
+"22023",55000
+"22025",38854
+"22027",27303
+"22029",31813
+"22031",44230
+"22033",52719
+"22035",21161
+"22037",48129
+"22039",32180
+"22041",35466
+"22043",40792
+"22045",45274
+"22047",47797
+"22049",38523
+"22051",52558
+"22053",39653
+"22055",54726
+"22057",53089
+"22059",36868
+"22061",34154
+"22063",63159
+"22065",27810
+"22067",33333
+"22069",27795
+"22071",39576
+"22073",41314
+"22075",52386
+"22077",44269
+"22079",44852
+"22081",33446
+"22083",34422
+"22085",39465
+"22087",46011
+"22089",66620
+"22091",39895
+"22093",50661
+"22095",54821
+"22097",33288
+"22099",47974
+"22101",40485
+"22103",67706
+"22105",46297
+"22107",23870
+"22109",48866
+"22111",43083
+"22113",50690
+"22115",47772
+"22117",34985
+"22119",30358
+"22121",60908
+"22123",36528
+"22125",55510
+"22127",35398
+"23001",51412
+"23003",39824
+"23005",69708
+"23007",48053
+"23009",53068
+"23011",52929
+"23013",55402
+"23015",55180
+"23017",47275
+"23019",49374
+"23021",39470
+"23023",62131
+"23025",42491
+"23027",51564
+"23029",41384
+"23031",65538
+"24001",44065
+"24003",97810
+"24005",74127
+"24009",104301
+"24011",54956
+"24013",93363
+"24015",72845
+"24017",95924
+"24019",52145
+"24021",91999
+"24023",49619
+"24025",85942
+"24027",117730
+"24029",56009
+"24031",106287
+"24033",81969
+"24035",92167
+"24037",90438
+"24039",42165
+"24041",67204
+"24043",59719
+"24045",56608
+"24047",61145
+"24510",48840
+"25001",70621
+"25003",56674
+"25005",66157
+"25007",71224
+"25009",75878
+"25011",59522
+"25013",53403
+"25015",67044
+"25017",97012
+"25019",105171
+"25021",99511
+"25023",85654
+"25025",64582
+"25027",71895
+"26001",39735
+"26003",46007
+"26005",59883
+"26007",41991
+"26009",52589
+"26011",40769
+"26013",42444
+"26015",61016
+"26017",48005
+"26019",56639
+"26021",49135
+"26023",50536
+"26025",47426
+"26027",53571
+"26029",53207
+"26031",46161
+"26033",44483
+"26035",37369
+"26037",67482
+"26039",47443
+"26041",46490
+"26043",48966
+"26045",62474
+"26047",54055
+"26049",47006
+"26051",43290
+"26053",38798
+"26055",61485
+"26057",44991
+"26059",48392
+"26061",42852
+"26063",46320
+"26065",50940
+"26067",54343
+"26069",42102
+"26071",38918
+"26073",44408
+"26075",51431
+"26077",54431
+"26079",46004
+"26081",60351
+"26083",49779
+"26085",34631
+"26087",58952
+"26089",63831
+"26091",53972
+"26093",80897
+"26095",42255
+"26097",46507
+"26099",60466
+"26101",47172
+"26103",50771
+"26105",49663
+"26107",44460
+"26109",45508
+"26111",59271
+"26113",44766
+"26115",61514
+"26117",47000
+"26119",42305
+"26121",48329
+"26123",46724
+"26125",76387
+"26127",46217
+"26129",40150
+"26131",38906
+"26133",42689
+"26135",40255
+"26137",52645
+"26139",67468
+"26141",46439
+"26143",40302
+"26145",46919
+"26147",55240
+"26149",50117
+"26151",45277
+"26153",40747
+"26155",54742
+"26157",47694
+"26159",52351
+"26161",69434
+"26163",45321
+"26165",44166
+"27001",45989
+"27003",79923
+"27005",59278
+"27007",47410
+"27009",56357
+"27011",51920
+"27013",55861
+"27015",57728
+"27017",60390
+"27019",97895
+"27021",50173
+"27023",54552
+"27025",80409
+"27027",65000
+"27029",46291
+"27031",52271
+"27033",53354
+"27035",54508
+"27037",83288
+"27039",71669
+"27041",60676
+"27043",52286
+"27045",59451
+"27047",52447
+"27049",64765
+"27051",55912
+"27053",74113
+"27055",58729
+"27057",55472
+"27059",72473
+"27061",53022
+"27063",57010
+"27065",53300
+"27067",59089
+"27069",57112
+"27071",47129
+"27073",52199
+"27075",59516
+"27077",49068
+"27079",67451
+"27081",52301
+"27083",55525
+"27085",61275
+"27087",44537
+"27089",58723
+"27091",53915
+"27093",61856
+"27095",53888
+"27097",54962
+"27099",53665
+"27101",57500
+"27103",65027
+"27105",54149
+"27107",55206
+"27109",74880
+"27111",57131
+"27113",59036
+"27115",49138
+"27117",52309
+"27119",57151
+"27121",58132
+"27123",62304
+"27125",56588
+"27127",53230
+"27129",57886
+"27131",65758
+"27133",59890
+"27135",59644
+"27137",53344
+"27139",97744
+"27141",85818
+"27143",62761
+"27145",60606
+"27147",62731
+"27149",58363
+"27151",48577
+"27153",52872
+"27155",48784
+"27157",65138
+"27159",45860
+"27161",55612
+"27163",92376
+"27165",51097
+"27167",54935
+"27169",55529
+"27171",81881
+"27173",56943
+"28001",29203
+"28003",40180
+"28005",31854
+"28007",34756
+"28009",35974
+"28011",29912
+"28013",36440
+"28015",43060
+"28017",35939
+"28019",37203
+"28021",26732
+"28023",39246
+"28025",35121
+"28027",30009
+"28029",40361
+"28031",35931
+"28033",65169
+"28035",40675
+"28037",40810
+"28039",48319
+"28041",49447
+"28043",36877
+"28045",47543
+"28047",45566
+"28049",43005
+"28051",21093
+"28053",28507
+"28055",25776
+"28057",40510
+"28059",51142
+"28061",35931
+"28063",20188
+"28065",30083
+"28067",41263
+"28069",28176
+"28071",47132
+"28073",58188
+"28075",41704
+"28077",42290
+"28079",33482
+"28081",47978
+"28083",26052
+"28085",40355
+"28087",45355
+"28089",71690
+"28091",31446
+"28093",41572
+"28095",40940
+"28097",33667
+"28099",36875
+"28101",33831
+"28103",36000
+"28105",38800
+"28107",36563
+"28109",45820
+"28111",39007
+"28113",30910
+"28115",41379
+"28117",37519
+"28119",25510
+"28121",64557
+"28123",33735
+"28125",28799
+"28127",37946
+"28129",41657
+"28131",44883
+"28133",30029
+"28135",30028
+"28137",51056
+"28139",39839
+"28141",37312
+"28143",37822
+"28145",41287
+"28147",29804
+"28149",43039
+"28151",30834
+"28153",37970
+"28155",40683
+"28157",26599
+"28159",36214
+"28161",41864
+"28163",31402
+"29001",40046
+"29003",55683
+"29005",48385
+"29007",43761
+"29009",41463
+"29011",41625
+"29013",46186
+"29015",38028
+"29017",42985
+"29019",54043
+"29021",50457
+"29023",39058
+"29025",48033
+"29027",55376
+"29029",52087
+"29031",51730
+"29033",42149
+"29035",39415
+"29037",67659
+"29039",39412
+"29041",46992
+"29043",57019
+"29045",47955
+"29047",68367
+"29049",58510
+"29051",57587
+"29053",48750
+"29055",38036
+"29057",39979
+"29059",41551
+"29061",50380
+"29063",50000
+"29065",39916
+"29067",34372
+"29069",34186
+"29071",55312
+"29073",53439
+"29075",42689
+"29077",44808
+"29079",42574
+"29081",40168
+"29083",43911
+"29085",36190
+"29087",45610
+"29089",50372
+"29091",36143
+"29093",37188
+"29095",52805
+"29097",46929
+"29099",63030
+"29101",53056
+"29103",40383
+"29105",46192
+"29107",54661
+"29109",43373
+"29111",47764
+"29113",61628
+"29115",43642
+"29117",47885
+"29119",42019
+"29121",40007
+"29123",41322
+"29125",44436
+"29127",46762
+"29129",44085
+"29131",42718
+"29133",32846
+"29135",54828
+"29137",43973
+"29139",45862
+"29141",37727
+"29143",35399
+"29145",49023
+"29147",43349
+"29149",32534
+"29151",58476
+"29153",32601
+"29155",33390
+"29157",54964
+"29159",44382
+"29161",42846
+"29163",45753
+"29165",76912
+"29167",44892
+"29169",51665
+"29171",37367
+"29173",55546
+"29175",46610
+"29177",59857
+"29179",40929
+"29181",33343
+"29183",81411
+"29185",38470
+"29186",56234
+"29187",45774
+"29189",65300
+"29195",43201
+"29197",39697
+"29199",42965
+"29201",42231
+"29203",32180
+"29205",44051
+"29207",40567
+"29209",46443
+"29211",42604
+"29213",41487
+"29215",35277
+"29217",43379
+"29219",57948
+"29221",39621
+"29223",34391
+"29225",47421
+"29227",52500
+"29229",32752
+"29510",41107
+"30001",44809
+"30003",46365
+"30005",38083
+"30007",56469
+"30009",57538
+"30011",44196
+"30013",48160
+"30015",40942
+"30017",55841
+"30019",54750
+"30021",59820
+"30023",41783
+"30025",60750
+"30027",50327
+"30029",52966
+"30031",61499
+"30033",45893
+"30035",31029
+"30037",39952
+"30039",48958
+"30041",47141
+"30043",66867
+"30045",45764
+"30047",45488
+"30049",62130
+"30051",47419
+"30053",38287
+"30055",47500
+"30057",50247
+"30059",43109
+"30061",41905
+"30063",51270
+"30065",41612
+"30067",49194
+"30069",44688
+"30071",46222
+"30073",45458
+"30075",52457
+"30077",49652
+"30079",47250
+"30081",48930
+"30083",67272
+"30085",42904
+"30087",56549
+"30089",36984
+"30091",54321
+"30093",42237
+"30095",63785
+"30097",49514
+"30099",51862
+"30101",46823
+"30103",42292
+"30105",55882
+"30107",41186
+"30109",50202
+"30111",59117
+"31001",51536
+"31003",48716
+"31005",43854
+"31007",59625
+"31009",50870
+"31011",54063
+"31013",56412
+"31015",50729
+"31017",41550
+"31019",56952
+"31021",51482
+"31023",55562
+"31025",71139
+"31027",58978
+"31029",55833
+"31031",53684
+"31033",56538
+"31035",56316
+"31037",56528
+"31039",55190
+"31041",49891
+"31043",55017
+"31045",51748
+"31047",53769
+"31049",48500
+"31051",56775
+"31053",53101
+"31055",61688
+"31057",44350
+"31059",55625
+"31061",49235
+"31063",51855
+"31065",47989
+"31067",51662
+"31069",44471
+"31071",48545
+"31073",62545
+"31075",39479
+"31077",47128
+"31079",54742
+"31081",64042
+"31083",50344
+"31085",45515
+"31087",42902
+"31089",57468
+"31091",39115
+"31093",54399
+"31095",43295
+"31097",52794
+"31099",56952
+"31101",48901
+"31103",49688
+"31105",43856
+"31107",49752
+"31109",58009
+"31111",56794
+"31113",51607
+"31115",53125
+"31117",48882
+"31119",52857
+"31121",54197
+"31123",45121
+"31125",45833
+"31127",51922
+"31129",42049
+"31131",54828
+"31133",46314
+"31135",62469
+"31137",57241
+"31139",56620
+"31141",62617
+"31143",61962
+"31145",46859
+"31147",48096
+"31149",52604
+"31151",51143
+"31153",79549
+"31155",66718
+"31157",50157
+"31159",67591
+"31161",41719
+"31163",51172
+"31165",46875
+"31167",62687
+"31169",50734
+"31171",50682
+"31173",48149
+"31175",55170
+"31177",70753
+"31179",62623
+"31181",42298
+"31183",52083
+"31185",59779
+"32001",51514
+"32003",56802
+"32005",62503
+"32007",77209
+"32009",40000
+"32011",77625
+"32013",70373
+"32015",93583
+"32017",56414
+"32019",55493
+"32021",41163
+"32023",45711
+"32027",50846
+"32029",62284
+"32031",61155
+"32033",62993
+"32510",52034
+"33001",68368
+"33003",61116
+"33005",63057
+"33007",45696
+"33009",63153
+"33011",78655
+"33013",72478
+"33015",90429
+"33017",70650
+"33019",60780
+"34001",59989
+"34003",95837
+"34005",84992
+"34007",67118
+"34009",63690
+"34011",52593
+"34013",59302
+"34015",85160
+"34017",66289
+"34019",112535
+"34021",79990
+"34023",85954
+"34025",95699
+"34027",111316
+"34029",68021
+"34031",66476
+"34033",64309
+"34035",111772
+"34037",90520
+"34039",77095
+"34041",78145
+"35001",51643
+"35003",42480
+"35005",43197
+"35006",37368
+"35007",33783
+"35009",46182
+"35011",31028
+"35013",39164
+"35015",62982
+"35017",37880
+"35019",24085
+"35021",30875
+"35023",36339
+"35025",59797
+"35027",42267
+"35028",115248
+"35029",27377
+"35031",31674
+"35033",26968
+"35035",42752
+"35037",27075
+"35039",NA
+"35041",40775
+"35043",59420
+"35045",50582
+"35047",31660
+"35049",59192
+"35051",30451
+"35053",36146
+"35055",36758
+"35057",37218
+"35059",37936
+"35061",45084
+"36001",64535
+"36003",47033
+"36005",38085
+"36007",50859
+"36009",47240
+"36011",56579
+"36013",45332
+"36015",53299
+"36017",50595
+"36019",55178
+"36021",63032
+"36023",54489
+"36025",48827
+"36027",78028
+"36029",55673
+"36031",56196
+"36033",51696
+"36035",50248
+"36037",59338
+"36039",53617
+"36041",57552
+"36043",51862
+"36045",52268
+"36047",56015
+"36049",52380
+"36051",56071
+"36053",60228
+"36055",57479
+"36057",45837
+"36059",111240
+"36061",82459
+"36063",54085
+"36065",53844
+"36067",59225
+"36069",63359
+"36071",76716
+"36073",51843
+"36075",53597
+"36077",53121
+"36079",102186
+"36081",64987
+"36083",65851
+"36085",79267
+"36087",91108
+"36089",49305
+"36091",80839
+"36093",63785
+"36095",53989
+"36097",51479
+"36099",54695
+"36101",51789
+"36103",96675
+"36105",56256
+"36107",60736
+"36109",58743
+"36111",63348
+"36113",59813
+"36115",54114
+"36117",55765
+"36119",92758
+"36121",57914
+"36123",54343
+"37001",45735
+"37003",44961
+"37005",37558
+"37007",39126
+"37009",40978
+"37011",38134
+"37013",43688
+"37015",33143
+"37017",32378
+"37019",54406
+"37021",50668
+"37023",42516
+"37025",64174
+"37027",42072
+"37029",63349
+"37031",54428
+"37033",43961
+"37035",51157
+"37037",63531
+"37039",40294
+"37041",42621
+"37043",38801
+"37045",40393
+"37047",36398
+"37049",50870
+"37051",45716
+"37053",66284
+"37055",58012
+"37057",47271
+"37059",57611
+"37061",38850
+"37063",58190
+"37065",35516
+"37067",50128
+"37069",53175
+"37071",49384
+"37073",52205
+"37075",36525
+"37077",55628
+"37079",38306
+"37081",51072
+"37083",34251
+"37085",51630
+"37087",49800
+"37089",52815
+"37091",37005
+"37093",47535
+"37095",45466
+"37097",58198
+"37099",44028
+"37101",56842
+"37103",36892
+"37105",48873
+"37107",38387
+"37109",53318
+"37111",40913
+"37113",43597
+"37115",42410
+"37117",39205
+"37119",64312
+"37121",44186
+"37123",42346
+"37125",57899
+"37127",48362
+"37129",52716
+"37131",35499
+"37133",49491
+"37135",68211
+"37137",44947
+"37139",48279
+"37141",52989
+"37143",45915
+"37145",48811
+"37147",44315
+"37149",48834
+"37151",45006
+"37153",36091
+"37155",33679
+"37157",42490
+"37159",48667
+"37161",40347
+"37163",39068
+"37165",35617
+"37167",49590
+"37169",46169
+"37171",41068
+"37173",36773
+"37175",46629
+"37177",35472
+"37179",75397
+"37181",37282
+"37183",76956
+"37185",35962
+"37187",35512
+"37189",45268
+"37191",42192
+"37193",40829
+"37195",42850
+"37197",42876
+"37199",39888
+"38001",54875
+"38003",57064
+"38005",44313
+"38007",92604
+"38009",59882
+"38011",65063
+"38013",74931
+"38015",69719
+"38017",62031
+"38019",67591
+"38021",60918
+"38023",60074
+"38025",70500
+"38027",51563
+"38029",51029
+"38031",60613
+"38033",56087
+"38035",51951
+"38037",50962
+"38039",52794
+"38041",56761
+"38043",57734
+"38045",59426
+"38047",58144
+"38049",62637
+"38051",50739
+"38053",80732
+"38055",65648
+"38057",79890
+"38059",67584
+"38061",70678
+"38063",48798
+"38065",68333
+"38067",64962
+"38069",48802
+"38071",57313
+"38073",61810
+"38075",68182
+"38077",61990
+"38079",39884
+"38081",67200
+"38083",49261
+"38085",40862
+"38087",63942
+"38089",75708
+"38091",65848
+"38093",57642
+"38095",53696
+"38097",62870
+"38099",54414
+"38101",67753
+"38103",57989
+"38105",86575
+"39001",36894
+"39003",50552
+"39005",52730
+"39007",44823
+"39009",37778
+"39011",61758
+"39013",49361
+"39015",52356
+"39017",63358
+"39019",52394
+"39021",57103
+"39023",48502
+"39025",64822
+"39027",51354
+"39029",46306
+"39031",44491
+"39033",42892
+"39035",48435
+"39037",52691
+"39039",57665
+"39041",104322
+"39043",52270
+"39045",66175
+"39047",46478
+"39049",58762
+"39051",60231
+"39053",42113
+"39055",79956
+"39057",67109
+"39059",43975
+"39061",54976
+"39063",55644
+"39065",48773
+"39067",48462
+"39069",59083
+"39071",43297
+"39073",50000
+"39075",62111
+"39077",51559
+"39079",45340
+"39081",44819
+"39083",55131
+"39085",63475
+"39087",44372
+"39089",62715
+"39091",55150
+"39093",56965
+"39095",46924
+"39097",65264
+"39099",44682
+"39101",45464
+"39103",74243
+"39105",43591
+"39107",59417
+"39109",57544
+"39111",43956
+"39113",49314
+"39115",41731
+"39117",56010
+"39119",45276
+"39121",47456
+"39123",57918
+"39125",51933
+"39127",48811
+"39129",62214
+"39131",43729
+"39133",56618
+"39135",55374
+"39137",62001
+"39139",47346
+"39141",48403
+"39143",51701
+"39145",39731
+"39147",49936
+"39149",61042
+"39151",52190
+"39153",55448
+"39155",45975
+"39157",51170
+"39159",82775
+"39161",52754
+"39163",42114
+"39165",83330
+"39167",48572
+"39169",56348
+"39171",49491
+"39173",59789
+"39175",52940
+"40001",32986
+"40003",59569
+"40005",38821
+"40007",51996
+"40009",48725
+"40011",50391
+"40013",43245
+"40015",44588
+"40017",71157
+"40019",49216
+"40021",40936
+"40023",32129
+"40025",46071
+"40027",62863
+"40029",40000
+"40031",52227
+"40033",51623
+"40035",41701
+"40037",49578
+"40039",48884
+"40041",39742
+"40043",50037
+"40045",52705
+"40047",51332
+"40049",45066
+"40051",58177
+"40053",56287
+"40055",38322
+"40057",41607
+"40059",50114
+"40061",39375
+"40063",39265
+"40065",45757
+"40067",37319
+"40069",40077
+"40071",45426
+"40073",60656
+"40075",38209
+"40077",42363
+"40079",39769
+"40081",49362
+"40083",62035
+"40085",52007
+"40087",64492
+"40089",35829
+"40091",37086
+"40093",54118
+"40095",45828
+"40097",48853
+"40099",51490
+"40101",42689
+"40103",53253
+"40105",41895
+"40107",38527
+"40109",52855
+"40111",42175
+"40113",47789
+"40115",39070
+"40117",47413
+"40119",40944
+"40121",45346
+"40123",49235
+"40125",47683
+"40127",37457
+"40129",47667
+"40131",62949
+"40133",38706
+"40135",38328
+"40137",46166
+"40139",50450
+"40141",40462
+"40143",53902
+"40145",61566
+"40147",52103
+"40149",52510
+"40151",56899
+"40153",58706
+"41001",43921
+"41003",58655
+"41005",76597
+"41007",52583
+"41009",59714
+"41011",43308
+"41013",44524
+"41015",46396
+"41017",63680
+"41019",45812
+"41021",42976
+"41023",45357
+"41025",41797
+"41027",62935
+"41029",50851
+"41031",50339
+"41033",43046
+"41035",43522
+"41037",36627
+"41039",49958
+"41041",46061
+"41043",52097
+"41045",42478
+"41047",56097
+"41049",55440
+"41051",64337
+"41053",58344
+"41055",48056
+"41057",47500
+"41059",51887
+"41061",48617
+"41063",44953
+"41065",50973
+"41067",78010
+"41069",33456
+"41071",59484
+"42001",64507
+"42003",58383
+"42005",49032
+"42007",55828
+"42009",49146
+"42011",61522
+"42013",47969
+"42015",51457
+"42017",86055
+"42019",68472
+"42021",45901
+"42023",41485
+"42025",53624
+"42027",58055
+"42029",96726
+"42031",45625
+"42033",47270
+"42035",49234
+"42037",49889
+"42039",49144
+"42041",68895
+"42043",58916
+"42045",71539
+"42047",51112
+"42049",49716
+"42051",44476
+"42053",38383
+"42055",59713
+"42057",51259
+"42059",54121
+"42061",48597
+"42063",46877
+"42065",46818
+"42067",52765
+"42069",50875
+"42071",63823
+"42073",48860
+"42075",59114
+"42077",62178
+"42079",51646
+"42081",52407
+"42083",46953
+"42085",48768
+"42087",47526
+"42089",63931
+"42091",88166
+"42093",57183
+"42095",67565
+"42097",47063
+"42099",62266
+"42101",43744
+"42103",64247
+"42105",42821
+"42107",49190
+"42109",57638
+"42111",48224
+"42113",47346
+"42115",53059
+"42117",50667
+"42119",56026
+"42121",47982
+"42123",48409
+"42125",61567
+"42127",54851
+"42129",58866
+"42131",59308
+"42133",63902
+"44001",75578
+"44003",70223
+"44005",77237
+"44007",55233
+"44009",81301
+"45001",36685
+"45003",50036
+"45005",24560
+"45007",47906
+"45009",32229
+"45011",36566
+"45013",63110
+"45015",59995
+"45017",44534
+"45019",61028
+"45021",35836
+"45023",40080
+"45025",40033
+"45027",37525
+"45029",36276
+"45031",36254
+"45033",29362
+"45035",61698
+"45037",49200
+"45039",36294
+"45041",45479
+"45043",48071
+"45045",56789
+"45047",40982
+"45049",32453
+"45051",48279
+"45053",41930
+"45055",49392
+"45057",55223
+"45059",41578
+"45061",31651
+"45063",59593
+"45065",42262
+"45067",33046
+"45069",34203
+"45071",42765
+"45073",46056
+"45075",36188
+"45077",47024
+"45079",53922
+"45081",44486
+"45083",50179
+"45085",43792
+"45087",40120
+"45089",32351
+"45091",62431
+"46003",59293
+"46005",51700
+"46007",48348
+"46009",54450
+"46011",56370
+"46013",56455
+"46015",50839
+"46017",32500
+"46019",44387
+"46021",52500
+"46023",46389
+"46025",47798
+"46027",43189
+"46029",54774
+"46031",35441
+"46033",55472
+"46035",47772
+"46037",44145
+"46039",57930
+"46041",43954
+"46043",57419
+"46045",68551
+"46047",50837
+"46049",53889
+"46051",62532
+"46053",44479
+"46055",37420
+"46057",65050
+"46059",52438
+"46061",63036
+"46063",57365
+"46065",63564
+"46067",54868
+"46069",54891
+"46071",33438
+"46073",49519
+"46075",41103
+"46077",59375
+"46079",59232
+"46081",52245
+"46083",81422
+"46085",53263
+"46087",62234
+"46089",43804
+"46091",63594
+"46093",59218
+"46095",31222
+"46097",51394
+"46099",60028
+"46101",58167
+"46102",30347
+"46103",55024
+"46105",56850
+"46107",53600
+"46109",50495
+"46111",54899
+"46115",52729
+"46117",71763
+"46119",64028
+"46121",24257
+"46123",51027
+"46125",55380
+"46127",69563
+"46129",52123
+"46135",54694
+"46137",37143
+"47001",49376
+"47003",48945
+"47005",33125
+"47007",42889
+"47009",54140
+"47011",48140
+"47013",38170
+"47015",49523
+"47017",40810
+"47019",36589
+"47021",58641
+"47023",45667
+"47025",36077
+"47027",31487
+"47029",33614
+"47031",47998
+"47033",42047
+"47035",43893
+"47037",56507
+"47039",40233
+"47041",44134
+"47043",50549
+"47045",43762
+"47047",59017
+"47049",35084
+"47051",49038
+"47053",41886
+"47055",47528
+"47057",42997
+"47059",40138
+"47061",36987
+"47063",42589
+"47065",53035
+"47067",28990
+"47069",38651
+"47071",39798
+"47073",40335
+"47075",38362
+"47077",42430
+"47079",40837
+"47081",41998
+"47083",43964
+"47085",41510
+"47087",36703
+"47089",47264
+"47091",34151
+"47093",54437
+"47095",34966
+"47097",37915
+"47099",41553
+"47101",37139
+"47103",45736
+"47105",56078
+"47107",41398
+"47109",36055
+"47111",36246
+"47113",46223
+"47115",48024
+"47117",49370
+"47119",54249
+"47121",43250
+"47123",38327
+"47125",55972
+"47127",52294
+"47129",40166
+"47131",39866
+"47133",36558
+"47135",34634
+"47137",41004
+"47139",41818
+"47141",40888
+"47143",39451
+"47145",50003
+"47147",61774
+"47149",63846
+"47151",35453
+"47153",51750
+"47155",45943
+"47157",49782
+"47159",46404
+"47161",42269
+"47163",43442
+"47165",64631
+"47167",60167
+"47169",52864
+"47171",39851
+"47173",41352
+"47175",37127
+"47177",37715
+"47179",46752
+"47181",38634
+"47183",38566
+"47185",40745
+"47187",109026
+"47189",71513
+"48001",43355
+"48003",74233
+"48005",47714
+"48007",44865
+"48009",64476
+"48011",66563
+"48013",55265
+"48015",65365
+"48017",46485
+"48019",53683
+"48021",62941
+"48023",40750
+"48025",42032
+"48027",54184
+"48029",55456
+"48031",63071
+"48033",81985
+"48035",50882
+"48037",47505
+"48039",79270
+"48041",46839
+"48043",43894
+"48045",42647
+"48047",27378
+"48049",45457
+"48051",56235
+"48053",59238
+"48055",52278
+"48057",55469
+"48059",44602
+"48061",37132
+"48063",42604
+"48065",70087
+"48067",45345
+"48069",45000
+"48071",76850
+"48073",46044
+"48075",40794
+"48077",51191
+"48079",42798
+"48081",45551
+"48083",43981
+"48085",94192
+"48087",42750
+"48089",49504
+"48091",75356
+"48093",47893
+"48095",43355
+"48097",57646
+"48099",51440
+"48101",34375
+"48103",70398
+"48105",51152
+"48107",37899
+"48109",33417
+"48111",51250
+"48113",56854
+"48115",44657
+"48117",51841
+"48119",46138
+"48121",83376
+"48123",53779
+"48125",41618
+"48127",27832
+"48129",43224
+"48131",37382
+"48133",35325
+"48135",60676
+"48137",40313
+"48139",72213
+"48141",44597
+"48143",48819
+"48145",38032
+"48147",50761
+"48149",56297
+"48151",46827
+"48153",48555
+"48155",46354
+"48157",95561
+"48159",52944
+"48161",48731
+"48163",42476
+"48165",59032
+"48167",69369
+"48169",55039
+"48171",58325
+"48173",75833
+"48175",60492
+"48177",53006
+"48179",47170
+"48181",54370
+"48183",49287
+"48185",50298
+"48187",70931
+"48189",47080
+"48191",32921
+"48193",47500
+"48195",39229
+"48197",42238
+"48199",59105
+"48201",60146
+"48203",51202
+"48205",59280
+"48207",46013
+"48209",65935
+"48211",63778
+"48213",45798
+"48215",38398
+"48217",48823
+"48219",48116
+"48221",59049
+"48223",51877
+"48225",34297
+"48227",51528
+"48229",29318
+"48231",51928
+"48233",50651
+"48235",54706
+"48237",51700
+"48239",60276
+"48241",46088
+"48243",53194
+"48245",48463
+"48247",32049
+"48249",42005
+"48251",62066
+"48253",45694
+"48255",52252
+"48257",65390
+"48259",82390
+"48261",36125
+"48263",45926
+"48265",52473
+"48267",42500
+"48269",65125
+"48271",31468
+"48273",42021
+"48275",46146
+"48277",43562
+"48279",43396
+"48281",58194
+"48283",51792
+"48285",53021
+"48287",55000
+"48289",44818
+"48291",49850
+"48293",42680
+"48295",57372
+"48297",55766
+"48299",52178
+"48301",81875
+"48303",50473
+"48305",43524
+"48307",45329
+"48309",48199
+"48311",68750
+"48313",49428
+"48315",37283
+"48317",69722
+"48319",40708
+"48321",45500
+"48323",38035
+"48325",61059
+"48327",40606
+"48329",78888
+"48331",47081
+"48333",41827
+"48335",49670
+"48337",51774
+"48339",77416
+"48341",51527
+"48343",42961
+"48345",43750
+"48347",43598
+"48349",47920
+"48351",40950
+"48353",44346
+"48355",55048
+"48357",49928
+"48359",63315
+"48361",55700
+"48363",45979
+"48365",51569
+"48367",74625
+"48369",54184
+"48371",52282
+"48373",46182
+"48375",43157
+"48377",27061
+"48379",49872
+"48381",67397
+"48383",70478
+"48385",34813
+"48387",37955
+"48389",58384
+"48391",48112
+"48393",73854
+"48395",54201
+"48397",94767
+"48399",41732
+"48401",52329
+"48403",33257
+"48405",35509
+"48407",44658
+"48409",55229
+"48411",44698
+"48413",55677
+"48415",55889
+"48417",45187
+"48419",40764
+"48421",56576
+"48423",53511
+"48425",53162
+"48427",29294
+"48429",45336
+"48431",59286
+"48433",48000
+"48435",60543
+"48437",38418
+"48439",64874
+"48441",50818
+"48443",33750
+"48445",44975
+"48447",44196
+"48449",46698
+"48451",51675
+"48453",71767
+"48455",40407
+"48457",43936
+"48459",50906
+"48461",52257
+"48463",41752
+"48465",45521
+"48467",51935
+"48469",55631
+"48471",41855
+"48473",57654
+"48475",64630
+"48477",56237
+"48479",42293
+"48481",49619
+"48483",49352
+"48485",46575
+"48487",48773
+"48489",29944
+"48491",83679
+"48493",72445
+"48495",59167
+"48497",61709
+"48499",48534
+"48501",68814
+"48503",47194
+"48505",31113
+"48507",30988
+"49001",54212
+"49003",59937
+"49005",56840
+"49007",50278
+"49009",81250
+"49011",79690
+"49013",63919
+"49015",52055
+"49017",52337
+"49019",48673
+"49021",46809
+"49023",62237
+"49025",48269
+"49027",60445
+"49029",89274
+"49031",39440
+"49033",49886
+"49035",71230
+"49037",44680
+"49039",51720
+"49041",53020
+"49043",100453
+"49045",71020
+"49047",66736
+"49049",70408
+"49051",77449
+"49053",56877
+"49055",44694
+"49057",64636
+"50001",65093
+"50003",53040
+"50005",49348
+"50007",69896
+"50009",41045
+"50011",64258
+"50013",69583
+"50015",60365
+"50017",60159
+"50019",47915
+"50021",54973
+"50023",62108
+"50025",52659
+"50027",58303
+"51001",43210
+"51003",75394
+"51005",47794
+"51007",58526
+"51009",49170
+"51011",56176
+"51013",117374
+"51015",61305
+"51017",46137
+"51019",61541
+"51021",50511
+"51023",68410
+"51025",41927
+"51027",30806
+"51029",46261
+"51031",50258
+"51033",64715
+"51035",43532
+"51036",59192
+"51037",39212
+"51041",80214
+"51043",77936
+"51045",55484
+"51047",73116
+"51049",46221
+"51051",29226
+"51053",55880
+"51057",52681
+"51059",121133
+"51061",97469
+"51063",49729
+"51065",74931
+"51067",52639
+"51069",73250
+"51071",52478
+"51073",66701
+"51075",89741
+"51077",33969
+"51079",64979
+"51081",44534
+"51083",42289
+"51085",88652
+"51087",68572
+"51089",36683
+"51091",46147
+"51093",71376
+"51095",83048
+"51097",54516
+"51099",87321
+"51101",68720
+"51103",50739
+"51105",32718
+"51107",136268
+"51109",59343
+"51111",41868
+"51113",54197
+"51115",67009
+"51117",42025
+"51119",51917
+"51121",54641
+"51125",62446
+"51127",79698
+"51131",43553
+"51133",58677
+"51135",42869
+"51137",68481
+"51139",47951
+"51141",40486
+"51143",45382
+"51145",83914
+"51147",46189
+"51149",67001
+"51153",103445
+"51155",52638
+"51157",68438
+"51159",49831
+"51161",65467
+"51163",54805
+"51165",59817
+"51167",39482
+"51169",39144
+"51171",54921
+"51173",40425
+"51175",54611
+"51177",85330
+"51179",106773
+"51181",54844
+"51183",45801
+"51185",40978
+"51187",68189
+"51191",46262
+"51193",54268
+"51195",38345
+"51197",48043
+"51199",90367
+"51510",96733
+"51520",37904
+"51530",34273
+"51540",58933
+"51550",75790
+"51570",53716
+"51580",39432
+"51590",36301
+"51595",30857
+"51600",111574
+"51610",124796
+"51620",40375
+"51630",63274
+"51640",31938
+"51650",54550
+"51660",43893
+"51670",40497
+"51678",36466
+"51680",43374
+"51683",78462
+"51685",80667
+"51690",33224
+"51700",51884
+"51710",49146
+"51720",28071
+"51730",36135
+"51735",96831
+"51740",50224
+"51750",36743
+"51760",45117
+"51770",43028
+"51775",57185
+"51790",48049
+"51800",70664
+"51810",74186
+"51820",45738
+"51830",56163
+"51840",53797
+"53001",49142
+"53003",50423
+"53005",65650
+"53007",56135
+"53009",49913
+"53011",71636
+"53013",51111
+"53015",51752
+"53017",60452
+"53019",41924
+"53021",62002
+"53023",52525
+"53025",54982
+"53027",47770
+"53029",64809
+"53031",54471
+"53033",89418
+"53035",71610
+"53037",55193
+"53039",54056
+"53041",50216
+"53043",50744
+"53045",55726
+"53047",45808
+"53049",44846
+"53051",48583
+"53053",67868
+"53055",60711
+"53057",62865
+"53059",58598
+"53061",82751
+"53063",54852
+"53065",49200
+"53067",69592
+"53069",54085
+"53071",56533
+"53073",59285
+"53075",42163
+"53077",49871
+"54001",39580
+"54003",60615
+"54005",38642
+"54007",42213
+"54009",49772
+"54011",38321
+"54013",37610
+"54015",35875
+"54017",46449
+"54019",40379
+"54021",35810
+"54023",41071
+"54025",39038
+"54027",40099
+"54029",45580
+"54031",47186
+"54033",50433
+"54035",44783
+"54037",76503
+"54039",45426
+"54041",39423
+"54043",37679
+"54045",38123
+"54047",26547
+"54049",48605
+"54051",43918
+"54053",40347
+"54055",39372
+"54057",46354
+"54059",31305
+"54061",49926
+"54063",36493
+"54065",50661
+"54067",38468
+"54069",48418
+"54071",41210
+"54073",48563
+"54075",39702
+"54077",48317
+"54079",59626
+"54081",42296
+"54083",41094
+"54085",44472
+"54087",34300
+"54089",36049
+"54091",47205
+"54093",45655
+"54095",41108
+"54097",40401
+"54099",36875
+"54101",34312
+"54103",42125
+"54105",40189
+"54107",45958
+"54109",40045
+"55001",43280
+"55003",43861
+"55005",50903
+"55007",52910
+"55009",59963
+"55011",57134
+"55013",49982
+"55015",72530
+"55017",57288
+"55019",51872
+"55021",65348
+"55023",48853
+"55025",70541
+"55027",58870
+"55029",58287
+"55031",52480
+"55033",56268
+"55035",55711
+"55037",49128
+"55039",59373
+"55041",44313
+"55043",52958
+"55045",62699
+"55047",53260
+"55049",62785
+"55051",40801
+"55053",52984
+"55055",63676
+"55057",51056
+"55059",60929
+"55061",63118
+"55063",55479
+"55065",59629
+"55067",46557
+"55069",56086
+"55071",53489
+"55073",59543
+"55075",47497
+"55077",49586
+"55078",43872
+"55079",48742
+"55081",58178
+"55083",57105
+"55085",54198
+"55087",63536
+"55089",82807
+"55091",53140
+"55093",72111
+"55095",56932
+"55097",57368
+"55099",46742
+"55101",59749
+"55103",51335
+"55105",55832
+"55107",44302
+"55109",81124
+"55111",56732
+"55113",44555
+"55115",54143
+"55117",58943
+"55119",51698
+"55121",55865
+"55123",50905
+"55125",44285
+"55127",61106
+"55129",48422
+"55131",74062
+"55133",84331
+"55135",57680
+"55137",51195
+"55139",57124
+"55141",53473
+"56001",46865
+"56003",53435
+"56005",79916
+"56007",60206
+"56009",63923
+"56011",64055
+"56013",54242
+"56015",49774
+"56017",51875
+"56019",55991
+"56021",64220
+"56023",64519
+"56025",60550
+"56027",39359
+"56029",62666
+"56031",47096
+"56033",58521
+"56035",78680
+"56037",73008
+"56039",83831
+"56041",58235
+"56043",53426
+"56045",52867
+"72001",12902
+"72003",16347
+"72005",16693
+"72007",17255
+"72009",19720
+"72011",19379
+"72013",18001
+"72015",16976
+"72017",16889
+"72019",15970
+"72021",26017
+"72023",16080
+"72025",25006
+"72027",16831
+"72029",20673
+"72031",29434
+"72033",18253
+"72035",21320
+"72037",19103
+"72039",15071
+"72041",19949
+"72043",19833
+"72045",12812
+"72047",15088
+"72049",23802
+"72051",29667
+"72053",19068
+"72054",20315
+"72055",13242
+"72057",16374
+"72059",16922
+"72061",33937
+"72063",33661
+"72065",17201
+"72067",19394
+"72069",19880
+"72071",16748
+"72073",15424
+"72075",20845
+"72077",18969
+"72079",13747
+"72081",14540
+"72083",13435
+"72085",21792
+"72087",17402
+"72089",20829
+"72091",19459
+"72093",13262
+"72095",19788
+"72097",14120
+"72099",14155
+"72101",20589
+"72103",19356
+"72105",19332
+"72107",13319
+"72109",15761
+"72111",17592
+"72113",17173
+"72115",16630
+"72117",21591
+"72119",22509
+"72121",16846
+"72123",16887
+"72125",15619
+"72127",22146
+"72129",18821
+"72131",14812
+"72133",17640
+"72135",28863
+"72137",24899
+"72139",31193
+"72141",16533
+"72143",18895
+"72145",19096
+"72147",15539
+"72149",19855
+"72151",16013
+"72153",14954
+"01117",75761
