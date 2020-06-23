@@ -15,11 +15,13 @@
 
 ## Arizona
 * [Arizona Commerce Authority](https://www.azcommerce.com/oeo/labor-market/unemployment/#content-block-1)
-  * Format: Excel, Updated: Weekly, Level: County
+  * Format: Excel, Updated: Weekly, Level: County, City
   * Data: Unemployment Claims, Industries, Unemployment
 
 ## Arkansas
-No data found
+* [Division of Workforce Services](http://www.discover.arkansas.gov/Data-Search-Tool/LAUS)
+  * Format: Tableau / CSV, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## California
 * [Employment Development Department](https://www.edd.ca.gov/about_edd/Quick_Statistics_Information_by_County.htm)
