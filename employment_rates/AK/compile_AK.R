@@ -26,14 +26,14 @@ output <- raw %>%
       area_type == 2 ~ "City",
     ),
     
-    state_fips = "03",
+    state_fips = "02",
     state_short = "AK",
     state = "Alaska",
     
     # work on FIPS
     fips = case_when(
       area_type == "County" ~ 
-        paste("03", str_pad(area_code, 3, pad = "0"), sep = "")
+        paste("02", str_pad(area_code, 3, pad = "0"), sep = "")
     ),
     
     # dates

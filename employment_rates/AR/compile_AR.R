@@ -23,7 +23,7 @@ output <- raw %>%
       str_detect(area, "County") == TRUE ~ "County",
       area == "Arkansas" ~ "State",
       TRUE ~ "City"
-    ))
+    ),
     
     state_fips = "05",
     state_short = "AZ",
@@ -42,8 +42,8 @@ output <- raw %>%
     week = NA
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, date,
+    state_fips, state_short, state, area, area_type, fips, period, year, 
     employment, labor_force, unemployment
   )
 
-write.csv(output, file="AZ_compiled.csv", row.names = FALSE)
+write.csv(output, file="AR_compiled.csv", row.names = FALSE)
