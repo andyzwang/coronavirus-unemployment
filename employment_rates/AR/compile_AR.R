@@ -26,20 +26,26 @@ output <- raw %>%
     ),
     
     state_fips = "05",
-    state_short = "AZ",
-    state = "Arizona",
+    state_short = "AR",
+    state = "Arkansas",
     
     # work on FIPS
-    fips = case_when(
-      area_type == "County" ~ 
-        paste("05", str_pad(area_fips, 3, pad = "0"), sep = "")
-    ),
-    
-    # dates
-    date = ceiling_date(mdy(paste(period, "1", year, sep = "/")), "months") - 1,
-    month = month(date),
-    year = year(date),
-    week = NA
+    polyname = case_when(
+      area == "St. Francis County" ~ "arkansas,st francis",
+      area_type == "County" ~ paste("arkansas,", tolower(str_remove(area, " County")), sep = "")
+    )
+  ) %>% # Join with FIPS
+  
+  left_join(county.fips, by = "polyname") %>%
+  
+  # pad zeros
+  
+  mutate(
+    fips = str_pad(fips, 5, pad = "0")
+  ) %>%
+  rename(
+    unemployment = unemployed,
+    employment = employed
   ) %>%
   select(
     state_fips, state_short, state, area, area_type, fips, period, year, 

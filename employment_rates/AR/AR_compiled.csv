@@ -1,0 +1,1602 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
+"05","AR","Arkansas","Arkansas","State",NA,"May",2020,1221410,1347400,125990
+"05","AR","Arkansas","West Memphis","City",NA,"April",2020,8833,10549,1716
+"05","AR","Arkansas","Van Buren","City",NA,"April",2020,9023,9994,971
+"05","AR","Arkansas","Texarkana","City",NA,"April",2020,11299,13262,1963
+"05","AR","Arkansas","Springdale","City",NA,"April",2020,34728,37501,2773
+"05","AR","Arkansas","Sherwood","City",NA,"April",2020,13851,15562,1711
+"05","AR","Arkansas","Searcy","City",NA,"April",2020,8937,9922,985
+"05","AR","Arkansas","Russellville","City",NA,"April",2020,11805,12983,1178
+"05","AR","Arkansas","Rogers","City",NA,"April",2020,31399,34136,2737
+"05","AR","Arkansas","Pine Bluff","City",NA,"April",2020,13750,15514,1764
+"05","AR","Arkansas","Paragould","City",NA,"April",2020,11107,12717,1610
+"05","AR","Arkansas","North Little Rock","City",NA,"April",2020,25659,29642,3983
+"05","AR","Arkansas","Little Rock","City",NA,"April",2020,83637,94827,11190
+"05","AR","Arkansas","Jonesboro","City",NA,"April",2020,34775,38434,3659
+"05","AR","Arkansas","Jacksonville","City",NA,"April",2020,9939,11447,1508
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"April",2020,12046,14990,2944
+"05","AR","Arkansas","Fort Smith","City",NA,"April",2020,33924,38398,4474
+"05","AR","Arkansas","Fayetteville","City",NA,"April",2020,42157,47022,4865
+"05","AR","Arkansas","El Dorado","City",NA,"April",2020,5814,6768,954
+"05","AR","Arkansas","Conway","City",NA,"April",2020,29237,33097,3860
+"05","AR","Arkansas","Cabot","City",NA,"April",2020,10488,11731,1243
+"05","AR","Arkansas","Blytheville","City",NA,"April",2020,4992,5760,768
+"05","AR","Arkansas","Bentonville","City",NA,"April",2020,23719,25502,1783
+"05","AR","Arkansas","Benton","City",NA,"April",2020,15107,16763,1656
+"05","AR","Arkansas","Bella Vista","City",NA,"April",2020,10636,11775,1139
+"05","AR","Arkansas","Yell County","County","05149","April",2020,7415,8005,590
+"05","AR","Arkansas","Woodruff County","County","05147","April",2020,2365,2575,210
+"05","AR","Arkansas","White County","County","05145","April",2020,29313,32600,3287
+"05","AR","Arkansas","Washington County","County","05143","April",2020,109705,119589,9884
+"05","AR","Arkansas","Van Buren County","County","05141","April",2020,4945,5595,650
+"05","AR","Arkansas","Union County","County","05139","April",2020,13422,15225,1803
+"05","AR","Arkansas","Stone County","County","05137","April",2020,4041,4584,543
+"05","AR","Arkansas","Sharp County","County","05135","April",2020,4980,5619,639
+"05","AR","Arkansas","Sevier County","County","05133","April",2020,4790,5226,436
+"05","AR","Arkansas","Sebastian County","County","05131","April",2020,48886,54975,6089
+"05","AR","Arkansas","Searcy County","County","05129","April",2020,2488,2793,305
+"05","AR","Arkansas","Scott County","County","05127","April",2020,3846,4100,254
+"05","AR","Arkansas","Saline County","County","05125","April",2020,50789,55862,5073
+"05","AR","Arkansas","St. Francis County","County","05123","April",2020,7013,7961,948
+"05","AR","Arkansas","Randolph County","County","05121","April",2020,6493,7196,703
+"05","AR","Arkansas","Pulaski County","County","05119","April",2020,162476,184178,21702
+"05","AR","Arkansas","Prairie County","County","05117","April",2020,3129,3379,250
+"05","AR","Arkansas","Pope County","County","05115","April",2020,25390,28071,2681
+"05","AR","Arkansas","Polk County","County","05113","April",2020,6988,7806,818
+"05","AR","Arkansas","Poinsett County","County","05111","April",2020,9059,9840,781
+"05","AR","Arkansas","Pike County","County","05109","April",2020,3716,4075,359
+"05","AR","Arkansas","Phillips County","County","05107","April",2020,5312,6170,858
+"05","AR","Arkansas","Perry County","County","05105","April",2020,3625,4022,397
+"05","AR","Arkansas","Ouachita County","County","05103","April",2020,8523,9436,913
+"05","AR","Arkansas","Newton County","County","05101","April",2020,2933,3228,295
+"05","AR","Arkansas","Nevada County","County","05099","April",2020,3159,3478,319
+"05","AR","Arkansas","Montgomery County","County","05097","April",2020,2483,2773,290
+"05","AR","Arkansas","Monroe County","County","05095","April",2020,2391,2611,220
+"05","AR","Arkansas","Mississippi County","County","05093","April",2020,14822,17062,2240
+"05","AR","Arkansas","Miller County","County","05091","April",2020,16444,19080,2636
+"05","AR","Arkansas","Marion County","County","05089","April",2020,5763,6331,568
+"05","AR","Arkansas","Madison County","County","05087","April",2020,6507,6911,404
+"05","AR","Arkansas","Lonoke County","County","05085","April",2020,29506,32581,3075
+"05","AR","Arkansas","Logan County","County","05083","April",2020,7208,8235,1027
+"05","AR","Arkansas","Little River County","County","05081","April",2020,4586,5143,557
+"05","AR","Arkansas","Lincoln County","County","05079","April",2020,3352,3693,341
+"05","AR","Arkansas","Lee County","County","05077","April",2020,2383,2648,265
+"05","AR","Arkansas","Lawrence County","County","05075","April",2020,6060,6697,637
+"05","AR","Arkansas","Lafayette County","County","05073","April",2020,2114,2360,246
+"05","AR","Arkansas","Johnson County","County","05071","April",2020,8857,9989,1132
+"05","AR","Arkansas","Jefferson County","County","05069","April",2020,23272,26039,2767
+"05","AR","Arkansas","Jackson County","County","05067","April",2020,4835,5402,567
+"05","AR","Arkansas","Izard County","County","05065","April",2020,4152,4814,662
+"05","AR","Arkansas","Independence County","County","05063","April",2020,14711,16688,1977
+"05","AR","Arkansas","Howard County","County","05061","April",2020,4898,5333,435
+"05","AR","Arkansas","Hot Spring County","County","05059","April",2020,12075,13492,1417
+"05","AR","Arkansas","Hempstead County","County","05057","April",2020,8596,9412,816
+"05","AR","Arkansas","Greene County","County","05055","April",2020,17578,19693,2115
+"05","AR","Arkansas","Grant County","County","05053","April",2020,7200,7851,651
+"05","AR","Arkansas","Garland County","County","05051","April",2020,33887,40003,6116
+"05","AR","Arkansas","Fulton County","County","05049","April",2020,4420,4781,361
+"05","AR","Arkansas","Franklin County","County","05047","April",2020,6553,7186,633
+"05","AR","Arkansas","Faulkner County","County","05045","April",2020,53537,60024,6487
+"05","AR","Arkansas","Drew County","County","05043","April",2020,6712,7528,816
+"05","AR","Arkansas","Desha County","County","05041","April",2020,4617,5106,489
+"05","AR","Arkansas","Dallas County","County","05039","April",2020,2411,2656,245
+"05","AR","Arkansas","Cross County","County","05037","April",2020,6478,7240,762
+"05","AR","Arkansas","Crittenden County","County","05035","April",2020,18020,20921,2901
+"05","AR","Arkansas","Crawford County","County","05033","April",2020,23208,25653,2445
+"05","AR","Arkansas","Craighead County","County","05031","April",2020,49399,54418,5019
+"05","AR","Arkansas","Conway County","County","05029","April",2020,7194,8107,913
+"05","AR","Arkansas","Columbia County","County","05027","April",2020,8131,8983,852
+"05","AR","Arkansas","Cleveland County","County","05025","April",2020,2745,3021,276
+"05","AR","Arkansas","Cleburne County","County","05023","April",2020,7844,9334,1490
+"05","AR","Arkansas","Clay County","County","05021","April",2020,4859,5334,475
+"05","AR","Arkansas","Clark County","County","05019","April",2020,8452,9312,860
+"05","AR","Arkansas","Chicot County","County","05017","April",2020,2644,3075,431
+"05","AR","Arkansas","Carroll County","County","05015","April",2020,11231,12569,1338
+"05","AR","Arkansas","Calhoun County","County","05013","April",2020,2139,2311,172
+"05","AR","Arkansas","Bradley County","County","05011","April",2020,3919,4393,474
+"05","AR","Arkansas","Boone County","County","05009","April",2020,14181,15883,1702
+"05","AR","Arkansas","Benton County","County","05007","April",2020,120253,130669,10416
+"05","AR","Arkansas","Baxter County","County","05005","April",2020,14207,15910,1703
+"05","AR","Arkansas","Ashley County","County","05003","April",2020,6320,7234,914
+"05","AR","Arkansas","Arkansas County","County","05001","April",2020,8368,8817,449
+"05","AR","Arkansas","Arkansas","State",NA,"April",2020,1174337,1309020,134683
+"05","AR","Arkansas","West Memphis","City",NA,"March",2020,10031,10679,648
+"05","AR","Arkansas","Van Buren","City",NA,"March",2020,10012,10477,465
+"05","AR","Arkansas","Texarkana","City",NA,"March",2020,13067,13875,808
+"05","AR","Arkansas","Springdale","City",NA,"March",2020,39030,40382,1352
+"05","AR","Arkansas","Sherwood","City",NA,"March",2020,15382,16137,755
+"05","AR","Arkansas","Searcy","City",NA,"March",2020,9875,10437,562
+"05","AR","Arkansas","Russellville","City",NA,"March",2020,12989,13667,678
+"05","AR","Arkansas","Rogers","City",NA,"March",2020,35270,36517,1247
+"05","AR","Arkansas","Pine Bluff","City",NA,"March",2020,15293,16628,1335
+"05","AR","Arkansas","Paragould","City",NA,"March",2020,12323,12989,666
+"05","AR","Arkansas","North Little Rock","City",NA,"March",2020,28496,30100,1604
+"05","AR","Arkansas","Little Rock","City",NA,"March",2020,92883,97328,4445
+"05","AR","Arkansas","Jonesboro","City",NA,"March",2020,38637,40209,1572
+"05","AR","Arkansas","Jacksonville","City",NA,"March",2020,11037,11810,773
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"March",2020,14237,15019,782
+"05","AR","Arkansas","Fort Smith","City",NA,"March",2020,37649,39399,1750
+"05","AR","Arkansas","Fayetteville","City",NA,"March",2020,47381,48966,1585
+"05","AR","Arkansas","El Dorado","City",NA,"March",2020,6430,6999,569
+"05","AR","Arkansas","Conway","City",NA,"March",2020,32491,33891,1400
+"05","AR","Arkansas","Cabot","City",NA,"March",2020,11651,12145,494
+"05","AR","Arkansas","Blytheville","City",NA,"March",2020,5515,6008,493
+"05","AR","Arkansas","Bentonville","City",NA,"March",2020,26643,27489,846
+"05","AR","Arkansas","Benton","City",NA,"March",2020,16782,17498,716
+"05","AR","Arkansas","Bella Vista","City",NA,"March",2020,11948,12531,583
+"05","AR","Arkansas","Yell County","County","05149","March",2020,8170,8580,410
+"05","AR","Arkansas","Woodruff County","County","05147","March",2020,2604,2793,189
+"05","AR","Arkansas","White County","County","05145","March",2020,32391,34629,2238
+"05","AR","Arkansas","Washington County","County","05143","March",2020,123300,127460,4160
+"05","AR","Arkansas","Van Buren County","County","05141","March",2020,5480,5875,395
+"05","AR","Arkansas","Union County","County","05139","March",2020,14843,16029,1186
+"05","AR","Arkansas","Stone County","County","05137","March",2020,4445,4746,301
+"05","AR","Arkansas","Sharp County","County","05135","March",2020,5512,5914,402
+"05","AR","Arkansas","Sevier County","County","05133","March",2020,5342,5718,376
+"05","AR","Arkansas","Sebastian County","County","05131","March",2020,54255,56856,2601
+"05","AR","Arkansas","Searcy County","County","05129","March",2020,2747,2946,199
+"05","AR","Arkansas","Scott County","County","05127","March",2020,4267,4463,196
+"05","AR","Arkansas","Saline County","County","05125","March",2020,56419,58736,2317
+"05","AR","Arkansas","St. Francis County","County","05123","March",2020,7752,8310,558
+"05","AR","Arkansas","Randolph County","County","05121","March",2020,7190,7607,417
+"05","AR","Arkansas","Pulaski County","County","05119","March",2020,180437,189472,9035
+"05","AR","Arkansas","Prairie County","County","05117","March",2020,3449,3674,225
+"05","AR","Arkansas","Pope County","County","05115","March",2020,27938,29388,1450
+"05","AR","Arkansas","Polk County","County","05113","March",2020,7755,8327,572
+"05","AR","Arkansas","Poinsett County","County","05111","March",2020,10069,10585,516
+"05","AR","Arkansas","Pike County","County","05109","March",2020,4083,4318,235
+"05","AR","Arkansas","Phillips County","County","05107","March",2020,5878,6404,526
+"05","AR","Arkansas","Perry County","County","05105","March",2020,4037,4260,223
+"05","AR","Arkansas","Ouachita County","County","05103","March",2020,9353,9998,645
+"05","AR","Arkansas","Newton County","County","05101","March",2020,3259,3429,170
+"05","AR","Arkansas","Nevada County","County","05099","March",2020,3475,3671,196
+"05","AR","Arkansas","Montgomery County","County","05097","March",2020,2797,3010,213
+"05","AR","Arkansas","Monroe County","County","05095","March",2020,2637,2807,170
+"05","AR","Arkansas","Mississippi County","County","05093","March",2020,16375,17667,1292
+"05","AR","Arkansas","Miller County","County","05091","March",2020,19016,20133,1117
+"05","AR","Arkansas","Marion County","County","05089","March",2020,6377,6748,371
+"05","AR","Arkansas","Madison County","County","05087","March",2020,7321,7592,271
+"05","AR","Arkansas","Lonoke County","County","05085","March",2020,32776,34512,1736
+"05","AR","Arkansas","Logan County","County","05083","March",2020,8003,8486,483
+"05","AR","Arkansas","Little River County","County","05081","March",2020,5292,5627,335
+"05","AR","Arkansas","Lincoln County","County","05079","March",2020,3743,3995,252
+"05","AR","Arkansas","Lee County","County","05077","March",2020,2625,2841,216
+"05","AR","Arkansas","Lawrence County","County","05075","March",2020,6683,7061,378
+"05","AR","Arkansas","Lafayette County","County","05073","March",2020,2332,2492,160
+"05","AR","Arkansas","Johnson County","County","05071","March",2020,9836,10401,565
+"05","AR","Arkansas","Jefferson County","County","05069","March",2020,25883,27917,2034
+"05","AR","Arkansas","Jackson County","County","05067","March",2020,5362,5854,492
+"05","AR","Arkansas","Izard County","County","05065","March",2020,4613,5027,414
+"05","AR","Arkansas","Independence County","County","05063","March",2020,16245,17125,880
+"05","AR","Arkansas","Howard County","County","05061","March",2020,5428,5711,283
+"05","AR","Arkansas","Hot Spring County","County","05059","March",2020,13518,14185,667
+"05","AR","Arkansas","Hempstead County","County","05057","March",2020,9459,9993,534
+"05","AR","Arkansas","Greene County","County","05055","March",2020,19504,20503,999
+"05","AR","Arkansas","Grant County","County","05053","March",2020,7984,8389,405
+"05","AR","Arkansas","Garland County","County","05051","March",2020,40049,42119,2070
+"05","AR","Arkansas","Fulton County","County","05049","March",2020,4881,5140,259
+"05","AR","Arkansas","Franklin County","County","05047","March",2020,7244,7612,368
+"05","AR","Arkansas","Faulkner County","County","05045","March",2020,59495,62110,2615
+"05","AR","Arkansas","Drew County","County","05043","March",2020,7398,7960,562
+"05","AR","Arkansas","Desha County","County","05041","March",2020,5095,5427,332
+"05","AR","Arkansas","Dallas County","County","05039","March",2020,2669,2834,165
+"05","AR","Arkansas","Cross County","County","05037","March",2020,7131,7524,393
+"05","AR","Arkansas","Crittenden County","County","05035","March",2020,20465,21617,1152
+"05","AR","Arkansas","Crawford County","County","05033","March",2020,25752,26947,1195
+"05","AR","Arkansas","Craighead County","County","05031","March",2020,54886,57073,2187
+"05","AR","Arkansas","Conway County","County","05029","March",2020,7943,8425,482
+"05","AR","Arkansas","Columbia County","County","05027","March",2020,8938,9488,550
+"05","AR","Arkansas","Cleveland County","County","05025","March",2020,3062,3265,203
+"05","AR","Arkansas","Cleburne County","County","05023","March",2020,8685,9320,635
+"05","AR","Arkansas","Clay County","County","05021","March",2020,5342,5759,417
+"05","AR","Arkansas","Clark County","County","05019","March",2020,9326,9780,454
+"05","AR","Arkansas","Chicot County","County","05017","March",2020,2924,3263,339
+"05","AR","Arkansas","Carroll County","County","05015","March",2020,12284,12844,560
+"05","AR","Arkansas","Calhoun County","County","05013","March",2020,2351,2506,155
+"05","AR","Arkansas","Bradley County","County","05011","March",2020,4304,4547,243
+"05","AR","Arkansas","Boone County","County","05009","March",2020,15700,16427,727
+"05","AR","Arkansas","Benton County","County","05007","March",2020,135081,140012,4931
+"05","AR","Arkansas","Baxter County","County","05005","March",2020,15643,16509,866
+"05","AR","Arkansas","Ashley County","County","05003","March",2020,6951,7644,693
+"05","AR","Arkansas","Arkansas County","County","05001","March",2020,9223,9608,385
+"05","AR","Arkansas","Arkansas","State",NA,"March",2020,1311083,1378026,66943
+"05","AR","Arkansas","West Memphis","City",NA,"February",2020,10037,10570,533
+"05","AR","Arkansas","Van Buren","City",NA,"February",2020,10058,10442,384
+"05","AR","Arkansas","Texarkana","City",NA,"February",2020,13070,13695,625
+"05","AR","Arkansas","Springdale","City",NA,"February",2020,39016,40035,1019
+"05","AR","Arkansas","Sherwood","City",NA,"February",2020,15448,16013,565
+"05","AR","Arkansas","Searcy","City",NA,"February",2020,9776,10196,420
+"05","AR","Arkansas","Russellville","City",NA,"February",2020,12800,13308,508
+"05","AR","Arkansas","Rogers","City",NA,"February",2020,35274,36204,930
+"05","AR","Arkansas","Pine Bluff","City",NA,"February",2020,15356,16394,1038
+"05","AR","Arkansas","Paragould","City",NA,"February",2020,12313,12854,541
+"05","AR","Arkansas","North Little Rock","City",NA,"February",2020,28617,29947,1330
+"05","AR","Arkansas","Little Rock","City",NA,"February",2020,93280,96798,3518
+"05","AR","Arkansas","Jonesboro","City",NA,"February",2020,38546,39740,1194
+"05","AR","Arkansas","Jacksonville","City",NA,"February",2020,11084,11674,590
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"February",2020,14094,14720,626
+"05","AR","Arkansas","Fort Smith","City",NA,"February",2020,37775,39211,1436
+"05","AR","Arkansas","Fayetteville","City",NA,"February",2020,47362,48560,1198
+"05","AR","Arkansas","El Dorado","City",NA,"February",2020,6449,6908,459
+"05","AR","Arkansas","Conway","City",NA,"February",2020,32631,33728,1097
+"05","AR","Arkansas","Cabot","City",NA,"February",2020,11728,12130,402
+"05","AR","Arkansas","Blytheville","City",NA,"February",2020,5461,5868,407
+"05","AR","Arkansas","Bentonville","City",NA,"February",2020,26646,27330,684
+"05","AR","Arkansas","Benton","City",NA,"February",2020,16850,17372,522
+"05","AR","Arkansas","Bella Vista","City",NA,"February",2020,11949,12415,466
+"05","AR","Arkansas","Yell County","County","05149","February",2020,8103,8453,350
+"05","AR","Arkansas","Woodruff County","County","05147","February",2020,2611,2754,143
+"05","AR","Arkansas","White County","County","05145","February",2020,32067,33857,1790
+"05","AR","Arkansas","Washington County","County","05143","February",2020,123250,126433,3183
+"05","AR","Arkansas","Van Buren County","County","05141","February",2020,5347,5679,332
+"05","AR","Arkansas","Union County","County","05139","February",2020,14889,15839,950
+"05","AR","Arkansas","Stone County","County","05137","February",2020,4347,4608,261
+"05","AR","Arkansas","Sharp County","County","05135","February",2020,5387,5725,338
+"05","AR","Arkansas","Sevier County","County","05133","February",2020,5248,5548,300
+"05","AR","Arkansas","Sebastian County","County","05131","February",2020,54436,56513,2077
+"05","AR","Arkansas","Searcy County","County","05129","February",2020,2657,2828,171
+"05","AR","Arkansas","Scott County","County","05127","February",2020,4190,4355,165
+"05","AR","Arkansas","Saline County","County","05125","February",2020,56649,58468,1819
+"05","AR","Arkansas","St. Francis County","County","05123","February",2020,7686,8135,449
+"05","AR","Arkansas","Randolph County","County","05121","February",2020,7130,7469,339
+"05","AR","Arkansas","Pulaski County","County","05119","February",2020,181207,188399,7192
+"05","AR","Arkansas","Prairie County","County","05117","February",2020,3428,3589,161
+"05","AR","Arkansas","Pope County","County","05115","February",2020,27531,28800,1269
+"05","AR","Arkansas","Polk County","County","05113","February",2020,7785,8252,467
+"05","AR","Arkansas","Poinsett County","County","05111","February",2020,10091,10518,427
+"05","AR","Arkansas","Pike County","County","05109","February",2020,4067,4262,195
+"05","AR","Arkansas","Phillips County","County","05107","February",2020,5925,6384,459
+"05","AR","Arkansas","Perry County","County","05105","February",2020,4056,4239,183
+"05","AR","Arkansas","Ouachita County","County","05103","February",2020,9266,9808,542
+"05","AR","Arkansas","Newton County","County","05101","February",2020,3217,3362,145
+"05","AR","Arkansas","Nevada County","County","05099","February",2020,3479,3632,153
+"05","AR","Arkansas","Montgomery County","County","05097","February",2020,2772,2942,170
+"05","AR","Arkansas","Monroe County","County","05095","February",2020,2675,2811,136
+"05","AR","Arkansas","Mississippi County","County","05093","February",2020,16213,17244,1031
+"05","AR","Arkansas","Miller County","County","05091","February",2020,19021,19881,860
+"05","AR","Arkansas","Marion County","County","05089","February",2020,6343,6654,311
+"05","AR","Arkansas","Madison County","County","05087","February",2020,7363,7570,207
+"05","AR","Arkansas","Lonoke County","County","05085","February",2020,32994,34257,1263
+"05","AR","Arkansas","Logan County","County","05083","February",2020,8126,8535,409
+"05","AR","Arkansas","Little River County","County","05081","February",2020,5304,5589,285
+"05","AR","Arkansas","Lincoln County","County","05079","February",2020,3771,3982,211
+"05","AR","Arkansas","Lee County","County","05077","February",2020,2698,2876,178
+"05","AR","Arkansas","Lawrence County","County","05075","February",2020,6582,6904,322
+"05","AR","Arkansas","Lafayette County","County","05073","February",2020,2352,2480,128
+"05","AR","Arkansas","Johnson County","County","05071","February",2020,9776,10240,464
+"05","AR","Arkansas","Jefferson County","County","05069","February",2020,25990,27625,1635
+"05","AR","Arkansas","Jackson County","County","05067","February",2020,5462,5886,424
+"05","AR","Arkansas","Izard County","County","05065","February",2020,4563,4891,328
+"05","AR","Arkansas","Independence County","County","05063","February",2020,15911,16639,728
+"05","AR","Arkansas","Howard County","County","05061","February",2020,5573,5795,222
+"05","AR","Arkansas","Hot Spring County","County","05059","February",2020,13460,13988,528
+"05","AR","Arkansas","Hempstead County","County","05057","February",2020,9496,9925,429
+"05","AR","Arkansas","Greene County","County","05055","February",2020,19487,20317,830
+"05","AR","Arkansas","Grant County","County","05053","February",2020,8049,8378,329
+"05","AR","Arkansas","Garland County","County","05051","February",2020,39648,41317,1669
+"05","AR","Arkansas","Fulton County","County","05049","February",2020,4763,4980,217
+"05","AR","Arkansas","Franklin County","County","05047","February",2020,7196,7485,289
+"05","AR","Arkansas","Faulkner County","County","05045","February",2020,59751,61827,2076
+"05","AR","Arkansas","Drew County","County","05043","February",2020,7478,7955,477
+"05","AR","Arkansas","Desha County","County","05041","February",2020,5083,5361,278
+"05","AR","Arkansas","Dallas County","County","05039","February",2020,2690,2833,143
+"05","AR","Arkansas","Cross County","County","05037","February",2020,7066,7405,339
+"05","AR","Arkansas","Crittenden County","County","05035","February",2020,20476,21419,943
+"05","AR","Arkansas","Crawford County","County","05033","February",2020,25871,26862,991
+"05","AR","Arkansas","Craighead County","County","05031","February",2020,54756,56444,1688
+"05","AR","Arkansas","Conway County","County","05029","February",2020,7907,8302,395
+"05","AR","Arkansas","Columbia County","County","05027","February",2020,8764,9193,429
+"05","AR","Arkansas","Cleveland County","County","05025","February",2020,3083,3240,157
+"05","AR","Arkansas","Cleburne County","County","05023","February",2020,8611,9120,509
+"05","AR","Arkansas","Clay County","County","05021","February",2020,5324,5657,333
+"05","AR","Arkansas","Clark County","County","05019","February",2020,9362,9726,364
+"05","AR","Arkansas","Chicot County","County","05017","February",2020,2997,3283,286
+"05","AR","Arkansas","Carroll County","County","05015","February",2020,11938,12440,502
+"05","AR","Arkansas","Calhoun County","County","05013","February",2020,2343,2469,126
+"05","AR","Arkansas","Bradley County","County","05011","February",2020,4338,4534,196
+"05","AR","Arkansas","Boone County","County","05009","February",2020,15466,16041,575
+"05","AR","Arkansas","Benton County","County","05007","February",2020,135096,138984,3888
+"05","AR","Arkansas","Baxter County","County","05005","February",2020,15397,16097,700
+"05","AR","Arkansas","Ashley County","County","05003","February",2020,7209,7758,549
+"05","AR","Arkansas","Arkansas County","County","05001","February",2020,9032,9345,313
+"05","AR","Arkansas","Arkansas","State",NA,"February",2020,1309672,1363390,53718
+"05","AR","Arkansas","West Memphis","City",NA,"January",2020,9922,10486,564
+"05","AR","Arkansas","Van Buren","City",NA,"January",2020,9952,10351,399
+"05","AR","Arkansas","Texarkana","City",NA,"January",2020,12939,13606,667
+"05","AR","Arkansas","Springdale","City",NA,"January",2020,38469,39564,1095
+"05","AR","Arkansas","Sherwood","City",NA,"January",2020,15369,15938,569
+"05","AR","Arkansas","Searcy","City",NA,"January",2020,9682,10121,439
+"05","AR","Arkansas","Russellville","City",NA,"January",2020,12612,13173,561
+"05","AR","Arkansas","Rogers","City",NA,"January",2020,34783,35747,964
+"05","AR","Arkansas","Pine Bluff","City",NA,"January",2020,15072,16185,1113
+"05","AR","Arkansas","Paragould","City",NA,"January",2020,12128,12658,530
+"05","AR","Arkansas","North Little Rock","City",NA,"January",2020,28471,29777,1306
+"05","AR","Arkansas","Little Rock","City",NA,"January",2020,92802,96354,3552
+"05","AR","Arkansas","Jonesboro","City",NA,"January",2020,38045,39332,1287
+"05","AR","Arkansas","Jacksonville","City",NA,"January",2020,11028,11640,612
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"January",2020,13905,14593,688
+"05","AR","Arkansas","Fort Smith","City",NA,"January",2020,37399,38954,1555
+"05","AR","Arkansas","Fayetteville","City",NA,"January",2020,46697,47958,1261
+"05","AR","Arkansas","El Dorado","City",NA,"January",2020,6403,6919,516
+"05","AR","Arkansas","Conway","City",NA,"January",2020,32443,33608,1165
+"05","AR","Arkansas","Cabot","City",NA,"January",2020,11645,12073,428
+"05","AR","Arkansas","Blytheville","City",NA,"January",2020,5410,5806,396
+"05","AR","Arkansas","Bentonville","City",NA,"January",2020,26275,26949,674
+"05","AR","Arkansas","Benton","City",NA,"January",2020,16762,17305,543
+"05","AR","Arkansas","Bella Vista","City",NA,"January",2020,11782,12254,472
+"05","AR","Arkansas","Yell County","County","05149","January",2020,7956,8320,364
+"05","AR","Arkansas","Woodruff County","County","05147","January",2020,2584,2749,165
+"05","AR","Arkansas","White County","County","05145","January",2020,31757,33578,1821
+"05","AR","Arkansas","Washington County","County","05143","January",2020,121521,124899,3378
+"05","AR","Arkansas","Van Buren County","County","05141","January",2020,5311,5652,341
+"05","AR","Arkansas","Union County","County","05139","January",2020,14781,15801,1020
+"05","AR","Arkansas","Stone County","County","05137","January",2020,4284,4556,272
+"05","AR","Arkansas","Sharp County","County","05135","January",2020,5325,5666,341
+"05","AR","Arkansas","Sevier County","County","05133","January",2020,5174,5479,305
+"05","AR","Arkansas","Sebastian County","County","05131","January",2020,53894,56107,2213
+"05","AR","Arkansas","Searcy County","County","05129","January",2020,2618,2794,176
+"05","AR","Arkansas","Scott County","County","05127","January",2020,4129,4301,172
+"05","AR","Arkansas","Saline County","County","05125","January",2020,56352,58243,1891
+"05","AR","Arkansas","St. Francis County","County","05123","January",2020,7611,8076,465
+"05","AR","Arkansas","Randolph County","County","05121","January",2020,7006,7356,350
+"05","AR","Arkansas","Pulaski County","County","05119","January",2020,180280,187545,7265
+"05","AR","Arkansas","Prairie County","County","05117","January",2020,3383,3537,154
+"05","AR","Arkansas","Pope County","County","05115","January",2020,27127,28533,1406
+"05","AR","Arkansas","Polk County","County","05113","January",2020,7667,8152,485
+"05","AR","Arkansas","Poinsett County","County","05111","January",2020,9929,10379,450
+"05","AR","Arkansas","Pike County","County","05109","January",2020,4010,4209,199
+"05","AR","Arkansas","Phillips County","County","05107","January",2020,5868,6335,467
+"05","AR","Arkansas","Perry County","County","05105","January",2020,4024,4227,203
+"05","AR","Arkansas","Ouachita County","County","05103","January",2020,9181,9739,558
+"05","AR","Arkansas","Newton County","County","05101","January",2020,3165,3326,161
+"05","AR","Arkansas","Nevada County","County","05099","January",2020,3440,3588,148
+"05","AR","Arkansas","Montgomery County","County","05097","January",2020,2701,2877,176
+"05","AR","Arkansas","Monroe County","County","05095","January",2020,2630,2768,138
+"05","AR","Arkansas","Mississippi County","County","05093","January",2020,16062,17055,993
+"05","AR","Arkansas","Miller County","County","05091","January",2020,18830,19707,877
+"05","AR","Arkansas","Marion County","County","05089","January",2020,6274,6596,322
+"05","AR","Arkansas","Madison County","County","05087","January",2020,7223,7432,209
+"05","AR","Arkansas","Lonoke County","County","05085","January",2020,32760,33986,1226
+"05","AR","Arkansas","Logan County","County","05083","January",2020,8034,8487,453
+"05","AR","Arkansas","Little River County","County","05081","January",2020,5254,5528,274
+"05","AR","Arkansas","Lincoln County","County","05079","January",2020,3683,3897,214
+"05","AR","Arkansas","Lee County","County","05077","January",2020,2664,2845,181
+"05","AR","Arkansas","Lawrence County","County","05075","January",2020,6510,6834,324
+"05","AR","Arkansas","Lafayette County","County","05073","January",2020,2318,2452,134
+"05","AR","Arkansas","Johnson County","County","05071","January",2020,9681,10172,491
+"05","AR","Arkansas","Jefferson County","County","05069","January",2020,25509,27208,1699
+"05","AR","Arkansas","Jackson County","County","05067","January",2020,5380,5813,433
+"05","AR","Arkansas","Izard County","County","05065","January",2020,4474,4787,313
+"05","AR","Arkansas","Independence County","County","05063","January",2020,15736,16491,755
+"05","AR","Arkansas","Howard County","County","05061","January",2020,5493,5726,233
+"05","AR","Arkansas","Hot Spring County","County","05059","January",2020,13294,13840,546
+"05","AR","Arkansas","Hempstead County","County","05057","January",2020,9376,9816,440
+"05","AR","Arkansas","Greene County","County","05055","January",2020,19194,20018,824
+"05","AR","Arkansas","Grant County","County","05053","January",2020,7996,8319,323
+"05","AR","Arkansas","Garland County","County","05051","January",2020,39115,40802,1687
+"05","AR","Arkansas","Fulton County","County","05049","January",2020,4697,4918,221
+"05","AR","Arkansas","Franklin County","County","05047","January",2020,7108,7394,286
+"05","AR","Arkansas","Faulkner County","County","05045","January",2020,59407,61559,2152
+"05","AR","Arkansas","Drew County","County","05043","January",2020,7402,7883,481
+"05","AR","Arkansas","Desha County","County","05041","January",2020,5028,5309,281
+"05","AR","Arkansas","Dallas County","County","05039","January",2020,2675,2815,140
+"05","AR","Arkansas","Cross County","County","05037","January",2020,6968,7326,358
+"05","AR","Arkansas","Crittenden County","County","05035","January",2020,20242,21248,1006
+"05","AR","Arkansas","Crawford County","County","05033","January",2020,25597,26619,1022
+"05","AR","Arkansas","Craighead County","County","05031","January",2020,54045,55856,1811
+"05","AR","Arkansas","Conway County","County","05029","January",2020,7846,8256,410
+"05","AR","Arkansas","Columbia County","County","05027","January",2020,8658,9109,451
+"05","AR","Arkansas","Cleveland County","County","05025","January",2020,3015,3179,164
+"05","AR","Arkansas","Cleburne County","County","05023","January",2020,8478,8993,515
+"05","AR","Arkansas","Clay County","County","05021","January",2020,5247,5581,334
+"05","AR","Arkansas","Clark County","County","05019","January",2020,9124,9520,396
+"05","AR","Arkansas","Chicot County","County","05017","January",2020,2959,3244,285
+"05","AR","Arkansas","Carroll County","County","05015","January",2020,11744,12291,547
+"05","AR","Arkansas","Calhoun County","County","05013","January",2020,2312,2436,124
+"05","AR","Arkansas","Bradley County","County","05011","January",2020,4284,4491,207
+"05","AR","Arkansas","Boone County","County","05009","January",2020,15266,15882,616
+"05","AR","Arkansas","Benton County","County","05007","January",2020,133215,137257,4042
+"05","AR","Arkansas","Baxter County","County","05005","January",2020,15255,16005,750
+"05","AR","Arkansas","Ashley County","County","05003","January",2020,7131,7675,544
+"05","AR","Arkansas","Arkansas County","County","05001","January",2020,8924,9260,336
+"05","AR","Arkansas","Arkansas","State",NA,"January",2020,1295198,1350711,55513
+"05","AR","Arkansas","West Memphis","City",NA,"December",2019,10072,10532,460
+"05","AR","Arkansas","Van Buren","City",NA,"December",2019,10078,10385,307
+"05","AR","Arkansas","Texarkana","City",NA,"December",2019,13043,13603,560
+"05","AR","Arkansas","Springdale","City",NA,"December",2019,38828,39679,851
+"05","AR","Arkansas","Sherwood","City",NA,"December",2019,15500,15954,454
+"05","AR","Arkansas","Searcy","City",NA,"December",2019,9841,10182,341
+"05","AR","Arkansas","Russellville","City",NA,"December",2019,12875,13337,462
+"05","AR","Arkansas","Rogers","City",NA,"December",2019,35109,35886,777
+"05","AR","Arkansas","Pine Bluff","City",NA,"December",2019,15381,16355,974
+"05","AR","Arkansas","Paragould","City",NA,"December",2019,12205,12638,433
+"05","AR","Arkansas","North Little Rock","City",NA,"December",2019,28714,29877,1163
+"05","AR","Arkansas","Little Rock","City",NA,"December",2019,93594,96600,3006
+"05","AR","Arkansas","Jonesboro","City",NA,"December",2019,38379,39391,1012
+"05","AR","Arkansas","Jacksonville","City",NA,"December",2019,11122,11713,591
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"December",2019,13867,14434,567
+"05","AR","Arkansas","Fort Smith","City",NA,"December",2019,37858,39102,1244
+"05","AR","Arkansas","Fayetteville","City",NA,"December",2019,47134,48244,1110
+"05","AR","Arkansas","El Dorado","City",NA,"December",2019,6475,6854,379
+"05","AR","Arkansas","Conway","City",NA,"December",2019,32729,33653,924
+"05","AR","Arkansas","Cabot","City",NA,"December",2019,11757,12133,376
+"05","AR","Arkansas","Blytheville","City",NA,"December",2019,5531,5891,360
+"05","AR","Arkansas","Bentonville","City",NA,"December",2019,26521,27074,553
+"05","AR","Arkansas","Benton","City",NA,"December",2019,16905,17356,451
+"05","AR","Arkansas","Bella Vista","City",NA,"December",2019,11893,12248,355
+"05","AR","Arkansas","Yell County","County","05149","December",2019,8135,8418,283
+"05","AR","Arkansas","Woodruff County","County","05147","December",2019,2634,2773,139
+"05","AR","Arkansas","White County","County","05145","December",2019,32279,33765,1486
+"05","AR","Arkansas","Washington County","County","05143","December",2019,122658,125398,2740
+"05","AR","Arkansas","Van Buren County","County","05141","December",2019,5353,5636,283
+"05","AR","Arkansas","Union County","County","05139","December",2019,14947,15788,841
+"05","AR","Arkansas","Stone County","County","05137","December",2019,4402,4613,211
+"05","AR","Arkansas","Sharp County","County","05135","December",2019,5387,5670,283
+"05","AR","Arkansas","Sevier County","County","05133","December",2019,5270,5528,258
+"05","AR","Arkansas","Sebastian County","County","05131","December",2019,54555,56319,1764
+"05","AR","Arkansas","Searcy County","County","05129","December",2019,2674,2819,145
+"05","AR","Arkansas","Scott County","County","05127","December",2019,4176,4320,144
+"05","AR","Arkansas","Saline County","County","05125","December",2019,56834,58378,1544
+"05","AR","Arkansas","St. Francis County","County","05123","December",2019,7716,8095,379
+"05","AR","Arkansas","Randolph County","County","05121","December",2019,7071,7363,292
+"05","AR","Arkansas","Pulaski County","County","05119","December",2019,181818,188032,6214
+"05","AR","Arkansas","Prairie County","County","05117","December",2019,3442,3599,157
+"05","AR","Arkansas","Pope County","County","05115","December",2019,27693,28903,1210
+"05","AR","Arkansas","Polk County","County","05113","December",2019,7803,8162,359
+"05","AR","Arkansas","Poinsett County","County","05111","December",2019,10037,10386,349
+"05","AR","Arkansas","Pike County","County","05109","December",2019,4066,4227,161
+"05","AR","Arkansas","Phillips County","County","05107","December",2019,5938,6329,391
+"05","AR","Arkansas","Perry County","County","05105","December",2019,4063,4215,152
+"05","AR","Arkansas","Ouachita County","County","05103","December",2019,9292,9774,482
+"05","AR","Arkansas","Newton County","County","05101","December",2019,3213,3325,112
+"05","AR","Arkansas","Nevada County","County","05099","December",2019,3471,3600,129
+"05","AR","Arkansas","Montgomery County","County","05097","December",2019,2762,2891,129
+"05","AR","Arkansas","Monroe County","County","05095","December",2019,2622,2747,125
+"05","AR","Arkansas","Mississippi County","County","05093","December",2019,16421,17257,836
+"05","AR","Arkansas","Miller County","County","05091","December",2019,18982,19724,742
+"05","AR","Arkansas","Marion County","County","05089","December",2019,6321,6579,258
+"05","AR","Arkansas","Madison County","County","05087","December",2019,7313,7481,168
+"05","AR","Arkansas","Lonoke County","County","05085","December",2019,33076,34203,1127
+"05","AR","Arkansas","Logan County","County","05083","December",2019,8167,8551,384
+"05","AR","Arkansas","Little River County","County","05081","December",2019,5297,5523,226
+"05","AR","Arkansas","Lincoln County","County","05079","December",2019,3766,3932,166
+"05","AR","Arkansas","Lee County","County","05077","December",2019,2707,2838,131
+"05","AR","Arkansas","Lawrence County","County","05075","December",2019,6560,6835,275
+"05","AR","Arkansas","Lafayette County","County","05073","December",2019,2343,2439,96
+"05","AR","Arkansas","Johnson County","County","05071","December",2019,9824,10216,392
+"05","AR","Arkansas","Jefferson County","County","05069","December",2019,26032,27477,1445
+"05","AR","Arkansas","Jackson County","County","05067","December",2019,5464,5871,407
+"05","AR","Arkansas","Izard County","County","05065","December",2019,4612,4900,288
+"05","AR","Arkansas","Independence County","County","05063","December",2019,15937,16555,618
+"05","AR","Arkansas","Howard County","County","05061","December",2019,5545,5743,198
+"05","AR","Arkansas","Hot Spring County","County","05059","December",2019,13445,13898,453
+"05","AR","Arkansas","Hempstead County","County","05057","December",2019,9467,9825,358
+"05","AR","Arkansas","Greene County","County","05055","December",2019,19316,19978,662
+"05","AR","Arkansas","Grant County","County","05053","December",2019,8072,8323,251
+"05","AR","Arkansas","Garland County","County","05051","December",2019,39008,40408,1400
+"05","AR","Arkansas","Fulton County","County","05049","December",2019,4758,4931,173
+"05","AR","Arkansas","Franklin County","County","05047","December",2019,7179,7417,238
+"05","AR","Arkansas","Faulkner County","County","05045","December",2019,59931,61703,1772
+"05","AR","Arkansas","Drew County","County","05043","December",2019,7548,7936,388
+"05","AR","Arkansas","Desha County","County","05041","December",2019,5147,5382,235
+"05","AR","Arkansas","Dallas County","County","05039","December",2019,2703,2826,123
+"05","AR","Arkansas","Cross County","County","05037","December",2019,7091,7395,304
+"05","AR","Arkansas","Crittenden County","County","05035","December",2019,20548,21355,807
+"05","AR","Arkansas","Crawford County","County","05033","December",2019,25922,26734,812
+"05","AR","Arkansas","Craighead County","County","05031","December",2019,54519,55922,1403
+"05","AR","Arkansas","Conway County","County","05029","December",2019,7951,8284,333
+"05","AR","Arkansas","Columbia County","County","05027","December",2019,8784,9151,367
+"05","AR","Arkansas","Cleveland County","County","05025","December",2019,3081,3208,127
+"05","AR","Arkansas","Cleburne County","County","05023","December",2019,8638,9065,427
+"05","AR","Arkansas","Clay County","County","05021","December",2019,5341,5625,284
+"05","AR","Arkansas","Clark County","County","05019","December",2019,9415,9756,341
+"05","AR","Arkansas","Chicot County","County","05017","December",2019,3041,3259,218
+"05","AR","Arkansas","Carroll County","County","05015","December",2019,12203,12565,362
+"05","AR","Arkansas","Calhoun County","County","05013","December",2019,2345,2441,96
+"05","AR","Arkansas","Bradley County","County","05011","December",2019,4332,4489,157
+"05","AR","Arkansas","Boone County","County","05009","December",2019,15475,15960,485
+"05","AR","Arkansas","Benton County","County","05007","December",2019,134463,137770,3307
+"05","AR","Arkansas","Baxter County","County","05005","December",2019,15523,16140,617
+"05","AR","Arkansas","Ashley County","County","05003","December",2019,7158,7585,427
+"05","AR","Arkansas","Arkansas County","County","05001","December",2019,9136,9419,283
+"05","AR","Arkansas","Arkansas","State",NA,"December",2019,1310216,1355941,45725
+"05","AR","Arkansas","West Memphis","City",NA,"November",2019,10178,10611,433
+"05","AR","Arkansas","Van Buren","City",NA,"November",2019,10168,10449,281
+"05","AR","Arkansas","Texarkana","City",NA,"November",2019,13112,13622,510
+"05","AR","Arkansas","Springdale","City",NA,"November",2019,39157,39981,824
+"05","AR","Arkansas","Sherwood","City",NA,"November",2019,15644,16069,425
+"05","AR","Arkansas","Searcy","City",NA,"November",2019,9889,10209,320
+"05","AR","Arkansas","Russellville","City",NA,"November",2019,12974,13385,411
+"05","AR","Arkansas","Rogers","City",NA,"November",2019,35410,36152,742
+"05","AR","Arkansas","Pine Bluff","City",NA,"November",2019,15541,16497,956
+"05","AR","Arkansas","Paragould","City",NA,"November",2019,12286,12689,403
+"05","AR","Arkansas","North Little Rock","City",NA,"November",2019,28979,29984,1005
+"05","AR","Arkansas","Little Rock","City",NA,"November",2019,94460,97391,2931
+"05","AR","Arkansas","Jonesboro","City",NA,"November",2019,38721,39633,912
+"05","AR","Arkansas","Jacksonville","City",NA,"November",2019,11225,11724,499
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"November",2019,13983,14515,532
+"05","AR","Arkansas","Fort Smith","City",NA,"November",2019,38227,39367,1140
+"05","AR","Arkansas","Fayetteville","City",NA,"November",2019,47531,48600,1069
+"05","AR","Arkansas","El Dorado","City",NA,"November",2019,6502,6853,351
+"05","AR","Arkansas","Conway","City",NA,"November",2019,33009,33859,850
+"05","AR","Arkansas","Cabot","City",NA,"November",2019,11842,12194,352
+"05","AR","Arkansas","Blytheville","City",NA,"November",2019,5567,5857,290
+"05","AR","Arkansas","Bentonville","City",NA,"November",2019,26749,27280,531
+"05","AR","Arkansas","Benton","City",NA,"November",2019,17060,17492,432
+"05","AR","Arkansas","Bella Vista","City",NA,"November",2019,11995,12343,348
+"05","AR","Arkansas","Yell County","County","05149","November",2019,8160,8415,255
+"05","AR","Arkansas","Woodruff County","County","05147","November",2019,2625,2753,128
+"05","AR","Arkansas","White County","County","05145","November",2019,32436,33758,1322
+"05","AR","Arkansas","Washington County","County","05143","November",2019,123692,126299,2607
+"05","AR","Arkansas","Van Buren County","County","05141","November",2019,5415,5662,247
+"05","AR","Arkansas","Union County","County","05139","November",2019,15011,15776,765
+"05","AR","Arkansas","Stone County","County","05137","November",2019,4433,4623,190
+"05","AR","Arkansas","Sharp County","County","05135","November",2019,5428,5681,253
+"05","AR","Arkansas","Sevier County","County","05133","November",2019,5275,5498,223
+"05","AR","Arkansas","Sebastian County","County","05131","November",2019,55087,56702,1615
+"05","AR","Arkansas","Searcy County","County","05129","November",2019,2698,2814,116
+"05","AR","Arkansas","Scott County","County","05127","November",2019,4175,4307,132
+"05","AR","Arkansas","Saline County","County","05125","November",2019,57355,58825,1470
+"05","AR","Arkansas","St. Francis County","County","05123","November",2019,7766,8111,345
+"05","AR","Arkansas","Randolph County","County","05121","November",2019,7106,7345,239
+"05","AR","Arkansas","Pulaski County","County","05119","November",2019,183501,189276,5775
+"05","AR","Arkansas","Prairie County","County","05117","November",2019,3443,3576,133
+"05","AR","Arkansas","Pope County","County","05115","November",2019,27905,28922,1017
+"05","AR","Arkansas","Polk County","County","05113","November",2019,7823,8151,328
+"05","AR","Arkansas","Poinsett County","County","05111","November",2019,10089,10391,302
+"05","AR","Arkansas","Pike County","County","05109","November",2019,4059,4204,145
+"05","AR","Arkansas","Phillips County","County","05107","November",2019,5961,6306,345
+"05","AR","Arkansas","Perry County","County","05105","November",2019,4087,4221,134
+"05","AR","Arkansas","Ouachita County","County","05103","November",2019,9355,9787,432
+"05","AR","Arkansas","Newton County","County","05101","November",2019,3224,3323,99
+"05","AR","Arkansas","Nevada County","County","05099","November",2019,3504,3625,121
+"05","AR","Arkansas","Montgomery County","County","05097","November",2019,2766,2891,125
+"05","AR","Arkansas","Monroe County","County","05095","November",2019,2611,2718,107
+"05","AR","Arkansas","Mississippi County","County","05093","November",2019,16530,17233,703
+"05","AR","Arkansas","Miller County","County","05091","November",2019,19082,19772,690
+"05","AR","Arkansas","Marion County","County","05089","November",2019,6354,6573,219
+"05","AR","Arkansas","Madison County","County","05087","November",2019,7329,7490,161
+"05","AR","Arkansas","Lonoke County","County","05085","November",2019,33315,34303,988
+"05","AR","Arkansas","Logan County","County","05083","November",2019,8196,8532,336
+"05","AR","Arkansas","Little River County","County","05081","November",2019,5329,5541,212
+"05","AR","Arkansas","Lincoln County","County","05079","November",2019,3782,3927,145
+"05","AR","Arkansas","Lee County","County","05077","November",2019,2701,2820,119
+"05","AR","Arkansas","Lawrence County","County","05075","November",2019,6617,6868,251
+"05","AR","Arkansas","Lafayette County","County","05073","November",2019,2350,2450,100
+"05","AR","Arkansas","Johnson County","County","05071","November",2019,9900,10263,363
+"05","AR","Arkansas","Jefferson County","County","05069","November",2019,26303,27654,1351
+"05","AR","Arkansas","Jackson County","County","05067","November",2019,5484,5830,346
+"05","AR","Arkansas","Izard County","County","05065","November",2019,4620,4862,242
+"05","AR","Arkansas","Independence County","County","05063","November",2019,15952,16553,601
+"05","AR","Arkansas","Howard County","County","05061","November",2019,5537,5698,161
+"05","AR","Arkansas","Hot Spring County","County","05059","November",2019,13549,13983,434
+"05","AR","Arkansas","Hempstead County","County","05057","November",2019,9544,9869,325
+"05","AR","Arkansas","Greene County","County","05055","November",2019,19444,20052,608
+"05","AR","Arkansas","Grant County","County","05053","November",2019,8134,8379,245
+"05","AR","Arkansas","Garland County","County","05051","November",2019,39335,40659,1324
+"05","AR","Arkansas","Fulton County","County","05049","November",2019,4770,4925,155
+"05","AR","Arkansas","Franklin County","County","05047","November",2019,7239,7457,218
+"05","AR","Arkansas","Faulkner County","County","05045","November",2019,60443,62075,1632
+"05","AR","Arkansas","Drew County","County","05043","November",2019,7572,7935,363
+"05","AR","Arkansas","Desha County","County","05041","November",2019,5200,5410,210
+"05","AR","Arkansas","Dallas County","County","05039","November",2019,2714,2831,117
+"05","AR","Arkansas","Cross County","County","05037","November",2019,7120,7394,274
+"05","AR","Arkansas","Crittenden County","County","05035","November",2019,20765,21511,746
+"05","AR","Arkansas","Crawford County","County","05033","November",2019,26153,26895,742
+"05","AR","Arkansas","Craighead County","County","05031","November",2019,55005,56299,1294
+"05","AR","Arkansas","Conway County","County","05029","November",2019,7991,8289,298
+"05","AR","Arkansas","Columbia County","County","05027","November",2019,8868,9224,356
+"05","AR","Arkansas","Cleveland County","County","05025","November",2019,3098,3213,115
+"05","AR","Arkansas","Cleburne County","County","05023","November",2019,8709,9092,383
+"05","AR","Arkansas","Clay County","County","05021","November",2019,5368,5613,245
+"05","AR","Arkansas","Clark County","County","05019","November",2019,9483,9803,320
+"05","AR","Arkansas","Chicot County","County","05017","November",2019,3053,3239,186
+"05","AR","Arkansas","Carroll County","County","05015","November",2019,12402,12720,318
+"05","AR","Arkansas","Calhoun County","County","05013","November",2019,2352,2443,91
+"05","AR","Arkansas","Bradley County","County","05011","November",2019,4307,4453,146
+"05","AR","Arkansas","Boone County","County","05009","November",2019,15588,16031,443
+"05","AR","Arkansas","Benton County","County","05007","November",2019,135615,138707,3092
+"05","AR","Arkansas","Baxter County","County","05005","November",2019,15639,16191,552
+"05","AR","Arkansas","Ashley County","County","05003","November",2019,7196,7566,370
+"05","AR","Arkansas","Arkansas County","County","05001","November",2019,9129,9385,256
+"05","AR","Arkansas","Arkansas","State",NA,"November",2019,1320158,1361974,41816
+"05","AR","Arkansas","West Memphis","City",NA,"October",2019,10127,10593,466
+"05","AR","Arkansas","Van Buren","City",NA,"October",2019,10155,10450,295
+"05","AR","Arkansas","Texarkana","City",NA,"October",2019,13057,13554,497
+"05","AR","Arkansas","Springdale","City",NA,"October",2019,39261,40159,898
+"05","AR","Arkansas","Sherwood","City",NA,"October",2019,15682,16115,433
+"05","AR","Arkansas","Searcy","City",NA,"October",2019,9912,10238,326
+"05","AR","Arkansas","Russellville","City",NA,"October",2019,13034,13471,437
+"05","AR","Arkansas","Rogers","City",NA,"October",2019,35507,36297,790
+"05","AR","Arkansas","Pine Bluff","City",NA,"October",2019,15622,16574,952
+"05","AR","Arkansas","Paragould","City",NA,"October",2019,12337,12736,399
+"05","AR","Arkansas","North Little Rock","City",NA,"October",2019,29050,30046,996
+"05","AR","Arkansas","Little Rock","City",NA,"October",2019,94691,97643,2952
+"05","AR","Arkansas","Jonesboro","City",NA,"October",2019,38716,39683,967
+"05","AR","Arkansas","Jacksonville","City",NA,"October",2019,11252,11733,481
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"October",2019,14058,14636,578
+"05","AR","Arkansas","Fort Smith","City",NA,"October",2019,38138,39338,1200
+"05","AR","Arkansas","Fayetteville","City",NA,"October",2019,47658,48730,1072
+"05","AR","Arkansas","El Dorado","City",NA,"October",2019,6533,6893,360
+"05","AR","Arkansas","Conway","City",NA,"October",2019,33106,33975,869
+"05","AR","Arkansas","Cabot","City",NA,"October",2019,11899,12260,361
+"05","AR","Arkansas","Blytheville","City",NA,"October",2019,5625,5894,269
+"05","AR","Arkansas","Bentonville","City",NA,"October",2019,26822,27369,547
+"05","AR","Arkansas","Benton","City",NA,"October",2019,17102,17563,461
+"05","AR","Arkansas","Bella Vista","City",NA,"October",2019,12028,12375,347
+"05","AR","Arkansas","Yell County","County","05149","October",2019,8239,8507,268
+"05","AR","Arkansas","Woodruff County","County","05147","October",2019,2678,2803,125
+"05","AR","Arkansas","White County","County","05145","October",2019,32512,33766,1254
+"05","AR","Arkansas","Washington County","County","05143","October",2019,124020,126763,2743
+"05","AR","Arkansas","Van Buren County","County","05141","October",2019,5453,5698,245
+"05","AR","Arkansas","Union County","County","05139","October",2019,15082,15816,734
+"05","AR","Arkansas","Stone County","County","05137","October",2019,4504,4680,176
+"05","AR","Arkansas","Sharp County","County","05135","October",2019,5470,5723,253
+"05","AR","Arkansas","Sevier County","County","05133","October",2019,5311,5549,238
+"05","AR","Arkansas","Sebastian County","County","05131","October",2019,54959,56640,1681
+"05","AR","Arkansas","Searcy County","County","05129","October",2019,2728,2848,120
+"05","AR","Arkansas","Scott County","County","05127","October",2019,4212,4346,134
+"05","AR","Arkansas","Saline County","County","05125","October",2019,57494,59026,1532
+"05","AR","Arkansas","St. Francis County","County","05123","October",2019,7832,8181,349
+"05","AR","Arkansas","Randolph County","County","05121","October",2019,7152,7382,230
+"05","AR","Arkansas","Pulaski County","County","05119","October",2019,183949,189786,5837
+"05","AR","Arkansas","Prairie County","County","05117","October",2019,3484,3612,128
+"05","AR","Arkansas","Pope County","County","05115","October",2019,28034,29011,977
+"05","AR","Arkansas","Polk County","County","05113","October",2019,7837,8159,322
+"05","AR","Arkansas","Poinsett County","County","05111","October",2019,10131,10438,307
+"05","AR","Arkansas","Pike County","County","05109","October",2019,4098,4245,147
+"05","AR","Arkansas","Phillips County","County","05107","October",2019,6000,6336,336
+"05","AR","Arkansas","Perry County","County","05105","October",2019,4108,4245,137
+"05","AR","Arkansas","Ouachita County","County","05103","October",2019,9408,9840,432
+"05","AR","Arkansas","Newton County","County","05101","October",2019,3245,3342,97
+"05","AR","Arkansas","Nevada County","County","05099","October",2019,3520,3649,129
+"05","AR","Arkansas","Montgomery County","County","05097","October",2019,2819,2941,122
+"05","AR","Arkansas","Monroe County","County","05095","October",2019,2661,2767,106
+"05","AR","Arkansas","Mississippi County","County","05093","October",2019,16702,17393,691
+"05","AR","Arkansas","Miller County","County","05091","October",2019,19002,19685,683
+"05","AR","Arkansas","Marion County","County","05089","October",2019,6399,6636,237
+"05","AR","Arkansas","Madison County","County","05087","October",2019,7398,7577,179
+"05","AR","Arkansas","Lonoke County","County","05085","October",2019,33475,34462,987
+"05","AR","Arkansas","Logan County","County","05083","October",2019,8245,8597,352
+"05","AR","Arkansas","Little River County","County","05081","October",2019,5308,5519,211
+"05","AR","Arkansas","Lincoln County","County","05079","October",2019,3820,3967,147
+"05","AR","Arkansas","Lee County","County","05077","October",2019,2742,2854,112
+"05","AR","Arkansas","Lawrence County","County","05075","October",2019,6661,6897,236
+"05","AR","Arkansas","Lafayette County","County","05073","October",2019,2358,2463,105
+"05","AR","Arkansas","Johnson County","County","05071","October",2019,9862,10237,375
+"05","AR","Arkansas","Jefferson County","County","05069","October",2019,26440,27765,1325
+"05","AR","Arkansas","Jackson County","County","05067","October",2019,5540,5884,344
+"05","AR","Arkansas","Izard County","County","05065","October",2019,4644,4857,213
+"05","AR","Arkansas","Independence County","County","05063","October",2019,15977,16570,593
+"05","AR","Arkansas","Howard County","County","05061","October",2019,5578,5733,155
+"05","AR","Arkansas","Hot Spring County","County","05059","October",2019,13588,14049,461
+"05","AR","Arkansas","Hempstead County","County","05057","October",2019,9611,9943,332
+"05","AR","Arkansas","Greene County","County","05055","October",2019,19526,20130,604
+"05","AR","Arkansas","Grant County","County","05053","October",2019,8174,8417,243
+"05","AR","Arkansas","Garland County","County","05051","October",2019,39546,40921,1375
+"05","AR","Arkansas","Fulton County","County","05049","October",2019,4797,4956,159
+"05","AR","Arkansas","Franklin County","County","05047","October",2019,7328,7554,226
+"05","AR","Arkansas","Faulkner County","County","05045","October",2019,60622,62297,1675
+"05","AR","Arkansas","Drew County","County","05043","October",2019,7612,7952,340
+"05","AR","Arkansas","Desha County","County","05041","October",2019,5258,5462,204
+"05","AR","Arkansas","Dallas County","County","05039","October",2019,2729,2841,112
+"05","AR","Arkansas","Cross County","County","05037","October",2019,7195,7469,274
+"05","AR","Arkansas","Crittenden County","County","05035","October",2019,20660,21432,772
+"05","AR","Arkansas","Crawford County","County","05033","October",2019,26121,26915,794
+"05","AR","Arkansas","Craighead County","County","05031","October",2019,54998,56337,1339
+"05","AR","Arkansas","Conway County","County","05029","October",2019,8030,8340,310
+"05","AR","Arkansas","Columbia County","County","05027","October",2019,8889,9247,358
+"05","AR","Arkansas","Cleveland County","County","05025","October",2019,3128,3243,115
+"05","AR","Arkansas","Cleburne County","County","05023","October",2019,8779,9160,381
+"05","AR","Arkansas","Clay County","County","05021","October",2019,5429,5642,213
+"05","AR","Arkansas","Clark County","County","05019","October",2019,9493,9821,328
+"05","AR","Arkansas","Chicot County","County","05017","October",2019,3097,3279,182
+"05","AR","Arkansas","Carroll County","County","05015","October",2019,12749,13075,326
+"05","AR","Arkansas","Calhoun County","County","05013","October",2019,2377,2459,82
+"05","AR","Arkansas","Bradley County","County","05011","October",2019,4362,4516,154
+"05","AR","Arkansas","Boone County","County","05009","October",2019,15643,16101,458
+"05","AR","Arkansas","Benton County","County","05007","October",2019,135989,139190,3201
+"05","AR","Arkansas","Baxter County","County","05005","October",2019,15670,16215,545
+"05","AR","Arkansas","Ashley County","County","05003","October",2019,7265,7592,327
+"05","AR","Arkansas","Arkansas County","County","05001","October",2019,9211,9450,239
+"05","AR","Arkansas","Arkansas","State",NA,"October",2019,1324968,1367199,42231
+"05","AR","Arkansas","West Memphis","City",NA,"September",2019,10069,10588,519
+"05","AR","Arkansas","Van Buren","City",NA,"September",2019,10122,10414,292
+"05","AR","Arkansas","Texarkana","City",NA,"September",2019,13030,13573,543
+"05","AR","Arkansas","Springdale","City",NA,"September",2019,38969,39875,906
+"05","AR","Arkansas","Sherwood","City",NA,"September",2019,15588,16086,498
+"05","AR","Arkansas","Searcy","City",NA,"September",2019,9901,10264,363
+"05","AR","Arkansas","Russellville","City",NA,"September",2019,12965,13435,470
+"05","AR","Arkansas","Rogers","City",NA,"September",2019,35228,36083,855
+"05","AR","Arkansas","Pine Bluff","City",NA,"September",2019,15543,16546,1003
+"05","AR","Arkansas","Paragould","City",NA,"September",2019,12305,12750,445
+"05","AR","Arkansas","North Little Rock","City",NA,"September",2019,28877,29983,1106
+"05","AR","Arkansas","Little Rock","City",NA,"September",2019,94128,97170,3042
+"05","AR","Arkansas","Jonesboro","City",NA,"September",2019,38435,39484,1049
+"05","AR","Arkansas","Jacksonville","City",NA,"September",2019,11185,11759,574
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"September",2019,14073,14697,624
+"05","AR","Arkansas","Fort Smith","City",NA,"September",2019,38047,39335,1288
+"05","AR","Arkansas","Fayetteville","City",NA,"September",2019,47304,48464,1160
+"05","AR","Arkansas","El Dorado","City",NA,"September",2019,6522,6898,376
+"05","AR","Arkansas","Conway","City",NA,"September",2019,32912,33851,939
+"05","AR","Arkansas","Cabot","City",NA,"September",2019,11812,12194,382
+"05","AR","Arkansas","Blytheville","City",NA,"September",2019,5602,5932,330
+"05","AR","Arkansas","Bentonville","City",NA,"September",2019,26612,27220,608
+"05","AR","Arkansas","Benton","City",NA,"September",2019,17003,17486,483
+"05","AR","Arkansas","Bella Vista","City",NA,"September",2019,11933,12306,373
+"05","AR","Arkansas","Yell County","County","05149","September",2019,8170,8466,296
+"05","AR","Arkansas","Woodruff County","County","05147","September",2019,2660,2798,138
+"05","AR","Arkansas","White County","County","05145","September",2019,32475,33834,1359
+"05","AR","Arkansas","Washington County","County","05143","September",2019,123101,126003,2902
+"05","AR","Arkansas","Van Buren County","County","05141","September",2019,5502,5762,260
+"05","AR","Arkansas","Union County","County","05139","September",2019,15056,15826,770
+"05","AR","Arkansas","Stone County","County","05137","September",2019,4510,4690,180
+"05","AR","Arkansas","Sharp County","County","05135","September",2019,5514,5782,268
+"05","AR","Arkansas","Sevier County","County","05133","September",2019,5313,5569,256
+"05","AR","Arkansas","Sebastian County","County","05131","September",2019,54828,56617,1789
+"05","AR","Arkansas","Searcy County","County","05129","September",2019,2834,2964,130
+"05","AR","Arkansas","Scott County","County","05127","September",2019,4233,4376,143
+"05","AR","Arkansas","Saline County","County","05125","September",2019,57163,58765,1602
+"05","AR","Arkansas","St. Francis County","County","05123","September",2019,7812,8193,381
+"05","AR","Arkansas","Randolph County","County","05121","September",2019,7132,7375,243
+"05","AR","Arkansas","Pulaski County","County","05119","September",2019,182855,189092,6237
+"05","AR","Arkansas","Prairie County","County","05117","September",2019,3475,3639,164
+"05","AR","Arkansas","Pope County","County","05115","September",2019,27885,29000,1115
+"05","AR","Arkansas","Polk County","County","05113","September",2019,7847,8200,353
+"05","AR","Arkansas","Poinsett County","County","05111","September",2019,10033,10359,326
+"05","AR","Arkansas","Pike County","County","05109","September",2019,4142,4290,148
+"05","AR","Arkansas","Phillips County","County","05107","September",2019,5955,6317,362
+"05","AR","Arkansas","Perry County","County","05105","September",2019,4085,4232,147
+"05","AR","Arkansas","Ouachita County","County","05103","September",2019,9366,9813,447
+"05","AR","Arkansas","Newton County","County","05101","September",2019,3234,3342,108
+"05","AR","Arkansas","Nevada County","County","05099","September",2019,3530,3670,140
+"05","AR","Arkansas","Montgomery County","County","05097","September",2019,2868,2997,129
+"05","AR","Arkansas","Monroe County","County","05095","September",2019,2662,2776,114
+"05","AR","Arkansas","Mississippi County","County","05093","September",2019,16634,17407,773
+"05","AR","Arkansas","Miller County","County","05091","September",2019,18963,19693,730
+"05","AR","Arkansas","Marion County","County","05089","September",2019,6477,6739,262
+"05","AR","Arkansas","Madison County","County","05087","September",2019,7320,7503,183
+"05","AR","Arkansas","Lonoke County","County","05085","September",2019,33229,34427,1198
+"05","AR","Arkansas","Logan County","County","05083","September",2019,8219,8599,380
+"05","AR","Arkansas","Little River County","County","05081","September",2019,5286,5507,221
+"05","AR","Arkansas","Lincoln County","County","05079","September",2019,3796,3954,158
+"05","AR","Arkansas","Lee County","County","05077","September",2019,2706,2827,121
+"05","AR","Arkansas","Lawrence County","County","05075","September",2019,6634,6901,267
+"05","AR","Arkansas","Lafayette County","County","05073","September",2019,2329,2443,114
+"05","AR","Arkansas","Johnson County","County","05071","September",2019,9822,10236,414
+"05","AR","Arkansas","Jefferson County","County","05069","September",2019,26306,27741,1435
+"05","AR","Arkansas","Jackson County","County","05067","September",2019,5462,5812,350
+"05","AR","Arkansas","Izard County","County","05065","September",2019,4700,4948,248
+"05","AR","Arkansas","Independence County","County","05063","September",2019,16000,16639,639
+"05","AR","Arkansas","Howard County","County","05061","September",2019,5568,5728,160
+"05","AR","Arkansas","Hot Spring County","County","05059","September",2019,13543,14025,482
+"05","AR","Arkansas","Hempstead County","County","05057","September",2019,9615,9964,349
+"05","AR","Arkansas","Greene County","County","05055","September",2019,19475,20142,667
+"05","AR","Arkansas","Grant County","County","05053","September",2019,8105,8360,255
+"05","AR","Arkansas","Garland County","County","05051","September",2019,39588,41040,1452
+"05","AR","Arkansas","Fulton County","County","05049","September",2019,4857,5036,179
+"05","AR","Arkansas","Franklin County","County","05047","September",2019,7320,7565,245
+"05","AR","Arkansas","Faulkner County","County","05045","September",2019,60266,62060,1794
+"05","AR","Arkansas","Drew County","County","05043","September",2019,7570,7923,353
+"05","AR","Arkansas","Desha County","County","05041","September",2019,5138,5359,221
+"05","AR","Arkansas","Dallas County","County","05039","September",2019,2697,2820,123
+"05","AR","Arkansas","Cross County","County","05037","September",2019,7186,7470,284
+"05","AR","Arkansas","Crittenden County","County","05035","September",2019,20541,21402,861
+"05","AR","Arkansas","Crawford County","County","05033","September",2019,26036,26879,843
+"05","AR","Arkansas","Craighead County","County","05031","September",2019,54599,56047,1448
+"05","AR","Arkansas","Conway County","County","05029","September",2019,8025,8372,347
+"05","AR","Arkansas","Columbia County","County","05027","September",2019,8858,9239,381
+"05","AR","Arkansas","Cleveland County","County","05025","September",2019,3107,3216,109
+"05","AR","Arkansas","Cleburne County","County","05023","September",2019,8885,9280,395
+"05","AR","Arkansas","Clay County","County","05021","September",2019,5430,5672,242
+"05","AR","Arkansas","Clark County","County","05019","September",2019,9467,9813,346
+"05","AR","Arkansas","Chicot County","County","05017","September",2019,3091,3289,198
+"05","AR","Arkansas","Carroll County","County","05015","September",2019,12761,13110,349
+"05","AR","Arkansas","Calhoun County","County","05013","September",2019,2357,2442,85
+"05","AR","Arkansas","Bradley County","County","05011","September",2019,4368,4527,159
+"05","AR","Arkansas","Boone County","County","05009","September",2019,15588,16078,490
+"05","AR","Arkansas","Benton County","County","05007","September",2019,134921,138373,3452
+"05","AR","Arkansas","Baxter County","County","05005","September",2019,15745,16339,594
+"05","AR","Arkansas","Ashley County","County","05003","September",2019,7238,7591,353
+"05","AR","Arkansas","Arkansas County","County","05001","September",2019,9173,9418,245
+"05","AR","Arkansas","Arkansas","State",NA,"September",2019,1319239,1364706,45467
+"05","AR","Arkansas","West Memphis","City",NA,"August",2019,10166,10712,546
+"05","AR","Arkansas","Van Buren","City",NA,"August",2019,10127,10474,347
+"05","AR","Arkansas","Texarkana","City",NA,"August",2019,12979,13576,597
+"05","AR","Arkansas","Springdale","City",NA,"August",2019,38696,39706,1010
+"05","AR","Arkansas","Sherwood","City",NA,"August",2019,15717,16236,519
+"05","AR","Arkansas","Searcy","City",NA,"August",2019,9842,10250,408
+"05","AR","Arkansas","Russellville","City",NA,"August",2019,12561,13066,505
+"05","AR","Arkansas","Rogers","City",NA,"August",2019,34978,35902,924
+"05","AR","Arkansas","Pine Bluff","City",NA,"August",2019,15470,16590,1120
+"05","AR","Arkansas","Paragould","City",NA,"August",2019,12162,12654,492
+"05","AR","Arkansas","North Little Rock","City",NA,"August",2019,29115,30204,1089
+"05","AR","Arkansas","Little Rock","City",NA,"August",2019,94903,98269,3366
+"05","AR","Arkansas","Jonesboro","City",NA,"August",2019,38058,39181,1123
+"05","AR","Arkansas","Jacksonville","City",NA,"August",2019,11277,11820,543
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"August",2019,14294,14960,666
+"05","AR","Arkansas","Fort Smith","City",NA,"August",2019,38071,39428,1357
+"05","AR","Arkansas","Fayetteville","City",NA,"August",2019,46974,48302,1328
+"05","AR","Arkansas","El Dorado","City",NA,"August",2019,6471,6906,435
+"05","AR","Arkansas","Conway","City",NA,"August",2019,33182,34204,1022
+"05","AR","Arkansas","Cabot","City",NA,"August",2019,11901,12306,405
+"05","AR","Arkansas","Blytheville","City",NA,"August",2019,5551,5994,443
+"05","AR","Arkansas","Bentonville","City",NA,"August",2019,26422,27098,676
+"05","AR","Arkansas","Benton","City",NA,"August",2019,17144,17696,552
+"05","AR","Arkansas","Bella Vista","City",NA,"August",2019,11848,12245,397
+"05","AR","Arkansas","Yell County","County","05149","August",2019,7927,8274,347
+"05","AR","Arkansas","Woodruff County","County","05147","August",2019,2657,2806,149
+"05","AR","Arkansas","White County","County","05145","August",2019,32281,33680,1399
+"05","AR","Arkansas","Washington County","County","05143","August",2019,122242,125489,3247
+"05","AR","Arkansas","Van Buren County","County","05141","August",2019,5456,5740,284
+"05","AR","Arkansas","Union County","County","05139","August",2019,14938,15785,847
+"05","AR","Arkansas","Stone County","County","05137","August",2019,4604,4794,190
+"05","AR","Arkansas","Sharp County","County","05135","August",2019,5246,5530,284
+"05","AR","Arkansas","Sevier County","County","05133","August",2019,5305,5594,289
+"05","AR","Arkansas","Sebastian County","County","05131","August",2019,54863,56810,1947
+"05","AR","Arkansas","Searcy County","County","05129","August",2019,2865,3016,151
+"05","AR","Arkansas","Scott County","County","05127","August",2019,4085,4231,146
+"05","AR","Arkansas","Saline County","County","05125","August",2019,57636,59380,1744
+"05","AR","Arkansas","St. Francis County","County","05123","August",2019,7883,8298,415
+"05","AR","Arkansas","Randolph County","County","05121","August",2019,7032,7307,275
+"05","AR","Arkansas","Pulaski County","County","05119","August",2019,184361,191039,6678
+"05","AR","Arkansas","Prairie County","County","05117","August",2019,3484,3620,136
+"05","AR","Arkansas","Pope County","County","05115","August",2019,27016,28329,1313
+"05","AR","Arkansas","Polk County","County","05113","August",2019,7873,8228,355
+"05","AR","Arkansas","Poinsett County","County","05111","August",2019,9935,10295,360
+"05","AR","Arkansas","Pike County","County","05109","August",2019,4062,4232,170
+"05","AR","Arkansas","Phillips County","County","05107","August",2019,5893,6282,389
+"05","AR","Arkansas","Perry County","County","05105","August",2019,4117,4295,178
+"05","AR","Arkansas","Ouachita County","County","05103","August",2019,9243,9727,484
+"05","AR","Arkansas","Newton County","County","05101","August",2019,3173,3282,109
+"05","AR","Arkansas","Nevada County","County","05099","August",2019,3465,3610,145
+"05","AR","Arkansas","Montgomery County","County","05097","August",2019,2849,2989,140
+"05","AR","Arkansas","Monroe County","County","05095","August",2019,2649,2759,110
+"05","AR","Arkansas","Mississippi County","County","05093","August",2019,16481,17408,927
+"05","AR","Arkansas","Miller County","County","05091","August",2019,18888,19696,808
+"05","AR","Arkansas","Marion County","County","05089","August",2019,6408,6670,262
+"05","AR","Arkansas","Madison County","County","05087","August",2019,7268,7472,204
+"05","AR","Arkansas","Lonoke County","County","05085","August",2019,33481,34586,1105
+"05","AR","Arkansas","Logan County","County","05083","August",2019,8269,8672,403
+"05","AR","Arkansas","Little River County","County","05081","August",2019,5263,5506,243
+"05","AR","Arkansas","Lincoln County","County","05079","August",2019,3779,3957,178
+"05","AR","Arkansas","Lee County","County","05077","August",2019,2730,2863,133
+"05","AR","Arkansas","Lawrence County","County","05075","August",2019,6366,6669,303
+"05","AR","Arkansas","Lafayette County","County","05073","August",2019,2280,2405,125
+"05","AR","Arkansas","Johnson County","County","05071","August",2019,9418,9909,491
+"05","AR","Arkansas","Jefferson County","County","05069","August",2019,26183,27737,1554
+"05","AR","Arkansas","Jackson County","County","05067","August",2019,5496,5860,364
+"05","AR","Arkansas","Izard County","County","05065","August",2019,4658,4918,260
+"05","AR","Arkansas","Independence County","County","05063","August",2019,15363,16059,696
+"05","AR","Arkansas","Howard County","County","05061","August",2019,5516,5700,184
+"05","AR","Arkansas","Hot Spring County","County","05059","August",2019,13604,14150,546
+"05","AR","Arkansas","Hempstead County","County","05057","August",2019,9437,9829,392
+"05","AR","Arkansas","Greene County","County","05055","August",2019,19249,19960,711
+"05","AR","Arkansas","Grant County","County","05053","August",2019,8163,8443,280
+"05","AR","Arkansas","Garland County","County","05051","August",2019,40210,41798,1588
+"05","AR","Arkansas","Fulton County","County","05049","August",2019,4674,4874,200
+"05","AR","Arkansas","Franklin County","County","05047","August",2019,7367,7646,279
+"05","AR","Arkansas","Faulkner County","County","05045","August",2019,60760,62701,1941
+"05","AR","Arkansas","Drew County","County","05043","August",2019,7289,7681,392
+"05","AR","Arkansas","Desha County","County","05041","August",2019,5160,5399,239
+"05","AR","Arkansas","Dallas County","County","05039","August",2019,2717,2856,139
+"05","AR","Arkansas","Cross County","County","05037","August",2019,7263,7573,310
+"05","AR","Arkansas","Crittenden County","County","05035","August",2019,20740,21685,945
+"05","AR","Arkansas","Crawford County","County","05033","August",2019,26047,27006,959
+"05","AR","Arkansas","Craighead County","County","05031","August",2019,54063,55660,1597
+"05","AR","Arkansas","Conway County","County","05029","August",2019,7988,8351,363
+"05","AR","Arkansas","Columbia County","County","05027","August",2019,8534,8969,435
+"05","AR","Arkansas","Cleveland County","County","05025","August",2019,3092,3218,126
+"05","AR","Arkansas","Cleburne County","County","05023","August",2019,8815,9220,405
+"05","AR","Arkansas","Clay County","County","05021","August",2019,5502,5756,254
+"05","AR","Arkansas","Clark County","County","05019","August",2019,9217,9625,408
+"05","AR","Arkansas","Chicot County","County","05017","August",2019,3078,3296,218
+"05","AR","Arkansas","Carroll County","County","05015","August",2019,12855,13224,369
+"05","AR","Arkansas","Calhoun County","County","05013","August",2019,2328,2428,100
+"05","AR","Arkansas","Bradley County","County","05011","August",2019,4181,4359,178
+"05","AR","Arkansas","Boone County","County","05009","August",2019,15276,15812,536
+"05","AR","Arkansas","Benton County","County","05007","August",2019,133961,137711,3750
+"05","AR","Arkansas","Baxter County","County","05005","August",2019,15546,16200,654
+"05","AR","Arkansas","Ashley County","County","05003","August",2019,7332,7735,403
+"05","AR","Arkansas","Arkansas County","County","05001","August",2019,9259,9518,259
+"05","AR","Arkansas","Arkansas","State",NA,"August",2019,1314696,1364195,49499
+"05","AR","Arkansas","West Memphis","City",NA,"July",2019,10256,10898,642
+"05","AR","Arkansas","Van Buren","City",NA,"July",2019,10233,10622,389
+"05","AR","Arkansas","Texarkana","City",NA,"July",2019,13193,13900,707
+"05","AR","Arkansas","Springdale","City",NA,"July",2019,39061,40217,1156
+"05","AR","Arkansas","Sherwood","City",NA,"July",2019,15880,16469,589
+"05","AR","Arkansas","Searcy","City",NA,"July",2019,9650,10165,515
+"05","AR","Arkansas","Russellville","City",NA,"July",2019,12567,13244,677
+"05","AR","Arkansas","Rogers","City",NA,"July",2019,35292,36325,1033
+"05","AR","Arkansas","Pine Bluff","City",NA,"July",2019,15547,16835,1288
+"05","AR","Arkansas","Paragould","City",NA,"July",2019,12287,12874,587
+"05","AR","Arkansas","North Little Rock","City",NA,"July",2019,29418,30682,1264
+"05","AR","Arkansas","Little Rock","City",NA,"July",2019,95889,99700,3811
+"05","AR","Arkansas","Jonesboro","City",NA,"July",2019,38583,39931,1348
+"05","AR","Arkansas","Jacksonville","City",NA,"July",2019,11394,12063,669
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"July",2019,14572,15340,768
+"05","AR","Arkansas","Fort Smith","City",NA,"July",2019,38434,39947,1513
+"05","AR","Arkansas","Fayetteville","City",NA,"July",2019,47418,48929,1511
+"05","AR","Arkansas","El Dorado","City",NA,"July",2019,6362,6894,532
+"05","AR","Arkansas","Conway","City",NA,"July",2019,33567,34723,1156
+"05","AR","Arkansas","Cabot","City",NA,"July",2019,12058,12522,464
+"05","AR","Arkansas","Blytheville","City",NA,"July",2019,5499,6086,587
+"05","AR","Arkansas","Bentonville","City",NA,"July",2019,26660,27400,740
+"05","AR","Arkansas","Benton","City",NA,"July",2019,17326,17909,583
+"05","AR","Arkansas","Bella Vista","City",NA,"July",2019,11955,12389,434
+"05","AR","Arkansas","Yell County","County","05149","July",2019,7986,8387,401
+"05","AR","Arkansas","Woodruff County","County","05147","July",2019,2595,2748,153
+"05","AR","Arkansas","White County","County","05145","July",2019,31651,33340,1689
+"05","AR","Arkansas","Washington County","County","05143","July",2019,123397,127088,3691
+"05","AR","Arkansas","Van Buren County","County","05141","July",2019,5435,5750,315
+"05","AR","Arkansas","Union County","County","05139","July",2019,14686,15654,968
+"05","AR","Arkansas","Stone County","County","05137","July",2019,4583,4810,227
+"05","AR","Arkansas","Sharp County","County","05135","July",2019,5361,5683,322
+"05","AR","Arkansas","Sevier County","County","05133","July",2019,5291,5594,303
+"05","AR","Arkansas","Sebastian County","County","05131","July",2019,55386,57526,2140
+"05","AR","Arkansas","Searcy County","County","05129","July",2019,2811,2956,145
+"05","AR","Arkansas","Scott County","County","05127","July",2019,4100,4273,173
+"05","AR","Arkansas","Saline County","County","05125","July",2019,58247,60169,1922
+"05","AR","Arkansas","St. Francis County","County","05123","July",2019,7777,8260,483
+"05","AR","Arkansas","Randolph County","County","05121","July",2019,6975,7311,336
+"05","AR","Arkansas","Pulaski County","County","05119","July",2019,186276,193905,7629
+"05","AR","Arkansas","Prairie County","County","05117","July",2019,3396,3599,203
+"05","AR","Arkansas","Pope County","County","05115","July",2019,27029,28613,1584
+"05","AR","Arkansas","Polk County","County","05113","July",2019,7741,8107,366
+"05","AR","Arkansas","Poinsett County","County","05111","July",2019,10120,10532,412
+"05","AR","Arkansas","Pike County","County","05109","July",2019,4012,4206,194
+"05","AR","Arkansas","Phillips County","County","05107","July",2019,5830,6269,439
+"05","AR","Arkansas","Perry County","County","05105","July",2019,4184,4384,200
+"05","AR","Arkansas","Ouachita County","County","05103","July",2019,9275,9814,539
+"05","AR","Arkansas","Newton County","County","05101","July",2019,3211,3336,125
+"05","AR","Arkansas","Nevada County","County","05099","July",2019,3467,3658,191
+"05","AR","Arkansas","Montgomery County","County","05097","July",2019,2885,3033,148
+"05","AR","Arkansas","Monroe County","County","05095","July",2019,2639,2785,146
+"05","AR","Arkansas","Mississippi County","County","05093","July",2019,16327,17592,1265
+"05","AR","Arkansas","Miller County","County","05091","July",2019,19200,20122,922
+"05","AR","Arkansas","Marion County","County","05089","July",2019,6441,6724,283
+"05","AR","Arkansas","Madison County","County","05087","July",2019,7404,7619,215
+"05","AR","Arkansas","Lonoke County","County","05085","July",2019,33923,35424,1501
+"05","AR","Arkansas","Logan County","County","05083","July",2019,8192,8645,453
+"05","AR","Arkansas","Little River County","County","05081","July",2019,5337,5606,269
+"05","AR","Arkansas","Lincoln County","County","05079","July",2019,3838,4036,198
+"05","AR","Arkansas","Lee County","County","05077","July",2019,2762,2893,131
+"05","AR","Arkansas","Lawrence County","County","05075","July",2019,6262,6597,335
+"05","AR","Arkansas","Lafayette County","County","05073","July",2019,2306,2435,129
+"05","AR","Arkansas","Johnson County","County","05071","July",2019,9523,10096,573
+"05","AR","Arkansas","Jefferson County","County","05069","July",2019,26314,28110,1796
+"05","AR","Arkansas","Jackson County","County","05067","July",2019,5373,5805,432
+"05","AR","Arkansas","Izard County","County","05065","July",2019,4526,4814,288
+"05","AR","Arkansas","Independence County","County","05063","July",2019,15540,16311,771
+"05","AR","Arkansas","Howard County","County","05061","July",2019,5439,5661,222
+"05","AR","Arkansas","Hot Spring County","County","05059","July",2019,13704,14330,626
+"05","AR","Arkansas","Hempstead County","County","05057","July",2019,9469,9907,438
+"05","AR","Arkansas","Greene County","County","05055","July",2019,19447,20290,843
+"05","AR","Arkansas","Grant County","County","05053","July",2019,8260,8574,314
+"05","AR","Arkansas","Garland County","County","05051","July",2019,40992,42818,1826
+"05","AR","Arkansas","Fulton County","County","05049","July",2019,4789,5021,232
+"05","AR","Arkansas","Franklin County","County","05047","July",2019,7213,7510,297
+"05","AR","Arkansas","Faulkner County","County","05045","July",2019,61465,63605,2140
+"05","AR","Arkansas","Drew County","County","05043","July",2019,7288,7757,469
+"05","AR","Arkansas","Desha County","County","05041","July",2019,5064,5347,283
+"05","AR","Arkansas","Dallas County","County","05039","July",2019,2704,2850,146
+"05","AR","Arkansas","Cross County","County","05037","July",2019,7061,7413,352
+"05","AR","Arkansas","Crittenden County","County","05035","July",2019,20924,22068,1144
+"05","AR","Arkansas","Crawford County","County","05033","July",2019,26320,27365,1045
+"05","AR","Arkansas","Craighead County","County","05031","July",2019,54808,56703,1895
+"05","AR","Arkansas","Conway County","County","05029","July",2019,7856,8280,424
+"05","AR","Arkansas","Columbia County","County","05027","July",2019,8310,8824,514
+"05","AR","Arkansas","Cleveland County","County","05025","July",2019,3134,3272,138
+"05","AR","Arkansas","Cleburne County","County","05023","July",2019,8869,9301,432
+"05","AR","Arkansas","Clay County","County","05021","July",2019,5492,5792,300
+"05","AR","Arkansas","Clark County","County","05019","July",2019,9071,9575,504
+"05","AR","Arkansas","Chicot County","County","05017","July",2019,3071,3340,269
+"05","AR","Arkansas","Carroll County","County","05015","July",2019,12861,13255,394
+"05","AR","Arkansas","Calhoun County","County","05013","July",2019,2351,2462,111
+"05","AR","Arkansas","Bradley County","County","05011","July",2019,4219,4417,198
+"05","AR","Arkansas","Boone County","County","05009","July",2019,15352,15919,567
+"05","AR","Arkansas","Benton County","County","05007","July",2019,135164,139305,4141
+"05","AR","Arkansas","Baxter County","County","05005","July",2019,15643,16313,670
+"05","AR","Arkansas","Ashley County","County","05003","July",2019,7289,7784,495
+"05","AR","Arkansas","Arkansas County","County","05001","July",2019,9301,9602,301
+"05","AR","Arkansas","Arkansas","State",NA,"July",2019,1322546,1379283,56737
+"05","AR","Arkansas","West Memphis","City",NA,"June",2019,10078,10655,577
+"05","AR","Arkansas","Van Buren","City",NA,"June",2019,10232,10598,366
+"05","AR","Arkansas","Texarkana","City",NA,"June",2019,13274,13951,677
+"05","AR","Arkansas","Springdale","City",NA,"June",2019,38559,39577,1018
+"05","AR","Arkansas","Sherwood","City",NA,"June",2019,15821,16334,513
+"05","AR","Arkansas","Searcy","City",NA,"June",2019,9878,10359,481
+"05","AR","Arkansas","Russellville","City",NA,"June",2019,12764,13374,610
+"05","AR","Arkansas","Rogers","City",NA,"June",2019,34846,35736,890
+"05","AR","Arkansas","Pine Bluff","City",NA,"June",2019,15531,16728,1197
+"05","AR","Arkansas","Paragould","City",NA,"June",2019,12301,12858,557
+"05","AR","Arkansas","North Little Rock","City",NA,"June",2019,29308,30436,1128
+"05","AR","Arkansas","Little Rock","City",NA,"June",2019,95531,99124,3593
+"05","AR","Arkansas","Jonesboro","City",NA,"June",2019,38103,39350,1247
+"05","AR","Arkansas","Jacksonville","City",NA,"June",2019,11352,11870,518
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"June",2019,14324,15022,698
+"05","AR","Arkansas","Fort Smith","City",NA,"June",2019,38502,39933,1431
+"05","AR","Arkansas","Fayetteville","City",NA,"June",2019,46809,48146,1337
+"05","AR","Arkansas","El Dorado","City",NA,"June",2019,6578,7040,462
+"05","AR","Arkansas","Conway","City",NA,"June",2019,33395,34465,1070
+"05","AR","Arkansas","Cabot","City",NA,"June",2019,11961,12352,391
+"05","AR","Arkansas","Blytheville","City",NA,"June",2019,5546,6117,571
+"05","AR","Arkansas","Bentonville","City",NA,"June",2019,26323,27010,687
+"05","AR","Arkansas","Benton","City",NA,"June",2019,17258,17772,514
+"05","AR","Arkansas","Bella Vista","City",NA,"June",2019,11804,12235,431
+"05","AR","Arkansas","Yell County","County","05149","June",2019,8021,8386,365
+"05","AR","Arkansas","Woodruff County","County","05147","June",2019,2648,2801,153
+"05","AR","Arkansas","White County","County","05145","June",2019,32402,33955,1553
+"05","AR","Arkansas","Washington County","County","05143","June",2019,121812,125099,3287
+"05","AR","Arkansas","Van Buren County","County","05141","June",2019,5624,5907,283
+"05","AR","Arkansas","Union County","County","05139","June",2019,15186,16095,909
+"05","AR","Arkansas","Stone County","County","05137","June",2019,4628,4863,235
+"05","AR","Arkansas","Sharp County","County","05135","June",2019,5556,5877,321
+"05","AR","Arkansas","Sevier County","County","05133","June",2019,5251,5522,271
+"05","AR","Arkansas","Sebastian County","County","05131","June",2019,55484,57505,2021
+"05","AR","Arkansas","Searcy County","County","05129","June",2019,3024,3159,135
+"05","AR","Arkansas","Scott County","County","05127","June",2019,4241,4389,148
+"05","AR","Arkansas","Saline County","County","05125","June",2019,58020,59756,1736
+"05","AR","Arkansas","St. Francis County","County","05123","June",2019,7884,8355,471
+"05","AR","Arkansas","Randolph County","County","05121","June",2019,7069,7399,330
+"05","AR","Arkansas","Pulaski County","County","05119","June",2019,185580,192483,6903
+"05","AR","Arkansas","Prairie County","County","05117","June",2019,3452,3610,158
+"05","AR","Arkansas","Pope County","County","05115","June",2019,27454,28918,1464
+"05","AR","Arkansas","Polk County","County","05113","June",2019,7831,8183,352
+"05","AR","Arkansas","Poinsett County","County","05111","June",2019,9920,10310,390
+"05","AR","Arkansas","Pike County","County","05109","June",2019,4248,4418,170
+"05","AR","Arkansas","Phillips County","County","05107","June",2019,6089,6481,392
+"05","AR","Arkansas","Perry County","County","05105","June",2019,4141,4332,191
+"05","AR","Arkansas","Ouachita County","County","05103","June",2019,9537,10055,518
+"05","AR","Arkansas","Newton County","County","05101","June",2019,3283,3402,119
+"05","AR","Arkansas","Nevada County","County","05099","June",2019,3555,3732,177
+"05","AR","Arkansas","Montgomery County","County","05097","June",2019,2977,3109,132
+"05","AR","Arkansas","Monroe County","County","05095","June",2019,2663,2799,136
+"05","AR","Arkansas","Mississippi County","County","05093","June",2019,16467,17797,1330
+"05","AR","Arkansas","Miller County","County","05091","June",2019,19318,20214,896
+"05","AR","Arkansas","Marion County","County","05089","June",2019,6593,6870,277
+"05","AR","Arkansas","Madison County","County","05087","June",2019,7219,7413,194
+"05","AR","Arkansas","Lonoke County","County","05085","June",2019,33649,34743,1094
+"05","AR","Arkansas","Logan County","County","05083","June",2019,8345,8737,392
+"05","AR","Arkansas","Little River County","County","05081","June",2019,5380,5625,245
+"05","AR","Arkansas","Lincoln County","County","05079","June",2019,3785,3979,194
+"05","AR","Arkansas","Lee County","County","05077","June",2019,2704,2832,128
+"05","AR","Arkansas","Lawrence County","County","05075","June",2019,6437,6748,311
+"05","AR","Arkansas","Lafayette County","County","05073","June",2019,2380,2502,122
+"05","AR","Arkansas","Johnson County","County","05071","June",2019,9874,10478,604
+"05","AR","Arkansas","Jefferson County","County","05069","June",2019,26287,27984,1697
+"05","AR","Arkansas","Jackson County","County","05067","June",2019,5489,5907,418
+"05","AR","Arkansas","Izard County","County","05065","June",2019,4628,4927,299
+"05","AR","Arkansas","Independence County","County","05063","June",2019,15981,16714,733
+"05","AR","Arkansas","Howard County","County","05061","June",2019,5550,5758,208
+"05","AR","Arkansas","Hot Spring County","County","05059","June",2019,13673,14244,571
+"05","AR","Arkansas","Hempstead County","County","05057","June",2019,9663,10074,411
+"05","AR","Arkansas","Greene County","County","05055","June",2019,19468,20257,789
+"05","AR","Arkansas","Grant County","County","05053","June",2019,8201,8494,293
+"05","AR","Arkansas","Garland County","County","05051","June",2019,40295,41985,1690
+"05","AR","Arkansas","Fulton County","County","05049","June",2019,4968,5181,213
+"05","AR","Arkansas","Franklin County","County","05047","June",2019,7315,7604,289
+"05","AR","Arkansas","Faulkner County","County","05045","June",2019,61150,63109,1959
+"05","AR","Arkansas","Drew County","County","05043","June",2019,7423,7857,434
+"05","AR","Arkansas","Desha County","County","05041","June",2019,5210,5483,273
+"05","AR","Arkansas","Dallas County","County","05039","June",2019,2751,2902,151
+"05","AR","Arkansas","Cross County","County","05037","June",2019,7298,7622,324
+"05","AR","Arkansas","Crittenden County","County","05035","June",2019,20560,21634,1074
+"05","AR","Arkansas","Crawford County","County","05033","June",2019,26319,27291,972
+"05","AR","Arkansas","Craighead County","County","05031","June",2019,54127,55875,1748
+"05","AR","Arkansas","Conway County","County","05029","June",2019,8062,8467,405
+"05","AR","Arkansas","Columbia County","County","05027","June",2019,8715,9186,471
+"05","AR","Arkansas","Cleveland County","County","05025","June",2019,3099,3227,128
+"05","AR","Arkansas","Cleburne County","County","05023","June",2019,9175,9590,415
+"05","AR","Arkansas","Clay County","County","05021","June",2019,5492,5787,295
+"05","AR","Arkansas","Clark County","County","05019","June",2019,9074,9479,405
+"05","AR","Arkansas","Chicot County","County","05017","June",2019,3116,3352,236
+"05","AR","Arkansas","Carroll County","County","05015","June",2019,12701,13079,378
+"05","AR","Arkansas","Calhoun County","County","05013","June",2019,2388,2504,116
+"05","AR","Arkansas","Bradley County","County","05011","June",2019,4402,4603,201
+"05","AR","Arkansas","Boone County","County","05009","June",2019,15854,16381,527
+"05","AR","Arkansas","Benton County","County","05007","June",2019,133457,137247,3790
+"05","AR","Arkansas","Baxter County","County","05005","June",2019,15979,16670,691
+"05","AR","Arkansas","Ashley County","County","05003","June",2019,7533,7989,456
+"05","AR","Arkansas","Arkansas County","County","05001","June",2019,9238,9531,293
+"05","AR","Arkansas","Arkansas","State",NA,"June",2019,1324372,1376830,52458
+"05","AR","Arkansas","West Memphis","City",NA,"May",2019,10022,10538,516
+"05","AR","Arkansas","Van Buren","City",NA,"May",2019,10178,10503,325
+"05","AR","Arkansas","Texarkana","City",NA,"May",2019,13101,13653,552
+"05","AR","Arkansas","Springdale","City",NA,"May",2019,38512,39436,924
+"05","AR","Arkansas","Sherwood","City",NA,"May",2019,15703,16158,455
+"05","AR","Arkansas","Searcy","City",NA,"May",2019,9917,10356,439
+"05","AR","Arkansas","Russellville","City",NA,"May",2019,12879,13395,516
+"05","AR","Arkansas","Rogers","City",NA,"May",2019,34799,35593,794
+"05","AR","Arkansas","Pine Bluff","City",NA,"May",2019,15491,16577,1086
+"05","AR","Arkansas","Paragould","City",NA,"May",2019,12322,12784,462
+"05","AR","Arkansas","North Little Rock","City",NA,"May",2019,29089,30171,1082
+"05","AR","Arkansas","Little Rock","City",NA,"May",2019,94817,97914,3097
+"05","AR","Arkansas","Jonesboro","City",NA,"May",2019,37939,39057,1118
+"05","AR","Arkansas","Jacksonville","City",NA,"May",2019,11267,11737,470
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"May",2019,14200,14754,554
+"05","AR","Arkansas","Fort Smith","City",NA,"May",2019,38298,39480,1182
+"05","AR","Arkansas","Fayetteville","City",NA,"May",2019,46753,47912,1159
+"05","AR","Arkansas","El Dorado","City",NA,"May",2019,6532,6955,423
+"05","AR","Arkansas","Conway","City",NA,"May",2019,33155,34149,994
+"05","AR","Arkansas","Cabot","City",NA,"May",2019,11876,12234,358
+"05","AR","Arkansas","Blytheville","City",NA,"May",2019,5570,5879,309
+"05","AR","Arkansas","Bentonville","City",NA,"May",2019,26287,26863,576
+"05","AR","Arkansas","Benton","City",NA,"May",2019,17131,17569,438
+"05","AR","Arkansas","Bella Vista","City",NA,"May",2019,11788,12163,375
+"05","AR","Arkansas","Yell County","County","05149","May",2019,8091,8438,347
+"05","AR","Arkansas","Woodruff County","County","05147","May",2019,2630,2767,137
+"05","AR","Arkansas","White County","County","05145","May",2019,32527,34029,1502
+"05","AR","Arkansas","Washington County","County","05143","May",2019,121665,124555,2890
+"05","AR","Arkansas","Van Buren County","County","05141","May",2019,5572,5842,270
+"05","AR","Arkansas","Union County","County","05139","May",2019,15079,15868,789
+"05","AR","Arkansas","Stone County","County","05137","May",2019,4549,4771,222
+"05","AR","Arkansas","Sharp County","County","05135","May",2019,5612,5866,254
+"05","AR","Arkansas","Sevier County","County","05133","May",2019,5216,5491,275
+"05","AR","Arkansas","Sebastian County","County","05131","May",2019,55190,56895,1705
+"05","AR","Arkansas","Searcy County","County","05129","May",2019,2939,3058,119
+"05","AR","Arkansas","Scott County","County","05127","May",2019,4179,4305,126
+"05","AR","Arkansas","Saline County","County","05125","May",2019,57591,59089,1498
+"05","AR","Arkansas","St. Francis County","County","05123","May",2019,7802,8219,417
+"05","AR","Arkansas","Randolph County","County","05121","May",2019,7023,7296,273
+"05","AR","Arkansas","Pulaski County","County","05119","May",2019,184194,190237,6043
+"05","AR","Arkansas","Prairie County","County","05117","May",2019,3460,3605,145
+"05","AR","Arkansas","Pope County","County","05115","May",2019,27701,28977,1276
+"05","AR","Arkansas","Polk County","County","05113","May",2019,7797,8100,303
+"05","AR","Arkansas","Poinsett County","County","05111","May",2019,9881,10207,326
+"05","AR","Arkansas","Pike County","County","05109","May",2019,4147,4297,150
+"05","AR","Arkansas","Phillips County","County","05107","May",2019,6068,6415,347
+"05","AR","Arkansas","Perry County","County","05105","May",2019,4114,4293,179
+"05","AR","Arkansas","Ouachita County","County","05103","May",2019,9399,9898,499
+"05","AR","Arkansas","Newton County","County","05101","May",2019,3256,3365,109
+"05","AR","Arkansas","Nevada County","County","05099","May",2019,3534,3676,142
+"05","AR","Arkansas","Montgomery County","County","05097","May",2019,2913,3035,122
+"05","AR","Arkansas","Monroe County","County","05095","May",2019,2636,2743,107
+"05","AR","Arkansas","Mississippi County","County","05093","May",2019,16538,17335,797
+"05","AR","Arkansas","Miller County","County","05091","May",2019,19065,19783,718
+"05","AR","Arkansas","Marion County","County","05089","May",2019,6519,6763,244
+"05","AR","Arkansas","Madison County","County","05087","May",2019,7216,7383,167
+"05","AR","Arkansas","Lonoke County","County","05085","May",2019,33411,34408,997
+"05","AR","Arkansas","Logan County","County","05083","May",2019,8208,8549,341
+"05","AR","Arkansas","Little River County","County","05081","May",2019,5304,5517,213
+"05","AR","Arkansas","Lincoln County","County","05079","May",2019,3781,3948,167
+"05","AR","Arkansas","Lee County","County","05077","May",2019,2687,2794,107
+"05","AR","Arkansas","Lawrence County","County","05075","May",2019,6654,6921,267
+"05","AR","Arkansas","Lafayette County","County","05073","May",2019,2409,2521,112
+"05","AR","Arkansas","Johnson County","County","05071","May",2019,9920,10384,464
+"05","AR","Arkansas","Jefferson County","County","05069","May",2019,26218,27732,1514
+"05","AR","Arkansas","Jackson County","County","05067","May",2019,5459,5832,373
+"05","AR","Arkansas","Izard County","County","05065","May",2019,4741,5010,269
+"05","AR","Arkansas","Independence County","County","05063","May",2019,16017,16656,639
+"05","AR","Arkansas","Howard County","County","05061","May",2019,5468,5643,175
+"05","AR","Arkansas","Hot Spring County","County","05059","May",2019,13488,13956,468
+"05","AR","Arkansas","Hempstead County","County","05057","May",2019,9603,9963,360
+"05","AR","Arkansas","Greene County","County","05055","May",2019,19501,20152,651
+"05","AR","Arkansas","Grant County","County","05053","May",2019,8139,8392,253
+"05","AR","Arkansas","Garland County","County","05051","May",2019,39946,41357,1411
+"05","AR","Arkansas","Fulton County","County","05049","May",2019,4856,5060,204
+"05","AR","Arkansas","Franklin County","County","05047","May",2019,7313,7542,229
+"05","AR","Arkansas","Faulkner County","County","05045","May",2019,60711,62530,1819
+"05","AR","Arkansas","Drew County","County","05043","May",2019,7483,7875,392
+"05","AR","Arkansas","Desha County","County","05041","May",2019,5129,5362,233
+"05","AR","Arkansas","Dallas County","County","05039","May",2019,2698,2826,128
+"05","AR","Arkansas","Cross County","County","05037","May",2019,7064,7365,301
+"05","AR","Arkansas","Crittenden County","County","05035","May",2019,20445,21344,899
+"05","AR","Arkansas","Crawford County","County","05033","May",2019,26180,27017,837
+"05","AR","Arkansas","Craighead County","County","05031","May",2019,53894,55421,1527
+"05","AR","Arkansas","Conway County","County","05029","May",2019,7906,8275,369
+"05","AR","Arkansas","Columbia County","County","05027","May",2019,8735,9164,429
+"05","AR","Arkansas","Cleveland County","County","05025","May",2019,3093,3219,126
+"05","AR","Arkansas","Cleburne County","County","05023","May",2019,8954,9348,394
+"05","AR","Arkansas","Clay County","County","05021","May",2019,5453,5714,261
+"05","AR","Arkansas","Clark County","County","05019","May",2019,9301,9659,358
+"05","AR","Arkansas","Chicot County","County","05017","May",2019,3052,3277,225
+"05","AR","Arkansas","Carroll County","County","05015","May",2019,12513,12861,348
+"05","AR","Arkansas","Calhoun County","County","05013","May",2019,2358,2462,104
+"05","AR","Arkansas","Bradley County","County","05011","May",2019,4298,4473,175
+"05","AR","Arkansas","Boone County","County","05009","May",2019,15700,16176,476
+"05","AR","Arkansas","Benton County","County","05007","May",2019,133276,136599,3323
+"05","AR","Arkansas","Baxter County","County","05005","May",2019,15815,16433,618
+"05","AR","Arkansas","Ashley County","County","05003","May",2019,7508,7887,379
+"05","AR","Arkansas","Arkansas County","County","05001","May",2019,9179,9449,270
+"05","AR","Arkansas","Arkansas","State",NA,"May",2019,1317972,1363674,45702
+"05","AR","Arkansas","West Memphis","City",NA,"April",2019,10006,10462,456
+"05","AR","Arkansas","Van Buren","City",NA,"April",2019,10132,10404,272
+"05","AR","Arkansas","Texarkana","City",NA,"April",2019,13005,13525,520
+"05","AR","Arkansas","Springdale","City",NA,"April",2019,38469,39257,788
+"05","AR","Arkansas","Sherwood","City",NA,"April",2019,15745,16178,433
+"05","AR","Arkansas","Searcy","City",NA,"April",2019,9918,10256,338
+"05","AR","Arkansas","Russellville","City",NA,"April",2019,12939,13364,425
+"05","AR","Arkansas","Rogers","City",NA,"April",2019,34775,35539,764
+"05","AR","Arkansas","Pine Bluff","City",NA,"April",2019,15559,16398,839
+"05","AR","Arkansas","Paragould","City",NA,"April",2019,12282,12677,395
+"05","AR","Arkansas","North Little Rock","City",NA,"April",2019,29167,30146,979
+"05","AR","Arkansas","Little Rock","City",NA,"April",2019,95072,97905,2833
+"05","AR","Arkansas","Jonesboro","City",NA,"April",2019,37944,38903,959
+"05","AR","Arkansas","Jacksonville","City",NA,"April",2019,11297,11725,428
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"April",2019,14359,14841,482
+"05","AR","Arkansas","Fort Smith","City",NA,"April",2019,38108,39200,1092
+"05","AR","Arkansas","Fayetteville","City",NA,"April",2019,46698,47730,1032
+"05","AR","Arkansas","El Dorado","City",NA,"April",2019,6573,6971,398
+"05","AR","Arkansas","Conway","City",NA,"April",2019,33226,34102,876
+"05","AR","Arkansas","Cabot","City",NA,"April",2019,11909,12237,328
+"05","AR","Arkansas","Blytheville","City",NA,"April",2019,5605,5844,239
+"05","AR","Arkansas","Bentonville","City",NA,"April",2019,26270,26760,490
+"05","AR","Arkansas","Benton","City",NA,"April",2019,17172,17602,430
+"05","AR","Arkansas","Bella Vista","City",NA,"April",2019,11780,12172,392
+"05","AR","Arkansas","Yell County","County","05149","April",2019,8129,8402,273
+"05","AR","Arkansas","Woodruff County","County","05147","April",2019,2622,2760,138
+"05","AR","Arkansas","White County","County","05145","April",2019,32530,33938,1408
+"05","AR","Arkansas","Washington County","County","05143","April",2019,121523,124069,2546
+"05","AR","Arkansas","Van Buren County","County","05141","April",2019,5488,5733,245
+"05","AR","Arkansas","Union County","County","05139","April",2019,15174,15890,716
+"05","AR","Arkansas","Stone County","County","05137","April",2019,4551,4749,198
+"05","AR","Arkansas","Sharp County","County","05135","April",2019,5507,5728,221
+"05","AR","Arkansas","Sevier County","County","05133","April",2019,5142,5371,229
+"05","AR","Arkansas","Sebastian County","County","05131","April",2019,54916,56458,1542
+"05","AR","Arkansas","Searcy County","County","05129","April",2019,2772,2884,112
+"05","AR","Arkansas","Scott County","County","05127","April",2019,4192,4310,118
+"05","AR","Arkansas","Saline County","County","05125","April",2019,57732,59112,1380
+"05","AR","Arkansas","St. Francis County","County","05123","April",2019,7789,8179,390
+"05","AR","Arkansas","Randolph County","County","05121","April",2019,6980,7218,238
+"05","AR","Arkansas","Pulaski County","County","05119","April",2019,184689,190303,5614
+"05","AR","Arkansas","Prairie County","County","05117","April",2019,3446,3576,130
+"05","AR","Arkansas","Pope County","County","05115","April",2019,27830,28848,1018
+"05","AR","Arkansas","Polk County","County","05113","April",2019,7800,8069,269
+"05","AR","Arkansas","Poinsett County","County","05111","April",2019,9886,10159,273
+"05","AR","Arkansas","Pike County","County","05109","April",2019,4123,4257,134
+"05","AR","Arkansas","Phillips County","County","05107","April",2019,6082,6405,323
+"05","AR","Arkansas","Perry County","County","05105","April",2019,4115,4277,162
+"05","AR","Arkansas","Ouachita County","County","05103","April",2019,9381,9865,484
+"05","AR","Arkansas","Newton County","County","05101","April",2019,3237,3341,104
+"05","AR","Arkansas","Nevada County","County","05099","April",2019,3562,3704,142
+"05","AR","Arkansas","Montgomery County","County","05097","April",2019,2849,2971,122
+"05","AR","Arkansas","Monroe County","County","05095","April",2019,2653,2750,97
+"05","AR","Arkansas","Mississippi County","County","05093","April",2019,16642,17344,702
+"05","AR","Arkansas","Miller County","County","05091","April",2019,18926,19637,711
+"05","AR","Arkansas","Marion County","County","05089","April",2019,6433,6668,235
+"05","AR","Arkansas","Madison County","County","05087","April",2019,7205,7362,157
+"05","AR","Arkansas","Lonoke County","County","05085","April",2019,33502,34381,879
+"05","AR","Arkansas","Logan County","County","05083","April",2019,8203,8498,295
+"05","AR","Arkansas","Little River County","County","05081","April",2019,5277,5475,198
+"05","AR","Arkansas","Lincoln County","County","05079","April",2019,3786,3940,154
+"05","AR","Arkansas","Lee County","County","05077","April",2019,2707,2805,98
+"05","AR","Arkansas","Lawrence County","County","05075","April",2019,6659,6894,235
+"05","AR","Arkansas","Lafayette County","County","05073","April",2019,2391,2488,97
+"05","AR","Arkansas","Johnson County","County","05071","April",2019,9909,10319,410
+"05","AR","Arkansas","Jefferson County","County","05069","April",2019,26334,27653,1319
+"05","AR","Arkansas","Jackson County","County","05067","April",2019,5468,5787,319
+"05","AR","Arkansas","Izard County","County","05065","April",2019,4699,4945,246
+"05","AR","Arkansas","Independence County","County","05063","April",2019,16189,16724,535
+"05","AR","Arkansas","Howard County","County","05061","April",2019,5511,5665,154
+"05","AR","Arkansas","Hot Spring County","County","05059","April",2019,13599,14030,431
+"05","AR","Arkansas","Hempstead County","County","05057","April",2019,9686,10045,359
+"05","AR","Arkansas","Greene County","County","05055","April",2019,19438,19996,558
+"05","AR","Arkansas","Grant County","County","05053","April",2019,8173,8392,219
+"05","AR","Arkansas","Garland County","County","05051","April",2019,40393,41662,1269
+"05","AR","Arkansas","Fulton County","County","05049","April",2019,4707,4882,175
+"05","AR","Arkansas","Franklin County","County","05047","April",2019,7292,7496,204
+"05","AR","Arkansas","Faulkner County","County","05045","April",2019,60841,62433,1592
+"05","AR","Arkansas","Drew County","County","05043","April",2019,7504,7883,379
+"05","AR","Arkansas","Desha County","County","05041","April",2019,5170,5384,214
+"05","AR","Arkansas","Dallas County","County","05039","April",2019,2711,2823,112
+"05","AR","Arkansas","Cross County","County","05037","April",2019,7053,7331,278
+"05","AR","Arkansas","Crittenden County","County","05035","April",2019,20413,21202,789
+"05","AR","Arkansas","Crawford County","County","05033","April",2019,26061,26810,749
+"05","AR","Arkansas","Craighead County","County","05031","April",2019,53901,55205,1304
+"05","AR","Arkansas","Conway County","County","05029","April",2019,7954,8289,335
+"05","AR","Arkansas","Columbia County","County","05027","April",2019,8821,9160,339
+"05","AR","Arkansas","Cleveland County","County","05025","April",2019,3101,3212,111
+"05","AR","Arkansas","Cleburne County","County","05023","April",2019,8840,9189,349
+"05","AR","Arkansas","Clay County","County","05021","April",2019,5451,5692,241
+"05","AR","Arkansas","Clark County","County","05019","April",2019,9449,9791,342
+"05","AR","Arkansas","Chicot County","County","05017","April",2019,3040,3262,222
+"05","AR","Arkansas","Carroll County","County","05015","April",2019,12349,12692,343
+"05","AR","Arkansas","Calhoun County","County","05013","April",2019,2355,2460,105
+"05","AR","Arkansas","Bradley County","County","05011","April",2019,4287,4464,177
+"05","AR","Arkansas","Boone County","County","05009","April",2019,15643,16074,431
+"05","AR","Arkansas","Benton County","County","05007","April",2019,133186,136235,3049
+"05","AR","Arkansas","Baxter County","County","05005","April",2019,15685,16242,557
+"05","AR","Arkansas","Ashley County","County","05003","April",2019,7460,7849,389
+"05","AR","Arkansas","Arkansas County","County","05001","April",2019,9156,9411,255
+"05","AR","Arkansas","Arkansas","State",NA,"April",2019,1318262,1359511,41249
+"05","AR","Arkansas","West Memphis","City",NA,"March",2019,9966,10446,480
+"05","AR","Arkansas","Van Buren","City",NA,"March",2019,10079,10384,305
+"05","AR","Arkansas","Texarkana","City",NA,"March",2019,12947,13544,597
+"05","AR","Arkansas","Springdale","City",NA,"March",2019,38329,39241,912
+"05","AR","Arkansas","Sherwood","City",NA,"March",2019,15702,16176,474
+"05","AR","Arkansas","Searcy","City",NA,"March",2019,9887,10289,402
+"05","AR","Arkansas","Russellville","City",NA,"March",2019,12913,13384,471
+"05","AR","Arkansas","Rogers","City",NA,"March",2019,34642,35540,898
+"05","AR","Arkansas","Pine Bluff","City",NA,"March",2019,15516,16462,946
+"05","AR","Arkansas","Paragould","City",NA,"March",2019,12250,12708,458
+"05","AR","Arkansas","North Little Rock","City",NA,"March",2019,29087,30209,1122
+"05","AR","Arkansas","Little Rock","City",NA,"March",2019,94813,97964,3151
+"05","AR","Arkansas","Jonesboro","City",NA,"March",2019,37741,38792,1051
+"05","AR","Arkansas","Jacksonville","City",NA,"March",2019,11267,11721,454
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"March",2019,14240,14810,570
+"05","AR","Arkansas","Fort Smith","City",NA,"March",2019,37974,39248,1274
+"05","AR","Arkansas","Fayetteville","City",NA,"March",2019,46528,47720,1192
+"05","AR","Arkansas","El Dorado","City",NA,"March",2019,6544,6976,432
+"05","AR","Arkansas","Conway","City",NA,"March",2019,33112,34056,944
+"05","AR","Arkansas","Cabot","City",NA,"March",2019,11833,12203,370
+"05","AR","Arkansas","Blytheville","City",NA,"March",2019,5527,5807,280
+"05","AR","Arkansas","Bentonville","City",NA,"March",2019,26169,26744,575
+"05","AR","Arkansas","Benton","City",NA,"March",2019,17126,17633,507
+"05","AR","Arkansas","Bella Vista","City",NA,"March",2019,11735,12175,440
+"05","AR","Arkansas","Yell County","County","05149","March",2019,8046,8386,340
+"05","AR","Arkansas","Woodruff County","County","05147","March",2019,2578,2725,147
+"05","AR","Arkansas","White County","County","05145","March",2019,32430,34037,1607
+"05","AR","Arkansas","Washington County","County","05143","March",2019,121081,124010,2929
+"05","AR","Arkansas","Van Buren County","County","05141","March",2019,5438,5726,288
+"05","AR","Arkansas","Union County","County","05139","March",2019,15108,15915,807
+"05","AR","Arkansas","Stone County","County","05137","March",2019,4497,4736,239
+"05","AR","Arkansas","Sharp County","County","05135","March",2019,5539,5808,269
+"05","AR","Arkansas","Sevier County","County","05133","March",2019,5150,5403,253
+"05","AR","Arkansas","Sebastian County","County","05131","March",2019,54723,56510,1787
+"05","AR","Arkansas","Searcy County","County","05129","March",2019,2719,2857,138
+"05","AR","Arkansas","Scott County","County","05127","March",2019,4146,4291,145
+"05","AR","Arkansas","Saline County","County","05125","March",2019,57577,59196,1619
+"05","AR","Arkansas","St. Francis County","County","05123","March",2019,7692,8142,450
+"05","AR","Arkansas","Randolph County","County","05121","March",2019,6946,7227,281
+"05","AR","Arkansas","Pulaski County","County","05119","March",2019,184185,190490,6305
+"05","AR","Arkansas","Prairie County","County","05117","March",2019,3371,3519,148
+"05","AR","Arkansas","Pope County","County","05115","March",2019,27774,28937,1163
+"05","AR","Arkansas","Polk County","County","05113","March",2019,7717,8012,295
+"05","AR","Arkansas","Poinsett County","County","05111","March",2019,9766,10097,331
+"05","AR","Arkansas","Pike County","County","05109","March",2019,4051,4205,154
+"05","AR","Arkansas","Phillips County","County","05107","March",2019,6070,6453,383
+"05","AR","Arkansas","Perry County","County","05105","March",2019,4090,4276,186
+"05","AR","Arkansas","Ouachita County","County","05103","March",2019,9292,9833,541
+"05","AR","Arkansas","Newton County","County","05101","March",2019,3213,3334,121
+"05","AR","Arkansas","Nevada County","County","05099","March",2019,3548,3678,130
+"05","AR","Arkansas","Montgomery County","County","05097","March",2019,2794,2931,137
+"05","AR","Arkansas","Monroe County","County","05095","March",2019,2629,2748,119
+"05","AR","Arkansas","Mississippi County","County","05093","March",2019,16411,17223,812
+"05","AR","Arkansas","Miller County","County","05091","March",2019,18841,19666,825
+"05","AR","Arkansas","Marion County","County","05089","March",2019,6363,6636,273
+"05","AR","Arkansas","Madison County","County","05087","March",2019,7103,7277,174
+"05","AR","Arkansas","Lonoke County","County","05085","March",2019,33288,34318,1030
+"05","AR","Arkansas","Logan County","County","05083","March",2019,8212,8552,340
+"05","AR","Arkansas","Little River County","County","05081","March",2019,5250,5483,233
+"05","AR","Arkansas","Lincoln County","County","05079","March",2019,3743,3921,178
+"05","AR","Arkansas","Lee County","County","05077","March",2019,2657,2788,131
+"05","AR","Arkansas","Lawrence County","County","05075","March",2019,6555,6817,262
+"05","AR","Arkansas","Lafayette County","County","05073","March",2019,2362,2473,111
+"05","AR","Arkansas","Johnson County","County","05071","March",2019,9975,10436,461
+"05","AR","Arkansas","Jefferson County","County","05069","March",2019,26261,27719,1458
+"05","AR","Arkansas","Jackson County","County","05067","March",2019,5434,5795,361
+"05","AR","Arkansas","Izard County","County","05065","March",2019,4695,4945,250
+"05","AR","Arkansas","Independence County","County","05063","March",2019,16042,16649,607
+"05","AR","Arkansas","Howard County","County","05061","March",2019,5528,5708,180
+"05","AR","Arkansas","Hot Spring County","County","05059","March",2019,13465,13970,505
+"05","AR","Arkansas","Hempstead County","County","05057","March",2019,9607,9983,376
+"05","AR","Arkansas","Greene County","County","05055","March",2019,19387,20059,672
+"05","AR","Arkansas","Grant County","County","05053","March",2019,8117,8369,252
+"05","AR","Arkansas","Garland County","County","05051","March",2019,40059,41557,1498
+"05","AR","Arkansas","Fulton County","County","05049","March",2019,4720,4916,196
+"05","AR","Arkansas","Franklin County","County","05047","March",2019,7176,7408,232
+"05","AR","Arkansas","Faulkner County","County","05045","March",2019,60632,62445,1813
+"05","AR","Arkansas","Drew County","County","05043","March",2019,7425,7864,439
+"05","AR","Arkansas","Desha County","County","05041","March",2019,5133,5369,236
+"05","AR","Arkansas","Dallas County","County","05039","March",2019,2703,2841,138
+"05","AR","Arkansas","Cross County","County","05037","March",2019,6975,7289,314
+"05","AR","Arkansas","Crittenden County","County","05035","March",2019,20331,21202,871
+"05","AR","Arkansas","Crawford County","County","05033","March",2019,25924,26789,865
+"05","AR","Arkansas","Craighead County","County","05031","March",2019,53612,55107,1495
+"05","AR","Arkansas","Conway County","County","05029","March",2019,7879,8211,332
+"05","AR","Arkansas","Columbia County","County","05027","March",2019,8792,9178,386
+"05","AR","Arkansas","Cleveland County","County","05025","March",2019,3070,3200,130
+"05","AR","Arkansas","Cleburne County","County","05023","March",2019,8759,9184,425
+"05","AR","Arkansas","Clay County","County","05021","March",2019,5349,5641,292
+"05","AR","Arkansas","Clark County","County","05019","March",2019,9406,9701,295
+"05","AR","Arkansas","Chicot County","County","05017","March",2019,2989,3231,242
+"05","AR","Arkansas","Carroll County","County","05015","March",2019,11991,12410,419
+"05","AR","Arkansas","Calhoun County","County","05013","March",2019,2313,2434,121
+"05","AR","Arkansas","Bradley County","County","05011","March",2019,4260,4460,200
+"05","AR","Arkansas","Boone County","County","05009","March",2019,15594,16112,518
+"05","AR","Arkansas","Benton County","County","05007","March",2019,132674,136211,3537
+"05","AR","Arkansas","Baxter County","County","05005","March",2019,15596,16288,692
+"05","AR","Arkansas","Ashley County","County","05003","March",2019,7321,7761,440
+"05","AR","Arkansas","Arkansas County","County","05001","March",2019,9045,9347,302
+"05","AR","Arkansas","Arkansas","State",NA,"March",2019,1311196,1358425,47229
+"05","AR","Arkansas","West Memphis","City",NA,"February",2019,9904,10456,552
+"05","AR","Arkansas","Van Buren","City",NA,"February",2019,10017,10415,398
+"05","AR","Arkansas","Texarkana","City",NA,"February",2019,12800,13487,687
+"05","AR","Arkansas","Springdale","City",NA,"February",2019,38023,39107,1084
+"05","AR","Arkansas","Sherwood","City",NA,"February",2019,15617,16178,561
+"05","AR","Arkansas","Searcy","City",NA,"February",2019,9786,10240,454
+"05","AR","Arkansas","Russellville","City",NA,"February",2019,12879,13419,540
+"05","AR","Arkansas","Rogers","City",NA,"February",2019,34371,35419,1048
+"05","AR","Arkansas","Pine Bluff","City",NA,"February",2019,15484,16545,1061
+"05","AR","Arkansas","Paragould","City",NA,"February",2019,12115,12672,557
+"05","AR","Arkansas","North Little Rock","City",NA,"February",2019,28930,30185,1255
+"05","AR","Arkansas","Little Rock","City",NA,"February",2019,94298,97908,3610
+"05","AR","Arkansas","Jonesboro","City",NA,"February",2019,37427,38680,1253
+"05","AR","Arkansas","Jacksonville","City",NA,"February",2019,11205,11729,524
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"February",2019,14061,14708,647
+"05","AR","Arkansas","Fort Smith","City",NA,"February",2019,37723,39314,1591
+"05","AR","Arkansas","Fayetteville","City",NA,"February",2019,46157,47558,1401
+"05","AR","Arkansas","El Dorado","City",NA,"February",2019,6488,6930,442
+"05","AR","Arkansas","Conway","City",NA,"February",2019,32934,34088,1154
+"05","AR","Arkansas","Cabot","City",NA,"February",2019,11778,12182,404
+"05","AR","Arkansas","Blytheville","City",NA,"February",2019,5481,5789,308
+"05","AR","Arkansas","Bentonville","City",NA,"February",2019,25964,26660,696
+"05","AR","Arkansas","Benton","City",NA,"February",2019,17032,17591,559
+"05","AR","Arkansas","Bella Vista","City",NA,"February",2019,11643,12202,559
+"05","AR","Arkansas","Yell County","County","05149","February",2019,8037,8450,413
+"05","AR","Arkansas","Woodruff County","County","05147","February",2019,2574,2735,161
+"05","AR","Arkansas","White County","County","05145","February",2019,32099,33890,1791
+"05","AR","Arkansas","Washington County","County","05143","February",2019,120115,123613,3498
+"05","AR","Arkansas","Van Buren County","County","05141","February",2019,5373,5715,342
+"05","AR","Arkansas","Union County","County","05139","February",2019,14979,15876,897
+"05","AR","Arkansas","Stone County","County","05137","February",2019,4379,4681,302
+"05","AR","Arkansas","Sharp County","County","05135","February",2019,5455,5791,336
+"05","AR","Arkansas","Sevier County","County","05133","February",2019,5235,5518,283
+"05","AR","Arkansas","Sebastian County","County","05131","February",2019,54361,56586,2225
+"05","AR","Arkansas","Searcy County","County","05129","February",2019,2663,2805,142
+"05","AR","Arkansas","Scott County","County","05127","February",2019,4129,4296,167
+"05","AR","Arkansas","Saline County","County","05125","February",2019,57260,59173,1913
+"05","AR","Arkansas","St. Francis County","County","05123","February",2019,7658,8165,507
+"05","AR","Arkansas","Randolph County","County","05121","February",2019,6902,7233,331
+"05","AR","Arkansas","Pulaski County","County","05119","February",2019,183185,190358,7173
+"05","AR","Arkansas","Prairie County","County","05117","February",2019,3335,3508,173
+"05","AR","Arkansas","Pope County","County","05115","February",2019,27700,29063,1363
+"05","AR","Arkansas","Polk County","County","05113","February",2019,7667,8035,368
+"05","AR","Arkansas","Poinsett County","County","05111","February",2019,9702,10096,394
+"05","AR","Arkansas","Pike County","County","05109","February",2019,4001,4186,185
+"05","AR","Arkansas","Phillips County","County","05107","February",2019,6021,6464,443
+"05","AR","Arkansas","Perry County","County","05105","February",2019,4069,4282,213
+"05","AR","Arkansas","Ouachita County","County","05103","February",2019,9245,9843,598
+"05","AR","Arkansas","Newton County","County","05101","February",2019,3173,3321,148
+"05","AR","Arkansas","Nevada County","County","05099","February",2019,3543,3690,147
+"05","AR","Arkansas","Montgomery County","County","05097","February",2019,2737,2904,167
+"05","AR","Arkansas","Monroe County","County","05095","February",2019,2631,2761,130
+"05","AR","Arkansas","Mississippi County","County","05093","February",2019,16274,17181,907
+"05","AR","Arkansas","Miller County","County","05091","February",2019,18628,19593,965
+"05","AR","Arkansas","Marion County","County","05089","February",2019,6314,6631,317
+"05","AR","Arkansas","Madison County","County","05087","February",2019,7064,7297,233
+"05","AR","Arkansas","Lonoke County","County","05085","February",2019,33134,34317,1183
+"05","AR","Arkansas","Logan County","County","05083","February",2019,8162,8545,383
+"05","AR","Arkansas","Little River County","County","05081","February",2019,5193,5479,286
+"05","AR","Arkansas","Lincoln County","County","05079","February",2019,3739,3934,195
+"05","AR","Arkansas","Lee County","County","05077","February",2019,2658,2815,157
+"05","AR","Arkansas","Lawrence County","County","05075","February",2019,6481,6821,340
+"05","AR","Arkansas","Lafayette County","County","05073","February",2019,2355,2481,126
+"05","AR","Arkansas","Johnson County","County","05071","February",2019,9887,10416,529
+"05","AR","Arkansas","Jefferson County","County","05069","February",2019,26207,27839,1632
+"05","AR","Arkansas","Jackson County","County","05067","February",2019,5409,5819,410
+"05","AR","Arkansas","Izard County","County","05065","February",2019,4606,4890,284
+"05","AR","Arkansas","Independence County","County","05063","February",2019,15751,16485,734
+"05","AR","Arkansas","Howard County","County","05061","February",2019,5528,5735,207
+"05","AR","Arkansas","Hot Spring County","County","05059","February",2019,13334,13893,559
+"05","AR","Arkansas","Hempstead County","County","05057","February",2019,9604,10028,424
+"05","AR","Arkansas","Greene County","County","05055","February",2019,19174,19983,809
+"05","AR","Arkansas","Grant County","County","05053","February",2019,8084,8368,284
+"05","AR","Arkansas","Garland County","County","05051","February",2019,39553,41300,1747
+"05","AR","Arkansas","Fulton County","County","05049","February",2019,4648,4890,242
+"05","AR","Arkansas","Franklin County","County","05047","February",2019,7117,7394,277
+"05","AR","Arkansas","Faulkner County","County","05045","February",2019,60306,62438,2132
+"05","AR","Arkansas","Drew County","County","05043","February",2019,7355,7827,472
+"05","AR","Arkansas","Desha County","County","05041","February",2019,5131,5396,265
+"05","AR","Arkansas","Dallas County","County","05039","February",2019,2659,2814,155
+"05","AR","Arkansas","Cross County","County","05037","February",2019,6930,7299,369
+"05","AR","Arkansas","Crittenden County","County","05035","February",2019,20205,21205,1000
+"05","AR","Arkansas","Crawford County","County","05033","February",2019,25765,26826,1061
+"05","AR","Arkansas","Craighead County","County","05031","February",2019,53166,54935,1769
+"05","AR","Arkansas","Conway County","County","05029","February",2019,7769,8149,380
+"05","AR","Arkansas","Columbia County","County","05027","February",2019,8750,9180,430
+"05","AR","Arkansas","Cleveland County","County","05025","February",2019,3067,3214,147
+"05","AR","Arkansas","Cleburne County","County","05023","February",2019,8720,9220,500
+"05","AR","Arkansas","Clay County","County","05021","February",2019,5289,5632,343
+"05","AR","Arkansas","Clark County","County","05019","February",2019,9375,9728,353
+"05","AR","Arkansas","Chicot County","County","05017","February",2019,3009,3271,262
+"05","AR","Arkansas","Carroll County","County","05015","February",2019,11665,12232,567
+"05","AR","Arkansas","Calhoun County","County","05013","February",2019,2307,2448,141
+"05","AR","Arkansas","Bradley County","County","05011","February",2019,4276,4512,236
+"05","AR","Arkansas","Boone County","County","05009","February",2019,15393,16000,607
+"05","AR","Arkansas","Benton County","County","05007","February",2019,131637,135850,4213
+"05","AR","Arkansas","Baxter County","County","05005","February",2019,15513,16293,780
+"05","AR","Arkansas","Ashley County","County","05003","February",2019,7384,7859,475
+"05","AR","Arkansas","Arkansas County","County","05001","February",2019,8957,9312,355
+"05","AR","Arkansas","Arkansas","State",NA,"February",2019,1301762,1356816,55054
+"05","AR","Arkansas","West Memphis","City",NA,"January",2019,9806,10365,559
+"05","AR","Arkansas","Van Buren","City",NA,"January",2019,9907,10295,388
+"05","AR","Arkansas","Texarkana","City",NA,"January",2019,12644,13399,755
+"05","AR","Arkansas","Springdale","City",NA,"January",2019,37249,38328,1079
+"05","AR","Arkansas","Sherwood","City",NA,"January",2019,15406,15983,577
+"05","AR","Arkansas","Searcy","City",NA,"January",2019,9678,10153,475
+"05","AR","Arkansas","Russellville","City",NA,"January",2019,12739,13349,610
+"05","AR","Arkansas","Rogers","City",NA,"January",2019,33675,34752,1077
+"05","AR","Arkansas","Pine Bluff","City",NA,"January",2019,15214,16296,1082
+"05","AR","Arkansas","Paragould","City",NA,"January",2019,11982,12553,571
+"05","AR","Arkansas","North Little Rock","City",NA,"January",2019,28540,29766,1226
+"05","AR","Arkansas","Little Rock","City",NA,"January",2019,93028,96700,3672
+"05","AR","Arkansas","Jonesboro","City",NA,"January",2019,36940,38231,1291
+"05","AR","Arkansas","Jacksonville","City",NA,"January",2019,11055,11562,507
+"05","AR","Arkansas","Hot Springs National Park (Hot Springs)","City",NA,"January",2019,13786,14540,754
+"05","AR","Arkansas","Fort Smith","City",NA,"January",2019,37235,38727,1492
+"05","AR","Arkansas","Fayetteville","City",NA,"January",2019,45216,46666,1450
+"05","AR","Arkansas","El Dorado","City",NA,"January",2019,6484,6914,430
+"05","AR","Arkansas","Conway","City",NA,"January",2019,32520,33700,1180
+"05","AR","Arkansas","Cabot","City",NA,"January",2019,11669,12095,426
+"05","AR","Arkansas","Blytheville","City",NA,"January",2019,5446,5761,315
+"05","AR","Arkansas","Bentonville","City",NA,"January",2019,25439,26166,727
+"05","AR","Arkansas","Benton","City",NA,"January",2019,16803,17408,605
+"05","AR","Arkansas","Bella Vista","City",NA,"January",2019,11407,11999,592
+"05","AR","Arkansas","Yell County","County","05149","January",2019,8025,8469,444
+"05","AR","Arkansas","Woodruff County","County","05147","January",2019,2618,2796,178
+"05","AR","Arkansas","White County","County","05145","January",2019,31746,33598,1852
+"05","AR","Arkansas","Washington County","County","05143","January",2019,117667,121221,3554
+"05","AR","Arkansas","Van Buren County","County","05141","January",2019,5346,5717,371
+"05","AR","Arkansas","Union County","County","05139","January",2019,14968,15872,904
+"05","AR","Arkansas","Stone County","County","05137","January",2019,4397,4706,309
+"05","AR","Arkansas","Sharp County","County","05135","January",2019,5404,5763,359
+"05","AR","Arkansas","Sevier County","County","05133","January",2019,5222,5528,306
+"05","AR","Arkansas","Sebastian County","County","05131","January",2019,53658,55808,2150
+"05","AR","Arkansas","Searcy County","County","05129","January",2019,2646,2793,147
+"05","AR","Arkansas","Scott County","County","05127","January",2019,4130,4317,187
+"05","AR","Arkansas","Saline County","County","05125","January",2019,56490,58502,2012
+"05","AR","Arkansas","St. Francis County","County","05123","January",2019,7655,8167,512
+"05","AR","Arkansas","Randolph County","County","05121","January",2019,6815,7150,335
+"05","AR","Arkansas","Pulaski County","County","05119","January",2019,180718,187970,7252
+"05","AR","Arkansas","Prairie County","County","05117","January",2019,3369,3564,195
+"05","AR","Arkansas","Pope County","County","05115","January",2019,27400,28912,1512
+"05","AR","Arkansas","Polk County","County","05113","January",2019,7646,8047,401
+"05","AR","Arkansas","Poinsett County","County","05111","January",2019,9652,10080,428
+"05","AR","Arkansas","Pike County","County","05109","January",2019,4028,4232,204
+"05","AR","Arkansas","Phillips County","County","05107","January",2019,6047,6491,444
+"05","AR","Arkansas","Perry County","County","05105","January",2019,4032,4250,218
+"05","AR","Arkansas","Ouachita County","County","05103","January",2019,9167,9804,637
+"05","AR","Arkansas","Newton County","County","05101","January",2019,3151,3308,157
+"05","AR","Arkansas","Nevada County","County","05099","January",2019,3507,3649,142
+"05","AR","Arkansas","Montgomery County","County","05097","January",2019,2763,2943,180
+"05","AR","Arkansas","Monroe County","County","05095","January",2019,2646,2777,131
+"05","AR","Arkansas","Mississippi County","County","05093","January",2019,16171,17125,954
+"05","AR","Arkansas","Miller County","County","05091","January",2019,18401,19421,1020
+"05","AR","Arkansas","Marion County","County","05089","January",2019,6245,6576,331
+"05","AR","Arkansas","Madison County","County","05087","January",2019,7011,7244,233
+"05","AR","Arkansas","Lonoke County","County","05085","January",2019,32828,34041,1213
+"05","AR","Arkansas","Logan County","County","05083","January",2019,8105,8520,415
+"05","AR","Arkansas","Little River County","County","05081","January",2019,5133,5433,300
+"05","AR","Arkansas","Lincoln County","County","05079","January",2019,3713,3908,195
+"05","AR","Arkansas","Lee County","County","05077","January",2019,2709,2870,161
+"05","AR","Arkansas","Lawrence County","County","05075","January",2019,6514,6840,326
+"05","AR","Arkansas","Lafayette County","County","05073","January",2019,2345,2482,137
+"05","AR","Arkansas","Johnson County","County","05071","January",2019,9799,10349,550
+"05","AR","Arkansas","Jefferson County","County","05069","January",2019,25749,27466,1717
+"05","AR","Arkansas","Jackson County","County","05067","January",2019,5439,5874,435
+"05","AR","Arkansas","Izard County","County","05065","January",2019,4583,4926,343
+"05","AR","Arkansas","Independence County","County","05063","January",2019,15661,16408,747
+"05","AR","Arkansas","Howard County","County","05061","January",2019,5533,5757,224
+"05","AR","Arkansas","Hot Spring County","County","05059","January",2019,13119,13697,578
+"05","AR","Arkansas","Hempstead County","County","05057","January",2019,9547,9982,435
+"05","AR","Arkansas","Greene County","County","05055","January",2019,18964,19780,816
+"05","AR","Arkansas","Grant County","County","05053","January",2019,8010,8323,313
+"05","AR","Arkansas","Garland County","County","05051","January",2019,38780,40647,1867
+"05","AR","Arkansas","Fulton County","County","05049","January",2019,4608,4867,259
+"05","AR","Arkansas","Franklin County","County","05047","January",2019,7044,7330,286
+"05","AR","Arkansas","Faulkner County","County","05045","January",2019,59548,61784,2236
+"05","AR","Arkansas","Drew County","County","05043","January",2019,7400,7880,480
+"05","AR","Arkansas","Desha County","County","05041","January",2019,5197,5479,282
+"05","AR","Arkansas","Dallas County","County","05039","January",2019,2684,2842,158
+"05","AR","Arkansas","Cross County","County","05037","January",2019,6933,7318,385
+"05","AR","Arkansas","Crittenden County","County","05035","January",2019,20006,21023,1017
+"05","AR","Arkansas","Crawford County","County","05033","January",2019,25482,26531,1049
+"05","AR","Arkansas","Craighead County","County","05031","January",2019,52475,54310,1835
+"05","AR","Arkansas","Conway County","County","05029","January",2019,7695,8107,412
+"05","AR","Arkansas","Columbia County","County","05027","January",2019,8703,9159,456
+"05","AR","Arkansas","Cleveland County","County","05025","January",2019,3039,3194,155
+"05","AR","Arkansas","Cleburne County","County","05023","January",2019,8553,9057,504
+"05","AR","Arkansas","Clay County","County","05021","January",2019,5359,5728,369
+"05","AR","Arkansas","Clark County","County","05019","January",2019,9130,9542,412
+"05","AR","Arkansas","Chicot County","County","05017","January",2019,3049,3323,274
+"05","AR","Arkansas","Carroll County","County","05015","January",2019,11547,12172,625
+"05","AR","Arkansas","Calhoun County","County","05013","January",2019,2307,2446,139
+"05","AR","Arkansas","Bradley County","County","05011","January",2019,4289,4529,240
+"05","AR","Arkansas","Boone County","County","05009","January",2019,15195,15793,598
+"05","AR","Arkansas","Benton County","County","05007","January",2019,128973,133327,4354
+"05","AR","Arkansas","Baxter County","County","05005","January",2019,15392,16220,828
+"05","AR","Arkansas","Ashley County","County","05003","January",2019,7306,7802,496
+"05","AR","Arkansas","Arkansas County","County","05001","January",2019,8904,9279,375
+"05","AR","Arkansas","Arkansas","State",NA,"January",2019,1286090,1343146,57056
