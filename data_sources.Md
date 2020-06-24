@@ -27,6 +27,9 @@
 * [Employment Development Department](https://www.edd.ca.gov/about_edd/Quick_Statistics_Information_by_County.htm)
   * Format: PDF, Updated: Monthly, Level: County
   * Data: Unemployment Claims
+* [Employment Development Department](https://www.labormarketinfo.edd.ca.gov/data/interactive-labor-market-data-tools.html)
+  * Format: Tableau, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Colorado
 * [Department of Labor and Employment](https://www.colmigateway.com/gsipub/index.asp?docid=807)
