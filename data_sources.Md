@@ -35,9 +35,14 @@
 * [Department of Labor and Employment](https://www.colmigateway.com/gsipub/index.asp?docid=807)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industry, Unemployment
+* [Department of Labor and Employment](https://www.colmigateway.com/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmi7ntbB42L7XyypLjx+HEeK0=)
+  * Format: Excel, Updated: Monthly, Level: County
+  * Data: Unemployment
 
 ## Connecticut:
-No data found
+* [Connecticut Department of Labor](https://www1.ctdol.state.ct.us/lmi/ces/default.asp)
+  * Format: Excel, Updated, Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Delaware:
 No data found

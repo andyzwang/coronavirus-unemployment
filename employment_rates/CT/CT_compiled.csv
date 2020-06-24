@@ -1,0 +1,991 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
+"09","CT","Connecticut","Fairfield County","County","09001","Jan","2020",461524,482608,21084
+"09","CT","Connecticut","Fairfield County","County","09001","Feb","2020",456971,477917,20946
+"09","CT","Connecticut","Fairfield County","County","09001","Mar","2020",462891,479809,16918
+"09","CT","Connecticut","Fairfield County","County","09001","Apr","2020",398335,432447,34112
+"09","CT","Connecticut","Fairfield County","County","09001","May","2020",396403,437032,40629
+"09","CT","Connecticut","Hartford County","County","09003","Jan","2020",463800,485367,21567
+"09","CT","Connecticut","Hartford County","County","09003","Feb","2020",465164,486620,21456
+"09","CT","Connecticut","Hartford County","County","09003","Mar","2020",469994,487675,17681
+"09","CT","Connecticut","Hartford County","County","09003","Apr","2020",419680,455585,35905
+"09","CT","Connecticut","Hartford County","County","09003","May","2020",415983,458187,42204
+"09","CT","Connecticut","Litchfield County","County","09005","Jan","2020",101206,105903,4697
+"09","CT","Connecticut","Litchfield County","County","09005","Feb","2020",100261,104975,4714
+"09","CT","Connecticut","Litchfield County","County","09005","Mar","2020",101715,105491,3776
+"09","CT","Connecticut","Litchfield County","County","09005","Apr","2020",89741,96949,7208
+"09","CT","Connecticut","Litchfield County","County","09005","May","2020",89392,97016,7624
+"09","CT","Connecticut","Middlesex County","County","09007","Jan","2020",90691,94519,3828
+"09","CT","Connecticut","Middlesex County","County","09007","Feb","2020",90976,94654,3678
+"09","CT","Connecticut","Middlesex County","County","09007","Mar","2020",91716,94700,2984
+"09","CT","Connecticut","Middlesex County","County","09007","Apr","2020",82021,88083,6062
+"09","CT","Connecticut","Middlesex County","County","09007","May","2020",81213,87997,6784
+"09","CT","Connecticut","New Haven County","County","09009","Jan","2020",441901,463126,21225
+"09","CT","Connecticut","New Haven County","County","09009","Feb","2020",443182,464192,21010
+"09","CT","Connecticut","New Haven County","County","09009","Mar","2020",446089,463598,17509
+"09","CT","Connecticut","New Haven County","County","09009","Apr","2020",393114,426751,33637
+"09","CT","Connecticut","New Haven County","County","09009","May","2020",388305,427043,38738
+"09","CT","Connecticut","New London County","County","09011","Jan","2020",131116,137222,6106
+"09","CT","Connecticut","New London County","County","09011","Feb","2020",130929,136918,5989
+"09","CT","Connecticut","New London County","County","09011","Mar","2020",132017,136964,4947
+"09","CT","Connecticut","New London County","County","09011","Apr","2020",105656,120296,14640
+"09","CT","Connecticut","New London County","County","09011","May","2020",106238,123091,16853
+"09","CT","Connecticut","Tolland County","County","09013","Jan","2020",84116,87656,3540
+"09","CT","Connecticut","Tolland County","County","09013","Feb","2020",84338,87802,3464
+"09","CT","Connecticut","Tolland County","County","09013","Mar","2020",85220,87945,2725
+"09","CT","Connecticut","Tolland County","County","09013","Apr","2020",76242,81538,5296
+"09","CT","Connecticut","Tolland County","County","09013","May","2020",75561,81388,5827
+"09","CT","Connecticut","Windham County","County","09015","Jan","2020",61304,64413,3109
+"09","CT","Connecticut","Windham County","County","09015","Feb","2020",61360,64454,3094
+"09","CT","Connecticut","Windham County","County","09015","Mar","2020",62280,64788,2508
+"09","CT","Connecticut","Windham County","County","09015","Apr","2020",54729,59568,4839
+"09","CT","Connecticut","Windham County","County","09015","May","2020",54340,59832,5492
+"09","CT","Connecticut","Andover town","City",NA,"Jan","2020",1902,1989,87
+"09","CT","Connecticut","Andover town","City",NA,"Feb","2020",1906,1993,87
+"09","CT","Connecticut","Andover town","City",NA,"Mar","2020",1926,1994,68
+"09","CT","Connecticut","Andover town","City",NA,"Apr","2020",1729,1867,138
+"09","CT","Connecticut","Andover town","City",NA,"May","2020",1713,1859,146
+"09","CT","Connecticut","Ansonia city/town","City",NA,"Jan","2020",8765,9314,549
+"09","CT","Connecticut","Ansonia city/town","City",NA,"Feb","2020",8682,9258,576
+"09","CT","Connecticut","Ansonia city/town","City",NA,"Mar","2020",8796,9289,493
+"09","CT","Connecticut","Ansonia city/town","City",NA,"Apr","2020",7571,8539,968
+"09","CT","Connecticut","Ansonia city/town","City",NA,"May","2020",7500,8579,1079
+"09","CT","Connecticut","Ashford town","City",NA,"Jan","2020",2529,2630,101
+"09","CT","Connecticut","Ashford town","City",NA,"Feb","2020",2534,2636,102
+"09","CT","Connecticut","Ashford town","City",NA,"Mar","2020",2561,2640,79
+"09","CT","Connecticut","Ashford town","City",NA,"Apr","2020",2298,2472,174
+"09","CT","Connecticut","Ashford town","City",NA,"May","2020",2277,2456,179
+"09","CT","Connecticut","Avon town","City",NA,"Jan","2020",9312,9598,286
+"09","CT","Connecticut","Avon town","City",NA,"Feb","2020",9332,9609,277
+"09","CT","Connecticut","Avon town","City",NA,"Mar","2020",9431,9654,223
+"09","CT","Connecticut","Avon town","City",NA,"Apr","2020",8464,8925,461
+"09","CT","Connecticut","Avon town","City",NA,"May","2020",8386,8926,540
+"09","CT","Connecticut","Barkhamsted town","City",NA,"Jan","2020",2251,2359,108
+"09","CT","Connecticut","Barkhamsted town","City",NA,"Feb","2020",2248,2359,111
+"09","CT","Connecticut","Barkhamsted town","City",NA,"Mar","2020",2273,2357,84
+"09","CT","Connecticut","Barkhamsted town","City",NA,"Apr","2020",2042,2185,143
+"09","CT","Connecticut","Barkhamsted town","City",NA,"May","2020",2027,2175,148
+"09","CT","Connecticut","Beacon Falls town","City",NA,"Jan","2020",3418,3573,155
+"09","CT","Connecticut","Beacon Falls town","City",NA,"Feb","2020",3403,3553,150
+"09","CT","Connecticut","Beacon Falls town","City",NA,"Mar","2020",3446,3567,121
+"09","CT","Connecticut","Beacon Falls town","City",NA,"Apr","2020",3020,3275,255
+"09","CT","Connecticut","Beacon Falls town","City",NA,"May","2020",2983,3252,269
+"09","CT","Connecticut","Berlin town","City",NA,"Jan","2020",11561,12005,444
+"09","CT","Connecticut","Berlin town","City",NA,"Feb","2020",11586,12034,448
+"09","CT","Connecticut","Berlin town","City",NA,"Mar","2020",11709,12078,369
+"09","CT","Connecticut","Berlin town","City",NA,"Apr","2020",10508,11247,739
+"09","CT","Connecticut","Berlin town","City",NA,"May","2020",10412,11217,805
+"09","CT","Connecticut","Bethany town","City",NA,"Jan","2020",3058,3172,114
+"09","CT","Connecticut","Bethany town","City",NA,"Feb","2020",3084,3196,112
+"09","CT","Connecticut","Bethany town","City",NA,"Mar","2020",3093,3188,95
+"09","CT","Connecticut","Bethany town","City",NA,"Apr","2020",2747,2918,171
+"09","CT","Connecticut","Bethany town","City",NA,"May","2020",2712,2898,186
+"09","CT","Connecticut","Bethel town","City",NA,"Jan","2020",10574,10998,424
+"09","CT","Connecticut","Bethel town","City",NA,"Feb","2020",10450,10859,409
+"09","CT","Connecticut","Bethel town","City",NA,"Mar","2020",10579,10917,338
+"09","CT","Connecticut","Bethel town","City",NA,"Apr","2020",9093,9953,860
+"09","CT","Connecticut","Bethel town","City",NA,"May","2020",9228,10163,935
+"09","CT","Connecticut","Bethlehem town","City",NA,"Jan","2020",1885,1984,99
+"09","CT","Connecticut","Bethlehem town","City",NA,"Feb","2020",1877,1975,98
+"09","CT","Connecticut","Bethlehem town","City",NA,"Mar","2020",1901,1972,71
+"09","CT","Connecticut","Bethlehem town","City",NA,"Apr","2020",1666,1793,127
+"09","CT","Connecticut","Bethlehem town","City",NA,"May","2020",1645,1772,127
+"09","CT","Connecticut","Bloomfield town","City",NA,"Jan","2020",11500,12035,535
+"09","CT","Connecticut","Bloomfield town","City",NA,"Feb","2020",11525,12041,516
+"09","CT","Connecticut","Bloomfield town","City",NA,"Mar","2020",11647,12073,426
+"09","CT","Connecticut","Bloomfield town","City",NA,"Apr","2020",10452,11221,769
+"09","CT","Connecticut","Bloomfield town","City",NA,"May","2020",10357,11339,982
+"09","CT","Connecticut","Bolton town","City",NA,"Jan","2020",3124,3231,107
+"09","CT","Connecticut","Bolton town","City",NA,"Feb","2020",3130,3244,114
+"09","CT","Connecticut","Bolton town","City",NA,"Mar","2020",3164,3247,83
+"09","CT","Connecticut","Bolton town","City",NA,"Apr","2020",2839,3013,174
+"09","CT","Connecticut","Bolton town","City",NA,"May","2020",2813,3002,189
+"09","CT","Connecticut","Bozrah town","City",NA,"Jan","2020",1380,1441,61
+"09","CT","Connecticut","Bozrah town","City",NA,"Feb","2020",1377,1444,67
+"09","CT","Connecticut","Bozrah town","City",NA,"Mar","2020",1389,1445,56
+"09","CT","Connecticut","Bozrah town","City",NA,"Apr","2020",1096,1216,120
+"09","CT","Connecticut","Bozrah town","City",NA,"May","2020",1104,1241,137
+"09","CT","Connecticut","Branford town","City",NA,"Jan","2020",15723,16348,625
+"09","CT","Connecticut","Branford town","City",NA,"Feb","2020",15855,16489,634
+"09","CT","Connecticut","Branford town","City",NA,"Mar","2020",15902,16409,507
+"09","CT","Connecticut","Branford town","City",NA,"Apr","2020",14122,15352,1230
+"09","CT","Connecticut","Branford town","City",NA,"May","2020",13939,15283,1344
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"Jan","2020",65023,69557,4534
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"Feb","2020",64410,69066,4656
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"Mar","2020",65254,69140,3886
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"Apr","2020",56169,62921,6752
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"May","2020",55637,63993,8356
+"09","CT","Connecticut","Bridgewater town","City",NA,"Jan","2020",817,849,32
+"09","CT","Connecticut","Bridgewater town","City",NA,"Feb","2020",807,838,31
+"09","CT","Connecticut","Bridgewater town","City",NA,"Mar","2020",817,840,23
+"09","CT","Connecticut","Bridgewater town","City",NA,"Apr","2020",702,757,55
+"09","CT","Connecticut","Bridgewater town","City",NA,"May","2020",713,770,57
+"09","CT","Connecticut","Bristol city/town","City",NA,"Jan","2020",32001,33670,1669
+"09","CT","Connecticut","Bristol city/town","City",NA,"Feb","2020",32070,33828,1758
+"09","CT","Connecticut","Bristol city/town","City",NA,"Mar","2020",32410,33823,1413
+"09","CT","Connecticut","Bristol city/town","City",NA,"Apr","2020",29085,31943,2858
+"09","CT","Connecticut","Bristol city/town","City",NA,"May","2020",28819,31966,3147
+"09","CT","Connecticut","Brookfield town","City",NA,"Jan","2020",9038,9387,349
+"09","CT","Connecticut","Brookfield town","City",NA,"Feb","2020",8932,9273,341
+"09","CT","Connecticut","Brookfield town","City",NA,"Mar","2020",9042,9318,276
+"09","CT","Connecticut","Brookfield town","City",NA,"Apr","2020",7772,8442,670
+"09","CT","Connecticut","Brookfield town","City",NA,"May","2020",7888,8645,757
+"09","CT","Connecticut","Brooklyn town","City",NA,"Jan","2020",3997,4164,167
+"09","CT","Connecticut","Brooklyn town","City",NA,"Feb","2020",4003,4172,169
+"09","CT","Connecticut","Brooklyn town","City",NA,"Mar","2020",4073,4207,134
+"09","CT","Connecticut","Brooklyn town","City",NA,"Apr","2020",3572,3879,307
+"09","CT","Connecticut","Brooklyn town","City",NA,"May","2020",3547,3892,345
+"09","CT","Connecticut","Burlington town","City",NA,"Jan","2020",5598,5789,191
+"09","CT","Connecticut","Burlington town","City",NA,"Feb","2020",5610,5815,205
+"09","CT","Connecticut","Burlington town","City",NA,"Mar","2020",5669,5827,158
+"09","CT","Connecticut","Burlington town","City",NA,"Apr","2020",5088,5411,323
+"09","CT","Connecticut","Burlington town","City",NA,"May","2020",5041,5397,356
+"09","CT","Connecticut","Canaan town","City",NA,"Jan","2020",627,647,20
+"09","CT","Connecticut","Canaan town","City",NA,"Feb","2020",614,636,22
+"09","CT","Connecticut","Canaan town","City",NA,"Mar","2020",623,644,21
+"09","CT","Connecticut","Canaan town","City",NA,"Apr","2020",552,584,32
+"09","CT","Connecticut","Canaan town","City",NA,"May","2020",551,583,32
+"09","CT","Connecticut","Canterbury town","City",NA,"Jan","2020",2812,2938,126
+"09","CT","Connecticut","Canterbury town","City",NA,"Feb","2020",2806,2943,137
+"09","CT","Connecticut","Canterbury town","City",NA,"Mar","2020",2829,2945,116
+"09","CT","Connecticut","Canterbury town","City",NA,"Apr","2020",2233,2458,225
+"09","CT","Connecticut","Canterbury town","City",NA,"May","2020",2250,2498,248
+"09","CT","Connecticut","Canton town","City",NA,"Jan","2020",5624,5832,208
+"09","CT","Connecticut","Canton town","City",NA,"Feb","2020",5636,5833,197
+"09","CT","Connecticut","Canton town","City",NA,"Mar","2020",5695,5849,154
+"09","CT","Connecticut","Canton town","City",NA,"Apr","2020",5111,5452,341
+"09","CT","Connecticut","Canton town","City",NA,"May","2020",5064,5434,370
+"09","CT","Connecticut","Chaplin town","City",NA,"Jan","2020",1225,1285,60
+"09","CT","Connecticut","Chaplin town","City",NA,"Feb","2020",1228,1287,59
+"09","CT","Connecticut","Chaplin town","City",NA,"Mar","2020",1241,1292,51
+"09","CT","Connecticut","Chaplin town","City",NA,"Apr","2020",1113,1216,103
+"09","CT","Connecticut","Chaplin town","City",NA,"May","2020",1103,1228,125
+"09","CT","Connecticut","Cheshire town","City",NA,"Jan","2020",15450,15930,480
+"09","CT","Connecticut","Cheshire town","City",NA,"Feb","2020",15579,16015,436
+"09","CT","Connecticut","Cheshire town","City",NA,"Mar","2020",15626,15985,359
+"09","CT","Connecticut","Cheshire town","City",NA,"Apr","2020",13877,14716,839
+"09","CT","Connecticut","Cheshire town","City",NA,"May","2020",13697,14640,943
+"09","CT","Connecticut","Chester town","City",NA,"Jan","2020",2310,2396,86
+"09","CT","Connecticut","Chester town","City",NA,"Feb","2020",2321,2411,90
+"09","CT","Connecticut","Chester town","City",NA,"Mar","2020",2331,2404,73
+"09","CT","Connecticut","Chester town","City",NA,"Apr","2020",2073,2228,155
+"09","CT","Connecticut","Chester town","City",NA,"May","2020",2050,2213,163
+"09","CT","Connecticut","Clinton town","City",NA,"Jan","2020",7156,7430,274
+"09","CT","Connecticut","Clinton town","City",NA,"Feb","2020",7190,7472,282
+"09","CT","Connecticut","Clinton town","City",NA,"Mar","2020",7220,7440,220
+"09","CT","Connecticut","Clinton town","City",NA,"Apr","2020",6420,6968,548
+"09","CT","Connecticut","Clinton town","City",NA,"May","2020",6350,6981,631
+"09","CT","Connecticut","Colchester town","City",NA,"Jan","2020",9229,9610,381
+"09","CT","Connecticut","Colchester town","City",NA,"Feb","2020",9249,9615,366
+"09","CT","Connecticut","Colchester town","City",NA,"Mar","2020",9347,9645,298
+"09","CT","Connecticut","Colchester town","City",NA,"Apr","2020",8388,9050,662
+"09","CT","Connecticut","Colchester town","City",NA,"May","2020",8311,9005,694
+"09","CT","Connecticut","Colebrook town","City",NA,"Jan","2020",799,841,42
+"09","CT","Connecticut","Colebrook town","City",NA,"Feb","2020",792,836,44
+"09","CT","Connecticut","Colebrook town","City",NA,"Mar","2020",807,843,36
+"09","CT","Connecticut","Colebrook town","City",NA,"Apr","2020",715,762,47
+"09","CT","Connecticut","Colebrook town","City",NA,"May","2020",710,757,47
+"09","CT","Connecticut","Columbia town","City",NA,"Jan","2020",3172,3311,139
+"09","CT","Connecticut","Columbia town","City",NA,"Feb","2020",3179,3310,131
+"09","CT","Connecticut","Columbia town","City",NA,"Mar","2020",3212,3317,105
+"09","CT","Connecticut","Columbia town","City",NA,"Apr","2020",2883,3086,203
+"09","CT","Connecticut","Columbia town","City",NA,"May","2020",2856,3067,211
+"09","CT","Connecticut","Cornwall town","City",NA,"Jan","2020",752,779,27
+"09","CT","Connecticut","Cornwall town","City",NA,"Feb","2020",736,761,25
+"09","CT","Connecticut","Cornwall town","City",NA,"Mar","2020",747,765,18
+"09","CT","Connecticut","Cornwall town","City",NA,"Apr","2020",661,704,43
+"09","CT","Connecticut","Cornwall town","City",NA,"May","2020",660,706,46
+"09","CT","Connecticut","Coventry town","City",NA,"Jan","2020",7697,8008,311
+"09","CT","Connecticut","Coventry town","City",NA,"Feb","2020",7713,8002,289
+"09","CT","Connecticut","Coventry town","City",NA,"Mar","2020",7795,8039,244
+"09","CT","Connecticut","Coventry town","City",NA,"Apr","2020",6995,7500,505
+"09","CT","Connecticut","Coventry town","City",NA,"May","2020",6931,7464,533
+"09","CT","Connecticut","Cromwell town","City",NA,"Jan","2020",7796,8121,325
+"09","CT","Connecticut","Cromwell town","City",NA,"Feb","2020",7813,8113,300
+"09","CT","Connecticut","Cromwell town","City",NA,"Mar","2020",7895,8143,248
+"09","CT","Connecticut","Cromwell town","City",NA,"Apr","2020",7085,7603,518
+"09","CT","Connecticut","Cromwell town","City",NA,"May","2020",7021,7621,600
+"09","CT","Connecticut","Danbury city/town","City",NA,"Jan","2020",45850,47826,1976
+"09","CT","Connecticut","Danbury city/town","City",NA,"Feb","2020",45314,47289,1975
+"09","CT","Connecticut","Danbury city/town","City",NA,"Mar","2020",45872,47419,1547
+"09","CT","Connecticut","Danbury city/town","City",NA,"Apr","2020",39430,42811,3381
+"09","CT","Connecticut","Danbury city/town","City",NA,"May","2020",40015,43837,3822
+"09","CT","Connecticut","Darien town","City",NA,"Jan","2020",8370,8672,302
+"09","CT","Connecticut","Darien town","City",NA,"Feb","2020",8291,8566,275
+"09","CT","Connecticut","Darien town","City",NA,"Mar","2020",8399,8609,210
+"09","CT","Connecticut","Darien town","City",NA,"Apr","2020",7230,7566,336
+"09","CT","Connecticut","Darien town","City",NA,"May","2020",7162,7587,425
+"09","CT","Connecticut","Deep River town","City",NA,"Jan","2020",2814,2927,113
+"09","CT","Connecticut","Deep River town","City",NA,"Feb","2020",2827,2947,120
+"09","CT","Connecticut","Deep River town","City",NA,"Mar","2020",2839,2928,89
+"09","CT","Connecticut","Deep River town","City",NA,"Apr","2020",2525,2705,180
+"09","CT","Connecticut","Deep River town","City",NA,"May","2020",2497,2673,176
+"09","CT","Connecticut","Derby city/town","City",NA,"Jan","2020",6399,6725,326
+"09","CT","Connecticut","Derby city/town","City",NA,"Feb","2020",6338,6678,340
+"09","CT","Connecticut","Derby city/town","City",NA,"Mar","2020",6421,6725,304
+"09","CT","Connecticut","Derby city/town","City",NA,"Apr","2020",5527,6143,616
+"09","CT","Connecticut","Derby city/town","City",NA,"May","2020",5475,6179,704
+"09","CT","Connecticut","Durham town","City",NA,"Jan","2020",4229,4368,139
+"09","CT","Connecticut","Durham town","City",NA,"Feb","2020",4249,4387,138
+"09","CT","Connecticut","Durham town","City",NA,"Mar","2020",4266,4370,104
+"09","CT","Connecticut","Durham town","City",NA,"Apr","2020",3794,4010,216
+"09","CT","Connecticut","Durham town","City",NA,"May","2020",3752,4001,249
+"09","CT","Connecticut","Eastford town","City",NA,"Jan","2020",988,1028,40
+"09","CT","Connecticut","Eastford town","City",NA,"Feb","2020",977,1016,39
+"09","CT","Connecticut","Eastford town","City",NA,"Mar","2020",985,1016,31
+"09","CT","Connecticut","Eastford town","City",NA,"Apr","2020",872,932,60
+"09","CT","Connecticut","Eastford town","City",NA,"May","2020",863,921,58
+"09","CT","Connecticut","East Granby town","City",NA,"Jan","2020",3028,3124,96
+"09","CT","Connecticut","East Granby town","City",NA,"Feb","2020",3034,3123,89
+"09","CT","Connecticut","East Granby town","City",NA,"Mar","2020",3066,3149,83
+"09","CT","Connecticut","East Granby town","City",NA,"Apr","2020",2752,2931,179
+"09","CT","Connecticut","East Granby town","City",NA,"May","2020",2726,2926,200
+"09","CT","Connecticut","East Haddam town","City",NA,"Jan","2020",4899,5119,220
+"09","CT","Connecticut","East Haddam town","City",NA,"Feb","2020",4909,5118,209
+"09","CT","Connecticut","East Haddam town","City",NA,"Mar","2020",4961,5135,174
+"09","CT","Connecticut","East Haddam town","City",NA,"Apr","2020",4452,4796,344
+"09","CT","Connecticut","East Haddam town","City",NA,"May","2020",4411,4791,380
+"09","CT","Connecticut","East Hampton town","City",NA,"Jan","2020",7594,7902,308
+"09","CT","Connecticut","East Hampton town","City",NA,"Feb","2020",7610,7918,308
+"09","CT","Connecticut","East Hampton town","City",NA,"Mar","2020",7691,7929,238
+"09","CT","Connecticut","East Hampton town","City",NA,"Apr","2020",6902,7370,468
+"09","CT","Connecticut","East Hampton town","City",NA,"May","2020",6839,7367,528
+"09","CT","Connecticut","East Hartford town","City",NA,"Jan","2020",26123,27573,1450
+"09","CT","Connecticut","East Hartford town","City",NA,"Feb","2020",26180,27615,1435
+"09","CT","Connecticut","East Hartford town","City",NA,"Mar","2020",26457,27672,1215
+"09","CT","Connecticut","East Hartford town","City",NA,"Apr","2020",23743,26365,2622
+"09","CT","Connecticut","East Hartford town","City",NA,"May","2020",23526,26642,3116
+"09","CT","Connecticut","East Haven town","City",NA,"Jan","2020",15259,16016,757
+"09","CT","Connecticut","East Haven town","City",NA,"Feb","2020",15387,16140,753
+"09","CT","Connecticut","East Haven town","City",NA,"Mar","2020",15434,16038,604
+"09","CT","Connecticut","East Haven town","City",NA,"Apr","2020",13706,15091,1385
+"09","CT","Connecticut","East Haven town","City",NA,"May","2020",13528,15068,1540
+"09","CT","Connecticut","East Lyme town","City",NA,"Jan","2020",8301,8671,370
+"09","CT","Connecticut","East Lyme town","City",NA,"Feb","2020",8286,8645,359
+"09","CT","Connecticut","East Lyme town","City",NA,"Mar","2020",8353,8648,295
+"09","CT","Connecticut","East Lyme town","City",NA,"Apr","2020",6593,7257,664
+"09","CT","Connecticut","East Lyme town","City",NA,"May","2020",6642,7413,771
+"09","CT","Connecticut","Easton town","City",NA,"Jan","2020",3717,3859,142
+"09","CT","Connecticut","Easton town","City",NA,"Feb","2020",3682,3807,125
+"09","CT","Connecticut","Easton town","City",NA,"Mar","2020",3730,3830,100
+"09","CT","Connecticut","Easton town","City",NA,"Apr","2020",3211,3413,202
+"09","CT","Connecticut","Easton town","City",NA,"May","2020",3181,3414,233
+"09","CT","Connecticut","East Windsor town","City",NA,"Jan","2020",6289,6584,295
+"09","CT","Connecticut","East Windsor town","City",NA,"Feb","2020",6355,6650,295
+"09","CT","Connecticut","East Windsor town","City",NA,"Mar","2020",6410,6639,229
+"09","CT","Connecticut","East Windsor town","City",NA,"Apr","2020",5447,5926,479
+"09","CT","Connecticut","East Windsor town","City",NA,"May","2020",5418,5933,515
+"09","CT","Connecticut","Ellington town","City",NA,"Jan","2020",9352,9715,363
+"09","CT","Connecticut","Ellington town","City",NA,"Feb","2020",9372,9739,367
+"09","CT","Connecticut","Ellington town","City",NA,"Mar","2020",9471,9756,285
+"09","CT","Connecticut","Ellington town","City",NA,"Apr","2020",8500,9090,590
+"09","CT","Connecticut","Ellington town","City",NA,"May","2020",8422,9064,642
+"09","CT","Connecticut","Enfield town","City",NA,"Jan","2020",22377,23327,950
+"09","CT","Connecticut","Enfield town","City",NA,"Feb","2020",22613,23571,958
+"09","CT","Connecticut","Enfield town","City",NA,"Mar","2020",22806,23612,806
+"09","CT","Connecticut","Enfield town","City",NA,"Apr","2020",19380,21088,1708
+"09","CT","Connecticut","Enfield town","City",NA,"May","2020",19278,21216,1938
+"09","CT","Connecticut","Essex town","City",NA,"Jan","2020",3363,3497,134
+"09","CT","Connecticut","Essex town","City",NA,"Feb","2020",3380,3517,137
+"09","CT","Connecticut","Essex town","City",NA,"Mar","2020",3394,3501,107
+"09","CT","Connecticut","Essex town","City",NA,"Apr","2020",3018,3228,210
+"09","CT","Connecticut","Essex town","City",NA,"May","2020",2985,3226,241
+"09","CT","Connecticut","Fairfield town","City",NA,"Jan","2020",28462,29605,1143
+"09","CT","Connecticut","Fairfield town","City",NA,"Feb","2020",28193,29292,1099
+"09","CT","Connecticut","Fairfield town","City",NA,"Mar","2020",28563,29420,857
+"09","CT","Connecticut","Fairfield town","City",NA,"Apr","2020",24586,26289,1703
+"09","CT","Connecticut","Fairfield town","City",NA,"May","2020",24353,26425,2072
+"09","CT","Connecticut","Farmington town","City",NA,"Jan","2020",13999,14487,488
+"09","CT","Connecticut","Farmington town","City",NA,"Feb","2020",14030,14509,479
+"09","CT","Connecticut","Farmington town","City",NA,"Mar","2020",14178,14574,396
+"09","CT","Connecticut","Farmington town","City",NA,"Apr","2020",12724,13516,792
+"09","CT","Connecticut","Farmington town","City",NA,"May","2020",12607,13562,955
+"09","CT","Connecticut","Franklin town","City",NA,"Jan","2020",1033,1076,43
+"09","CT","Connecticut","Franklin town","City",NA,"Feb","2020",1031,1078,47
+"09","CT","Connecticut","Franklin town","City",NA,"Mar","2020",1039,1076,37
+"09","CT","Connecticut","Franklin town","City",NA,"Apr","2020",820,903,83
+"09","CT","Connecticut","Franklin town","City",NA,"May","2020",826,917,91
+"09","CT","Connecticut","Glastonbury town","City",NA,"Jan","2020",18775,19352,577
+"09","CT","Connecticut","Glastonbury town","City",NA,"Feb","2020",18816,19363,547
+"09","CT","Connecticut","Glastonbury town","City",NA,"Mar","2020",19015,19448,433
+"09","CT","Connecticut","Glastonbury town","City",NA,"Apr","2020",17064,18044,980
+"09","CT","Connecticut","Glastonbury town","City",NA,"May","2020",16908,18092,1184
+"09","CT","Connecticut","Goshen town","City",NA,"Jan","2020",1602,1670,68
+"09","CT","Connecticut","Goshen town","City",NA,"Feb","2020",1567,1633,66
+"09","CT","Connecticut","Goshen town","City",NA,"Mar","2020",1592,1646,54
+"09","CT","Connecticut","Goshen town","City",NA,"Apr","2020",1409,1501,92
+"09","CT","Connecticut","Goshen town","City",NA,"May","2020",1407,1499,92
+"09","CT","Connecticut","Granby town","City",NA,"Jan","2020",6776,6997,221
+"09","CT","Connecticut","Granby town","City",NA,"Feb","2020",6791,7009,218
+"09","CT","Connecticut","Granby town","City",NA,"Mar","2020",6862,7032,170
+"09","CT","Connecticut","Granby town","City",NA,"Apr","2020",6158,6482,324
+"09","CT","Connecticut","Granby town","City",NA,"May","2020",6102,6467,365
+"09","CT","Connecticut","Greenwich town","City",NA,"Jan","2020",28062,29092,1030
+"09","CT","Connecticut","Greenwich town","City",NA,"Feb","2020",27798,28757,959
+"09","CT","Connecticut","Greenwich town","City",NA,"Mar","2020",28162,28928,766
+"09","CT","Connecticut","Greenwich town","City",NA,"Apr","2020",24241,25633,1392
+"09","CT","Connecticut","Greenwich town","City",NA,"May","2020",24011,25712,1701
+"09","CT","Connecticut","Griswold town","City",NA,"Jan","2020",5994,6321,327
+"09","CT","Connecticut","Griswold town","City",NA,"Feb","2020",5983,6299,316
+"09","CT","Connecticut","Griswold town","City",NA,"Mar","2020",6031,6285,254
+"09","CT","Connecticut","Griswold town","City",NA,"Apr","2020",4760,5478,718
+"09","CT","Connecticut","Griswold town","City",NA,"May","2020",4796,5615,819
+"09","CT","Connecticut","Groton town","City",NA,"Jan","2020",17659,18332,673
+"09","CT","Connecticut","Groton town","City",NA,"Feb","2020",17626,18291,665
+"09","CT","Connecticut","Groton town","City",NA,"Mar","2020",17768,18317,549
+"09","CT","Connecticut","Groton town","City",NA,"Apr","2020",14026,15782,1756
+"09","CT","Connecticut","Groton town","City",NA,"May","2020",14130,16128,1998
+"09","CT","Connecticut","Guilford town","City",NA,"Jan","2020",12745,13124,379
+"09","CT","Connecticut","Guilford town","City",NA,"Feb","2020",12852,13224,372
+"09","CT","Connecticut","Guilford town","City",NA,"Mar","2020",12890,13179,289
+"09","CT","Connecticut","Guilford town","City",NA,"Apr","2020",11448,12109,661
+"09","CT","Connecticut","Guilford town","City",NA,"May","2020",11299,12044,745
+"09","CT","Connecticut","Haddam town","City",NA,"Jan","2020",4986,5184,198
+"09","CT","Connecticut","Haddam town","City",NA,"Feb","2020",4997,5181,184
+"09","CT","Connecticut","Haddam town","City",NA,"Mar","2020",5050,5198,148
+"09","CT","Connecticut","Haddam town","City",NA,"Apr","2020",4532,4823,291
+"09","CT","Connecticut","Haddam town","City",NA,"May","2020",4490,4812,322
+"09","CT","Connecticut","Hamden town","City",NA,"Jan","2020",34480,35891,1411
+"09","CT","Connecticut","Hamden town","City",NA,"Feb","2020",34770,36089,1319
+"09","CT","Connecticut","Hamden town","City",NA,"Mar","2020",34874,35954,1080
+"09","CT","Connecticut","Hamden town","City",NA,"Apr","2020",30971,33045,2074
+"09","CT","Connecticut","Hamden town","City",NA,"May","2020",30569,33056,2487
+"09","CT","Connecticut","Hampton town","City",NA,"Jan","2020",1042,1084,42
+"09","CT","Connecticut","Hampton town","City",NA,"Feb","2020",1029,1067,38
+"09","CT","Connecticut","Hampton town","City",NA,"Mar","2020",1038,1068,30
+"09","CT","Connecticut","Hampton town","City",NA,"Apr","2020",919,976,57
+"09","CT","Connecticut","Hampton town","City",NA,"May","2020",909,977,68
+"09","CT","Connecticut","Hartford city/town","City",NA,"Jan","2020",49918,53730,3812
+"09","CT","Connecticut","Hartford city/town","City",NA,"Feb","2020",50026,53891,3865
+"09","CT","Connecticut","Hartford city/town","City",NA,"Mar","2020",50555,53852,3297
+"09","CT","Connecticut","Hartford city/town","City",NA,"Apr","2020",45369,50956,5587
+"09","CT","Connecticut","Hartford city/town","City",NA,"May","2020",44954,52073,7119
+"09","CT","Connecticut","Hartland town","City",NA,"Jan","2020",1132,1182,50
+"09","CT","Connecticut","Hartland town","City",NA,"Feb","2020",1134,1177,43
+"09","CT","Connecticut","Hartland town","City",NA,"Mar","2020",1146,1178,32
+"09","CT","Connecticut","Hartland town","City",NA,"Apr","2020",1029,1095,66
+"09","CT","Connecticut","Hartland town","City",NA,"May","2020",1019,1091,72
+"09","CT","Connecticut","Harwinton town","City",NA,"Jan","2020",3158,3285,127
+"09","CT","Connecticut","Harwinton town","City",NA,"Feb","2020",3154,3283,129
+"09","CT","Connecticut","Harwinton town","City",NA,"Mar","2020",3189,3281,92
+"09","CT","Connecticut","Harwinton town","City",NA,"Apr","2020",2865,3037,172
+"09","CT","Connecticut","Harwinton town","City",NA,"May","2020",2843,3032,189
+"09","CT","Connecticut","Hebron town","City",NA,"Jan","2020",5447,5664,217
+"09","CT","Connecticut","Hebron town","City",NA,"Feb","2020",5459,5682,223
+"09","CT","Connecticut","Hebron town","City",NA,"Mar","2020",5517,5690,173
+"09","CT","Connecticut","Hebron town","City",NA,"Apr","2020",4951,5272,321
+"09","CT","Connecticut","Hebron town","City",NA,"May","2020",4906,5259,353
+"09","CT","Connecticut","Kent town","City",NA,"Jan","2020",1462,1517,55
+"09","CT","Connecticut","Kent town","City",NA,"Feb","2020",1430,1487,57
+"09","CT","Connecticut","Kent town","City",NA,"Mar","2020",1452,1498,46
+"09","CT","Connecticut","Kent town","City",NA,"Apr","2020",1285,1363,78
+"09","CT","Connecticut","Kent town","City",NA,"May","2020",1283,1362,79
+"09","CT","Connecticut","Killingly town","City",NA,"Jan","2020",9263,9718,455
+"09","CT","Connecticut","Killingly town","City",NA,"Feb","2020",9275,9736,461
+"09","CT","Connecticut","Killingly town","City",NA,"Mar","2020",9438,9832,394
+"09","CT","Connecticut","Killingly town","City",NA,"Apr","2020",8276,9031,755
+"09","CT","Connecticut","Killingly town","City",NA,"May","2020",8219,9086,867
+"09","CT","Connecticut","Killingworth town","City",NA,"Jan","2020",3762,3901,139
+"09","CT","Connecticut","Killingworth town","City",NA,"Feb","2020",3780,3921,141
+"09","CT","Connecticut","Killingworth town","City",NA,"Mar","2020",3796,3906,110
+"09","CT","Connecticut","Killingworth town","City",NA,"Apr","2020",3376,3566,190
+"09","CT","Connecticut","Killingworth town","City",NA,"May","2020",3338,3560,222
+"09","CT","Connecticut","Lebanon town","City",NA,"Jan","2020",3988,4198,210
+"09","CT","Connecticut","Lebanon town","City",NA,"Feb","2020",3996,4206,210
+"09","CT","Connecticut","Lebanon town","City",NA,"Mar","2020",4039,4196,157
+"09","CT","Connecticut","Lebanon town","City",NA,"Apr","2020",3624,3940,316
+"09","CT","Connecticut","Lebanon town","City",NA,"May","2020",3591,3918,327
+"09","CT","Connecticut","Ledyard town","City",NA,"Jan","2020",7700,8017,317
+"09","CT","Connecticut","Ledyard town","City",NA,"Feb","2020",7686,7980,294
+"09","CT","Connecticut","Ledyard town","City",NA,"Mar","2020",7748,7984,236
+"09","CT","Connecticut","Ledyard town","City",NA,"Apr","2020",6116,6994,878
+"09","CT","Connecticut","Ledyard town","City",NA,"May","2020",6161,7175,1014
+"09","CT","Connecticut","Lisbon town","City",NA,"Jan","2020",2252,2366,114
+"09","CT","Connecticut","Lisbon town","City",NA,"Feb","2020",2248,2361,113
+"09","CT","Connecticut","Lisbon town","City",NA,"Mar","2020",2266,2350,84
+"09","CT","Connecticut","Lisbon town","City",NA,"Apr","2020",1789,2013,224
+"09","CT","Connecticut","Lisbon town","City",NA,"May","2020",1802,2053,251
+"09","CT","Connecticut","Litchfield town","City",NA,"Jan","2020",4665,4854,189
+"09","CT","Connecticut","Litchfield town","City",NA,"Feb","2020",4563,4749,186
+"09","CT","Connecticut","Litchfield town","City",NA,"Mar","2020",4634,4775,141
+"09","CT","Connecticut","Litchfield town","City",NA,"Apr","2020",4102,4369,267
+"09","CT","Connecticut","Litchfield town","City",NA,"May","2020",4096,4379,283
+"09","CT","Connecticut","Lyme town","City",NA,"Jan","2020",1178,1216,38
+"09","CT","Connecticut","Lyme town","City",NA,"Feb","2020",1176,1210,34
+"09","CT","Connecticut","Lyme town","City",NA,"Mar","2020",1185,1207,22
+"09","CT","Connecticut","Lyme town","City",NA,"Apr","2020",936,988,52
+"09","CT","Connecticut","Lyme town","City",NA,"May","2020",943,1002,59
+"09","CT","Connecticut","Madison town","City",NA,"Jan","2020",8940,9250,310
+"09","CT","Connecticut","Madison town","City",NA,"Feb","2020",9015,9297,282
+"09","CT","Connecticut","Madison town","City",NA,"Mar","2020",9042,9260,218
+"09","CT","Connecticut","Madison town","City",NA,"Apr","2020",8030,8494,464
+"09","CT","Connecticut","Madison town","City",NA,"May","2020",7926,8484,558
+"09","CT","Connecticut","Manchester town","City",NA,"Jan","2020",32104,33478,1374
+"09","CT","Connecticut","Manchester town","City",NA,"Feb","2020",32173,33546,1373
+"09","CT","Connecticut","Manchester town","City",NA,"Mar","2020",32513,33639,1126
+"09","CT","Connecticut","Manchester town","City",NA,"Apr","2020",29178,31927,2749
+"09","CT","Connecticut","Manchester town","City",NA,"May","2020",28911,32112,3201
+"09","CT","Connecticut","Mansfield town","City",NA,"Jan","2020",12347,12935,588
+"09","CT","Connecticut","Mansfield town","City",NA,"Feb","2020",12374,12883,509
+"09","CT","Connecticut","Mansfield town","City",NA,"Mar","2020",12505,12843,338
+"09","CT","Connecticut","Mansfield town","City",NA,"Apr","2020",11222,11620,398
+"09","CT","Connecticut","Mansfield town","City",NA,"May","2020",11119,11648,529
+"09","CT","Connecticut","Marlborough town","City",NA,"Jan","2020",3534,3674,140
+"09","CT","Connecticut","Marlborough town","City",NA,"Feb","2020",3541,3681,140
+"09","CT","Connecticut","Marlborough town","City",NA,"Mar","2020",3579,3682,103
+"09","CT","Connecticut","Marlborough town","City",NA,"Apr","2020",3212,3406,194
+"09","CT","Connecticut","Marlborough town","City",NA,"May","2020",3182,3405,223
+"09","CT","Connecticut","Meriden city/town","City",NA,"Jan","2020",30861,32565,1704
+"09","CT","Connecticut","Meriden city/town","City",NA,"Feb","2020",31121,32822,1701
+"09","CT","Connecticut","Meriden city/town","City",NA,"Mar","2020",31214,32661,1447
+"09","CT","Connecticut","Meriden city/town","City",NA,"Apr","2020",27720,30367,2647
+"09","CT","Connecticut","Meriden city/town","City",NA,"May","2020",27361,30323,2962
+"09","CT","Connecticut","Middlebury town","City",NA,"Jan","2020",3845,3999,154
+"09","CT","Connecticut","Middlebury town","City",NA,"Feb","2020",3827,3974,147
+"09","CT","Connecticut","Middlebury town","City",NA,"Mar","2020",3876,4008,132
+"09","CT","Connecticut","Middlebury town","City",NA,"Apr","2020",3397,3659,262
+"09","CT","Connecticut","Middlebury town","City",NA,"May","2020",3355,3645,290
+"09","CT","Connecticut","Middlefield town","City",NA,"Jan","2020",2474,2604,130
+"09","CT","Connecticut","Middlefield town","City",NA,"Feb","2020",2485,2617,132
+"09","CT","Connecticut","Middlefield town","City",NA,"Mar","2020",2496,2605,109
+"09","CT","Connecticut","Middlefield town","City",NA,"Apr","2020",2219,2391,172
+"09","CT","Connecticut","Middlefield town","City",NA,"May","2020",2195,2373,178
+"09","CT","Connecticut","Middletown city/town","City",NA,"Jan","2020",25356,26514,1158
+"09","CT","Connecticut","Middletown city/town","City",NA,"Feb","2020",25410,26489,1079
+"09","CT","Connecticut","Middletown city/town","City",NA,"Mar","2020",25679,26588,909
+"09","CT","Connecticut","Middletown city/town","City",NA,"Apr","2020",23045,24828,1783
+"09","CT","Connecticut","Middletown city/town","City",NA,"May","2020",22834,24848,2014
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"Jan","2020",29533,30736,1203
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"Feb","2020",29254,30483,1229
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"Mar","2020",29637,30644,1007
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"Apr","2020",25511,27797,2286
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"May","2020",25269,27823,2554
+"09","CT","Connecticut","Monroe town","City",NA,"Jan","2020",9699,10131,432
+"09","CT","Connecticut","Monroe town","City",NA,"Feb","2020",9608,10042,434
+"09","CT","Connecticut","Monroe town","City",NA,"Mar","2020",9734,10079,345
+"09","CT","Connecticut","Monroe town","City",NA,"Apr","2020",8379,9058,679
+"09","CT","Connecticut","Monroe town","City",NA,"May","2020",8299,9016,717
+"09","CT","Connecticut","Montville town","City",NA,"Jan","2020",8800,9244,444
+"09","CT","Connecticut","Montville town","City",NA,"Feb","2020",8784,9202,418
+"09","CT","Connecticut","Montville town","City",NA,"Mar","2020",8855,9220,365
+"09","CT","Connecticut","Montville town","City",NA,"Apr","2020",6990,8186,1196
+"09","CT","Connecticut","Montville town","City",NA,"May","2020",7041,8411,1370
+"09","CT","Connecticut","Morris town","City",NA,"Jan","2020",1382,1439,57
+"09","CT","Connecticut","Morris town","City",NA,"Feb","2020",1352,1408,56
+"09","CT","Connecticut","Morris town","City",NA,"Mar","2020",1373,1421,48
+"09","CT","Connecticut","Morris town","City",NA,"Apr","2020",1215,1295,80
+"09","CT","Connecticut","Morris town","City",NA,"May","2020",1213,1301,88
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"Jan","2020",16577,17500,923
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"Feb","2020",16502,17417,915
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"Mar","2020",16713,17462,749
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"Apr","2020",14645,16076,1431
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"May","2020",14468,16018,1550
+"09","CT","Connecticut","New Britain city/town","City",NA,"Jan","2020",35073,37277,2204
+"09","CT","Connecticut","New Britain city/town","City",NA,"Feb","2020",35148,37358,2210
+"09","CT","Connecticut","New Britain city/town","City",NA,"Mar","2020",35520,37418,1898
+"09","CT","Connecticut","New Britain city/town","City",NA,"Apr","2020",31877,35336,3459
+"09","CT","Connecticut","New Britain city/town","City",NA,"May","2020",31585,35737,4152
+"09","CT","Connecticut","New Canaan town","City",NA,"Jan","2020",8104,8410,306
+"09","CT","Connecticut","New Canaan town","City",NA,"Feb","2020",8028,8309,281
+"09","CT","Connecticut","New Canaan town","City",NA,"Mar","2020",8133,8346,213
+"09","CT","Connecticut","New Canaan town","City",NA,"Apr","2020",7001,7352,351
+"09","CT","Connecticut","New Canaan town","City",NA,"May","2020",6934,7383,449
+"09","CT","Connecticut","New Fairfield town","City",NA,"Jan","2020",6898,7182,284
+"09","CT","Connecticut","New Fairfield town","City",NA,"Feb","2020",6818,7096,278
+"09","CT","Connecticut","New Fairfield town","City",NA,"Mar","2020",6902,7123,221
+"09","CT","Connecticut","New Fairfield town","City",NA,"Apr","2020",5932,6426,494
+"09","CT","Connecticut","New Fairfield town","City",NA,"May","2020",6021,6585,564
+"09","CT","Connecticut","New Hartford town","City",NA,"Jan","2020",3911,4052,141
+"09","CT","Connecticut","New Hartford town","City",NA,"Feb","2020",3907,4050,143
+"09","CT","Connecticut","New Hartford town","City",NA,"Mar","2020",3950,4064,114
+"09","CT","Connecticut","New Hartford town","City",NA,"Apr","2020",3549,3795,246
+"09","CT","Connecticut","New Hartford town","City",NA,"May","2020",3521,3782,261
+"09","CT","Connecticut","New Haven city/town","City",NA,"Jan","2020",62139,65374,3235
+"09","CT","Connecticut","New Haven city/town","City",NA,"Feb","2020",62661,65805,3144
+"09","CT","Connecticut","New Haven city/town","City",NA,"Mar","2020",62849,65491,2642
+"09","CT","Connecticut","New Haven city/town","City",NA,"Apr","2020",55814,59998,4184
+"09","CT","Connecticut","New Haven city/town","City",NA,"May","2020",55091,60321,5230
+"09","CT","Connecticut","Newington town","City",NA,"Jan","2020",16870,17550,680
+"09","CT","Connecticut","Newington town","City",NA,"Feb","2020",16906,17560,654
+"09","CT","Connecticut","Newington town","City",NA,"Mar","2020",17085,17606,521
+"09","CT","Connecticut","Newington town","City",NA,"Apr","2020",15333,16649,1316
+"09","CT","Connecticut","Newington town","City",NA,"May","2020",15192,16704,1512
+"09","CT","Connecticut","New London city/town","City",NA,"Jan","2020",11380,12087,707
+"09","CT","Connecticut","New London city/town","City",NA,"Feb","2020",11360,12081,721
+"09","CT","Connecticut","New London city/town","City",NA,"Mar","2020",11451,12054,603
+"09","CT","Connecticut","New London city/town","City",NA,"Apr","2020",9039,10651,1612
+"09","CT","Connecticut","New London city/town","City",NA,"May","2020",9106,11028,1922
+"09","CT","Connecticut","New Milford town","City",NA,"Jan","2020",14733,15397,664
+"09","CT","Connecticut","New Milford town","City",NA,"Feb","2020",14560,15223,663
+"09","CT","Connecticut","New Milford town","City",NA,"Mar","2020",14740,15270,530
+"09","CT","Connecticut","New Milford town","City",NA,"Apr","2020",12670,13900,1230
+"09","CT","Connecticut","New Milford town","City",NA,"May","2020",12858,14120,1262
+"09","CT","Connecticut","Newtown town","City",NA,"Jan","2020",13736,14256,520
+"09","CT","Connecticut","Newtown town","City",NA,"Feb","2020",13575,14079,504
+"09","CT","Connecticut","Newtown town","City",NA,"Mar","2020",13742,14152,410
+"09","CT","Connecticut","Newtown town","City",NA,"Apr","2020",11812,12648,836
+"09","CT","Connecticut","Newtown town","City",NA,"May","2020",11988,12928,940
+"09","CT","Connecticut","Norfolk town","City",NA,"Jan","2020",882,927,45
+"09","CT","Connecticut","Norfolk town","City",NA,"Feb","2020",862,904,42
+"09","CT","Connecticut","Norfolk town","City",NA,"Mar","2020",876,910,34
+"09","CT","Connecticut","Norfolk town","City",NA,"Apr","2020",775,824,49
+"09","CT","Connecticut","Norfolk town","City",NA,"May","2020",774,823,49
+"09","CT","Connecticut","North Branford town","City",NA,"Jan","2020",8031,8380,349
+"09","CT","Connecticut","North Branford town","City",NA,"Feb","2020",8099,8446,347
+"09","CT","Connecticut","North Branford town","City",NA,"Mar","2020",8123,8371,248
+"09","CT","Connecticut","North Branford town","City",NA,"Apr","2020",7214,7744,530
+"09","CT","Connecticut","North Branford town","City",NA,"May","2020",7120,7695,575
+"09","CT","Connecticut","North Canaan town","City",NA,"Jan","2020",1706,1794,88
+"09","CT","Connecticut","North Canaan town","City",NA,"Feb","2020",1669,1753,84
+"09","CT","Connecticut","North Canaan town","City",NA,"Mar","2020",1695,1764,69
+"09","CT","Connecticut","North Canaan town","City",NA,"Apr","2020",1500,1614,114
+"09","CT","Connecticut","North Canaan town","City",NA,"May","2020",1498,1598,100
+"09","CT","Connecticut","North Haven town","City",NA,"Jan","2020",13119,13653,534
+"09","CT","Connecticut","North Haven town","City",NA,"Feb","2020",13229,13747,518
+"09","CT","Connecticut","North Haven town","City",NA,"Mar","2020",13269,13690,421
+"09","CT","Connecticut","North Haven town","City",NA,"Apr","2020",11784,12712,928
+"09","CT","Connecticut","North Haven town","City",NA,"May","2020",11631,12686,1055
+"09","CT","Connecticut","North Stonington town","City",NA,"Jan","2020",2839,2967,128
+"09","CT","Connecticut","North Stonington town","City",NA,"Feb","2020",2834,2956,122
+"09","CT","Connecticut","North Stonington town","City",NA,"Mar","2020",2856,2965,109
+"09","CT","Connecticut","North Stonington town","City",NA,"Apr","2020",2255,2473,218
+"09","CT","Connecticut","North Stonington town","City",NA,"May","2020",2271,2509,238
+"09","CT","Connecticut","Norwalk city/town","City",NA,"Jan","2020",49177,51392,2215
+"09","CT","Connecticut","Norwalk city/town","City",NA,"Feb","2020",48713,50961,2248
+"09","CT","Connecticut","Norwalk city/town","City",NA,"Mar","2020",49351,51163,1812
+"09","CT","Connecticut","Norwalk city/town","City",NA,"Apr","2020",42480,46366,3886
+"09","CT","Connecticut","Norwalk city/town","City",NA,"May","2020",42078,46684,4606
+"09","CT","Connecticut","Norwich city/town","City",NA,"Jan","2020",19252,20246,994
+"09","CT","Connecticut","Norwich city/town","City",NA,"Feb","2020",19216,20202,986
+"09","CT","Connecticut","Norwich city/town","City",NA,"Mar","2020",19371,20221,850
+"09","CT","Connecticut","Norwich city/town","City",NA,"Apr","2020",15291,18761,3470
+"09","CT","Connecticut","Norwich city/town","City",NA,"May","2020",15404,19554,4150
+"09","CT","Connecticut","Old Lyme town","City",NA,"Jan","2020",3613,3768,155
+"09","CT","Connecticut","Old Lyme town","City",NA,"Feb","2020",3606,3762,156
+"09","CT","Connecticut","Old Lyme town","City",NA,"Mar","2020",3636,3759,123
+"09","CT","Connecticut","Old Lyme town","City",NA,"Apr","2020",2870,3112,242
+"09","CT","Connecticut","Old Lyme town","City",NA,"May","2020",2891,3167,276
+"09","CT","Connecticut","Old Saybrook town","City",NA,"Jan","2020",4998,5200,202
+"09","CT","Connecticut","Old Saybrook town","City",NA,"Feb","2020",5022,5203,181
+"09","CT","Connecticut","Old Saybrook town","City",NA,"Mar","2020",5043,5187,144
+"09","CT","Connecticut","Old Saybrook town","City",NA,"Apr","2020",4484,4849,365
+"09","CT","Connecticut","Old Saybrook town","City",NA,"May","2020",4435,4841,406
+"09","CT","Connecticut","Orange town","City",NA,"Jan","2020",7194,7436,242
+"09","CT","Connecticut","Orange town","City",NA,"Feb","2020",7254,7485,231
+"09","CT","Connecticut","Orange town","City",NA,"Mar","2020",7276,7466,190
+"09","CT","Connecticut","Orange town","City",NA,"Apr","2020",6461,6915,454
+"09","CT","Connecticut","Orange town","City",NA,"May","2020",6378,6903,525
+"09","CT","Connecticut","Oxford town","City",NA,"Jan","2020",7070,7366,296
+"09","CT","Connecticut","Oxford town","City",NA,"Feb","2020",7003,7304,301
+"09","CT","Connecticut","Oxford town","City",NA,"Mar","2020",7095,7345,250
+"09","CT","Connecticut","Oxford town","City",NA,"Apr","2020",6107,6574,467
+"09","CT","Connecticut","Oxford town","City",NA,"May","2020",6049,6560,511
+"09","CT","Connecticut","Plainfield town","City",NA,"Jan","2020",8329,8776,447
+"09","CT","Connecticut","Plainfield town","City",NA,"Feb","2020",8340,8784,444
+"09","CT","Connecticut","Plainfield town","City",NA,"Mar","2020",8487,8858,371
+"09","CT","Connecticut","Plainfield town","City",NA,"Apr","2020",7442,8242,800
+"09","CT","Connecticut","Plainfield town","City",NA,"May","2020",7390,8306,916
+"09","CT","Connecticut","Plainville town","City",NA,"Jan","2020",10221,10712,491
+"09","CT","Connecticut","Plainville town","City",NA,"Feb","2020",10243,10728,485
+"09","CT","Connecticut","Plainville town","City",NA,"Mar","2020",10351,10735,384
+"09","CT","Connecticut","Plainville town","City",NA,"Apr","2020",9290,10165,875
+"09","CT","Connecticut","Plainville town","City",NA,"May","2020",9205,10150,945
+"09","CT","Connecticut","Plymouth town","City",NA,"Jan","2020",6425,6791,366
+"09","CT","Connecticut","Plymouth town","City",NA,"Feb","2020",6417,6791,374
+"09","CT","Connecticut","Plymouth town","City",NA,"Mar","2020",6488,6790,302
+"09","CT","Connecticut","Plymouth town","City",NA,"Apr","2020",5829,6387,558
+"09","CT","Connecticut","Plymouth town","City",NA,"May","2020",5784,6355,571
+"09","CT","Connecticut","Pomfret town","City",NA,"Jan","2020",2457,2544,87
+"09","CT","Connecticut","Pomfret town","City",NA,"Feb","2020",2460,2550,90
+"09","CT","Connecticut","Pomfret town","City",NA,"Mar","2020",2504,2580,76
+"09","CT","Connecticut","Pomfret town","City",NA,"Apr","2020",2196,2322,126
+"09","CT","Connecticut","Pomfret town","City",NA,"May","2020",2180,2303,123
+"09","CT","Connecticut","Portland town","City",NA,"Jan","2020",5363,5607,244
+"09","CT","Connecticut","Portland town","City",NA,"Feb","2020",5375,5604,229
+"09","CT","Connecticut","Portland town","City",NA,"Mar","2020",5432,5633,201
+"09","CT","Connecticut","Portland town","City",NA,"Apr","2020",4874,5232,358
+"09","CT","Connecticut","Portland town","City",NA,"May","2020",4830,5221,391
+"09","CT","Connecticut","Preston town","City",NA,"Jan","2020",2323,2425,102
+"09","CT","Connecticut","Preston town","City",NA,"Feb","2020",2319,2417,98
+"09","CT","Connecticut","Preston town","City",NA,"Mar","2020",2337,2415,78
+"09","CT","Connecticut","Preston town","City",NA,"Apr","2020",1845,2115,270
+"09","CT","Connecticut","Preston town","City",NA,"May","2020",1859,2179,320
+"09","CT","Connecticut","Prospect town","City",NA,"Jan","2020",5497,5722,225
+"09","CT","Connecticut","Prospect town","City",NA,"Feb","2020",5472,5689,217
+"09","CT","Connecticut","Prospect town","City",NA,"Mar","2020",5542,5717,175
+"09","CT","Connecticut","Prospect town","City",NA,"Apr","2020",4856,5184,328
+"09","CT","Connecticut","Prospect town","City",NA,"May","2020",4798,5151,353
+"09","CT","Connecticut","Putnam town","City",NA,"Jan","2020",4646,4884,238
+"09","CT","Connecticut","Putnam town","City",NA,"Feb","2020",4652,4903,251
+"09","CT","Connecticut","Putnam town","City",NA,"Mar","2020",4734,4936,202
+"09","CT","Connecticut","Putnam town","City",NA,"Apr","2020",4152,4552,400
+"09","CT","Connecticut","Putnam town","City",NA,"May","2020",4123,4564,441
+"09","CT","Connecticut","Redding town","City",NA,"Jan","2020",4278,4434,156
+"09","CT","Connecticut","Redding town","City",NA,"Feb","2020",4237,4403,166
+"09","CT","Connecticut","Redding town","City",NA,"Mar","2020",4293,4422,129
+"09","CT","Connecticut","Redding town","City",NA,"Apr","2020",3695,3927,232
+"09","CT","Connecticut","Redding town","City",NA,"May","2020",3660,3939,279
+"09","CT","Connecticut","Ridgefield town","City",NA,"Jan","2020",11459,11834,375
+"09","CT","Connecticut","Ridgefield town","City",NA,"Feb","2020",11351,11696,345
+"09","CT","Connecticut","Ridgefield town","City",NA,"Mar","2020",11499,11778,279
+"09","CT","Connecticut","Ridgefield town","City",NA,"Apr","2020",9898,10481,583
+"09","CT","Connecticut","Ridgefield town","City",NA,"May","2020",9804,10497,693
+"09","CT","Connecticut","Rocky Hill town","City",NA,"Jan","2020",11476,11867,391
+"09","CT","Connecticut","Rocky Hill town","City",NA,"Feb","2020",11501,11870,369
+"09","CT","Connecticut","Rocky Hill town","City",NA,"Mar","2020",11622,11936,314
+"09","CT","Connecticut","Rocky Hill town","City",NA,"Apr","2020",10430,11138,708
+"09","CT","Connecticut","Rocky Hill town","City",NA,"May","2020",10335,11163,828
+"09","CT","Connecticut","Roxbury town","City",NA,"Jan","2020",1303,1342,39
+"09","CT","Connecticut","Roxbury town","City",NA,"Feb","2020",1274,1313,39
+"09","CT","Connecticut","Roxbury town","City",NA,"Mar","2020",1294,1319,25
+"09","CT","Connecticut","Roxbury town","City",NA,"Apr","2020",1145,1200,55
+"09","CT","Connecticut","Roxbury town","City",NA,"May","2020",1144,1200,56
+"09","CT","Connecticut","Salem town","City",NA,"Jan","2020",2056,2150,94
+"09","CT","Connecticut","Salem town","City",NA,"Feb","2020",2053,2146,93
+"09","CT","Connecticut","Salem town","City",NA,"Mar","2020",2069,2152,83
+"09","CT","Connecticut","Salem town","City",NA,"Apr","2020",1633,1802,169
+"09","CT","Connecticut","Salem town","City",NA,"May","2020",1645,1834,189
+"09","CT","Connecticut","Salisbury town","City",NA,"Jan","2020",1777,1847,70
+"09","CT","Connecticut","Salisbury town","City",NA,"Feb","2020",1739,1804,65
+"09","CT","Connecticut","Salisbury town","City",NA,"Mar","2020",1766,1817,51
+"09","CT","Connecticut","Salisbury town","City",NA,"Apr","2020",1563,1632,69
+"09","CT","Connecticut","Salisbury town","City",NA,"May","2020",1561,1633,72
+"09","CT","Connecticut","Scotland town","City",NA,"Jan","2020",945,989,44
+"09","CT","Connecticut","Scotland town","City",NA,"Feb","2020",947,997,50
+"09","CT","Connecticut","Scotland town","City",NA,"Mar","2020",957,993,36
+"09","CT","Connecticut","Scotland town","City",NA,"Apr","2020",859,921,62
+"09","CT","Connecticut","Scotland town","City",NA,"May","2020",851,920,69
+"09","CT","Connecticut","Seymour town","City",NA,"Jan","2020",8618,9073,455
+"09","CT","Connecticut","Seymour town","City",NA,"Feb","2020",8537,8993,456
+"09","CT","Connecticut","Seymour town","City",NA,"Mar","2020",8649,9046,397
+"09","CT","Connecticut","Seymour town","City",NA,"Apr","2020",7445,8228,783
+"09","CT","Connecticut","Seymour town","City",NA,"May","2020",7374,8197,823
+"09","CT","Connecticut","Sharon town","City",NA,"Jan","2020",1462,1510,48
+"09","CT","Connecticut","Sharon town","City",NA,"Feb","2020",1430,1477,47
+"09","CT","Connecticut","Sharon town","City",NA,"Mar","2020",1452,1490,38
+"09","CT","Connecticut","Sharon town","City",NA,"Apr","2020",1285,1343,58
+"09","CT","Connecticut","Sharon town","City",NA,"May","2020",1283,1344,61
+"09","CT","Connecticut","Shelton city/town","City",NA,"Jan","2020",21219,22217,998
+"09","CT","Connecticut","Shelton city/town","City",NA,"Feb","2020",21019,22012,993
+"09","CT","Connecticut","Shelton city/town","City",NA,"Mar","2020",21294,22119,825
+"09","CT","Connecticut","Shelton city/town","City",NA,"Apr","2020",18329,20030,1701
+"09","CT","Connecticut","Shelton city/town","City",NA,"May","2020",18156,20049,1893
+"09","CT","Connecticut","Sherman town","City",NA,"Jan","2020",1816,1892,76
+"09","CT","Connecticut","Sherman town","City",NA,"Feb","2020",1794,1865,71
+"09","CT","Connecticut","Sherman town","City",NA,"Mar","2020",1817,1871,54
+"09","CT","Connecticut","Sherman town","City",NA,"Apr","2020",1561,1675,114
+"09","CT","Connecticut","Sherman town","City",NA,"May","2020",1585,1710,125
+"09","CT","Connecticut","Simsbury town","City",NA,"Jan","2020",13540,13961,421
+"09","CT","Connecticut","Simsbury town","City",NA,"Feb","2020",13569,13986,417
+"09","CT","Connecticut","Simsbury town","City",NA,"Mar","2020",13713,14036,323
+"09","CT","Connecticut","Simsbury town","City",NA,"Apr","2020",12306,12980,674
+"09","CT","Connecticut","Simsbury town","City",NA,"May","2020",12194,12991,797
+"09","CT","Connecticut","Somers town","City",NA,"Jan","2020",4860,5067,207
+"09","CT","Connecticut","Somers town","City",NA,"Feb","2020",4911,5121,210
+"09","CT","Connecticut","Somers town","City",NA,"Mar","2020",4953,5121,168
+"09","CT","Connecticut","Somers town","City",NA,"Apr","2020",4209,4555,346
+"09","CT","Connecticut","Somers town","City",NA,"May","2020",4187,4558,371
+"09","CT","Connecticut","Southbury town","City",NA,"Jan","2020",8441,8834,393
+"09","CT","Connecticut","Southbury town","City",NA,"Feb","2020",8361,8746,385
+"09","CT","Connecticut","Southbury town","City",NA,"Mar","2020",8471,8759,288
+"09","CT","Connecticut","Southbury town","City",NA,"Apr","2020",7291,7895,604
+"09","CT","Connecticut","Southbury town","City",NA,"May","2020",7222,7913,691
+"09","CT","Connecticut","Southington town","City",NA,"Jan","2020",24182,25149,967
+"09","CT","Connecticut","Southington town","City",NA,"Feb","2020",24234,25192,958
+"09","CT","Connecticut","Southington town","City",NA,"Mar","2020",24490,25277,787
+"09","CT","Connecticut","Southington town","City",NA,"Apr","2020",21978,23687,1709
+"09","CT","Connecticut","Southington town","City",NA,"May","2020",21777,23628,1851
+"09","CT","Connecticut","South Windsor town","City",NA,"Jan","2020",14100,14596,496
+"09","CT","Connecticut","South Windsor town","City",NA,"Feb","2020",14130,14634,504
+"09","CT","Connecticut","South Windsor town","City",NA,"Mar","2020",14280,14693,413
+"09","CT","Connecticut","South Windsor town","City",NA,"Apr","2020",12815,13712,897
+"09","CT","Connecticut","South Windsor town","City",NA,"May","2020",12698,13713,1015
+"09","CT","Connecticut","Sprague town","City",NA,"Jan","2020",1536,1615,79
+"09","CT","Connecticut","Sprague town","City",NA,"Feb","2020",1533,1621,88
+"09","CT","Connecticut","Sprague town","City",NA,"Mar","2020",1545,1615,70
+"09","CT","Connecticut","Sprague town","City",NA,"Apr","2020",1220,1393,173
+"09","CT","Connecticut","Sprague town","City",NA,"May","2020",1229,1424,195
+"09","CT","Connecticut","Stafford town","City",NA,"Jan","2020",6710,7007,297
+"09","CT","Connecticut","Stafford town","City",NA,"Feb","2020",6724,7043,319
+"09","CT","Connecticut","Stafford town","City",NA,"Mar","2020",6795,7064,269
+"09","CT","Connecticut","Stafford town","City",NA,"Apr","2020",6098,6599,501
+"09","CT","Connecticut","Stafford town","City",NA,"May","2020",6042,6560,518
+"09","CT","Connecticut","Stamford city/town","City",NA,"Jan","2020",68040,70895,2855
+"09","CT","Connecticut","Stamford city/town","City",NA,"Feb","2020",67398,70260,2862
+"09","CT","Connecticut","Stamford city/town","City",NA,"Mar","2020",68282,70598,2316
+"09","CT","Connecticut","Stamford city/town","City",NA,"Apr","2020",58775,63985,5210
+"09","CT","Connecticut","Stamford city/town","City",NA,"May","2020",58218,64634,6416
+"09","CT","Connecticut","Sterling town","City",NA,"Jan","2020",1947,2055,108
+"09","CT","Connecticut","Sterling town","City",NA,"Feb","2020",1949,2065,116
+"09","CT","Connecticut","Sterling town","City",NA,"Mar","2020",1984,2080,96
+"09","CT","Connecticut","Sterling town","City",NA,"Apr","2020",1740,1903,163
+"09","CT","Connecticut","Sterling town","City",NA,"May","2020",1727,1912,185
+"09","CT","Connecticut","Stonington town","City",NA,"Jan","2020",9443,9828,385
+"09","CT","Connecticut","Stonington town","City",NA,"Feb","2020",9426,9798,372
+"09","CT","Connecticut","Stonington town","City",NA,"Mar","2020",9502,9797,295
+"09","CT","Connecticut","Stonington town","City",NA,"Apr","2020",7500,8266,766
+"09","CT","Connecticut","Stonington town","City",NA,"May","2020",7556,8401,845
+"09","CT","Connecticut","Stratford town","City",NA,"Jan","2020",26002,27371,1369
+"09","CT","Connecticut","Stratford town","City",NA,"Feb","2020",25757,27116,1359
+"09","CT","Connecticut","Stratford town","City",NA,"Mar","2020",26094,27184,1090
+"09","CT","Connecticut","Stratford town","City",NA,"Apr","2020",22461,24855,2394
+"09","CT","Connecticut","Stratford town","City",NA,"May","2020",22248,25085,2837
+"09","CT","Connecticut","Suffield town","City",NA,"Jan","2020",7390,7707,317
+"09","CT","Connecticut","Suffield town","City",NA,"Feb","2020",7468,7779,311
+"09","CT","Connecticut","Suffield town","City",NA,"Mar","2020",7532,7775,243
+"09","CT","Connecticut","Suffield town","City",NA,"Apr","2020",6401,6834,433
+"09","CT","Connecticut","Suffield town","City",NA,"May","2020",6367,6898,531
+"09","CT","Connecticut","Thomaston town","City",NA,"Jan","2020",4628,4851,223
+"09","CT","Connecticut","Thomaston town","City",NA,"Feb","2020",4623,4850,227
+"09","CT","Connecticut","Thomaston town","City",NA,"Mar","2020",4674,4859,185
+"09","CT","Connecticut","Thomaston town","City",NA,"Apr","2020",4199,4535,336
+"09","CT","Connecticut","Thomaston town","City",NA,"May","2020",4167,4515,348
+"09","CT","Connecticut","Thompson town","City",NA,"Jan","2020",5124,5356,232
+"09","CT","Connecticut","Thompson town","City",NA,"Feb","2020",5130,5360,230
+"09","CT","Connecticut","Thompson town","City",NA,"Mar","2020",5220,5401,181
+"09","CT","Connecticut","Thompson town","City",NA,"Apr","2020",4578,4939,361
+"09","CT","Connecticut","Thompson town","City",NA,"May","2020",4546,4956,410
+"09","CT","Connecticut","Tolland town","City",NA,"Jan","2020",8449,8742,293
+"09","CT","Connecticut","Tolland town","City",NA,"Feb","2020",8468,8737,269
+"09","CT","Connecticut","Tolland town","City",NA,"Mar","2020",8557,8763,206
+"09","CT","Connecticut","Tolland town","City",NA,"Apr","2020",7679,8157,478
+"09","CT","Connecticut","Tolland town","City",NA,"May","2020",7609,8138,529
+"09","CT","Connecticut","Torrington city/town","City",NA,"Jan","2020",18361,19347,986
+"09","CT","Connecticut","Torrington city/town","City",NA,"Feb","2020",18211,19220,1009
+"09","CT","Connecticut","Torrington city/town","City",NA,"Mar","2020",18562,19388,826
+"09","CT","Connecticut","Torrington city/town","City",NA,"Apr","2020",16438,17946,1508
+"09","CT","Connecticut","Torrington city/town","City",NA,"May","2020",16315,17950,1635
+"09","CT","Connecticut","Trumbull town","City",NA,"Jan","2020",17226,17905,679
+"09","CT","Connecticut","Trumbull town","City",NA,"Feb","2020",17063,17752,689
+"09","CT","Connecticut","Trumbull town","City",NA,"Mar","2020",17287,17856,569
+"09","CT","Connecticut","Trumbull town","City",NA,"Apr","2020",14880,16045,1165
+"09","CT","Connecticut","Trumbull town","City",NA,"May","2020",14739,16085,1346
+"09","CT","Connecticut","Union town","City",NA,"Jan","2020",458,478,20
+"09","CT","Connecticut","Union town","City",NA,"Feb","2020",459,483,24
+"09","CT","Connecticut","Union town","City",NA,"Mar","2020",464,484,20
+"09","CT","Connecticut","Union town","City",NA,"Apr","2020",416,442,26
+"09","CT","Connecticut","Union town","City",NA,"May","2020",413,439,26
+"09","CT","Connecticut","Vernon town","City",NA,"Jan","2020",16997,17775,778
+"09","CT","Connecticut","Vernon town","City",NA,"Feb","2020",17034,17820,786
+"09","CT","Connecticut","Vernon town","City",NA,"Mar","2020",17214,17871,657
+"09","CT","Connecticut","Vernon town","City",NA,"Apr","2020",15448,16852,1404
+"09","CT","Connecticut","Vernon town","City",NA,"May","2020",15307,16857,1550
+"09","CT","Connecticut","Voluntown town","City",NA,"Jan","2020",1418,1480,62
+"09","CT","Connecticut","Voluntown town","City",NA,"Feb","2020",1416,1476,60
+"09","CT","Connecticut","Voluntown town","City",NA,"Mar","2020",1427,1481,54
+"09","CT","Connecticut","Voluntown town","City",NA,"Apr","2020",1127,1266,139
+"09","CT","Connecticut","Voluntown town","City",NA,"May","2020",1135,1296,161
+"09","CT","Connecticut","Wallingford town","City",NA,"Jan","2020",25681,26680,999
+"09","CT","Connecticut","Wallingford town","City",NA,"Feb","2020",25897,26878,981
+"09","CT","Connecticut","Wallingford town","City",NA,"Mar","2020",25975,26816,841
+"09","CT","Connecticut","Wallingford town","City",NA,"Apr","2020",23067,24884,1817
+"09","CT","Connecticut","Wallingford town","City",NA,"May","2020",22768,24800,2032
+"09","CT","Connecticut","Warren town","City",NA,"Jan","2020",772,795,23
+"09","CT","Connecticut","Warren town","City",NA,"Feb","2020",755,782,27
+"09","CT","Connecticut","Warren town","City",NA,"Mar","2020",767,792,25
+"09","CT","Connecticut","Warren town","City",NA,"Apr","2020",679,718,39
+"09","CT","Connecticut","Warren town","City",NA,"May","2020",678,719,41
+"09","CT","Connecticut","Washington town","City",NA,"Jan","2020",2016,2086,70
+"09","CT","Connecticut","Washington town","City",NA,"Feb","2020",1973,2048,75
+"09","CT","Connecticut","Washington town","City",NA,"Mar","2020",2003,2064,61
+"09","CT","Connecticut","Washington town","City",NA,"Apr","2020",1773,1872,99
+"09","CT","Connecticut","Washington town","City",NA,"May","2020",1771,1884,113
+"09","CT","Connecticut","Waterbury city/town","City",NA,"Jan","2020",47494,50903,3409
+"09","CT","Connecticut","Waterbury city/town","City",NA,"Feb","2020",47279,50749,3470
+"09","CT","Connecticut","Waterbury city/town","City",NA,"Mar","2020",47882,50912,3030
+"09","CT","Connecticut","Waterbury city/town","City",NA,"Apr","2020",41958,46900,4942
+"09","CT","Connecticut","Waterbury city/town","City",NA,"May","2020",41449,47234,5785
+"09","CT","Connecticut","Waterford town","City",NA,"Jan","2020",9742,10164,422
+"09","CT","Connecticut","Waterford town","City",NA,"Feb","2020",9724,10128,404
+"09","CT","Connecticut","Waterford town","City",NA,"Mar","2020",9803,10132,329
+"09","CT","Connecticut","Waterford town","City",NA,"Apr","2020",7738,8650,912
+"09","CT","Connecticut","Waterford town","City",NA,"May","2020",7795,8821,1026
+"09","CT","Connecticut","Watertown town","City",NA,"Jan","2020",12551,13098,547
+"09","CT","Connecticut","Watertown town","City",NA,"Feb","2020",12494,13024,530
+"09","CT","Connecticut","Watertown town","City",NA,"Mar","2020",12653,13074,421
+"09","CT","Connecticut","Watertown town","City",NA,"Apr","2020",11088,11999,911
+"09","CT","Connecticut","Watertown town","City",NA,"May","2020",10953,11961,1008
+"09","CT","Connecticut","Westbrook town","City",NA,"Jan","2020",3591,3749,158
+"09","CT","Connecticut","Westbrook town","City",NA,"Feb","2020",3608,3756,148
+"09","CT","Connecticut","Westbrook town","City",NA,"Mar","2020",3623,3733,110
+"09","CT","Connecticut","Westbrook town","City",NA,"Apr","2020",3222,3486,264
+"09","CT","Connecticut","Westbrook town","City",NA,"May","2020",3186,3469,283
+"09","CT","Connecticut","West Hartford town","City",NA,"Jan","2020",34043,35205,1162
+"09","CT","Connecticut","West Hartford town","City",NA,"Feb","2020",34117,35193,1076
+"09","CT","Connecticut","West Hartford town","City",NA,"Mar","2020",34477,35323,846
+"09","CT","Connecticut","West Hartford town","City",NA,"Apr","2020",30941,32807,1866
+"09","CT","Connecticut","West Hartford town","City",NA,"May","2020",30658,32887,2229
+"09","CT","Connecticut","West Haven city/town","City",NA,"Jan","2020",29216,30670,1454
+"09","CT","Connecticut","West Haven city/town","City",NA,"Feb","2020",29461,30915,1454
+"09","CT","Connecticut","West Haven city/town","City",NA,"Mar","2020",29550,30749,1199
+"09","CT","Connecticut","West Haven city/town","City",NA,"Apr","2020",26242,28663,2421
+"09","CT","Connecticut","West Haven city/town","City",NA,"May","2020",25902,28821,2919
+"09","CT","Connecticut","Weston town","City",NA,"Jan","2020",4205,4373,168
+"09","CT","Connecticut","Weston town","City",NA,"Feb","2020",4165,4320,155
+"09","CT","Connecticut","Weston town","City",NA,"Mar","2020",4220,4338,118
+"09","CT","Connecticut","Weston town","City",NA,"Apr","2020",3632,3864,232
+"09","CT","Connecticut","Weston town","City",NA,"May","2020",3598,3884,286
+"09","CT","Connecticut","Westport town","City",NA,"Jan","2020",12406,12844,438
+"09","CT","Connecticut","Westport town","City",NA,"Feb","2020",12289,12705,416
+"09","CT","Connecticut","Westport town","City",NA,"Mar","2020",12450,12776,326
+"09","CT","Connecticut","Westport town","City",NA,"Apr","2020",10717,11265,548
+"09","CT","Connecticut","Westport town","City",NA,"May","2020",10615,11311,696
+"09","CT","Connecticut","Wethersfield town","City",NA,"Jan","2020",13739,14274,535
+"09","CT","Connecticut","Wethersfield town","City",NA,"Feb","2020",13768,14299,531
+"09","CT","Connecticut","Wethersfield town","City",NA,"Mar","2020",13914,14359,445
+"09","CT","Connecticut","Wethersfield town","City",NA,"Apr","2020",12487,13529,1042
+"09","CT","Connecticut","Wethersfield town","City",NA,"May","2020",12373,13593,1220
+"09","CT","Connecticut","Willington town","City",NA,"Jan","2020",3601,3734,133
+"09","CT","Connecticut","Willington town","City",NA,"Feb","2020",3609,3745,136
+"09","CT","Connecticut","Willington town","City",NA,"Mar","2020",3647,3756,109
+"09","CT","Connecticut","Willington town","City",NA,"Apr","2020",3273,3485,212
+"09","CT","Connecticut","Willington town","City",NA,"May","2020",3243,3473,230
+"09","CT","Connecticut","Wilton town","City",NA,"Jan","2020",8163,8476,313
+"09","CT","Connecticut","Wilton town","City",NA,"Feb","2020",8086,8392,306
+"09","CT","Connecticut","Wilton town","City",NA,"Mar","2020",8192,8423,231
+"09","CT","Connecticut","Wilton town","City",NA,"Apr","2020",7051,7442,391
+"09","CT","Connecticut","Wilton town","City",NA,"May","2020",6985,7466,481
+"09","CT","Connecticut","Winchester town","City",NA,"Jan","2020",5892,6217,325
+"09","CT","Connecticut","Winchester town","City",NA,"Feb","2020",5844,6175,331
+"09","CT","Connecticut","Winchester town","City",NA,"Mar","2020",5956,6230,274
+"09","CT","Connecticut","Winchester town","City",NA,"Apr","2020",5275,5719,444
+"09","CT","Connecticut","Winchester town","City",NA,"May","2020",5235,5712,477
+"09","CT","Connecticut","Windham town","City",NA,"Jan","2020",11944,12718,774
+"09","CT","Connecticut","Windham town","City",NA,"Feb","2020",11969,12701,732
+"09","CT","Connecticut","Windham town","City",NA,"Mar","2020",12096,12660,564
+"09","CT","Connecticut","Windham town","City",NA,"Apr","2020",10855,11813,958
+"09","CT","Connecticut","Windham town","City",NA,"May","2020",10756,11881,1125
+"09","CT","Connecticut","Windsor town","City",NA,"Jan","2020",16167,16907,740
+"09","CT","Connecticut","Windsor town","City",NA,"Feb","2020",16202,16919,717
+"09","CT","Connecticut","Windsor town","City",NA,"Mar","2020",16373,16937,564
+"09","CT","Connecticut","Windsor town","City",NA,"Apr","2020",14694,15829,1135
+"09","CT","Connecticut","Windsor town","City",NA,"May","2020",14559,15920,1361
+"09","CT","Connecticut","Windsor Locks town","City",NA,"Jan","2020",7348,7725,377
+"09","CT","Connecticut","Windsor Locks town","City",NA,"Feb","2020",7426,7807,381
+"09","CT","Connecticut","Windsor Locks town","City",NA,"Mar","2020",7489,7799,310
+"09","CT","Connecticut","Windsor Locks town","City",NA,"Apr","2020",6364,6984,620
+"09","CT","Connecticut","Windsor Locks town","City",NA,"May","2020",6330,7005,675
+"09","CT","Connecticut","Wolcott town","City",NA,"Jan","2020",9642,10035,393
+"09","CT","Connecticut","Wolcott town","City",NA,"Feb","2020",9598,9997,399
+"09","CT","Connecticut","Wolcott town","City",NA,"Mar","2020",9721,10034,313
+"09","CT","Connecticut","Wolcott town","City",NA,"Apr","2020",8518,9187,669
+"09","CT","Connecticut","Wolcott town","City",NA,"May","2020",8415,9164,749
+"09","CT","Connecticut","Woodbridge town","City",NA,"Jan","2020",4706,4857,151
+"09","CT","Connecticut","Woodbridge town","City",NA,"Feb","2020",4662,4803,141
+"09","CT","Connecticut","Woodbridge town","City",NA,"Mar","2020",4723,4833,110
+"09","CT","Connecticut","Woodbridge town","City",NA,"Apr","2020",4065,4286,221
+"09","CT","Connecticut","Woodbridge town","City",NA,"May","2020",4027,4306,279
+"09","CT","Connecticut","Woodbury town","City",NA,"Jan","2020",5387,5625,238
+"09","CT","Connecticut","Woodbury town","City",NA,"Feb","2020",5363,5596,233
+"09","CT","Connecticut","Woodbury town","City",NA,"Mar","2020",5431,5618,187
+"09","CT","Connecticut","Woodbury town","City",NA,"Apr","2020",4759,5115,356
+"09","CT","Connecticut","Woodbury town","City",NA,"May","2020",4702,5084,382
+"09","CT","Connecticut","Woodstock town","City",NA,"Jan","2020",4056,4244,188
+"09","CT","Connecticut","Woodstock town","City",NA,"Feb","2020",4061,4237,176
+"09","CT","Connecticut","Woodstock town","City",NA,"Mar","2020",4133,4280,147
+"09","CT","Connecticut","Woodstock town","City",NA,"Apr","2020",3624,3912,288
+"09","CT","Connecticut","Woodstock town","City",NA,"May","2020",3599,3932,333
+"09","CT","Connecticut","Ansonia city/town","City",NA,"Jan","2020",8765,9314,549
+"09","CT","Connecticut","Ansonia city/town","City",NA,"Feb","2020",8682,9258,576
+"09","CT","Connecticut","Ansonia city/town","City",NA,"Mar","2020",8796,9289,493
+"09","CT","Connecticut","Ansonia city/town","City",NA,"Apr","2020",7571,8539,968
+"09","CT","Connecticut","Ansonia city/town","City",NA,"May","2020",7500,8579,1079
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"Jan","2020",65023,69557,4534
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"Feb","2020",64410,69066,4656
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"Mar","2020",65254,69140,3886
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"Apr","2020",56169,62921,6752
+"09","CT","Connecticut","Bridgeport city/town","City",NA,"May","2020",55637,63993,8356
+"09","CT","Connecticut","Bristol city/town","City",NA,"Jan","2020",32001,33670,1669
+"09","CT","Connecticut","Bristol city/town","City",NA,"Feb","2020",32070,33828,1758
+"09","CT","Connecticut","Bristol city/town","City",NA,"Mar","2020",32410,33823,1413
+"09","CT","Connecticut","Bristol city/town","City",NA,"Apr","2020",29085,31943,2858
+"09","CT","Connecticut","Bristol city/town","City",NA,"May","2020",28819,31966,3147
+"09","CT","Connecticut","Danbury city/town","City",NA,"Jan","2020",45850,47826,1976
+"09","CT","Connecticut","Danbury city/town","City",NA,"Feb","2020",45314,47289,1975
+"09","CT","Connecticut","Danbury city/town","City",NA,"Mar","2020",45872,47419,1547
+"09","CT","Connecticut","Danbury city/town","City",NA,"Apr","2020",39430,42811,3381
+"09","CT","Connecticut","Danbury city/town","City",NA,"May","2020",40015,43837,3822
+"09","CT","Connecticut","Derby city/town","City",NA,"Jan","2020",6399,6725,326
+"09","CT","Connecticut","Derby city/town","City",NA,"Feb","2020",6338,6678,340
+"09","CT","Connecticut","Derby city/town","City",NA,"Mar","2020",6421,6725,304
+"09","CT","Connecticut","Derby city/town","City",NA,"Apr","2020",5527,6143,616
+"09","CT","Connecticut","Derby city/town","City",NA,"May","2020",5475,6179,704
+"09","CT","Connecticut","Hartford city/town","City",NA,"Jan","2020",49918,53730,3812
+"09","CT","Connecticut","Hartford city/town","City",NA,"Feb","2020",50026,53891,3865
+"09","CT","Connecticut","Hartford city/town","City",NA,"Mar","2020",50555,53852,3297
+"09","CT","Connecticut","Hartford city/town","City",NA,"Apr","2020",45369,50956,5587
+"09","CT","Connecticut","Hartford city/town","City",NA,"May","2020",44954,52073,7119
+"09","CT","Connecticut","Meriden city/town","City",NA,"Jan","2020",30861,32565,1704
+"09","CT","Connecticut","Meriden city/town","City",NA,"Feb","2020",31121,32822,1701
+"09","CT","Connecticut","Meriden city/town","City",NA,"Mar","2020",31214,32661,1447
+"09","CT","Connecticut","Meriden city/town","City",NA,"Apr","2020",27720,30367,2647
+"09","CT","Connecticut","Meriden city/town","City",NA,"May","2020",27361,30323,2962
+"09","CT","Connecticut","Middletown city/town","City",NA,"Jan","2020",25356,26514,1158
+"09","CT","Connecticut","Middletown city/town","City",NA,"Feb","2020",25410,26489,1079
+"09","CT","Connecticut","Middletown city/town","City",NA,"Mar","2020",25679,26588,909
+"09","CT","Connecticut","Middletown city/town","City",NA,"Apr","2020",23045,24828,1783
+"09","CT","Connecticut","Middletown city/town","City",NA,"May","2020",22834,24848,2014
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"Jan","2020",29533,30736,1203
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"Feb","2020",29254,30483,1229
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"Mar","2020",29637,30644,1007
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"Apr","2020",25511,27797,2286
+"09","CT","Connecticut","Milford (consolidated) city/town","City",NA,"May","2020",25269,27823,2554
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"Jan","2020",16577,17500,923
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"Feb","2020",16502,17417,915
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"Mar","2020",16713,17462,749
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"Apr","2020",14645,16076,1431
+"09","CT","Connecticut","Naugatuck borough/town","City",NA,"May","2020",14468,16018,1550
+"09","CT","Connecticut","New Britain city/town","City",NA,"Jan","2020",35073,37277,2204
+"09","CT","Connecticut","New Britain city/town","City",NA,"Feb","2020",35148,37358,2210
+"09","CT","Connecticut","New Britain city/town","City",NA,"Mar","2020",35520,37418,1898
+"09","CT","Connecticut","New Britain city/town","City",NA,"Apr","2020",31877,35336,3459
+"09","CT","Connecticut","New Britain city/town","City",NA,"May","2020",31585,35737,4152
+"09","CT","Connecticut","New Haven city/town","City",NA,"Jan","2020",62139,65374,3235
+"09","CT","Connecticut","New Haven city/town","City",NA,"Feb","2020",62661,65805,3144
+"09","CT","Connecticut","New Haven city/town","City",NA,"Mar","2020",62849,65491,2642
+"09","CT","Connecticut","New Haven city/town","City",NA,"Apr","2020",55814,59998,4184
+"09","CT","Connecticut","New Haven city/town","City",NA,"May","2020",55091,60321,5230
+"09","CT","Connecticut","New London city/town","City",NA,"Jan","2020",11380,12087,707
+"09","CT","Connecticut","New London city/town","City",NA,"Feb","2020",11360,12081,721
+"09","CT","Connecticut","New London city/town","City",NA,"Mar","2020",11451,12054,603
+"09","CT","Connecticut","New London city/town","City",NA,"Apr","2020",9039,10651,1612
+"09","CT","Connecticut","New London city/town","City",NA,"May","2020",9106,11028,1922
+"09","CT","Connecticut","Norwalk city/town","City",NA,"Jan","2020",49177,51392,2215
+"09","CT","Connecticut","Norwalk city/town","City",NA,"Feb","2020",48713,50961,2248
+"09","CT","Connecticut","Norwalk city/town","City",NA,"Mar","2020",49351,51163,1812
+"09","CT","Connecticut","Norwalk city/town","City",NA,"Apr","2020",42480,46366,3886
+"09","CT","Connecticut","Norwalk city/town","City",NA,"May","2020",42078,46684,4606
+"09","CT","Connecticut","Norwich city/town","City",NA,"Jan","2020",19252,20246,994
+"09","CT","Connecticut","Norwich city/town","City",NA,"Feb","2020",19216,20202,986
+"09","CT","Connecticut","Norwich city/town","City",NA,"Mar","2020",19371,20221,850
+"09","CT","Connecticut","Norwich city/town","City",NA,"Apr","2020",15291,18761,3470
+"09","CT","Connecticut","Norwich city/town","City",NA,"May","2020",15404,19554,4150
+"09","CT","Connecticut","Shelton city/town","City",NA,"Jan","2020",21219,22217,998
+"09","CT","Connecticut","Shelton city/town","City",NA,"Feb","2020",21019,22012,993
+"09","CT","Connecticut","Shelton city/town","City",NA,"Mar","2020",21294,22119,825
+"09","CT","Connecticut","Shelton city/town","City",NA,"Apr","2020",18329,20030,1701
+"09","CT","Connecticut","Shelton city/town","City",NA,"May","2020",18156,20049,1893
+"09","CT","Connecticut","Stamford city/town","City",NA,"Jan","2020",68040,70895,2855
+"09","CT","Connecticut","Stamford city/town","City",NA,"Feb","2020",67398,70260,2862
+"09","CT","Connecticut","Stamford city/town","City",NA,"Mar","2020",68282,70598,2316
+"09","CT","Connecticut","Stamford city/town","City",NA,"Apr","2020",58775,63985,5210
+"09","CT","Connecticut","Stamford city/town","City",NA,"May","2020",58218,64634,6416
+"09","CT","Connecticut","Torrington city/town","City",NA,"Jan","2020",18361,19347,986
+"09","CT","Connecticut","Torrington city/town","City",NA,"Feb","2020",18211,19220,1009
+"09","CT","Connecticut","Torrington city/town","City",NA,"Mar","2020",18562,19388,826
+"09","CT","Connecticut","Torrington city/town","City",NA,"Apr","2020",16438,17946,1508
+"09","CT","Connecticut","Torrington city/town","City",NA,"May","2020",16315,17950,1635
+"09","CT","Connecticut","Waterbury city/town","City",NA,"Jan","2020",47494,50903,3409
+"09","CT","Connecticut","Waterbury city/town","City",NA,"Feb","2020",47279,50749,3470
+"09","CT","Connecticut","Waterbury city/town","City",NA,"Mar","2020",47882,50912,3030
+"09","CT","Connecticut","Waterbury city/town","City",NA,"Apr","2020",41958,46900,4942
+"09","CT","Connecticut","Waterbury city/town","City",NA,"May","2020",41449,47234,5785
+"09","CT","Connecticut","West Haven city/town","City",NA,"Jan","2020",29216,30670,1454
+"09","CT","Connecticut","West Haven city/town","City",NA,"Feb","2020",29461,30915,1454
+"09","CT","Connecticut","West Haven city/town","City",NA,"Mar","2020",29550,30749,1199
+"09","CT","Connecticut","West Haven city/town","City",NA,"Apr","2020",26242,28663,2421
+"09","CT","Connecticut","West Haven city/town","City",NA,"May","2020",25902,28821,2919
+"09","CT","Connecticut","Connecticut","State",NA,"Jan","2020",1835656,1920807,85151
+"09","CT","Connecticut","Connecticut","State",NA,"Feb","2020",1833181,1917529,84348
+"09","CT","Connecticut","Connecticut","State",NA,"Mar","2020",1851926,1920978,69052
+"09","CT","Connecticut","Connecticut","State",NA,"Apr","2020",1619524,1761222,141698
+"09","CT","Connecticut","Connecticut","State",NA,"May","2020",1607435,1771587,164152
