@@ -45,7 +45,9 @@
   * Data: Unemployment
 
 ## Delaware:
-No data found
+* [State of Delaware](https://lmi.delawareworks.com/Content/Information/LAUS.php)
+  * Format: CSV, Updated, Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Florida:
 No data found
