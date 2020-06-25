@@ -50,7 +50,9 @@
   * Data: Unemployment
 
 ## Florida:
-No data found
+* [Florida Department of Economic Opportunity](https://floridajobs.org/workforce-statistics/data-center/statistical-programs/local-area-unemployment-statistics)
+* Format: CSV, Updated, Monthly, Level: County, City
+* Data: Unemployment
 
 ## Georgia:
 * [Georgia Department of Labor](https://dol.georgia.gov/current-labor-force-data-and-graphs)
