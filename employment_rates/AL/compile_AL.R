@@ -21,8 +21,8 @@ output <- raw %>%
     period = month(mdy(datefield), label = T, abbr = F),
 
     area_type = case_when(
-      areadesc == "Major City" ~ "City",
-      TRUE ~ areadesc
+      areadesc == "Major City" ~ "city",
+      TRUE ~ str_to_lower(areadesc)
     ),
 
     # set general info
@@ -37,7 +37,7 @@ output <- raw %>%
     polyname = case_when(
       area == "DeKalb" ~ "alabama,de kalb",
       area == "St. Clair" ~ "alabama,st clair",
-      areadesc == "County" ~ paste("alabama,", tolower(area), sep = "")
+      areadesc == "county" ~ paste("alabama,", tolower(area), sep = "")
     )
   ) %>%
   filter(year >= 2019) %>%
