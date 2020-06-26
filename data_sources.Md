@@ -129,6 +129,9 @@
 * [Maryland Department of Labor](https://www.dllr.state.md.us/employment/uicounty.shtml)
   * Format: Web Table, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [Maryland Department of Labor](https://www.dllr.state.md.us/lmi/laus/lausmsa.shtml)
+  * Format: CSV, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Massachusetts
 * [Workforce Development Area Stats](https://public.tableau.com/profile/maeconomicresearch#!/vizhome/WorkforceDevelopmentAreaWDAProfile/WDAProfile)
@@ -137,11 +140,17 @@
 * [MA Economic Data](https://public.tableau.com/profile/maeconomicresearch#!/vizhome/InitialClaimsbyCitiesandTowns/GenderandEthnicity)
   * Format: Tableau, Updated: Weekly, Level: Town
   * Data: UI claims, demographics, industries
+* [Mass.gov](https://lmi.dua.eol.mass.gov/LMI/LaborForceAndUnemployment#)
+  * Format: CSV, Updated: Montly, Level: County, City
+  * Data: Unemployment
 
 ## Michigan
 * [Upjohn Institute](https://www.upjohn.org/research-highlights/initial-claims-unemployment-insurance-level-remain-near-historical-highs)
   * Format: Table, Updated: Weekly (only Mar 28 & Apr 4), Level: County
   * Data: UI Claims, Industries
+* [Michigan Department of Technology, Management, and Budget](https://milmi.org/DataSearch/LAUS)
+  * Format: CSV, Updated: Montly, Level: County, City
+  * Data: Unemployment
 
 ## Minnesota
 * [Minnesota Empolyment and Economic Development](https://apps.deed.state.mn.us/lmi/ui/Results.aspx?area=R11000&date=202001)

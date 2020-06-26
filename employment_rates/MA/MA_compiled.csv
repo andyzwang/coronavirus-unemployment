@@ -1,0 +1,415 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
+"25","MA","Massachusetts","Barnstable County","county",25001,"January",2020,102821,109469,6648
+"25","MA","Massachusetts","Barnstable County","county",25001,"February",2020,102318,108982,6664
+"25","MA","Massachusetts","Barnstable County","county",25001,"March",2020,100918,106531,5613
+"25","MA","Massachusetts","Barnstable County","county",25001,"April",2020,76816,97849,21033
+"25","MA","Massachusetts","Barnstable County","county",25001,"May",2020,83398,103678,20280
+"25","MA","Massachusetts","Barnstable County","county",25001,"January",2019,102419,109744,7325
+"25","MA","Massachusetts","Barnstable County","county",25001,"February",2019,101481,108476,6995
+"25","MA","Massachusetts","Barnstable County","county",25001,"March",2019,102156,108374,6218
+"25","MA","Massachusetts","Barnstable County","county",25001,"April",2019,105664,110193,4529
+"25","MA","Massachusetts","Barnstable County","county",25001,"May",2019,110723,114572,3849
+"25","MA","Massachusetts","Barnstable County","county",25001,"June",2019,119389,123191,3802
+"25","MA","Massachusetts","Barnstable County","county",25001,"July",2019,126407,130016,3609
+"25","MA","Massachusetts","Barnstable County","county",25001,"August",2019,125122,128334,3212
+"25","MA","Massachusetts","Barnstable County","county",25001,"September",2019,113991,117049,3058
+"25","MA","Massachusetts","Barnstable County","county",25001,"October",2019,110928,113834,2906
+"25","MA","Massachusetts","Barnstable County","county",25001,"November",2019,106945,110574,3629
+"25","MA","Massachusetts","Barnstable County","county",25001,"December",2019,106645,110894,4249
+"25","MA","Massachusetts","Barnstable County","county",25001,"Annual",2019,110989,115437,4448
+"25","MA","Massachusetts","Berkshire County","county",25003,"January",2020,61830,64661,2831
+"25","MA","Massachusetts","Berkshire County","county",25003,"February",2020,61568,64344,2776
+"25","MA","Massachusetts","Berkshire County","county",25003,"March",2020,60273,62705,2432
+"25","MA","Massachusetts","Berkshire County","county",25003,"April",2020,48028,57684,9656
+"25","MA","Massachusetts","Berkshire County","county",25003,"May",2020,50191,59491,9300
+"25","MA","Massachusetts","Berkshire County","county",25003,"January",2019,62147,65300,3153
+"25","MA","Massachusetts","Berkshire County","county",25003,"February",2019,61886,64872,2986
+"25","MA","Massachusetts","Berkshire County","county",25003,"March",2019,61843,64618,2775
+"25","MA","Massachusetts","Berkshire County","county",25003,"April",2019,61676,63940,2264
+"25","MA","Massachusetts","Berkshire County","county",25003,"May",2019,62426,64590,2164
+"25","MA","Massachusetts","Berkshire County","county",25003,"June",2019,64910,67243,2333
+"25","MA","Massachusetts","Berkshire County","county",25003,"July",2019,65961,68184,2223
+"25","MA","Massachusetts","Berkshire County","county",25003,"August",2019,65112,67213,2101
+"25","MA","Massachusetts","Berkshire County","county",25003,"September",2019,62472,64397,1925
+"25","MA","Massachusetts","Berkshire County","county",25003,"October",2019,62524,64223,1699
+"25","MA","Massachusetts","Berkshire County","county",25003,"November",2019,62416,64189,1773
+"25","MA","Massachusetts","Berkshire County","county",25003,"December",2019,63043,65063,2020
+"25","MA","Massachusetts","Berkshire County","county",25003,"Annual",2019,63035,65320,2285
+"25","MA","Massachusetts","Bristol County","county",25005,"January",2020,291691,305670,13979
+"25","MA","Massachusetts","Bristol County","county",25005,"February",2020,291868,305873,14005
+"25","MA","Massachusetts","Bristol County","county",25005,"March",2020,288609,300557,11948
+"25","MA","Massachusetts","Bristol County","county",25005,"April",2020,226043,283606,57563
+"25","MA","Massachusetts","Bristol County","county",25005,"May",2020,234471,290922,56451
+"25","MA","Massachusetts","Bristol County","county",25005,"January",2019,289192,304451,15259
+"25","MA","Massachusetts","Bristol County","county",25005,"February",2019,290930,305392,14462
+"25","MA","Massachusetts","Bristol County","county",25005,"March",2019,290983,304292,13309
+"25","MA","Massachusetts","Bristol County","county",25005,"April",2019,291682,302134,10452
+"25","MA","Massachusetts","Bristol County","county",25005,"May",2019,291532,302177,10645
+"25","MA","Massachusetts","Bristol County","county",25005,"June",2019,293661,305427,11766
+"25","MA","Massachusetts","Bristol County","county",25005,"July",2019,292829,304687,11858
+"25","MA","Massachusetts","Bristol County","county",25005,"August",2019,293687,304588,10901
+"25","MA","Massachusetts","Bristol County","county",25005,"September",2019,292607,302483,9876
+"25","MA","Massachusetts","Bristol County","county",25005,"October",2019,294432,303400,8968
+"25","MA","Massachusetts","Bristol County","county",25005,"November",2019,296490,305287,8797
+"25","MA","Massachusetts","Bristol County","county",25005,"December",2019,296654,306280,9626
+"25","MA","Massachusetts","Bristol County","county",25005,"Annual",2019,292890,304217,11327
+"25","MA","Massachusetts","Dukes County","county",25007,"January",2020,7891,8507,616
+"25","MA","Massachusetts","Dukes County","county",25007,"February",2020,7867,8486,619
+"25","MA","Massachusetts","Dukes County","county",25007,"March",2020,7866,8367,501
+"25","MA","Massachusetts","Dukes County","county",25007,"April",2020,6588,8515,1927
+"25","MA","Massachusetts","Dukes County","county",25007,"May",2020,7715,9214,1499
+"25","MA","Massachusetts","Dukes County","county",25007,"January",2019,7804,8520,716
+"25","MA","Massachusetts","Dukes County","county",25007,"February",2019,7510,8206,696
+"25","MA","Massachusetts","Dukes County","county",25007,"March",2019,7561,8155,594
+"25","MA","Massachusetts","Dukes County","county",25007,"April",2019,8130,8555,425
+"25","MA","Massachusetts","Dukes County","county",25007,"May",2019,9140,9472,332
+"25","MA","Massachusetts","Dukes County","county",25007,"June",2019,10851,11158,307
+"25","MA","Massachusetts","Dukes County","county",25007,"July",2019,12363,12627,264
+"25","MA","Massachusetts","Dukes County","county",25007,"August",2019,12178,12404,226
+"25","MA","Massachusetts","Dukes County","county",25007,"September",2019,10094,10322,228
+"25","MA","Massachusetts","Dukes County","county",25007,"October",2019,9036,9258,222
+"25","MA","Massachusetts","Dukes County","county",25007,"November",2019,8229,8563,334
+"25","MA","Massachusetts","Dukes County","county",25007,"December",2019,8163,8560,397
+"25","MA","Massachusetts","Dukes County","county",25007,"Annual",2019,9255,9650,395
+"25","MA","Massachusetts","Essex County","county",25009,"January",2020,414612,428998,14386
+"25","MA","Massachusetts","Essex County","county",25009,"February",2020,415131,429373,14242
+"25","MA","Massachusetts","Essex County","county",25009,"March",2020,410676,423430,12754
+"25","MA","Massachusetts","Essex County","county",25009,"April",2020,318847,387673,68826
+"25","MA","Massachusetts","Essex County","county",25009,"May",2020,331186,403931,72745
+"25","MA","Massachusetts","Essex County","county",25009,"January",2019,412601,428902,16301
+"25","MA","Massachusetts","Essex County","county",25009,"February",2019,413859,428814,14955
+"25","MA","Massachusetts","Essex County","county",25009,"March",2019,415295,429545,14250
+"25","MA","Massachusetts","Essex County","county",25009,"April",2019,414450,426586,12136
+"25","MA","Massachusetts","Essex County","county",25009,"May",2019,414146,426862,12716
+"25","MA","Massachusetts","Essex County","county",25009,"June",2019,418856,432801,13945
+"25","MA","Massachusetts","Essex County","county",25009,"July",2019,419799,433536,13737
+"25","MA","Massachusetts","Essex County","county",25009,"August",2019,420405,432776,12371
+"25","MA","Massachusetts","Essex County","county",25009,"September",2019,415427,427239,11812
+"25","MA","Massachusetts","Essex County","county",25009,"October",2019,419800,430349,10549
+"25","MA","Massachusetts","Essex County","county",25009,"November",2019,420382,430547,10165
+"25","MA","Massachusetts","Essex County","county",25009,"December",2019,420080,430487,10407
+"25","MA","Massachusetts","Essex County","county",25009,"Annual",2019,417092,429871,12779
+"25","MA","Massachusetts","Franklin County","county",25011,"January",2020,39910,41258,1348
+"25","MA","Massachusetts","Franklin County","county",25011,"February",2020,40165,41467,1302
+"25","MA","Massachusetts","Franklin County","county",25011,"March",2020,39856,41048,1192
+"25","MA","Massachusetts","Franklin County","county",25011,"April",2020,31032,36158,5126
+"25","MA","Massachusetts","Franklin County","county",25011,"May",2020,32573,37530,4957
+"25","MA","Massachusetts","Franklin County","county",25011,"January",2019,39793,41301,1508
+"25","MA","Massachusetts","Franklin County","county",25011,"February",2019,39923,41330,1407
+"25","MA","Massachusetts","Franklin County","county",25011,"March",2019,39895,41212,1317
+"25","MA","Massachusetts","Franklin County","county",25011,"April",2019,40015,41138,1123
+"25","MA","Massachusetts","Franklin County","county",25011,"May",2019,40145,41234,1089
+"25","MA","Massachusetts","Franklin County","county",25011,"June",2019,40276,41426,1150
+"25","MA","Massachusetts","Franklin County","county",25011,"July",2019,40390,41507,1117
+"25","MA","Massachusetts","Franklin County","county",25011,"August",2019,40183,41221,1038
+"25","MA","Massachusetts","Franklin County","county",25011,"September",2019,40022,40967,945
+"25","MA","Massachusetts","Franklin County","county",25011,"October",2019,40457,41324,867
+"25","MA","Massachusetts","Franklin County","county",25011,"November",2019,40615,41480,865
+"25","MA","Massachusetts","Franklin County","county",25011,"December",2019,40769,41679,910
+"25","MA","Massachusetts","Franklin County","county",25011,"Annual",2019,40207,41318,1111
+"25","MA","Massachusetts","Hampden County","county",25013,"January",2020,219537,229917,10380
+"25","MA","Massachusetts","Hampden County","county",25013,"February",2020,221863,232061,10198
+"25","MA","Massachusetts","Hampden County","county",25013,"March",2020,219078,227623,8545
+"25","MA","Massachusetts","Hampden County","county",25013,"April",2020,167145,203565,36420
+"25","MA","Massachusetts","Hampden County","county",25013,"May",2020,173599,211814,38215
+"25","MA","Massachusetts","Hampden County","county",25013,"January",2019,218366,230193,11827
+"25","MA","Massachusetts","Hampden County","county",25013,"February",2019,220755,231740,10985
+"25","MA","Massachusetts","Hampden County","county",25013,"March",2019,220902,231251,10349
+"25","MA","Massachusetts","Hampden County","county",25013,"April",2019,221381,230137,8756
+"25","MA","Massachusetts","Hampden County","county",25013,"May",2019,220032,229259,9227
+"25","MA","Massachusetts","Hampden County","county",25013,"June",2019,219304,229665,10361
+"25","MA","Massachusetts","Hampden County","county",25013,"July",2019,218327,228837,10510
+"25","MA","Massachusetts","Hampden County","county",25013,"August",2019,218415,228173,9758
+"25","MA","Massachusetts","Hampden County","county",25013,"September",2019,220407,228994,8587
+"25","MA","Massachusetts","Hampden County","county",25013,"October",2019,223118,230695,7577
+"25","MA","Massachusetts","Hampden County","county",25013,"November",2019,224473,231841,7368
+"25","MA","Massachusetts","Hampden County","county",25013,"December",2019,223719,231489,7770
+"25","MA","Massachusetts","Hampden County","county",25013,"Annual",2019,220767,230190,9423
+"25","MA","Massachusetts","Hampshire County","county",25015,"January",2020,87975,90770,2795
+"25","MA","Massachusetts","Hampshire County","county",25015,"February",2020,88906,91662,2756
+"25","MA","Massachusetts","Hampshire County","county",25015,"March",2020,87769,90104,2335
+"25","MA","Massachusetts","Hampshire County","county",25015,"April",2020,66952,76570,9618
+"25","MA","Massachusetts","Hampshire County","county",25015,"May",2020,69552,79512,9960
+"25","MA","Massachusetts","Hampshire County","county",25015,"January",2019,87511,90609,3098
+"25","MA","Massachusetts","Hampshire County","county",25015,"February",2019,88462,91284,2822
+"25","MA","Massachusetts","Hampshire County","county",25015,"March",2019,88515,91300,2785
+"25","MA","Massachusetts","Hampshire County","county",25015,"April",2019,88719,90949,2230
+"25","MA","Massachusetts","Hampshire County","county",25015,"May",2019,88189,90600,2411
+"25","MA","Massachusetts","Hampshire County","county",25015,"June",2019,87909,90736,2827
+"25","MA","Massachusetts","Hampshire County","county",25015,"July",2019,87528,90435,2907
+"25","MA","Massachusetts","Hampshire County","county",25015,"August",2019,87548,89994,2446
+"25","MA","Massachusetts","Hampshire County","county",25015,"September",2019,88335,90699,2364
+"25","MA","Massachusetts","Hampshire County","county",25015,"October",2019,89422,91401,1979
+"25","MA","Massachusetts","Hampshire County","county",25015,"November",2019,89953,91756,1803
+"25","MA","Massachusetts","Hampshire County","county",25015,"December",2019,89652,91474,1822
+"25","MA","Massachusetts","Hampshire County","county",25015,"Annual",2019,88479,90937,2458
+"25","MA","Massachusetts","Middlesex County","county",25017,"January",2020,905023,928861,23838
+"25","MA","Massachusetts","Middlesex County","county",25017,"February",2020,906588,929407,22819
+"25","MA","Massachusetts","Middlesex County","county",25017,"March",2020,897428,918161,20733
+"25","MA","Massachusetts","Middlesex County","county",25017,"April",2020,700455,802894,102439
+"25","MA","Massachusetts","Middlesex County","county",25017,"May",2020,720532,831802,111270
+"25","MA","Massachusetts","Middlesex County","county",25017,"January",2019,897367,923716,26349
+"25","MA","Massachusetts","Middlesex County","county",25017,"February",2019,900888,924845,23957
+"25","MA","Massachusetts","Middlesex County","county",25017,"March",2019,903064,926480,23416
+"25","MA","Massachusetts","Middlesex County","county",25017,"April",2019,902342,922329,19987
+"25","MA","Massachusetts","Middlesex County","county",25017,"May",2019,900731,922680,21949
+"25","MA","Massachusetts","Middlesex County","county",25017,"June",2019,912523,936739,24216
+"25","MA","Massachusetts","Middlesex County","county",25017,"July",2019,914353,938772,24419
+"25","MA","Massachusetts","Middlesex County","county",25017,"August",2019,915727,937299,21572
+"25","MA","Massachusetts","Middlesex County","county",25017,"September",2019,903375,923831,20456
+"25","MA","Massachusetts","Middlesex County","county",25017,"October",2019,913350,931248,17898
+"25","MA","Massachusetts","Middlesex County","county",25017,"November",2019,915739,932770,17031
+"25","MA","Massachusetts","Middlesex County","county",25017,"December",2019,913870,930476,16606
+"25","MA","Massachusetts","Middlesex County","county",25017,"Annual",2019,907777,929265,21488
+"25","MA","Massachusetts","Nantucket County","county",25019,"January",2020,5529,6217,688
+"25","MA","Massachusetts","Nantucket County","county",25019,"February",2020,5562,6286,724
+"25","MA","Massachusetts","Nantucket County","county",25019,"March",2020,5750,6323,573
+"25","MA","Massachusetts","Nantucket County","county",25019,"April",2020,5060,7044,1984
+"25","MA","Massachusetts","Nantucket County","county",25019,"May",2020,6214,7515,1301
+"25","MA","Massachusetts","Nantucket County","county",25019,"January",2019,5471,6151,680
+"25","MA","Massachusetts","Nantucket County","county",25019,"February",2019,5405,6093,688
+"25","MA","Massachusetts","Nantucket County","county",25019,"March",2019,5644,6212,568
+"25","MA","Massachusetts","Nantucket County","county",25019,"April",2019,6278,6576,298
+"25","MA","Massachusetts","Nantucket County","county",25019,"May",2019,7399,7607,208
+"25","MA","Massachusetts","Nantucket County","county",25019,"June",2019,9020,9213,193
+"25","MA","Massachusetts","Nantucket County","county",25019,"July",2019,10197,10360,163
+"25","MA","Massachusetts","Nantucket County","county",25019,"August",2019,10083,10222,139
+"25","MA","Massachusetts","Nantucket County","county",25019,"September",2019,8417,8561,144
+"25","MA","Massachusetts","Nantucket County","county",25019,"October",2019,7426,7566,140
+"25","MA","Massachusetts","Nantucket County","county",25019,"November",2019,6440,6688,248
+"25","MA","Massachusetts","Nantucket County","county",25019,"December",2019,6329,6688,359
+"25","MA","Massachusetts","Nantucket County","county",25019,"Annual",2019,7342,7661,319
+"25","MA","Massachusetts","Norfolk County","county",25021,"January",2020,384555,395637,11082
+"25","MA","Massachusetts","Norfolk County","county",25021,"February",2020,385528,396348,10820
+"25","MA","Massachusetts","Norfolk County","county",25021,"March",2020,381324,391253,9929
+"25","MA","Massachusetts","Norfolk County","county",25021,"April",2020,297196,351249,54053
+"25","MA","Massachusetts","Norfolk County","county",25021,"May",2020,305202,363141,57939
+"25","MA","Massachusetts","Norfolk County","county",25021,"January",2019,380374,392657,12283
+"25","MA","Massachusetts","Norfolk County","county",25021,"February",2019,382401,393512,11111
+"25","MA","Massachusetts","Norfolk County","county",25021,"March",2019,383387,394153,10766
+"25","MA","Massachusetts","Norfolk County","county",25021,"April",2019,383038,392413,9375
+"25","MA","Massachusetts","Norfolk County","county",25021,"May",2019,382063,392176,10113
+"25","MA","Massachusetts","Norfolk County","county",25021,"June",2019,387016,398168,11152
+"25","MA","Massachusetts","Norfolk County","county",25021,"July",2019,388169,399417,11248
+"25","MA","Massachusetts","Norfolk County","county",25021,"August",2019,388898,398784,9886
+"25","MA","Massachusetts","Norfolk County","county",25021,"September",2019,383756,393391,9635
+"25","MA","Massachusetts","Norfolk County","county",25021,"October",2019,388473,396947,8474
+"25","MA","Massachusetts","Norfolk County","county",25021,"November",2019,389692,397748,8056
+"25","MA","Massachusetts","Norfolk County","county",25021,"December",2019,388516,396424,7908
+"25","MA","Massachusetts","Norfolk County","county",25021,"Annual",2019,385482,395483,10001
+"25","MA","Massachusetts","Plymouth County","county",25023,"January",2020,275988,286436,10448
+"25","MA","Massachusetts","Plymouth County","county",25023,"February",2020,276322,286627,10305
+"25","MA","Massachusetts","Plymouth County","county",25023,"March",2020,273540,282819,9279
+"25","MA","Massachusetts","Plymouth County","county",25023,"April",2020,212863,260006,47143
+"25","MA","Massachusetts","Plymouth County","county",25023,"May",2020,219297,268416,49119
+"25","MA","Massachusetts","Plymouth County","county",25023,"January",2019,272980,284254,11274
+"25","MA","Massachusetts","Plymouth County","county",25023,"February",2019,274771,285349,10578
+"25","MA","Massachusetts","Plymouth County","county",25023,"March",2019,275417,285313,9896
+"25","MA","Massachusetts","Plymouth County","county",25023,"April",2019,275999,284001,8002
+"25","MA","Massachusetts","Plymouth County","county",25023,"May",2019,275975,284232,8257
+"25","MA","Massachusetts","Plymouth County","county",25023,"June",2019,279671,288814,9143
+"25","MA","Massachusetts","Plymouth County","county",25023,"July",2019,281010,290466,9456
+"25","MA","Massachusetts","Plymouth County","county",25023,"August",2019,281439,289938,8499
+"25","MA","Massachusetts","Plymouth County","county",25023,"September",2019,277281,285174,7893
+"25","MA","Massachusetts","Plymouth County","county",25023,"October",2019,279862,286911,7049
+"25","MA","Massachusetts","Plymouth County","county",25023,"November",2019,280603,287417,6814
+"25","MA","Massachusetts","Plymouth County","county",25023,"December",2019,279949,287192,7243
+"25","MA","Massachusetts","Plymouth County","county",25023,"Annual",2019,277913,286588,8675
+"25","MA","Massachusetts","Suffolk County","county",25025,"January",2020,448069,461085,13016
+"25","MA","Massachusetts","Suffolk County","county",25025,"February",2020,449203,461523,12320
+"25","MA","Massachusetts","Suffolk County","county",25025,"March",2020,444404,455982,11578
+"25","MA","Massachusetts","Suffolk County","county",25025,"April",2020,346316,410886,64570
+"25","MA","Massachusetts","Suffolk County","county",25025,"May",2020,355339,429781,74442
+"25","MA","Massachusetts","Suffolk County","county",25025,"January",2019,443188,457580,14392
+"25","MA","Massachusetts","Suffolk County","county",25025,"February",2019,445543,458214,12671
+"25","MA","Massachusetts","Suffolk County","county",25025,"March",2019,446742,459164,12422
+"25","MA","Massachusetts","Suffolk County","county",25025,"April",2019,446257,457092,10835
+"25","MA","Massachusetts","Suffolk County","county",25025,"May",2019,445055,457442,12387
+"25","MA","Massachusetts","Suffolk County","county",25025,"June",2019,451000,465144,14144
+"25","MA","Massachusetts","Suffolk County","county",25025,"July",2019,452475,466599,14124
+"25","MA","Massachusetts","Suffolk County","county",25025,"August",2019,453249,465595,12346
+"25","MA","Massachusetts","Suffolk County","county",25025,"September",2019,447011,458696,11685
+"25","MA","Massachusetts","Suffolk County","county",25025,"October",2019,452607,462896,10289
+"25","MA","Massachusetts","Suffolk County","county",25025,"November",2019,453962,463731,9769
+"25","MA","Massachusetts","Suffolk County","county",25025,"December",2019,452543,461862,9319
+"25","MA","Massachusetts","Suffolk County","county",25025,"Annual",2019,449136,461168,12032
+"25","MA","Massachusetts","Worcester County","county",25027,"January",2020,435049,451331,16282
+"25","MA","Massachusetts","Worcester County","county",25027,"February",2020,436372,452457,16085
+"25","MA","Massachusetts","Worcester County","county",25027,"March",2020,434624,448648,14024
+"25","MA","Massachusetts","Worcester County","county",25027,"April",2020,340711,403488,62777
+"25","MA","Massachusetts","Worcester County","county",25027,"May",2020,353093,418134,65041
+"25","MA","Massachusetts","Worcester County","county",25027,"January",2019,432312,450234,17922
+"25","MA","Massachusetts","Worcester County","county",25027,"February",2019,434836,451587,16751
+"25","MA","Massachusetts","Worcester County","county",25027,"March",2019,435186,451158,15972
+"25","MA","Massachusetts","Worcester County","county",25027,"April",2019,434988,448235,13247
+"25","MA","Massachusetts","Worcester County","county",25027,"May",2019,434002,447824,13822
+"25","MA","Massachusetts","Worcester County","county",25027,"June",2019,436468,451728,15260
+"25","MA","Massachusetts","Worcester County","county",25027,"July",2019,434316,449820,15504
+"25","MA","Massachusetts","Worcester County","county",25027,"August",2019,435363,449269,13906
+"25","MA","Massachusetts","Worcester County","county",25027,"September",2019,433951,446865,12914
+"25","MA","Massachusetts","Worcester County","county",25027,"October",2019,438492,449916,11424
+"25","MA","Massachusetts","Worcester County","county",25027,"November",2019,441783,452930,11147
+"25","MA","Massachusetts","Worcester County","county",25027,"December",2019,442619,454423,11804
+"25","MA","Massachusetts","Worcester County","county",25027,"Annual",2019,436193,450332,14139
+"25","MA","Massachusetts","Massachusetts","state",NA,"January",2020,3808800,5647500,3680500
+"25","MA","Massachusetts","Massachusetts","state",NA,"February",2020,3814900,5648900,3689300
+"25","MA","Massachusetts","Massachusetts","state",NA,"March",2020,3763600,5650400,3652100
+"25","MA","Massachusetts","Massachusetts","state",NA,"April",2020,3387200,5652000,2844000
+"25","MA","Massachusetts","Massachusetts","state",NA,"May",2020,3514900,5654000,2942400
+"25","MA","Massachusetts","Massachusetts","state",NA,"January",2019,3793621,5625300,3651529
+"25","MA","Massachusetts","Massachusetts","state",NA,"February",2019,3799710,5626400,3668644
+"25","MA","Massachusetts","Massachusetts","state",NA,"March",2019,3801221,5627500,3676590
+"25","MA","Massachusetts","Massachusetts","state",NA,"April",2019,3784300,5628800,3680628
+"25","MA","Massachusetts","Massachusetts","state",NA,"May",2019,3790731,5630500,3681557
+"25","MA","Massachusetts","Massachusetts","state",NA,"June",2019,3851461,5632400,3730860
+"25","MA","Massachusetts","Massachusetts","state",NA,"July",2019,3865262,5634400,3744121
+"25","MA","Massachusetts","Massachusetts","state",NA,"August",2019,3855804,5637100,3747413
+"25","MA","Massachusetts","Massachusetts","state",NA,"September",2019,3798668,5639800,3697139
+"25","MA","Massachusetts","Massachusetts","state",NA,"October",2019,3819962,5642400,3729925
+"25","MA","Massachusetts","Massachusetts","state",NA,"November",2019,3825517,5644400,3737716
+"25","MA","Massachusetts","Massachusetts","state",NA,"December",2019,3822997,5646100,3732555
+"25","MA","Massachusetts","Massachusetts","state",NA,"Annual",2019,3817437,5634600,3706556
+"25","MA","Massachusetts","Boston","city",NA,"January",2020,388117,399059,10942
+"25","MA","Massachusetts","Boston","city",NA,"February",2020,389100,399473,10373
+"25","MA","Massachusetts","Boston","city",NA,"March",2020,384943,394580,9637
+"25","MA","Massachusetts","Boston","city",NA,"April",2020,299979,351463,51484
+"25","MA","Massachusetts","Boston","city",NA,"May",2020,307795,367938,60143
+"25","MA","Massachusetts","Boston","city",NA,"January",2019,383889,396030,12141
+"25","MA","Massachusetts","Boston","city",NA,"February",2019,385930,396549,10619
+"25","MA","Massachusetts","Boston","city",NA,"March",2019,386969,397440,10471
+"25","MA","Massachusetts","Boston","city",NA,"April",2019,386548,395749,9201
+"25","MA","Massachusetts","Boston","city",NA,"May",2019,385506,396144,10638
+"25","MA","Massachusetts","Boston","city",NA,"June",2019,390656,402914,12258
+"25","MA","Massachusetts","Boston","city",NA,"July",2019,391934,404173,12239
+"25","MA","Massachusetts","Boston","city",NA,"August",2019,392605,403292,10687
+"25","MA","Massachusetts","Boston","city",NA,"September",2019,387200,397299,10099
+"25","MA","Massachusetts","Boston","city",NA,"October",2019,392048,400889,8841
+"25","MA","Massachusetts","Boston","city",NA,"November",2019,393222,401548,8326
+"25","MA","Massachusetts","Boston","city",NA,"December",2019,391993,399841,7848
+"25","MA","Massachusetts","Boston","city",NA,"Annual",2019,389042,399323,10281
+"25","MA","Massachusetts","Cambridge","city",NA,"January",2020,71874,73286,1412
+"25","MA","Massachusetts","Cambridge","city",NA,"February",2020,72056,73349,1293
+"25","MA","Massachusetts","Cambridge","city",NA,"March",2020,71286,72432,1146
+"25","MA","Massachusetts","Cambridge","city",NA,"April",2020,55552,59762,4210
+"25","MA","Massachusetts","Cambridge","city",NA,"May",2020,56999,62139,5140
+"25","MA","Massachusetts","Cambridge","city",NA,"January",2019,71091,72537,1446
+"25","MA","Massachusetts","Cambridge","city",NA,"February",2019,71469,72778,1309
+"25","MA","Massachusetts","Cambridge","city",NA,"March",2019,71661,73024,1363
+"25","MA","Massachusetts","Cambridge","city",NA,"April",2019,71583,72796,1213
+"25","MA","Massachusetts","Cambridge","city",NA,"May",2019,71390,72830,1440
+"25","MA","Massachusetts","Cambridge","city",NA,"June",2019,72344,73929,1585
+"25","MA","Massachusetts","Cambridge","city",NA,"July",2019,72581,74163,1582
+"25","MA","Massachusetts","Cambridge","city",NA,"August",2019,72705,74068,1363
+"25","MA","Massachusetts","Cambridge","city",NA,"September",2019,71704,73039,1335
+"25","MA","Massachusetts","Cambridge","city",NA,"October",2019,72602,73749,1147
+"25","MA","Massachusetts","Cambridge","city",NA,"November",2019,72819,73867,1048
+"25","MA","Massachusetts","Cambridge","city",NA,"December",2019,72592,73547,955
+"25","MA","Massachusetts","Cambridge","city",NA,"Annual",2019,72045,73361,1316
+"25","MA","Massachusetts","Brockton","city",NA,"January",2020,47388,49476,2088
+"25","MA","Massachusetts","Brockton","city",NA,"February",2020,47441,49545,2104
+"25","MA","Massachusetts","Brockton","city",NA,"March",2020,47007,48845,1838
+"25","MA","Massachusetts","Brockton","city",NA,"April",2020,36566,46420,9854
+"25","MA","Massachusetts","Brockton","city",NA,"May",2020,37553,48686,11133
+"25","MA","Massachusetts","Brockton","city",NA,"January",2019,46764,49059,2295
+"25","MA","Massachusetts","Brockton","city",NA,"February",2019,47311,49416,2105
+"25","MA","Massachusetts","Brockton","city",NA,"March",2019,47365,49336,1971
+"25","MA","Massachusetts","Brockton","city",NA,"April",2019,47489,49154,1665
+"25","MA","Massachusetts","Brockton","city",NA,"May",2019,47295,49093,1798
+"25","MA","Massachusetts","Brockton","city",NA,"June",2019,47495,49500,2005
+"25","MA","Massachusetts","Brockton","city",NA,"July",2019,47507,49611,2104
+"25","MA","Massachusetts","Brockton","city",NA,"August",2019,47651,49613,1962
+"25","MA","Massachusetts","Brockton","city",NA,"September",2019,47412,49115,1703
+"25","MA","Massachusetts","Brockton","city",NA,"October",2019,47951,49431,1480
+"25","MA","Massachusetts","Brockton","city",NA,"November",2019,48282,49725,1443
+"25","MA","Massachusetts","Brockton","city",NA,"December",2019,48221,49721,1500
+"25","MA","Massachusetts","Brockton","city",NA,"Annual",2019,47562,49398,1836
+"25","MA","Massachusetts","Lowell","city",NA,"January",2020,55439,57637,2198
+"25","MA","Massachusetts","Lowell","city",NA,"February",2020,55538,57631,2093
+"25","MA","Massachusetts","Lowell","city",NA,"March",2020,54988,56861,1873
+"25","MA","Massachusetts","Lowell","city",NA,"April",2020,42752,51726,8974
+"25","MA","Massachusetts","Lowell","city",NA,"May",2020,44189,54195,10006
+"25","MA","Massachusetts","Lowell","city",NA,"January",2019,55385,57931,2546
+"25","MA","Massachusetts","Lowell","city",NA,"February",2019,55586,57903,2317
+"25","MA","Massachusetts","Lowell","city",NA,"March",2019,55675,57868,2193
+"25","MA","Massachusetts","Lowell","city",NA,"April",2019,55662,57477,1815
+"25","MA","Massachusetts","Lowell","city",NA,"May",2019,55625,57601,1976
+"25","MA","Massachusetts","Lowell","city",NA,"June",2019,56255,58426,2171
+"25","MA","Massachusetts","Lowell","city",NA,"July",2019,56215,58404,2189
+"25","MA","Massachusetts","Lowell","city",NA,"August",2019,56311,58283,1972
+"25","MA","Massachusetts","Lowell","city",NA,"September",2019,55674,57496,1822
+"25","MA","Massachusetts","Lowell","city",NA,"October",2019,56033,57652,1619
+"25","MA","Massachusetts","Lowell","city",NA,"November",2019,56094,57731,1637
+"25","MA","Massachusetts","Lowell","city",NA,"December",2019,56015,57646,1631
+"25","MA","Massachusetts","Lowell","city",NA,"Annual",2019,55878,57869,1991
+"25","MA","Massachusetts","Lynn","city",NA,"January",2020,47011,48701,1690
+"25","MA","Massachusetts","Lynn","city",NA,"February",2020,46992,48661,1669
+"25","MA","Massachusetts","Lynn","city",NA,"March",2020,46397,47927,1530
+"25","MA","Massachusetts","Lynn","city",NA,"April",2020,35944,45516,9572
+"25","MA","Massachusetts","Lynn","city",NA,"May",2020,37166,47926,10760
+"25","MA","Massachusetts","Lynn","city",NA,"January",2019,46740,48770,2030
+"25","MA","Massachusetts","Lynn","city",NA,"February",2019,46766,48640,1874
+"25","MA","Massachusetts","Lynn","city",NA,"March",2019,46944,48730,1786
+"25","MA","Massachusetts","Lynn","city",NA,"April",2019,46809,48229,1420
+"25","MA","Massachusetts","Lynn","city",NA,"May",2019,46769,48289,1520
+"25","MA","Massachusetts","Lynn","city",NA,"June",2019,47303,48994,1691
+"25","MA","Massachusetts","Lynn","city",NA,"July",2019,47422,49115,1693
+"25","MA","Massachusetts","Lynn","city",NA,"August",2019,47504,49030,1526
+"25","MA","Massachusetts","Lynn","city",NA,"September",2019,46974,48379,1405
+"25","MA","Massachusetts","Lynn","city",NA,"October",2019,47486,48740,1254
+"25","MA","Massachusetts","Lynn","city",NA,"November",2019,47560,48753,1193
+"25","MA","Massachusetts","Lynn","city",NA,"December",2019,47493,48693,1200
+"25","MA","Massachusetts","Lynn","city",NA,"Annual",2019,47148,48697,1549
+"25","MA","Massachusetts","New Bedford","city",NA,"January",2020,45234,48257,3023
+"25","MA","Massachusetts","New Bedford","city",NA,"February",2020,45185,48197,3012
+"25","MA","Massachusetts","New Bedford","city",NA,"March",2020,44941,47460,2519
+"25","MA","Massachusetts","New Bedford","city",NA,"April",2020,35429,46823,11394
+"25","MA","Massachusetts","New Bedford","city",NA,"May",2020,36358,47798,11440
+"25","MA","Massachusetts","New Bedford","city",NA,"January",2019,44936,48255,3319
+"25","MA","Massachusetts","New Bedford","city",NA,"February",2019,45354,48493,3139
+"25","MA","Massachusetts","New Bedford","city",NA,"March",2019,45221,48052,2831
+"25","MA","Massachusetts","New Bedford","city",NA,"April",2019,45416,47619,2203
+"25","MA","Massachusetts","New Bedford","city",NA,"May",2019,45229,47516,2287
+"25","MA","Massachusetts","New Bedford","city",NA,"June",2019,45653,48189,2536
+"25","MA","Massachusetts","New Bedford","city",NA,"July",2019,45556,48027,2471
+"25","MA","Massachusetts","New Bedford","city",NA,"August",2019,45499,47828,2329
+"25","MA","Massachusetts","New Bedford","city",NA,"September",2019,45414,47550,2136
+"25","MA","Massachusetts","New Bedford","city",NA,"October",2019,45529,47515,1986
+"25","MA","Massachusetts","New Bedford","city",NA,"November",2019,45925,47903,1978
+"25","MA","Massachusetts","New Bedford","city",NA,"December",2019,46204,48375,2171
+"25","MA","Massachusetts","New Bedford","city",NA,"Annual",2019,45495,47944,2449
+"25","MA","Massachusetts","Springfield","city",NA,"January",2020,61267,64816,3549
+"25","MA","Massachusetts","Springfield","city",NA,"February",2020,61924,65388,3464
+"25","MA","Massachusetts","Springfield","city",NA,"March",2020,61137,63974,2837
+"25","MA","Massachusetts","Springfield","city",NA,"April",2020,46619,58895,12276
+"25","MA","Massachusetts","Springfield","city",NA,"May",2020,48422,62141,13719
+"25","MA","Massachusetts","Springfield","city",NA,"January",2019,60942,65127,4185
+"25","MA","Massachusetts","Springfield","city",NA,"February",2019,61613,65461,3848
+"25","MA","Massachusetts","Springfield","city",NA,"March",2019,61653,65239,3586
+"25","MA","Massachusetts","Springfield","city",NA,"April",2019,61790,64993,3203
+"25","MA","Massachusetts","Springfield","city",NA,"May",2019,61410,64998,3588
+"25","MA","Massachusetts","Springfield","city",NA,"June",2019,61198,65360,4162
+"25","MA","Massachusetts","Springfield","city",NA,"July",2019,60928,65222,4294
+"25","MA","Massachusetts","Springfield","city",NA,"August",2019,60949,65069,4120
+"25","MA","Massachusetts","Springfield","city",NA,"September",2019,61517,65017,3500
+"25","MA","Massachusetts","Springfield","city",NA,"October",2019,62275,65342,3067
+"25","MA","Massachusetts","Springfield","city",NA,"November",2019,62651,65522,2871
+"25","MA","Massachusetts","Springfield","city",NA,"December",2019,62435,65208,2773
+"25","MA","Massachusetts","Springfield","city",NA,"Annual",2019,61613,65213,3600
+"25","MA","Massachusetts","Worcester","city",NA,"January",2020,90868,94373,3505
+"25","MA","Massachusetts","Worcester","city",NA,"February",2020,91209,94576,3367
+"25","MA","Massachusetts","Worcester","city",NA,"March",2020,90929,93958,3029
+"25","MA","Massachusetts","Worcester","city",NA,"April",2020,71362,85589,14227
+"25","MA","Massachusetts","Worcester","city",NA,"May",2020,73903,89734,15831
+"25","MA","Massachusetts","Worcester","city",NA,"January",2019,90258,94036,3778
+"25","MA","Massachusetts","Worcester","city",NA,"February",2019,90892,94281,3389
+"25","MA","Massachusetts","Worcester","city",NA,"March",2019,90977,94287,3310
+"25","MA","Massachusetts","Worcester","city",NA,"April",2019,90972,93905,2933
+"25","MA","Massachusetts","Worcester","city",NA,"May",2019,90661,93963,3302
+"25","MA","Massachusetts","Worcester","city",NA,"June",2019,91132,94846,3714
+"25","MA","Massachusetts","Worcester","city",NA,"July",2019,90556,94313,3757
+"25","MA","Massachusetts","Worcester","city",NA,"August",2019,90884,94287,3403
+"25","MA","Massachusetts","Worcester","city",NA,"September",2019,90652,93817,3165
+"25","MA","Massachusetts","Worcester","city",NA,"October",2019,91682,94384,2702
+"25","MA","Massachusetts","Worcester","city",NA,"November",2019,92391,95027,2636
+"25","MA","Massachusetts","Worcester","city",NA,"December",2019,92528,95186,2658
+"25","MA","Massachusetts","Worcester","city",NA,"Annual",2019,91132,94361,3229
