@@ -7632,992 +7632,992 @@
 "06","CA","California","West Hollywood city","city",NA,"August",2019,25900,27200,1400
 "06","CA","California","Ceres city","city",NA,"August",2019,20100,21500,1400
 "06","CA","California","Daly City city","city",NA,"August",2019,64600,66100,1500
-"06","CA","California","Alameda County","County","06001","April",2020,691200,804200,112900
-"06","CA","California","Alpine County","County","06003","April",2020,390,500,110
-"06","CA","California","Amador County","County","06005","April",2020,12430,14520,2090
-"06","CA","California","Butte County","County","06007","April",2020,79300,93900,14600
-"06","CA","California","Calaveras County","County","06009","April",2020,17930,20670,2740
-"06","CA","California","Colusa County","County","06011","April",2020,7810,10690,2880
-"06","CA","California","Contra Costa County","County","06013","April",2020,458800,536500,77800
-"06","CA","California","Del Norte County","County","06015","April",2020,8330,9610,1270
-"06","CA","California","El Dorado County","County","06017","April",2020,76200,89900,13700
-"06","CA","California","Fresno County","County","06019","April",2020,374400,450300,75900
-"06","CA","California","Glenn County","County","06021","April",2020,9580,11410,1830
-"06","CA","California","Humboldt County","County","06023","April",2020,53600,62200,8600
-"06","CA","California","Imperial County","County","06025","April",2020,51700,71900,20200
-"06","CA","California","Inyo County","County","06027","April",2020,7060,8180,1130
-"06","CA","California","Kern County","County","06029","April",2020,301600,370800,69200
-"06","CA","California","Kings County","County","06031","April",2020,47400,57100,9700
-"06","CA","California","Lake County","County","06033","April",2020,21620,25960,4340
-"06","CA","California","Lassen County","County","06035","April",2020,7990,9030,1040
-"06","CA","California","Los Angeles County","County","06037","April",2020,3787600,4756900,969300
-"06","CA","California","Madera County","County","06039","April",2020,51700,62100,10400
-"06","CA","California","Marin County","County","06041","April",2020,113700,128100,14400
-"06","CA","California","Mariposa County","County","06043","April",2020,6420,7840,1430
-"06","CA","California","Mendocino County","County","06045","April",2020,32040,37560,5520
-"06","CA","California","Merced County","County","06047","April",2020,93900,115500,21600
-"06","CA","California","Modoc County","County","06049","April",2020,2640,3070,430
-"06","CA","California","Mono County","County","06051","April",2020,4670,6520,1840
-"06","CA","California","Monterey County","County","06053","April",2020,160300,201700,41400
-"06","CA","California","Napa County","County","06055","April",2020,60700,72300,11600
-"06","CA","California","Nevada County","County","06057","April",2020,36430,42980,6550
-"06","CA","California","Orange County","County","06059","April",2020,1327700,1540300,212600
-"06","CA","California","Placer County","County","06061","April",2020,156500,179900,23500
-"06","CA","California","Plumas County","County","06063","April",2020,5370,6780,1410
-"06","CA","California","Riverside County","County","06065","April",2020,915700,1085200,169500
-"06","CA","California","Sacramento County","County","06067","April",2020,590100,689900,99700
-"06","CA","California","San Benito County","County","06069","April",2020,26100,32300,6100
-"06","CA","California","San Bernardino County","County","06071","April",2020,806600,933900,127300
-"06","CA","California","San Diego County","County","06073","April",2020,1317500,1550200,232800
-"06","CA","California","San Francisco County","County","06075","April",2020,483900,553700,69800
-"06","CA","California","San Joaquin County","County","06077","April",2020,267700,325600,57900
-"06","CA","California","San Luis Obispo County","County","06079","April",2020,114700,133400,18700
-"06","CA","California","San Mateo County","County","06081","April",2020,382100,431100,49000
-"06","CA","California","Santa Barbara County","County","06083","April",2020,182800,212300,29500
-"06","CA","California","Santa Clara County","County","06085","April",2020,898300,1017700,119400
-"06","CA","California","Santa Cruz County","County","06087","April",2020,112000,135000,23000
-"06","CA","California","Shasta County","County","06089","April",2020,60900,72100,11200
-"06","CA","California","Sierra County","County","06091","April",2020,1010,1180,170
-"06","CA","California","Siskiyou County","County","06093","April",2020,13940,16530,2590
-"06","CA","California","Solano County","County","06095","April",2020,171100,201500,30400
-"06","CA","California","Sonoma County","County","06097","April",2020,212500,248600,36100
-"06","CA","California","Stanislaus County","County","06099","April",2020,192500,233400,40800
-"06","CA","California","Sutter County","County","06101","April",2020,36900,45100,8200
-"06","CA","California","Tehama County","County","06103","April",2020,21750,25400,3650
-"06","CA","California","Trinity County","County","06105","April",2020,3790,4340,550
-"06","CA","California","Tulare County","County","06107","April",2020,157900,195700,37800
-"06","CA","California","Tuolumne County","County","06109","April",2020,18180,21980,3800
-"06","CA","California","Ventura County","County","06111","April",2020,354900,412300,57400
-"06","CA","California","Yolo County","County","06113","April",2020,89500,101300,11800
-"06","CA","California","Yuba County","County","06115","April",2020,24900,29700,4800
-"06","CA","California","Alameda County","County","06001","December",2019,823900,845200,21300
-"06","CA","California","Alpine County","County","06003","December",2019,590,610,20
-"06","CA","California","Amador County","County","06005","December",2019,14260,14800,540
-"06","CA","California","Butte County","County","06007","December",2019,94300,98600,4300
-"06","CA","California","Calaveras County","County","06009","December",2019,20940,21680,740
-"06","CA","California","Colusa County","County","06011","December",2019,9010,10510,1490
-"06","CA","California","Contra Costa County","County","06013","December",2019,547000,562000,15000
-"06","CA","California","Del Norte County","County","06015","December",2019,9010,9550,550
-"06","CA","California","El Dorado County","County","06017","December",2019,89400,92300,2800
-"06","CA","California","Fresno County","County","06019","December",2019,418400,449500,31200
-"06","CA","California","Glenn County","County","06021","December",2019,12260,12960,700
-"06","CA","California","Humboldt County","County","06023","December",2019,60600,62500,1900
-"06","CA","California","Imperial County","County","06025","December",2019,59600,71900,12200
-"06","CA","California","Inyo County","County","06027","December",2019,8400,8660,270
-"06","CA","California","Kern County","County","06029","December",2019,362200,389800,27700
-"06","CA","California","Kings County","County","06031","December",2019,53300,57700,4400
-"06","CA","California","Lake County","County","06033","December",2019,27320,28780,1470
-"06","CA","California","Lassen County","County","06035","December",2019,9280,9670,400
-"06","CA","California","Los Angeles County","County","06037","December",2019,4951100,5158200,207100
-"06","CA","California","Madera County","County","06039","December",2019,57800,62000,4200
-"06","CA","California","Marin County","County","06041","December",2019,137900,140600,2700
-"06","CA","California","Mariposa County","County","06043","December",2019,6810,7120,320
-"06","CA","California","Mendocino County","County","06045","December",2019,36950,38380,1430
-"06","CA","California","Merced County","County","06047","December",2019,105900,114900,9100
-"06","CA","California","Modoc County","County","06049","December",2019,2820,3030,220
-"06","CA","California","Mono County","County","06051","December",2019,8450,8730,280
-"06","CA","California","Monterey County","County","06053","December",2019,195700,210900,15300
-"06","CA","California","Napa County","County","06055","December",2019,69900,71900,2100
-"06","CA","California","Nevada County","County","06057","December",2019,47440,48860,1420
-"06","CA","California","Orange County","County","06059","December",2019,1592000,1631100,39100
-"06","CA","California","Placer County","County","06061","December",2019,183600,188600,5100
-"06","CA","California","Plumas County","County","06063","December",2019,6930,7510,580
-"06","CA","California","Riverside County","County","06065","December",2019,1071300,1111900,40600
-"06","CA","California","Sacramento County","County","06067","December",2019,691900,714800,22900
-"06","CA","California","San Benito County","County","06069","December",2019,29800,31300,1500
-"06","CA","California","San Bernardino County","County","06071","December",2019,943300,975500,32200
-"06","CA","California","San Diego County","County","06073","December",2019,1552900,1597100,44300
-"06","CA","California","San Francisco County","County","06075","December",2019,578100,589300,11100
-"06","CA","California","San Joaquin County","County","06077","December",2019,307600,326000,18300
-"06","CA","California","San Luis Obispo County","County","06079","December",2019,135800,139400,3500
-"06","CA","California","San Mateo County","County","06081","December",2019,456600,464800,8100
-"06","CA","California","Santa Barbara County","County","06083","December",2019,207300,215000,7700
-"06","CA","California","Santa Clara County","County","06085","December",2019,1035900,1058900,23000
-"06","CA","California","Santa Cruz County","County","06087","December",2019,132400,139100,6600
-"06","CA","California","Shasta County","County","06089","December",2019,71000,74100,3100
-"06","CA","California","Sierra County","County","06091","December",2019,1260,1320,60
-"06","CA","California","Siskiyou County","County","06093","December",2019,15780,16850,1070
-"06","CA","California","Solano County","County","06095","December",2019,202600,209600,7000
-"06","CA","California","Sonoma County","County","06097","December",2019,253600,259700,6100
-"06","CA","California","Stanislaus County","County","06099","December",2019,229000,242500,13500
-"06","CA","California","Sutter County","County","06101","December",2019,42900,46200,3300
-"06","CA","California","Tehama County","County","06103","December",2019,24150,25390,1240
-"06","CA","California","Trinity County","County","06105","December",2019,4240,4470,240
-"06","CA","California","Tulare County","County","06107","December",2019,183700,202500,18900
-"06","CA","California","Tuolumne County","County","06109","December",2019,20640,21470,830
-"06","CA","California","Ventura County","County","06111","December",2019,410300,424500,14200
-"06","CA","California","Yolo County","County","06113","December",2019,104700,108900,4200
-"06","CA","California","Yuba County","County","06115","December",2019,29100,30800,1700
-"06","CA","California","Alameda County","County","06001","February",2020,815400,840400,25000
-"06","CA","California","Alpine County","County","06003","February",2020,610,650,30
-"06","CA","California","Amador County","County","06005","February",2020,14200,14860,660
-"06","CA","California","Butte County","County","06007","February",2020,93200,98500,5400
-"06","CA","California","Calaveras County","County","06009","February",2020,20700,21610,910
-"06","CA","California","Colusa County","County","06011","February",2020,8990,11200,2220
-"06","CA","California","Contra Costa County","County","06013","February",2020,541300,558800,17500
-"06","CA","California","Del Norte County","County","06015","February",2020,9020,9620,600
-"06","CA","California","El Dorado County","County","06017","February",2020,88900,92300,3400
-"06","CA","California","Fresno County","County","06019","February",2020,415500,454000,38500
-"06","CA","California","Glenn County","County","06021","February",2020,12320,13260,940
-"06","CA","California","Humboldt County","County","06023","February",2020,59700,62100,2400
-"06","CA","California","Imperial County","County","06025","February",2020,59400,71700,12200
-"06","CA","California","Inyo County","County","06027","February",2020,8340,8680,340
-"06","CA","California","Kern County","County","06029","February",2020,359900,395800,36000
-"06","CA","California","Kings County","County","06031","February",2020,52800,58500,5700
-"06","CA","California","Lake County","County","06033","February",2020,27430,29120,1690
-"06","CA","California","Lassen County","County","06035","February",2020,9220,9790,570
-"06","CA","California","Los Angeles County","County","06037","February",2020,4984600,5222800,238200
-"06","CA","California","Madera County","County","06039","February",2020,58900,64000,5100
-"06","CA","California","Marin County","County","06041","February",2020,136500,139800,3300
-"06","CA","California","Mariposa County","County","06043","February",2020,6750,7200,450
-"06","CA","California","Mendocino County","County","06045","February",2020,36600,38410,1810
-"06","CA","California","Merced County","County","06047","February",2020,103500,115500,12000
-"06","CA","California","Modoc County","County","06049","February",2020,2760,3060,300
-"06","CA","California","Mono County","County","06051","February",2020,8550,8890,340
-"06","CA","California","Monterey County","County","06053","February",2020,195300,217100,21800
-"06","CA","California","Napa County","County","06055","February",2020,71200,73600,2400
-"06","CA","California","Nevada County","County","06057","February",2020,46940,48710,1780
-"06","CA","California","Orange County","County","06059","February",2020,1578400,1623900,45500
-"06","CA","California","Placer County","County","06061","February",2020,182500,188500,6000
-"06","CA","California","Plumas County","County","06063","February",2020,6620,7440,820
-"06","CA","California","Riverside County","County","06065","February",2020,1059000,1104700,45700
-"06","CA","California","Sacramento County","County","06067","February",2020,688000,714800,26800
-"06","CA","California","San Benito County","County","06069","February",2020,29700,31600,2000
-"06","CA","California","San Bernardino County","County","06071","February",2020,932600,969700,37000
-"06","CA","California","San Diego County","County","06073","February",2020,1544300,1595300,51100
-"06","CA","California","San Francisco County","County","06075","February",2020,573900,587200,13300
-"06","CA","California","San Joaquin County","County","06077","February",2020,304900,326500,21600
-"06","CA","California","San Luis Obispo County","County","06079","February",2020,138200,142500,4300
-"06","CA","California","San Mateo County","County","06081","February",2020,453200,462900,9700
-"06","CA","California","Santa Barbara County","County","06083","February",2020,205600,215500,9900
-"06","CA","California","Santa Clara County","County","06085","February",2020,1028100,1055300,27200
-"06","CA","California","Santa Cruz County","County","06087","February",2020,132100,141100,9000
-"06","CA","California","Shasta County","County","06089","February",2020,69400,73400,4000
-"06","CA","California","Sierra County","County","06091","February",2020,1220,1310,90
-"06","CA","California","Siskiyou County","County","06093","February",2020,15560,17010,1450
-"06","CA","California","Solano County","County","06095","February",2020,200300,208500,8200
-"06","CA","California","Sonoma County","County","06097","February",2020,251500,258800,7300
-"06","CA","California","Stanislaus County","County","06099","February",2020,228000,244000,16000
-"06","CA","California","Sutter County","County","06101","February",2020,42500,46600,4200
-"06","CA","California","Tehama County","County","06103","February",2020,24160,25750,1590
-"06","CA","California","Trinity County","County","06105","February",2020,4130,4450,320
-"06","CA","California","Tulare County","County","06107","February",2020,181800,205400,23600
-"06","CA","California","Tuolumne County","County","06109","February",2020,20500,21570,1070
-"06","CA","California","Ventura County","County","06111","February",2020,409000,424700,15800
-"06","CA","California","Yolo County","County","06113","February",2020,103900,109200,5300
-"06","CA","California","Yuba County","County","06115","February",2020,28700,30900,2100
-"06","CA","California","Alameda County","County","06001","January",2020,815500,841300,25700
-"06","CA","California","Alpine County","County","06003","January",2020,620,650,30
-"06","CA","California","Amador County","County","06005","January",2020,14160,14860,700
-"06","CA","California","Butte County","County","06007","January",2020,92400,97800,5400
-"06","CA","California","Calaveras County","County","06009","January",2020,20630,21560,930
-"06","CA","California","Colusa County","County","06011","January",2020,8790,10870,2090
-"06","CA","California","Contra Costa County","County","06013","January",2020,541600,559600,18000
-"06","CA","California","Del Norte County","County","06015","January",2020,9010,9640,630
-"06","CA","California","El Dorado County","County","06017","January",2020,88800,92200,3500
-"06","CA","California","Fresno County","County","06019","January",2020,415800,452500,36600
-"06","CA","California","Glenn County","County","06021","January",2020,12260,13220,970
-"06","CA","California","Humboldt County","County","06023","January",2020,59300,61800,2500
-"06","CA","California","Imperial County","County","06025","January",2020,59400,72400,13000
-"06","CA","California","Inyo County","County","06027","January",2020,8360,8700,340
-"06","CA","California","Kern County","County","06029","January",2020,362200,396100,33900
-"06","CA","California","Kings County","County","06031","January",2020,52700,58100,5500
-"06","CA","California","Lake County","County","06033","January",2020,27370,29120,1750
-"06","CA","California","Lassen County","County","06035","January",2020,9330,9890,560
-"06","CA","California","Los Angeles County","County","06037","January",2020,4956900,5189200,232200
-"06","CA","California","Madera County","County","06039","January",2020,58200,63400,5100
-"06","CA","California","Marin County","County","06041","January",2020,136500,139800,3400
-"06","CA","California","Mariposa County","County","06043","January",2020,6600,7040,440
-"06","CA","California","Mendocino County","County","06045","January",2020,36470,38310,1850
-"06","CA","California","Merced County","County","06047","January",2020,103900,115200,11300
-"06","CA","California","Modoc County","County","06049","January",2020,2790,3090,300
-"06","CA","California","Mono County","County","06051","January",2020,8800,9120,320
-"06","CA","California","Monterey County","County","06053","January",2020,193300,214100,20800
-"06","CA","California","Napa County","County","06055","January",2020,70000,72500,2500
-"06","CA","California","Nevada County","County","06057","January",2020,47320,49120,1800
-"06","CA","California","Orange County","County","06059","January",2020,1575500,1622100,46600
-"06","CA","California","Placer County","County","06061","January",2020,182200,188400,6200
-"06","CA","California","Plumas County","County","06063","January",2020,6710,7490,790
-"06","CA","California","Riverside County","County","06065","January",2020,1059300,1106100,46800
-"06","CA","California","Sacramento County","County","06067","January",2020,686500,714200,27700
-"06","CA","California","San Benito County","County","06069","January",2020,29600,31500,2000
-"06","CA","California","San Bernardino County","County","06071","January",2020,932100,970000,37900
-"06","CA","California","San Diego County","County","06073","January",2020,1540000,1592900,52900
-"06","CA","California","San Francisco County","County","06075","January",2020,573000,586500,13500
-"06","CA","California","San Joaquin County","County","06077","January",2020,303300,325100,21800
-"06","CA","California","San Luis Obispo County","County","06079","January",2020,136700,141200,4400
-"06","CA","California","San Mateo County","County","06081","January",2020,452600,462400,9800
-"06","CA","California","Santa Barbara County","County","06083","January",2020,204300,214300,10000
-"06","CA","California","Santa Clara County","County","06085","January",2020,1028000,1055600,27700
-"06","CA","California","Santa Cruz County","County","06087","January",2020,131000,139600,8600
-"06","CA","California","Shasta County","County","06089","January",2020,70600,74600,4000
-"06","CA","California","Sierra County","County","06091","January",2020,1230,1320,80
-"06","CA","California","Siskiyou County","County","06093","January",2020,15650,17060,1420
-"06","CA","California","Solano County","County","06095","January",2020,200500,209000,8400
-"06","CA","California","Sonoma County","County","06097","January",2020,250600,258200,7600
-"06","CA","California","Stanislaus County","County","06099","January",2020,227300,243300,16100
-"06","CA","California","Sutter County","County","06101","January",2020,42400,46500,4100
-"06","CA","California","Tehama County","County","06103","January",2020,24080,25710,1630
-"06","CA","California","Trinity County","County","06105","January",2020,4130,4430,310
-"06","CA","California","Tulare County","County","06107","January",2020,182000,204500,22400
-"06","CA","California","Tuolumne County","County","06109","January",2020,20410,21460,1050
-"06","CA","California","Ventura County","County","06111","January",2020,406600,423000,16400
-"06","CA","California","Yolo County","County","06113","January",2020,103600,109000,5400
-"06","CA","California","Yuba County","County","06115","January",2020,28800,30900,2200
-"06","CA","California","Alameda County","County","06001","March",2020,802700,835400,32700
-"06","CA","California","Alpine County","County","06003","March",2020,490,530,40
-"06","CA","California","Amador County","County","06005","March",2020,13980,14790,810
-"06","CA","California","Butte County","County","06007","March",2020,92300,99100,6800
-"06","CA","California","Calaveras County","County","06009","March",2020,20320,21510,1180
-"06","CA","California","Colusa County","County","06011","March",2020,8780,11470,2700
-"06","CA","California","Contra Costa County","County","06013","March",2020,532800,555500,22700
-"06","CA","California","Del Norte County","County","06015","March",2020,8740,9480,740
-"06","CA","California","El Dorado County","County","06017","March",2020,87400,91700,4300
-"06","CA","California","Fresno County","County","06019","March",2020,406900,457000,50200
-"06","CA","California","Glenn County","County","06021","March",2020,11980,13160,1180
-"06","CA","California","Humboldt County","County","06023","March",2020,58700,61800,3100
-"06","CA","California","Imperial County","County","06025","March",2020,57900,73100,15200
-"06","CA","California","Inyo County","County","06027","March",2020,8220,8640,420
-"06","CA","California","Kern County","County","06029","March",2020,344200,391600,47500
-"06","CA","California","Kings County","County","06031","March",2020,51800,59200,7300
-"06","CA","California","Lake County","County","06033","March",2020,26920,29030,2110
-"06","CA","California","Lassen County","County","06035","March",2020,8610,9310,710
-"06","CA","California","Los Angeles County","County","06037","March",2020,4669100,4996600,327500
-"06","CA","California","Madera County","County","06039","March",2020,56600,63400,6700
-"06","CA","California","Marin County","County","06041","March",2020,133400,137700,4300
-"06","CA","California","Mariposa County","County","06043","March",2020,6650,7220,570
-"06","CA","California","Mendocino County","County","06045","March",2020,36340,38640,2300
-"06","CA","California","Merced County","County","06047","March",2020,101300,116600,15300
-"06","CA","California","Modoc County","County","06049","March",2020,2760,3130,370
-"06","CA","California","Mono County","County","06051","March",2020,8360,8790,430
-"06","CA","California","Monterey County","County","06053","March",2020,192400,219200,26700
-"06","CA","California","Napa County","County","06055","March",2020,70300,73300,3000
-"06","CA","California","Nevada County","County","06057","March",2020,45250,47520,2270
-"06","CA","California","Orange County","County","06059","March",2020,1528600,1587700,59000
-"06","CA","California","Placer County","County","06061","March",2020,179500,187200,7700
-"06","CA","California","Plumas County","County","06063","March",2020,6490,7500,1020
-"06","CA","California","Riverside County","County","06065","March",2020,1039700,1098800,59100
-"06","CA","California","Sacramento County","County","06067","March",2020,676800,711100,34300
-"06","CA","California","San Benito County","County","06069","March",2020,29200,31700,2500
-"06","CA","California","San Bernardino County","County","06071","March",2020,915900,964100,48200
-"06","CA","California","San Diego County","County","06073","March",2020,1509100,1575300,66100
-"06","CA","California","San Francisco County","County","06075","March",2020,561200,579300,18100
-"06","CA","California","San Joaquin County","County","06077","March",2020,301100,328600,27600
-"06","CA","California","San Luis Obispo County","County","06079","March",2020,136300,141800,5400
-"06","CA","California","San Mateo County","County","06081","March",2020,443100,455900,12800
-"06","CA","California","Santa Barbara County","County","06083","March",2020,201800,214100,12300
-"06","CA","California","Santa Clara County","County","06085","March",2020,1007600,1042700,35200
-"06","CA","California","Santa Cruz County","County","06087","March",2020,130000,141500,11400
-"06","CA","California","Shasta County","County","06089","March",2020,68400,73400,5100
-"06","CA","California","Sierra County","County","06091","March",2020,1190,1300,110
-"06","CA","California","Siskiyou County","County","06093","March",2020,14860,16620,1760
-"06","CA","California","Solano County","County","06095","March",2020,198400,209000,10600
-"06","CA","California","Sonoma County","County","06097","March",2020,247600,257100,9500
-"06","CA","California","Stanislaus County","County","06099","March",2020,224900,245600,20700
-"06","CA","California","Sutter County","County","06101","March",2020,42100,47400,5400
-"06","CA","California","Tehama County","County","06103","March",2020,23060,25050,1990
-"06","CA","California","Trinity County","County","06105","March",2020,4090,4500,410
-"06","CA","California","Tulare County","County","06107","March",2020,176900,207300,30400
-"06","CA","California","Tuolumne County","County","06109","March",2020,19590,20940,1350
-"06","CA","California","Ventura County","County","06111","March",2020,402100,422100,20000
-"06","CA","California","Yolo County","County","06113","March",2020,102400,108900,6500
-"06","CA","California","Yuba County","County","06115","March",2020,28500,31200,2700
-"06","CA","California","Alameda County","County","06001","April",2019,813900,836100,22200
-"06","CA","California","Alpine County","County","06003","April",2019,560,590,20
-"06","CA","California","Amador County","County","06005","April",2019,14240,14790,550
-"06","CA","California","Butte County","County","06007","April",2019,94500,99500,5000
-"06","CA","California","Calaveras County","County","06009","April",2019,20250,21030,780
-"06","CA","California","Colusa County","County","06011","April",2019,9520,11210,1700
-"06","CA","California","Contra Costa County","County","06013","April",2019,540500,556200,15700
-"06","CA","California","Del Norte County","County","06015","April",2019,9020,9550,520
-"06","CA","California","El Dorado County","County","06017","April",2019,88000,91100,3100
-"06","CA","California","Fresno County","County","06019","April",2019,416000,450100,34100
-"06","CA","California","Glenn County","County","06021","April",2019,12090,12920,830
-"06","CA","California","Humboldt County","County","06023","April",2019,60200,62400,2200
-"06","CA","California","Imperial County","County","06025","April",2019,58200,68900,10700
-"06","CA","California","Inyo County","County","06027","April",2019,8320,8620,310
-"06","CA","California","Kern County","County","06029","April",2019,353800,385400,31500
-"06","CA","California","Kings County","County","06031","April",2019,52700,57400,4800
-"06","CA","California","Lake County","County","06033","April",2019,27770,29230,1460
-"06","CA","California","Lassen County","County","06035","April",2019,9110,9600,490
-"06","CA","California","Los Angeles County","County","06037","April",2019,4871200,5077100,205900
-"06","CA","California","Madera County","County","06039","April",2019,56200,60700,4500
-"06","CA","California","Marin County","County","06041","April",2019,135100,138000,2900
-"06","CA","California","Mariposa County","County","06043","April",2019,7060,7410,360
-"06","CA","California","Mendocino County","County","06045","April",2019,37300,38880,1580
-"06","CA","California","Merced County","County","06047","April",2019,105800,115900,10000
-"06","CA","California","Modoc County","County","06049","April",2019,2860,3100,240
-"06","CA","California","Mono County","County","06051","April",2019,8310,8570,270
-"06","CA","California","Monterey County","County","06053","April",2019,208000,223900,15900
-"06","CA","California","Napa County","County","06055","April",2019,70600,72600,1900
-"06","CA","California","Nevada County","County","06057","April",2019,46830,48400,1560
-"06","CA","California","Orange County","County","06059","April",2019,1570200,1610800,40600
-"06","CA","California","Placer County","County","06061","April",2019,180500,185900,5400
-"06","CA","California","Plumas County","County","06063","April",2019,6890,7630,740
-"06","CA","California","Riverside County","County","06065","April",2019,1051600,1092400,40800
-"06","CA","California","Sacramento County","County","06067","April",2019,680300,704400,24100
-"06","CA","California","San Benito County","County","06069","April",2019,29600,31200,1600
-"06","CA","California","San Bernardino County","County","06071","April",2019,925300,958500,33200
-"06","CA","California","San Diego County","County","06073","April",2019,1529600,1575400,45700
-"06","CA","California","San Francisco County","County","06075","April",2019,563800,575500,11700
-"06","CA","California","San Joaquin County","County","06077","April",2019,303900,322800,18900
-"06","CA","California","San Luis Obispo County","County","06079","April",2019,137600,141300,3700
-"06","CA","California","San Mateo County","County","06081","April",2019,445400,453800,8400
-"06","CA","California","Santa Barbara County","County","06083","April",2019,210800,218200,7500
-"06","CA","California","Santa Clara County","County","06085","April",2019,1017900,1041300,23500
-"06","CA","California","Santa Cruz County","County","06087","April",2019,136400,144100,7700
-"06","CA","California","Shasta County","County","06089","April",2019,70000,73500,3500
-"06","CA","California","Sierra County","County","06091","April",2019,1190,1270,80
-"06","CA","California","Siskiyou County","County","06093","April",2019,15620,16840,1220
-"06","CA","California","Solano County","County","06095","April",2019,200900,208300,7400
-"06","CA","California","Sonoma County","County","06097","April",2019,248800,255200,6500
-"06","CA","California","Stanislaus County","County","06099","April",2019,226700,241600,14900
-"06","CA","California","Sutter County","County","06101","April",2019,41200,44900,3800
-"06","CA","California","Tehama County","County","06103","April",2019,23810,25240,1440
-"06","CA","California","Trinity County","County","06105","April",2019,4360,4630,280
-"06","CA","California","Tulare County","County","06107","April",2019,184500,204700,20200
-"06","CA","California","Tuolumne County","County","06109","April",2019,20130,21090,960
-"06","CA","California","Ventura County","County","06111","April",2019,409200,422500,13300
-"06","CA","California","Yolo County","County","06113","April",2019,103300,107500,4200
-"06","CA","California","Yuba County","County","06115","April",2019,27500,29400,1800
-"06","CA","California","Alameda County","County","06001","August",2019,819300,845800,26500
-"06","CA","California","Alpine County","County","06003","August",2019,450,480,30
-"06","CA","California","Amador County","County","06005","August",2019,14620,15170,560
-"06","CA","California","Butte County","County","06007","August",2019,92700,97600,4900
-"06","CA","California","Calaveras County","County","06009","August",2019,21150,21950,800
-"06","CA","California","Colusa County","County","06011","August",2019,10630,11550,920
-"06","CA","California","Contra Costa County","County","06013","August",2019,544400,562600,18200
-"06","CA","California","Del Norte County","County","06015","August",2019,9250,9800,560
-"06","CA","California","El Dorado County","County","06017","August",2019,88800,92100,3300
-"06","CA","California","Fresno County","County","06019","August",2019,422700,452200,29500
-"06","CA","California","Glenn County","County","06021","August",2019,12130,12900,770
-"06","CA","California","Humboldt County","County","06023","August",2019,59400,61700,2300
-"06","CA","California","Imperial County","County","06025","August",2019,56400,72300,15900
-"06","CA","California","Inyo County","County","06027","August",2019,8620,8910,290
-"06","CA","California","Kern County","County","06029","August",2019,368200,397000,28800
-"06","CA","California","Kings County","County","06031","August",2019,53600,57600,4000
-"06","CA","California","Lake County","County","06033","August",2019,28110,29440,1330
-"06","CA","California","Lassen County","County","06035","August",2019,9290,9700,410
-"06","CA","California","Los Angeles County","County","06037","August",2019,4868200,5112500,244300
-"06","CA","California","Madera County","County","06039","August",2019,57900,61800,3900
-"06","CA","California","Marin County","County","06041","August",2019,137500,140900,3400
-"06","CA","California","Mariposa County","County","06043","August",2019,7780,8070,290
-"06","CA","California","Mendocino County","County","06045","August",2019,37630,39070,1440
-"06","CA","California","Merced County","County","06047","August",2019,107200,115500,8300
-"06","CA","California","Modoc County","County","06049","August",2019,3100,3280,180
-"06","CA","California","Mono County","County","06051","August",2019,8300,8610,310
-"06","CA","California","Monterey County","County","06053","August",2019,219500,229100,9600
-"06","CA","California","Napa County","County","06055","August",2019,73400,75400,2000
-"06","CA","California","Nevada County","County","06057","August",2019,47160,48770,1610
-"06","CA","California","Orange County","County","06059","August",2019,1569500,1617600,48100
-"06","CA","California","Placer County","County","06061","August",2019,182100,188200,6000
-"06","CA","California","Plumas County","County","06063","August",2019,8000,8470,460
-"06","CA","California","Riverside County","County","06065","August",2019,1050100,1101100,51100
-"06","CA","California","Sacramento County","County","06067","August",2019,686700,714000,27300
-"06","CA","California","San Benito County","County","06069","August",2019,30100,31500,1400
-"06","CA","California","San Bernardino County","County","06071","August",2019,925000,964400,39400
-"06","CA","California","San Diego County","County","06073","August",2019,1537300,1591000,53700
-"06","CA","California","San Francisco County","County","06075","August",2019,573200,586700,13500
-"06","CA","California","San Joaquin County","County","06077","August",2019,310600,329200,18600
-"06","CA","California","San Luis Obispo County","County","06079","August",2019,135300,139500,4200
-"06","CA","California","San Mateo County","County","06081","August",2019,452900,462800,10000
-"06","CA","California","Santa Barbara County","County","06083","August",2019,211600,219000,7400
-"06","CA","California","Santa Clara County","County","06085","August",2019,1030300,1058200,27900
-"06","CA","California","Santa Cruz County","County","06087","August",2019,138300,143900,5600
-"06","CA","California","Shasta County","County","06089","August",2019,71500,74700,3200
-"06","CA","California","Sierra County","County","06091","August",2019,1280,1340,60
-"06","CA","California","Siskiyou County","County","06093","August",2019,16650,17580,940
-"06","CA","California","Solano County","County","06095","August",2019,201200,209100,7900
-"06","CA","California","Sonoma County","County","06097","August",2019,254600,261700,7100
-"06","CA","California","Stanislaus County","County","06099","August",2019,229800,243900,14100
-"06","CA","California","Sutter County","County","06101","August",2019,44200,46900,2700
-"06","CA","California","Tehama County","County","06103","August",2019,24220,25610,1390
-"06","CA","California","Trinity County","County","06105","August",2019,4700,4920,220
-"06","CA","California","Tulare County","County","06107","August",2019,186500,205300,18800
-"06","CA","California","Tuolumne County","County","06109","August",2019,20520,21420,900
-"06","CA","California","Ventura County","County","06111","August",2019,403500,419700,16200
-"06","CA","California","Yolo County","County","06113","August",2019,105000,109200,4100
-"06","CA","California","Yuba County","County","06115","August",2019,28500,30200,1700
-"06","CA","California","Alameda County","County","06001","February",2019,820500,846700,26300
-"06","CA","California","Alpine County","County","06003","February",2019,660,690,30
-"06","CA","California","Amador County","County","06005","February",2019,13990,14680,690
-"06","CA","California","Butte County","County","06007","February",2019,94400,100600,6300
-"06","CA","California","Calaveras County","County","06009","February",2019,20040,21020,980
-"06","CA","California","Colusa County","County","06011","February",2019,8810,11060,2250
-"06","CA","California","Contra Costa County","County","06013","February",2019,545000,563800,18800
-"06","CA","California","Del Norte County","County","06015","February",2019,9020,9640,630
-"06","CA","California","El Dorado County","County","06017","February",2019,88700,92500,3800
-"06","CA","California","Fresno County","County","06019","February",2019,411200,451300,40100
-"06","CA","California","Glenn County","County","06021","February",2019,12120,13140,1020
-"06","CA","California","Humboldt County","County","06023","February",2019,60200,62900,2700
-"06","CA","California","Imperial County","County","06025","February",2019,59100,71200,12100
-"06","CA","California","Inyo County","County","06027","February",2019,8320,8710,390
-"06","CA","California","Kern County","County","06029","February",2019,355200,391000,35800
-"06","CA","California","Kings County","County","06031","February",2019,53000,58800,5800
-"06","CA","California","Lake County","County","06033","February",2019,27670,29450,1780
-"06","CA","California","Lassen County","County","06035","February",2019,9380,9980,600
-"06","CA","California","Los Angeles County","County","06037","February",2019,4895400,5129300,233900
-"06","CA","California","Madera County","County","06039","February",2019,58300,63500,5200
-"06","CA","California","Marin County","County","06041","February",2019,136000,139400,3400
-"06","CA","California","Mariposa County","County","06043","February",2019,6860,7360,500
-"06","CA","California","Mendocino County","County","06045","February",2019,36990,38980,1990
-"06","CA","California","Merced County","County","06047","February",2019,105300,117500,12200
-"06","CA","California","Modoc County","County","06049","February",2019,2760,3090,330
-"06","CA","California","Mono County","County","06051","February",2019,8650,9000,340
-"06","CA","California","Monterey County","County","06053","February",2019,192300,214500,22200
-"06","CA","California","Napa County","County","06055","February",2019,70600,73000,2500
-"06","CA","California","Nevada County","County","06057","February",2019,47320,49220,1900
-"06","CA","California","Orange County","County","06059","February",2019,1582000,1630300,48200
-"06","CA","California","Placer County","County","06061","February",2019,181900,188300,6500
-"06","CA","California","Plumas County","County","06063","February",2019,6640,7570,930
-"06","CA","California","Riverside County","County","06065","February",2019,1057600,1105900,48300
-"06","CA","California","Sacramento County","County","06067","February",2019,685100,713700,28600
-"06","CA","California","San Benito County","County","06069","February",2019,29600,31600,2100
-"06","CA","California","San Bernardino County","County","06071","February",2019,930400,969700,39200
-"06","CA","California","San Diego County","County","06073","February",2019,1539900,1594500,54600
-"06","CA","California","San Francisco County","County","06075","February",2019,566700,580500,13800
-"06","CA","California","San Joaquin County","County","06077","February",2019,305700,328200,22500
-"06","CA","California","San Luis Obispo County","County","06079","February",2019,136200,140700,4500
-"06","CA","California","San Mateo County","County","06081","February",2019,447800,457900,10100
-"06","CA","California","Santa Barbara County","County","06083","February",2019,204700,215000,10400
-"06","CA","California","Santa Clara County","County","06085","February",2019,1026400,1054300,27900
-"06","CA","California","Santa Cruz County","County","06087","February",2019,131600,141000,9400
-"06","CA","California","Shasta County","County","06089","February",2019,69300,73800,4500
-"06","CA","California","Sierra County","County","06091","February",2019,1180,1270,100
-"06","CA","California","Siskiyou County","County","06093","February",2019,15380,16990,1620
-"06","CA","California","Solano County","County","06095","February",2019,201000,210000,9000
-"06","CA","California","Sonoma County","County","06097","February",2019,250400,258200,7800
-"06","CA","California","Stanislaus County","County","06099","February",2019,225500,242600,17100
-"06","CA","California","Sutter County","County","06101","February",2019,40600,45000,4400
-"06","CA","California","Tehama County","County","06103","February",2019,23880,25600,1720
-"06","CA","California","Trinity County","County","06105","February",2019,4190,4540,350
-"06","CA","California","Tulare County","County","06107","February",2019,181100,204500,23400
-"06","CA","California","Tuolumne County","County","06109","February",2019,20080,21260,1180
-"06","CA","California","Ventura County","County","06111","February",2019,409300,426000,16700
-"06","CA","California","Yolo County","County","06113","February",2019,103400,109000,5600
-"06","CA","California","Yuba County","County","06115","February",2019,27400,29600,2200
-"06","CA","California","Alameda County","County","06001","January",2019,814000,842900,28900
-"06","CA","California","Alpine County","County","06003","January",2019,690,720,30
-"06","CA","California","Amador County","County","06005","January",2019,13870,14590,720
-"06","CA","California","Butte County","County","06007","January",2019,93200,1e+05,6900
-"06","CA","California","Calaveras County","County","06009","January",2019,19910,20930,1020
-"06","CA","California","Colusa County","County","06011","January",2019,8570,10680,2110
-"06","CA","California","Contra Costa County","County","06013","January",2019,540900,561500,20600
-"06","CA","California","Del Norte County","County","06015","January",2019,8970,9680,710
-"06","CA","California","El Dorado County","County","06017","January",2019,88300,92300,4000
-"06","CA","California","Fresno County","County","06019","January",2019,409500,449800,40300
-"06","CA","California","Glenn County","County","06021","January",2019,11920,12960,1050
-"06","CA","California","Humboldt County","County","06023","January",2019,59500,62400,2900
-"06","CA","California","Imperial County","County","06025","January",2019,58900,72000,13200
-"06","CA","California","Inyo County","County","06027","January",2019,8260,8690,420
-"06","CA","California","Kern County","County","06029","January",2019,356900,392200,35300
-"06","CA","California","Kings County","County","06031","January",2019,52500,58100,5700
-"06","CA","California","Lake County","County","06033","January",2019,27280,29190,1920
-"06","CA","California","Lassen County","County","06035","January",2019,9370,9960,600
-"06","CA","California","Los Angeles County","County","06037","January",2019,4837100,5094200,257000
-"06","CA","California","Madera County","County","06039","January",2019,57700,63100,5400
-"06","CA","California","Marin County","County","06041","January",2019,135400,139200,3800
-"06","CA","California","Mariposa County","County","06043","January",2019,6660,7170,510
-"06","CA","California","Mendocino County","County","06045","January",2019,36810,38860,2050
-"06","CA","California","Merced County","County","06047","January",2019,104500,116200,11700
-"06","CA","California","Modoc County","County","06049","January",2019,2720,3070,350
-"06","CA","California","Mono County","County","06051","January",2019,8780,9140,360
-"06","CA","California","Monterey County","County","06053","January",2019,189400,210700,21300
-"06","CA","California","Napa County","County","06055","January",2019,68600,71400,2900
-"06","CA","California","Nevada County","County","06057","January",2019,47370,49380,2010
-"06","CA","California","Orange County","County","06059","January",2019,1569600,1622800,53200
-"06","CA","California","Placer County","County","06061","January",2019,181000,188000,7000
-"06","CA","California","Plumas County","County","06063","January",2019,6670,7540,870
-"06","CA","California","Riverside County","County","06065","January",2019,1055200,1107800,52600
-"06","CA","California","Sacramento County","County","06067","January",2019,681500,712600,31100
-"06","CA","California","San Benito County","County","06069","January",2019,29400,31400,2000
-"06","CA","California","San Bernardino County","County","06071","January",2019,927700,970500,42900
-"06","CA","California","San Diego County","County","06073","January",2019,1531400,1592100,60700
-"06","CA","California","San Francisco County","County","06075","January",2019,560900,576000,15100
-"06","CA","California","San Joaquin County","County","06077","January",2019,303400,326800,23400
-"06","CA","California","San Luis Obispo County","County","06079","January",2019,135400,140300,4900
-"06","CA","California","San Mateo County","County","06081","January",2019,443400,454600,11200
-"06","CA","California","Santa Barbara County","County","06083","January",2019,201800,213000,11200
-"06","CA","California","Santa Clara County","County","06085","January",2019,1018500,1049000,30500
-"06","CA","California","Santa Cruz County","County","06087","January",2019,129500,138600,9100
-"06","CA","California","Shasta County","County","06089","January",2019,70100,74700,4600
-"06","CA","California","Sierra County","County","06091","January",2019,1160,1260,90
-"06","CA","California","Siskiyou County","County","06093","January",2019,15470,17030,1570
-"06","CA","California","Solano County","County","06095","January",2019,199800,209600,9800
-"06","CA","California","Sonoma County","County","06097","January",2019,248700,257400,8600
-"06","CA","California","Stanislaus County","County","06099","January",2019,224300,242200,17800
-"06","CA","California","Sutter County","County","06101","January",2019,40200,44600,4400
-"06","CA","California","Tehama County","County","06103","January",2019,23770,25590,1810
-"06","CA","California","Trinity County","County","06105","January",2019,4230,4570,340
-"06","CA","California","Tulare County","County","06107","January",2019,181000,204300,23300
-"06","CA","California","Tuolumne County","County","06109","January",2019,19910,21110,1200
-"06","CA","California","Ventura County","County","06111","January",2019,404900,423400,18600
-"06","CA","California","Yolo County","County","06113","January",2019,102800,108600,5900
-"06","CA","California","Yuba County","County","06115","January",2019,27300,29600,2300
-"06","CA","California","Alameda County","County","06001","July",2019,821200,849100,28000
-"06","CA","California","Alpine County","County","06003","July",2019,450,480,40
-"06","CA","California","Amador County","County","06005","July",2019,14430,15030,600
-"06","CA","California","Butte County","County","06007","July",2019,92400,97800,5500
-"06","CA","California","Calaveras County","County","06009","July",2019,21000,21840,840
-"06","CA","California","Colusa County","County","06011","July",2019,9890,11010,1120
-"06","CA","California","Contra Costa County","County","06013","July",2019,545600,564900,19300
-"06","CA","California","Del Norte County","County","06015","July",2019,9090,9660,570
-"06","CA","California","El Dorado County","County","06017","July",2019,88800,92300,3400
-"06","CA","California","Fresno County","County","06019","July",2019,419000,451700,32700
-"06","CA","California","Glenn County","County","06021","July",2019,12040,12870,830
-"06","CA","California","Humboldt County","County","06023","July",2019,58900,61400,2500
-"06","CA","California","Imperial County","County","06025","July",2019,56100,70200,14200
-"06","CA","California","Inyo County","County","06027","July",2019,8630,8950,320
-"06","CA","California","Kern County","County","06029","July",2019,351600,384100,32500
-"06","CA","California","Kings County","County","06031","July",2019,53400,57900,4500
-"06","CA","California","Lake County","County","06033","July",2019,27380,28850,1470
-"06","CA","California","Lassen County","County","06035","July",2019,9230,9690,460
-"06","CA","California","Los Angeles County","County","06037","July",2019,4874200,5130200,256000
-"06","CA","California","Madera County","County","06039","July",2019,56600,61000,4400
-"06","CA","California","Marin County","County","06041","July",2019,137800,141400,3600
-"06","CA","California","Mariposa County","County","06043","July",2019,7810,8130,320
-"06","CA","California","Mendocino County","County","06045","July",2019,37570,39120,1550
-"06","CA","California","Merced County","County","06047","July",2019,103400,112800,9400
-"06","CA","California","Modoc County","County","06049","July",2019,3080,3280,200
-"06","CA","California","Mono County","County","06051","July",2019,8350,8680,330
-"06","CA","California","Monterey County","County","06053","July",2019,220500,231400,10900
-"06","CA","California","Napa County","County","06055","July",2019,73700,75900,2200
-"06","CA","California","Nevada County","County","06057","July",2019,46740,48450,1720
-"06","CA","California","Orange County","County","06059","July",2019,1575800,1626500,50700
-"06","CA","California","Placer County","County","06061","July",2019,182100,188500,6400
-"06","CA","California","Plumas County","County","06063","July",2019,7990,8510,520
-"06","CA","California","Riverside County","County","06065","July",2019,1053700,1105800,52100
-"06","CA","California","Sacramento County","County","06067","July",2019,686500,715500,29100
-"06","CA","California","San Benito County","County","06069","July",2019,30200,31700,1600
-"06","CA","California","San Bernardino County","County","06071","July",2019,925900,968600,42700
-"06","CA","California","San Diego County","County","06073","July",2019,1539100,1595800,56800
-"06","CA","California","San Francisco County","County","06075","July",2019,573600,587800,14200
-"06","CA","California","San Joaquin County","County","06077","July",2019,307600,327800,20200
-"06","CA","California","San Luis Obispo County","County","06079","July",2019,135800,140300,4500
-"06","CA","California","San Mateo County","County","06081","July",2019,453100,463700,10600
-"06","CA","California","Santa Barbara County","County","06083","July",2019,212300,220300,8000
-"06","CA","California","Santa Clara County","County","06085","July",2019,1031800,1061100,29300
-"06","CA","California","Santa Cruz County","County","06087","July",2019,138100,144400,6200
-"06","CA","California","Shasta County","County","06089","July",2019,70300,73800,3500
-"06","CA","California","Sierra County","County","06091","July",2019,1320,1390,70
-"06","CA","California","Siskiyou County","County","06093","July",2019,16860,17890,1030
-"06","CA","California","Solano County","County","06095","July",2019,201300,209800,8600
-"06","CA","California","Sonoma County","County","06097","July",2019,253200,260900,7700
-"06","CA","California","Stanislaus County","County","06099","July",2019,228600,244400,15800
-"06","CA","California","Sutter County","County","06101","July",2019,43300,46500,3200
-"06","CA","California","Tehama County","County","06103","July",2019,24000,25530,1520
-"06","CA","California","Trinity County","County","06105","July",2019,4640,4880,240
-"06","CA","California","Tulare County","County","06107","July",2019,181900,202000,20100
-"06","CA","California","Tuolumne County","County","06109","July",2019,20570,21550,980
-"06","CA","California","Ventura County","County","06111","July",2019,406600,422900,16400
-"06","CA","California","Yolo County","County","06113","July",2019,105000,109600,4600
-"06","CA","California","Yuba County","County","06115","July",2019,27900,29800,1800
-"06","CA","California","Alameda County","County","06001","June",2019,814700,840800,26000
-"06","CA","California","Alpine County","County","06003","June",2019,450,480,30
-"06","CA","California","Amador County","County","06005","June",2019,14420,14980,560
-"06","CA","California","Butte County","County","06007","June",2019,92300,97500,5200
-"06","CA","California","Calaveras County","County","06009","June",2019,20600,21400,810
-"06","CA","California","Colusa County","County","06011","June",2019,9840,11020,1180
-"06","CA","California","Contra Costa County","County","06013","June",2019,541000,559000,18000
-"06","CA","California","Del Norte County","County","06015","June",2019,9210,9730,520
-"06","CA","California","El Dorado County","County","06017","June",2019,88200,91500,3300
-"06","CA","California","Fresno County","County","06019","June",2019,420000,451800,31700
-"06","CA","California","Glenn County","County","06021","June",2019,12040,12840,800
-"06","CA","California","Humboldt County","County","06023","June",2019,60100,62300,2300
-"06","CA","California","Imperial County","County","06025","June",2019,58800,71800,13100
-"06","CA","California","Inyo County","County","06027","June",2019,8500,8810,310
-"06","CA","California","Kern County","County","06029","June",2019,359900,391000,31100
-"06","CA","California","Kings County","County","06031","June",2019,52700,57200,4500
-"06","CA","California","Lake County","County","06033","June",2019,27990,29420,1420
-"06","CA","California","Lassen County","County","06035","June",2019,9190,9630,450
-"06","CA","California","Los Angeles County","County","06037","June",2019,4851400,5079100,227700
-"06","CA","California","Madera County","County","06039","June",2019,58000,62300,4300
-"06","CA","California","Marin County","County","06041","June",2019,135900,139200,3400
-"06","CA","California","Mariposa County","County","06043","June",2019,7520,7830,320
-"06","CA","California","Mendocino County","County","06045","June",2019,37600,39060,1470
-"06","CA","California","Merced County","County","06047","June",2019,105900,115200,9300
-"06","CA","California","Modoc County","County","06049","June",2019,3170,3360,190
-"06","CA","California","Mono County","County","06051","June",2019,7910,8240,330
-"06","CA","California","Monterey County","County","06053","June",2019,220700,231700,11000
-"06","CA","California","Napa County","County","06055","June",2019,73000,75100,2100
-"06","CA","California","Nevada County","County","06057","June",2019,46670,48290,1620
-"06","CA","California","Orange County","County","06059","June",2019,1566400,1613700,47300
-"06","CA","California","Placer County","County","06061","June",2019,181000,187000,6000
-"06","CA","California","Plumas County","County","06063","June",2019,7800,8310,510
-"06","CA","California","Riverside County","County","06065","June",2019,1048200,1096000,47800
-"06","CA","California","Sacramento County","County","06067","June",2019,682600,709900,27200
-"06","CA","California","San Benito County","County","06069","June",2019,29800,31300,1500
-"06","CA","California","San Bernardino County","County","06071","June",2019,920500,959900,39400
-"06","CA","California","San Diego County","County","06073","June",2019,1529800,1582700,52900
-"06","CA","California","San Francisco County","County","06075","June",2019,565400,578900,13500
-"06","CA","California","San Joaquin County","County","06077","June",2019,308200,327200,19000
-"06","CA","California","San Luis Obispo County","County","06079","June",2019,137900,142100,4200
-"06","CA","California","San Mateo County","County","06081","June",2019,446500,456400,9900
-"06","CA","California","Santa Barbara County","County","06083","June",2019,213500,221000,7500
-"06","CA","California","Santa Clara County","County","06085","June",2019,1022100,1049800,27600
-"06","CA","California","Santa Cruz County","County","06087","June",2019,138800,144900,6100
-"06","CA","California","Shasta County","County","06089","June",2019,71000,74400,3400
-"06","CA","California","Sierra County","County","06091","June",2019,1290,1360,70
-"06","CA","California","Siskiyou County","County","06093","June",2019,16500,17510,1000
-"06","CA","California","Solano County","County","06095","June",2019,201000,209100,8100
-"06","CA","California","Sonoma County","County","06097","June",2019,249800,257000,7200
-"06","CA","California","Stanislaus County","County","06099","June",2019,227400,242800,15400
-"06","CA","California","Sutter County","County","06101","June",2019,42900,46200,3200
-"06","CA","California","Tehama County","County","06103","June",2019,24240,25680,1440
-"06","CA","California","Trinity County","County","06105","June",2019,4730,4970,240
-"06","CA","California","Tulare County","County","06107","June",2019,187000,205900,18800
-"06","CA","California","Tuolumne County","County","06109","June",2019,20390,21320,940
-"06","CA","California","Ventura County","County","06111","June",2019,406200,421400,15200
-"06","CA","California","Yolo County","County","06113","June",2019,104200,108500,4300
-"06","CA","California","Yuba County","County","06115","June",2019,28000,29700,1800
-"06","CA","California","Alameda County","County","06001","March",2019,819500,846100,26600
-"06","CA","California","Alpine County","County","06003","March",2019,640,670,30
-"06","CA","California","Amador County","County","06005","March",2019,14060,14740,680
-"06","CA","California","Butte County","County","06007","March",2019,94300,100400,6200
-"06","CA","California","Calaveras County","County","06009","March",2019,20120,21090,970
-"06","CA","California","Colusa County","County","06011","March",2019,8800,11010,2210
-"06","CA","California","Contra Costa County","County","06013","March",2019,544400,563300,18900
-"06","CA","California","Del Norte County","County","06015","March",2019,9060,9650,600
-"06","CA","California","El Dorado County","County","06017","March",2019,88600,92400,3800
-"06","CA","California","Fresno County","County","06019","March",2019,410200,450500,40300
-"06","CA","California","Glenn County","County","06021","March",2019,12050,13050,1000
-"06","CA","California","Humboldt County","County","06023","March",2019,60400,63000,2600
-"06","CA","California","Imperial County","County","06025","March",2019,59300,71000,11700
-"06","CA","California","Inyo County","County","06027","March",2019,8310,8700,390
-"06","CA","California","Kern County","County","06029","March",2019,346600,383200,36700
-"06","CA","California","Kings County","County","06031","March",2019,52500,58200,5700
-"06","CA","California","Lake County","County","06033","March",2019,27510,29240,1730
-"06","CA","California","Lassen County","County","06035","March",2019,9230,9830,600
-"06","CA","California","Los Angeles County","County","06037","March",2019,4886800,5116400,229600
-"06","CA","California","Madera County","County","06039","March",2019,56600,61900,5300
-"06","CA","California","Marin County","County","06041","March",2019,136000,139600,3500
-"06","CA","California","Mariposa County","County","06043","March",2019,6930,7400,470
-"06","CA","California","Mendocino County","County","06045","March",2019,37210,39150,1940
-"06","CA","California","Merced County","County","06047","March",2019,105600,117700,12100
-"06","CA","California","Modoc County","County","06049","March",2019,2750,3070,320
-"06","CA","California","Mono County","County","06051","March",2019,8590,8930,340
-"06","CA","California","Monterey County","County","06053","March",2019,194300,215500,21200
-"06","CA","California","Napa County","County","06055","March",2019,70900,73300,2400
-"06","CA","California","Nevada County","County","06057","March",2019,47230,49120,1890
-"06","CA","California","Orange County","County","06059","March",2019,1576400,1625500,49100
-"06","CA","California","Placer County","County","06061","March",2019,181700,188200,6600
-"06","CA","California","Plumas County","County","06063","March",2019,6620,7540,920
-"06","CA","California","Riverside County","County","06065","March",2019,1056700,1105000,48300
-"06","CA","California","Sacramento County","County","06067","March",2019,684400,713200,28800
-"06","CA","California","San Benito County","County","06069","March",2019,29600,31600,2000
-"06","CA","California","San Bernardino County","County","06071","March",2019,929200,968600,39400
-"06","CA","California","San Diego County","County","06073","March",2019,1535200,1590200,55000
-"06","CA","California","San Francisco County","County","06075","March",2019,566200,580300,14100
-"06","CA","California","San Joaquin County","County","06077","March",2019,304700,327100,22300
-"06","CA","California","San Luis Obispo County","County","06079","March",2019,137100,141500,4400
-"06","CA","California","San Mateo County","County","06081","March",2019,447400,457700,10300
-"06","CA","California","Santa Barbara County","County","06083","March",2019,206400,216500,10100
-"06","CA","California","Santa Clara County","County","06085","March",2019,1025100,1053600,28500
-"06","CA","California","Santa Cruz County","County","06087","March",2019,131900,141300,9300
-"06","CA","California","Shasta County","County","06089","March",2019,70200,74400,4300
-"06","CA","California","Sierra County","County","06091","March",2019,1190,1290,100
-"06","CA","California","Siskiyou County","County","06093","March",2019,15360,16930,1570
-"06","CA","California","Solano County","County","06095","March",2019,200500,209500,8900
-"06","CA","California","Sonoma County","County","06097","March",2019,250300,258200,7900
-"06","CA","California","Stanislaus County","County","06099","March",2019,226700,243900,17100
-"06","CA","California","Sutter County","County","06101","March",2019,40800,45300,4500
-"06","CA","California","Tehama County","County","06103","March",2019,23740,25460,1720
-"06","CA","California","Trinity County","County","06105","March",2019,4190,4540,360
-"06","CA","California","Tulare County","County","06107","March",2019,178800,202600,23800
-"06","CA","California","Tuolumne County","County","06109","March",2019,20120,21310,1190
-"06","CA","California","Ventura County","County","06111","March",2019,409100,425400,16200
-"06","CA","California","Yolo County","County","06113","March",2019,103400,108900,5500
-"06","CA","California","Yuba County","County","06115","March",2019,27600,29800,2200
-"06","CA","California","Alameda County","County","06001","May",2019,815600,837300,21700
-"06","CA","California","Alpine County","County","06003","May",2019,440,470,30
-"06","CA","California","Amador County","County","06005","May",2019,14400,14890,490
-"06","CA","California","Butte County","County","06007","May",2019,94700,99100,4400
-"06","CA","California","Calaveras County","County","06009","May",2019,20450,21150,700
-"06","CA","California","Colusa County","County","06011","May",2019,10070,11240,1160
-"06","CA","California","Contra Costa County","County","06013","May",2019,541600,556600,15000
-"06","CA","California","Del Norte County","County","06015","May",2019,9110,9590,480
-"06","CA","California","El Dorado County","County","06017","May",2019,88200,91100,2800
-"06","CA","California","Fresno County","County","06019","May",2019,422800,452000,29300
-"06","CA","California","Glenn County","County","06021","May",2019,12110,12840,730
-"06","CA","California","Humboldt County","County","06023","May",2019,60600,62500,1900
-"06","CA","California","Imperial County","County","06025","May",2019,58800,70500,11600
-"06","CA","California","Inyo County","County","06027","May",2019,8410,8670,260
-"06","CA","California","Kern County","County","06029","May",2019,358200,386500,28200
-"06","CA","California","Kings County","County","06031","May",2019,54000,58000,4000
-"06","CA","California","Lake County","County","06033","May",2019,27980,29220,1240
-"06","CA","California","Lassen County","County","06035","May",2019,9250,9650,400
-"06","CA","California","Los Angeles County","County","06037","May",2019,4866700,5074600,207900
-"06","CA","California","Madera County","County","06039","May",2019,58400,62300,3900
-"06","CA","California","Marin County","County","06041","May",2019,135600,138300,2700
-"06","CA","California","Mariposa County","County","06043","May",2019,7430,7710,290
-"06","CA","California","Mendocino County","County","06045","May",2019,37600,38880,1280
-"06","CA","California","Merced County","County","06047","May",2019,108800,117200,8500
-"06","CA","California","Modoc County","County","06049","May",2019,3040,3220,180
-"06","CA","California","Mono County","County","06051","May",2019,7690,7970,280
-"06","CA","California","Monterey County","County","06053","May",2019,218300,229300,11100
-"06","CA","California","Napa County","County","06055","May",2019,72500,74300,1700
-"06","CA","California","Nevada County","County","06057","May",2019,46370,47800,1430
-"06","CA","California","Orange County","County","06059","May",2019,1572300,1611400,39100
-"06","CA","California","Placer County","County","06061","May",2019,181000,186200,5100
-"06","CA","California","Plumas County","County","06063","May",2019,7510,8020,510
-"06","CA","California","Riverside County","County","06065","May",2019,1050100,1089500,39500
-"06","CA","California","Sacramento County","County","06067","May",2019,682600,705600,23000
-"06","CA","California","San Benito County","County","06069","May",2019,29700,31100,1400
-"06","CA","California","San Bernardino County","County","06071","May",2019,923300,955700,32500
-"06","CA","California","San Diego County","County","06073","May",2019,1532000,1576200,44200
-"06","CA","California","San Francisco County","County","06075","May",2019,564400,575500,11200
-"06","CA","California","San Joaquin County","County","06077","May",2019,310800,327700,16900
-"06","CA","California","San Luis Obispo County","County","06079","May",2019,138400,141800,3500
-"06","CA","California","San Mateo County","County","06081","May",2019,445800,453900,8100
-"06","CA","California","Santa Barbara County","County","06083","May",2019,212700,219200,6400
-"06","CA","California","Santa Clara County","County","06085","May",2019,1020700,1043400,22700
-"06","CA","California","Santa Cruz County","County","06087","May",2019,136400,142100,5800
-"06","CA","California","Shasta County","County","06089","May",2019,70900,73900,3000
-"06","CA","California","Sierra County","County","06091","May",2019,1270,1340,60
-"06","CA","California","Siskiyou County","County","06093","May",2019,16080,17010,930
-"06","CA","California","Solano County","County","06095","May",2019,201300,208200,6900
-"06","CA","California","Sonoma County","County","06097","May",2019,250500,256500,6000
-"06","CA","California","Stanislaus County","County","06099","May",2019,229100,242700,13600
-"06","CA","California","Sutter County","County","06101","May",2019,42300,45300,3100
-"06","CA","California","Tehama County","County","06103","May",2019,24080,25360,1280
-"06","CA","California","Trinity County","County","06105","May",2019,4560,4780,220
-"06","CA","California","Tulare County","County","06107","May",2019,188500,205800,17300
-"06","CA","California","Tuolumne County","County","06109","May",2019,20250,21080,830
-"06","CA","California","Ventura County","County","06111","May",2019,409500,422200,12700
-"06","CA","California","Yolo County","County","06113","May",2019,104000,107700,3700
-"06","CA","California","Yuba County","County","06115","May",2019,27800,29400,1600
-"06","CA","California","Alameda County","County","06001","May",2020,693700,801700,108000
-"06","CA","California","Alpine County","County","06003","May",2020,380,480,110
-"06","CA","California","Amador County","County","06005","May",2020,11910,14030,2120
-"06","CA","California","Butte County","County","06007","May",2020,78200,90400,12200
-"06","CA","California","Calaveras County","County","06009","May",2020,17580,19970,2390
-"06","CA","California","Colusa County","County","06011","May",2020,8060,10220,2160
-"06","CA","California","Contra Costa County","County","06013","May",2020,460400,532900,72500
-"06","CA","California","Del Norte County","County","06015","May",2020,7980,9170,1190
-"06","CA","California","El Dorado County","County","06017","May",2020,77000,90600,13600
-"06","CA","California","Fresno County","County","06019","May",2020,375300,445000,69700
-"06","CA","California","Glenn County","County","06021","May",2020,9550,11060,1510
-"06","CA","California","Humboldt County","County","06023","May",2020,53600,60700,7200
-"06","CA","California","Imperial County","County","06025","May",2020,51700,71700,19900
-"06","CA","California","Inyo County","County","06027","May",2020,6950,7910,970
-"06","CA","California","Kern County","County","06029","May",2020,301100,368400,67300
-"06","CA","California","Kings County","County","06031","May",2020,47200,56200,9000
-"06","CA","California","Lake County","County","06033","May",2020,21510,25420,3910
-"06","CA","California","Lassen County","County","06035","May",2020,7980,8870,890
-"06","CA","California","Los Angeles County","County","06037","May",2020,3737600,4707700,970100
-"06","CA","California","Madera County","County","06039","May",2020,52800,62200,9500
-"06","CA","California","Marin County","County","06041","May",2020,113900,127000,13100
-"06","CA","California","Mariposa County","County","06043","May",2020,6380,7740,1360
-"06","CA","California","Mendocino County","County","06045","May",2020,31530,36330,4810
-"06","CA","California","Merced County","County","06047","May",2020,95000,113800,18800
-"06","CA","California","Modoc County","County","06049","May",2020,2680,3020,330
-"06","CA","California","Mono County","County","06051","May",2020,4480,6300,1820
-"06","CA","California","Monterey County","County","06053","May",2020,164700,198100,33300
-"06","CA","California","Napa County","County","06055","May",2020,61800,72100,10400
-"06","CA","California","Nevada County","County","06057","May",2020,33940,39560,5620
-"06","CA","California","Orange County","County","06059","May",2020,1324500,1548900,224500
-"06","CA","California","Placer County","County","06061","May",2020,158200,180600,22400
-"06","CA","California","Plumas County","County","06063","May",2020,5320,6400,1080
-"06","CA","California","Riverside County","County","06065","May",2020,917200,1089100,171900
-"06","CA","California","Sacramento County","County","06067","May",2020,596900,695100,98300
-"06","CA","California","San Benito County","County","06069","May",2020,26200,31000,4800
-"06","CA","California","San Bernardino County","County","06071","May",2020,807100,937200,130100
-"06","CA","California","San Diego County","County","06073","May",2020,1319500,1552400,232900
-"06","CA","California","San Francisco County","County","06075","May",2020,481500,550900,69400
-"06","CA","California","San Joaquin County","County","06077","May",2020,267500,320800,53300
-"06","CA","California","San Luis Obispo County","County","06079","May",2020,112700,129100,16400
-"06","CA","California","San Mateo County","County","06081","May",2020,380200,427400,47200
-"06","CA","California","Santa Barbara County","County","06083","May",2020,181600,208600,26900
-"06","CA","California","Santa Clara County","County","06085","May",2020,898600,1010000,111500
-"06","CA","California","Santa Cruz County","County","06087","May",2020,111600,130300,18800
-"06","CA","California","Shasta County","County","06089","May",2020,61100,70300,9200
-"06","CA","California","Sierra County","County","06091","May",2020,1000,1140,140
-"06","CA","California","Siskiyou County","County","06093","May",2020,13680,15810,2130
-"06","CA","California","Solano County","County","06095","May",2020,171300,199800,28400
-"06","CA","California","Sonoma County","County","06097","May",2020,215200,246700,31400
-"06","CA","California","Stanislaus County","County","06099","May",2020,195700,233300,37500
-"06","CA","California","Sutter County","County","06101","May",2020,36800,43800,7000
-"06","CA","California","Tehama County","County","06103","May",2020,21290,24370,3080
-"06","CA","California","Trinity County","County","06105","May",2020,3820,4280,460
-"06","CA","California","Tulare County","County","06107","May",2020,156600,191900,35300
-"06","CA","California","Tuolumne County","County","06109","May",2020,17360,20790,3430
-"06","CA","California","Ventura County","County","06111","May",2020,351800,406800,55000
-"06","CA","California","Yolo County","County","06113","May",2020,90800,101500,10700
-"06","CA","California","Yuba County","County","06115","May",2020,24700,29000,4400
-"06","CA","California","Alameda County","County","06001","November",2019,824200,847000,22800
-"06","CA","California","Alpine County","County","06003","November",2019,480,500,30
-"06","CA","California","Amador County","County","06005","November",2019,14420,14940,510
-"06","CA","California","Butte County","County","06007","November",2019,95100,99300,4200
-"06","CA","California","Calaveras County","County","06009","November",2019,20880,21600,720
-"06","CA","California","Colusa County","County","06011","November",2019,9460,10590,1130
-"06","CA","California","Contra Costa County","County","06013","November",2019,547600,563400,15800
-"06","CA","California","Del Norte County","County","06015","November",2019,9080,9610,530
-"06","CA","California","El Dorado County","County","06017","November",2019,89500,92400,2900
-"06","CA","California","Fresno County","County","06019","November",2019,418500,448400,29900
-"06","CA","California","Glenn County","County","06021","November",2019,12330,12950,620
-"06","CA","California","Humboldt County","County","06023","November",2019,61100,63100,2000
-"06","CA","California","Imperial County","County","06025","November",2019,58900,72400,13500
-"06","CA","California","Inyo County","County","06027","November",2019,8500,8770,270
-"06","CA","California","Kern County","County","06029","November",2019,369900,395100,25200
-"06","CA","California","Kings County","County","06031","November",2019,53200,57400,4200
-"06","CA","California","Lake County","County","06033","November",2019,27420,28790,1380
-"06","CA","California","Lassen County","County","06035","November",2019,9960,10320,360
-"06","CA","California","Los Angeles County","County","06037","November",2019,4963400,5177100,213700
-"06","CA","California","Madera County","County","06039","November",2019,56900,60700,3800
-"06","CA","California","Marin County","County","06041","November",2019,138100,141000,2900
-"06","CA","California","Mariposa County","County","06043","November",2019,7020,7320,300
-"06","CA","California","Mendocino County","County","06045","November",2019,37220,38560,1340
-"06","CA","California","Merced County","County","06047","November",2019,107700,115500,7700
-"06","CA","California","Modoc County","County","06049","November",2019,2930,3110,180
-"06","CA","California","Mono County","County","06051","November",2019,7600,7920,310
-"06","CA","California","Monterey County","County","06053","November",2019,209200,219400,10300
-"06","CA","California","Napa County","County","06055","November",2019,71700,73600,1900
-"06","CA","California","Nevada County","County","06057","November",2019,47040,48470,1430
-"06","CA","California","Orange County","County","06059","November",2019,1588300,1630100,41800
-"06","CA","California","Placer County","County","06061","November",2019,183600,188800,5300
-"06","CA","California","Plumas County","County","06063","November",2019,7110,7580,460
-"06","CA","California","Riverside County","County","06065","November",2019,1073100,1116200,43100
-"06","CA","California","Sacramento County","County","06067","November",2019,691600,715300,23700
-"06","CA","California","San Benito County","County","06069","November",2019,30000,31400,1400
-"06","CA","California","San Bernardino County","County","06071","November",2019,944700,978900,34200
-"06","CA","California","San Diego County","County","06073","November",2019,1553400,1600100,46700
-"06","CA","California","San Francisco County","County","06075","November",2019,578100,589800,11700
-"06","CA","California","San Joaquin County","County","06077","November",2019,308100,325700,17600
-"06","CA","California","San Luis Obispo County","County","06079","November",2019,138400,142000,3600
-"06","CA","California","San Mateo County","County","06081","November",2019,456700,465500,8700
-"06","CA","California","Santa Barbara County","County","06083","November",2019,211500,218500,7000
-"06","CA","California","Santa Clara County","County","06085","November",2019,1034700,1059200,24500
-"06","CA","California","Santa Cruz County","County","06087","November",2019,136100,141800,5700
-"06","CA","California","Shasta County","County","06089","November",2019,71700,74700,3000
-"06","CA","California","Sierra County","County","06091","November",2019,1280,1330,50
-"06","CA","California","Siskiyou County","County","06093","November",2019,16240,17110,870
-"06","CA","California","Solano County","County","06095","November",2019,203400,210400,7000
-"06","CA","California","Sonoma County","County","06097","November",2019,254300,260600,6300
-"06","CA","California","Stanislaus County","County","06099","November",2019,231100,243900,12900
-"06","CA","California","Sutter County","County","06101","November",2019,43300,46100,2800
-"06","CA","California","Tehama County","County","06103","November",2019,24640,25800,1170
-"06","CA","California","Trinity County","County","06105","November",2019,4330,4560,230
-"06","CA","California","Tulare County","County","06107","November",2019,185800,203400,17600
-"06","CA","California","Tuolumne County","County","06109","November",2019,20670,21480,810
-"06","CA","California","Ventura County","County","06111","November",2019,411300,426000,14700
-"06","CA","California","Yolo County","County","06113","November",2019,104500,108500,4000
-"06","CA","California","Yuba County","County","06115","November",2019,29100,30700,1600
-"06","CA","California","Alameda County","County","06001","October",2019,824900,848300,23500
-"06","CA","California","Alpine County","County","06003","October",2019,430,460,20
-"06","CA","California","Amador County","County","06005","October",2019,14600,15110,510
-"06","CA","California","Butte County","County","06007","October",2019,96500,100700,4200
-"06","CA","California","Calaveras County","County","06009","October",2019,20980,21710,720
-"06","CA","California","Colusa County","County","06011","October",2019,10070,10920,850
-"06","CA","California","Contra Costa County","County","06013","October",2019,548100,564300,16200
-"06","CA","California","Del Norte County","County","06015","October",2019,9260,9780,520
-"06","CA","California","El Dorado County","County","06017","October",2019,89400,92300,2900
-"06","CA","California","Fresno County","County","06019","October",2019,421300,448800,27400
-"06","CA","California","Glenn County","County","06021","October",2019,12720,13320,600
-"06","CA","California","Humboldt County","County","06023","October",2019,61100,63100,2000
-"06","CA","California","Imperial County","County","06025","October",2019,58400,72600,14200
-"06","CA","California","Inyo County","County","06027","October",2019,8560,8810,260
-"06","CA","California","Kern County","County","06029","October",2019,374300,399400,25100
-"06","CA","California","Kings County","County","06031","October",2019,53800,57600,3800
-"06","CA","California","Lake County","County","06033","October",2019,27710,29000,1290
-"06","CA","California","Lassen County","County","06035","October",2019,10210,10560,350
-"06","CA","California","Los Angeles County","County","06037","October",2019,4936200,5157900,221700
-"06","CA","California","Madera County","County","06039","October",2019,58100,61500,3500
-"06","CA","California","Marin County","County","06041","October",2019,138100,141100,3000
-"06","CA","California","Mariposa County","County","06043","October",2019,7480,7760,280
-"06","CA","California","Mendocino County","County","06045","October",2019,37830,39100,1270
-"06","CA","California","Merced County","County","06047","October",2019,111400,118500,7100
-"06","CA","California","Modoc County","County","06049","October",2019,3100,3250,150
-"06","CA","California","Mono County","County","06051","October",2019,7650,7970,320
-"06","CA","California","Monterey County","County","06053","October",2019,216200,225000,8800
-"06","CA","California","Napa County","County","06055","October",2019,73700,75600,1800
-"06","CA","California","Nevada County","County","06057","October",2019,46960,48420,1450
-"06","CA","California","Orange County","County","06059","October",2019,1589000,1632000,43000
-"06","CA","California","Placer County","County","06061","October",2019,183300,188700,5400
-"06","CA","California","Plumas County","County","06063","October",2019,7580,7980,400
-"06","CA","California","Riverside County","County","06065","October",2019,1065300,1110800,45500
-"06","CA","California","Sacramento County","County","06067","October",2019,690800,715000,24200
-"06","CA","California","San Benito County","County","06069","October",2019,30200,31600,1300
-"06","CA","California","San Bernardino County","County","06071","October",2019,938100,973300,35200
-"06","CA","California","San Diego County","County","06073","October",2019,1550800,1598700,47900
-"06","CA","California","San Francisco County","County","06075","October",2019,577700,589800,12100
-"06","CA","California","San Joaquin County","County","06077","October",2019,311000,328000,17000
-"06","CA","California","San Luis Obispo County","County","06079","October",2019,138700,142400,3600
-"06","CA","California","San Mateo County","County","06081","October",2019,456400,465300,8900
-"06","CA","California","Santa Barbara County","County","06083","October",2019,213500,220300,6900
-"06","CA","California","Santa Clara County","County","06085","October",2019,1034000,1059100,25000
-"06","CA","California","Santa Cruz County","County","06087","October",2019,138700,143700,5000
-"06","CA","California","Shasta County","County","06089","October",2019,72500,75400,3000
-"06","CA","California","Sierra County","County","06091","October",2019,1320,1370,60
-"06","CA","California","Siskiyou County","County","06093","October",2019,16660,17480,820
-"06","CA","California","Solano County","County","06095","October",2019,203800,210900,7100
-"06","CA","California","Sonoma County","County","06097","October",2019,257000,263300,6300
-"06","CA","California","Stanislaus County","County","06099","October",2019,232500,244800,12400
-"06","CA","California","Sutter County","County","06101","October",2019,43800,46300,2500
-"06","CA","California","Tehama County","County","06103","October",2019,25250,26430,1190
-"06","CA","California","Trinity County","County","06105","October",2019,4480,4690,210
-"06","CA","California","Tulare County","County","06107","October",2019,185300,202200,17000
-"06","CA","California","Tuolumne County","County","06109","October",2019,20510,21330,810
-"06","CA","California","Ventura County","County","06111","October",2019,410800,425300,14500
-"06","CA","California","Yolo County","County","06113","October",2019,105100,108700,3700
-"06","CA","California","Yuba County","County","06115","October",2019,29100,30600,1500
-"06","CA","California","Alameda County","County","06001","September",2019,824500,846900,22400
-"06","CA","California","Alpine County","County","06003","September",2019,440,460,20
-"06","CA","California","Amador County","County","06005","September",2019,14620,15090,470
-"06","CA","California","Butte County","County","06007","September",2019,95700,99700,4000
-"06","CA","California","Calaveras County","County","06009","September",2019,21060,21730,670
-"06","CA","California","Colusa County","County","06011","September",2019,10360,11120,760
-"06","CA","California","Contra Costa County","County","06013","September",2019,547900,563300,15500
-"06","CA","California","Del Norte County","County","06015","September",2019,9360,9840,480
-"06","CA","California","El Dorado County","County","06017","September",2019,89500,92200,2700
-"06","CA","California","Fresno County","County","06019","September",2019,427500,453000,25400
-"06","CA","California","Glenn County","County","06021","September",2019,12610,13210,610
-"06","CA","California","Humboldt County","County","06023","September",2019,60900,62800,1800
-"06","CA","California","Imperial County","County","06025","September",2019,57500,71300,13800
-"06","CA","California","Inyo County","County","06027","September",2019,8580,8820,250
-"06","CA","California","Kern County","County","06029","September",2019,372600,397200,24600
-"06","CA","California","Kings County","County","06031","September",2019,54100,57500,3400
-"06","CA","California","Lake County","County","06033","September",2019,28110,29280,1170
-"06","CA","California","Lassen County","County","06035","September",2019,9500,9830,330
-"06","CA","California","Los Angeles County","County","06037","September",2019,4929800,5152400,222700
-"06","CA","California","Madera County","County","06039","September",2019,59200,62500,3300
-"06","CA","California","Marin County","County","06041","September",2019,138100,141000,2900
-"06","CA","California","Mariposa County","County","06043","September",2019,7800,8060,250
-"06","CA","California","Mendocino County","County","06045","September",2019,37960,39180,1210
-"06","CA","California","Merced County","County","06047","September",2019,111000,117800,6800
-"06","CA","California","Modoc County","County","06049","September",2019,3040,3180,150
-"06","CA","California","Mono County","County","06051","September",2019,8050,8330,280
-"06","CA","California","Monterey County","County","06053","September",2019,220600,228700,8100
-"06","CA","California","Napa County","County","06055","September",2019,74200,75900,1700
-"06","CA","California","Nevada County","County","06057","September",2019,47140,48500,1360
-"06","CA","California","Orange County","County","06059","September",2019,1588500,1629500,41000
-"06","CA","California","Placer County","County","06061","September",2019,183500,188700,5200
-"06","CA","California","Plumas County","County","06063","September",2019,7810,8190,380
-"06","CA","California","Riverside County","County","06065","September",2019,1061700,1105900,44200
-"06","CA","California","Sacramento County","County","06067","September",2019,691500,714700,23200
-"06","CA","California","San Benito County","County","06069","September",2019,30100,31400,1200
-"06","CA","California","San Bernardino County","County","06071","September",2019,935100,968900,33900
-"06","CA","California","San Diego County","County","06073","September",2019,1548000,1593800,45800
-"06","CA","California","San Francisco County","County","06075","September",2019,576900,588100,11300
-"06","CA","California","San Joaquin County","County","06077","September",2019,312500,328500,16000
-"06","CA","California","San Luis Obispo County","County","06079","September",2019,136300,139900,3500
-"06","CA","California","San Mateo County","County","06081","September",2019,455700,464100,8400
-"06","CA","California","Santa Barbara County","County","06083","September",2019,212000,218500,6500
-"06","CA","California","Santa Clara County","County","06085","September",2019,1033000,1056900,23900
-"06","CA","California","Santa Cruz County","County","06087","September",2019,138000,142800,4700
-"06","CA","California","Shasta County","County","06089","September",2019,72000,74700,2800
-"06","CA","California","Sierra County","County","06091","September",2019,1330,1390,50
-"06","CA","California","Siskiyou County","County","06093","September",2019,16720,17510,790
-"06","CA","California","Solano County","County","06095","September",2019,203200,209900,6700
-"06","CA","California","Sonoma County","County","06097","September",2019,258000,264000,6000
-"06","CA","California","Stanislaus County","County","06099","September",2019,234300,246200,11900
-"06","CA","California","Sutter County","County","06101","September",2019,43800,46100,2300
-"06","CA","California","Tehama County","County","06103","September",2019,24970,26110,1150
-"06","CA","California","Trinity County","County","06105","September",2019,4570,4760,190
-"06","CA","California","Tulare County","County","06107","September",2019,188100,204300,16200
-"06","CA","California","Tuolumne County","County","06109","September",2019,20620,21390,770
-"06","CA","California","Ventura County","County","06111","September",2019,407400,421400,14100
-"06","CA","California","Yolo County","County","06113","September",2019,105300,108800,3500
-"06","CA","California","Yuba County","County","06115","September",2019,28900,30400,1500
+"06","CA","California","Alameda County","County",NA,"April",2020,691200,804200,112900
+"06","CA","California","Alpine County","County",NA,"April",2020,390,500,110
+"06","CA","California","Amador County","County",NA,"April",2020,12430,14520,2090
+"06","CA","California","Butte County","County",NA,"April",2020,79300,93900,14600
+"06","CA","California","Calaveras County","County",NA,"April",2020,17930,20670,2740
+"06","CA","California","Colusa County","County",NA,"April",2020,7810,10690,2880
+"06","CA","California","Contra Costa County","County",NA,"April",2020,458800,536500,77800
+"06","CA","California","Del Norte County","County",NA,"April",2020,8330,9610,1270
+"06","CA","California","El Dorado County","County",NA,"April",2020,76200,89900,13700
+"06","CA","California","Fresno County","County",NA,"April",2020,374400,450300,75900
+"06","CA","California","Glenn County","County",NA,"April",2020,9580,11410,1830
+"06","CA","California","Humboldt County","County",NA,"April",2020,53600,62200,8600
+"06","CA","California","Imperial County","County",NA,"April",2020,51700,71900,20200
+"06","CA","California","Inyo County","County",NA,"April",2020,7060,8180,1130
+"06","CA","California","Kern County","County",NA,"April",2020,301600,370800,69200
+"06","CA","California","Kings County","County",NA,"April",2020,47400,57100,9700
+"06","CA","California","Lake County","County",NA,"April",2020,21620,25960,4340
+"06","CA","California","Lassen County","County",NA,"April",2020,7990,9030,1040
+"06","CA","California","Los Angeles County","County",NA,"April",2020,3787600,4756900,969300
+"06","CA","California","Madera County","County",NA,"April",2020,51700,62100,10400
+"06","CA","California","Marin County","County",NA,"April",2020,113700,128100,14400
+"06","CA","California","Mariposa County","County",NA,"April",2020,6420,7840,1430
+"06","CA","California","Mendocino County","County",NA,"April",2020,32040,37560,5520
+"06","CA","California","Merced County","County",NA,"April",2020,93900,115500,21600
+"06","CA","California","Modoc County","County",NA,"April",2020,2640,3070,430
+"06","CA","California","Mono County","County",NA,"April",2020,4670,6520,1840
+"06","CA","California","Monterey County","County",NA,"April",2020,160300,201700,41400
+"06","CA","California","Napa County","County",NA,"April",2020,60700,72300,11600
+"06","CA","California","Nevada County","County",NA,"April",2020,36430,42980,6550
+"06","CA","California","Orange County","County",NA,"April",2020,1327700,1540300,212600
+"06","CA","California","Placer County","County",NA,"April",2020,156500,179900,23500
+"06","CA","California","Plumas County","County",NA,"April",2020,5370,6780,1410
+"06","CA","California","Riverside County","County",NA,"April",2020,915700,1085200,169500
+"06","CA","California","Sacramento County","County",NA,"April",2020,590100,689900,99700
+"06","CA","California","San Benito County","County",NA,"April",2020,26100,32300,6100
+"06","CA","California","San Bernardino County","County",NA,"April",2020,806600,933900,127300
+"06","CA","California","San Diego County","County",NA,"April",2020,1317500,1550200,232800
+"06","CA","California","San Francisco County","County",NA,"April",2020,483900,553700,69800
+"06","CA","California","San Joaquin County","County",NA,"April",2020,267700,325600,57900
+"06","CA","California","San Luis Obispo County","County",NA,"April",2020,114700,133400,18700
+"06","CA","California","San Mateo County","County",NA,"April",2020,382100,431100,49000
+"06","CA","California","Santa Barbara County","County",NA,"April",2020,182800,212300,29500
+"06","CA","California","Santa Clara County","County",NA,"April",2020,898300,1017700,119400
+"06","CA","California","Santa Cruz County","County",NA,"April",2020,112000,135000,23000
+"06","CA","California","Shasta County","County",NA,"April",2020,60900,72100,11200
+"06","CA","California","Sierra County","County",NA,"April",2020,1010,1180,170
+"06","CA","California","Siskiyou County","County",NA,"April",2020,13940,16530,2590
+"06","CA","California","Solano County","County",NA,"April",2020,171100,201500,30400
+"06","CA","California","Sonoma County","County",NA,"April",2020,212500,248600,36100
+"06","CA","California","Stanislaus County","County",NA,"April",2020,192500,233400,40800
+"06","CA","California","Sutter County","County",NA,"April",2020,36900,45100,8200
+"06","CA","California","Tehama County","County",NA,"April",2020,21750,25400,3650
+"06","CA","California","Trinity County","County",NA,"April",2020,3790,4340,550
+"06","CA","California","Tulare County","County",NA,"April",2020,157900,195700,37800
+"06","CA","California","Tuolumne County","County",NA,"April",2020,18180,21980,3800
+"06","CA","California","Ventura County","County",NA,"April",2020,354900,412300,57400
+"06","CA","California","Yolo County","County",NA,"April",2020,89500,101300,11800
+"06","CA","California","Yuba County","County",NA,"April",2020,24900,29700,4800
+"06","CA","California","Alameda County","County",NA,"December",2019,823900,845200,21300
+"06","CA","California","Alpine County","County",NA,"December",2019,590,610,20
+"06","CA","California","Amador County","County",NA,"December",2019,14260,14800,540
+"06","CA","California","Butte County","County",NA,"December",2019,94300,98600,4300
+"06","CA","California","Calaveras County","County",NA,"December",2019,20940,21680,740
+"06","CA","California","Colusa County","County",NA,"December",2019,9010,10510,1490
+"06","CA","California","Contra Costa County","County",NA,"December",2019,547000,562000,15000
+"06","CA","California","Del Norte County","County",NA,"December",2019,9010,9550,550
+"06","CA","California","El Dorado County","County",NA,"December",2019,89400,92300,2800
+"06","CA","California","Fresno County","County",NA,"December",2019,418400,449500,31200
+"06","CA","California","Glenn County","County",NA,"December",2019,12260,12960,700
+"06","CA","California","Humboldt County","County",NA,"December",2019,60600,62500,1900
+"06","CA","California","Imperial County","County",NA,"December",2019,59600,71900,12200
+"06","CA","California","Inyo County","County",NA,"December",2019,8400,8660,270
+"06","CA","California","Kern County","County",NA,"December",2019,362200,389800,27700
+"06","CA","California","Kings County","County",NA,"December",2019,53300,57700,4400
+"06","CA","California","Lake County","County",NA,"December",2019,27320,28780,1470
+"06","CA","California","Lassen County","County",NA,"December",2019,9280,9670,400
+"06","CA","California","Los Angeles County","County",NA,"December",2019,4951100,5158200,207100
+"06","CA","California","Madera County","County",NA,"December",2019,57800,62000,4200
+"06","CA","California","Marin County","County",NA,"December",2019,137900,140600,2700
+"06","CA","California","Mariposa County","County",NA,"December",2019,6810,7120,320
+"06","CA","California","Mendocino County","County",NA,"December",2019,36950,38380,1430
+"06","CA","California","Merced County","County",NA,"December",2019,105900,114900,9100
+"06","CA","California","Modoc County","County",NA,"December",2019,2820,3030,220
+"06","CA","California","Mono County","County",NA,"December",2019,8450,8730,280
+"06","CA","California","Monterey County","County",NA,"December",2019,195700,210900,15300
+"06","CA","California","Napa County","County",NA,"December",2019,69900,71900,2100
+"06","CA","California","Nevada County","County",NA,"December",2019,47440,48860,1420
+"06","CA","California","Orange County","County",NA,"December",2019,1592000,1631100,39100
+"06","CA","California","Placer County","County",NA,"December",2019,183600,188600,5100
+"06","CA","California","Plumas County","County",NA,"December",2019,6930,7510,580
+"06","CA","California","Riverside County","County",NA,"December",2019,1071300,1111900,40600
+"06","CA","California","Sacramento County","County",NA,"December",2019,691900,714800,22900
+"06","CA","California","San Benito County","County",NA,"December",2019,29800,31300,1500
+"06","CA","California","San Bernardino County","County",NA,"December",2019,943300,975500,32200
+"06","CA","California","San Diego County","County",NA,"December",2019,1552900,1597100,44300
+"06","CA","California","San Francisco County","County",NA,"December",2019,578100,589300,11100
+"06","CA","California","San Joaquin County","County",NA,"December",2019,307600,326000,18300
+"06","CA","California","San Luis Obispo County","County",NA,"December",2019,135800,139400,3500
+"06","CA","California","San Mateo County","County",NA,"December",2019,456600,464800,8100
+"06","CA","California","Santa Barbara County","County",NA,"December",2019,207300,215000,7700
+"06","CA","California","Santa Clara County","County",NA,"December",2019,1035900,1058900,23000
+"06","CA","California","Santa Cruz County","County",NA,"December",2019,132400,139100,6600
+"06","CA","California","Shasta County","County",NA,"December",2019,71000,74100,3100
+"06","CA","California","Sierra County","County",NA,"December",2019,1260,1320,60
+"06","CA","California","Siskiyou County","County",NA,"December",2019,15780,16850,1070
+"06","CA","California","Solano County","County",NA,"December",2019,202600,209600,7000
+"06","CA","California","Sonoma County","County",NA,"December",2019,253600,259700,6100
+"06","CA","California","Stanislaus County","County",NA,"December",2019,229000,242500,13500
+"06","CA","California","Sutter County","County",NA,"December",2019,42900,46200,3300
+"06","CA","California","Tehama County","County",NA,"December",2019,24150,25390,1240
+"06","CA","California","Trinity County","County",NA,"December",2019,4240,4470,240
+"06","CA","California","Tulare County","County",NA,"December",2019,183700,202500,18900
+"06","CA","California","Tuolumne County","County",NA,"December",2019,20640,21470,830
+"06","CA","California","Ventura County","County",NA,"December",2019,410300,424500,14200
+"06","CA","California","Yolo County","County",NA,"December",2019,104700,108900,4200
+"06","CA","California","Yuba County","County",NA,"December",2019,29100,30800,1700
+"06","CA","California","Alameda County","County",NA,"February",2020,815400,840400,25000
+"06","CA","California","Alpine County","County",NA,"February",2020,610,650,30
+"06","CA","California","Amador County","County",NA,"February",2020,14200,14860,660
+"06","CA","California","Butte County","County",NA,"February",2020,93200,98500,5400
+"06","CA","California","Calaveras County","County",NA,"February",2020,20700,21610,910
+"06","CA","California","Colusa County","County",NA,"February",2020,8990,11200,2220
+"06","CA","California","Contra Costa County","County",NA,"February",2020,541300,558800,17500
+"06","CA","California","Del Norte County","County",NA,"February",2020,9020,9620,600
+"06","CA","California","El Dorado County","County",NA,"February",2020,88900,92300,3400
+"06","CA","California","Fresno County","County",NA,"February",2020,415500,454000,38500
+"06","CA","California","Glenn County","County",NA,"February",2020,12320,13260,940
+"06","CA","California","Humboldt County","County",NA,"February",2020,59700,62100,2400
+"06","CA","California","Imperial County","County",NA,"February",2020,59400,71700,12200
+"06","CA","California","Inyo County","County",NA,"February",2020,8340,8680,340
+"06","CA","California","Kern County","County",NA,"February",2020,359900,395800,36000
+"06","CA","California","Kings County","County",NA,"February",2020,52800,58500,5700
+"06","CA","California","Lake County","County",NA,"February",2020,27430,29120,1690
+"06","CA","California","Lassen County","County",NA,"February",2020,9220,9790,570
+"06","CA","California","Los Angeles County","County",NA,"February",2020,4984600,5222800,238200
+"06","CA","California","Madera County","County",NA,"February",2020,58900,64000,5100
+"06","CA","California","Marin County","County",NA,"February",2020,136500,139800,3300
+"06","CA","California","Mariposa County","County",NA,"February",2020,6750,7200,450
+"06","CA","California","Mendocino County","County",NA,"February",2020,36600,38410,1810
+"06","CA","California","Merced County","County",NA,"February",2020,103500,115500,12000
+"06","CA","California","Modoc County","County",NA,"February",2020,2760,3060,300
+"06","CA","California","Mono County","County",NA,"February",2020,8550,8890,340
+"06","CA","California","Monterey County","County",NA,"February",2020,195300,217100,21800
+"06","CA","California","Napa County","County",NA,"February",2020,71200,73600,2400
+"06","CA","California","Nevada County","County",NA,"February",2020,46940,48710,1780
+"06","CA","California","Orange County","County",NA,"February",2020,1578400,1623900,45500
+"06","CA","California","Placer County","County",NA,"February",2020,182500,188500,6000
+"06","CA","California","Plumas County","County",NA,"February",2020,6620,7440,820
+"06","CA","California","Riverside County","County",NA,"February",2020,1059000,1104700,45700
+"06","CA","California","Sacramento County","County",NA,"February",2020,688000,714800,26800
+"06","CA","California","San Benito County","County",NA,"February",2020,29700,31600,2000
+"06","CA","California","San Bernardino County","County",NA,"February",2020,932600,969700,37000
+"06","CA","California","San Diego County","County",NA,"February",2020,1544300,1595300,51100
+"06","CA","California","San Francisco County","County",NA,"February",2020,573900,587200,13300
+"06","CA","California","San Joaquin County","County",NA,"February",2020,304900,326500,21600
+"06","CA","California","San Luis Obispo County","County",NA,"February",2020,138200,142500,4300
+"06","CA","California","San Mateo County","County",NA,"February",2020,453200,462900,9700
+"06","CA","California","Santa Barbara County","County",NA,"February",2020,205600,215500,9900
+"06","CA","California","Santa Clara County","County",NA,"February",2020,1028100,1055300,27200
+"06","CA","California","Santa Cruz County","County",NA,"February",2020,132100,141100,9000
+"06","CA","California","Shasta County","County",NA,"February",2020,69400,73400,4000
+"06","CA","California","Sierra County","County",NA,"February",2020,1220,1310,90
+"06","CA","California","Siskiyou County","County",NA,"February",2020,15560,17010,1450
+"06","CA","California","Solano County","County",NA,"February",2020,200300,208500,8200
+"06","CA","California","Sonoma County","County",NA,"February",2020,251500,258800,7300
+"06","CA","California","Stanislaus County","County",NA,"February",2020,228000,244000,16000
+"06","CA","California","Sutter County","County",NA,"February",2020,42500,46600,4200
+"06","CA","California","Tehama County","County",NA,"February",2020,24160,25750,1590
+"06","CA","California","Trinity County","County",NA,"February",2020,4130,4450,320
+"06","CA","California","Tulare County","County",NA,"February",2020,181800,205400,23600
+"06","CA","California","Tuolumne County","County",NA,"February",2020,20500,21570,1070
+"06","CA","California","Ventura County","County",NA,"February",2020,409000,424700,15800
+"06","CA","California","Yolo County","County",NA,"February",2020,103900,109200,5300
+"06","CA","California","Yuba County","County",NA,"February",2020,28700,30900,2100
+"06","CA","California","Alameda County","County",NA,"January",2020,815500,841300,25700
+"06","CA","California","Alpine County","County",NA,"January",2020,620,650,30
+"06","CA","California","Amador County","County",NA,"January",2020,14160,14860,700
+"06","CA","California","Butte County","County",NA,"January",2020,92400,97800,5400
+"06","CA","California","Calaveras County","County",NA,"January",2020,20630,21560,930
+"06","CA","California","Colusa County","County",NA,"January",2020,8790,10870,2090
+"06","CA","California","Contra Costa County","County",NA,"January",2020,541600,559600,18000
+"06","CA","California","Del Norte County","County",NA,"January",2020,9010,9640,630
+"06","CA","California","El Dorado County","County",NA,"January",2020,88800,92200,3500
+"06","CA","California","Fresno County","County",NA,"January",2020,415800,452500,36600
+"06","CA","California","Glenn County","County",NA,"January",2020,12260,13220,970
+"06","CA","California","Humboldt County","County",NA,"January",2020,59300,61800,2500
+"06","CA","California","Imperial County","County",NA,"January",2020,59400,72400,13000
+"06","CA","California","Inyo County","County",NA,"January",2020,8360,8700,340
+"06","CA","California","Kern County","County",NA,"January",2020,362200,396100,33900
+"06","CA","California","Kings County","County",NA,"January",2020,52700,58100,5500
+"06","CA","California","Lake County","County",NA,"January",2020,27370,29120,1750
+"06","CA","California","Lassen County","County",NA,"January",2020,9330,9890,560
+"06","CA","California","Los Angeles County","County",NA,"January",2020,4956900,5189200,232200
+"06","CA","California","Madera County","County",NA,"January",2020,58200,63400,5100
+"06","CA","California","Marin County","County",NA,"January",2020,136500,139800,3400
+"06","CA","California","Mariposa County","County",NA,"January",2020,6600,7040,440
+"06","CA","California","Mendocino County","County",NA,"January",2020,36470,38310,1850
+"06","CA","California","Merced County","County",NA,"January",2020,103900,115200,11300
+"06","CA","California","Modoc County","County",NA,"January",2020,2790,3090,300
+"06","CA","California","Mono County","County",NA,"January",2020,8800,9120,320
+"06","CA","California","Monterey County","County",NA,"January",2020,193300,214100,20800
+"06","CA","California","Napa County","County",NA,"January",2020,70000,72500,2500
+"06","CA","California","Nevada County","County",NA,"January",2020,47320,49120,1800
+"06","CA","California","Orange County","County",NA,"January",2020,1575500,1622100,46600
+"06","CA","California","Placer County","County",NA,"January",2020,182200,188400,6200
+"06","CA","California","Plumas County","County",NA,"January",2020,6710,7490,790
+"06","CA","California","Riverside County","County",NA,"January",2020,1059300,1106100,46800
+"06","CA","California","Sacramento County","County",NA,"January",2020,686500,714200,27700
+"06","CA","California","San Benito County","County",NA,"January",2020,29600,31500,2000
+"06","CA","California","San Bernardino County","County",NA,"January",2020,932100,970000,37900
+"06","CA","California","San Diego County","County",NA,"January",2020,1540000,1592900,52900
+"06","CA","California","San Francisco County","County",NA,"January",2020,573000,586500,13500
+"06","CA","California","San Joaquin County","County",NA,"January",2020,303300,325100,21800
+"06","CA","California","San Luis Obispo County","County",NA,"January",2020,136700,141200,4400
+"06","CA","California","San Mateo County","County",NA,"January",2020,452600,462400,9800
+"06","CA","California","Santa Barbara County","County",NA,"January",2020,204300,214300,10000
+"06","CA","California","Santa Clara County","County",NA,"January",2020,1028000,1055600,27700
+"06","CA","California","Santa Cruz County","County",NA,"January",2020,131000,139600,8600
+"06","CA","California","Shasta County","County",NA,"January",2020,70600,74600,4000
+"06","CA","California","Sierra County","County",NA,"January",2020,1230,1320,80
+"06","CA","California","Siskiyou County","County",NA,"January",2020,15650,17060,1420
+"06","CA","California","Solano County","County",NA,"January",2020,200500,209000,8400
+"06","CA","California","Sonoma County","County",NA,"January",2020,250600,258200,7600
+"06","CA","California","Stanislaus County","County",NA,"January",2020,227300,243300,16100
+"06","CA","California","Sutter County","County",NA,"January",2020,42400,46500,4100
+"06","CA","California","Tehama County","County",NA,"January",2020,24080,25710,1630
+"06","CA","California","Trinity County","County",NA,"January",2020,4130,4430,310
+"06","CA","California","Tulare County","County",NA,"January",2020,182000,204500,22400
+"06","CA","California","Tuolumne County","County",NA,"January",2020,20410,21460,1050
+"06","CA","California","Ventura County","County",NA,"January",2020,406600,423000,16400
+"06","CA","California","Yolo County","County",NA,"January",2020,103600,109000,5400
+"06","CA","California","Yuba County","County",NA,"January",2020,28800,30900,2200
+"06","CA","California","Alameda County","County",NA,"March",2020,802700,835400,32700
+"06","CA","California","Alpine County","County",NA,"March",2020,490,530,40
+"06","CA","California","Amador County","County",NA,"March",2020,13980,14790,810
+"06","CA","California","Butte County","County",NA,"March",2020,92300,99100,6800
+"06","CA","California","Calaveras County","County",NA,"March",2020,20320,21510,1180
+"06","CA","California","Colusa County","County",NA,"March",2020,8780,11470,2700
+"06","CA","California","Contra Costa County","County",NA,"March",2020,532800,555500,22700
+"06","CA","California","Del Norte County","County",NA,"March",2020,8740,9480,740
+"06","CA","California","El Dorado County","County",NA,"March",2020,87400,91700,4300
+"06","CA","California","Fresno County","County",NA,"March",2020,406900,457000,50200
+"06","CA","California","Glenn County","County",NA,"March",2020,11980,13160,1180
+"06","CA","California","Humboldt County","County",NA,"March",2020,58700,61800,3100
+"06","CA","California","Imperial County","County",NA,"March",2020,57900,73100,15200
+"06","CA","California","Inyo County","County",NA,"March",2020,8220,8640,420
+"06","CA","California","Kern County","County",NA,"March",2020,344200,391600,47500
+"06","CA","California","Kings County","County",NA,"March",2020,51800,59200,7300
+"06","CA","California","Lake County","County",NA,"March",2020,26920,29030,2110
+"06","CA","California","Lassen County","County",NA,"March",2020,8610,9310,710
+"06","CA","California","Los Angeles County","County",NA,"March",2020,4669100,4996600,327500
+"06","CA","California","Madera County","County",NA,"March",2020,56600,63400,6700
+"06","CA","California","Marin County","County",NA,"March",2020,133400,137700,4300
+"06","CA","California","Mariposa County","County",NA,"March",2020,6650,7220,570
+"06","CA","California","Mendocino County","County",NA,"March",2020,36340,38640,2300
+"06","CA","California","Merced County","County",NA,"March",2020,101300,116600,15300
+"06","CA","California","Modoc County","County",NA,"March",2020,2760,3130,370
+"06","CA","California","Mono County","County",NA,"March",2020,8360,8790,430
+"06","CA","California","Monterey County","County",NA,"March",2020,192400,219200,26700
+"06","CA","California","Napa County","County",NA,"March",2020,70300,73300,3000
+"06","CA","California","Nevada County","County",NA,"March",2020,45250,47520,2270
+"06","CA","California","Orange County","County",NA,"March",2020,1528600,1587700,59000
+"06","CA","California","Placer County","County",NA,"March",2020,179500,187200,7700
+"06","CA","California","Plumas County","County",NA,"March",2020,6490,7500,1020
+"06","CA","California","Riverside County","County",NA,"March",2020,1039700,1098800,59100
+"06","CA","California","Sacramento County","County",NA,"March",2020,676800,711100,34300
+"06","CA","California","San Benito County","County",NA,"March",2020,29200,31700,2500
+"06","CA","California","San Bernardino County","County",NA,"March",2020,915900,964100,48200
+"06","CA","California","San Diego County","County",NA,"March",2020,1509100,1575300,66100
+"06","CA","California","San Francisco County","County",NA,"March",2020,561200,579300,18100
+"06","CA","California","San Joaquin County","County",NA,"March",2020,301100,328600,27600
+"06","CA","California","San Luis Obispo County","County",NA,"March",2020,136300,141800,5400
+"06","CA","California","San Mateo County","County",NA,"March",2020,443100,455900,12800
+"06","CA","California","Santa Barbara County","County",NA,"March",2020,201800,214100,12300
+"06","CA","California","Santa Clara County","County",NA,"March",2020,1007600,1042700,35200
+"06","CA","California","Santa Cruz County","County",NA,"March",2020,130000,141500,11400
+"06","CA","California","Shasta County","County",NA,"March",2020,68400,73400,5100
+"06","CA","California","Sierra County","County",NA,"March",2020,1190,1300,110
+"06","CA","California","Siskiyou County","County",NA,"March",2020,14860,16620,1760
+"06","CA","California","Solano County","County",NA,"March",2020,198400,209000,10600
+"06","CA","California","Sonoma County","County",NA,"March",2020,247600,257100,9500
+"06","CA","California","Stanislaus County","County",NA,"March",2020,224900,245600,20700
+"06","CA","California","Sutter County","County",NA,"March",2020,42100,47400,5400
+"06","CA","California","Tehama County","County",NA,"March",2020,23060,25050,1990
+"06","CA","California","Trinity County","County",NA,"March",2020,4090,4500,410
+"06","CA","California","Tulare County","County",NA,"March",2020,176900,207300,30400
+"06","CA","California","Tuolumne County","County",NA,"March",2020,19590,20940,1350
+"06","CA","California","Ventura County","County",NA,"March",2020,402100,422100,20000
+"06","CA","California","Yolo County","County",NA,"March",2020,102400,108900,6500
+"06","CA","California","Yuba County","County",NA,"March",2020,28500,31200,2700
+"06","CA","California","Alameda County","County",NA,"April",2019,813900,836100,22200
+"06","CA","California","Alpine County","County",NA,"April",2019,560,590,20
+"06","CA","California","Amador County","County",NA,"April",2019,14240,14790,550
+"06","CA","California","Butte County","County",NA,"April",2019,94500,99500,5000
+"06","CA","California","Calaveras County","County",NA,"April",2019,20250,21030,780
+"06","CA","California","Colusa County","County",NA,"April",2019,9520,11210,1700
+"06","CA","California","Contra Costa County","County",NA,"April",2019,540500,556200,15700
+"06","CA","California","Del Norte County","County",NA,"April",2019,9020,9550,520
+"06","CA","California","El Dorado County","County",NA,"April",2019,88000,91100,3100
+"06","CA","California","Fresno County","County",NA,"April",2019,416000,450100,34100
+"06","CA","California","Glenn County","County",NA,"April",2019,12090,12920,830
+"06","CA","California","Humboldt County","County",NA,"April",2019,60200,62400,2200
+"06","CA","California","Imperial County","County",NA,"April",2019,58200,68900,10700
+"06","CA","California","Inyo County","County",NA,"April",2019,8320,8620,310
+"06","CA","California","Kern County","County",NA,"April",2019,353800,385400,31500
+"06","CA","California","Kings County","County",NA,"April",2019,52700,57400,4800
+"06","CA","California","Lake County","County",NA,"April",2019,27770,29230,1460
+"06","CA","California","Lassen County","County",NA,"April",2019,9110,9600,490
+"06","CA","California","Los Angeles County","County",NA,"April",2019,4871200,5077100,205900
+"06","CA","California","Madera County","County",NA,"April",2019,56200,60700,4500
+"06","CA","California","Marin County","County",NA,"April",2019,135100,138000,2900
+"06","CA","California","Mariposa County","County",NA,"April",2019,7060,7410,360
+"06","CA","California","Mendocino County","County",NA,"April",2019,37300,38880,1580
+"06","CA","California","Merced County","County",NA,"April",2019,105800,115900,10000
+"06","CA","California","Modoc County","County",NA,"April",2019,2860,3100,240
+"06","CA","California","Mono County","County",NA,"April",2019,8310,8570,270
+"06","CA","California","Monterey County","County",NA,"April",2019,208000,223900,15900
+"06","CA","California","Napa County","County",NA,"April",2019,70600,72600,1900
+"06","CA","California","Nevada County","County",NA,"April",2019,46830,48400,1560
+"06","CA","California","Orange County","County",NA,"April",2019,1570200,1610800,40600
+"06","CA","California","Placer County","County",NA,"April",2019,180500,185900,5400
+"06","CA","California","Plumas County","County",NA,"April",2019,6890,7630,740
+"06","CA","California","Riverside County","County",NA,"April",2019,1051600,1092400,40800
+"06","CA","California","Sacramento County","County",NA,"April",2019,680300,704400,24100
+"06","CA","California","San Benito County","County",NA,"April",2019,29600,31200,1600
+"06","CA","California","San Bernardino County","County",NA,"April",2019,925300,958500,33200
+"06","CA","California","San Diego County","County",NA,"April",2019,1529600,1575400,45700
+"06","CA","California","San Francisco County","County",NA,"April",2019,563800,575500,11700
+"06","CA","California","San Joaquin County","County",NA,"April",2019,303900,322800,18900
+"06","CA","California","San Luis Obispo County","County",NA,"April",2019,137600,141300,3700
+"06","CA","California","San Mateo County","County",NA,"April",2019,445400,453800,8400
+"06","CA","California","Santa Barbara County","County",NA,"April",2019,210800,218200,7500
+"06","CA","California","Santa Clara County","County",NA,"April",2019,1017900,1041300,23500
+"06","CA","California","Santa Cruz County","County",NA,"April",2019,136400,144100,7700
+"06","CA","California","Shasta County","County",NA,"April",2019,70000,73500,3500
+"06","CA","California","Sierra County","County",NA,"April",2019,1190,1270,80
+"06","CA","California","Siskiyou County","County",NA,"April",2019,15620,16840,1220
+"06","CA","California","Solano County","County",NA,"April",2019,200900,208300,7400
+"06","CA","California","Sonoma County","County",NA,"April",2019,248800,255200,6500
+"06","CA","California","Stanislaus County","County",NA,"April",2019,226700,241600,14900
+"06","CA","California","Sutter County","County",NA,"April",2019,41200,44900,3800
+"06","CA","California","Tehama County","County",NA,"April",2019,23810,25240,1440
+"06","CA","California","Trinity County","County",NA,"April",2019,4360,4630,280
+"06","CA","California","Tulare County","County",NA,"April",2019,184500,204700,20200
+"06","CA","California","Tuolumne County","County",NA,"April",2019,20130,21090,960
+"06","CA","California","Ventura County","County",NA,"April",2019,409200,422500,13300
+"06","CA","California","Yolo County","County",NA,"April",2019,103300,107500,4200
+"06","CA","California","Yuba County","County",NA,"April",2019,27500,29400,1800
+"06","CA","California","Alameda County","County",NA,"August",2019,819300,845800,26500
+"06","CA","California","Alpine County","County",NA,"August",2019,450,480,30
+"06","CA","California","Amador County","County",NA,"August",2019,14620,15170,560
+"06","CA","California","Butte County","County",NA,"August",2019,92700,97600,4900
+"06","CA","California","Calaveras County","County",NA,"August",2019,21150,21950,800
+"06","CA","California","Colusa County","County",NA,"August",2019,10630,11550,920
+"06","CA","California","Contra Costa County","County",NA,"August",2019,544400,562600,18200
+"06","CA","California","Del Norte County","County",NA,"August",2019,9250,9800,560
+"06","CA","California","El Dorado County","County",NA,"August",2019,88800,92100,3300
+"06","CA","California","Fresno County","County",NA,"August",2019,422700,452200,29500
+"06","CA","California","Glenn County","County",NA,"August",2019,12130,12900,770
+"06","CA","California","Humboldt County","County",NA,"August",2019,59400,61700,2300
+"06","CA","California","Imperial County","County",NA,"August",2019,56400,72300,15900
+"06","CA","California","Inyo County","County",NA,"August",2019,8620,8910,290
+"06","CA","California","Kern County","County",NA,"August",2019,368200,397000,28800
+"06","CA","California","Kings County","County",NA,"August",2019,53600,57600,4000
+"06","CA","California","Lake County","County",NA,"August",2019,28110,29440,1330
+"06","CA","California","Lassen County","County",NA,"August",2019,9290,9700,410
+"06","CA","California","Los Angeles County","County",NA,"August",2019,4868200,5112500,244300
+"06","CA","California","Madera County","County",NA,"August",2019,57900,61800,3900
+"06","CA","California","Marin County","County",NA,"August",2019,137500,140900,3400
+"06","CA","California","Mariposa County","County",NA,"August",2019,7780,8070,290
+"06","CA","California","Mendocino County","County",NA,"August",2019,37630,39070,1440
+"06","CA","California","Merced County","County",NA,"August",2019,107200,115500,8300
+"06","CA","California","Modoc County","County",NA,"August",2019,3100,3280,180
+"06","CA","California","Mono County","County",NA,"August",2019,8300,8610,310
+"06","CA","California","Monterey County","County",NA,"August",2019,219500,229100,9600
+"06","CA","California","Napa County","County",NA,"August",2019,73400,75400,2000
+"06","CA","California","Nevada County","County",NA,"August",2019,47160,48770,1610
+"06","CA","California","Orange County","County",NA,"August",2019,1569500,1617600,48100
+"06","CA","California","Placer County","County",NA,"August",2019,182100,188200,6000
+"06","CA","California","Plumas County","County",NA,"August",2019,8000,8470,460
+"06","CA","California","Riverside County","County",NA,"August",2019,1050100,1101100,51100
+"06","CA","California","Sacramento County","County",NA,"August",2019,686700,714000,27300
+"06","CA","California","San Benito County","County",NA,"August",2019,30100,31500,1400
+"06","CA","California","San Bernardino County","County",NA,"August",2019,925000,964400,39400
+"06","CA","California","San Diego County","County",NA,"August",2019,1537300,1591000,53700
+"06","CA","California","San Francisco County","County",NA,"August",2019,573200,586700,13500
+"06","CA","California","San Joaquin County","County",NA,"August",2019,310600,329200,18600
+"06","CA","California","San Luis Obispo County","County",NA,"August",2019,135300,139500,4200
+"06","CA","California","San Mateo County","County",NA,"August",2019,452900,462800,10000
+"06","CA","California","Santa Barbara County","County",NA,"August",2019,211600,219000,7400
+"06","CA","California","Santa Clara County","County",NA,"August",2019,1030300,1058200,27900
+"06","CA","California","Santa Cruz County","County",NA,"August",2019,138300,143900,5600
+"06","CA","California","Shasta County","County",NA,"August",2019,71500,74700,3200
+"06","CA","California","Sierra County","County",NA,"August",2019,1280,1340,60
+"06","CA","California","Siskiyou County","County",NA,"August",2019,16650,17580,940
+"06","CA","California","Solano County","County",NA,"August",2019,201200,209100,7900
+"06","CA","California","Sonoma County","County",NA,"August",2019,254600,261700,7100
+"06","CA","California","Stanislaus County","County",NA,"August",2019,229800,243900,14100
+"06","CA","California","Sutter County","County",NA,"August",2019,44200,46900,2700
+"06","CA","California","Tehama County","County",NA,"August",2019,24220,25610,1390
+"06","CA","California","Trinity County","County",NA,"August",2019,4700,4920,220
+"06","CA","California","Tulare County","County",NA,"August",2019,186500,205300,18800
+"06","CA","California","Tuolumne County","County",NA,"August",2019,20520,21420,900
+"06","CA","California","Ventura County","County",NA,"August",2019,403500,419700,16200
+"06","CA","California","Yolo County","County",NA,"August",2019,105000,109200,4100
+"06","CA","California","Yuba County","County",NA,"August",2019,28500,30200,1700
+"06","CA","California","Alameda County","County",NA,"February",2019,820500,846700,26300
+"06","CA","California","Alpine County","County",NA,"February",2019,660,690,30
+"06","CA","California","Amador County","County",NA,"February",2019,13990,14680,690
+"06","CA","California","Butte County","County",NA,"February",2019,94400,100600,6300
+"06","CA","California","Calaveras County","County",NA,"February",2019,20040,21020,980
+"06","CA","California","Colusa County","County",NA,"February",2019,8810,11060,2250
+"06","CA","California","Contra Costa County","County",NA,"February",2019,545000,563800,18800
+"06","CA","California","Del Norte County","County",NA,"February",2019,9020,9640,630
+"06","CA","California","El Dorado County","County",NA,"February",2019,88700,92500,3800
+"06","CA","California","Fresno County","County",NA,"February",2019,411200,451300,40100
+"06","CA","California","Glenn County","County",NA,"February",2019,12120,13140,1020
+"06","CA","California","Humboldt County","County",NA,"February",2019,60200,62900,2700
+"06","CA","California","Imperial County","County",NA,"February",2019,59100,71200,12100
+"06","CA","California","Inyo County","County",NA,"February",2019,8320,8710,390
+"06","CA","California","Kern County","County",NA,"February",2019,355200,391000,35800
+"06","CA","California","Kings County","County",NA,"February",2019,53000,58800,5800
+"06","CA","California","Lake County","County",NA,"February",2019,27670,29450,1780
+"06","CA","California","Lassen County","County",NA,"February",2019,9380,9980,600
+"06","CA","California","Los Angeles County","County",NA,"February",2019,4895400,5129300,233900
+"06","CA","California","Madera County","County",NA,"February",2019,58300,63500,5200
+"06","CA","California","Marin County","County",NA,"February",2019,136000,139400,3400
+"06","CA","California","Mariposa County","County",NA,"February",2019,6860,7360,500
+"06","CA","California","Mendocino County","County",NA,"February",2019,36990,38980,1990
+"06","CA","California","Merced County","County",NA,"February",2019,105300,117500,12200
+"06","CA","California","Modoc County","County",NA,"February",2019,2760,3090,330
+"06","CA","California","Mono County","County",NA,"February",2019,8650,9000,340
+"06","CA","California","Monterey County","County",NA,"February",2019,192300,214500,22200
+"06","CA","California","Napa County","County",NA,"February",2019,70600,73000,2500
+"06","CA","California","Nevada County","County",NA,"February",2019,47320,49220,1900
+"06","CA","California","Orange County","County",NA,"February",2019,1582000,1630300,48200
+"06","CA","California","Placer County","County",NA,"February",2019,181900,188300,6500
+"06","CA","California","Plumas County","County",NA,"February",2019,6640,7570,930
+"06","CA","California","Riverside County","County",NA,"February",2019,1057600,1105900,48300
+"06","CA","California","Sacramento County","County",NA,"February",2019,685100,713700,28600
+"06","CA","California","San Benito County","County",NA,"February",2019,29600,31600,2100
+"06","CA","California","San Bernardino County","County",NA,"February",2019,930400,969700,39200
+"06","CA","California","San Diego County","County",NA,"February",2019,1539900,1594500,54600
+"06","CA","California","San Francisco County","County",NA,"February",2019,566700,580500,13800
+"06","CA","California","San Joaquin County","County",NA,"February",2019,305700,328200,22500
+"06","CA","California","San Luis Obispo County","County",NA,"February",2019,136200,140700,4500
+"06","CA","California","San Mateo County","County",NA,"February",2019,447800,457900,10100
+"06","CA","California","Santa Barbara County","County",NA,"February",2019,204700,215000,10400
+"06","CA","California","Santa Clara County","County",NA,"February",2019,1026400,1054300,27900
+"06","CA","California","Santa Cruz County","County",NA,"February",2019,131600,141000,9400
+"06","CA","California","Shasta County","County",NA,"February",2019,69300,73800,4500
+"06","CA","California","Sierra County","County",NA,"February",2019,1180,1270,100
+"06","CA","California","Siskiyou County","County",NA,"February",2019,15380,16990,1620
+"06","CA","California","Solano County","County",NA,"February",2019,201000,210000,9000
+"06","CA","California","Sonoma County","County",NA,"February",2019,250400,258200,7800
+"06","CA","California","Stanislaus County","County",NA,"February",2019,225500,242600,17100
+"06","CA","California","Sutter County","County",NA,"February",2019,40600,45000,4400
+"06","CA","California","Tehama County","County",NA,"February",2019,23880,25600,1720
+"06","CA","California","Trinity County","County",NA,"February",2019,4190,4540,350
+"06","CA","California","Tulare County","County",NA,"February",2019,181100,204500,23400
+"06","CA","California","Tuolumne County","County",NA,"February",2019,20080,21260,1180
+"06","CA","California","Ventura County","County",NA,"February",2019,409300,426000,16700
+"06","CA","California","Yolo County","County",NA,"February",2019,103400,109000,5600
+"06","CA","California","Yuba County","County",NA,"February",2019,27400,29600,2200
+"06","CA","California","Alameda County","County",NA,"January",2019,814000,842900,28900
+"06","CA","California","Alpine County","County",NA,"January",2019,690,720,30
+"06","CA","California","Amador County","County",NA,"January",2019,13870,14590,720
+"06","CA","California","Butte County","County",NA,"January",2019,93200,1e+05,6900
+"06","CA","California","Calaveras County","County",NA,"January",2019,19910,20930,1020
+"06","CA","California","Colusa County","County",NA,"January",2019,8570,10680,2110
+"06","CA","California","Contra Costa County","County",NA,"January",2019,540900,561500,20600
+"06","CA","California","Del Norte County","County",NA,"January",2019,8970,9680,710
+"06","CA","California","El Dorado County","County",NA,"January",2019,88300,92300,4000
+"06","CA","California","Fresno County","County",NA,"January",2019,409500,449800,40300
+"06","CA","California","Glenn County","County",NA,"January",2019,11920,12960,1050
+"06","CA","California","Humboldt County","County",NA,"January",2019,59500,62400,2900
+"06","CA","California","Imperial County","County",NA,"January",2019,58900,72000,13200
+"06","CA","California","Inyo County","County",NA,"January",2019,8260,8690,420
+"06","CA","California","Kern County","County",NA,"January",2019,356900,392200,35300
+"06","CA","California","Kings County","County",NA,"January",2019,52500,58100,5700
+"06","CA","California","Lake County","County",NA,"January",2019,27280,29190,1920
+"06","CA","California","Lassen County","County",NA,"January",2019,9370,9960,600
+"06","CA","California","Los Angeles County","County",NA,"January",2019,4837100,5094200,257000
+"06","CA","California","Madera County","County",NA,"January",2019,57700,63100,5400
+"06","CA","California","Marin County","County",NA,"January",2019,135400,139200,3800
+"06","CA","California","Mariposa County","County",NA,"January",2019,6660,7170,510
+"06","CA","California","Mendocino County","County",NA,"January",2019,36810,38860,2050
+"06","CA","California","Merced County","County",NA,"January",2019,104500,116200,11700
+"06","CA","California","Modoc County","County",NA,"January",2019,2720,3070,350
+"06","CA","California","Mono County","County",NA,"January",2019,8780,9140,360
+"06","CA","California","Monterey County","County",NA,"January",2019,189400,210700,21300
+"06","CA","California","Napa County","County",NA,"January",2019,68600,71400,2900
+"06","CA","California","Nevada County","County",NA,"January",2019,47370,49380,2010
+"06","CA","California","Orange County","County",NA,"January",2019,1569600,1622800,53200
+"06","CA","California","Placer County","County",NA,"January",2019,181000,188000,7000
+"06","CA","California","Plumas County","County",NA,"January",2019,6670,7540,870
+"06","CA","California","Riverside County","County",NA,"January",2019,1055200,1107800,52600
+"06","CA","California","Sacramento County","County",NA,"January",2019,681500,712600,31100
+"06","CA","California","San Benito County","County",NA,"January",2019,29400,31400,2000
+"06","CA","California","San Bernardino County","County",NA,"January",2019,927700,970500,42900
+"06","CA","California","San Diego County","County",NA,"January",2019,1531400,1592100,60700
+"06","CA","California","San Francisco County","County",NA,"January",2019,560900,576000,15100
+"06","CA","California","San Joaquin County","County",NA,"January",2019,303400,326800,23400
+"06","CA","California","San Luis Obispo County","County",NA,"January",2019,135400,140300,4900
+"06","CA","California","San Mateo County","County",NA,"January",2019,443400,454600,11200
+"06","CA","California","Santa Barbara County","County",NA,"January",2019,201800,213000,11200
+"06","CA","California","Santa Clara County","County",NA,"January",2019,1018500,1049000,30500
+"06","CA","California","Santa Cruz County","County",NA,"January",2019,129500,138600,9100
+"06","CA","California","Shasta County","County",NA,"January",2019,70100,74700,4600
+"06","CA","California","Sierra County","County",NA,"January",2019,1160,1260,90
+"06","CA","California","Siskiyou County","County",NA,"January",2019,15470,17030,1570
+"06","CA","California","Solano County","County",NA,"January",2019,199800,209600,9800
+"06","CA","California","Sonoma County","County",NA,"January",2019,248700,257400,8600
+"06","CA","California","Stanislaus County","County",NA,"January",2019,224300,242200,17800
+"06","CA","California","Sutter County","County",NA,"January",2019,40200,44600,4400
+"06","CA","California","Tehama County","County",NA,"January",2019,23770,25590,1810
+"06","CA","California","Trinity County","County",NA,"January",2019,4230,4570,340
+"06","CA","California","Tulare County","County",NA,"January",2019,181000,204300,23300
+"06","CA","California","Tuolumne County","County",NA,"January",2019,19910,21110,1200
+"06","CA","California","Ventura County","County",NA,"January",2019,404900,423400,18600
+"06","CA","California","Yolo County","County",NA,"January",2019,102800,108600,5900
+"06","CA","California","Yuba County","County",NA,"January",2019,27300,29600,2300
+"06","CA","California","Alameda County","County",NA,"July",2019,821200,849100,28000
+"06","CA","California","Alpine County","County",NA,"July",2019,450,480,40
+"06","CA","California","Amador County","County",NA,"July",2019,14430,15030,600
+"06","CA","California","Butte County","County",NA,"July",2019,92400,97800,5500
+"06","CA","California","Calaveras County","County",NA,"July",2019,21000,21840,840
+"06","CA","California","Colusa County","County",NA,"July",2019,9890,11010,1120
+"06","CA","California","Contra Costa County","County",NA,"July",2019,545600,564900,19300
+"06","CA","California","Del Norte County","County",NA,"July",2019,9090,9660,570
+"06","CA","California","El Dorado County","County",NA,"July",2019,88800,92300,3400
+"06","CA","California","Fresno County","County",NA,"July",2019,419000,451700,32700
+"06","CA","California","Glenn County","County",NA,"July",2019,12040,12870,830
+"06","CA","California","Humboldt County","County",NA,"July",2019,58900,61400,2500
+"06","CA","California","Imperial County","County",NA,"July",2019,56100,70200,14200
+"06","CA","California","Inyo County","County",NA,"July",2019,8630,8950,320
+"06","CA","California","Kern County","County",NA,"July",2019,351600,384100,32500
+"06","CA","California","Kings County","County",NA,"July",2019,53400,57900,4500
+"06","CA","California","Lake County","County",NA,"July",2019,27380,28850,1470
+"06","CA","California","Lassen County","County",NA,"July",2019,9230,9690,460
+"06","CA","California","Los Angeles County","County",NA,"July",2019,4874200,5130200,256000
+"06","CA","California","Madera County","County",NA,"July",2019,56600,61000,4400
+"06","CA","California","Marin County","County",NA,"July",2019,137800,141400,3600
+"06","CA","California","Mariposa County","County",NA,"July",2019,7810,8130,320
+"06","CA","California","Mendocino County","County",NA,"July",2019,37570,39120,1550
+"06","CA","California","Merced County","County",NA,"July",2019,103400,112800,9400
+"06","CA","California","Modoc County","County",NA,"July",2019,3080,3280,200
+"06","CA","California","Mono County","County",NA,"July",2019,8350,8680,330
+"06","CA","California","Monterey County","County",NA,"July",2019,220500,231400,10900
+"06","CA","California","Napa County","County",NA,"July",2019,73700,75900,2200
+"06","CA","California","Nevada County","County",NA,"July",2019,46740,48450,1720
+"06","CA","California","Orange County","County",NA,"July",2019,1575800,1626500,50700
+"06","CA","California","Placer County","County",NA,"July",2019,182100,188500,6400
+"06","CA","California","Plumas County","County",NA,"July",2019,7990,8510,520
+"06","CA","California","Riverside County","County",NA,"July",2019,1053700,1105800,52100
+"06","CA","California","Sacramento County","County",NA,"July",2019,686500,715500,29100
+"06","CA","California","San Benito County","County",NA,"July",2019,30200,31700,1600
+"06","CA","California","San Bernardino County","County",NA,"July",2019,925900,968600,42700
+"06","CA","California","San Diego County","County",NA,"July",2019,1539100,1595800,56800
+"06","CA","California","San Francisco County","County",NA,"July",2019,573600,587800,14200
+"06","CA","California","San Joaquin County","County",NA,"July",2019,307600,327800,20200
+"06","CA","California","San Luis Obispo County","County",NA,"July",2019,135800,140300,4500
+"06","CA","California","San Mateo County","County",NA,"July",2019,453100,463700,10600
+"06","CA","California","Santa Barbara County","County",NA,"July",2019,212300,220300,8000
+"06","CA","California","Santa Clara County","County",NA,"July",2019,1031800,1061100,29300
+"06","CA","California","Santa Cruz County","County",NA,"July",2019,138100,144400,6200
+"06","CA","California","Shasta County","County",NA,"July",2019,70300,73800,3500
+"06","CA","California","Sierra County","County",NA,"July",2019,1320,1390,70
+"06","CA","California","Siskiyou County","County",NA,"July",2019,16860,17890,1030
+"06","CA","California","Solano County","County",NA,"July",2019,201300,209800,8600
+"06","CA","California","Sonoma County","County",NA,"July",2019,253200,260900,7700
+"06","CA","California","Stanislaus County","County",NA,"July",2019,228600,244400,15800
+"06","CA","California","Sutter County","County",NA,"July",2019,43300,46500,3200
+"06","CA","California","Tehama County","County",NA,"July",2019,24000,25530,1520
+"06","CA","California","Trinity County","County",NA,"July",2019,4640,4880,240
+"06","CA","California","Tulare County","County",NA,"July",2019,181900,202000,20100
+"06","CA","California","Tuolumne County","County",NA,"July",2019,20570,21550,980
+"06","CA","California","Ventura County","County",NA,"July",2019,406600,422900,16400
+"06","CA","California","Yolo County","County",NA,"July",2019,105000,109600,4600
+"06","CA","California","Yuba County","County",NA,"July",2019,27900,29800,1800
+"06","CA","California","Alameda County","County",NA,"June",2019,814700,840800,26000
+"06","CA","California","Alpine County","County",NA,"June",2019,450,480,30
+"06","CA","California","Amador County","County",NA,"June",2019,14420,14980,560
+"06","CA","California","Butte County","County",NA,"June",2019,92300,97500,5200
+"06","CA","California","Calaveras County","County",NA,"June",2019,20600,21400,810
+"06","CA","California","Colusa County","County",NA,"June",2019,9840,11020,1180
+"06","CA","California","Contra Costa County","County",NA,"June",2019,541000,559000,18000
+"06","CA","California","Del Norte County","County",NA,"June",2019,9210,9730,520
+"06","CA","California","El Dorado County","County",NA,"June",2019,88200,91500,3300
+"06","CA","California","Fresno County","County",NA,"June",2019,420000,451800,31700
+"06","CA","California","Glenn County","County",NA,"June",2019,12040,12840,800
+"06","CA","California","Humboldt County","County",NA,"June",2019,60100,62300,2300
+"06","CA","California","Imperial County","County",NA,"June",2019,58800,71800,13100
+"06","CA","California","Inyo County","County",NA,"June",2019,8500,8810,310
+"06","CA","California","Kern County","County",NA,"June",2019,359900,391000,31100
+"06","CA","California","Kings County","County",NA,"June",2019,52700,57200,4500
+"06","CA","California","Lake County","County",NA,"June",2019,27990,29420,1420
+"06","CA","California","Lassen County","County",NA,"June",2019,9190,9630,450
+"06","CA","California","Los Angeles County","County",NA,"June",2019,4851400,5079100,227700
+"06","CA","California","Madera County","County",NA,"June",2019,58000,62300,4300
+"06","CA","California","Marin County","County",NA,"June",2019,135900,139200,3400
+"06","CA","California","Mariposa County","County",NA,"June",2019,7520,7830,320
+"06","CA","California","Mendocino County","County",NA,"June",2019,37600,39060,1470
+"06","CA","California","Merced County","County",NA,"June",2019,105900,115200,9300
+"06","CA","California","Modoc County","County",NA,"June",2019,3170,3360,190
+"06","CA","California","Mono County","County",NA,"June",2019,7910,8240,330
+"06","CA","California","Monterey County","County",NA,"June",2019,220700,231700,11000
+"06","CA","California","Napa County","County",NA,"June",2019,73000,75100,2100
+"06","CA","California","Nevada County","County",NA,"June",2019,46670,48290,1620
+"06","CA","California","Orange County","County",NA,"June",2019,1566400,1613700,47300
+"06","CA","California","Placer County","County",NA,"June",2019,181000,187000,6000
+"06","CA","California","Plumas County","County",NA,"June",2019,7800,8310,510
+"06","CA","California","Riverside County","County",NA,"June",2019,1048200,1096000,47800
+"06","CA","California","Sacramento County","County",NA,"June",2019,682600,709900,27200
+"06","CA","California","San Benito County","County",NA,"June",2019,29800,31300,1500
+"06","CA","California","San Bernardino County","County",NA,"June",2019,920500,959900,39400
+"06","CA","California","San Diego County","County",NA,"June",2019,1529800,1582700,52900
+"06","CA","California","San Francisco County","County",NA,"June",2019,565400,578900,13500
+"06","CA","California","San Joaquin County","County",NA,"June",2019,308200,327200,19000
+"06","CA","California","San Luis Obispo County","County",NA,"June",2019,137900,142100,4200
+"06","CA","California","San Mateo County","County",NA,"June",2019,446500,456400,9900
+"06","CA","California","Santa Barbara County","County",NA,"June",2019,213500,221000,7500
+"06","CA","California","Santa Clara County","County",NA,"June",2019,1022100,1049800,27600
+"06","CA","California","Santa Cruz County","County",NA,"June",2019,138800,144900,6100
+"06","CA","California","Shasta County","County",NA,"June",2019,71000,74400,3400
+"06","CA","California","Sierra County","County",NA,"June",2019,1290,1360,70
+"06","CA","California","Siskiyou County","County",NA,"June",2019,16500,17510,1000
+"06","CA","California","Solano County","County",NA,"June",2019,201000,209100,8100
+"06","CA","California","Sonoma County","County",NA,"June",2019,249800,257000,7200
+"06","CA","California","Stanislaus County","County",NA,"June",2019,227400,242800,15400
+"06","CA","California","Sutter County","County",NA,"June",2019,42900,46200,3200
+"06","CA","California","Tehama County","County",NA,"June",2019,24240,25680,1440
+"06","CA","California","Trinity County","County",NA,"June",2019,4730,4970,240
+"06","CA","California","Tulare County","County",NA,"June",2019,187000,205900,18800
+"06","CA","California","Tuolumne County","County",NA,"June",2019,20390,21320,940
+"06","CA","California","Ventura County","County",NA,"June",2019,406200,421400,15200
+"06","CA","California","Yolo County","County",NA,"June",2019,104200,108500,4300
+"06","CA","California","Yuba County","County",NA,"June",2019,28000,29700,1800
+"06","CA","California","Alameda County","County",NA,"March",2019,819500,846100,26600
+"06","CA","California","Alpine County","County",NA,"March",2019,640,670,30
+"06","CA","California","Amador County","County",NA,"March",2019,14060,14740,680
+"06","CA","California","Butte County","County",NA,"March",2019,94300,100400,6200
+"06","CA","California","Calaveras County","County",NA,"March",2019,20120,21090,970
+"06","CA","California","Colusa County","County",NA,"March",2019,8800,11010,2210
+"06","CA","California","Contra Costa County","County",NA,"March",2019,544400,563300,18900
+"06","CA","California","Del Norte County","County",NA,"March",2019,9060,9650,600
+"06","CA","California","El Dorado County","County",NA,"March",2019,88600,92400,3800
+"06","CA","California","Fresno County","County",NA,"March",2019,410200,450500,40300
+"06","CA","California","Glenn County","County",NA,"March",2019,12050,13050,1000
+"06","CA","California","Humboldt County","County",NA,"March",2019,60400,63000,2600
+"06","CA","California","Imperial County","County",NA,"March",2019,59300,71000,11700
+"06","CA","California","Inyo County","County",NA,"March",2019,8310,8700,390
+"06","CA","California","Kern County","County",NA,"March",2019,346600,383200,36700
+"06","CA","California","Kings County","County",NA,"March",2019,52500,58200,5700
+"06","CA","California","Lake County","County",NA,"March",2019,27510,29240,1730
+"06","CA","California","Lassen County","County",NA,"March",2019,9230,9830,600
+"06","CA","California","Los Angeles County","County",NA,"March",2019,4886800,5116400,229600
+"06","CA","California","Madera County","County",NA,"March",2019,56600,61900,5300
+"06","CA","California","Marin County","County",NA,"March",2019,136000,139600,3500
+"06","CA","California","Mariposa County","County",NA,"March",2019,6930,7400,470
+"06","CA","California","Mendocino County","County",NA,"March",2019,37210,39150,1940
+"06","CA","California","Merced County","County",NA,"March",2019,105600,117700,12100
+"06","CA","California","Modoc County","County",NA,"March",2019,2750,3070,320
+"06","CA","California","Mono County","County",NA,"March",2019,8590,8930,340
+"06","CA","California","Monterey County","County",NA,"March",2019,194300,215500,21200
+"06","CA","California","Napa County","County",NA,"March",2019,70900,73300,2400
+"06","CA","California","Nevada County","County",NA,"March",2019,47230,49120,1890
+"06","CA","California","Orange County","County",NA,"March",2019,1576400,1625500,49100
+"06","CA","California","Placer County","County",NA,"March",2019,181700,188200,6600
+"06","CA","California","Plumas County","County",NA,"March",2019,6620,7540,920
+"06","CA","California","Riverside County","County",NA,"March",2019,1056700,1105000,48300
+"06","CA","California","Sacramento County","County",NA,"March",2019,684400,713200,28800
+"06","CA","California","San Benito County","County",NA,"March",2019,29600,31600,2000
+"06","CA","California","San Bernardino County","County",NA,"March",2019,929200,968600,39400
+"06","CA","California","San Diego County","County",NA,"March",2019,1535200,1590200,55000
+"06","CA","California","San Francisco County","County",NA,"March",2019,566200,580300,14100
+"06","CA","California","San Joaquin County","County",NA,"March",2019,304700,327100,22300
+"06","CA","California","San Luis Obispo County","County",NA,"March",2019,137100,141500,4400
+"06","CA","California","San Mateo County","County",NA,"March",2019,447400,457700,10300
+"06","CA","California","Santa Barbara County","County",NA,"March",2019,206400,216500,10100
+"06","CA","California","Santa Clara County","County",NA,"March",2019,1025100,1053600,28500
+"06","CA","California","Santa Cruz County","County",NA,"March",2019,131900,141300,9300
+"06","CA","California","Shasta County","County",NA,"March",2019,70200,74400,4300
+"06","CA","California","Sierra County","County",NA,"March",2019,1190,1290,100
+"06","CA","California","Siskiyou County","County",NA,"March",2019,15360,16930,1570
+"06","CA","California","Solano County","County",NA,"March",2019,200500,209500,8900
+"06","CA","California","Sonoma County","County",NA,"March",2019,250300,258200,7900
+"06","CA","California","Stanislaus County","County",NA,"March",2019,226700,243900,17100
+"06","CA","California","Sutter County","County",NA,"March",2019,40800,45300,4500
+"06","CA","California","Tehama County","County",NA,"March",2019,23740,25460,1720
+"06","CA","California","Trinity County","County",NA,"March",2019,4190,4540,360
+"06","CA","California","Tulare County","County",NA,"March",2019,178800,202600,23800
+"06","CA","California","Tuolumne County","County",NA,"March",2019,20120,21310,1190
+"06","CA","California","Ventura County","County",NA,"March",2019,409100,425400,16200
+"06","CA","California","Yolo County","County",NA,"March",2019,103400,108900,5500
+"06","CA","California","Yuba County","County",NA,"March",2019,27600,29800,2200
+"06","CA","California","Alameda County","County",NA,"May",2019,815600,837300,21700
+"06","CA","California","Alpine County","County",NA,"May",2019,440,470,30
+"06","CA","California","Amador County","County",NA,"May",2019,14400,14890,490
+"06","CA","California","Butte County","County",NA,"May",2019,94700,99100,4400
+"06","CA","California","Calaveras County","County",NA,"May",2019,20450,21150,700
+"06","CA","California","Colusa County","County",NA,"May",2019,10070,11240,1160
+"06","CA","California","Contra Costa County","County",NA,"May",2019,541600,556600,15000
+"06","CA","California","Del Norte County","County",NA,"May",2019,9110,9590,480
+"06","CA","California","El Dorado County","County",NA,"May",2019,88200,91100,2800
+"06","CA","California","Fresno County","County",NA,"May",2019,422800,452000,29300
+"06","CA","California","Glenn County","County",NA,"May",2019,12110,12840,730
+"06","CA","California","Humboldt County","County",NA,"May",2019,60600,62500,1900
+"06","CA","California","Imperial County","County",NA,"May",2019,58800,70500,11600
+"06","CA","California","Inyo County","County",NA,"May",2019,8410,8670,260
+"06","CA","California","Kern County","County",NA,"May",2019,358200,386500,28200
+"06","CA","California","Kings County","County",NA,"May",2019,54000,58000,4000
+"06","CA","California","Lake County","County",NA,"May",2019,27980,29220,1240
+"06","CA","California","Lassen County","County",NA,"May",2019,9250,9650,400
+"06","CA","California","Los Angeles County","County",NA,"May",2019,4866700,5074600,207900
+"06","CA","California","Madera County","County",NA,"May",2019,58400,62300,3900
+"06","CA","California","Marin County","County",NA,"May",2019,135600,138300,2700
+"06","CA","California","Mariposa County","County",NA,"May",2019,7430,7710,290
+"06","CA","California","Mendocino County","County",NA,"May",2019,37600,38880,1280
+"06","CA","California","Merced County","County",NA,"May",2019,108800,117200,8500
+"06","CA","California","Modoc County","County",NA,"May",2019,3040,3220,180
+"06","CA","California","Mono County","County",NA,"May",2019,7690,7970,280
+"06","CA","California","Monterey County","County",NA,"May",2019,218300,229300,11100
+"06","CA","California","Napa County","County",NA,"May",2019,72500,74300,1700
+"06","CA","California","Nevada County","County",NA,"May",2019,46370,47800,1430
+"06","CA","California","Orange County","County",NA,"May",2019,1572300,1611400,39100
+"06","CA","California","Placer County","County",NA,"May",2019,181000,186200,5100
+"06","CA","California","Plumas County","County",NA,"May",2019,7510,8020,510
+"06","CA","California","Riverside County","County",NA,"May",2019,1050100,1089500,39500
+"06","CA","California","Sacramento County","County",NA,"May",2019,682600,705600,23000
+"06","CA","California","San Benito County","County",NA,"May",2019,29700,31100,1400
+"06","CA","California","San Bernardino County","County",NA,"May",2019,923300,955700,32500
+"06","CA","California","San Diego County","County",NA,"May",2019,1532000,1576200,44200
+"06","CA","California","San Francisco County","County",NA,"May",2019,564400,575500,11200
+"06","CA","California","San Joaquin County","County",NA,"May",2019,310800,327700,16900
+"06","CA","California","San Luis Obispo County","County",NA,"May",2019,138400,141800,3500
+"06","CA","California","San Mateo County","County",NA,"May",2019,445800,453900,8100
+"06","CA","California","Santa Barbara County","County",NA,"May",2019,212700,219200,6400
+"06","CA","California","Santa Clara County","County",NA,"May",2019,1020700,1043400,22700
+"06","CA","California","Santa Cruz County","County",NA,"May",2019,136400,142100,5800
+"06","CA","California","Shasta County","County",NA,"May",2019,70900,73900,3000
+"06","CA","California","Sierra County","County",NA,"May",2019,1270,1340,60
+"06","CA","California","Siskiyou County","County",NA,"May",2019,16080,17010,930
+"06","CA","California","Solano County","County",NA,"May",2019,201300,208200,6900
+"06","CA","California","Sonoma County","County",NA,"May",2019,250500,256500,6000
+"06","CA","California","Stanislaus County","County",NA,"May",2019,229100,242700,13600
+"06","CA","California","Sutter County","County",NA,"May",2019,42300,45300,3100
+"06","CA","California","Tehama County","County",NA,"May",2019,24080,25360,1280
+"06","CA","California","Trinity County","County",NA,"May",2019,4560,4780,220
+"06","CA","California","Tulare County","County",NA,"May",2019,188500,205800,17300
+"06","CA","California","Tuolumne County","County",NA,"May",2019,20250,21080,830
+"06","CA","California","Ventura County","County",NA,"May",2019,409500,422200,12700
+"06","CA","California","Yolo County","County",NA,"May",2019,104000,107700,3700
+"06","CA","California","Yuba County","County",NA,"May",2019,27800,29400,1600
+"06","CA","California","Alameda County","County",NA,"May",2020,693700,801700,108000
+"06","CA","California","Alpine County","County",NA,"May",2020,380,480,110
+"06","CA","California","Amador County","County",NA,"May",2020,11910,14030,2120
+"06","CA","California","Butte County","County",NA,"May",2020,78200,90400,12200
+"06","CA","California","Calaveras County","County",NA,"May",2020,17580,19970,2390
+"06","CA","California","Colusa County","County",NA,"May",2020,8060,10220,2160
+"06","CA","California","Contra Costa County","County",NA,"May",2020,460400,532900,72500
+"06","CA","California","Del Norte County","County",NA,"May",2020,7980,9170,1190
+"06","CA","California","El Dorado County","County",NA,"May",2020,77000,90600,13600
+"06","CA","California","Fresno County","County",NA,"May",2020,375300,445000,69700
+"06","CA","California","Glenn County","County",NA,"May",2020,9550,11060,1510
+"06","CA","California","Humboldt County","County",NA,"May",2020,53600,60700,7200
+"06","CA","California","Imperial County","County",NA,"May",2020,51700,71700,19900
+"06","CA","California","Inyo County","County",NA,"May",2020,6950,7910,970
+"06","CA","California","Kern County","County",NA,"May",2020,301100,368400,67300
+"06","CA","California","Kings County","County",NA,"May",2020,47200,56200,9000
+"06","CA","California","Lake County","County",NA,"May",2020,21510,25420,3910
+"06","CA","California","Lassen County","County",NA,"May",2020,7980,8870,890
+"06","CA","California","Los Angeles County","County",NA,"May",2020,3737600,4707700,970100
+"06","CA","California","Madera County","County",NA,"May",2020,52800,62200,9500
+"06","CA","California","Marin County","County",NA,"May",2020,113900,127000,13100
+"06","CA","California","Mariposa County","County",NA,"May",2020,6380,7740,1360
+"06","CA","California","Mendocino County","County",NA,"May",2020,31530,36330,4810
+"06","CA","California","Merced County","County",NA,"May",2020,95000,113800,18800
+"06","CA","California","Modoc County","County",NA,"May",2020,2680,3020,330
+"06","CA","California","Mono County","County",NA,"May",2020,4480,6300,1820
+"06","CA","California","Monterey County","County",NA,"May",2020,164700,198100,33300
+"06","CA","California","Napa County","County",NA,"May",2020,61800,72100,10400
+"06","CA","California","Nevada County","County",NA,"May",2020,33940,39560,5620
+"06","CA","California","Orange County","County",NA,"May",2020,1324500,1548900,224500
+"06","CA","California","Placer County","County",NA,"May",2020,158200,180600,22400
+"06","CA","California","Plumas County","County",NA,"May",2020,5320,6400,1080
+"06","CA","California","Riverside County","County",NA,"May",2020,917200,1089100,171900
+"06","CA","California","Sacramento County","County",NA,"May",2020,596900,695100,98300
+"06","CA","California","San Benito County","County",NA,"May",2020,26200,31000,4800
+"06","CA","California","San Bernardino County","County",NA,"May",2020,807100,937200,130100
+"06","CA","California","San Diego County","County",NA,"May",2020,1319500,1552400,232900
+"06","CA","California","San Francisco County","County",NA,"May",2020,481500,550900,69400
+"06","CA","California","San Joaquin County","County",NA,"May",2020,267500,320800,53300
+"06","CA","California","San Luis Obispo County","County",NA,"May",2020,112700,129100,16400
+"06","CA","California","San Mateo County","County",NA,"May",2020,380200,427400,47200
+"06","CA","California","Santa Barbara County","County",NA,"May",2020,181600,208600,26900
+"06","CA","California","Santa Clara County","County",NA,"May",2020,898600,1010000,111500
+"06","CA","California","Santa Cruz County","County",NA,"May",2020,111600,130300,18800
+"06","CA","California","Shasta County","County",NA,"May",2020,61100,70300,9200
+"06","CA","California","Sierra County","County",NA,"May",2020,1000,1140,140
+"06","CA","California","Siskiyou County","County",NA,"May",2020,13680,15810,2130
+"06","CA","California","Solano County","County",NA,"May",2020,171300,199800,28400
+"06","CA","California","Sonoma County","County",NA,"May",2020,215200,246700,31400
+"06","CA","California","Stanislaus County","County",NA,"May",2020,195700,233300,37500
+"06","CA","California","Sutter County","County",NA,"May",2020,36800,43800,7000
+"06","CA","California","Tehama County","County",NA,"May",2020,21290,24370,3080
+"06","CA","California","Trinity County","County",NA,"May",2020,3820,4280,460
+"06","CA","California","Tulare County","County",NA,"May",2020,156600,191900,35300
+"06","CA","California","Tuolumne County","County",NA,"May",2020,17360,20790,3430
+"06","CA","California","Ventura County","County",NA,"May",2020,351800,406800,55000
+"06","CA","California","Yolo County","County",NA,"May",2020,90800,101500,10700
+"06","CA","California","Yuba County","County",NA,"May",2020,24700,29000,4400
+"06","CA","California","Alameda County","County",NA,"November",2019,824200,847000,22800
+"06","CA","California","Alpine County","County",NA,"November",2019,480,500,30
+"06","CA","California","Amador County","County",NA,"November",2019,14420,14940,510
+"06","CA","California","Butte County","County",NA,"November",2019,95100,99300,4200
+"06","CA","California","Calaveras County","County",NA,"November",2019,20880,21600,720
+"06","CA","California","Colusa County","County",NA,"November",2019,9460,10590,1130
+"06","CA","California","Contra Costa County","County",NA,"November",2019,547600,563400,15800
+"06","CA","California","Del Norte County","County",NA,"November",2019,9080,9610,530
+"06","CA","California","El Dorado County","County",NA,"November",2019,89500,92400,2900
+"06","CA","California","Fresno County","County",NA,"November",2019,418500,448400,29900
+"06","CA","California","Glenn County","County",NA,"November",2019,12330,12950,620
+"06","CA","California","Humboldt County","County",NA,"November",2019,61100,63100,2000
+"06","CA","California","Imperial County","County",NA,"November",2019,58900,72400,13500
+"06","CA","California","Inyo County","County",NA,"November",2019,8500,8770,270
+"06","CA","California","Kern County","County",NA,"November",2019,369900,395100,25200
+"06","CA","California","Kings County","County",NA,"November",2019,53200,57400,4200
+"06","CA","California","Lake County","County",NA,"November",2019,27420,28790,1380
+"06","CA","California","Lassen County","County",NA,"November",2019,9960,10320,360
+"06","CA","California","Los Angeles County","County",NA,"November",2019,4963400,5177100,213700
+"06","CA","California","Madera County","County",NA,"November",2019,56900,60700,3800
+"06","CA","California","Marin County","County",NA,"November",2019,138100,141000,2900
+"06","CA","California","Mariposa County","County",NA,"November",2019,7020,7320,300
+"06","CA","California","Mendocino County","County",NA,"November",2019,37220,38560,1340
+"06","CA","California","Merced County","County",NA,"November",2019,107700,115500,7700
+"06","CA","California","Modoc County","County",NA,"November",2019,2930,3110,180
+"06","CA","California","Mono County","County",NA,"November",2019,7600,7920,310
+"06","CA","California","Monterey County","County",NA,"November",2019,209200,219400,10300
+"06","CA","California","Napa County","County",NA,"November",2019,71700,73600,1900
+"06","CA","California","Nevada County","County",NA,"November",2019,47040,48470,1430
+"06","CA","California","Orange County","County",NA,"November",2019,1588300,1630100,41800
+"06","CA","California","Placer County","County",NA,"November",2019,183600,188800,5300
+"06","CA","California","Plumas County","County",NA,"November",2019,7110,7580,460
+"06","CA","California","Riverside County","County",NA,"November",2019,1073100,1116200,43100
+"06","CA","California","Sacramento County","County",NA,"November",2019,691600,715300,23700
+"06","CA","California","San Benito County","County",NA,"November",2019,30000,31400,1400
+"06","CA","California","San Bernardino County","County",NA,"November",2019,944700,978900,34200
+"06","CA","California","San Diego County","County",NA,"November",2019,1553400,1600100,46700
+"06","CA","California","San Francisco County","County",NA,"November",2019,578100,589800,11700
+"06","CA","California","San Joaquin County","County",NA,"November",2019,308100,325700,17600
+"06","CA","California","San Luis Obispo County","County",NA,"November",2019,138400,142000,3600
+"06","CA","California","San Mateo County","County",NA,"November",2019,456700,465500,8700
+"06","CA","California","Santa Barbara County","County",NA,"November",2019,211500,218500,7000
+"06","CA","California","Santa Clara County","County",NA,"November",2019,1034700,1059200,24500
+"06","CA","California","Santa Cruz County","County",NA,"November",2019,136100,141800,5700
+"06","CA","California","Shasta County","County",NA,"November",2019,71700,74700,3000
+"06","CA","California","Sierra County","County",NA,"November",2019,1280,1330,50
+"06","CA","California","Siskiyou County","County",NA,"November",2019,16240,17110,870
+"06","CA","California","Solano County","County",NA,"November",2019,203400,210400,7000
+"06","CA","California","Sonoma County","County",NA,"November",2019,254300,260600,6300
+"06","CA","California","Stanislaus County","County",NA,"November",2019,231100,243900,12900
+"06","CA","California","Sutter County","County",NA,"November",2019,43300,46100,2800
+"06","CA","California","Tehama County","County",NA,"November",2019,24640,25800,1170
+"06","CA","California","Trinity County","County",NA,"November",2019,4330,4560,230
+"06","CA","California","Tulare County","County",NA,"November",2019,185800,203400,17600
+"06","CA","California","Tuolumne County","County",NA,"November",2019,20670,21480,810
+"06","CA","California","Ventura County","County",NA,"November",2019,411300,426000,14700
+"06","CA","California","Yolo County","County",NA,"November",2019,104500,108500,4000
+"06","CA","California","Yuba County","County",NA,"November",2019,29100,30700,1600
+"06","CA","California","Alameda County","County",NA,"October",2019,824900,848300,23500
+"06","CA","California","Alpine County","County",NA,"October",2019,430,460,20
+"06","CA","California","Amador County","County",NA,"October",2019,14600,15110,510
+"06","CA","California","Butte County","County",NA,"October",2019,96500,100700,4200
+"06","CA","California","Calaveras County","County",NA,"October",2019,20980,21710,720
+"06","CA","California","Colusa County","County",NA,"October",2019,10070,10920,850
+"06","CA","California","Contra Costa County","County",NA,"October",2019,548100,564300,16200
+"06","CA","California","Del Norte County","County",NA,"October",2019,9260,9780,520
+"06","CA","California","El Dorado County","County",NA,"October",2019,89400,92300,2900
+"06","CA","California","Fresno County","County",NA,"October",2019,421300,448800,27400
+"06","CA","California","Glenn County","County",NA,"October",2019,12720,13320,600
+"06","CA","California","Humboldt County","County",NA,"October",2019,61100,63100,2000
+"06","CA","California","Imperial County","County",NA,"October",2019,58400,72600,14200
+"06","CA","California","Inyo County","County",NA,"October",2019,8560,8810,260
+"06","CA","California","Kern County","County",NA,"October",2019,374300,399400,25100
+"06","CA","California","Kings County","County",NA,"October",2019,53800,57600,3800
+"06","CA","California","Lake County","County",NA,"October",2019,27710,29000,1290
+"06","CA","California","Lassen County","County",NA,"October",2019,10210,10560,350
+"06","CA","California","Los Angeles County","County",NA,"October",2019,4936200,5157900,221700
+"06","CA","California","Madera County","County",NA,"October",2019,58100,61500,3500
+"06","CA","California","Marin County","County",NA,"October",2019,138100,141100,3000
+"06","CA","California","Mariposa County","County",NA,"October",2019,7480,7760,280
+"06","CA","California","Mendocino County","County",NA,"October",2019,37830,39100,1270
+"06","CA","California","Merced County","County",NA,"October",2019,111400,118500,7100
+"06","CA","California","Modoc County","County",NA,"October",2019,3100,3250,150
+"06","CA","California","Mono County","County",NA,"October",2019,7650,7970,320
+"06","CA","California","Monterey County","County",NA,"October",2019,216200,225000,8800
+"06","CA","California","Napa County","County",NA,"October",2019,73700,75600,1800
+"06","CA","California","Nevada County","County",NA,"October",2019,46960,48420,1450
+"06","CA","California","Orange County","County",NA,"October",2019,1589000,1632000,43000
+"06","CA","California","Placer County","County",NA,"October",2019,183300,188700,5400
+"06","CA","California","Plumas County","County",NA,"October",2019,7580,7980,400
+"06","CA","California","Riverside County","County",NA,"October",2019,1065300,1110800,45500
+"06","CA","California","Sacramento County","County",NA,"October",2019,690800,715000,24200
+"06","CA","California","San Benito County","County",NA,"October",2019,30200,31600,1300
+"06","CA","California","San Bernardino County","County",NA,"October",2019,938100,973300,35200
+"06","CA","California","San Diego County","County",NA,"October",2019,1550800,1598700,47900
+"06","CA","California","San Francisco County","County",NA,"October",2019,577700,589800,12100
+"06","CA","California","San Joaquin County","County",NA,"October",2019,311000,328000,17000
+"06","CA","California","San Luis Obispo County","County",NA,"October",2019,138700,142400,3600
+"06","CA","California","San Mateo County","County",NA,"October",2019,456400,465300,8900
+"06","CA","California","Santa Barbara County","County",NA,"October",2019,213500,220300,6900
+"06","CA","California","Santa Clara County","County",NA,"October",2019,1034000,1059100,25000
+"06","CA","California","Santa Cruz County","County",NA,"October",2019,138700,143700,5000
+"06","CA","California","Shasta County","County",NA,"October",2019,72500,75400,3000
+"06","CA","California","Sierra County","County",NA,"October",2019,1320,1370,60
+"06","CA","California","Siskiyou County","County",NA,"October",2019,16660,17480,820
+"06","CA","California","Solano County","County",NA,"October",2019,203800,210900,7100
+"06","CA","California","Sonoma County","County",NA,"October",2019,257000,263300,6300
+"06","CA","California","Stanislaus County","County",NA,"October",2019,232500,244800,12400
+"06","CA","California","Sutter County","County",NA,"October",2019,43800,46300,2500
+"06","CA","California","Tehama County","County",NA,"October",2019,25250,26430,1190
+"06","CA","California","Trinity County","County",NA,"October",2019,4480,4690,210
+"06","CA","California","Tulare County","County",NA,"October",2019,185300,202200,17000
+"06","CA","California","Tuolumne County","County",NA,"October",2019,20510,21330,810
+"06","CA","California","Ventura County","County",NA,"October",2019,410800,425300,14500
+"06","CA","California","Yolo County","County",NA,"October",2019,105100,108700,3700
+"06","CA","California","Yuba County","County",NA,"October",2019,29100,30600,1500
+"06","CA","California","Alameda County","County",NA,"September",2019,824500,846900,22400
+"06","CA","California","Alpine County","County",NA,"September",2019,440,460,20
+"06","CA","California","Amador County","County",NA,"September",2019,14620,15090,470
+"06","CA","California","Butte County","County",NA,"September",2019,95700,99700,4000
+"06","CA","California","Calaveras County","County",NA,"September",2019,21060,21730,670
+"06","CA","California","Colusa County","County",NA,"September",2019,10360,11120,760
+"06","CA","California","Contra Costa County","County",NA,"September",2019,547900,563300,15500
+"06","CA","California","Del Norte County","County",NA,"September",2019,9360,9840,480
+"06","CA","California","El Dorado County","County",NA,"September",2019,89500,92200,2700
+"06","CA","California","Fresno County","County",NA,"September",2019,427500,453000,25400
+"06","CA","California","Glenn County","County",NA,"September",2019,12610,13210,610
+"06","CA","California","Humboldt County","County",NA,"September",2019,60900,62800,1800
+"06","CA","California","Imperial County","County",NA,"September",2019,57500,71300,13800
+"06","CA","California","Inyo County","County",NA,"September",2019,8580,8820,250
+"06","CA","California","Kern County","County",NA,"September",2019,372600,397200,24600
+"06","CA","California","Kings County","County",NA,"September",2019,54100,57500,3400
+"06","CA","California","Lake County","County",NA,"September",2019,28110,29280,1170
+"06","CA","California","Lassen County","County",NA,"September",2019,9500,9830,330
+"06","CA","California","Los Angeles County","County",NA,"September",2019,4929800,5152400,222700
+"06","CA","California","Madera County","County",NA,"September",2019,59200,62500,3300
+"06","CA","California","Marin County","County",NA,"September",2019,138100,141000,2900
+"06","CA","California","Mariposa County","County",NA,"September",2019,7800,8060,250
+"06","CA","California","Mendocino County","County",NA,"September",2019,37960,39180,1210
+"06","CA","California","Merced County","County",NA,"September",2019,111000,117800,6800
+"06","CA","California","Modoc County","County",NA,"September",2019,3040,3180,150
+"06","CA","California","Mono County","County",NA,"September",2019,8050,8330,280
+"06","CA","California","Monterey County","County",NA,"September",2019,220600,228700,8100
+"06","CA","California","Napa County","County",NA,"September",2019,74200,75900,1700
+"06","CA","California","Nevada County","County",NA,"September",2019,47140,48500,1360
+"06","CA","California","Orange County","County",NA,"September",2019,1588500,1629500,41000
+"06","CA","California","Placer County","County",NA,"September",2019,183500,188700,5200
+"06","CA","California","Plumas County","County",NA,"September",2019,7810,8190,380
+"06","CA","California","Riverside County","County",NA,"September",2019,1061700,1105900,44200
+"06","CA","California","Sacramento County","County",NA,"September",2019,691500,714700,23200
+"06","CA","California","San Benito County","County",NA,"September",2019,30100,31400,1200
+"06","CA","California","San Bernardino County","County",NA,"September",2019,935100,968900,33900
+"06","CA","California","San Diego County","County",NA,"September",2019,1548000,1593800,45800
+"06","CA","California","San Francisco County","County",NA,"September",2019,576900,588100,11300
+"06","CA","California","San Joaquin County","County",NA,"September",2019,312500,328500,16000
+"06","CA","California","San Luis Obispo County","County",NA,"September",2019,136300,139900,3500
+"06","CA","California","San Mateo County","County",NA,"September",2019,455700,464100,8400
+"06","CA","California","Santa Barbara County","County",NA,"September",2019,212000,218500,6500
+"06","CA","California","Santa Clara County","County",NA,"September",2019,1033000,1056900,23900
+"06","CA","California","Santa Cruz County","County",NA,"September",2019,138000,142800,4700
+"06","CA","California","Shasta County","County",NA,"September",2019,72000,74700,2800
+"06","CA","California","Sierra County","County",NA,"September",2019,1330,1390,50
+"06","CA","California","Siskiyou County","County",NA,"September",2019,16720,17510,790
+"06","CA","California","Solano County","County",NA,"September",2019,203200,209900,6700
+"06","CA","California","Sonoma County","County",NA,"September",2019,258000,264000,6000
+"06","CA","California","Stanislaus County","County",NA,"September",2019,234300,246200,11900
+"06","CA","California","Sutter County","County",NA,"September",2019,43800,46100,2300
+"06","CA","California","Tehama County","County",NA,"September",2019,24970,26110,1150
+"06","CA","California","Trinity County","County",NA,"September",2019,4570,4760,190
+"06","CA","California","Tulare County","County",NA,"September",2019,188100,204300,16200
+"06","CA","California","Tuolumne County","County",NA,"September",2019,20620,21390,770
+"06","CA","California","Ventura County","County",NA,"September",2019,407400,421400,14100
+"06","CA","California","Yolo County","County",NA,"September",2019,105300,108800,3500
+"06","CA","California","Yuba County","County",NA,"September",2019,28900,30400,1500
 "06","CA","California","California","state",NA,"January",2019,18416400,19346200,929800
 "06","CA","California","California","state",NA,"January",2020,18637400,19477400,840000
 "06","CA","California","California","state",NA,"February",2019,18562700,19429900,867200

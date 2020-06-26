@@ -22,7 +22,7 @@ output_county <- raw_county %>%
     
     # work on FIPS
     polyname = case_when(
-      area_type == "County" ~ paste("california,", tolower(str_remove(area_name, " County")), sep = "")
+      area_type == "county" ~ paste("california,", tolower(str_remove(area_name, " County")), sep = "")
     )
   ) %>% # Join with FIPS
   
