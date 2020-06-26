@@ -198,7 +198,9 @@
   * Data: Unemployment
 
 ## New Hampshire
-No Data
+* [New Hampshire Employment Security](https://www.nhes.nh.gov/elmi/statistics/laus-data.htm)
+  * Format: Excel, Updated:  Monthly, Level: County, City
+  * Data: Unemployment
 
 ## New Jersey
 No Data
