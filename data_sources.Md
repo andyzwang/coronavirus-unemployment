@@ -164,6 +164,9 @@
 * [Mississippi Department of Employment Security](https://mdes.ms.gov/media/23357/labormarketdata.pdf)
   * Format: PDF, Updated: Monthly, Level: County
   * Data: Unemployment Claims, Unemployment
+* [MS Department of Employment Security](https://mdes.ms.gov/information-center/labor-market-information/labor-market-publications/unemployment-rates/)
+  * Format: PDF, Updated: Monthly, Level: County
+  * Data: Unemployment
 
 ## Missouri
 * [Data.Gov](https://catalog.data.gov/dataset/missouri-weekly-report-of-initial-unemployment-claims-2c10b)

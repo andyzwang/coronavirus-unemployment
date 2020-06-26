@@ -1,0 +1,452 @@
+period,Area,Labor Force,Employed,Unemployed,Unemployment Rate,Preliminary
+March,Adams County,"11,182","10,438",744,6.7%,Yes
+March,Alcorn County,"16,080","15,365",715,4.4%,Yes
+March,Amite County,"4,447","4,162",285,6.4%,Yes
+March,Attala County,"7,009","6,593",416,5.9%,Yes
+March,Benton County,"3,004","2,834",170,5.7%,Yes
+March,Bolivar County,"12,168","11,335",833,6.8%,Yes
+March,Calhoun County,"5,714","5,405",309,5.4%,Yes
+March,Carroll County,"3,496","3,287",209,6.0%,Yes
+March,Chickasaw County,"6,809","6,460",349,5.1%,Yes
+March,Choctaw County,"3,700","3,514",186,5.0%,Yes
+March,Claiborne County,"2,959","2,687",272,9.2%,Yes
+March,Clarke County,"5,906","5,552",354,6.0%,Yes
+March,Clay County,"7,743","7,193",550,7.1%,Yes
+March,Coahoma County,"8,294","7,683",611,7.4%,Yes
+March,Copiah County,"10,989","10,341",648,5.9%,Yes
+March,Covington County,"8,050","7,682",368,4.6%,Yes
+March,DeSoto County,"89,911","86,245","3,666",4.1%,Yes
+March,Forrest County,"33,164","31,638","1,526",4.6%,Yes
+March,Franklin County,"2,768","2,599",169,6.1%,Yes
+March,George County,"8,776","8,226",550,6.3%,Yes
+March,Greene County,"4,362","4,060",302,6.9%,Yes
+March,Grenada County,"9,330","8,888",442,4.7%,Yes
+March,Hancock County,"18,641","17,683",958,5.1%,Yes
+March,Harrison County,"85,611","81,537","4,074",4.8%,Yes
+March,Hinds County,"104,498","99,315","5,183",5.0%,Yes
+March,Holmes County,"5,679","5,155",524,9.2%,Yes
+March,Humphreys County,"2,305","2,070",235,10.2%,Yes
+March,Issaquena County,387,355,32,8.3%,Yes
+March,Itawamba County,"10,503","10,005",498,4.7%,Yes
+March,Jackson County,"57,805","54,652","3,153",5.5%,Yes
+March,Jasper County,"6,132","5,717",415,6.8%,Yes
+March,Jefferson County,"1,946","1,702",244,12.5%,Yes
+March,Jefferson Davis County,"4,106","3,850",256,6.2%,Yes
+March,Jones County,"25,875","24,552","1,323",5.1%,Yes
+March,Kemper County,"3,570","3,297",273,7.6%,Yes
+March,Lafayette County,"28,365","27,233","1,132",4.0%,Yes
+March,Lamar County,"30,673","29,448","1,225",4.0%,Yes
+March,Lauderdale County,"30,095","28,614","1,481",4.9%,Yes
+March,Lawrence County,"4,537","4,254",283,6.2%,Yes
+March,Leake County,"7,936","7,524",412,5.2%,Yes
+March,Lee County,"40,762","39,080","1,682",4.1%,Yes
+March,Leflore County,"9,999","9,304",695,7.0%,Yes
+March,Lincoln County,"14,379","13,660",719,5.0%,Yes
+March,Lowndes County,"25,035","23,792","1,243",5.0%,Yes
+March,Madison County,"52,133","49,945","2,188",4.2%,Yes
+March,Marion County,"9,917","9,419",498,5.0%,Yes
+March,Marshall County,"14,268","13,540",728,5.1%,Yes
+March,Monroe County,"15,449","14,679",770,5.0%,Yes
+March,Montgomery County,"3,909","3,687",222,5.7%,Yes
+March,Neshoba County,"10,203","9,621",582,5.7%,Yes
+March,Newton County,"8,821","8,369",452,5.1%,Yes
+March,Noxubee County,"3,829","3,559",270,7.1%,Yes
+March,Oktibbeha County,"21,914","20,792","1,122",5.1%,Yes
+March,Panola County,"12,331","11,571",760,6.2%,Yes
+March,Pearl River County,"23,651","22,519","1,132",4.8%,Yes
+March,Perry County,"4,302","4,030",272,6.3%,Yes
+March,Pike County,"14,463","13,606",857,5.9%,Yes
+March,Pontotoc County,"14,676","14,083",593,4.0%,Yes
+March,Prentiss County,"11,270","10,728",542,4.8%,Yes
+March,Quitman County,"2,394","2,227",167,7.0%,Yes
+March,Rankin County,"74,428","71,637","2,791",3.7%,Yes
+March,Scott County,"12,645","12,116",529,4.2%,Yes
+March,Sharkey County,"1,628","1,501",127,7.8%,Yes
+March,Simpson County,"10,596","10,057",539,5.1%,Yes
+March,Smith County,"6,872","6,546",326,4.7%,Yes
+March,Stone County,"6,916","6,504",412,6.0%,Yes
+March,Sunflower County,"7,787","7,131",656,8.4%,Yes
+March,Tallahatchie County,"5,308","4,999",309,5.8%,Yes
+March,Tate County,"12,256","11,629",627,5.1%,Yes
+March,Tippah County,"9,337","8,905",432,4.6%,Yes
+March,Tishomingo County,"8,576","8,108",468,5.5%,Yes
+March,Tunica County,"4,437","4,181",256,5.8%,Yes
+March,Union County,"14,286","13,718",568,4.0%,Yes
+March,Walthall County,"4,797","4,474",323,6.7%,Yes
+March,Warren County,"19,905","18,878","1,027",5.2%,Yes
+March,Washington County,"16,878","15,698","1,180",7.0%,Yes
+March,Wayne County,"7,513","7,082",431,5.7%,Yes
+March,Webster County,"3,955","3,732",223,5.6%,Yes
+March,Wilkinson County,"2,777","2,525",252,9.1%,Yes
+March,Winston County,"7,401","6,978",423,5.7%,Yes
+March,Yalobusha County,"4,900","4,659",241,4.9%,Yes
+March,Yazoo County,"9,337","8,787",550,5.9%,Yes
+February,Adams County,"11,150","10,420",730,6.50%,No
+February,Alcorn County,"16,148","15,422",726,4.50%,No
+February,Amite County,"4,357","4,056",301,6.90%,No
+February,Attala County,"6,958","6,513",445,6.40%,No
+February,Benton County,"3,024","2,845",179,5.90%,No
+February,Bolivar County,"11,978","11,133",845,7.10%,No
+February,Calhoun County,"5,535","5,228",307,5.50%,No
+February,Carroll County,"3,444","3,232",212,6.20%,No
+February,Chickasaw County,"6,753","6,413",340,5.00%,No
+February,Choctaw County,"3,646","3,449",197,5.40%,No
+February,Claiborne County,"2,951","2,669",282,9.60%,No
+February,Clarke County,"5,925","5,559",366,6.20%,No
+February,Clay County,"7,606","7,066",540,7.10%,No
+February,Coahoma County,"8,211","7,549",662,8.10%,No
+February,Copiah County,"11,031","10,366",665,6.00%,No
+February,Covington County,"8,030","7,634",396,4.90%,No
+February,DeSoto County,"90,466","86,751","3,715",4.10%,No
+February,Forrest County,"33,277","31,731","1,546",4.60%,No
+February,Franklin County,"2,736","2,560",176,6.40%,No
+February,George County,"8,717","8,091",626,7.20%,No
+February,Greene County,"4,324","3,978",346,8.00%,No
+February,Grenada County,"9,285","8,840",445,4.80%,No
+February,Hancock County,"18,743","17,755",988,5.30%,No
+February,Harrison County,"86,198","81,992","4,206",4.90%,No
+February,Hinds County,"105,551","100,470","5,081",4.80%,No
+February,Holmes County,"5,599","5,081",518,9.30%,No
+February,Humphreys County,"2,228","1,970",258,11.60%,No
+February,Issaquena County,365,335,30,8.20%,No
+February,Itawamba County,"10,475","9,985",490,4.70%,No
+February,Jackson County,"58,261","54,990","3,271",5.60%,No
+February,Jasper County,"6,139","5,662",477,7.80%,No
+February,Jefferson County,"1,948","1,677",271,13.90%,No
+February,Jefferson Davis County,"4,122","3,844",278,6.70%,No
+February,Jones County,"25,806","24,448","1,358",5.30%,No
+February,Kemper County,"3,516","3,260",256,7.30%,No
+February,Lafayette County,"28,439","27,355","1,084",3.80%,No
+February,Lamar County,"30,837","29,586","1,251",4.10%,No
+February,Lauderdale County,"30,362","28,875","1,487",4.90%,No
+February,Lawrence County,"4,506","4,234",272,6.00%,No
+February,Leake County,"7,820","7,392",428,5.50%,No
+February,Lee County,"40,947","39,264","1,683",4.10%,No
+February,Leflore County,"9,912","9,194",718,7.20%,No
+February,Lincoln County,"14,394","13,637",757,5.30%,No
+February,Lowndes County,"25,077","23,811","1,266",5.00%,No
+February,Madison County,"52,612","50,498","2,114",4.00%,No
+February,Marion County,"9,942","9,404",538,5.40%,No
+February,Marshall County,"14,335","13,582",753,5.30%,No
+February,Monroe County,"15,466","14,684",782,5.10%,No
+February,Montgomery County,"3,894","3,658",236,6.10%,No
+February,Neshoba County,"9,993","9,410",583,5.80%,No
+February,Newton County,"8,812","8,350",462,5.20%,No
+February,Noxubee County,"3,732","3,470",262,7.00%,No
+February,Oktibbeha County,"22,040","20,970","1,070",4.90%,No
+February,Panola County,"12,301","11,536",765,6.20%,No
+February,Pearl River County,"23,773","22,628","1,145",4.80%,No
+February,Perry County,"4,311","4,020",291,6.80%,No
+February,Pike County,"14,280","13,436",844,5.90%,No
+February,Pontotoc County,"14,695","14,096",599,4.10%,No
+February,Prentiss County,"11,194","10,654",540,4.80%,No
+February,Quitman County,"2,313","2,133",180,7.80%,No
+February,Rankin County,"75,331","72,456","2,875",3.80%,No
+February,Scott County,"12,496","11,949",547,4.40%,No
+February,Sharkey County,"1,588","1,445",143,9.00%,No
+February,Simpson County,"10,662","10,095",567,5.30%,No
+February,Smith County,"6,806","6,443",363,5.30%,No
+February,Stone County,"6,846","6,450",396,5.80%,No
+February,Sunflower County,"7,587","6,886",701,9.20%,No
+February,Tallahatchie County,"5,205","4,871",334,6.40%,No
+February,Tate County,"12,236","11,601",635,5.20%,No
+February,Tippah County,"9,354","8,922",432,4.60%,No
+February,Tishomingo County,"8,546","8,081",465,5.40%,No
+February,Tunica County,"4,401","4,133",268,6.10%,No
+February,Union County,"14,286","13,709",577,4.00%,No
+February,Walthall County,"4,748","4,434",314,6.60%,No
+February,Warren County,"19,905","18,851","1,054",5.30%,No
+February,Washington County,"16,704","15,469","1,235",7.40%,No
+February,Wayne County,"7,383","6,931",452,6.10%,No
+February,Webster County,"3,937","3,715",222,5.60%,No
+February,Wilkinson County,"2,779","2,514",265,9.50%,No
+February,Winston County,"7,357","6,927",430,5.80%,No
+February,Yalobusha County,"4,943","4,691",252,5.10%,No
+February,Yazoo County,"9,272","8,722",550,5.90%,No
+January,Adams County,"11,192","10,420",772,6.90%,No
+January,Alcorn County,"16,116","15,365",751,4.70%,No
+January,Amite County,"4,340","4,019",321,7.40%,No
+January,Attala County,"6,972","6,509",463,6.60%,No
+January,Benton County,"3,024","2,841",183,6.10%,No
+January,Bolivar County,"11,876","10,949",927,7.80%,No
+January,Calhoun County,"5,487","5,166",321,5.90%,No
+January,Carroll County,"3,422","3,202",220,6.40%,No
+January,Chickasaw County,"6,727","6,376",351,5.20%,No
+January,Choctaw County,"3,593","3,393",200,5.60%,No
+January,Claiborne County,"2,958","2,649",309,10.40%,No
+January,Clarke County,"5,908","5,522",386,6.50%,No
+January,Clay County,"7,612","7,031",581,7.60%,No
+January,Coahoma County,"8,212","7,505",707,8.60%,No
+January,Copiah County,"11,005","10,303",702,6.40%,No
+January,Covington County,"8,010","7,610",400,5.00%,No
+January,DeSoto County,"90,445","86,625","3,820",4.20%,No
+January,Forrest County,"33,196","31,599","1,597",4.80%,No
+January,Franklin County,"2,727","2,529",198,7.30%,No
+January,George County,"8,723","8,003",720,8.30%,No
+January,Greene County,"4,362","3,951",411,9.40%,No
+January,Grenada County,"9,312","8,845",467,5.00%,No
+January,Hancock County,"18,546","17,532","1,014",5.50%,No
+January,Harrison County,"85,452","81,145","4,307",5.00%,No
+January,Hinds County,"105,298","100,102","5,196",4.90%,No
+January,Holmes County,"5,639","5,065",574,10.20%,No
+January,Humphreys County,"2,207","1,928",279,12.60%,No
+January,Issaquena County,371,329,42,11.30%,No
+January,Itawamba County,"10,423","9,956",467,4.50%,No
+January,Jackson County,"57,905","54,471","3,434",5.90%,No
+January,Jasper County,"6,158","5,646",512,8.30%,No
+January,Jefferson County,"2,025","1,674",351,17.30%,No
+January,Jefferson Davis County,"4,078","3,806",272,6.70%,No
+January,Jones County,"25,798","24,403","1,395",5.40%,No
+January,Kemper County,"3,496","3,232",264,7.60%,No
+January,Lafayette County,"27,426","26,279","1,147",4.20%,No
+January,Lamar County,"30,757","29,481","1,276",4.10%,No
+January,Lauderdale County,"30,329","28,794","1,535",5.10%,No
+January,Lawrence County,"4,515","4,214",301,6.70%,No
+January,Leake County,"7,771","7,341",430,5.50%,No
+January,Lee County,"40,942","39,221","1,721",4.20%,No
+January,Leflore County,"9,918","9,134",784,7.90%,No
+January,Lincoln County,"14,403","13,568",835,5.80%,No
+January,Lowndes County,"24,925","23,622","1,303",5.20%,No
+January,Madison County,"52,484","50,286","2,198",4.20%,No
+January,Marion County,"9,905","9,342",563,5.70%,No
+January,Marshall County,"14,334","13,540",794,5.50%,No
+January,Monroe County,"15,511","14,688",823,5.30%,No
+January,Montgomery County,"3,873","3,636",237,6.10%,No
+January,Neshoba County,"9,997","9,376",621,6.20%,No
+January,Newton County,"8,803","8,313",490,5.60%,No
+January,Noxubee County,"3,707","3,432",275,7.40%,No
+January,Oktibbeha County,"21,544","20,424","1,120",5.20%,No
+January,Panola County,"12,329","11,536",793,6.40%,No
+January,Pearl River County,"23,652","22,492","1,160",4.90%,No
+January,Perry County,"4,307","3,998",309,7.20%,No
+January,Pike County,"14,265","13,357",908,6.40%,No
+January,Pontotoc County,"14,659","14,044",615,4.20%,No
+January,Prentiss County,"11,144","10,612",532,4.80%,No
+January,Quitman County,"2,298","2,102",196,8.50%,No
+January,Rankin County,"75,102","72,193","2,909",3.90%,No
+January,Scott County,"12,430","11,874",556,4.50%,No
+January,Sharkey County,"1,577","1,426",151,9.60%,No
+January,Simpson County,"10,592","10,033",559,5.30%,No
+January,Smith County,"6,779","6,403",376,5.50%,No
+January,Stone County,"6,743","6,316",427,6.30%,No
+January,Sunflower County,"7,549","6,775",774,10.30%,No
+January,Tallahatchie County,"5,210","4,844",366,7.00%,No
+January,Tate County,"12,197","11,554",643,5.30%,No
+January,Tippah County,"9,359","8,917",442,4.70%,No
+January,Tishomingo County,"8,485","8,011",474,5.60%,No
+January,Tunica County,"4,401","4,112",289,6.60%,No
+January,Union County,"14,273","13,680",593,4.20%,No
+January,Walthall County,"4,772","4,436",336,7.00%,No
+January,Warren County,"19,851","18,754","1,097",5.50%,No
+January,Washington County,"16,706","15,393","1,313",7.90%,No
+January,Wayne County,"7,333","6,853",480,6.50%,No
+January,Webster County,"3,896","3,666",230,5.90%,No
+January,Wilkinson County,"2,809","2,503",306,10.90%,No
+January,Winston County,"7,338","6,900",438,6.00%,No
+January,Yalobusha County,"4,852","4,597",255,5.30%,No
+January,Yazoo County,"9,225","8,636",589,6.40%,No
+May,Adams County,"10,840",9490,"1,350",,
+May,Alcorn County,"14,940","13,860","1,080",,
+May,Amite County,"4,270","3,910",360,,
+May,Attala County,"6,730","6,100",630,,
+May,Benton County,"2,800","2,530",270,,
+May,Bolivar County,"11,690","10,780",910,,
+May,Calhoun County,"5,680","5,190",490,,
+May,Carroll County,"3,280","3,000",280,,
+May,Chickasaw County,"6,910","5,960",950,,
+May,Choctaw County,"3,520","3,290",230,,
+May,Claiborne County,"2,950","2,450",500,,
+May,Clarke County,"5,590",5040,550,,
+May,Clay County,"7,810","6,660.00","1,150",,
+May,Coahoma County,"8,550","7,260","1,290",,
+May,Copiah County,"10,450","9,510",940,,
+May,Covington County,"7,560","6,990",570,,
+May,DeSoto County,"83,430","76,850","6,580",,
+May,Forrest County,"31,530","28,430","3,100",,
+May,Franklin County,"2,720","2,480",240,,
+May,George County,"8,550","7,630",920,,
+May,Greene County,"4,220","3,790",430,,
+May,Grenada County,"8,980","8,260",720,,
+May,Hancock County,"17,810","15,540","2,270",,
+May,Harrison County,"85,450","71,880","13,570",,
+May,Hinds County,"103,040","90,290","12,750",,
+May,Holmes County,"5,920","4,660","1,260",,
+May,Humphreys County,"2,330","2,010",320,,
+May,Issaquena County,370,340,30,,
+May,Itawamba County,"9,920","9,050",870,,
+May,Jackson County,"56,670","45,230","8,440",,
+May,Jasper County,"5,810","5,300",510,,
+May,Jefferson County,"1,970",1610,360,,
+May,Jefferson Davis County,"3,900","3,510",390,,
+May,Jones County,"24,310","22,550","1,760",,
+May,Kemper County,"3,450","3,060",390,,
+May,Lafayette County,"25,920","23,930","1,990",,
+May,Lamar County,"28,620","25,410","2,210",,
+May,Lauderdale County,"28,370",2570,"2,500",,
+May,Lawrence County,"4,430",3990,440,,
+May,Leake County,"7,950","7,130",820,,
+May,Lee County,"39,660","35,040","4,620",,
+May,Leflore County,"9,480","8,470","1,010",,
+May,Lincoln County,"13,900","12,630","1,270",,
+May,Lowndes County,"24,110","21,570","2,540",,
+May,Madison County,"50,410","45,370","5,040",,
+May,Marion County,"9,290","8,550",740,,
+May,Marshall County,"13,190","12,090","1,100",,
+May,Monroe County,"14,860","13,120","1,740",,
+May,Montgomery County,"3,810","3,470",340,,
+May,Neshoba County,"10,540","9,070","1,470",,
+May,Newton County,"8,410","7,590",820,,
+May,Noxubee County,"3,850","3,360",490,,
+May,Oktibbeha County,"21,300","19,320","1,980",,
+May,Panola County,"12,020","10,630","1,390",,
+May,Pearl River County,"21,870","19,800","2,070",,
+May,Perry County,"4,030","3,650",380,,
+May,Pike County,"13,940","12,550","1,390",,
+May,Pontotoc County,"14,120","12,650","1,470",,
+May,Prentiss County,"10,770","9,860",910,,
+May,Quitman County,"2,430","2,140",290,,
+May,Rankin County,"70,180","65,150","5,030",,
+May,Scott County,"12,170","11,280",890,,
+May,Sharkey County,"1,570","1,410",160,,
+May,Simpson County,"9,930","9,230",700,,
+May,Smith County,"6,390","6,040",350,,
+May,Stone County,"6,540","5,870",670,,
+May,Sunflower County,"7,600","6,870",730,,
+May,Tallahatchie County,"5,150","4,790",360,,
+May,Tate County,"11,520","10,470","1,050",,
+May,Tippah County,"8,760","8,050",730,,
+May,Tishomingo County,"8,120","7,460",640,,
+May,Tunica County,"5,000","3,830","1,170",,
+May,Union County,"13,550","12,210","1,340",,
+May,Walthall County,"4,660","4,220",440,,
+May,Warren County,"19,520","17,120","2,400",,
+May,Washington County,"16,390","14,520","1,870",,
+May,Wayne County,"7,210","6,590",620,,
+May,Webster County,"3,740","3,440",300,,
+May,Wilkinson County,"2,650","2,280",370,,
+May,Winston County,"7,160","6,370",790,,
+May,Yalobusha County,"4,650","4,150",500,,
+May,Yazoo County,9410,8150,1260,,
+April,Adams County,"10,360",8600,1760,,
+April,Alcorn County,"14,720",12860,1860,,
+April,Amite County,"4,060",3590,470,,
+April,Attala County,"6,480",5620,860,,
+April,Benton County,"2,770",2360,410,,
+April,Bolivar County,"11,190",9970,1220,,
+April,Calhoun County,"5,960",4750,"1,210",,
+April,Carroll County,"3,210",2780,430,,
+April,Chickasaw County,"7,020",5500,"2,320",,
+April,Choctaw County,"3,360",3030,330,,
+April,Claiborne County,"2,070",2270,600,,
+April,Clarke County,"5,390",4660,730,,
+April,Clay County,8100,6190,1910,,
+April,Coahoma County,8410,6650,1760,,
+April,Copiah County,"10,130",8900,1230,,
+April,Covington County,"7,170",6450,720,,
+April,DeSoto County,80870,71630,"9,240",,
+April,Forrest County,"30,770",26490,"4,280",,
+April,Franklin County,"2,570",2260,310,,
+April,George County,"8,280",7030,1250,,
+April,Greene County,"4,070",3490,580,,
+April,Grenada County,"8,630",7520,"1,110",,
+April,Hancock County,"17,490",14310,"3,180",,
+April,Harrison County,"85,800",66210,"19,590",,
+April,Hinds County,"102,090",84670,"17,420",,
+April,Holmes County,"6,040",4380,1660,,
+April,Humphreys County,"2,260",1860,400,,
+April,Issaquena County,350,310,40,,
+April,Itawamba County,"10,410",8340,"2,070",,
+April,Jackson County,"56,270",44430,"11,840",,
+April,Jasper County,"5,560",4920,640,,
+April,Jefferson County,"1,070",1470,400,,
+April,Jefferson Davis County,"3,770",3270,500,,
+April,Jones County,"23,390",20980,"2,410",,
+April,Kemper County,"3,290",2820,470,,
+April,Lafayette County,"25,460",22510,"2,950",,
+April,Lamar County,"27,760",24620,"3,140",,
+April,Lauderdale County,"27,300",23950,"3,430",,
+April,Lawrence County,2450,3660,590,,
+April,Leake County,7580,6520,1060,,
+April,Lee County,41140,32310,8830,,
+April,Leflore County,9460,7840,1620,,
+April,Lincoln County,13360,11590,1770,,
+April,Lowndes County,23750,20010,3740,,
+April,Madison County,49530,42540,6990,,
+April,Marion County,8860,7850,1010,,
+April,Marshall County,12660,11260,1400,,
+April,Monroe County,15490,12040,3450,,
+April,Montgomery County,3690,3180,510,,
+April,Neshoba County,9950,8170,1780,,
+April,Newton County,8100,7010,1090,,
+April,Noxubee County,3720,3090,630,,
+April,Oktibbeha County,20700,17830,2870,,
+April,Panola County,11720,9800,1920,,
+April,Pearl River County,21060,18410,2650,,
+April,Perry County,3910,3390,520,,
+April,Pike County,13330,11550,1780,,
+April,Pontotoc County,15370,11650,3720,,
+April,Prentiss County,10910,9050,1860,,
+April,Quitman County,2350,1970,380,,
+April,Rankin County,68900,61100,7800,,
+April,Scott County,11540,10390,1150,,
+April,Sharkey County,1500,1310,190,,
+April,Simpson County,9590,8640,950,,
+April,Smith County,6060,5590,470,,
+April,Stone County,6380,5430,950,,
+April,Sunflower County,7320,6290,1030,,
+April,Tallahatchie County,4830,4360,470,,
+April,Tate County,11110,9740,1370,,
+April,Tippah County,9180,7500,1880,,
+April,Tishomingo County,8140,6990,1150,,
+April,Tunica County,5070,3560,1510,,
+April,Union County,14150,11230,2920,,
+April,Walthall County,4450,3880,570,,
+April,Warren County,19080,15860,3220,,
+April,Washington County,15780,13300,2480,,
+April,Wayne County,6850,6070,780,,
+April,Webster County,3690,3210,480,,
+April,Wilkinson County,2480,2100,380,,
+April,Winston County,6850,5850,1000,,
+April,Yalobusha County,4610,3870,740,,
+April,Yazoo County,9250,7610,1640,,
+May,Biloxi,"19,830","16,170","3,660",,
+May,Clinton,"12,090","11,140",950,,
+May,Columbus,"9,510","8,360","1,150",,
+May,Greenville,"11,120","9,750","1,370",,
+May,Gulfport,"29,150","23,810","5,340",,
+May,Hattiesburg,"20,610","18,430","2,180",,
+May,Horn Lake,"12,340","10,850","1,490",,
+May,Jackson,"70,400","60,580","9,820",,
+May,Madison,"12,110","11,310",800,,
+May,Meridian,"13,730","12,350","1,380",,
+May,Moss Point,"4,880","4,150",730,,
+May,Olive Branch,"18,220","17,150","1,070",,
+May,Pascagoula,"8,320","7,140","1,180",,
+May,Pearl,11880,10870,1010,,
+May,Southaven,"25,870","23,810","2,060",,
+May,Starkville,"11,650","10,530","1,120",,
+May,Tupelo,"17,430","15,060","2,370",,
+May,Vicksburg,"9,010","7,590","1,420",,
+January,Mississippi,"1,257,892","1,190,407","67,485",5.40%,
+February,Mississippi,"1,262,857","1,198,146","64,711",5.10%,
+March,Mississippi,"1,268,451","1,207,861","60,590",4.80%,
+April,Mississippi,"1,194,015","1,006,236","187,779",15.70%,
+May,Mississippi,"1,213,000","1,085,200","127,800",10.50%,
+April,Biloxi,"20,180","14,900","5,280",,
+April,Clinton,"11,830","10,450","1,380",,
+April,Columbus,"9,410","7,750","1,660",,
+April,Greenville,"10,750","8,930","1,820",,
+April,Gulfport,"29,470","21,930","7,540",,
+April,Hattiesburg,"20,100","17,170","2,930",,
+April,Horn Lake,"11,920","10,110","1,810",,
+April,Jackson,"69,980","56,810","13,170",,
+April,Madison,"11,830","10,600","1,230",,
+April,Meridian,"13,290","11,430","1,860",,
+April,Moss Point,"4,770","3,820",950,,
+April,Olive Branch,"17,450","15,990","1,460",,
+April,Pascagoula,"8,090","6,580","1,510",,
+April,Pearl,11.71,10.19,"1,520",,
+April,Southaven,"24,930","22,190","2,740",,
+April,Starkville,"11,350","9,710","1,640",,
+April,Tupelo,"18,200","13,890","4,310",,
+April,Vicksburg,"8,870","7,030","1,840",,
