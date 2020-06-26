@@ -9,11 +9,11 @@ library(readxl)
 
 # import
 
-raw_county <- read_excel("NJ_counties_data.xlsx", skip = 11)
+raw <- read_excel("NJ_data.xlsx", skip = 11)
 
-output_county <- raw_county %>%
-  filter(!is.na(Area)) %>%
-  pivot_longer(cols = !Area:Metric, names_to = "date", values_to = "value") %>%
+output <- raw %>%
+  filter(!is.na(area)) %>%
+  pivot_longer(cols = !area:metric, names_to = "date", values_to = "value") %>%
   clean_names("snake") %>%
   filter(!is.na(area)) %>%
   filter(!is.na(value)) %>%
