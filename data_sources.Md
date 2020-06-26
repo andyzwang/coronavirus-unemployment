@@ -172,9 +172,14 @@
 * [Data.Gov](https://catalog.data.gov/dataset/missouri-weekly-report-of-initial-unemployment-claims-2c10b)
     * Format: CSV, Updated: Weekly, Level: County
     * Data: Unemployment Claims
+* [MERIC](https://meric.mo.gov/data/economic/local-area-unemployment-statistics/laus)
+  * Format: CSV, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Montana
-No data
+* [Montana Department of Labor and Industry](https://lmi.mt.gov/Home/DS-Results-LAUS)
+  * Format: Tableau, Updated:  Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Nebraska
 * [NEWorks](https://neworks.nebraska.gov/gsipub/index.asp?docid=710)
