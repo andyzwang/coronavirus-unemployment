@@ -16,7 +16,7 @@ output_counties <- raw_counties %>%
   mutate(
     # set basics
     
-    area_type = "County",
+    area_type = "county",
     
     state_fips = "08",
     state_short = "CO",
@@ -50,7 +50,7 @@ output_state <- raw_state %>%
   mutate(
     # set basics
     
-    area_type = "State",
+    area_type = "state",
     area = "Colorado",
     state_fips = "08",
     state_short = "CO",
