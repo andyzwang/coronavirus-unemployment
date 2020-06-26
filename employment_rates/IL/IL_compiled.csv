@@ -1,0 +1,1046 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
+"17","IL","Illinois","Adams County","county","17001","January",2020,30590,31648,1058
+"17","IL","Illinois","Adams County","county","17001","February",2020,30545,31415,870
+"17","IL","Illinois","Adams County","county","17001","March",2020,29227,29968,741
+"17","IL","Illinois","Adams County","county","17001","April",2020,26625,30257,3632
+"17","IL","Illinois","Adams County","county","17001","May",2020,28109,31362,3253
+"17","IL","Illinois","Alexander County","county","17003","January",2020,1922,2036,114
+"17","IL","Illinois","Alexander County","county","17003","February",2020,1927,2030,103
+"17","IL","Illinois","Alexander County","county","17003","March",2020,1825,1920,95
+"17","IL","Illinois","Alexander County","county","17003","April",2020,1531,1811,280
+"17","IL","Illinois","Alexander County","county","17003","May",2020,1584,1843,259
+"17","IL","Illinois","Bond County","county","17005","January",2020,7378,7666,288
+"17","IL","Illinois","Bond County","county","17005","February",2020,7327,7568,241
+"17","IL","Illinois","Bond County","county","17005","March",2020,6989,7185,196
+"17","IL","Illinois","Bond County","county","17005","April",2020,5979,6835,856
+"17","IL","Illinois","Bond County","county","17005","May",2020,6451,7343,892
+"17","IL","Illinois","Boone County","county","17007","January",2020,23607,26142,2535
+"17","IL","Illinois","Boone County","county","17007","February",2020,24024,25411,1387
+"17","IL","Illinois","Boone County","county","17007","March",2020,22770,23910,1140
+"17","IL","Illinois","Boone County","county","17007","April",2020,19201,24993,5792
+"17","IL","Illinois","Boone County","county","17007","May",2020,20494,25607,5113
+"17","IL","Illinois","Brown County","county","17009","January",2020,2878,2944,66
+"17","IL","Illinois","Brown County","county","17009","February",2020,2873,2929,56
+"17","IL","Illinois","Brown County","county","17009","March",2020,2770,2820,50
+"17","IL","Illinois","Brown County","county","17009","April",2020,2352,2564,212
+"17","IL","Illinois","Brown County","county","17009","May",2020,2487,2669,182
+"17","IL","Illinois","Bureau County","county","17011","January",2020,15862,16793,931
+"17","IL","Illinois","Bureau County","county","17011","February",2020,15773,16496,723
+"17","IL","Illinois","Bureau County","county","17011","March",2020,15282,15905,623
+"17","IL","Illinois","Bureau County","county","17011","April",2020,13870,16060,2190
+"17","IL","Illinois","Bureau County","county","17011","May",2020,14970,16935,1965
+"17","IL","Illinois","Calhoun County","county","17013","January",2020,2182,2289,107
+"17","IL","Illinois","Calhoun County","county","17013","February",2020,2173,2260,87
+"17","IL","Illinois","Calhoun County","county","17013","March",2020,2079,2152,73
+"17","IL","Illinois","Calhoun County","county","17013","April",2020,1769,2133,364
+"17","IL","Illinois","Calhoun County","county","17013","May",2020,1906,2211,305
+"17","IL","Illinois","Carroll County","county","17015","January",2020,6788,7125,337
+"17","IL","Illinois","Carroll County","county","17015","February",2020,6736,7020,284
+"17","IL","Illinois","Carroll County","county","17015","March",2020,6535,6770,235
+"17","IL","Illinois","Carroll County","county","17015","April",2020,5838,6997,1159
+"17","IL","Illinois","Carroll County","county","17015","May",2020,6412,7368,956
+"17","IL","Illinois","Cass County","county","17017","January",2020,5751,6002,251
+"17","IL","Illinois","Cass County","county","17017","February",2020,5697,5917,220
+"17","IL","Illinois","Cass County","county","17017","March",2020,5447,5625,178
+"17","IL","Illinois","Cass County","county","17017","April",2020,4995,5575,580
+"17","IL","Illinois","Cass County","county","17017","May",2020,5305,5896,591
+"17","IL","Illinois","Champaign County","county","17019","January",2020,101731,105273,3542
+"17","IL","Illinois","Champaign County","county","17019","February",2020,107875,110763,2888
+"17","IL","Illinois","Champaign County","county","17019","March",2020,102067,104582,2515
+"17","IL","Illinois","Champaign County","county","17019","April",2020,88741,99593,10852
+"17","IL","Illinois","Champaign County","county","17019","May",2020,90862,101043,10181
+"17","IL","Illinois","Christian County","county","17021","January",2020,13256,13963,707
+"17","IL","Illinois","Christian County","county","17021","February",2020,13280,13879,599
+"17","IL","Illinois","Christian County","county","17021","March",2020,12758,13265,507
+"17","IL","Illinois","Christian County","county","17021","April",2020,11281,13110,1829
+"17","IL","Illinois","Christian County","county","17021","May",2020,12034,13630,1596
+"17","IL","Illinois","Clark County","county","17023","January",2020,7095,7441,346
+"17","IL","Illinois","Clark County","county","17023","February",2020,7074,7370,296
+"17","IL","Illinois","Clark County","county","17023","March",2020,6872,7130,258
+"17","IL","Illinois","Clark County","county","17023","April",2020,5717,7205,1488
+"17","IL","Illinois","Clark County","county","17023","May",2020,6527,7520,993
+"17","IL","Illinois","Clay County","county","17025","January",2020,5998,6309,311
+"17","IL","Illinois","Clay County","county","17025","February",2020,5939,6206,267
+"17","IL","Illinois","Clay County","county","17025","March",2020,5669,5892,223
+"17","IL","Illinois","Clay County","county","17025","April",2020,4757,6231,1474
+"17","IL","Illinois","Clay County","county","17025","May",2020,5149,6444,1295
+"17","IL","Illinois","Clinton County","county","17027","January",2020,19626,20280,654
+"17","IL","Illinois","Clinton County","county","17027","February",2020,19532,20085,553
+"17","IL","Illinois","Clinton County","county","17027","March",2020,18607,19034,427
+"17","IL","Illinois","Clinton County","county","17027","April",2020,15880,18376,2496
+"17","IL","Illinois","Clinton County","county","17027","May",2020,17021,19127,2106
+"17","IL","Illinois","Coles County","county","17029","January",2020,23084,23909,825
+"17","IL","Illinois","Coles County","county","17029","February",2020,23204,23876,672
+"17","IL","Illinois","Coles County","county","17029","March",2020,22015,22614,599
+"17","IL","Illinois","Coles County","county","17029","April",2020,19692,22445,2753
+"17","IL","Illinois","Coles County","county","17029","May",2020,19758,22209,2451
+"17","IL","Illinois","Cook County","county","17031","January",2020,2444539,2537056,92517
+"17","IL","Illinois","Cook County","county","17031","February",2020,2476865,2564954,88089
+"17","IL","Illinois","Cook County","county","17031","March",2020,2488391,2615106,126715
+"17","IL","Illinois","Cook County","county","17031","April",2020,2081865,2541433,459568
+"17","IL","Illinois","Cook County","county","17031","May",2020,2183208,2604778,421570
+"17","IL","Illinois","Crawford County","county","17033","January",2020,8136,8498,362
+"17","IL","Illinois","Crawford County","county","17033","February",2020,8138,8432,294
+"17","IL","Illinois","Crawford County","county","17033","March",2020,7822,8084,262
+"17","IL","Illinois","Crawford County","county","17033","April",2020,6843,8148,1305
+"17","IL","Illinois","Crawford County","county","17033","May",2020,7302,8166,864
+"17","IL","Illinois","Cumberland County","county","17035","January",2020,5872,6081,209
+"17","IL","Illinois","Cumberland County","county","17035","February",2020,5847,6029,182
+"17","IL","Illinois","Cumberland County","county","17035","March",2020,5614,5760,146
+"17","IL","Illinois","Cumberland County","county","17035","April",2020,5084,5673,589
+"17","IL","Illinois","Cumberland County","county","17035","May",2020,5357,5867,510
+"17","IL","Illinois","Dekalb County","county","17037","January",2020,52458,54922,2464
+"17","IL","Illinois","Dekalb County","county","17037","February",2020,52363,54265,1902
+"17","IL","Illinois","Dekalb County","county","17037","March",2020,49881,51532,1651
+"17","IL","Illinois","Dekalb County","county","17037","April",2020,41080,48324,7244
+"17","IL","Illinois","Dekalb County","county","17037","May",2020,43766,50467,6701
+"17","IL","Illinois","De Witt County","county","17039","January",2020,6949,7250,301
+"17","IL","Illinois","De Witt County","county","17039","February",2020,6980,7225,245
+"17","IL","Illinois","De Witt County","county","17039","March",2020,6653,6862,209
+"17","IL","Illinois","De Witt County","county","17039","April",2020,5652,6376,724
+"17","IL","Illinois","De Witt County","county","17039","May",2020,6087,6735,648
+"17","IL","Illinois","Douglas County","county","17041","January",2020,9612,9936,324
+"17","IL","Illinois","Douglas County","county","17041","February",2020,9785,10041,256
+"17","IL","Illinois","Douglas County","county","17041","March",2020,9361,9588,227
+"17","IL","Illinois","Douglas County","county","17041","April",2020,8438,9416,978
+"17","IL","Illinois","Douglas County","county","17041","May",2020,8920,9790,870
+"17","IL","Illinois","Dupage County","county","17043","January",2020,482721,496735,14014
+"17","IL","Illinois","Dupage County","county","17043","February",2020,488992,502242,13250
+"17","IL","Illinois","Dupage County","county","17043","March",2020,491122,510213,19091
+"17","IL","Illinois","Dupage County","county","17043","April",2020,411051,481858,70807
+"17","IL","Illinois","Dupage County","county","17043","May",2020,431072,493045,61973
+"17","IL","Illinois","Edgar County","county","17045","January",2020,8179,8525,346
+"17","IL","Illinois","Edgar County","county","17045","February",2020,8119,8399,280
+"17","IL","Illinois","Edgar County","county","17045","March",2020,7717,7955,238
+"17","IL","Illinois","Edgar County","county","17045","April",2020,7139,8473,1334
+"17","IL","Illinois","Edgar County","county","17045","May",2020,7556,8719,1163
+"17","IL","Illinois","Edwards County","county","17047","January",2020,2503,2619,116
+"17","IL","Illinois","Edwards County","county","17047","February",2020,2530,2639,109
+"17","IL","Illinois","Edwards County","county","17047","March",2020,2427,2520,93
+"17","IL","Illinois","Edwards County","county","17047","April",2020,2088,2692,604
+"17","IL","Illinois","Edwards County","county","17047","May",2020,2279,2690,411
+"17","IL","Illinois","Effingham County","county","17049","January",2020,18595,19217,622
+"17","IL","Illinois","Effingham County","county","17049","February",2020,18548,19083,535
+"17","IL","Illinois","Effingham County","county","17049","March",2020,17779,18207,428
+"17","IL","Illinois","Effingham County","county","17049","April",2020,15894,18484,2590
+"17","IL","Illinois","Effingham County","county","17049","May",2020,16807,19155,2348
+"17","IL","Illinois","Fayette County","county","17051","January",2020,9175,9626,451
+"17","IL","Illinois","Fayette County","county","17051","February",2020,9168,9550,382
+"17","IL","Illinois","Fayette County","county","17051","March",2020,8836,9144,308
+"17","IL","Illinois","Fayette County","county","17051","April",2020,8073,9353,1280
+"17","IL","Illinois","Fayette County","county","17051","May",2020,8688,9835,1147
+"17","IL","Illinois","Ford County","county","17053","January",2020,5847,6127,280
+"17","IL","Illinois","Ford County","county","17053","February",2020,6137,6359,222
+"17","IL","Illinois","Ford County","county","17053","March",2020,5884,6070,186
+"17","IL","Illinois","Ford County","county","17053","April",2020,5112,5792,680
+"17","IL","Illinois","Ford County","county","17053","May",2020,5415,6077,662
+"17","IL","Illinois","Franklin County","county","17055","January",2020,15167,15998,831
+"17","IL","Illinois","Franklin County","county","17055","February",2020,15378,16079,701
+"17","IL","Illinois","Franklin County","county","17055","March",2020,14702,15325,623
+"17","IL","Illinois","Franklin County","county","17055","April",2020,12762,16704,3942
+"17","IL","Illinois","Franklin County","county","17055","May",2020,13427,16599,3172
+"17","IL","Illinois","Fulton County","county","17057","January",2020,13962,14852,890
+"17","IL","Illinois","Fulton County","county","17057","February",2020,13977,14759,782
+"17","IL","Illinois","Fulton County","county","17057","March",2020,13366,14040,674
+"17","IL","Illinois","Fulton County","county","17057","April",2020,11718,13982,2264
+"17","IL","Illinois","Fulton County","county","17057","May",2020,12588,14435,1847
+"17","IL","Illinois","Gallatin County","county","17059","January",2020,2193,2309,116
+"17","IL","Illinois","Gallatin County","county","17059","February",2020,2187,2291,104
+"17","IL","Illinois","Gallatin County","county","17059","March",2020,2096,2185,89
+"17","IL","Illinois","Gallatin County","county","17059","April",2020,1824,2145,321
+"17","IL","Illinois","Gallatin County","county","17059","May",2020,1938,2235,297
+"17","IL","Illinois","Greene County","county","17061","January",2020,5581,5827,246
+"17","IL","Illinois","Greene County","county","17061","February",2020,5600,5796,196
+"17","IL","Illinois","Greene County","county","17061","March",2020,5443,5612,169
+"17","IL","Illinois","Greene County","county","17061","April",2020,4860,5497,637
+"17","IL","Illinois","Greene County","county","17061","May",2020,5273,5820,547
+"17","IL","Illinois","Grundy County","county","17063","January",2020,23719,24982,1263
+"17","IL","Illinois","Grundy County","county","17063","February",2020,23999,25176,1177
+"17","IL","Illinois","Grundy County","county","17063","March",2020,24119,25646,1527
+"17","IL","Illinois","Grundy County","county","17063","April",2020,20216,24284,4068
+"17","IL","Illinois","Grundy County","county","17063","May",2020,21279,24686,3407
+"17","IL","Illinois","Hamilton County","county","17065","January",2020,4187,4335,148
+"17","IL","Illinois","Hamilton County","county","17065","February",2020,4167,4305,138
+"17","IL","Illinois","Hamilton County","county","17065","March",2020,4000,4120,120
+"17","IL","Illinois","Hamilton County","county","17065","April",2020,3295,3989,694
+"17","IL","Illinois","Hamilton County","county","17065","May",2020,3603,4131,528
+"17","IL","Illinois","Hancock County","county","17067","January",2020,7679,8063,384
+"17","IL","Illinois","Hancock County","county","17067","February",2020,7614,7955,341
+"17","IL","Illinois","Hancock County","county","17067","March",2020,7395,7695,300
+"17","IL","Illinois","Hancock County","county","17067","April",2020,6708,7880,1172
+"17","IL","Illinois","Hancock County","county","17067","May",2020,7289,8199,910
+"17","IL","Illinois","Hardin County","county","17069","January",2020,1201,1287,86
+"17","IL","Illinois","Hardin County","county","17069","February",2020,1214,1286,72
+"17","IL","Illinois","Hardin County","county","17069","March",2020,1166,1227,61
+"17","IL","Illinois","Hardin County","county","17069","April",2020,1068,1245,177
+"17","IL","Illinois","Hardin County","county","17069","May",2020,1131,1280,149
+"17","IL","Illinois","Henderson County","county","17071","January",2020,3293,3465,172
+"17","IL","Illinois","Henderson County","county","17071","February",2020,3264,3427,163
+"17","IL","Illinois","Henderson County","county","17071","March",2020,3239,3372,133
+"17","IL","Illinois","Henderson County","county","17071","April",2020,2903,3435,532
+"17","IL","Illinois","Henderson County","county","17071","May",2020,3204,3624,420
+"17","IL","Illinois","Henry County","county","17073","January",2020,23333,24574,1241
+"17","IL","Illinois","Henry County","county","17073","February",2020,23139,24186,1047
+"17","IL","Illinois","Henry County","county","17073","March",2020,22197,23075,878
+"17","IL","Illinois","Henry County","county","17073","April",2020,18996,22400,3404
+"17","IL","Illinois","Henry County","county","17073","May",2020,20431,23503,3072
+"17","IL","Illinois","Iroquois County","county","17075","January",2020,13132,13822,690
+"17","IL","Illinois","Iroquois County","county","17075","February",2020,13101,13680,579
+"17","IL","Illinois","Iroquois County","county","17075","March",2020,12816,13272,456
+"17","IL","Illinois","Iroquois County","county","17075","April",2020,11621,13028,1407
+"17","IL","Illinois","Iroquois County","county","17075","May",2020,12635,13809,1174
+"17","IL","Illinois","Jackson County","county","17077","January",2020,26425,27376,951
+"17","IL","Illinois","Jackson County","county","17077","February",2020,27005,27776,771
+"17","IL","Illinois","Jackson County","county","17077","March",2020,25665,26348,683
+"17","IL","Illinois","Jackson County","county","17077","April",2020,22101,25735,3634
+"17","IL","Illinois","Jackson County","county","17077","May",2020,23042,26484,3442
+"17","IL","Illinois","Jasper County","county","17079","January",2020,4460,4661,201
+"17","IL","Illinois","Jasper County","county","17079","February",2020,4447,4614,167
+"17","IL","Illinois","Jasper County","county","17079","March",2020,4377,4514,137
+"17","IL","Illinois","Jasper County","county","17079","April",2020,4037,4509,472
+"17","IL","Illinois","Jasper County","county","17079","May",2020,4408,4845,437
+"17","IL","Illinois","Jefferson County","county","17081","January",2020,16521,17240,719
+"17","IL","Illinois","Jefferson County","county","17081","February",2020,16557,17171,614
+"17","IL","Illinois","Jefferson County","county","17081","March",2020,15765,16270,505
+"17","IL","Illinois","Jefferson County","county","17081","April",2020,12194,16671,4477
+"17","IL","Illinois","Jefferson County","county","17081","May",2020,13886,17214,3328
+"17","IL","Illinois","Jersey County","county","17083","January",2020,10457,10934,477
+"17","IL","Illinois","Jersey County","county","17083","February",2020,10434,10838,404
+"17","IL","Illinois","Jersey County","county","17083","March",2020,9942,10256,314
+"17","IL","Illinois","Jersey County","county","17083","April",2020,8456,9989,1533
+"17","IL","Illinois","Jersey County","county","17083","May",2020,9016,10348,1332
+"17","IL","Illinois","Jo Daviess County","county","17085","January",2020,9790,10356,566
+"17","IL","Illinois","Jo Daviess County","county","17085","February",2020,9795,10243,448
+"17","IL","Illinois","Jo Daviess County","county","17085","March",2020,9380,9780,400
+"17","IL","Illinois","Jo Daviess County","county","17085","April",2020,8148,9898,1750
+"17","IL","Illinois","Jo Daviess County","county","17085","May",2020,9095,10690,1595
+"17","IL","Illinois","Johnson County","county","17087","January",2020,3927,4170,243
+"17","IL","Illinois","Johnson County","county","17087","February",2020,4001,4220,219
+"17","IL","Illinois","Johnson County","county","17087","March",2020,3833,4011,178
+"17","IL","Illinois","Johnson County","county","17087","April",2020,3468,4151,683
+"17","IL","Illinois","Johnson County","county","17087","May",2020,3599,4216,617
+"17","IL","Illinois","Kane County","county","17089","January",2020,259845,272714,12869
+"17","IL","Illinois","Kane County","county","17089","February",2020,259442,270431,10989
+"17","IL","Illinois","Kane County","county","17089","March",2020,246640,256167,9527
+"17","IL","Illinois","Kane County","county","17089","April",2020,203149,244269,41120
+"17","IL","Illinois","Kane County","county","17089","May",2020,215596,253626,38030
+"17","IL","Illinois","Kankakee County","county","17091","January",2020,52918,55939,3021
+"17","IL","Illinois","Kankakee County","county","17091","February",2020,52822,55329,2507
+"17","IL","Illinois","Kankakee County","county","17091","March",2020,50603,52708,2105
+"17","IL","Illinois","Kankakee County","county","17091","April",2020,43590,51690,8100
+"17","IL","Illinois","Kankakee County","county","17091","May",2020,46711,53899,7188
+"17","IL","Illinois","Kendall County","county","17093","January",2020,64940,67283,2343
+"17","IL","Illinois","Kendall County","county","17093","February",2020,65626,67885,2259
+"17","IL","Illinois","Kendall County","county","17093","March",2020,65736,68854,3118
+"17","IL","Illinois","Kendall County","county","17093","April",2020,55239,66082,10843
+"17","IL","Illinois","Kendall County","county","17093","May",2020,57982,67249,9267
+"17","IL","Illinois","Knox County","county","17095","January",2020,20025,21038,1013
+"17","IL","Illinois","Knox County","county","17095","February",2020,19961,20838,877
+"17","IL","Illinois","Knox County","county","17095","March",2020,19083,19874,791
+"17","IL","Illinois","Knox County","county","17095","April",2020,17193,20131,2938
+"17","IL","Illinois","Knox County","county","17095","May",2020,18299,21010,2711
+"17","IL","Illinois","Lake County","county","17097","January",2020,354917,371213,16296
+"17","IL","Illinois","Lake County","county","17097","February",2020,354390,368187,13797
+"17","IL","Illinois","Lake County","county","17097","March",2020,335435,347558,12123
+"17","IL","Illinois","Lake County","county","17097","April",2020,284523,333459,48936
+"17","IL","Illinois","Lake County","county","17097","May",2020,302714,347446,44732
+"17","IL","Illinois","Lasalle County","county","17099","January",2020,51196,54389,3193
+"17","IL","Illinois","Lasalle County","county","17099","February",2020,50914,53486,2572
+"17","IL","Illinois","Lasalle County","county","17099","March",2020,48722,50927,2205
+"17","IL","Illinois","Lasalle County","county","17099","April",2020,42071,51506,9435
+"17","IL","Illinois","Lasalle County","county","17099","May",2020,44854,53132,8278
+"17","IL","Illinois","Lawrence County","county","17101","January",2020,5520,5811,291
+"17","IL","Illinois","Lawrence County","county","17101","February",2020,5536,5772,236
+"17","IL","Illinois","Lawrence County","county","17101","March",2020,5285,5483,198
+"17","IL","Illinois","Lawrence County","county","17101","April",2020,4348,5710,1362
+"17","IL","Illinois","Lawrence County","county","17101","May",2020,4912,5854,942
+"17","IL","Illinois","Lee County","county","17103","January",2020,16886,17604,718
+"17","IL","Illinois","Lee County","county","17103","February",2020,16732,17296,564
+"17","IL","Illinois","Lee County","county","17103","March",2020,15952,16423,471
+"17","IL","Illinois","Lee County","county","17103","April",2020,14266,16354,2088
+"17","IL","Illinois","Lee County","county","17103","May",2020,14933,16855,1922
+"17","IL","Illinois","Livingston County","county","17105","January",2020,15342,16040,698
+"17","IL","Illinois","Livingston County","county","17105","February",2020,15292,15858,566
+"17","IL","Illinois","Livingston County","county","17105","March",2020,14662,15152,490
+"17","IL","Illinois","Livingston County","county","17105","April",2020,13352,15192,1840
+"17","IL","Illinois","Livingston County","county","17105","May",2020,14297,15836,1539
+"17","IL","Illinois","Logan County","county","17107","January",2020,11792,12293,501
+"17","IL","Illinois","Logan County","county","17107","February",2020,11862,12279,417
+"17","IL","Illinois","Logan County","county","17107","March",2020,11343,11707,364
+"17","IL","Illinois","Logan County","county","17107","April",2020,10271,11617,1346
+"17","IL","Illinois","Logan County","county","17107","May",2020,10818,12005,1187
+"17","IL","Illinois","Mcdonough County","county","17109","January",2020,12492,12999,507
+"17","IL","Illinois","Mcdonough County","county","17109","February",2020,12664,13084,420
+"17","IL","Illinois","Mcdonough County","county","17109","March",2020,11932,12416,484
+"17","IL","Illinois","Mcdonough County","county","17109","April",2020,10993,12434,1441
+"17","IL","Illinois","Mcdonough County","county","17109","May",2020,11621,12896,1275
+"17","IL","Illinois","Mchenry County","county","17111","January",2020,156451,162258,5807
+"17","IL","Illinois","Mchenry County","county","17111","February",2020,158432,164000,5568
+"17","IL","Illinois","Mchenry County","county","17111","March",2020,159254,166916,7662
+"17","IL","Illinois","Mchenry County","county","17111","April",2020,133314,159520,26206
+"17","IL","Illinois","Mchenry County","county","17111","May",2020,140089,161500,21411
+"17","IL","Illinois","Mclean County","county","17113","January",2020,83713,86598,2885
+"17","IL","Illinois","Mclean County","county","17113","February",2020,84274,86658,2384
+"17","IL","Illinois","Mclean County","county","17113","March",2020,79735,81858,2123
+"17","IL","Illinois","Mclean County","county","17113","April",2020,67798,77937,10139
+"17","IL","Illinois","Mclean County","county","17113","May",2020,71950,80839,8889
+"17","IL","Illinois","Macon County","county","17115","January",2020,45306,47733,2427
+"17","IL","Illinois","Macon County","county","17115","February",2020,45087,47129,2042
+"17","IL","Illinois","Macon County","county","17115","March",2020,43083,44958,1875
+"17","IL","Illinois","Macon County","county","17115","April",2020,35739,42401,6662
+"17","IL","Illinois","Macon County","county","17115","May",2020,38075,44703,6628
+"17","IL","Illinois","Macoupin County","county","17117","January",2020,21825,22780,955
+"17","IL","Illinois","Macoupin County","county","17117","February",2020,21738,22534,796
+"17","IL","Illinois","Macoupin County","county","17117","March",2020,20729,21410,681
+"17","IL","Illinois","Macoupin County","county","17117","April",2020,17665,20483,2818
+"17","IL","Illinois","Macoupin County","county","17117","May",2020,18930,21347,2417
+"17","IL","Illinois","Madison County","county","17119","January",2020,129205,134051,4846
+"17","IL","Illinois","Madison County","county","17119","February",2020,128877,132902,4025
+"17","IL","Illinois","Madison County","county","17119","March",2020,122309,125727,3418
+"17","IL","Illinois","Madison County","county","17119","April",2020,104257,122282,18025
+"17","IL","Illinois","Madison County","county","17119","May",2020,110571,127315,16744
+"17","IL","Illinois","Marion County","county","17121","January",2020,16473,17205,732
+"17","IL","Illinois","Marion County","county","17121","February",2020,16447,17054,607
+"17","IL","Illinois","Marion County","county","17121","March",2020,15713,16234,521
+"17","IL","Illinois","Marion County","county","17121","April",2020,13454,17348,3894
+"17","IL","Illinois","Marion County","county","17121","May",2020,14350,17453,3103
+"17","IL","Illinois","Marshall County","county","17123","January",2020,4893,5169,276
+"17","IL","Illinois","Marshall County","county","17123","February",2020,4872,5107,235
+"17","IL","Illinois","Marshall County","county","17123","March",2020,4617,4819,202
+"17","IL","Illinois","Marshall County","county","17123","April",2020,3789,4439,650
+"17","IL","Illinois","Marshall County","county","17123","May",2020,4119,4651,532
+"17","IL","Illinois","Mason County","county","17125","January",2020,5811,6166,355
+"17","IL","Illinois","Mason County","county","17125","February",2020,5788,6075,287
+"17","IL","Illinois","Mason County","county","17125","March",2020,5566,5808,242
+"17","IL","Illinois","Mason County","county","17125","April",2020,4971,5738,767
+"17","IL","Illinois","Mason County","county","17125","May",2020,5399,6090,691
+"17","IL","Illinois","Massac County","county","17127","January",2020,5328,5629,301
+"17","IL","Illinois","Massac County","county","17127","February",2020,5335,5579,244
+"17","IL","Illinois","Massac County","county","17127","March",2020,5113,5322,209
+"17","IL","Illinois","Massac County","county","17127","April",2020,4253,5379,1126
+"17","IL","Illinois","Massac County","county","17127","May",2020,4500,5389,889
+"17","IL","Illinois","Menard County","county","17129","January",2020,6124,6395,271
+"17","IL","Illinois","Menard County","county","17129","February",2020,6116,6344,228
+"17","IL","Illinois","Menard County","county","17129","March",2020,5866,6045,179
+"17","IL","Illinois","Menard County","county","17129","April",2020,4980,5684,704
+"17","IL","Illinois","Menard County","county","17129","May",2020,5295,5901,606
+"17","IL","Illinois","Mercer County","county","17131","January",2020,7486,7973,487
+"17","IL","Illinois","Mercer County","county","17131","February",2020,7414,7844,430
+"17","IL","Illinois","Mercer County","county","17131","March",2020,7136,7472,336
+"17","IL","Illinois","Mercer County","county","17131","April",2020,6106,7239,1133
+"17","IL","Illinois","Mercer County","county","17131","May",2020,6619,7629,1010
+"17","IL","Illinois","Monroe County","county","17133","January",2020,18205,18735,530
+"17","IL","Illinois","Monroe County","county","17133","February",2020,18143,18605,462
+"17","IL","Illinois","Monroe County","county","17133","March",2020,17223,17591,368
+"17","IL","Illinois","Monroe County","county","17133","April",2020,14696,16795,2099
+"17","IL","Illinois","Monroe County","county","17133","May",2020,15620,17339,1719
+"17","IL","Illinois","Montgomery County","county","17135","January",2020,10792,11484,692
+"17","IL","Illinois","Montgomery County","county","17135","February",2020,10774,11358,584
+"17","IL","Illinois","Montgomery County","county","17135","March",2020,10419,10890,471
+"17","IL","Illinois","Montgomery County","county","17135","April",2020,9325,11115,1790
+"17","IL","Illinois","Montgomery County","county","17135","May",2020,9894,11467,1573
+"17","IL","Illinois","Morgan County","county","17137","January",2020,15416,16091,675
+"17","IL","Illinois","Morgan County","county","17137","February",2020,15440,15991,551
+"17","IL","Illinois","Morgan County","county","17137","March",2020,14831,15310,479
+"17","IL","Illinois","Morgan County","county","17137","April",2020,13436,15112,1676
+"17","IL","Illinois","Morgan County","county","17137","May",2020,14223,15740,1517
+"17","IL","Illinois","Moultrie County","county","17139","January",2020,7240,7468,228
+"17","IL","Illinois","Moultrie County","county","17139","February",2020,7235,7422,187
+"17","IL","Illinois","Moultrie County","county","17139","March",2020,6942,7100,158
+"17","IL","Illinois","Moultrie County","county","17139","April",2020,6264,6810,546
+"17","IL","Illinois","Moultrie County","county","17139","May",2020,6673,7189,516
+"17","IL","Illinois","Ogle County","county","17141","January",2020,22772,24225,1453
+"17","IL","Illinois","Ogle County","county","17141","February",2020,22891,23940,1049
+"17","IL","Illinois","Ogle County","county","17141","March",2020,22007,22871,864
+"17","IL","Illinois","Ogle County","county","17141","April",2020,19570,23040,3470
+"17","IL","Illinois","Ogle County","county","17141","May",2020,20765,23867,3102
+"17","IL","Illinois","Peoria County","county","17143","January",2020,79142,83643,4501
+"17","IL","Illinois","Peoria County","county","17143","February",2020,78961,82684,3723
+"17","IL","Illinois","Peoria County","county","17143","March",2020,73895,77054,3159
+"17","IL","Illinois","Peoria County","county","17143","April",2020,60651,75105,14454
+"17","IL","Illinois","Peoria County","county","17143","May",2020,64532,77880,13348
+"17","IL","Illinois","Perry County","county","17145","January",2020,7854,8225,371
+"17","IL","Illinois","Perry County","county","17145","February",2020,7883,8194,311
+"17","IL","Illinois","Perry County","county","17145","March",2020,7519,7783,264
+"17","IL","Illinois","Perry County","county","17145","April",2020,6738,8561,1823
+"17","IL","Illinois","Perry County","county","17145","May",2020,7092,8693,1601
+"17","IL","Illinois","Piatt County","county","17147","January",2020,7947,8240,293
+"17","IL","Illinois","Piatt County","county","17147","February",2020,8385,8616,231
+"17","IL","Illinois","Piatt County","county","17147","March",2020,7984,8173,189
+"17","IL","Illinois","Piatt County","county","17147","April",2020,6940,7696,756
+"17","IL","Illinois","Piatt County","county","17147","May",2020,7224,7884,660
+"17","IL","Illinois","Pike County","county","17149","January",2020,6343,6667,324
+"17","IL","Illinois","Pike County","county","17149","February",2020,6315,6594,279
+"17","IL","Illinois","Pike County","county","17149","March",2020,6198,6426,228
+"17","IL","Illinois","Pike County","county","17149","April",2020,5705,6421,716
+"17","IL","Illinois","Pike County","county","17149","May",2020,6216,6796,580
+"17","IL","Illinois","Pope County","county","17151","January",2020,1570,1657,87
+"17","IL","Illinois","Pope County","county","17151","February",2020,1582,1653,71
+"17","IL","Illinois","Pope County","county","17151","March",2020,1529,1594,65
+"17","IL","Illinois","Pope County","county","17151","April",2020,1359,1588,229
+"17","IL","Illinois","Pope County","county","17151","May",2020,1468,1671,203
+"17","IL","Illinois","Pulaski County","county","17153","January",2020,1803,1923,120
+"17","IL","Illinois","Pulaski County","county","17153","February",2020,1795,1911,116
+"17","IL","Illinois","Pulaski County","county","17153","March",2020,1715,1822,107
+"17","IL","Illinois","Pulaski County","county","17153","April",2020,1432,1770,338
+"17","IL","Illinois","Pulaski County","county","17153","May",2020,1576,1865,289
+"17","IL","Illinois","Putnam County","county","17155","January",2020,2901,3095,194
+"17","IL","Illinois","Putnam County","county","17155","February",2020,2910,3070,160
+"17","IL","Illinois","Putnam County","county","17155","March",2020,2819,2946,127
+"17","IL","Illinois","Putnam County","county","17155","April",2020,2433,2914,481
+"17","IL","Illinois","Putnam County","county","17155","May",2020,2679,3054,375
+"17","IL","Illinois","Randolph County","county","17157","January",2020,13629,14146,517
+"17","IL","Illinois","Randolph County","county","17157","February",2020,13625,14039,414
+"17","IL","Illinois","Randolph County","county","17157","March",2020,13019,13350,331
+"17","IL","Illinois","Randolph County","county","17157","April",2020,11375,13533,2158
+"17","IL","Illinois","Randolph County","county","17157","May",2020,12016,13873,1857
+"17","IL","Illinois","Richland County","county","17159","January",2020,6836,7111,275
+"17","IL","Illinois","Richland County","county","17159","February",2020,6831,7061,230
+"17","IL","Illinois","Richland County","county","17159","March",2020,6561,6764,203
+"17","IL","Illinois","Richland County","county","17159","April",2020,5986,7080,1094
+"17","IL","Illinois","Richland County","county","17159","May",2020,6371,7199,828
+"17","IL","Illinois","Rock Island County","county","17161","January",2020,67171,70708,3537
+"17","IL","Illinois","Rock Island County","county","17161","February",2020,66798,69781,2983
+"17","IL","Illinois","Rock Island County","county","17161","March",2020,63842,66355,2513
+"17","IL","Illinois","Rock Island County","county","17161","April",2020,54530,66269,11739
+"17","IL","Illinois","Rock Island County","county","17161","May",2020,57974,69257,11283
+"17","IL","Illinois","St. Clair County","county","17163","January",2020,121306,126396,5090
+"17","IL","Illinois","St. Clair County","county","17163","February",2020,121052,125252,4200
+"17","IL","Illinois","St. Clair County","county","17163","March",2020,114893,118499,3606
+"17","IL","Illinois","St. Clair County","county","17163","April",2020,97873,116380,18507
+"17","IL","Illinois","St. Clair County","county","17163","May",2020,103717,121636,17919
+"17","IL","Illinois","Saline County","county","17165","January",2020,9004,9525,521
+"17","IL","Illinois","Saline County","county","17165","February",2020,9067,9494,427
+"17","IL","Illinois","Saline County","county","17165","March",2020,8687,9081,394
+"17","IL","Illinois","Saline County","county","17165","April",2020,7759,9482,1723
+"17","IL","Illinois","Saline County","county","17165","May",2020,8187,9719,1532
+"17","IL","Illinois","Sangamon County","county","17167","January",2020,95679,99493,3814
+"17","IL","Illinois","Sangamon County","county","17167","February",2020,95694,98883,3189
+"17","IL","Illinois","Sangamon County","county","17167","March",2020,91497,94239,2742
+"17","IL","Illinois","Sangamon County","county","17167","April",2020,77612,90614,13002
+"17","IL","Illinois","Sangamon County","county","17167","May",2020,81784,94185,12401
+"17","IL","Illinois","Schuyler County","county","17169","January",2020,2959,3105,146
+"17","IL","Illinois","Schuyler County","county","17169","February",2020,2933,3048,115
+"17","IL","Illinois","Schuyler County","county","17169","March",2020,2857,2960,103
+"17","IL","Illinois","Schuyler County","county","17169","April",2020,2702,3048,346
+"17","IL","Illinois","Schuyler County","county","17169","May",2020,2883,3180,297
+"17","IL","Illinois","Scott County","county","17171","January",2020,2327,2462,135
+"17","IL","Illinois","Scott County","county","17171","February",2020,2328,2442,114
+"17","IL","Illinois","Scott County","county","17171","March",2020,2261,2354,93
+"17","IL","Illinois","Scott County","county","17171","April",2020,2060,2302,242
+"17","IL","Illinois","Scott County","county","17171","May",2020,2235,2453,218
+"17","IL","Illinois","Shelby County","county","17173","January",2020,9947,10371,424
+"17","IL","Illinois","Shelby County","county","17173","February",2020,9912,10253,341
+"17","IL","Illinois","Shelby County","county","17173","March",2020,9546,9822,276
+"17","IL","Illinois","Shelby County","county","17173","April",2020,8670,9784,1114
+"17","IL","Illinois","Shelby County","county","17173","May",2020,9303,10410,1107
+"17","IL","Illinois","Stark County","county","17175","January",2020,2280,2421,141
+"17","IL","Illinois","Stark County","county","17175","February",2020,2260,2380,120
+"17","IL","Illinois","Stark County","county","17175","March",2020,2147,2246,99
+"17","IL","Illinois","Stark County","county","17175","April",2020,1773,2057,284
+"17","IL","Illinois","Stark County","county","17175","May",2020,1951,2197,246
+"17","IL","Illinois","Stephenson County","county","17177","January",2020,20181,21225,1044
+"17","IL","Illinois","Stephenson County","county","17177","February",2020,20099,20950,851
+"17","IL","Illinois","Stephenson County","county","17177","March",2020,19441,20134,693
+"17","IL","Illinois","Stephenson County","county","17177","April",2020,17431,20002,2571
+"17","IL","Illinois","Stephenson County","county","17177","May",2020,18702,20857,2155
+"17","IL","Illinois","Tazewell County","county","17179","January",2020,59675,62654,2979
+"17","IL","Illinois","Tazewell County","county","17179","February",2020,59482,61930,2448
+"17","IL","Illinois","Tazewell County","county","17179","March",2020,55731,57796,2065
+"17","IL","Illinois","Tazewell County","county","17179","April",2020,45793,55415,9622
+"17","IL","Illinois","Tazewell County","county","17179","May",2020,48908,57196,8288
+"17","IL","Illinois","Union County","county","17181","January",2020,6929,7371,442
+"17","IL","Illinois","Union County","county","17181","February",2020,7018,7400,382
+"17","IL","Illinois","Union County","county","17181","March",2020,6723,7058,335
+"17","IL","Illinois","Union County","county","17181","April",2020,6036,7013,977
+"17","IL","Illinois","Union County","county","17181","May",2020,6384,7263,879
+"17","IL","Illinois","Vermilion County","county","17183","January",2020,30821,32407,1586
+"17","IL","Illinois","Vermilion County","county","17183","February",2020,30960,32271,1311
+"17","IL","Illinois","Vermilion County","county","17183","March",2020,29465,30564,1099
+"17","IL","Illinois","Vermilion County","county","17183","April",2020,25716,30979,5263
+"17","IL","Illinois","Vermilion County","county","17183","May",2020,27412,32169,4757
+"17","IL","Illinois","Wabash County","county","17185","January",2020,5681,5865,184
+"17","IL","Illinois","Wabash County","county","17185","February",2020,5694,5862,168
+"17","IL","Illinois","Wabash County","county","17185","March",2020,5496,5654,158
+"17","IL","Illinois","Wabash County","county","17185","April",2020,4830,6401,1571
+"17","IL","Illinois","Wabash County","county","17185","May",2020,5200,6352,1152
+"17","IL","Illinois","Warren County","county","17187","January",2020,7850,8168,318
+"17","IL","Illinois","Warren County","county","17187","February",2020,7867,8127,260
+"17","IL","Illinois","Warren County","county","17187","March",2020,7574,7815,241
+"17","IL","Illinois","Warren County","county","17187","April",2020,6938,7722,784
+"17","IL","Illinois","Warren County","county","17187","May",2020,7405,8139,734
+"17","IL","Illinois","Washington County","county","17189","January",2020,9447,9680,233
+"17","IL","Illinois","Washington County","county","17189","February",2020,9572,9769,197
+"17","IL","Illinois","Washington County","county","17189","March",2020,9138,9297,159
+"17","IL","Illinois","Washington County","county","17189","April",2020,6944,8417,1473
+"17","IL","Illinois","Washington County","county","17189","May",2020,7700,8824,1124
+"17","IL","Illinois","Wayne County","county","17191","January",2020,6480,6775,295
+"17","IL","Illinois","Wayne County","county","17191","February",2020,6472,6728,256
+"17","IL","Illinois","Wayne County","county","17191","March",2020,6301,6526,225
+"17","IL","Illinois","Wayne County","county","17191","April",2020,5662,7011,1349
+"17","IL","Illinois","Wayne County","county","17191","May",2020,6144,7268,1124
+"17","IL","Illinois","White County","county","17193","January",2020,6219,6454,235
+"17","IL","Illinois","White County","county","17193","February",2020,6189,6389,200
+"17","IL","Illinois","White County","county","17193","March",2020,5955,6136,181
+"17","IL","Illinois","White County","county","17193","April",2020,5236,6343,1107
+"17","IL","Illinois","White County","county","17193","May",2020,5614,6470,856
+"17","IL","Illinois","Whiteside County","county","17195","January",2020,26936,28191,1255
+"17","IL","Illinois","Whiteside County","county","17195","February",2020,26765,27781,1016
+"17","IL","Illinois","Whiteside County","county","17195","March",2020,25587,26427,840
+"17","IL","Illinois","Whiteside County","county","17195","April",2020,22516,26766,4250
+"17","IL","Illinois","Whiteside County","county","17195","May",2020,23645,27615,3970
+"17","IL","Illinois","Will County","county","17197","January",2020,336465,350497,14032
+"17","IL","Illinois","Will County","county","17197","February",2020,340211,353805,13594
+"17","IL","Illinois","Will County","county","17197","March",2020,340890,359755,18865
+"17","IL","Illinois","Will County","county","17197","April",2020,286214,346466,60252
+"17","IL","Illinois","Will County","county","17197","May",2020,300217,352664,52447
+"17","IL","Illinois","Williamson County","county","17199","January",2020,30172,31505,1333
+"17","IL","Illinois","Williamson County","county","17199","February",2020,30849,31949,1100
+"17","IL","Illinois","Williamson County","county","17199","March",2020,29282,30290,1008
+"17","IL","Illinois","Williamson County","county","17199","April",2020,25221,31230,6009
+"17","IL","Illinois","Williamson County","county","17199","May",2020,26222,31495,5273
+"17","IL","Illinois","Winnebago County","county","17201","January",2020,125915,136441,10526
+"17","IL","Illinois","Winnebago County","county","17201","February",2020,128307,134619,6312
+"17","IL","Illinois","Winnebago County","county","17201","March",2020,121480,126954,5474
+"17","IL","Illinois","Winnebago County","county","17201","April",2020,102325,131169,28844
+"17","IL","Illinois","Winnebago County","county","17201","May",2020,108770,134515,25745
+"17","IL","Illinois","Woodford County","county","17203","January",2020,17601,18285,684
+"17","IL","Illinois","Woodford County","county","17203","February",2020,17538,18104,566
+"17","IL","Illinois","Woodford County","county","17203","March",2020,16473,16962,489
+"17","IL","Illinois","Woodford County","county","17203","April",2020,13536,15480,1944
+"17","IL","Illinois","Woodford County","county","17203","May",2020,14521,16184,1663
+"17","IL","Illinois","Illinois","state",NA,"January",2020,6059346,6312658,253312
+"17","IL","Illinois","Illinois","state",NA,"February",2020,6112782,6336267,223485
+"17","IL","Illinois","Illinois","state",NA,"March",2020,6004341,6267000,262659
+"17","IL","Illinois","Illinois","state",NA,"April",2020,5069529,6090530,1021001
+"17","IL","Illinois","Illinois","state",NA,"May",2020,5345231,6265841,920610
+"17","IL","Illinois","Addison Village","city",NA,"January",2020,18053,18896,843
+"17","IL","Illinois","Addison Village","city",NA,"February",2020,18288,19074,786
+"17","IL","Illinois","Addison Village","city",NA,"March",2020,18367,19433,1066
+"17","IL","Illinois","Addison Village","city",NA,"April",2020,15373,18492,3119
+"17","IL","Illinois","Addison Village","city",NA,"May",2020,16121,18809,2688
+"17","IL","Illinois","Algonquin Village","city",NA,"January",2020,16386,16922,536
+"17","IL","Illinois","Algonquin Village","city",NA,"February",2020,16530,17044,514
+"17","IL","Illinois","Algonquin Village","city",NA,"March",2020,16373,17043,670
+"17","IL","Illinois","Algonquin Village","city",NA,"April",2020,13649,16434,2785
+"17","IL","Illinois","Algonquin Village","city",NA,"May",2020,14378,16813,2435
+"17","IL","Illinois","Alton City","city",NA,"January",2020,10887,11391,504
+"17","IL","Illinois","Alton City","city",NA,"February",2020,10860,11286,426
+"17","IL","Illinois","Alton City","city",NA,"March",2020,10306,10653,347
+"17","IL","Illinois","Alton City","city",NA,"April",2020,8785,10785,2000
+"17","IL","Illinois","Alton City","city",NA,"May",2020,9317,11209,1892
+"17","IL","Illinois","Arlington Heights Village","city",NA,"January",2020,38655,39634,979
+"17","IL","Illinois","Arlington Heights Village","city",NA,"February",2020,39166,40067,901
+"17","IL","Illinois","Arlington Heights Village","city",NA,"March",2020,39348,40666,1318
+"17","IL","Illinois","Arlington Heights Village","city",NA,"April",2020,32920,38166,5246
+"17","IL","Illinois","Arlington Heights Village","city",NA,"May",2020,34522,39126,4604
+"17","IL","Illinois","Aurora City","city",NA,"January",2020,96721,100879,4158
+"17","IL","Illinois","Aurora City","city",NA,"February",2020,97079,100727,3648
+"17","IL","Illinois","Aurora City","city",NA,"March",2020,94240,97946,3706
+"17","IL","Illinois","Aurora City","city",NA,"April",2020,78139,92534,14395
+"17","IL","Illinois","Aurora City","city",NA,"May",2020,82543,96037,13494
+"17","IL","Illinois","Bartlett Village","city",NA,"January",2020,21789,22438,649
+"17","IL","Illinois","Bartlett Village","city",NA,"February",2020,22074,22705,631
+"17","IL","Illinois","Bartlett Village","city",NA,"March",2020,22173,23086,913
+"17","IL","Illinois","Bartlett Village","city",NA,"April",2020,18555,22144,3589
+"17","IL","Illinois","Bartlett Village","city",NA,"May",2020,19459,22539,3080
+"17","IL","Illinois","Batavia City","city",NA,"January",2020,13308,13757,449
+"17","IL","Illinois","Batavia City","city",NA,"February",2020,13287,13652,365
+"17","IL","Illinois","Batavia City","city",NA,"March",2020,12632,12961,329
+"17","IL","Illinois","Batavia City","city",NA,"April",2020,10404,12147,1743
+"17","IL","Illinois","Batavia City","city",NA,"May",2020,11042,12659,1617
+"17","IL","Illinois","Belleville City","city",NA,"January",2020,21203,22094,891
+"17","IL","Illinois","Belleville City","city",NA,"February",2020,21159,21902,743
+"17","IL","Illinois","Belleville City","city",NA,"March",2020,20082,20726,644
+"17","IL","Illinois","Belleville City","city",NA,"April",2020,17107,20610,3503
+"17","IL","Illinois","Belleville City","city",NA,"May",2020,18129,21675,3546
+"17","IL","Illinois","Belvidere City","city",NA,"January",2020,10405,11915,1510
+"17","IL","Illinois","Belvidere City","city",NA,"February",2020,10589,11359,770
+"17","IL","Illinois","Belvidere City","city",NA,"March",2020,10037,10662,625
+"17","IL","Illinois","Belvidere City","city",NA,"April",2020,8463,11630,3167
+"17","IL","Illinois","Belvidere City","city",NA,"May",2020,9033,11862,2829
+"17","IL","Illinois","Berwyn City","city",NA,"January",2020,25137,26253,1116
+"17","IL","Illinois","Berwyn City","city",NA,"February",2020,25469,26507,1038
+"17","IL","Illinois","Berwyn City","city",NA,"March",2020,25588,27063,1475
+"17","IL","Illinois","Berwyn City","city",NA,"April",2020,21407,27059,5652
+"17","IL","Illinois","Berwyn City","city",NA,"May",2020,22449,27581,5132
+"17","IL","Illinois","Bloomington City","city",NA,"January",2020,37762,39097,1335
+"17","IL","Illinois","Bloomington City","city",NA,"February",2020,38015,39115,1100
+"17","IL","Illinois","Bloomington City","city",NA,"March",2020,35968,36953,985
+"17","IL","Illinois","Bloomington City","city",NA,"April",2020,30583,35731,5148
+"17","IL","Illinois","Bloomington City","city",NA,"May",2020,32456,37043,4587
+"17","IL","Illinois","Bolingbrook Village","city",NA,"January",2020,38213,39492,1279
+"17","IL","Illinois","Bolingbrook Village","city",NA,"February",2020,38639,39873,1234
+"17","IL","Illinois","Bolingbrook Village","city",NA,"March",2020,38719,40521,1802
+"17","IL","Illinois","Bolingbrook Village","city",NA,"April",2020,32506,39132,6626
+"17","IL","Illinois","Bolingbrook Village","city",NA,"May",2020,34096,40144,6048
+"17","IL","Illinois","Buffalo Grove Village","city",NA,"January",2020,23312,23971,659
+"17","IL","Illinois","Buffalo Grove Village","city",NA,"February",2020,23382,23952,570
+"17","IL","Illinois","Buffalo Grove Village","city",NA,"March",2020,22550,23167,617
+"17","IL","Illinois","Buffalo Grove Village","city",NA,"April",2020,19044,22088,3044
+"17","IL","Illinois","Buffalo Grove Village","city",NA,"May",2020,20169,22942,2773
+"17","IL","Illinois","Burbank City","city",NA,"January",2020,13055,13662,607
+"17","IL","Illinois","Burbank City","city",NA,"February",2020,13227,13816,589
+"17","IL","Illinois","Burbank City","city",NA,"March",2020,13289,14102,813
+"17","IL","Illinois","Burbank City","city",NA,"April",2020,11118,13922,2804
+"17","IL","Illinois","Burbank City","city",NA,"May",2020,11659,14071,2412
+"17","IL","Illinois","Calumet City City","city",NA,"January",2020,14556,15366,810
+"17","IL","Illinois","Calumet City City","city",NA,"February",2020,14749,15541,792
+"17","IL","Illinois","Calumet City City","city",NA,"March",2020,14817,15923,1106
+"17","IL","Illinois","Calumet City City","city",NA,"April",2020,12396,15937,3541
+"17","IL","Illinois","Calumet City City","city",NA,"May",2020,13000,16389,3389
+"17","IL","Illinois","Carbondale City","city",NA,"January",2020,10891,11235,344
+"17","IL","Illinois","Carbondale City","city",NA,"February",2020,11130,11416,286
+"17","IL","Illinois","Carbondale City","city",NA,"March",2020,10577,10845,268
+"17","IL","Illinois","Carbondale City","city",NA,"April",2020,9109,10604,1495
+"17","IL","Illinois","Carbondale City","city",NA,"May",2020,9496,10997,1501
+"17","IL","Illinois","Carol Stream Village","city",NA,"January",2020,22259,22900,641
+"17","IL","Illinois","Carol Stream Village","city",NA,"February",2020,22548,23147,599
+"17","IL","Illinois","Carol Stream Village","city",NA,"March",2020,22646,23479,833
+"17","IL","Illinois","Carol Stream Village","city",NA,"April",2020,18954,22586,3632
+"17","IL","Illinois","Carol Stream Village","city",NA,"May",2020,19877,22989,3112
+"17","IL","Illinois","Carpentersville Village","city",NA,"January",2020,17891,19393,1502
+"17","IL","Illinois","Carpentersville Village","city",NA,"February",2020,17863,19173,1310
+"17","IL","Illinois","Carpentersville Village","city",NA,"March",2020,16982,18091,1109
+"17","IL","Illinois","Carpentersville Village","city",NA,"April",2020,13987,17527,3540
+"17","IL","Illinois","Carpentersville Village","city",NA,"May",2020,14844,18097,3253
+"17","IL","Illinois","Champaign City","city",NA,"January",2020,42728,44137,1409
+"17","IL","Illinois","Champaign City","city",NA,"February",2020,45309,46469,1160
+"17","IL","Illinois","Champaign City","city",NA,"March",2020,42869,43872,1003
+"17","IL","Illinois","Champaign City","city",NA,"April",2020,37272,41936,4664
+"17","IL","Illinois","Champaign City","city",NA,"May",2020,38163,42596,4433
+"17","IL","Illinois","Chicago City","city",NA,"January",2020,1259694,1308478,48784
+"17","IL","Illinois","Chicago City","city",NA,"February",2020,1276352,1322805,46453
+"17","IL","Illinois","Chicago City","city",NA,"March",2020,1282292,1349969,67677
+"17","IL","Illinois","Chicago City","city",NA,"April",2020,1072805,1320303,247498
+"17","IL","Illinois","Chicago City","city",NA,"May",2020,1125028,1355800,230772
+"17","IL","Illinois","Chicago Heights City","city",NA,"January",2020,11544,12385,841
+"17","IL","Illinois","Chicago Heights City","city",NA,"February",2020,11697,12509,812
+"17","IL","Illinois","Chicago Heights City","city",NA,"March",2020,11751,12823,1072
+"17","IL","Illinois","Chicago Heights City","city",NA,"April",2020,9831,12236,2405
+"17","IL","Illinois","Chicago Heights City","city",NA,"May",2020,10310,12440,2130
+"17","IL","Illinois","Cicero Town","city",NA,"January",2020,33388,35172,1784
+"17","IL","Illinois","Cicero Town","city",NA,"February",2020,33829,35562,1733
+"17","IL","Illinois","Cicero Town","city",NA,"March",2020,33987,36289,2302
+"17","IL","Illinois","Cicero Town","city",NA,"April",2020,28434,35055,6621
+"17","IL","Illinois","Cicero Town","city",NA,"May",2020,29819,35919,6100
+"17","IL","Illinois","Collinsville City","city",NA,"January",2020,12462,12961,499
+"17","IL","Illinois","Collinsville City","city",NA,"February",2020,12431,12849,418
+"17","IL","Illinois","Collinsville City","city",NA,"March",2020,11797,12144,347
+"17","IL","Illinois","Collinsville City","city",NA,"April",2020,10055,12130,2075
+"17","IL","Illinois","Collinsville City","city",NA,"May",2020,10663,12558,1895
+"17","IL","Illinois","Crystal Lake City","city",NA,"January",2020,21090,21708,618
+"17","IL","Illinois","Crystal Lake City","city",NA,"February",2020,21357,21958,601
+"17","IL","Illinois","Crystal Lake City","city",NA,"March",2020,21468,22319,851
+"17","IL","Illinois","Crystal Lake City","city",NA,"April",2020,17971,21361,3390
+"17","IL","Illinois","Crystal Lake City","city",NA,"May",2020,18884,21760,2876
+"17","IL","Illinois","Danville City","city",NA,"January",2020,11234,11817,583
+"17","IL","Illinois","Danville City","city",NA,"February",2020,11285,11785,500
+"17","IL","Illinois","Danville City","city",NA,"March",2020,10740,11170,430
+"17","IL","Illinois","Danville City","city",NA,"April",2020,9373,11569,2196
+"17","IL","Illinois","Danville City","city",NA,"May",2020,9991,12079,2088
+"17","IL","Illinois","Decatur City","city",NA,"January",2020,29318,31013,1695
+"17","IL","Illinois","Decatur City","city",NA,"February",2020,29176,30596,1420
+"17","IL","Illinois","Decatur City","city",NA,"March",2020,27879,29235,1356
+"17","IL","Illinois","Decatur City","city",NA,"April",2020,23127,27935,4808
+"17","IL","Illinois","Decatur City","city",NA,"May",2020,24639,29574,4935
+"17","IL","Illinois","Dekalb City","city",NA,"January",2020,21137,22074,937
+"17","IL","Illinois","Dekalb City","city",NA,"February",2020,21099,21830,731
+"17","IL","Illinois","Dekalb City","city",NA,"March",2020,20099,20735,636
+"17","IL","Illinois","Dekalb City","city",NA,"April",2020,16553,19267,2714
+"17","IL","Illinois","Dekalb City","city",NA,"May",2020,17635,20354,2719
+"17","IL","Illinois","Des Plaines City","city",NA,"January",2020,30905,31978,1073
+"17","IL","Illinois","Des Plaines City","city",NA,"February",2020,31313,32329,1016
+"17","IL","Illinois","Des Plaines City","city",NA,"March",2020,31459,32904,1445
+"17","IL","Illinois","Des Plaines City","city",NA,"April",2020,26320,32100,5780
+"17","IL","Illinois","Des Plaines City","city",NA,"May",2020,27601,32764,5163
+"17","IL","Illinois","Dolton Village","city",NA,"January",2020,9394,9904,510
+"17","IL","Illinois","Dolton Village","city",NA,"February",2020,9518,10035,517
+"17","IL","Illinois","Dolton Village","city",NA,"March",2020,9563,10326,763
+"17","IL","Illinois","Dolton Village","city",NA,"April",2020,8000,10313,2313
+"17","IL","Illinois","Dolton Village","city",NA,"May",2020,8390,10676,2286
+"17","IL","Illinois","Downers Grove Village","city",NA,"January",2020,25829,26432,603
+"17","IL","Illinois","Downers Grove Village","city",NA,"February",2020,26165,26737,572
+"17","IL","Illinois","Downers Grove Village","city",NA,"March",2020,26279,27146,867
+"17","IL","Illinois","Downers Grove Village","city",NA,"April",2020,21995,25270,3275
+"17","IL","Illinois","Downers Grove Village","city",NA,"May",2020,23066,25978,2912
+"17","IL","Illinois","East St. Louis City","city",NA,"January",2020,8259,8777,518
+"17","IL","Illinois","East St. Louis City","city",NA,"February",2020,8242,8641,399
+"17","IL","Illinois","East St. Louis City","city",NA,"March",2020,7823,8174,351
+"17","IL","Illinois","East St. Louis City","city",NA,"April",2020,6664,8063,1399
+"17","IL","Illinois","East St. Louis City","city",NA,"May",2020,7062,8615,1553
+"17","IL","Illinois","Edwardsville City","city",NA,"January",2020,13085,13432,347
+"17","IL","Illinois","Edwardsville City","city",NA,"February",2020,13052,13333,281
+"17","IL","Illinois","Edwardsville City","city",NA,"March",2020,12387,12639,252
+"17","IL","Illinois","Edwardsville City","city",NA,"April",2020,10558,11905,1347
+"17","IL","Illinois","Edwardsville City","city",NA,"May",2020,11198,12470,1272
+"17","IL","Illinois","Elgin City","city",NA,"January",2020,54122,57807,3685
+"17","IL","Illinois","Elgin City","city",NA,"February",2020,54219,57517,3298
+"17","IL","Illinois","Elgin City","city",NA,"March",2020,52214,55406,3192
+"17","IL","Illinois","Elgin City","city",NA,"April",2020,43169,53183,10014
+"17","IL","Illinois","Elgin City","city",NA,"May",2020,45682,54663,8981
+"17","IL","Illinois","Elk Grove Village Village","city",NA,"January",2020,17733,18288,555
+"17","IL","Illinois","Elk Grove Village Village","city",NA,"February",2020,17967,18475,508
+"17","IL","Illinois","Elk Grove Village Village","city",NA,"March",2020,18051,18798,747
+"17","IL","Illinois","Elk Grove Village Village","city",NA,"April",2020,15102,18195,3093
+"17","IL","Illinois","Elk Grove Village Village","city",NA,"May",2020,15837,18628,2791
+"17","IL","Illinois","Elmhurst City","city",NA,"January",2020,22369,22958,589
+"17","IL","Illinois","Elmhurst City","city",NA,"February",2020,22659,23203,544
+"17","IL","Illinois","Elmhurst City","city",NA,"March",2020,22758,23530,772
+"17","IL","Illinois","Elmhurst City","city",NA,"April",2020,19048,21663,2615
+"17","IL","Illinois","Elmhurst City","city",NA,"May",2020,19975,22340,2365
+"17","IL","Illinois","Elmwood Park Village","city",NA,"January",2020,12438,12818,380
+"17","IL","Illinois","Elmwood Park Village","city",NA,"February",2020,12603,12986,383
+"17","IL","Illinois","Elmwood Park Village","city",NA,"March",2020,12662,13211,549
+"17","IL","Illinois","Elmwood Park Village","city",NA,"April",2020,10593,13079,2486
+"17","IL","Illinois","Elmwood Park Village","city",NA,"May",2020,11109,13334,2225
+"17","IL","Illinois","Evanston City","city",NA,"January",2020,36643,37683,1040
+"17","IL","Illinois","Evanston City","city",NA,"February",2020,37128,38094,966
+"17","IL","Illinois","Evanston City","city",NA,"March",2020,37301,38717,1416
+"17","IL","Illinois","Evanston City","city",NA,"April",2020,31207,35552,4345
+"17","IL","Illinois","Evanston City","city",NA,"May",2020,32726,36825,4099
+"17","IL","Illinois","Evergreen Park Village","city",NA,"January",2020,8907,9306,399
+"17","IL","Illinois","Evergreen Park Village","city",NA,"February",2020,9025,9375,350
+"17","IL","Illinois","Evergreen Park Village","city",NA,"March",2020,9067,9598,531
+"17","IL","Illinois","Evergreen Park Village","city",NA,"April",2020,7586,9305,1719
+"17","IL","Illinois","Evergreen Park Village","city",NA,"May",2020,7955,9509,1554
+"17","IL","Illinois","Freeport City","city",NA,"January",2020,9799,10346,547
+"17","IL","Illinois","Freeport City","city",NA,"February",2020,9759,10184,425
+"17","IL","Illinois","Freeport City","city",NA,"March",2020,9440,9802,362
+"17","IL","Illinois","Freeport City","city",NA,"April",2020,8464,9945,1481
+"17","IL","Illinois","Freeport City","city",NA,"May",2020,9081,10369,1288
+"17","IL","Illinois","Galesburg City","city",NA,"January",2020,11143,11700,557
+"17","IL","Illinois","Galesburg City","city",NA,"February",2020,11107,11582,475
+"17","IL","Illinois","Galesburg City","city",NA,"March",2020,10619,11035,416
+"17","IL","Illinois","Galesburg City","city",NA,"April",2020,9567,11309,1742
+"17","IL","Illinois","Galesburg City","city",NA,"May",2020,10182,11835,1653
+"17","IL","Illinois","Glendale Heights Village","city",NA,"January",2020,17915,18539,624
+"17","IL","Illinois","Glendale Heights Village","city",NA,"February",2020,18147,18737,590
+"17","IL","Illinois","Glendale Heights Village","city",NA,"March",2020,18226,19052,826
+"17","IL","Illinois","Glendale Heights Village","city",NA,"April",2020,15255,18558,3303
+"17","IL","Illinois","Glendale Heights Village","city",NA,"May",2020,15998,18857,2859
+"17","IL","Illinois","Glen Ellyn Village","city",NA,"January",2020,13386,13713,327
+"17","IL","Illinois","Glen Ellyn Village","city",NA,"February",2020,13560,13873,313
+"17","IL","Illinois","Glen Ellyn Village","city",NA,"March",2020,13619,14074,455
+"17","IL","Illinois","Glen Ellyn Village","city",NA,"April",2020,11399,13080,1681
+"17","IL","Illinois","Glen Ellyn Village","city",NA,"May",2020,11954,13420,1466
+"17","IL","Illinois","Glenview Village","city",NA,"January",2020,21820,22359,539
+"17","IL","Illinois","Glenview Village","city",NA,"February",2020,22109,22603,494
+"17","IL","Illinois","Glenview Village","city",NA,"March",2020,22212,22951,739
+"17","IL","Illinois","Glenview Village","city",NA,"April",2020,18583,21791,3208
+"17","IL","Illinois","Glenview Village","city",NA,"May",2020,19488,22256,2768
+"17","IL","Illinois","Granite City City","city",NA,"January",2020,12523,13009,486
+"17","IL","Illinois","Granite City City","city",NA,"February",2020,12492,12921,429
+"17","IL","Illinois","Granite City City","city",NA,"March",2020,11855,12225,370
+"17","IL","Illinois","Granite City City","city",NA,"April",2020,10105,11996,1891
+"17","IL","Illinois","Granite City City","city",NA,"May",2020,10717,12494,1777
+"17","IL","Illinois","Gurnee Village","city",NA,"January",2020,16518,17072,554
+"17","IL","Illinois","Gurnee Village","city",NA,"February",2020,16494,16925,431
+"17","IL","Illinois","Gurnee Village","city",NA,"March",2020,15612,16006,394
+"17","IL","Illinois","Gurnee Village","city",NA,"April",2020,13242,15433,2191
+"17","IL","Illinois","Gurnee Village","city",NA,"May",2020,14089,16202,2113
+"17","IL","Illinois","Hanover Park Village","city",NA,"January",2020,19114,20063,949
+"17","IL","Illinois","Hanover Park Village","city",NA,"February",2020,19364,20311,947
+"17","IL","Illinois","Hanover Park Village","city",NA,"March",2020,19451,20743,1292
+"17","IL","Illinois","Hanover Park Village","city",NA,"April",2020,16277,19815,3538
+"17","IL","Illinois","Hanover Park Village","city",NA,"May",2020,17069,20162,3093
+"17","IL","Illinois","Harvey City","city",NA,"January",2020,7199,7715,516
+"17","IL","Illinois","Harvey City","city",NA,"February",2020,7294,7760,466
+"17","IL","Illinois","Harvey City","city",NA,"March",2020,7328,8016,688
+"17","IL","Illinois","Harvey City","city",NA,"April",2020,6131,7832,1701
+"17","IL","Illinois","Harvey City","city",NA,"May",2020,6429,8098,1669
+"17","IL","Illinois","Highland Park City","city",NA,"January",2020,14701,15099,398
+"17","IL","Illinois","Highland Park City","city",NA,"February",2020,14679,15010,331
+"17","IL","Illinois","Highland Park City","city",NA,"March",2020,13894,14197,303
+"17","IL","Illinois","Highland Park City","city",NA,"April",2020,11785,13337,1552
+"17","IL","Illinois","Highland Park City","city",NA,"May",2020,12538,13982,1444
+"17","IL","Illinois","Hoffman Estates Village","city",NA,"January",2020,28010,28807,797
+"17","IL","Illinois","Hoffman Estates Village","city",NA,"February",2020,28380,29134,754
+"17","IL","Illinois","Hoffman Estates Village","city",NA,"March",2020,28512,29606,1094
+"17","IL","Illinois","Hoffman Estates Village","city",NA,"April",2020,23854,28453,4599
+"17","IL","Illinois","Hoffman Estates Village","city",NA,"May",2020,25016,29084,4068
+"17","IL","Illinois","Homer Glen Village","city",NA,"January",2020,12386,12748,362
+"17","IL","Illinois","Homer Glen Village","city",NA,"February",2020,12524,12871,347
+"17","IL","Illinois","Homer Glen Village","city",NA,"March",2020,12549,13031,482
+"17","IL","Illinois","Homer Glen Village","city",NA,"April",2020,10536,12473,1937
+"17","IL","Illinois","Homer Glen Village","city",NA,"May",2020,11051,12717,1666
+"17","IL","Illinois","Huntley Village","city",NA,"January",2020,11265,11633,368
+"17","IL","Illinois","Huntley Village","city",NA,"February",2020,11390,11741,351
+"17","IL","Illinois","Huntley Village","city",NA,"March",2020,11381,11851,470
+"17","IL","Illinois","Huntley Village","city",NA,"April",2020,9511,11343,1832
+"17","IL","Illinois","Huntley Village","city",NA,"May",2020,10004,11599,1595
+"17","IL","Illinois","Joliet City","city",NA,"January",2020,69069,72936,3867
+"17","IL","Illinois","Joliet City","city",NA,"February",2020,69835,73620,3785
+"17","IL","Illinois","Joliet City","city",NA,"March",2020,69973,75210,5237
+"17","IL","Illinois","Joliet City","city",NA,"April",2020,58752,73095,14343
+"17","IL","Illinois","Joliet City","city",NA,"May",2020,61630,74243,12613
+"17","IL","Illinois","Kankakee City","city",NA,"January",2020,10316,11183,867
+"17","IL","Illinois","Kankakee City","city",NA,"February",2020,10297,11030,733
+"17","IL","Illinois","Kankakee City","city",NA,"March",2020,9865,10497,632
+"17","IL","Illinois","Kankakee City","city",NA,"April",2020,8497,10262,1765
+"17","IL","Illinois","Kankakee City","city",NA,"May",2020,9106,10769,1663
+"17","IL","Illinois","Lake In The Hills Village","city",NA,"January",2020,15115,15625,510
+"17","IL","Illinois","Lake In The Hills Village","city",NA,"February",2020,15307,15788,481
+"17","IL","Illinois","Lake In The Hills Village","city",NA,"March",2020,15386,16047,661
+"17","IL","Illinois","Lake In The Hills Village","city",NA,"April",2020,12880,15855,2975
+"17","IL","Illinois","Lake In The Hills Village","city",NA,"May",2020,13534,15993,2459
+"17","IL","Illinois","Lansing Village","city",NA,"January",2020,13043,13644,601
+"17","IL","Illinois","Lansing Village","city",NA,"February",2020,13216,13802,586
+"17","IL","Illinois","Lansing Village","city",NA,"March",2020,13277,14043,766
+"17","IL","Illinois","Lansing Village","city",NA,"April",2020,11108,13982,2874
+"17","IL","Illinois","Lansing Village","city",NA,"May",2020,11649,14262,2613
+"17","IL","Illinois","Lockport City","city",NA,"January",2020,13176,13645,469
+"17","IL","Illinois","Lockport City","city",NA,"February",2020,13322,13765,443
+"17","IL","Illinois","Lockport City","city",NA,"March",2020,13349,14001,652
+"17","IL","Illinois","Lockport City","city",NA,"April",2020,11208,13516,2308
+"17","IL","Illinois","Lockport City","city",NA,"May",2020,11756,13701,1945
+"17","IL","Illinois","Lombard Village","city",NA,"January",2020,24166,24839,673
+"17","IL","Illinois","Lombard Village","city",NA,"February",2020,24480,25120,640
+"17","IL","Illinois","Lombard Village","city",NA,"March",2020,24586,25513,927
+"17","IL","Illinois","Lombard Village","city",NA,"April",2020,20578,24430,3852
+"17","IL","Illinois","Lombard Village","city",NA,"May",2020,21580,24903,3323
+"17","IL","Illinois","Mchenry City","city",NA,"January",2020,13378,13869,491
+"17","IL","Illinois","Mchenry City","city",NA,"February",2020,13548,14010,462
+"17","IL","Illinois","Mchenry City","city",NA,"March",2020,13618,14260,642
+"17","IL","Illinois","Mchenry City","city",NA,"April",2020,11400,13691,2291
+"17","IL","Illinois","Mchenry City","city",NA,"May",2020,11979,13850,1871
+"17","IL","Illinois","Maywood Village","city",NA,"January",2020,8974,9505,531
+"17","IL","Illinois","Maywood Village","city",NA,"February",2020,9093,9596,503
+"17","IL","Illinois","Maywood Village","city",NA,"March",2020,9135,9856,721
+"17","IL","Illinois","Maywood Village","city",NA,"April",2020,7643,9877,2234
+"17","IL","Illinois","Maywood Village","city",NA,"May",2020,8015,10239,2224
+"17","IL","Illinois","Melrose Park Village","city",NA,"January",2020,10965,11509,544
+"17","IL","Illinois","Melrose Park Village","city",NA,"February",2020,11110,11649,539
+"17","IL","Illinois","Melrose Park Village","city",NA,"March",2020,11161,11874,713
+"17","IL","Illinois","Melrose Park Village","city",NA,"April",2020,9338,11347,2009
+"17","IL","Illinois","Melrose Park Village","city",NA,"May",2020,9792,11636,1844
+"17","IL","Illinois","Moline City","city",NA,"January",2020,20520,21572,1052
+"17","IL","Illinois","Moline City","city",NA,"February",2020,20406,21283,877
+"17","IL","Illinois","Moline City","city",NA,"March",2020,19503,20269,766
+"17","IL","Illinois","Moline City","city",NA,"April",2020,16658,20522,3864
+"17","IL","Illinois","Moline City","city",NA,"May",2020,17710,21373,3663
+"17","IL","Illinois","Morton Grove Village","city",NA,"January",2020,10765,11088,323
+"17","IL","Illinois","Morton Grove Village","city",NA,"February",2020,10907,11209,302
+"17","IL","Illinois","Morton Grove Village","city",NA,"March",2020,10958,11412,454
+"17","IL","Illinois","Morton Grove Village","city",NA,"April",2020,9168,11274,2106
+"17","IL","Illinois","Morton Grove Village","city",NA,"May",2020,9614,11498,1884
+"17","IL","Illinois","Mount Prospect Village","city",NA,"January",2020,27764,28458,694
+"17","IL","Illinois","Mount Prospect Village","city",NA,"February",2020,28131,28798,667
+"17","IL","Illinois","Mount Prospect Village","city",NA,"March",2020,28262,29209,947
+"17","IL","Illinois","Mount Prospect Village","city",NA,"April",2020,23644,27827,4183
+"17","IL","Illinois","Mount Prospect Village","city",NA,"May",2020,24795,28510,3715
+"17","IL","Illinois","Mundelein Village","city",NA,"January",2020,17442,18285,843
+"17","IL","Illinois","Mundelein Village","city",NA,"February",2020,17416,18135,719
+"17","IL","Illinois","Mundelein Village","city",NA,"March",2020,16485,17118,633
+"17","IL","Illinois","Mundelein Village","city",NA,"April",2020,13983,16585,2602
+"17","IL","Illinois","Mundelein Village","city",NA,"May",2020,14877,17195,2318
+"17","IL","Illinois","Naperville City","city",NA,"January",2020,74618,76403,1785
+"17","IL","Illinois","Naperville City","city",NA,"February",2020,75543,77250,1707
+"17","IL","Illinois","Naperville City","city",NA,"March",2020,75814,78330,2516
+"17","IL","Illinois","Naperville City","city",NA,"April",2020,63518,72446,8928
+"17","IL","Illinois","Naperville City","city",NA,"May",2020,66617,74568,7951
+"17","IL","Illinois","New Lenox Village","city",NA,"January",2020,13964,14418,454
+"17","IL","Illinois","New Lenox Village","city",NA,"February",2020,14119,14570,451
+"17","IL","Illinois","New Lenox Village","city",NA,"March",2020,14147,14754,607
+"17","IL","Illinois","New Lenox Village","city",NA,"April",2020,11878,14158,2280
+"17","IL","Illinois","New Lenox Village","city",NA,"May",2020,12459,14385,1926
+"17","IL","Illinois","Niles Village","city",NA,"January",2020,12786,13189,403
+"17","IL","Illinois","Niles Village","city",NA,"February",2020,12955,13317,362
+"17","IL","Illinois","Niles Village","city",NA,"March",2020,13015,13511,496
+"17","IL","Illinois","Niles Village","city",NA,"April",2020,10889,13582,2693
+"17","IL","Illinois","Niles Village","city",NA,"May",2020,11419,13798,2379
+"17","IL","Illinois","Normal Town","city",NA,"January",2020,26920,27736,816
+"17","IL","Illinois","Normal Town","city",NA,"February",2020,27100,27766,666
+"17","IL","Illinois","Normal Town","city",NA,"March",2020,25641,26255,614
+"17","IL","Illinois","Normal Town","city",NA,"April",2020,21802,24624,2822
+"17","IL","Illinois","Normal Town","city",NA,"May",2020,23137,25677,2540
+"17","IL","Illinois","Northbrook Village","city",NA,"January",2020,15233,15639,406
+"17","IL","Illinois","Northbrook Village","city",NA,"February",2020,15435,15804,369
+"17","IL","Illinois","Northbrook Village","city",NA,"March",2020,15507,16028,521
+"17","IL","Illinois","Northbrook Village","city",NA,"April",2020,12973,15279,2306
+"17","IL","Illinois","Northbrook Village","city",NA,"May",2020,13605,15506,1901
+"17","IL","Illinois","North Chicago City","city",NA,"January",2020,8501,9110,609
+"17","IL","Illinois","North Chicago City","city",NA,"February",2020,8489,9001,512
+"17","IL","Illinois","North Chicago City","city",NA,"March",2020,8035,8480,445
+"17","IL","Illinois","North Chicago City","city",NA,"April",2020,6815,7991,1176
+"17","IL","Illinois","North Chicago City","city",NA,"May",2020,7251,8404,1153
+"17","IL","Illinois","Oak Forest City","city",NA,"January",2020,13905,14480,575
+"17","IL","Illinois","Oak Forest City","city",NA,"February",2020,14089,14647,558
+"17","IL","Illinois","Oak Forest City","city",NA,"March",2020,14155,14934,779
+"17","IL","Illinois","Oak Forest City","city",NA,"April",2020,11842,14656,2814
+"17","IL","Illinois","Oak Forest City","city",NA,"May",2020,12419,14821,2402
+"17","IL","Illinois","Oak Lawn Village","city",NA,"January",2020,26309,27311,1002
+"17","IL","Illinois","Oak Lawn Village","city",NA,"February",2020,26657,27619,962
+"17","IL","Illinois","Oak Lawn Village","city",NA,"March",2020,26781,28166,1385
+"17","IL","Illinois","Oak Lawn Village","city",NA,"April",2020,22406,27610,5204
+"17","IL","Illinois","Oak Lawn Village","city",NA,"May",2020,23496,28010,4514
+"17","IL","Illinois","Oak Park Village","city",NA,"January",2020,27995,28690,695
+"17","IL","Illinois","Oak Park Village","city",NA,"February",2020,28365,28992,627
+"17","IL","Illinois","Oak Park Village","city",NA,"March",2020,28497,29428,931
+"17","IL","Illinois","Oak Park Village","city",NA,"April",2020,23841,27392,3551
+"17","IL","Illinois","Oak Park Village","city",NA,"May",2020,25002,28343,3341
+"17","IL","Illinois","O'fallon City","city",NA,"January",2020,13722,14236,514
+"17","IL","Illinois","O'fallon City","city",NA,"February",2020,13693,14114,421
+"17","IL","Illinois","O'fallon City","city",NA,"March",2020,12997,13374,377
+"17","IL","Illinois","O'fallon City","city",NA,"April",2020,11071,13162,2091
+"17","IL","Illinois","O'fallon City","city",NA,"May",2020,11732,13678,1946
+"17","IL","Illinois","Orland Park Village","city",NA,"January",2020,28399,29249,850
+"17","IL","Illinois","Orland Park Village","city",NA,"February",2020,28775,29578,803
+"17","IL","Illinois","Orland Park Village","city",NA,"March",2020,28909,30044,1135
+"17","IL","Illinois","Orland Park Village","city",NA,"April",2020,24186,28815,4629
+"17","IL","Illinois","Orland Park Village","city",NA,"May",2020,25363,29528,4165
+"17","IL","Illinois","Oswego Village","city",NA,"January",2020,18181,18724,543
+"17","IL","Illinois","Oswego Village","city",NA,"February",2020,18373,18883,510
+"17","IL","Illinois","Oswego Village","city",NA,"March",2020,18403,19122,719
+"17","IL","Illinois","Oswego Village","city",NA,"April",2020,15465,18219,2754
+"17","IL","Illinois","Oswego Village","city",NA,"May",2020,16233,18745,2512
+"17","IL","Illinois","Palatine Village","city",NA,"January",2020,36655,37832,1177
+"17","IL","Illinois","Palatine Village","city",NA,"February",2020,37140,38263,1123
+"17","IL","Illinois","Palatine Village","city",NA,"March",2020,37313,38954,1641
+"17","IL","Illinois","Palatine Village","city",NA,"April",2020,31217,36720,5503
+"17","IL","Illinois","Palatine Village","city",NA,"May",2020,32737,37539,4802
+"17","IL","Illinois","Park Forest Village","city",NA,"January",2020,9126,9608,482
+"17","IL","Illinois","Park Forest Village","city",NA,"February",2020,9244,9684,440
+"17","IL","Illinois","Park Forest Village","city",NA,"March",2020,9283,9941,658
+"17","IL","Illinois","Park Forest Village","city",NA,"April",2020,7771,9846,2075
+"17","IL","Illinois","Park Forest Village","city",NA,"May",2020,8150,10101,1951
+"17","IL","Illinois","Park Ridge City","city",NA,"January",2020,18291,18769,478
+"17","IL","Illinois","Park Ridge City","city",NA,"February",2020,18533,18994,461
+"17","IL","Illinois","Park Ridge City","city",NA,"March",2020,18619,19293,674
+"17","IL","Illinois","Park Ridge City","city",NA,"April",2020,15577,18198,2621
+"17","IL","Illinois","Park Ridge City","city",NA,"May",2020,16336,18694,2358
+"17","IL","Illinois","Pekin City","city",NA,"January",2020,13711,14507,796
+"17","IL","Illinois","Pekin City","city",NA,"February",2020,13667,14292,625
+"17","IL","Illinois","Pekin City","city",NA,"March",2020,12805,13339,534
+"17","IL","Illinois","Pekin City","city",NA,"April",2020,10521,13033,2512
+"17","IL","Illinois","Pekin City","city",NA,"May",2020,11237,13396,2159
+"17","IL","Illinois","Peoria City","city",NA,"January",2020,47556,50157,2601
+"17","IL","Illinois","Peoria City","city",NA,"February",2020,47447,49584,2137
+"17","IL","Illinois","Peoria City","city",NA,"March",2020,44403,46252,1849
+"17","IL","Illinois","Peoria City","city",NA,"April",2020,36445,45100,8655
+"17","IL","Illinois","Peoria City","city",NA,"May",2020,38777,47166,8389
+"17","IL","Illinois","Plainfield Village","city",NA,"January",2020,21701,22344,643
+"17","IL","Illinois","Plainfield Village","city",NA,"February",2020,21942,22540,598
+"17","IL","Illinois","Plainfield Village","city",NA,"March",2020,21986,22826,840
+"17","IL","Illinois","Plainfield Village","city",NA,"April",2020,18460,22073,3613
+"17","IL","Illinois","Plainfield Village","city",NA,"May",2020,19364,22445,3081
+"17","IL","Illinois","Quincy City","city",NA,"January",2020,18166,18781,615
+"17","IL","Illinois","Quincy City","city",NA,"February",2020,18139,18633,494
+"17","IL","Illinois","Quincy City","city",NA,"March",2020,17357,17781,424
+"17","IL","Illinois","Quincy City","city",NA,"April",2020,15811,18142,2331
+"17","IL","Illinois","Quincy City","city",NA,"May",2020,16693,18799,2106
+"17","IL","Illinois","Rockford City","city",NA,"January",2020,59030,64831,5801
+"17","IL","Illinois","Rockford City","city",NA,"February",2020,60152,63655,3503
+"17","IL","Illinois","Rockford City","city",NA,"March",2020,56951,60011,3060
+"17","IL","Illinois","Rockford City","city",NA,"April",2020,47971,62766,14795
+"17","IL","Illinois","Rockford City","city",NA,"May",2020,50992,64705,13713
+"17","IL","Illinois","Rock Island City","city",NA,"January",2020,16963,17780,817
+"17","IL","Illinois","Rock Island City","city",NA,"February",2020,16869,17567,698
+"17","IL","Illinois","Rock Island City","city",NA,"March",2020,16122,16719,597
+"17","IL","Illinois","Rock Island City","city",NA,"April",2020,13771,16636,2865
+"17","IL","Illinois","Rock Island City","city",NA,"May",2020,14640,17572,2932
+"17","IL","Illinois","Romeoville Village","city",NA,"January",2020,18501,19323,822
+"17","IL","Illinois","Romeoville Village","city",NA,"February",2020,18707,19511,804
+"17","IL","Illinois","Romeoville Village","city",NA,"March",2020,18744,19811,1067
+"17","IL","Illinois","Romeoville Village","city",NA,"April",2020,15738,19509,3771
+"17","IL","Illinois","Romeoville Village","city",NA,"May",2020,16508,19894,3386
+"17","IL","Illinois","Round Lake Beach Village","city",NA,"January",2020,13884,15322,1438
+"17","IL","Illinois","Round Lake Beach Village","city",NA,"February",2020,13864,15118,1254
+"17","IL","Illinois","Round Lake Beach Village","city",NA,"March",2020,13122,14151,1029
+"17","IL","Illinois","Round Lake Beach Village","city",NA,"April",2020,11131,13702,2571
+"17","IL","Illinois","Round Lake Beach Village","city",NA,"May",2020,11842,14080,2238
+"17","IL","Illinois","St. Charles City","city",NA,"January",2020,18066,18618,552
+"17","IL","Illinois","St. Charles City","city",NA,"February",2020,18042,18517,475
+"17","IL","Illinois","St. Charles City","city",NA,"March",2020,17172,17588,416
+"17","IL","Illinois","St. Charles City","city",NA,"April",2020,14149,16745,2596
+"17","IL","Illinois","St. Charles City","city",NA,"May",2020,15012,17412,2400
+"17","IL","Illinois","Schaumburg Village","city",NA,"January",2020,41126,42246,1120
+"17","IL","Illinois","Schaumburg Village","city",NA,"February",2020,41670,42696,1026
+"17","IL","Illinois","Schaumburg Village","city",NA,"March",2020,41864,43344,1480
+"17","IL","Illinois","Schaumburg Village","city",NA,"April",2020,35024,41755,6731
+"17","IL","Illinois","Schaumburg Village","city",NA,"May",2020,36729,42589,5860
+"17","IL","Illinois","Skokie Village","city",NA,"January",2020,30371,31170,799
+"17","IL","Illinois","Skokie Village","city",NA,"February",2020,30773,31529,756
+"17","IL","Illinois","Skokie Village","city",NA,"March",2020,30916,32036,1120
+"17","IL","Illinois","Skokie Village","city",NA,"April",2020,25865,31922,6057
+"17","IL","Illinois","Skokie Village","city",NA,"May",2020,27124,32610,5486
+"17","IL","Illinois","South Holland Village","city",NA,"January",2020,9075,9548,473
+"17","IL","Illinois","South Holland Village","city",NA,"February",2020,9195,9656,461
+"17","IL","Illinois","South Holland Village","city",NA,"March",2020,9238,9880,642
+"17","IL","Illinois","South Holland Village","city",NA,"April",2020,7729,9834,2105
+"17","IL","Illinois","South Holland Village","city",NA,"May",2020,8105,10129,2024
+"17","IL","Illinois","Springfield City","city",NA,"January",2020,54201,56341,2140
+"17","IL","Illinois","Springfield City","city",NA,"February",2020,54209,55999,1790
+"17","IL","Illinois","Springfield City","city",NA,"March",2020,51832,53405,1573
+"17","IL","Illinois","Springfield City","city",NA,"April",2020,43966,51656,7690
+"17","IL","Illinois","Springfield City","city",NA,"May",2020,46330,53926,7596
+"17","IL","Illinois","Streamwood Village","city",NA,"January",2020,21684,22599,915
+"17","IL","Illinois","Streamwood Village","city",NA,"February",2020,21971,22867,896
+"17","IL","Illinois","Streamwood Village","city",NA,"March",2020,22073,23325,1252
+"17","IL","Illinois","Streamwood Village","city",NA,"April",2020,18467,22437,3970
+"17","IL","Illinois","Streamwood Village","city",NA,"May",2020,19366,22921,3555
+"17","IL","Illinois","Tinley Park Village","city",NA,"January",2020,29856,30757,901
+"17","IL","Illinois","Tinley Park Village","city",NA,"February",2020,30243,31080,837
+"17","IL","Illinois","Tinley Park Village","city",NA,"March",2020,30374,31611,1237
+"17","IL","Illinois","Tinley Park Village","city",NA,"April",2020,25423,30780,5357
+"17","IL","Illinois","Tinley Park Village","city",NA,"May",2020,26662,31253,4591
+"17","IL","Illinois","Urbana City","city",NA,"January",2020,20273,20970,697
+"17","IL","Illinois","Urbana City","city",NA,"February",2020,21497,22039,542
+"17","IL","Illinois","Urbana City","city",NA,"March",2020,20340,20832,492
+"17","IL","Illinois","Urbana City","city",NA,"April",2020,17684,19616,1932
+"17","IL","Illinois","Urbana City","city",NA,"May",2020,18107,20060,1953
+"17","IL","Illinois","Vernon Hills Village","city",NA,"January",2020,14812,15228,416
+"17","IL","Illinois","Vernon Hills Village","city",NA,"February",2020,14790,15138,348
+"17","IL","Illinois","Vernon Hills Village","city",NA,"March",2020,13999,14314,315
+"17","IL","Illinois","Vernon Hills Village","city",NA,"April",2020,11874,13800,1926
+"17","IL","Illinois","Vernon Hills Village","city",NA,"May",2020,12633,14393,1760
+"17","IL","Illinois","Villa Park Village","city",NA,"January",2020,11430,11812,382
+"17","IL","Illinois","Villa Park Village","city",NA,"February",2020,11578,11965,387
+"17","IL","Illinois","Villa Park Village","city",NA,"March",2020,11629,12175,546
+"17","IL","Illinois","Villa Park Village","city",NA,"April",2020,9733,11844,2111
+"17","IL","Illinois","Villa Park Village","city",NA,"May",2020,10207,12025,1818
+"17","IL","Illinois","Waukegan City","city",NA,"January",2020,41804,45018,3214
+"17","IL","Illinois","Waukegan City","city",NA,"February",2020,41742,44485,2743
+"17","IL","Illinois","Waukegan City","city",NA,"March",2020,39509,41856,2347
+"17","IL","Illinois","Waukegan City","city",NA,"April",2020,33513,39818,6305
+"17","IL","Illinois","Waukegan City","city",NA,"May",2020,35655,41459,5804
+"17","IL","Illinois","West Chicago City","city",NA,"January",2020,13265,13929,664
+"17","IL","Illinois","West Chicago City","city",NA,"February",2020,13437,14082,645
+"17","IL","Illinois","West Chicago City","city",NA,"March",2020,13496,14362,866
+"17","IL","Illinois","West Chicago City","city",NA,"April",2020,11295,13105,1810
+"17","IL","Illinois","West Chicago City","city",NA,"May",2020,11845,13304,1459
+"17","IL","Illinois","Westmont Village","city",NA,"January",2020,12593,12929,336
+"17","IL","Illinois","Westmont Village","city",NA,"February",2020,12757,13069,312
+"17","IL","Illinois","Westmont Village","city",NA,"March",2020,12812,13290,478
+"17","IL","Illinois","Westmont Village","city",NA,"April",2020,10724,12708,1984
+"17","IL","Illinois","Westmont Village","city",NA,"May",2020,11246,12992,1746
+"17","IL","Illinois","Wheaton City","city",NA,"January",2020,27236,27885,649
+"17","IL","Illinois","Wheaton City","city",NA,"February",2020,27590,28198,608
+"17","IL","Illinois","Wheaton City","city",NA,"March",2020,27710,28602,892
+"17","IL","Illinois","Wheaton City","city",NA,"April",2020,23193,26487,3294
+"17","IL","Illinois","Wheaton City","city",NA,"May",2020,24322,27211,2889
+"17","IL","Illinois","Wheeling Village","city",NA,"January",2020,21681,22359,678
+"17","IL","Illinois","Wheeling Village","city",NA,"February",2020,21967,22623,656
+"17","IL","Illinois","Wheeling Village","city",NA,"March",2020,22070,23017,947
+"17","IL","Illinois","Wheeling Village","city",NA,"April",2020,18464,21934,3470
+"17","IL","Illinois","Wheeling Village","city",NA,"May",2020,19363,22357,2994
+"17","IL","Illinois","Wilmette Village","city",NA,"January",2020,12159,12419,260
+"17","IL","Illinois","Wilmette Village","city",NA,"February",2020,12320,12571,251
+"17","IL","Illinois","Wilmette Village","city",NA,"March",2020,12378,12753,375
+"17","IL","Illinois","Wilmette Village","city",NA,"April",2020,10355,11551,1196
+"17","IL","Illinois","Wilmette Village","city",NA,"May",2020,10860,11947,1087
+"17","IL","Illinois","Woodridge Village","city",NA,"January",2020,19176,19688,512
+"17","IL","Illinois","Woodridge Village","city",NA,"February",2020,19425,19933,508
+"17","IL","Illinois","Woodridge Village","city",NA,"March",2020,19509,20218,709
+"17","IL","Illinois","Woodridge Village","city",NA,"April",2020,16329,19268,2939
+"17","IL","Illinois","Woodridge Village","city",NA,"May",2020,17124,19777,2653
+"17","IL","Illinois","Woodstock City","city",NA,"January",2020,12155,12660,505
+"17","IL","Illinois","Woodstock City","city",NA,"February",2020,12309,12789,480
+"17","IL","Illinois","Woodstock City","city",NA,"March",2020,12373,13013,640
+"17","IL","Illinois","Woodstock City","city",NA,"April",2020,10358,12378,2020
+"17","IL","Illinois","Woodstock City","city",NA,"May",2020,10884,12453,1569
+"17","IL","Illinois","Zion City","city",NA,"January",2020,10368,11112,744
+"17","IL","Illinois","Zion City","city",NA,"February",2020,10353,10965,612
+"17","IL","Illinois","Zion City","city",NA,"March",2020,9799,10332,533
+"17","IL","Illinois","Zion City","city",NA,"April",2020,8312,10129,1817
+"17","IL","Illinois","Zion City","city",NA,"May",2020,8843,10535,1692
