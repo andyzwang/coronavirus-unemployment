@@ -149,13 +149,16 @@
   * Format: Table, Updated: Weekly (only Mar 28 & Apr 4), Level: County
   * Data: UI Claims, Industries
 * [Michigan Department of Technology, Management, and Budget](https://milmi.org/DataSearch/LAUS)
-  * Format: CSV, Updated: Montly, Level: County, City
+  * Format: CSV, Updated: Monthly, Level: County, City
   * Data: Unemployment
 
 ## Minnesota
-* [Minnesota Empolyment and Economic Development](https://apps.deed.state.mn.us/lmi/ui/Results.aspx?area=R11000&date=202001)
+* [Minnesota Employment and Economic Development](https://apps.deed.state.mn.us/lmi/ui/Results.aspx?area=R11000&date=202001)
   * Format: Web Table, Updated: Monthly, Level: County
   * Data: Unemployment Claims, Industries, Demographics
+* [Minnesota Employment and Economic Development](https://apps.deed.state.mn.us/lmi/laus/Default.aspx)
+  * Format:CSV, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Mississippi
 * [Mississippi Department of Employment Security](https://mdes.ms.gov/media/23357/labormarketdata.pdf)
