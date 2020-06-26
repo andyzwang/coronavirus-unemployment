@@ -42,4 +42,4 @@ output <- raw %>%
     employment, labor_force, unemployment
   )
 
-write.csv(output, file = "MN_compiled.csv", row.names = FALSE)
+write.csv(output, file = "MS_compiled.csv", row.names = FALSE)
