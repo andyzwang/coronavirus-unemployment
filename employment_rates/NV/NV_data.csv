@@ -1,0 +1,460 @@
+Adjusted,Area,Area Type,Period,Adjustment,StateSelected,Reset Button,MonthNumber,Employed,ID,Labor Force,Number of Records,Period Type Description,Year,period,Region,State Name,Unemployed,Unemployment Rate,Year (copy)
+0,Mesquite,City,January,Not Adj,TRUE,Reset Button,2020,7535,813648,7843,1,Monthly,2019,1,NV,Nevada,308,3.9,2019
+0,Reno,City,January,Not Adj,TRUE,Reset Button,2020,129795,813649,135084,1,Monthly,2019,1,NV,Nevada,5289,3.9,2019
+0,Sparks,City,January,Not Adj,TRUE,Reset Button,2020,54011,813652,56190,1,Monthly,2019,1,NV,Nevada,2179,3.9,2019
+0,Elko,City,January,Not Adj,TRUE,Reset Button,2020,10279,813645,10707,1,Monthly,2019,1,NV,Nevada,428,4,2019
+0,Henderson,City,January,Not Adj,TRUE,Reset Button,2020,154429,813646,161306,1,Monthly,2019,1,NV,Nevada,6877,4.3,2019
+0,Boulder City,City,January,Not Adj,TRUE,Reset Button,2020,7142,813643,7488,1,Monthly,2019,1,NV,Nevada,346,4.6,2019
+0,Las Vegas,City,January,Not Adj,TRUE,Reset Button,2020,296692,813647,311497,1,Monthly,2019,1,NV,Nevada,14805,4.8,2019
+0,North Las Vegas,City,January,Not Adj,TRUE,Reset Button,2020,108089,813650,113761,1,Monthly,2019,1,NV,Nevada,5672,5,2019
+0,Fernley City,City,January,Not Adj,TRUE,Reset Button,2020,8110,813644,8635,1,Monthly,2019,1,NV,Nevada,525,6.1,2019
+0,Sparks,City,January,Not Adj,TRUE,Reset Button,2021,56027,959614,57908,1,Monthly,2020,1,NV,Nevada,1881,3.2,2020
+0,Elko,City,January,Not Adj,TRUE,Reset Button,2021,10213,959608,10567,1,Monthly,2020,1,NV,Nevada,354,3.4,2020
+0,Mesquite,City,January,Not Adj,TRUE,Reset Button,2021,7778,959611,8052,1,Monthly,2020,1,NV,Nevada,274,3.4,2020
+0,Reno,City,January,Not Adj,TRUE,Reset Button,2021,134639,959613,139316,1,Monthly,2020,1,NV,Nevada,4677,3.4,2020
+0,Henderson,City,January,Not Adj,TRUE,Reset Button,2021,159414,959609,165300,1,Monthly,2020,1,NV,Nevada,5886,3.6,2020
+0,Boulder City,City,January,Not Adj,TRUE,Reset Button,2021,7372,959607,7674,1,Monthly,2020,1,NV,Nevada,302,3.9,2020
+0,Las Vegas,City,January,Not Adj,TRUE,Reset Button,2021,306268,959610,319070,1,Monthly,2020,1,NV,Nevada,12802,4,2020
+0,North Las Vegas,City,January,Not Adj,TRUE,Reset Button,2021,111577,959612,116721,1,Monthly,2020,1,NV,Nevada,5144,4.4,2020
+0,Fernley City,City,January,Not Adj,TRUE,Reset Button,2021,8291,959606,8721,1,Monthly,2020,1,NV,Nevada,430,4.9,2020
+0,"Eureka County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,1036,813626,1064,1,Monthly,2019,1,NV,Nevada,28,2.6,2019
+0,"Humboldt County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,7775,813625,8064,1,Monthly,2019,1,NV,Nevada,289,3.6,2019
+0,"Elko County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,26329,813623,27349,1,Monthly,2019,1,NV,Nevada,1020,3.7,2019
+0,"White Pine County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,4310,813636,4481,1,Monthly,2019,1,NV,Nevada,171,3.8,2019
+0,"Esmeralda County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,397,813624,413,1,Monthly,2019,1,NV,Nevada,16,3.9,2019
+0,"Lander County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,3052,813628,3179,1,Monthly,2019,1,NV,Nevada,127,4,2019
+0,"Washoe County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,240654,813633,250704,1,Monthly,2019,1,NV,Nevada,10050,4,2019
+0,"Churchill County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,10325,813620,10797,1,Monthly,2019,1,NV,Nevada,472,4.4,2019
+0,"Clark County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,1066729,813621,1118227,1,Monthly,2019,1,NV,Nevada,51498,4.6,2019
+0,"Storey County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,1904,813634,2000,1,Monthly,2019,1,NV,Nevada,96,4.8,2019
+0,"Douglas County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,21711,813622,22837,1,Monthly,2019,1,NV,Nevada,1126,4.9,2019
+0,"Pershing County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,2404,813632,2529,1,Monthly,2019,1,NV,Nevada,125,4.9,2019
+0,"Carson City, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,24517,813635,25800,1,Monthly,2019,1,NV,Nevada,1283,5,2019
+0,"Mineral County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,1889,813630,1990,1,Monthly,2019,1,NV,Nevada,101,5.1,2019
+0,"Lincoln County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,1944,813627,2051,1,Monthly,2019,1,NV,Nevada,107,5.2,2019
+0,"Lyon County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,21832,813629,23223,1,Monthly,2019,1,NV,Nevada,1391,6,2019
+0,"Nye County, Nevada",County,January,Not Adj,TRUE,Reset Button,2020,15961,813631,16974,1,Monthly,2019,1,NV,Nevada,1013,6,2019
+0,"Eureka County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,1128,959588,1153,1,Monthly,2020,1,NV,Nevada,25,2.2,2020
+0,"White Pine County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,4547,959598,4687,1,Monthly,2020,1,NV,Nevada,140,3,2020
+0,"Humboldt County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,8130,959589,8397,1,Monthly,2020,1,NV,Nevada,267,3.2,2020
+0,"Elko County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,26160,959586,27050,1,Monthly,2020,1,NV,Nevada,890,3.3,2020
+0,"Washoe County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,249635,959597,258405,1,Monthly,2020,1,NV,Nevada,8770,3.4,2020
+0,"Churchill County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,10962,959583,11385,1,Monthly,2020,1,NV,Nevada,423,3.7,2020
+0,"Lincoln County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,2105,959591,2187,1,Monthly,2020,1,NV,Nevada,82,3.7,2020
+0,"Esmeralda County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,455,959587,473,1,Monthly,2020,1,NV,Nevada,18,3.8,2020
+0,"Storey County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,1974,959596,2053,1,Monthly,2020,1,NV,Nevada,79,3.8,2020
+0,"Clark County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,1101158,959584,1145940,1,Monthly,2020,1,NV,Nevada,44782,3.9,2020
+0,"Lander County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,3144,959590,3271,1,Monthly,2020,1,NV,Nevada,127,3.9,2020
+0,"Douglas County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,22409,959585,23345,1,Monthly,2020,1,NV,Nevada,936,4,2020
+0,"Pershing County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,2525,959595,2630,1,Monthly,2020,1,NV,Nevada,105,4,2020
+0,"Carson City, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,25490,959599,26581,1,Monthly,2020,1,NV,Nevada,1091,4.1,2020
+0,"Mineral County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,1927,959593,2010,1,Monthly,2020,1,NV,Nevada,83,4.1,2020
+0,"Lyon County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,22320,959592,23491,1,Monthly,2020,1,NV,Nevada,1171,5,2020
+0,"Nye County, Nevada",County,January,Not Adj,TRUE,Reset Button,2021,16953,959594,17843,1,Monthly,2020,1,NV,Nevada,890,5,2020
+0,Nevada,State,January,Not Adj,TRUE,Reset Button,2020,1452770,813618,1521685,1,Monthly,2019,1,NV,Nevada,68915,4.5,2019
+0,Nevada,State,January,Not Adj,TRUE,Reset Button,2021,1501021,959581,1560901,1,Monthly,2020,1,NV,Nevada,59880,3.8,2020
+0,Mesquite,City,February,Not Adj,TRUE,Reset Button,2021,7602,813663,7885,1,Monthly,2019,2,NV,Nevada,283,3.6,2019
+0,Elko,City,February,Not Adj,TRUE,Reset Button,2021,10402,813666,10800,1,Monthly,2019,2,NV,Nevada,398,3.7,2019
+0,Reno,City,February,Not Adj,TRUE,Reset Button,2021,131617,813662,136701,1,Monthly,2019,2,NV,Nevada,5084,3.7,2019
+0,Sparks,City,February,Not Adj,TRUE,Reset Button,2021,54770,813659,56899,1,Monthly,2019,2,NV,Nevada,2129,3.7,2019
+0,Henderson,City,February,Not Adj,TRUE,Reset Button,2021,155817,813665,162171,1,Monthly,2019,2,NV,Nevada,6354,3.9,2019
+0,Las Vegas,City,February,Not Adj,TRUE,Reset Button,2021,299358,813664,312970,1,Monthly,2019,2,NV,Nevada,13612,4.3,2019
+0,Boulder City,City,February,Not Adj,TRUE,Reset Button,2021,7206,813668,7539,1,Monthly,2019,2,NV,Nevada,333,4.4,2019
+0,North Las Vegas,City,February,Not Adj,TRUE,Reset Button,2021,109060,813661,114282,1,Monthly,2019,2,NV,Nevada,5222,4.6,2019
+0,Fernley City,City,February,Not Adj,TRUE,Reset Button,2021,8219,813667,8747,1,Monthly,2019,2,NV,Nevada,528,6,2019
+0,Mesquite,City,February,Not Adj,TRUE,Reset Button,2022,7836,959626,8084,1,Monthly,2020,2,NV,Nevada,248,3.1,2020
+0,Sparks,City,February,Not Adj,TRUE,Reset Button,2022,56852,959623,58684,1,Monthly,2020,2,NV,Nevada,1832,3.1,2020
+0,Reno,City,February,Not Adj,TRUE,Reset Button,2022,136621,959624,141083,1,Monthly,2020,2,NV,Nevada,4462,3.2,2020
+0,Elko,City,February,Not Adj,TRUE,Reset Button,2022,10220,959629,10572,1,Monthly,2020,2,NV,Nevada,352,3.3,2020
+0,Henderson,City,February,Not Adj,TRUE,Reset Button,2022,160604,959628,166565,1,Monthly,2020,2,NV,Nevada,5961,3.6,2020
+0,Boulder City,City,February,Not Adj,TRUE,Reset Button,2022,7427,959630,7711,1,Monthly,2020,2,NV,Nevada,284,3.7,2020
+0,Las Vegas,City,February,Not Adj,TRUE,Reset Button,2022,308554,959627,321169,1,Monthly,2020,2,NV,Nevada,12615,3.9,2020
+0,North Las Vegas,City,February,Not Adj,TRUE,Reset Button,2022,112410,959625,117450,1,Monthly,2020,2,NV,Nevada,5040,4.3,2020
+0,Fernley City,City,February,Not Adj,TRUE,Reset Button,2022,8345,959631,8778,1,Monthly,2020,2,NV,Nevada,433,4.9,2020
+0,"Eureka County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,1081,813685,1107,1,Monthly,2019,2,NV,Nevada,26,2.3,2019
+0,"Humboldt County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,7981,813686,8246,1,Monthly,2019,2,NV,Nevada,265,3.2,2019
+0,"Elko County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,26644,813688,27621,1,Monthly,2019,2,NV,Nevada,977,3.5,2019
+0,"Lander County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,3111,813683,3224,1,Monthly,2019,2,NV,Nevada,113,3.5,2019
+0,"White Pine County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,4361,813675,4518,1,Monthly,2019,2,NV,Nevada,157,3.5,2019
+0,"Washoe County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,244033,813678,253725,1,Monthly,2019,2,NV,Nevada,9692,3.8,2019
+0,"Churchill County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,10460,813691,10920,1,Monthly,2019,2,NV,Nevada,460,4.2,2019
+0,"Clark County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,1076313,813690,1124004,1,Monthly,2019,2,NV,Nevada,47691,4.2,2019
+0,"Esmeralda County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,408,813687,426,1,Monthly,2019,2,NV,Nevada,18,4.2,2019
+0,"Douglas County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,21894,813689,22974,1,Monthly,2019,2,NV,Nevada,1080,4.7,2019
+0,"Carson City, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,24820,813676,26076,1,Monthly,2019,2,NV,Nevada,1256,4.8,2019
+0,"Storey County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,1931,813677,2028,1,Monthly,2019,2,NV,Nevada,97,4.8,2019
+0,"Lincoln County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,1977,813684,2079,1,Monthly,2019,2,NV,Nevada,102,4.9,2019
+0,"Mineral County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,1922,813681,2020,1,Monthly,2019,2,NV,Nevada,98,4.9,2019
+0,"Pershing County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,2453,813679,2587,1,Monthly,2019,2,NV,Nevada,134,5.2,2019
+0,"Nye County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,16100,813680,17049,1,Monthly,2019,2,NV,Nevada,949,5.6,2019
+0,"Lyon County, Nevada",County,February,Not Adj,TRUE,Reset Button,2021,22125,813682,23469,1,Monthly,2019,2,NV,Nevada,1344,5.7,2019
+0,"Eureka County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,1077,959649,1103,1,Monthly,2020,2,NV,Nevada,26,2.4,2020
+0,"Washoe County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,253310,959640,261747,1,Monthly,2020,2,NV,Nevada,8437,3.2,2020
+0,"Elko County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,26176,959651,27063,1,Monthly,2020,2,NV,Nevada,887,3.3,2020
+0,"Humboldt County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,8043,959648,8317,1,Monthly,2020,2,NV,Nevada,274,3.3,2020
+0,"White Pine County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,4540,959639,4697,1,Monthly,2020,2,NV,Nevada,157,3.3,2020
+0,"Churchill County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,10938,959654,11350,1,Monthly,2020,2,NV,Nevada,412,3.6,2020
+0,"Lander County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,3143,959647,3264,1,Monthly,2020,2,NV,Nevada,121,3.7,2020
+0,"Lincoln County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,2075,959646,2158,1,Monthly,2020,2,NV,Nevada,83,3.8,2020
+0,"Storey County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,2008,959641,2087,1,Monthly,2020,2,NV,Nevada,79,3.8,2020
+0,"Clark County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,1109378,959653,1154132,1,Monthly,2020,2,NV,Nevada,44754,3.9,2020
+0,"Esmeralda County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,443,959650,461,1,Monthly,2020,2,NV,Nevada,18,3.9,2020
+0,"Mineral County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,1945,959644,2024,1,Monthly,2020,2,NV,Nevada,79,3.9,2020
+0,"Douglas County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,22595,959652,23535,1,Monthly,2020,2,NV,Nevada,940,4,2020
+0,"Carson City, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,25783,959638,26889,1,Monthly,2020,2,NV,Nevada,1106,4.1,2020
+0,"Pershing County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,2481,959642,2594,1,Monthly,2020,2,NV,Nevada,113,4.4,2020
+0,"Nye County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,17053,959643,17934,1,Monthly,2020,2,NV,Nevada,881,4.9,2020
+0,"Lyon County, Nevada",County,February,Not Adj,TRUE,Reset Button,2022,22464,959645,23639,1,Monthly,2020,2,NV,Nevada,1175,5,2020
+0,Nevada,State,February,Not Adj,TRUE,Reset Button,2021,1467615,813692,1532073,1,Monthly,2019,2,NV,Nevada,64458,4.2,2019
+0,Nevada,State,February,Not Adj,TRUE,Reset Button,2022,1513453,959655,1572996,1,Monthly,2020,2,NV,Nevada,59543,3.8,2020
+0,Mesquite,City,March,Not Adj,TRUE,Reset Button,2022,7600,813728,7825,1,Monthly,2019,3,NV,Nevada,225,2.9,2019
+0,Elko,City,March,Not Adj,TRUE,Reset Button,2022,10550,813725,10906,1,Monthly,2019,3,NV,Nevada,356,3.3,2019
+0,Reno,City,March,Not Adj,TRUE,Reset Button,2022,131415,813729,136208,1,Monthly,2019,3,NV,Nevada,4793,3.5,2019
+0,Sparks,City,March,Not Adj,TRUE,Reset Button,2022,54686,813732,56654,1,Monthly,2019,3,NV,Nevada,1968,3.5,2019
+0,Henderson,City,March,Not Adj,TRUE,Reset Button,2022,155770,813726,161889,1,Monthly,2019,3,NV,Nevada,6119,3.8,2019
+0,Las Vegas,City,March,Not Adj,TRUE,Reset Button,2022,299268,813727,312632,1,Monthly,2019,3,NV,Nevada,13364,4.3,2019
+0,Boulder City,City,March,Not Adj,TRUE,Reset Button,2022,7204,813723,7534,1,Monthly,2019,3,NV,Nevada,330,4.4,2019
+0,North Las Vegas,City,March,Not Adj,TRUE,Reset Button,2022,109027,813730,114292,1,Monthly,2019,3,NV,Nevada,5265,4.6,2019
+0,Fernley City,City,March,Not Adj,TRUE,Reset Button,2022,8280,813724,8795,1,Monthly,2019,3,NV,Nevada,515,5.9,2019
+0,Mesquite,City,March,Not Adj,TRUE,Reset Button,2023,7499,959691,7862,1,Monthly,2020,3,NV,Nevada,363,4.6,2020
+0,Elko,City,March,Not Adj,TRUE,Reset Button,2023,10128,959688,10718,1,Monthly,2020,3,NV,Nevada,590,5.5,2020
+0,Reno,City,March,Not Adj,TRUE,Reset Button,2023,132077,959693,139704,1,Monthly,2020,3,NV,Nevada,7627,5.5,2020
+0,Sparks,City,March,Not Adj,TRUE,Reset Button,2023,54961,959694,58173,1,Monthly,2020,3,NV,Nevada,3212,5.5,2020
+0,Henderson,City,March,Not Adj,TRUE,Reset Button,2023,153705,959689,164459,1,Monthly,2020,3,NV,Nevada,10754,6.5,2020
+0,Boulder City,City,March,Not Adj,TRUE,Reset Button,2023,7108,959687,7617,1,Monthly,2020,3,NV,Nevada,509,6.7,2020
+0,Las Vegas,City,March,Not Adj,TRUE,Reset Button,2023,295300,959690,318396,1,Monthly,2020,3,NV,Nevada,23096,7.3,2020
+0,North Las Vegas,City,March,Not Adj,TRUE,Reset Button,2023,107581,959692,116983,1,Monthly,2020,3,NV,Nevada,9402,8,2020
+0,Fernley City,City,March,Not Adj,TRUE,Reset Button,2023,8160,959686,8912,1,Monthly,2020,3,NV,Nevada,752,8.4,2020
+0,"Eureka County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,1162,813706,1188,1,Monthly,2019,3,NV,Nevada,26,2.2,2019
+0,"Humboldt County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,8196,813705,8433,1,Monthly,2019,3,NV,Nevada,237,2.8,2019
+0,"Elko County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,27022,813703,27923,1,Monthly,2019,3,NV,Nevada,901,3.2,2019
+0,"White Pine County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,4424,813716,4571,1,Monthly,2019,3,NV,Nevada,147,3.2,2019
+0,"Esmeralda County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,403,813704,417,1,Monthly,2019,3,NV,Nevada,14,3.4,2019
+0,"Lander County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,3176,813708,3294,1,Monthly,2019,3,NV,Nevada,118,3.6,2019
+0,"Washoe County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,243658,813713,252710,1,Monthly,2019,3,NV,Nevada,9052,3.6,2019
+0,"Churchill County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,10653,813700,11088,1,Monthly,2019,3,NV,Nevada,435,3.9,2019
+0,"Clark County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,1075988,813701,1122507,1,Monthly,2019,3,NV,Nevada,46519,4.1,2019
+0,"Storey County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,1923,813714,2010,1,Monthly,2019,3,NV,Nevada,87,4.3,2019
+0,"Lincoln County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,2048,813707,2143,1,Monthly,2019,3,NV,Nevada,95,4.4,2019
+0,"Carson City, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,24842,813715,26020,1,Monthly,2019,3,NV,Nevada,1178,4.5,2019
+0,"Douglas County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,21895,813702,22917,1,Monthly,2019,3,NV,Nevada,1022,4.5,2019
+0,"Pershing County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,2540,813712,2661,1,Monthly,2019,3,NV,Nevada,121,4.5,2019
+0,"Mineral County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,1950,813710,2044,1,Monthly,2019,3,NV,Nevada,94,4.6,2019
+0,"Lyon County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,22290,813709,23536,1,Monthly,2019,3,NV,Nevada,1246,5.3,2019
+0,"Nye County, Nevada",County,March,Not Adj,TRUE,Reset Button,2022,16287,813711,17200,1,Monthly,2019,3,NV,Nevada,913,5.3,2019
+0,"Eureka County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,1130,959668,1177,1,Monthly,2020,3,NV,Nevada,47,4,2020
+0,"Elko County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,25942,959666,27343,1,Monthly,2020,3,NV,Nevada,1401,5.1,2020
+0,"Humboldt County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,8062,959669,8501,1,Monthly,2020,3,NV,Nevada,439,5.2,2020
+0,"White Pine County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,4478,959678,4725,1,Monthly,2020,3,NV,Nevada,247,5.2,2020
+0,"Washoe County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,244886,959677,259454,1,Monthly,2020,3,NV,Nevada,14568,5.6,2020
+0,"Lander County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,3092,959670,3284,1,Monthly,2020,3,NV,Nevada,192,5.8,2020
+0,"Esmeralda County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,434,959667,461,1,Monthly,2020,3,NV,Nevada,27,5.9,2020
+0,"Churchill County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,10783,959663,11478,1,Monthly,2020,3,NV,Nevada,695,6.1,2020
+0,"Lincoln County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,2068,959671,2203,1,Monthly,2020,3,NV,Nevada,135,6.1,2020
+0,"Mineral County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,1969,959673,2104,1,Monthly,2020,3,NV,Nevada,135,6.4,2020
+0,"Storey County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,1933,959676,2065,1,Monthly,2020,3,NV,Nevada,132,6.4,2020
+0,"Pershing County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,2527,959675,2709,1,Monthly,2020,3,NV,Nevada,182,6.7,2020
+0,"Douglas County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,21847,959665,23445,1,Monthly,2020,3,NV,Nevada,1598,6.8,2020
+0,"Carson City, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,24900,959679,26797,1,Monthly,2020,3,NV,Nevada,1897,7.1,2020
+0,"Clark County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,1061723,959664,1143825,1,Monthly,2020,3,NV,Nevada,82102,7.2,2020
+0,"Lyon County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,21967,959672,23918,1,Monthly,2020,3,NV,Nevada,1951,8.2,2020
+0,"Nye County, Nevada",County,March,Not Adj,TRUE,Reset Button,2023,16509,959674,18014,1,Monthly,2020,3,NV,Nevada,1505,8.4,2020
+0,Nevada,State,March,Not Adj,TRUE,Reset Button,2022,1468457,813698,1530663,1,Monthly,2019,3,NV,Nevada,62206,4.1,2019
+0,Nevada,State,March,Not Adj,TRUE,Reset Button,2023,1454249,959661,1561501,1,Monthly,2020,3,NV,Nevada,107252,6.9,2020
+0,Elko,City,April,Not Adj,TRUE,Reset Button,2023,10425,813746,10738,1,Monthly,2019,4,NV,Nevada,313,2.9,2019
+0,Mesquite,City,April,Not Adj,TRUE,Reset Button,2023,7618,813743,7842,1,Monthly,2019,4,NV,Nevada,224,2.9,2019
+0,Sparks,City,April,Not Adj,TRUE,Reset Button,2023,55026,813739,56828,1,Monthly,2019,4,NV,Nevada,1802,3.2,2019
+0,Reno,City,April,Not Adj,TRUE,Reset Button,2023,132232,813742,136761,1,Monthly,2019,4,NV,Nevada,4529,3.3,2019
+0,Henderson,City,April,Not Adj,TRUE,Reset Button,2023,156144,813745,162180,1,Monthly,2019,4,NV,Nevada,6036,3.7,2019
+0,Las Vegas,City,April,Not Adj,TRUE,Reset Button,2023,299986,813744,312910,1,Monthly,2019,4,NV,Nevada,12924,4.1,2019
+0,Boulder City,City,April,Not Adj,TRUE,Reset Button,2023,7221,813748,7540,1,Monthly,2019,4,NV,Nevada,319,4.2,2019
+0,North Las Vegas,City,April,Not Adj,TRUE,Reset Button,2023,109289,813741,114397,1,Monthly,2019,4,NV,Nevada,5108,4.5,2019
+0,Fernley City,City,April,Not Adj,TRUE,Reset Button,2023,8298,813747,8781,1,Monthly,2019,4,NV,Nevada,483,5.5,2019
+0,Elko,City,April,Not Adj,TRUE,Reset Button,2024,9046,959709,10235,1,Monthly,2020,4,NV,Nevada,1189,11.6,2020
+0,Fernley City,City,April,Not Adj,TRUE,Reset Button,2024,6671,959711,8336,1,Monthly,2020,4,NV,Nevada,1665,20,2020
+0,Reno,City,April,Not Adj,TRUE,Reset Button,2024,95255,959704,120456,1,Monthly,2020,4,NV,Nevada,25201,20.9,2020
+0,Sparks,City,April,Not Adj,TRUE,Reset Button,2024,39638,959703,50164,1,Monthly,2020,4,NV,Nevada,10526,21,2020
+0,Boulder City,City,April,Not Adj,TRUE,Reset Button,2024,4663,959710,6216,1,Monthly,2020,4,NV,Nevada,1553,25,2020
+0,Mesquite,City,April,Not Adj,TRUE,Reset Button,2024,4920,959706,6804,1,Monthly,2020,4,NV,Nevada,1884,27.7,2020
+0,Henderson,City,April,Not Adj,TRUE,Reset Button,2024,100836,959708,143118,1,Monthly,2020,4,NV,Nevada,42282,29.5,2020
+0,Las Vegas,City,April,Not Adj,TRUE,Reset Button,2024,193727,959707,285344,1,Monthly,2020,4,NV,Nevada,91617,32.1,2020
+0,North Las Vegas,City,April,Not Adj,TRUE,Reset Button,2024,70577,959705,105134,1,Monthly,2020,4,NV,Nevada,34557,32.9,2020
+0,"Eureka County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,1062,813765,1089,1,Monthly,2019,4,NV,Nevada,27,2.5,2019
+0,"Humboldt County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,7987,813766,8217,1,Monthly,2019,4,NV,Nevada,230,2.8,2019
+0,"Esmeralda County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,401,813767,413,1,Monthly,2019,4,NV,Nevada,12,2.9,2019
+0,"Elko County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,26702,813768,27536,1,Monthly,2019,4,NV,Nevada,834,3,2019
+0,"Lander County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,3108,813763,3209,1,Monthly,2019,4,NV,Nevada,101,3.1,2019
+0,"White Pine County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,4451,813755,4592,1,Monthly,2019,4,NV,Nevada,141,3.1,2019
+0,"Washoe County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,245173,813758,253514,1,Monthly,2019,4,NV,Nevada,8341,3.3,2019
+0,"Churchill County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,10527,813771,10934,1,Monthly,2019,4,NV,Nevada,407,3.7,2019
+0,"Carson City, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,25028,813756,26084,1,Monthly,2019,4,NV,Nevada,1056,4,2019
+0,"Clark County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,1078572,813770,1124041,1,Monthly,2019,4,NV,Nevada,45469,4,2019
+0,"Storey County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,1938,813757,2018,1,Monthly,2019,4,NV,Nevada,80,4,2019
+0,"Mineral County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,1950,813761,2033,1,Monthly,2019,4,NV,Nevada,83,4.1,2019
+0,"Douglas County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,21857,813769,22825,1,Monthly,2019,4,NV,Nevada,968,4.2,2019
+0,"Lincoln County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,1988,813764,2076,1,Monthly,2019,4,NV,Nevada,88,4.2,2019
+0,"Pershing County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,2439,813759,2548,1,Monthly,2019,4,NV,Nevada,109,4.3,2019
+0,"Lyon County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,22338,813762,23461,1,Monthly,2019,4,NV,Nevada,1123,4.8,2019
+0,"Nye County, Nevada",County,April,Not Adj,TRUE,Reset Button,2023,16190,813760,17095,1,Monthly,2019,4,NV,Nevada,905,5.3,2019
+0,"Eureka County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,941,959729,1004,1,Monthly,2020,4,NV,Nevada,63,6.3,2020
+0,"Esmeralda County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,370,959730,397,1,Monthly,2020,4,NV,Nevada,27,6.8,2020
+0,"White Pine County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,4025,959719,4359,1,Monthly,2020,4,NV,Nevada,334,7.7,2020
+0,"Lander County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,2721,959727,2954,1,Monthly,2020,4,NV,Nevada,233,7.9,2020
+0,"Humboldt County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,7067,959728,7711,1,Monthly,2020,4,NV,Nevada,644,8.4,2020
+0,"Lincoln County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,1729,959726,1899,1,Monthly,2020,4,NV,Nevada,170,9,2020
+0,"Pershing County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,2183,959722,2402,1,Monthly,2020,4,NV,Nevada,219,9.1,2020
+0,"Mineral County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,1755,959724,1969,1,Monthly,2020,4,NV,Nevada,214,10.9,2020
+0,"Churchill County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,9421,959734,10621,1,Monthly,2020,4,NV,Nevada,1200,11.3,2020
+0,"Elko County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,23171,959731,26944,1,Monthly,2020,4,NV,Nevada,3773,14,2020
+0,"Douglas County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,18494,959732,22772,1,Monthly,2020,4,NV,Nevada,4278,18.8,2020
+0,"Lyon County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,17959,959725,22136,1,Monthly,2020,4,NV,Nevada,4177,18.9,2020
+0,"Nye County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,13870,959723,17238,1,Monthly,2020,4,NV,Nevada,3368,19.5,2020
+0,"Washoe County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,176614,959720,221873,1,Monthly,2020,4,NV,Nevada,45259,20.4,2020
+0,"Carson City, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,18607,959718,23589,1,Monthly,2020,4,NV,Nevada,4982,21.1,2020
+0,"Storey County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,1393,959721,1803,1,Monthly,2020,4,NV,Nevada,410,22.7,2020
+0,"Clark County, Nevada",County,April,Not Adj,TRUE,Reset Button,2024,696527,959733,1055879,1,Monthly,2020,4,NV,Nevada,359352,34,2020
+0,Nevada,State,April,Not Adj,TRUE,Reset Button,2023,1471710,813772,1531684,1,Monthly,2019,4,NV,Nevada,59974,3.9,2019
+0,Nevada,State,April,Not Adj,TRUE,Reset Button,2024,999846,959735,1425549,1,Monthly,2020,4,NV,Nevada,428703,30.1,2020
+0,Elko,City,May,Not Adj,TRUE,Reset Button,2024,10528,813805,10822,1,Monthly,2019,5,NV,Nevada,294,2.7,2019
+0,Sparks,City,May,Not Adj,TRUE,Reset Button,2024,55390,813812,57115,1,Monthly,2019,5,NV,Nevada,1725,3,2019
+0,Mesquite,City,May,Not Adj,TRUE,Reset Button,2024,7655,813808,7903,1,Monthly,2019,5,NV,Nevada,248,3.1,2019
+0,Reno,City,May,Not Adj,TRUE,Reset Button,2024,133107,813809,137377,1,Monthly,2019,5,NV,Nevada,4270,3.1,2019
+0,Henderson,City,May,Not Adj,TRUE,Reset Button,2024,156890,813806,162885,1,Monthly,2019,5,NV,Nevada,5995,3.7,2019
+0,Boulder City,City,May,Not Adj,TRUE,Reset Button,2024,7256,813803,7553,1,Monthly,2019,5,NV,Nevada,297,3.9,2019
+0,Las Vegas,City,May,Not Adj,TRUE,Reset Button,2024,301419,813807,314573,1,Monthly,2019,5,NV,Nevada,13154,4.2,2019
+0,North Las Vegas,City,May,Not Adj,TRUE,Reset Button,2024,109811,813810,114791,1,Monthly,2019,5,NV,Nevada,4980,4.3,2019
+0,Fernley City,City,May,Not Adj,TRUE,Reset Button,2024,8356,813804,8790,1,Monthly,2019,5,NV,Nevada,434,4.9,2019
+0,Elko,City,May,Not Adj,TRUE,Reset Button,2025,9409,959768,10266,1,Monthly,2020,5,NV,Nevada,857,8.3,2020
+0,Fernley City,City,May,Not Adj,TRUE,Reset Button,2025,6895,959766,8060,1,Monthly,2020,5,NV,Nevada,1165,14.5,2020
+0,Sparks,City,May,Not Adj,TRUE,Reset Button,2025,41279,959774,49366,1,Monthly,2020,5,NV,Nevada,8087,16.4,2020
+0,Reno,City,May,Not Adj,TRUE,Reset Button,2025,99198,959773,119238,1,Monthly,2020,5,NV,Nevada,20040,16.8,2020
+0,Boulder City,City,May,Not Adj,TRUE,Reset Button,2025,4848,959767,6009,1,Monthly,2020,5,NV,Nevada,1161,19.3,2020
+0,Henderson,City,May,Not Adj,TRUE,Reset Button,2025,104825,959769,137996,1,Monthly,2020,5,NV,Nevada,33171,24,2020
+0,Mesquite,City,May,Not Adj,TRUE,Reset Button,2025,5114,959771,6755,1,Monthly,2020,5,NV,Nevada,1641,24.3,2020
+0,Las Vegas,City,May,Not Adj,TRUE,Reset Button,2025,201392,959770,276788,1,Monthly,2020,5,NV,Nevada,75396,27.2,2020
+0,North Las Vegas,City,May,Not Adj,TRUE,Reset Button,2025,73369,959772,102869,1,Monthly,2020,5,NV,Nevada,29500,28.7,2020
+0,"Eureka County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,1017,813786,1041,1,Monthly,2019,5,NV,Nevada,24,2.3,2019
+0,"Elko County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,26966,813783,27727,1,Monthly,2019,5,NV,Nevada,761,2.7,2019
+0,"Humboldt County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,7887,813785,8105,1,Monthly,2019,5,NV,Nevada,218,2.7,2019
+0,"Lander County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,3094,813788,3184,1,Monthly,2019,5,NV,Nevada,90,2.8,2019
+0,"Esmeralda County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,397,813784,409,1,Monthly,2019,5,NV,Nevada,12,2.9,2019
+0,"White Pine County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,4440,813796,4573,1,Monthly,2019,5,NV,Nevada,133,2.9,2019
+0,"Washoe County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,246796,813793,254713,1,Monthly,2019,5,NV,Nevada,7917,3.1,2019
+0,"Churchill County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,10575,813780,10960,1,Monthly,2019,5,NV,Nevada,385,3.5,2019
+0,"Storey County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,1953,813794,2028,1,Monthly,2019,5,NV,Nevada,75,3.7,2019
+0,"Carson City, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,25380,813795,26393,1,Monthly,2019,5,NV,Nevada,1013,3.8,2019
+0,"Pershing County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,2386,813792,2479,1,Monthly,2019,5,NV,Nevada,93,3.8,2019
+0,"Lincoln County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,1963,813787,2043,1,Monthly,2019,5,NV,Nevada,80,3.9,2019
+0,"Clark County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,1083724,813781,1129068,1,Monthly,2019,5,NV,Nevada,45344,4,2019
+0,"Douglas County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,22113,813782,23033,1,Monthly,2019,5,NV,Nevada,920,4,2019
+0,"Mineral County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,1958,813790,2045,1,Monthly,2019,5,NV,Nevada,87,4.3,2019
+0,"Lyon County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,22494,813789,23521,1,Monthly,2019,5,NV,Nevada,1027,4.4,2019
+0,"Nye County, Nevada",County,May,Not Adj,TRUE,Reset Button,2024,16332,813791,17216,1,Monthly,2019,5,NV,Nevada,884,5.1,2019
+0,"Eureka County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,890,959748,925,1,Monthly,2020,5,NV,Nevada,35,3.8,2020
+0,"White Pine County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,4180,959758,4418,1,Monthly,2020,5,NV,Nevada,238,5.4,2020
+0,"Esmeralda County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,359,959747,380,1,Monthly,2020,5,NV,Nevada,21,5.5,2020
+0,"Lander County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,2787,959750,2961,1,Monthly,2020,5,NV,Nevada,174,5.9,2020
+0,"Lincoln County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,1743,959751,1858,1,Monthly,2020,5,NV,Nevada,115,6.2,2020
+0,"Pershing County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,2170,959755,2314,1,Monthly,2020,5,NV,Nevada,144,6.2,2020
+0,"Humboldt County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,7154,959749,7743,1,Monthly,2020,5,NV,Nevada,589,7.6,2020
+0,"Mineral County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,1840,959753,2002,1,Monthly,2020,5,NV,Nevada,162,8.1,2020
+0,"Churchill County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,9606,959743,10480,1,Monthly,2020,5,NV,Nevada,874,8.3,2020
+0,"Elko County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,24101,959746,27270,1,Monthly,2020,5,NV,Nevada,3169,11.6,2020
+0,"Lyon County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,18563,959752,21478,1,Monthly,2020,5,NV,Nevada,2915,13.6,2020
+0,"Douglas County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,19226,959745,22347,1,Monthly,2020,5,NV,Nevada,3121,14,2020
+0,"Nye County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,14438,959754,16998,1,Monthly,2020,5,NV,Nevada,2560,15.1,2020
+0,"Carson City, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,19275,959759,22721,1,Monthly,2020,5,NV,Nevada,3446,15.2,2020
+0,"Storey County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,1454,959756,1724,1,Monthly,2020,5,NV,Nevada,270,15.7,2020
+0,"Washoe County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,183925,959757,218889,1,Monthly,2020,5,NV,Nevada,34964,16,2020
+0,"Clark County, Nevada",County,May,Not Adj,TRUE,Reset Button,2025,724084,959744,1019889,1,Monthly,2020,5,NV,Nevada,295805,29,2020
+0,Nevada,State,May,Not Adj,TRUE,Reset Button,2024,1479477,813778,1538540,1,Monthly,2019,5,NV,Nevada,59063,3.8,2019
+0,Nevada,State,May,Not Adj,TRUE,Reset Button,2025,1035795,959741,1384397,1,Monthly,2020,5,NV,Nevada,348602,25.2,2020
+0,Elko,City,June,Not Adj,TRUE,Reset Button,2025,10519,813826,10840,1,Monthly,2019,6,NV,Nevada,321,3,2019
+0,Reno,City,June,Not Adj,TRUE,Reset Button,2025,133587,813822,138019,1,Monthly,2019,6,NV,Nevada,4432,3.2,2019
+0,Sparks,City,June,Not Adj,TRUE,Reset Button,2025,55589,813819,57425,1,Monthly,2019,6,NV,Nevada,1836,3.2,2019
+0,Mesquite,City,June,Not Adj,TRUE,Reset Button,2025,7639,813823,7916,1,Monthly,2019,6,NV,Nevada,277,3.5,2019
+0,Henderson,City,June,Not Adj,TRUE,Reset Button,2025,156570,813825,163091,1,Monthly,2019,6,NV,Nevada,6521,4,2019
+0,Boulder City,City,June,Not Adj,TRUE,Reset Button,2025,7241,813828,7558,1,Monthly,2019,6,NV,Nevada,317,4.2,2019
+0,Las Vegas,City,June,Not Adj,TRUE,Reset Button,2025,300805,813824,315154,1,Monthly,2019,6,NV,Nevada,14349,4.6,2019
+0,North Las Vegas,City,June,Not Adj,TRUE,Reset Button,2025,109587,813821,115121,1,Monthly,2019,6,NV,Nevada,5534,4.8,2019
+0,Fernley City,City,June,Not Adj,TRUE,Reset Button,2025,8456,813827,8899,1,Monthly,2019,6,NV,Nevada,443,5,2019
+0,"Eureka County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,1030,813845,1056,1,Monthly,2019,6,NV,Nevada,26,2.5,2019
+0,"Elko County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,26942,813848,27769,1,Monthly,2019,6,NV,Nevada,827,3,2019
+0,"Humboldt County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,7996,813846,8241,1,Monthly,2019,6,NV,Nevada,245,3,2019
+0,"Lander County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,3113,813843,3214,1,Monthly,2019,6,NV,Nevada,101,3.1,2019
+0,"Washoe County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,247685,813838,255987,1,Monthly,2019,6,NV,Nevada,8302,3.2,2019
+0,"White Pine County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,4550,813835,4701,1,Monthly,2019,6,NV,Nevada,151,3.2,2019
+0,"Churchill County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,10689,813851,11087,1,Monthly,2019,6,NV,Nevada,398,3.6,2019
+0,"Storey County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,1964,813837,2039,1,Monthly,2019,6,NV,Nevada,75,3.7,2019
+0,"Esmeralda County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,378,813847,393,1,Monthly,2019,6,NV,Nevada,15,3.8,2019
+0,"Douglas County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,22716,813849,23627,1,Monthly,2019,6,NV,Nevada,911,3.9,2019
+0,"Carson City, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,25517,813836,26575,1,Monthly,2019,6,NV,Nevada,1058,4,2019
+0,"Lincoln County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,2013,813844,2097,1,Monthly,2019,6,NV,Nevada,84,4,2019
+0,"Pershing County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,2452,813839,2553,1,Monthly,2019,6,NV,Nevada,101,4,2019
+0,"Mineral County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,1969,813841,2054,1,Monthly,2019,6,NV,Nevada,85,4.1,2019
+0,"Clark County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,1081514,813850,1130891,1,Monthly,2019,6,NV,Nevada,49377,4.4,2019
+0,"Lyon County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,22763,813842,23858,1,Monthly,2019,6,NV,Nevada,1095,4.6,2019
+0,"Nye County, Nevada",County,June,Not Adj,TRUE,Reset Button,2025,16626,813840,17521,1,Monthly,2019,6,NV,Nevada,895,5.1,2019
+0,Nevada,State,June,Not Adj,TRUE,Reset Button,2025,1479918,813852,1543666,1,Monthly,2019,6,NV,Nevada,63748,4.1,2019
+0,Elko,City,July,Not Adj,TRUE,Reset Button,2026,10316,813885,10656,1,Monthly,2019,7,NV,Nevada,340,3.2,2019
+0,Reno,City,July,Not Adj,TRUE,Reset Button,2026,133829,813889,138301,1,Monthly,2019,7,NV,Nevada,4472,3.2,2019
+0,Sparks,City,July,Not Adj,TRUE,Reset Button,2026,55690,813892,57545,1,Monthly,2019,7,NV,Nevada,1855,3.2,2019
+0,Mesquite,City,July,Not Adj,TRUE,Reset Button,2026,7703,813888,7976,1,Monthly,2019,7,NV,Nevada,273,3.4,2019
+0,Henderson,City,July,Not Adj,TRUE,Reset Button,2026,157885,813886,164349,1,Monthly,2019,7,NV,Nevada,6464,3.9,2019
+0,Boulder City,City,July,Not Adj,TRUE,Reset Button,2026,7302,813883,7621,1,Monthly,2019,7,NV,Nevada,319,4.2,2019
+0,Las Vegas,City,July,Not Adj,TRUE,Reset Button,2026,303332,813887,317566,1,Monthly,2019,7,NV,Nevada,14234,4.5,2019
+0,North Las Vegas,City,July,Not Adj,TRUE,Reset Button,2026,110508,813890,115957,1,Monthly,2019,7,NV,Nevada,5449,4.7,2019
+0,Fernley City,City,July,Not Adj,TRUE,Reset Button,2026,8228,813884,8650,1,Monthly,2019,7,NV,Nevada,422,4.9,2019
+0,"Eureka County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,990,813866,1018,1,Monthly,2019,7,NV,Nevada,28,2.8,2019
+0,"Elko County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,26422,813863,27279,1,Monthly,2019,7,NV,Nevada,857,3.1,2019
+0,"Lander County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,3107,813868,3207,1,Monthly,2019,7,NV,Nevada,100,3.1,2019
+0,"White Pine County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,4531,813876,4676,1,Monthly,2019,7,NV,Nevada,145,3.1,2019
+0,"Washoe County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,248134,813873,256439,1,Monthly,2019,7,NV,Nevada,8305,3.2,2019
+0,"Humboldt County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,7837,813865,8118,1,Monthly,2019,7,NV,Nevada,281,3.5,2019
+0,"Churchill County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,10581,813860,10980,1,Monthly,2019,7,NV,Nevada,399,3.6,2019
+0,"Storey County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,1966,813874,2039,1,Monthly,2019,7,NV,Nevada,73,3.6,2019
+0,"Douglas County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,22783,813862,23651,1,Monthly,2019,7,NV,Nevada,868,3.7,2019
+0,"Carson City, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,25523,813875,26541,1,Monthly,2019,7,NV,Nevada,1018,3.8,2019
+0,"Esmeralda County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,406,813864,423,1,Monthly,2019,7,NV,Nevada,17,4,2019
+0,"Pershing County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,2409,813872,2509,1,Monthly,2019,7,NV,Nevada,100,4,2019
+0,"Lincoln County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,2019,813867,2105,1,Monthly,2019,7,NV,Nevada,86,4.1,2019
+0,"Mineral County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,1980,813870,2066,1,Monthly,2019,7,NV,Nevada,86,4.2,2019
+0,"Clark County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,1090602,813861,1139458,1,Monthly,2019,7,NV,Nevada,48856,4.3,2019
+0,"Lyon County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,22150,813869,23234,1,Monthly,2019,7,NV,Nevada,1084,4.7,2019
+0,"Nye County, Nevada",County,July,Not Adj,TRUE,Reset Button,2026,15999,813871,16899,1,Monthly,2019,7,NV,Nevada,900,5.3,2019
+0,Nevada,State,July,Not Adj,TRUE,Reset Button,2026,1487439,813858,1550643,1,Monthly,2019,7,NV,Nevada,63204,4.1,2019
+0,Elko,City,August,Not Adj,TRUE,Reset Button,2027,10327,813906,10628,1,Monthly,2019,8,NV,Nevada,301,2.8,2019
+0,Sparks,City,August,Not Adj,TRUE,Reset Button,2027,55745,813899,57457,1,Monthly,2019,8,NV,Nevada,1712,3,2019
+0,Reno,City,August,Not Adj,TRUE,Reset Button,2027,133961,813902,138260,1,Monthly,2019,8,NV,Nevada,4299,3.1,2019
+0,Mesquite,City,August,Not Adj,TRUE,Reset Button,2027,7708,813903,7993,1,Monthly,2019,8,NV,Nevada,285,3.6,2019
+0,Henderson,City,August,Not Adj,TRUE,Reset Button,2027,157977,813905,164043,1,Monthly,2019,8,NV,Nevada,6066,3.7,2019
+0,Boulder City,City,August,Not Adj,TRUE,Reset Button,2027,7306,813908,7606,1,Monthly,2019,8,NV,Nevada,300,3.9,2019
+0,Las Vegas,City,August,Not Adj,TRUE,Reset Button,2027,303507,813904,316846,1,Monthly,2019,8,NV,Nevada,13339,4.2,2019
+0,North Las Vegas,City,August,Not Adj,TRUE,Reset Button,2027,110571,813901,115609,1,Monthly,2019,8,NV,Nevada,5038,4.4,2019
+0,Fernley City,City,August,Not Adj,TRUE,Reset Button,2027,8213,813907,8612,1,Monthly,2019,8,NV,Nevada,399,4.6,2019
+0,"Eureka County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,999,813925,1027,1,Monthly,2019,8,NV,Nevada,28,2.7,2019
+0,"Elko County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,26450,813928,27222,1,Monthly,2019,8,NV,Nevada,772,2.8,2019
+0,"White Pine County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,4563,813915,4696,1,Monthly,2019,8,NV,Nevada,133,2.8,2019
+0,"Lander County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,3085,813923,3180,1,Monthly,2019,8,NV,Nevada,95,3,2019
+0,"Humboldt County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,7818,813926,8064,1,Monthly,2019,8,NV,Nevada,246,3.1,2019
+0,"Washoe County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,248379,813918,256252,1,Monthly,2019,8,NV,Nevada,7873,3.1,2019
+0,"Storey County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,1970,813917,2040,1,Monthly,2019,8,NV,Nevada,70,3.4,2019
+0,"Churchill County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,10548,813931,10927,1,Monthly,2019,8,NV,Nevada,379,3.5,2019
+0,"Pershing County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,2397,813919,2484,1,Monthly,2019,8,NV,Nevada,87,3.5,2019
+0,"Carson City, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,25475,813916,26435,1,Monthly,2019,8,NV,Nevada,960,3.6,2019
+0,"Douglas County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,22662,813929,23511,1,Monthly,2019,8,NV,Nevada,849,3.6,2019
+0,"Mineral County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,1997,813921,2072,1,Monthly,2019,8,NV,Nevada,75,3.6,2019
+0,"Lincoln County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,1997,813924,2074,1,Monthly,2019,8,NV,Nevada,77,3.7,2019
+0,"Esmeralda County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,426,813927,443,1,Monthly,2019,8,NV,Nevada,17,3.8,2019
+0,"Clark County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,1091232,813930,1137375,1,Monthly,2019,8,NV,Nevada,46143,4.1,2019
+0,"Lyon County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,22109,813922,23146,1,Monthly,2019,8,NV,Nevada,1037,4.5,2019
+0,"Nye County, Nevada",County,August,Not Adj,TRUE,Reset Button,2027,16339,813920,17206,1,Monthly,2019,8,NV,Nevada,867,5,2019
+0,Nevada,State,August,Not Adj,TRUE,Reset Button,2027,1488444,813932,1548152,1,Monthly,2019,8,NV,Nevada,59708,3.9,2019
+0,Elko,City,September,Not Adj,TRUE,Reset Button,2028,10321,813965,10583,1,Monthly,2019,9,NV,Nevada,262,2.5,2019
+0,Sparks,City,September,Not Adj,TRUE,Reset Button,2028,56203,813972,57891,1,Monthly,2019,9,NV,Nevada,1688,2.9,2019
+0,Reno,City,September,Not Adj,TRUE,Reset Button,2028,135062,813969,139193,1,Monthly,2019,9,NV,Nevada,4131,3,2019
+0,Mesquite,City,September,Not Adj,TRUE,Reset Button,2028,7723,813968,7992,1,Monthly,2019,9,NV,Nevada,269,3.4,2019
+0,Henderson,City,September,Not Adj,TRUE,Reset Button,2028,158298,813966,164331,1,Monthly,2019,9,NV,Nevada,6033,3.7,2019
+0,Boulder City,City,September,Not Adj,TRUE,Reset Button,2028,7321,813963,7618,1,Monthly,2019,9,NV,Nevada,297,3.9,2019
+0,Las Vegas,City,September,Not Adj,TRUE,Reset Button,2028,304125,813967,316922,1,Monthly,2019,9,NV,Nevada,12797,4,2019
+0,Fernley City,City,September,Not Adj,TRUE,Reset Button,2028,8300,813964,8660,1,Monthly,2019,9,NV,Nevada,360,4.2,2019
+0,North Las Vegas,City,September,Not Adj,TRUE,Reset Button,2028,110797,813970,115726,1,Monthly,2019,9,NV,Nevada,4929,4.3,2019
+0,"Eureka County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,1122,813946,1150,1,Monthly,2019,9,NV,Nevada,28,2.4,2019
+0,"White Pine County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,4645,813956,4762,1,Monthly,2019,9,NV,Nevada,117,2.5,2019
+0,"Elko County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,26436,813943,27151,1,Monthly,2019,9,NV,Nevada,715,2.6,2019
+0,"Humboldt County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,8204,813945,8428,1,Monthly,2019,9,NV,Nevada,224,2.7,2019
+0,"Lander County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,3138,813948,3232,1,Monthly,2019,9,NV,Nevada,94,2.9,2019
+0,"Washoe County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,250421,813953,258102,1,Monthly,2019,9,NV,Nevada,7681,3,2019
+0,"Churchill County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,10900,813940,11247,1,Monthly,2019,9,NV,Nevada,347,3.1,2019
+0,"Storey County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,1986,813954,2052,1,Monthly,2019,9,NV,Nevada,66,3.2,2019
+0,"Douglas County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,22742,813942,23532,1,Monthly,2019,9,NV,Nevada,790,3.4,2019
+0,"Lincoln County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,2115,813947,2189,1,Monthly,2019,9,NV,Nevada,74,3.4,2019
+0,"Carson City, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,25466,813955,26399,1,Monthly,2019,9,NV,Nevada,933,3.5,2019
+0,"Pershing County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,2540,813952,2631,1,Monthly,2019,9,NV,Nevada,91,3.5,2019
+0,"Mineral County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,1964,813950,2037,1,Monthly,2019,9,NV,Nevada,73,3.6,2019
+0,"Esmeralda County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,457,813944,475,1,Monthly,2019,9,NV,Nevada,18,3.8,2019
+0,"Clark County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,1093454,813941,1138060,1,Monthly,2019,9,NV,Nevada,44606,3.9,2019
+0,"Lyon County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,22345,813949,23357,1,Monthly,2019,9,NV,Nevada,1012,4.3,2019
+0,"Nye County, Nevada",County,September,Not Adj,TRUE,Reset Button,2028,16738,813951,17607,1,Monthly,2019,9,NV,Nevada,869,4.9,2019
+0,Nevada,State,September,Not Adj,TRUE,Reset Button,2028,1494671,813938,1552411,1,Monthly,2019,9,NV,Nevada,57740,3.7,2019
+0,Elko,City,October,Not Adj,TRUE,Reset Button,2029,10374,813986,10655,1,Monthly,2019,10,NV,Nevada,281,2.6,2019
+0,Reno,City,October,Not Adj,TRUE,Reset Button,2029,135819,813982,139740,1,Monthly,2019,10,NV,Nevada,3921,2.8,2019
+0,Sparks,City,October,Not Adj,TRUE,Reset Button,2029,56518,813979,58137,1,Monthly,2019,10,NV,Nevada,1619,2.8,2019
+0,Mesquite,City,October,Not Adj,TRUE,Reset Button,2029,7742,813983,7989,1,Monthly,2019,10,NV,Nevada,247,3.1,2019
+0,Henderson,City,October,Not Adj,TRUE,Reset Button,2029,158673,813985,164401,1,Monthly,2019,10,NV,Nevada,5728,3.5,2019
+0,Boulder City,City,October,Not Adj,TRUE,Reset Button,2029,7338,813988,7612,1,Monthly,2019,10,NV,Nevada,274,3.6,2019
+0,Fernley City,City,October,Not Adj,TRUE,Reset Button,2029,8391,813987,8734,1,Monthly,2019,10,NV,Nevada,343,3.9,2019
+0,Las Vegas,City,October,Not Adj,TRUE,Reset Button,2029,304845,813984,317213,1,Monthly,2019,10,NV,Nevada,12368,3.9,2019
+0,North Las Vegas,City,October,Not Adj,TRUE,Reset Button,2029,111059,813981,115768,1,Monthly,2019,10,NV,Nevada,4709,4.1,2019
+0,"Eureka County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,1178,814005,1202,1,Monthly,2019,10,NV,Nevada,24,2,2019
+0,"White Pine County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,4639,813995,4757,1,Monthly,2019,10,NV,Nevada,118,2.5,2019
+0,"Elko County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,26571,814008,27272,1,Monthly,2019,10,NV,Nevada,701,2.6,2019
+0,"Humboldt County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,8368,814006,8595,1,Monthly,2019,10,NV,Nevada,227,2.6,2019
+0,"Lander County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,3164,814003,3256,1,Monthly,2019,10,NV,Nevada,92,2.8,2019
+0,"Washoe County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,251824,813998,259121,1,Monthly,2019,10,NV,Nevada,7297,2.8,2019
+0,"Storey County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,1997,813997,2057,1,Monthly,2019,10,NV,Nevada,60,2.9,2019
+0,"Churchill County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,11120,814011,11459,1,Monthly,2019,10,NV,Nevada,339,3,2019
+0,"Carson City, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,25535,813996,26409,1,Monthly,2019,10,NV,Nevada,874,3.3,2019
+0,"Douglas County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,22664,814009,23448,1,Monthly,2019,10,NV,Nevada,784,3.3,2019
+0,"Lincoln County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,2155,814004,2228,1,Monthly,2019,10,NV,Nevada,73,3.3,2019
+0,"Pershing County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,2585,813999,2674,1,Monthly,2019,10,NV,Nevada,89,3.3,2019
+0,"Mineral County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,1942,814001,2010,1,Monthly,2019,10,NV,Nevada,68,3.4,2019
+0,"Esmeralda County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,463,814007,481,1,Monthly,2019,10,NV,Nevada,18,3.7,2019
+0,"Clark County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,1096041,814010,1138969,1,Monthly,2019,10,NV,Nevada,42928,3.8,2019
+0,"Lyon County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,22588,814002,23523,1,Monthly,2019,10,NV,Nevada,935,4,2019
+0,"Nye County, Nevada",County,October,Not Adj,TRUE,Reset Button,2029,16878,814000,17701,1,Monthly,2019,10,NV,Nevada,823,4.6,2019
+0,Nevada,State,October,Not Adj,TRUE,Reset Button,2029,1499714,814012,1555164,1,Monthly,2019,10,NV,Nevada,55450,3.6,2019
+0,Elko,City,November,Not Adj,TRUE,Reset Button,2030,10213,814045,10488,1,Monthly,2019,11,NV,Nevada,275,2.6,2019
+0,Reno,City,November,Not Adj,TRUE,Reset Button,2030,136479,814049,140251,1,Monthly,2019,11,NV,Nevada,3772,2.7,2019
+0,Sparks,City,November,Not Adj,TRUE,Reset Button,2030,56793,814052,58350,1,Monthly,2019,11,NV,Nevada,1557,2.7,2019
+0,Mesquite,City,November,Not Adj,TRUE,Reset Button,2030,7761,814048,7992,1,Monthly,2019,11,NV,Nevada,231,2.9,2019
+0,Henderson,City,November,Not Adj,TRUE,Reset Button,2030,159063,814046,164426,1,Monthly,2019,11,NV,Nevada,5363,3.3,2019
+0,Boulder City,City,November,Not Adj,TRUE,Reset Button,2030,7356,814043,7615,1,Monthly,2019,11,NV,Nevada,259,3.4,2019
+0,Las Vegas,City,November,Not Adj,TRUE,Reset Button,2030,305594,814047,317202,1,Monthly,2019,11,NV,Nevada,11608,3.7,2019
+0,Fernley City,City,November,Not Adj,TRUE,Reset Button,2030,8337,814044,8686,1,Monthly,2019,11,NV,Nevada,349,4,2019
+0,North Las Vegas,City,November,Not Adj,TRUE,Reset Button,2030,111332,814050,115931,1,Monthly,2019,11,NV,Nevada,4599,4,2019
+0,"Eureka County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,1104,814026,1125,1,Monthly,2019,11,NV,Nevada,21,1.9,2019
+0,"White Pine County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,4549,814036,4664,1,Monthly,2019,11,NV,Nevada,115,2.5,2019
+0,"Elko County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,26159,814023,26857,1,Monthly,2019,11,NV,Nevada,698,2.6,2019
+0,"Humboldt County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,8116,814025,8344,1,Monthly,2019,11,NV,Nevada,228,2.7,2019
+0,"Washoe County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,253047,814033,260090,1,Monthly,2019,11,NV,Nevada,7043,2.7,2019
+0,"Lander County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,3104,814028,3196,1,Monthly,2019,11,NV,Nevada,92,2.9,2019
+0,"Churchill County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,10865,814020,11202,1,Monthly,2019,11,NV,Nevada,337,3,2019
+0,"Esmeralda County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,450,814024,464,1,Monthly,2019,11,NV,Nevada,14,3,2019
+0,"Storey County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,2007,814034,2072,1,Monthly,2019,11,NV,Nevada,65,3.1,2019
+0,"Lincoln County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,2089,814027,2157,1,Monthly,2019,11,NV,Nevada,68,3.2,2019
+0,"Carson City, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,25443,814035,26314,1,Monthly,2019,11,NV,Nevada,871,3.3,2019
+0,"Mineral County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,1926,814030,1991,1,Monthly,2019,11,NV,Nevada,65,3.3,2019
+0,"Douglas County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,22281,814022,23070,1,Monthly,2019,11,NV,Nevada,789,3.4,2019
+0,"Clark County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,1098734,814021,1139511,1,Monthly,2019,11,NV,Nevada,40777,3.6,2019
+0,"Pershing County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,2492,814032,2584,1,Monthly,2019,11,NV,Nevada,92,3.6,2019
+0,"Lyon County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,22444,814029,23368,1,Monthly,2019,11,NV,Nevada,924,4,2019
+0,"Nye County, Nevada",County,November,Not Adj,TRUE,Reset Button,2030,16814,814031,17591,1,Monthly,2019,11,NV,Nevada,777,4.4,2019
+0,Nevada,State,November,Not Adj,TRUE,Reset Button,2030,1501624,814018,1554598,1,Monthly,2019,11,NV,Nevada,52974,3.4,2019
+0,Elko,City,December,Not Adj,TRUE,Reset Button,2031,10131,814066,10404,1,Monthly,2019,12,NV,Nevada,273,2.6,2019
+0,Reno,City,December,Not Adj,TRUE,Reset Button,2031,136175,814062,139960,1,Monthly,2019,12,NV,Nevada,3785,2.7,2019
+0,Sparks,City,December,Not Adj,TRUE,Reset Button,2031,56666,814059,58219,1,Monthly,2019,12,NV,Nevada,1553,2.7,2019
+0,Mesquite,City,December,Not Adj,TRUE,Reset Button,2031,7746,814063,7976,1,Monthly,2019,12,NV,Nevada,230,2.9,2019
+0,Henderson,City,December,Not Adj,TRUE,Reset Button,2031,158755,814065,163976,1,Monthly,2019,12,NV,Nevada,5221,3.2,2019
+0,Boulder City,City,December,Not Adj,TRUE,Reset Button,2031,7342,814068,7612,1,Monthly,2019,12,NV,Nevada,270,3.5,2019
+0,Las Vegas,City,December,Not Adj,TRUE,Reset Button,2031,305003,814064,316225,1,Monthly,2019,12,NV,Nevada,11222,3.5,2019
+0,North Las Vegas,City,December,Not Adj,TRUE,Reset Button,2031,111116,814061,115547,1,Monthly,2019,12,NV,Nevada,4431,3.8,2019
+0,Fernley City,City,December,Not Adj,TRUE,Reset Button,2031,8257,814067,8632,1,Monthly,2019,12,NV,Nevada,375,4.3,2019
+0,"Eureka County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,1046,814085,1070,1,Monthly,2019,12,NV,Nevada,24,2.2,2019
+0,"White Pine County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,4521,814075,4635,1,Monthly,2019,12,NV,Nevada,114,2.5,2019
+0,"Elko County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,25950,814088,26639,1,Monthly,2019,12,NV,Nevada,689,2.6,2019
+0,"Humboldt County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,7938,814086,8147,1,Monthly,2019,12,NV,Nevada,209,2.6,2019
+0,"Washoe County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,252484,814078,259618,1,Monthly,2019,12,NV,Nevada,7134,2.7,2019
+0,"Churchill County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,10745,814091,11074,1,Monthly,2019,12,NV,Nevada,329,3,2019
+0,"Lander County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,3089,814083,3184,1,Monthly,2019,12,NV,Nevada,95,3,2019
+0,"Lincoln County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,2045,814084,2113,1,Monthly,2019,12,NV,Nevada,68,3.2,2019
+0,"Carson City, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,25433,814076,26336,1,Monthly,2019,12,NV,Nevada,903,3.4,2019
+0,"Mineral County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,1927,814081,1994,1,Monthly,2019,12,NV,Nevada,67,3.4,2019
+0,"Clark County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,1096609,814090,1136500,1,Monthly,2019,12,NV,Nevada,39891,3.5,2019
+0,"Douglas County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,22276,814089,23093,1,Monthly,2019,12,NV,Nevada,817,3.5,2019
+0,"Storey County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,2002,814077,2074,1,Monthly,2019,12,NV,Nevada,72,3.5,2019
+0,"Pershing County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,2428,814079,2523,1,Monthly,2019,12,NV,Nevada,95,3.8,2019
+0,"Lyon County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,22229,814082,23184,1,Monthly,2019,12,NV,Nevada,955,4.1,2019
+0,"Esmeralda County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,428,814087,447,1,Monthly,2019,12,NV,Nevada,19,4.3,2019
+0,"Nye County, Nevada",County,December,Not Adj,TRUE,Reset Button,2031,16718,814080,17509,1,Monthly,2019,12,NV,Nevada,791,4.5,2019
+0,Nevada,State,December,Not Adj,TRUE,Reset Button,2031,1497868,814092,1550143,1,Monthly,2019,12,NV,Nevada,52275,3.4,2019

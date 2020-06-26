@@ -185,11 +185,17 @@
 * [NEWorks](https://neworks.nebraska.gov/gsipub/index.asp?docid=710)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries
+* [NEWorks](https://neworks.nebraska.gov/vosnet/analyzer/results.aspx)
+  * Format: CSV, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Nevada
 * [Department of Employment, Training, and Rehabilitation](http://nvlmi.mt.gov/Portals/197/UI%20Monthly%20Claims%20Press%20Release/Dashboards/UICountyTrends.html)
   * Format: Web Tables, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [Nevada DETR](http://nevadaworkforce.com/Home/DS-Results-LAUS)
+  * Format: Tableau, Updated:  Monthly, Level: County, City
+  * Data: Unemployment
 
 ## New Hampshire
 No Data

@@ -1,0 +1,460 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
+"32","NV","Nevada","Mesquite","city",NA,"January",2019,7535,7843,308
+"32","NV","Nevada","Reno","city",NA,"January",2019,129795,135084,5289
+"32","NV","Nevada","Sparks","city",NA,"January",2019,54011,56190,2179
+"32","NV","Nevada","Elko","city",NA,"January",2019,10279,10707,428
+"32","NV","Nevada","Henderson","city",NA,"January",2019,154429,161306,6877
+"32","NV","Nevada","Boulder City","city",NA,"January",2019,7142,7488,346
+"32","NV","Nevada","Las Vegas","city",NA,"January",2019,296692,311497,14805
+"32","NV","Nevada","North Las Vegas","city",NA,"January",2019,108089,113761,5672
+"32","NV","Nevada","Fernley City","city",NA,"January",2019,8110,8635,525
+"32","NV","Nevada","Sparks","city",NA,"January",2020,56027,57908,1881
+"32","NV","Nevada","Elko","city",NA,"January",2020,10213,10567,354
+"32","NV","Nevada","Mesquite","city",NA,"January",2020,7778,8052,274
+"32","NV","Nevada","Reno","city",NA,"January",2020,134639,139316,4677
+"32","NV","Nevada","Henderson","city",NA,"January",2020,159414,165300,5886
+"32","NV","Nevada","Boulder City","city",NA,"January",2020,7372,7674,302
+"32","NV","Nevada","Las Vegas","city",NA,"January",2020,306268,319070,12802
+"32","NV","Nevada","North Las Vegas","city",NA,"January",2020,111577,116721,5144
+"32","NV","Nevada","Fernley City","city",NA,"January",2020,8291,8721,430
+"32","NV","Nevada","Eureka County","county",32011,"January",2019,1036,1064,28
+"32","NV","Nevada","Humboldt County","county",32013,"January",2019,7775,8064,289
+"32","NV","Nevada","Elko County","county",32007,"January",2019,26329,27349,1020
+"32","NV","Nevada","White Pine County","county",32033,"January",2019,4310,4481,171
+"32","NV","Nevada","Esmeralda County","county",32009,"January",2019,397,413,16
+"32","NV","Nevada","Lander County","county",32015,"January",2019,3052,3179,127
+"32","NV","Nevada","Washoe County","county",32031,"January",2019,240654,250704,10050
+"32","NV","Nevada","Churchill County","county",32001,"January",2019,10325,10797,472
+"32","NV","Nevada","Clark County","county",32003,"January",2019,1066729,1118227,51498
+"32","NV","Nevada","Storey County","county",32029,"January",2019,1904,2000,96
+"32","NV","Nevada","Douglas County","county",32005,"January",2019,21711,22837,1126
+"32","NV","Nevada","Pershing County","county",32027,"January",2019,2404,2529,125
+"32","NV","Nevada","Carson City","county",32510,"January",2019,24517,25800,1283
+"32","NV","Nevada","Mineral County","county",32021,"January",2019,1889,1990,101
+"32","NV","Nevada","Lincoln County","county",32017,"January",2019,1944,2051,107
+"32","NV","Nevada","Lyon County","county",32019,"January",2019,21832,23223,1391
+"32","NV","Nevada","Nye County","county",32023,"January",2019,15961,16974,1013
+"32","NV","Nevada","Eureka County","county",32011,"January",2020,1128,1153,25
+"32","NV","Nevada","White Pine County","county",32033,"January",2020,4547,4687,140
+"32","NV","Nevada","Humboldt County","county",32013,"January",2020,8130,8397,267
+"32","NV","Nevada","Elko County","county",32007,"January",2020,26160,27050,890
+"32","NV","Nevada","Washoe County","county",32031,"January",2020,249635,258405,8770
+"32","NV","Nevada","Churchill County","county",32001,"January",2020,10962,11385,423
+"32","NV","Nevada","Lincoln County","county",32017,"January",2020,2105,2187,82
+"32","NV","Nevada","Esmeralda County","county",32009,"January",2020,455,473,18
+"32","NV","Nevada","Storey County","county",32029,"January",2020,1974,2053,79
+"32","NV","Nevada","Clark County","county",32003,"January",2020,1101158,1145940,44782
+"32","NV","Nevada","Lander County","county",32015,"January",2020,3144,3271,127
+"32","NV","Nevada","Douglas County","county",32005,"January",2020,22409,23345,936
+"32","NV","Nevada","Pershing County","county",32027,"January",2020,2525,2630,105
+"32","NV","Nevada","Carson City","county",32510,"January",2020,25490,26581,1091
+"32","NV","Nevada","Mineral County","county",32021,"January",2020,1927,2010,83
+"32","NV","Nevada","Lyon County","county",32019,"January",2020,22320,23491,1171
+"32","NV","Nevada","Nye County","county",32023,"January",2020,16953,17843,890
+"32","NV","Nevada","Nevada","state",NA,"January",2019,1452770,1521685,68915
+"32","NV","Nevada","Nevada","state",NA,"January",2020,1501021,1560901,59880
+"32","NV","Nevada","Mesquite","city",NA,"February",2019,7602,7885,283
+"32","NV","Nevada","Elko","city",NA,"February",2019,10402,10800,398
+"32","NV","Nevada","Reno","city",NA,"February",2019,131617,136701,5084
+"32","NV","Nevada","Sparks","city",NA,"February",2019,54770,56899,2129
+"32","NV","Nevada","Henderson","city",NA,"February",2019,155817,162171,6354
+"32","NV","Nevada","Las Vegas","city",NA,"February",2019,299358,312970,13612
+"32","NV","Nevada","Boulder City","city",NA,"February",2019,7206,7539,333
+"32","NV","Nevada","North Las Vegas","city",NA,"February",2019,109060,114282,5222
+"32","NV","Nevada","Fernley City","city",NA,"February",2019,8219,8747,528
+"32","NV","Nevada","Mesquite","city",NA,"February",2020,7836,8084,248
+"32","NV","Nevada","Sparks","city",NA,"February",2020,56852,58684,1832
+"32","NV","Nevada","Reno","city",NA,"February",2020,136621,141083,4462
+"32","NV","Nevada","Elko","city",NA,"February",2020,10220,10572,352
+"32","NV","Nevada","Henderson","city",NA,"February",2020,160604,166565,5961
+"32","NV","Nevada","Boulder City","city",NA,"February",2020,7427,7711,284
+"32","NV","Nevada","Las Vegas","city",NA,"February",2020,308554,321169,12615
+"32","NV","Nevada","North Las Vegas","city",NA,"February",2020,112410,117450,5040
+"32","NV","Nevada","Fernley City","city",NA,"February",2020,8345,8778,433
+"32","NV","Nevada","Eureka County","county",32011,"February",2019,1081,1107,26
+"32","NV","Nevada","Humboldt County","county",32013,"February",2019,7981,8246,265
+"32","NV","Nevada","Elko County","county",32007,"February",2019,26644,27621,977
+"32","NV","Nevada","Lander County","county",32015,"February",2019,3111,3224,113
+"32","NV","Nevada","White Pine County","county",32033,"February",2019,4361,4518,157
+"32","NV","Nevada","Washoe County","county",32031,"February",2019,244033,253725,9692
+"32","NV","Nevada","Churchill County","county",32001,"February",2019,10460,10920,460
+"32","NV","Nevada","Clark County","county",32003,"February",2019,1076313,1124004,47691
+"32","NV","Nevada","Esmeralda County","county",32009,"February",2019,408,426,18
+"32","NV","Nevada","Douglas County","county",32005,"February",2019,21894,22974,1080
+"32","NV","Nevada","Carson City","county",32510,"February",2019,24820,26076,1256
+"32","NV","Nevada","Storey County","county",32029,"February",2019,1931,2028,97
+"32","NV","Nevada","Lincoln County","county",32017,"February",2019,1977,2079,102
+"32","NV","Nevada","Mineral County","county",32021,"February",2019,1922,2020,98
+"32","NV","Nevada","Pershing County","county",32027,"February",2019,2453,2587,134
+"32","NV","Nevada","Nye County","county",32023,"February",2019,16100,17049,949
+"32","NV","Nevada","Lyon County","county",32019,"February",2019,22125,23469,1344
+"32","NV","Nevada","Eureka County","county",32011,"February",2020,1077,1103,26
+"32","NV","Nevada","Washoe County","county",32031,"February",2020,253310,261747,8437
+"32","NV","Nevada","Elko County","county",32007,"February",2020,26176,27063,887
+"32","NV","Nevada","Humboldt County","county",32013,"February",2020,8043,8317,274
+"32","NV","Nevada","White Pine County","county",32033,"February",2020,4540,4697,157
+"32","NV","Nevada","Churchill County","county",32001,"February",2020,10938,11350,412
+"32","NV","Nevada","Lander County","county",32015,"February",2020,3143,3264,121
+"32","NV","Nevada","Lincoln County","county",32017,"February",2020,2075,2158,83
+"32","NV","Nevada","Storey County","county",32029,"February",2020,2008,2087,79
+"32","NV","Nevada","Clark County","county",32003,"February",2020,1109378,1154132,44754
+"32","NV","Nevada","Esmeralda County","county",32009,"February",2020,443,461,18
+"32","NV","Nevada","Mineral County","county",32021,"February",2020,1945,2024,79
+"32","NV","Nevada","Douglas County","county",32005,"February",2020,22595,23535,940
+"32","NV","Nevada","Carson City","county",32510,"February",2020,25783,26889,1106
+"32","NV","Nevada","Pershing County","county",32027,"February",2020,2481,2594,113
+"32","NV","Nevada","Nye County","county",32023,"February",2020,17053,17934,881
+"32","NV","Nevada","Lyon County","county",32019,"February",2020,22464,23639,1175
+"32","NV","Nevada","Nevada","state",NA,"February",2019,1467615,1532073,64458
+"32","NV","Nevada","Nevada","state",NA,"February",2020,1513453,1572996,59543
+"32","NV","Nevada","Mesquite","city",NA,"March",2019,7600,7825,225
+"32","NV","Nevada","Elko","city",NA,"March",2019,10550,10906,356
+"32","NV","Nevada","Reno","city",NA,"March",2019,131415,136208,4793
+"32","NV","Nevada","Sparks","city",NA,"March",2019,54686,56654,1968
+"32","NV","Nevada","Henderson","city",NA,"March",2019,155770,161889,6119
+"32","NV","Nevada","Las Vegas","city",NA,"March",2019,299268,312632,13364
+"32","NV","Nevada","Boulder City","city",NA,"March",2019,7204,7534,330
+"32","NV","Nevada","North Las Vegas","city",NA,"March",2019,109027,114292,5265
+"32","NV","Nevada","Fernley City","city",NA,"March",2019,8280,8795,515
+"32","NV","Nevada","Mesquite","city",NA,"March",2020,7499,7862,363
+"32","NV","Nevada","Elko","city",NA,"March",2020,10128,10718,590
+"32","NV","Nevada","Reno","city",NA,"March",2020,132077,139704,7627
+"32","NV","Nevada","Sparks","city",NA,"March",2020,54961,58173,3212
+"32","NV","Nevada","Henderson","city",NA,"March",2020,153705,164459,10754
+"32","NV","Nevada","Boulder City","city",NA,"March",2020,7108,7617,509
+"32","NV","Nevada","Las Vegas","city",NA,"March",2020,295300,318396,23096
+"32","NV","Nevada","North Las Vegas","city",NA,"March",2020,107581,116983,9402
+"32","NV","Nevada","Fernley City","city",NA,"March",2020,8160,8912,752
+"32","NV","Nevada","Eureka County","county",32011,"March",2019,1162,1188,26
+"32","NV","Nevada","Humboldt County","county",32013,"March",2019,8196,8433,237
+"32","NV","Nevada","Elko County","county",32007,"March",2019,27022,27923,901
+"32","NV","Nevada","White Pine County","county",32033,"March",2019,4424,4571,147
+"32","NV","Nevada","Esmeralda County","county",32009,"March",2019,403,417,14
+"32","NV","Nevada","Lander County","county",32015,"March",2019,3176,3294,118
+"32","NV","Nevada","Washoe County","county",32031,"March",2019,243658,252710,9052
+"32","NV","Nevada","Churchill County","county",32001,"March",2019,10653,11088,435
+"32","NV","Nevada","Clark County","county",32003,"March",2019,1075988,1122507,46519
+"32","NV","Nevada","Storey County","county",32029,"March",2019,1923,2010,87
+"32","NV","Nevada","Lincoln County","county",32017,"March",2019,2048,2143,95
+"32","NV","Nevada","Carson City","county",32510,"March",2019,24842,26020,1178
+"32","NV","Nevada","Douglas County","county",32005,"March",2019,21895,22917,1022
+"32","NV","Nevada","Pershing County","county",32027,"March",2019,2540,2661,121
+"32","NV","Nevada","Mineral County","county",32021,"March",2019,1950,2044,94
+"32","NV","Nevada","Lyon County","county",32019,"March",2019,22290,23536,1246
+"32","NV","Nevada","Nye County","county",32023,"March",2019,16287,17200,913
+"32","NV","Nevada","Eureka County","county",32011,"March",2020,1130,1177,47
+"32","NV","Nevada","Elko County","county",32007,"March",2020,25942,27343,1401
+"32","NV","Nevada","Humboldt County","county",32013,"March",2020,8062,8501,439
+"32","NV","Nevada","White Pine County","county",32033,"March",2020,4478,4725,247
+"32","NV","Nevada","Washoe County","county",32031,"March",2020,244886,259454,14568
+"32","NV","Nevada","Lander County","county",32015,"March",2020,3092,3284,192
+"32","NV","Nevada","Esmeralda County","county",32009,"March",2020,434,461,27
+"32","NV","Nevada","Churchill County","county",32001,"March",2020,10783,11478,695
+"32","NV","Nevada","Lincoln County","county",32017,"March",2020,2068,2203,135
+"32","NV","Nevada","Mineral County","county",32021,"March",2020,1969,2104,135
+"32","NV","Nevada","Storey County","county",32029,"March",2020,1933,2065,132
+"32","NV","Nevada","Pershing County","county",32027,"March",2020,2527,2709,182
+"32","NV","Nevada","Douglas County","county",32005,"March",2020,21847,23445,1598
+"32","NV","Nevada","Carson City","county",32510,"March",2020,24900,26797,1897
+"32","NV","Nevada","Clark County","county",32003,"March",2020,1061723,1143825,82102
+"32","NV","Nevada","Lyon County","county",32019,"March",2020,21967,23918,1951
+"32","NV","Nevada","Nye County","county",32023,"March",2020,16509,18014,1505
+"32","NV","Nevada","Nevada","state",NA,"March",2019,1468457,1530663,62206
+"32","NV","Nevada","Nevada","state",NA,"March",2020,1454249,1561501,107252
+"32","NV","Nevada","Elko","city",NA,"April",2019,10425,10738,313
+"32","NV","Nevada","Mesquite","city",NA,"April",2019,7618,7842,224
+"32","NV","Nevada","Sparks","city",NA,"April",2019,55026,56828,1802
+"32","NV","Nevada","Reno","city",NA,"April",2019,132232,136761,4529
+"32","NV","Nevada","Henderson","city",NA,"April",2019,156144,162180,6036
+"32","NV","Nevada","Las Vegas","city",NA,"April",2019,299986,312910,12924
+"32","NV","Nevada","Boulder City","city",NA,"April",2019,7221,7540,319
+"32","NV","Nevada","North Las Vegas","city",NA,"April",2019,109289,114397,5108
+"32","NV","Nevada","Fernley City","city",NA,"April",2019,8298,8781,483
+"32","NV","Nevada","Elko","city",NA,"April",2020,9046,10235,1189
+"32","NV","Nevada","Fernley City","city",NA,"April",2020,6671,8336,1665
+"32","NV","Nevada","Reno","city",NA,"April",2020,95255,120456,25201
+"32","NV","Nevada","Sparks","city",NA,"April",2020,39638,50164,10526
+"32","NV","Nevada","Boulder City","city",NA,"April",2020,4663,6216,1553
+"32","NV","Nevada","Mesquite","city",NA,"April",2020,4920,6804,1884
+"32","NV","Nevada","Henderson","city",NA,"April",2020,100836,143118,42282
+"32","NV","Nevada","Las Vegas","city",NA,"April",2020,193727,285344,91617
+"32","NV","Nevada","North Las Vegas","city",NA,"April",2020,70577,105134,34557
+"32","NV","Nevada","Eureka County","county",32011,"April",2019,1062,1089,27
+"32","NV","Nevada","Humboldt County","county",32013,"April",2019,7987,8217,230
+"32","NV","Nevada","Esmeralda County","county",32009,"April",2019,401,413,12
+"32","NV","Nevada","Elko County","county",32007,"April",2019,26702,27536,834
+"32","NV","Nevada","Lander County","county",32015,"April",2019,3108,3209,101
+"32","NV","Nevada","White Pine County","county",32033,"April",2019,4451,4592,141
+"32","NV","Nevada","Washoe County","county",32031,"April",2019,245173,253514,8341
+"32","NV","Nevada","Churchill County","county",32001,"April",2019,10527,10934,407
+"32","NV","Nevada","Carson City","county",32510,"April",2019,25028,26084,1056
+"32","NV","Nevada","Clark County","county",32003,"April",2019,1078572,1124041,45469
+"32","NV","Nevada","Storey County","county",32029,"April",2019,1938,2018,80
+"32","NV","Nevada","Mineral County","county",32021,"April",2019,1950,2033,83
+"32","NV","Nevada","Douglas County","county",32005,"April",2019,21857,22825,968
+"32","NV","Nevada","Lincoln County","county",32017,"April",2019,1988,2076,88
+"32","NV","Nevada","Pershing County","county",32027,"April",2019,2439,2548,109
+"32","NV","Nevada","Lyon County","county",32019,"April",2019,22338,23461,1123
+"32","NV","Nevada","Nye County","county",32023,"April",2019,16190,17095,905
+"32","NV","Nevada","Eureka County","county",32011,"April",2020,941,1004,63
+"32","NV","Nevada","Esmeralda County","county",32009,"April",2020,370,397,27
+"32","NV","Nevada","White Pine County","county",32033,"April",2020,4025,4359,334
+"32","NV","Nevada","Lander County","county",32015,"April",2020,2721,2954,233
+"32","NV","Nevada","Humboldt County","county",32013,"April",2020,7067,7711,644
+"32","NV","Nevada","Lincoln County","county",32017,"April",2020,1729,1899,170
+"32","NV","Nevada","Pershing County","county",32027,"April",2020,2183,2402,219
+"32","NV","Nevada","Mineral County","county",32021,"April",2020,1755,1969,214
+"32","NV","Nevada","Churchill County","county",32001,"April",2020,9421,10621,1200
+"32","NV","Nevada","Elko County","county",32007,"April",2020,23171,26944,3773
+"32","NV","Nevada","Douglas County","county",32005,"April",2020,18494,22772,4278
+"32","NV","Nevada","Lyon County","county",32019,"April",2020,17959,22136,4177
+"32","NV","Nevada","Nye County","county",32023,"April",2020,13870,17238,3368
+"32","NV","Nevada","Washoe County","county",32031,"April",2020,176614,221873,45259
+"32","NV","Nevada","Carson City","county",32510,"April",2020,18607,23589,4982
+"32","NV","Nevada","Storey County","county",32029,"April",2020,1393,1803,410
+"32","NV","Nevada","Clark County","county",32003,"April",2020,696527,1055879,359352
+"32","NV","Nevada","Nevada","state",NA,"April",2019,1471710,1531684,59974
+"32","NV","Nevada","Nevada","state",NA,"April",2020,999846,1425549,428703
+"32","NV","Nevada","Elko","city",NA,"May",2019,10528,10822,294
+"32","NV","Nevada","Sparks","city",NA,"May",2019,55390,57115,1725
+"32","NV","Nevada","Mesquite","city",NA,"May",2019,7655,7903,248
+"32","NV","Nevada","Reno","city",NA,"May",2019,133107,137377,4270
+"32","NV","Nevada","Henderson","city",NA,"May",2019,156890,162885,5995
+"32","NV","Nevada","Boulder City","city",NA,"May",2019,7256,7553,297
+"32","NV","Nevada","Las Vegas","city",NA,"May",2019,301419,314573,13154
+"32","NV","Nevada","North Las Vegas","city",NA,"May",2019,109811,114791,4980
+"32","NV","Nevada","Fernley City","city",NA,"May",2019,8356,8790,434
+"32","NV","Nevada","Elko","city",NA,"May",2020,9409,10266,857
+"32","NV","Nevada","Fernley City","city",NA,"May",2020,6895,8060,1165
+"32","NV","Nevada","Sparks","city",NA,"May",2020,41279,49366,8087
+"32","NV","Nevada","Reno","city",NA,"May",2020,99198,119238,20040
+"32","NV","Nevada","Boulder City","city",NA,"May",2020,4848,6009,1161
+"32","NV","Nevada","Henderson","city",NA,"May",2020,104825,137996,33171
+"32","NV","Nevada","Mesquite","city",NA,"May",2020,5114,6755,1641
+"32","NV","Nevada","Las Vegas","city",NA,"May",2020,201392,276788,75396
+"32","NV","Nevada","North Las Vegas","city",NA,"May",2020,73369,102869,29500
+"32","NV","Nevada","Eureka County","county",32011,"May",2019,1017,1041,24
+"32","NV","Nevada","Elko County","county",32007,"May",2019,26966,27727,761
+"32","NV","Nevada","Humboldt County","county",32013,"May",2019,7887,8105,218
+"32","NV","Nevada","Lander County","county",32015,"May",2019,3094,3184,90
+"32","NV","Nevada","Esmeralda County","county",32009,"May",2019,397,409,12
+"32","NV","Nevada","White Pine County","county",32033,"May",2019,4440,4573,133
+"32","NV","Nevada","Washoe County","county",32031,"May",2019,246796,254713,7917
+"32","NV","Nevada","Churchill County","county",32001,"May",2019,10575,10960,385
+"32","NV","Nevada","Storey County","county",32029,"May",2019,1953,2028,75
+"32","NV","Nevada","Carson City","county",32510,"May",2019,25380,26393,1013
+"32","NV","Nevada","Pershing County","county",32027,"May",2019,2386,2479,93
+"32","NV","Nevada","Lincoln County","county",32017,"May",2019,1963,2043,80
+"32","NV","Nevada","Clark County","county",32003,"May",2019,1083724,1129068,45344
+"32","NV","Nevada","Douglas County","county",32005,"May",2019,22113,23033,920
+"32","NV","Nevada","Mineral County","county",32021,"May",2019,1958,2045,87
+"32","NV","Nevada","Lyon County","county",32019,"May",2019,22494,23521,1027
+"32","NV","Nevada","Nye County","county",32023,"May",2019,16332,17216,884
+"32","NV","Nevada","Eureka County","county",32011,"May",2020,890,925,35
+"32","NV","Nevada","White Pine County","county",32033,"May",2020,4180,4418,238
+"32","NV","Nevada","Esmeralda County","county",32009,"May",2020,359,380,21
+"32","NV","Nevada","Lander County","county",32015,"May",2020,2787,2961,174
+"32","NV","Nevada","Lincoln County","county",32017,"May",2020,1743,1858,115
+"32","NV","Nevada","Pershing County","county",32027,"May",2020,2170,2314,144
+"32","NV","Nevada","Humboldt County","county",32013,"May",2020,7154,7743,589
+"32","NV","Nevada","Mineral County","county",32021,"May",2020,1840,2002,162
+"32","NV","Nevada","Churchill County","county",32001,"May",2020,9606,10480,874
+"32","NV","Nevada","Elko County","county",32007,"May",2020,24101,27270,3169
+"32","NV","Nevada","Lyon County","county",32019,"May",2020,18563,21478,2915
+"32","NV","Nevada","Douglas County","county",32005,"May",2020,19226,22347,3121
+"32","NV","Nevada","Nye County","county",32023,"May",2020,14438,16998,2560
+"32","NV","Nevada","Carson City","county",32510,"May",2020,19275,22721,3446
+"32","NV","Nevada","Storey County","county",32029,"May",2020,1454,1724,270
+"32","NV","Nevada","Washoe County","county",32031,"May",2020,183925,218889,34964
+"32","NV","Nevada","Clark County","county",32003,"May",2020,724084,1019889,295805
+"32","NV","Nevada","Nevada","state",NA,"May",2019,1479477,1538540,59063
+"32","NV","Nevada","Nevada","state",NA,"May",2020,1035795,1384397,348602
+"32","NV","Nevada","Elko","city",NA,"June",2019,10519,10840,321
+"32","NV","Nevada","Reno","city",NA,"June",2019,133587,138019,4432
+"32","NV","Nevada","Sparks","city",NA,"June",2019,55589,57425,1836
+"32","NV","Nevada","Mesquite","city",NA,"June",2019,7639,7916,277
+"32","NV","Nevada","Henderson","city",NA,"June",2019,156570,163091,6521
+"32","NV","Nevada","Boulder City","city",NA,"June",2019,7241,7558,317
+"32","NV","Nevada","Las Vegas","city",NA,"June",2019,300805,315154,14349
+"32","NV","Nevada","North Las Vegas","city",NA,"June",2019,109587,115121,5534
+"32","NV","Nevada","Fernley City","city",NA,"June",2019,8456,8899,443
+"32","NV","Nevada","Eureka County","county",32011,"June",2019,1030,1056,26
+"32","NV","Nevada","Elko County","county",32007,"June",2019,26942,27769,827
+"32","NV","Nevada","Humboldt County","county",32013,"June",2019,7996,8241,245
+"32","NV","Nevada","Lander County","county",32015,"June",2019,3113,3214,101
+"32","NV","Nevada","Washoe County","county",32031,"June",2019,247685,255987,8302
+"32","NV","Nevada","White Pine County","county",32033,"June",2019,4550,4701,151
+"32","NV","Nevada","Churchill County","county",32001,"June",2019,10689,11087,398
+"32","NV","Nevada","Storey County","county",32029,"June",2019,1964,2039,75
+"32","NV","Nevada","Esmeralda County","county",32009,"June",2019,378,393,15
+"32","NV","Nevada","Douglas County","county",32005,"June",2019,22716,23627,911
+"32","NV","Nevada","Carson City","county",32510,"June",2019,25517,26575,1058
+"32","NV","Nevada","Lincoln County","county",32017,"June",2019,2013,2097,84
+"32","NV","Nevada","Pershing County","county",32027,"June",2019,2452,2553,101
+"32","NV","Nevada","Mineral County","county",32021,"June",2019,1969,2054,85
+"32","NV","Nevada","Clark County","county",32003,"June",2019,1081514,1130891,49377
+"32","NV","Nevada","Lyon County","county",32019,"June",2019,22763,23858,1095
+"32","NV","Nevada","Nye County","county",32023,"June",2019,16626,17521,895
+"32","NV","Nevada","Nevada","state",NA,"June",2019,1479918,1543666,63748
+"32","NV","Nevada","Elko","city",NA,"July",2019,10316,10656,340
+"32","NV","Nevada","Reno","city",NA,"July",2019,133829,138301,4472
+"32","NV","Nevada","Sparks","city",NA,"July",2019,55690,57545,1855
+"32","NV","Nevada","Mesquite","city",NA,"July",2019,7703,7976,273
+"32","NV","Nevada","Henderson","city",NA,"July",2019,157885,164349,6464
+"32","NV","Nevada","Boulder City","city",NA,"July",2019,7302,7621,319
+"32","NV","Nevada","Las Vegas","city",NA,"July",2019,303332,317566,14234
+"32","NV","Nevada","North Las Vegas","city",NA,"July",2019,110508,115957,5449
+"32","NV","Nevada","Fernley City","city",NA,"July",2019,8228,8650,422
+"32","NV","Nevada","Eureka County","county",32011,"July",2019,990,1018,28
+"32","NV","Nevada","Elko County","county",32007,"July",2019,26422,27279,857
+"32","NV","Nevada","Lander County","county",32015,"July",2019,3107,3207,100
+"32","NV","Nevada","White Pine County","county",32033,"July",2019,4531,4676,145
+"32","NV","Nevada","Washoe County","county",32031,"July",2019,248134,256439,8305
+"32","NV","Nevada","Humboldt County","county",32013,"July",2019,7837,8118,281
+"32","NV","Nevada","Churchill County","county",32001,"July",2019,10581,10980,399
+"32","NV","Nevada","Storey County","county",32029,"July",2019,1966,2039,73
+"32","NV","Nevada","Douglas County","county",32005,"July",2019,22783,23651,868
+"32","NV","Nevada","Carson City","county",32510,"July",2019,25523,26541,1018
+"32","NV","Nevada","Esmeralda County","county",32009,"July",2019,406,423,17
+"32","NV","Nevada","Pershing County","county",32027,"July",2019,2409,2509,100
+"32","NV","Nevada","Lincoln County","county",32017,"July",2019,2019,2105,86
+"32","NV","Nevada","Mineral County","county",32021,"July",2019,1980,2066,86
+"32","NV","Nevada","Clark County","county",32003,"July",2019,1090602,1139458,48856
+"32","NV","Nevada","Lyon County","county",32019,"July",2019,22150,23234,1084
+"32","NV","Nevada","Nye County","county",32023,"July",2019,15999,16899,900
+"32","NV","Nevada","Nevada","state",NA,"July",2019,1487439,1550643,63204
+"32","NV","Nevada","Elko","city",NA,"August",2019,10327,10628,301
+"32","NV","Nevada","Sparks","city",NA,"August",2019,55745,57457,1712
+"32","NV","Nevada","Reno","city",NA,"August",2019,133961,138260,4299
+"32","NV","Nevada","Mesquite","city",NA,"August",2019,7708,7993,285
+"32","NV","Nevada","Henderson","city",NA,"August",2019,157977,164043,6066
+"32","NV","Nevada","Boulder City","city",NA,"August",2019,7306,7606,300
+"32","NV","Nevada","Las Vegas","city",NA,"August",2019,303507,316846,13339
+"32","NV","Nevada","North Las Vegas","city",NA,"August",2019,110571,115609,5038
+"32","NV","Nevada","Fernley City","city",NA,"August",2019,8213,8612,399
+"32","NV","Nevada","Eureka County","county",32011,"August",2019,999,1027,28
+"32","NV","Nevada","Elko County","county",32007,"August",2019,26450,27222,772
+"32","NV","Nevada","White Pine County","county",32033,"August",2019,4563,4696,133
+"32","NV","Nevada","Lander County","county",32015,"August",2019,3085,3180,95
+"32","NV","Nevada","Humboldt County","county",32013,"August",2019,7818,8064,246
+"32","NV","Nevada","Washoe County","county",32031,"August",2019,248379,256252,7873
+"32","NV","Nevada","Storey County","county",32029,"August",2019,1970,2040,70
+"32","NV","Nevada","Churchill County","county",32001,"August",2019,10548,10927,379
+"32","NV","Nevada","Pershing County","county",32027,"August",2019,2397,2484,87
+"32","NV","Nevada","Carson City","county",32510,"August",2019,25475,26435,960
+"32","NV","Nevada","Douglas County","county",32005,"August",2019,22662,23511,849
+"32","NV","Nevada","Mineral County","county",32021,"August",2019,1997,2072,75
+"32","NV","Nevada","Lincoln County","county",32017,"August",2019,1997,2074,77
+"32","NV","Nevada","Esmeralda County","county",32009,"August",2019,426,443,17
+"32","NV","Nevada","Clark County","county",32003,"August",2019,1091232,1137375,46143
+"32","NV","Nevada","Lyon County","county",32019,"August",2019,22109,23146,1037
+"32","NV","Nevada","Nye County","county",32023,"August",2019,16339,17206,867
+"32","NV","Nevada","Nevada","state",NA,"August",2019,1488444,1548152,59708
+"32","NV","Nevada","Elko","city",NA,"September",2019,10321,10583,262
+"32","NV","Nevada","Sparks","city",NA,"September",2019,56203,57891,1688
+"32","NV","Nevada","Reno","city",NA,"September",2019,135062,139193,4131
+"32","NV","Nevada","Mesquite","city",NA,"September",2019,7723,7992,269
+"32","NV","Nevada","Henderson","city",NA,"September",2019,158298,164331,6033
+"32","NV","Nevada","Boulder City","city",NA,"September",2019,7321,7618,297
+"32","NV","Nevada","Las Vegas","city",NA,"September",2019,304125,316922,12797
+"32","NV","Nevada","Fernley City","city",NA,"September",2019,8300,8660,360
+"32","NV","Nevada","North Las Vegas","city",NA,"September",2019,110797,115726,4929
+"32","NV","Nevada","Eureka County","county",32011,"September",2019,1122,1150,28
+"32","NV","Nevada","White Pine County","county",32033,"September",2019,4645,4762,117
+"32","NV","Nevada","Elko County","county",32007,"September",2019,26436,27151,715
+"32","NV","Nevada","Humboldt County","county",32013,"September",2019,8204,8428,224
+"32","NV","Nevada","Lander County","county",32015,"September",2019,3138,3232,94
+"32","NV","Nevada","Washoe County","county",32031,"September",2019,250421,258102,7681
+"32","NV","Nevada","Churchill County","county",32001,"September",2019,10900,11247,347
+"32","NV","Nevada","Storey County","county",32029,"September",2019,1986,2052,66
+"32","NV","Nevada","Douglas County","county",32005,"September",2019,22742,23532,790
+"32","NV","Nevada","Lincoln County","county",32017,"September",2019,2115,2189,74
+"32","NV","Nevada","Carson City","county",32510,"September",2019,25466,26399,933
+"32","NV","Nevada","Pershing County","county",32027,"September",2019,2540,2631,91
+"32","NV","Nevada","Mineral County","county",32021,"September",2019,1964,2037,73
+"32","NV","Nevada","Esmeralda County","county",32009,"September",2019,457,475,18
+"32","NV","Nevada","Clark County","county",32003,"September",2019,1093454,1138060,44606
+"32","NV","Nevada","Lyon County","county",32019,"September",2019,22345,23357,1012
+"32","NV","Nevada","Nye County","county",32023,"September",2019,16738,17607,869
+"32","NV","Nevada","Nevada","state",NA,"September",2019,1494671,1552411,57740
+"32","NV","Nevada","Elko","city",NA,"October",2019,10374,10655,281
+"32","NV","Nevada","Reno","city",NA,"October",2019,135819,139740,3921
+"32","NV","Nevada","Sparks","city",NA,"October",2019,56518,58137,1619
+"32","NV","Nevada","Mesquite","city",NA,"October",2019,7742,7989,247
+"32","NV","Nevada","Henderson","city",NA,"October",2019,158673,164401,5728
+"32","NV","Nevada","Boulder City","city",NA,"October",2019,7338,7612,274
+"32","NV","Nevada","Fernley City","city",NA,"October",2019,8391,8734,343
+"32","NV","Nevada","Las Vegas","city",NA,"October",2019,304845,317213,12368
+"32","NV","Nevada","North Las Vegas","city",NA,"October",2019,111059,115768,4709
+"32","NV","Nevada","Eureka County","county",32011,"October",2019,1178,1202,24
+"32","NV","Nevada","White Pine County","county",32033,"October",2019,4639,4757,118
+"32","NV","Nevada","Elko County","county",32007,"October",2019,26571,27272,701
+"32","NV","Nevada","Humboldt County","county",32013,"October",2019,8368,8595,227
+"32","NV","Nevada","Lander County","county",32015,"October",2019,3164,3256,92
+"32","NV","Nevada","Washoe County","county",32031,"October",2019,251824,259121,7297
+"32","NV","Nevada","Storey County","county",32029,"October",2019,1997,2057,60
+"32","NV","Nevada","Churchill County","county",32001,"October",2019,11120,11459,339
+"32","NV","Nevada","Carson City","county",32510,"October",2019,25535,26409,874
+"32","NV","Nevada","Douglas County","county",32005,"October",2019,22664,23448,784
+"32","NV","Nevada","Lincoln County","county",32017,"October",2019,2155,2228,73
+"32","NV","Nevada","Pershing County","county",32027,"October",2019,2585,2674,89
+"32","NV","Nevada","Mineral County","county",32021,"October",2019,1942,2010,68
+"32","NV","Nevada","Esmeralda County","county",32009,"October",2019,463,481,18
+"32","NV","Nevada","Clark County","county",32003,"October",2019,1096041,1138969,42928
+"32","NV","Nevada","Lyon County","county",32019,"October",2019,22588,23523,935
+"32","NV","Nevada","Nye County","county",32023,"October",2019,16878,17701,823
+"32","NV","Nevada","Nevada","state",NA,"October",2019,1499714,1555164,55450
+"32","NV","Nevada","Elko","city",NA,"November",2019,10213,10488,275
+"32","NV","Nevada","Reno","city",NA,"November",2019,136479,140251,3772
+"32","NV","Nevada","Sparks","city",NA,"November",2019,56793,58350,1557
+"32","NV","Nevada","Mesquite","city",NA,"November",2019,7761,7992,231
+"32","NV","Nevada","Henderson","city",NA,"November",2019,159063,164426,5363
+"32","NV","Nevada","Boulder City","city",NA,"November",2019,7356,7615,259
+"32","NV","Nevada","Las Vegas","city",NA,"November",2019,305594,317202,11608
+"32","NV","Nevada","Fernley City","city",NA,"November",2019,8337,8686,349
+"32","NV","Nevada","North Las Vegas","city",NA,"November",2019,111332,115931,4599
+"32","NV","Nevada","Eureka County","county",32011,"November",2019,1104,1125,21
+"32","NV","Nevada","White Pine County","county",32033,"November",2019,4549,4664,115
+"32","NV","Nevada","Elko County","county",32007,"November",2019,26159,26857,698
+"32","NV","Nevada","Humboldt County","county",32013,"November",2019,8116,8344,228
+"32","NV","Nevada","Washoe County","county",32031,"November",2019,253047,260090,7043
+"32","NV","Nevada","Lander County","county",32015,"November",2019,3104,3196,92
+"32","NV","Nevada","Churchill County","county",32001,"November",2019,10865,11202,337
+"32","NV","Nevada","Esmeralda County","county",32009,"November",2019,450,464,14
+"32","NV","Nevada","Storey County","county",32029,"November",2019,2007,2072,65
+"32","NV","Nevada","Lincoln County","county",32017,"November",2019,2089,2157,68
+"32","NV","Nevada","Carson City","county",32510,"November",2019,25443,26314,871
+"32","NV","Nevada","Mineral County","county",32021,"November",2019,1926,1991,65
+"32","NV","Nevada","Douglas County","county",32005,"November",2019,22281,23070,789
+"32","NV","Nevada","Clark County","county",32003,"November",2019,1098734,1139511,40777
+"32","NV","Nevada","Pershing County","county",32027,"November",2019,2492,2584,92
+"32","NV","Nevada","Lyon County","county",32019,"November",2019,22444,23368,924
+"32","NV","Nevada","Nye County","county",32023,"November",2019,16814,17591,777
+"32","NV","Nevada","Nevada","state",NA,"November",2019,1501624,1554598,52974
+"32","NV","Nevada","Elko","city",NA,"December",2019,10131,10404,273
+"32","NV","Nevada","Reno","city",NA,"December",2019,136175,139960,3785
+"32","NV","Nevada","Sparks","city",NA,"December",2019,56666,58219,1553
+"32","NV","Nevada","Mesquite","city",NA,"December",2019,7746,7976,230
+"32","NV","Nevada","Henderson","city",NA,"December",2019,158755,163976,5221
+"32","NV","Nevada","Boulder City","city",NA,"December",2019,7342,7612,270
+"32","NV","Nevada","Las Vegas","city",NA,"December",2019,305003,316225,11222
+"32","NV","Nevada","North Las Vegas","city",NA,"December",2019,111116,115547,4431
+"32","NV","Nevada","Fernley City","city",NA,"December",2019,8257,8632,375
+"32","NV","Nevada","Eureka County","county",32011,"December",2019,1046,1070,24
+"32","NV","Nevada","White Pine County","county",32033,"December",2019,4521,4635,114
+"32","NV","Nevada","Elko County","county",32007,"December",2019,25950,26639,689
+"32","NV","Nevada","Humboldt County","county",32013,"December",2019,7938,8147,209
+"32","NV","Nevada","Washoe County","county",32031,"December",2019,252484,259618,7134
+"32","NV","Nevada","Churchill County","county",32001,"December",2019,10745,11074,329
+"32","NV","Nevada","Lander County","county",32015,"December",2019,3089,3184,95
+"32","NV","Nevada","Lincoln County","county",32017,"December",2019,2045,2113,68
+"32","NV","Nevada","Carson City","county",32510,"December",2019,25433,26336,903
+"32","NV","Nevada","Mineral County","county",32021,"December",2019,1927,1994,67
+"32","NV","Nevada","Clark County","county",32003,"December",2019,1096609,1136500,39891
+"32","NV","Nevada","Douglas County","county",32005,"December",2019,22276,23093,817
+"32","NV","Nevada","Storey County","county",32029,"December",2019,2002,2074,72
+"32","NV","Nevada","Pershing County","county",32027,"December",2019,2428,2523,95
+"32","NV","Nevada","Lyon County","county",32019,"December",2019,22229,23184,955
+"32","NV","Nevada","Esmeralda County","county",32009,"December",2019,428,447,19
+"32","NV","Nevada","Nye County","county",32023,"December",2019,16718,17509,791
+"32","NV","Nevada","Nevada","state",NA,"December",2019,1497868,1550143,52275
