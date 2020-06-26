@@ -203,7 +203,9 @@
   * Data: Unemployment
 
 ## New Jersey
-No Data
+* [New Jersey Department of Labor](https://nj.gov/labor/lpa/employ/uirate/lfest_index.html)
+  * Format: Excel, Updated:  Monthly, Level: County, City
+  * Data: Unemployment
 
 ## New Mexico
 * [New Mexico Department of Workforce Solutions - *April*](https://www.jobs.state.nm.us/admin/gsipub/htmlarea/uploads/lmr_Apr_20.pdf)
