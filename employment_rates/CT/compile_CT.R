@@ -29,10 +29,10 @@ output <- raw %>%
     # set basics
     
     area_type = case_when(
-      str_detect(area_title, "County") ~ "County",
-      str_detect(area_title, "city") ~ "City",
-      str_detect(area_title, "town") ~ "City",
-      str_detect(area_title, "Connecticut") ~ "State"
+      str_detect(area_title, "County") ~ "county",
+      str_detect(area_title, "city") ~ "city",
+      str_detect(area_title, "town") ~ "city",
+      str_detect(area_title, "Connecticut") ~ "state"
     ),
     
     state_fips = "09",
