@@ -21,9 +21,9 @@ output <- raw %>%
     # set basics
     
     area_type = case_when(
-      areatype == 1 ~ "State",
-      areatype == 4 ~ "County",
-      areatype == 20 ~ "City",
+      areatype == 1 ~ "state",
+      areatype == 4 ~ "county",
+      areatype == 20 ~ "city",
     ),
     
     state_fips = "04",
@@ -32,7 +32,7 @@ output <- raw %>%
     
     # work on FIPS
     fips = case_when(
-      area_type == "County" ~ 
+      area_type == "county" ~ 
         paste("04", str_pad(area_fips, 3, pad = "0"), sep = "")
     )
   ) %>%
