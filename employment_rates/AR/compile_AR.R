@@ -20,9 +20,9 @@ output <- raw %>%
     # set basics
     
     area_type = case_when(
-      str_detect(area, "County") == TRUE ~ "County",
-      area == "Arkansas" ~ "State",
-      TRUE ~ "City"
+      str_detect(area, "County") == TRUE ~ "county",
+      area == "Arkansas" ~ "state",
+      TRUE ~ "city"
     ),
     
     state_fips = "05",
@@ -32,7 +32,7 @@ output <- raw %>%
     # work on FIPS
     polyname = case_when(
       area == "St. Francis County" ~ "arkansas,st francis",
-      area_type == "County" ~ paste("arkansas,", tolower(str_remove(area, " County")), sep = "")
+      area_type == "county" ~ paste("arkansas,", tolower(str_remove(area, " County")), sep = "")
     )
   ) %>% # Join with FIPS
   
