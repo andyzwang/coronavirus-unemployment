@@ -66,16 +66,25 @@
 * [Hawaii Department of Labor](https://labor.hawaii.gov/rs/files/2020/01/IC2020.pdf)
   * Format: PDF, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [Hawaii Hirenet](https://www.hirenethawaii.com/gsipub/index.asp?docid=723)
+  * Format: Excel, Updated: Monthly, Level: County
+  * Data: Unemployment
 
 ## Idaho
 * [Idaho Department of Labor](https://lmi.idaho.gov/ui-weekly-claims)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [Idaho Department of Labor](https://lmi.idaho.gov/laus)
+  * Format: Excel, Updated: Monthly, Level: County
+  * Data: Unemployment
 
 ## Illinois
 * [Illinois Department of Labor](https://www2.illinois.gov/ides/lmi/Pages/Unemployment_Insurance_Program_Data.aspx)
   * Format: Excel, Updated: Monthly, Level: County
   * Data: Unemployment Claims
+* [Illinois Department of Employment Security](https://www2.illinois.gov/ides/LMI/Pages/Year_to_Date.aspx)
+  * Format: Excel, Updated: Monthly, Level: City, County
+  * Data: Unemployment
 
 ## Indiana
 * [Indiana Department of Labor](http://www.hoosierdata.in.gov/dpage.asp?id=58&view_number=2&menu_level=&panel_number=2)
@@ -86,22 +95,35 @@
 * [data.iowa.gov](https://data.iowa.gov/Economic-Statistics/Iowa-Unemployment-Insurance-Initial-Claims-by-Coun/xeyb-8kfg)
   * Format: CSV, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [Iowa Workforce Development](https://www.iowaworkforcedevelopment.gov/local-area-unemployment-statistics)
+  * Format: CSV, Updated: Monthly, Level: City, County
+  * Data: Unemployment
 
 ## Kansas
 * [Kansas Department of Labor](https://klic.dol.ks.gov/gsipub/index.asp?docid=756)
   * Format: Map, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [Kansas Department of Labor](https://klic.dol.ks.gov/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmizGZkm52zV+sR+lKAe/bUj0=)
+  * Format: CSV, Updated: Monthly, Level: City, County
+  * Data: Unemployment
 
 ## Kentucky
 * [Kentucky Center for Statistics](https://kystats.ky.gov/KYLMI/UIClaimTables)
   * Format: PDF, Updated: Monthly, Level: County
   * Data: Unemployment Claims, Industries, Unemployment
+* [Kentucky Labor Market Info](https://kystats.ky.gov/KYLMI/Index/)
+  * Format: CSV, Updated: Monthly, Level: City, County
+  * Data: Unemployment
 
 ## Louisiana
-No Data
+* [Louisiana Works](https://www.louisianaworks.net/hire/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmi7ntbB42L7XyypLjx+HEeK0=)
+  * Format: CSV, Updated: Monthly, Level: City, County
+  * Data: Unemployment
 
 ## Maine
-No data
+[Center For Workforce Information and Research](https://www.maine.gov/labor/cwri/laus1.html)
+  * Format: Tableau, Updated: Monthly, Level: City, County
+  * Data: Unemployment
 
 ## Maryland
 * [Maryland Department of Labor](https://www.dllr.state.md.us/employment/uicounty.shtml)
