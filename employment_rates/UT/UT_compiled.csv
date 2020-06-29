@@ -1,0 +1,511 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
+"49","UT","Utah","Beaver County","county",49001,"January",2019,2836,2927,91
+"49","UT","Utah","Beaver County","county",49001,"January",2020,2726,2802,76
+"49","UT","Utah","Box Elder County","county",49003,"January",2019,24872,25608,736
+"49","UT","Utah","Box Elder County","county",49003,"January",2020,25574,26220,646
+"49","UT","Utah","Cache County","county",49005,"January",2019,62350,63908,1558
+"49","UT","Utah","Cache County","county",49005,"January",2020,63454,64753,1299
+"49","UT","Utah","Carbon County","county",49007,"January",2019,8091,8430,339
+"49","UT","Utah","Carbon County","county",49007,"January",2020,8268,8579,311
+"49","UT","Utah","Daggett County","county",49009,"January",2019,372,390,18
+"49","UT","Utah","Daggett County","county",49009,"January",2020,376,388,12
+"49","UT","Utah","Davis County","county",49011,"January",2019,167066,171670,4604
+"49","UT","Utah","Davis County","county",49011,"January",2020,172382,176455,4073
+"49","UT","Utah","Duchesne County","county",49013,"January",2019,7395,7708,313
+"49","UT","Utah","Duchesne County","county",49013,"January",2020,7569,7881,312
+"49","UT","Utah","Emery County","county",49015,"January",2019,4143,4331,188
+"49","UT","Utah","Emery County","county",49015,"January",2020,4165,4338,173
+"49","UT","Utah","Garfield County","county",49017,"January",2019,2570,2758,188
+"49","UT","Utah","Garfield County","county",49017,"January",2020,2616,2782,166
+"49","UT","Utah","Grand County","county",49019,"January",2019,5816,6074,258
+"49","UT","Utah","Grand County","county",49019,"January",2020,6116,6367,251
+"49","UT","Utah","Iron County","county",49021,"January",2019,22698,23467,769
+"49","UT","Utah","Iron County","county",49021,"January",2020,24009,24693,684
+"49","UT","Utah","Juab County","county",49023,"January",2019,5483,5639,156
+"49","UT","Utah","Juab County","county",49023,"January",2020,5683,5814,131
+"49","UT","Utah","Kane County","county",49025,"January",2019,3671,3789,118
+"49","UT","Utah","Kane County","county",49025,"January",2020,3747,3845,98
+"49","UT","Utah","Millard County","county",49027,"January",2019,5821,6005,184
+"49","UT","Utah","Millard County","county",49027,"January",2020,5779,5929,150
+"49","UT","Utah","Morgan County","county",49029,"January",2019,5341,5484,143
+"49","UT","Utah","Morgan County","county",49029,"January",2020,5507,5634,127
+"49","UT","Utah","Piute County","county",49031,"January",2019,458,482,24
+"49","UT","Utah","Piute County","county",49031,"January",2020,463,485,22
+"49","UT","Utah","Rich County","county",49033,"January",2019,1132,1170,38
+"49","UT","Utah","Rich County","county",49033,"January",2020,1131,1167,36
+"49","UT","Utah","Salt Lake County","county",49035,"January",2019,607775,625207,17432
+"49","UT","Utah","Salt Lake County","county",49035,"January",2020,630451,646071,15620
+"49","UT","Utah","San Juan County","county",49037,"January",2019,5393,5707,314
+"49","UT","Utah","San Juan County","county",49037,"January",2020,5439,5746,307
+"49","UT","Utah","Sanpete County","county",49039,"January",2019,12031,12464,433
+"49","UT","Utah","Sanpete County","county",49039,"January",2020,12138,12526,388
+"49","UT","Utah","Sevier County","county",49041,"January",2019,9464,9793,329
+"49","UT","Utah","Sevier County","county",49041,"January",2020,9473,9757,284
+"49","UT","Utah","State of Utah","state",NA,"January",2019,1532394,1581779,49385
+"49","UT","Utah","State of Utah","state",NA,"January",2020,1586763,1626802,40039
+"49","UT","Utah","Summit County","county",49043,"January",2019,24078,24753,675
+"49","UT","Utah","Summit County","county",49043,"January",2020,25006,25603,597
+"49","UT","Utah","Tooele County","county",49045,"January",2019,32371,33463,1092
+"49","UT","Utah","Tooele County","county",49045,"January",2020,33593,34512,919
+"49","UT","Utah","Uintah County","county",49047,"January",2019,13017,13596,579
+"49","UT","Utah","Uintah County","county",49047,"January",2020,13160,13815,655
+"49","UT","Utah","Utah County","county",49049,"January",2019,295088,303050,7962
+"49","UT","Utah","Utah County","county",49049,"January",2020,306051,313186,7135
+"49","UT","Utah","Wasatch County","county",49051,"January",2019,15173,15634,461
+"49","UT","Utah","Wasatch County","county",49051,"January",2020,16298,16729,431
+"49","UT","Utah","Washington County","county",49053,"January",2019,72709,75134,2425
+"49","UT","Utah","Washington County","county",49053,"January",2020,75365,77613,2248
+"49","UT","Utah","Wayne County","county",49055,"January",2019,1336,1416,80
+"49","UT","Utah","Wayne County","county",49055,"January",2020,1346,1427,81
+"49","UT","Utah","Weber County","county",49057,"January",2019,121934,126202,4268
+"49","UT","Utah","Weber County","county",49057,"January",2020,125865,129272,3407
+"49","UT","Utah","Beaver County","county",49001,"October",2019,2751,2829,78
+"49","UT","Utah","Box Elder County","county",49003,"October",2019,25394,26021,627
+"49","UT","Utah","Cache County","county",49005,"October",2019,63057,64373,1316
+"49","UT","Utah","Carbon County","county",49007,"October",2019,8260,8557,297
+"49","UT","Utah","Daggett County","county",49009,"October",2019,381,396,15
+"49","UT","Utah","Davis County","county",49011,"October",2019,171236,175171,3935
+"49","UT","Utah","Duchesne County","county",49013,"October",2019,7521,7810,289
+"49","UT","Utah","Emery County","county",49015,"October",2019,4129,4292,163
+"49","UT","Utah","Garfield County","county",49017,"October",2019,2613,2768,155
+"49","UT","Utah","Grand County","county",49019,"October",2019,6059,6278,219
+"49","UT","Utah","Iron County","county",49021,"October",2019,23748,24407,659
+"49","UT","Utah","Juab County","county",49023,"October",2019,5650,5781,131
+"49","UT","Utah","Kane County","county",49025,"October",2019,3735,3837,102
+"49","UT","Utah","Millard County","county",49027,"October",2019,5829,5979,150
+"49","UT","Utah","Morgan County","county",49029,"October",2019,5486,5613,127
+"49","UT","Utah","Piute County","county",49031,"October",2019,463,486,23
+"49","UT","Utah","Rich County","county",49033,"October",2019,1137,1172,35
+"49","UT","Utah","Salt Lake County","county",49035,"October",2019,625845,641114,15269
+"49","UT","Utah","San Juan County","county",49037,"October",2019,5429,5720,291
+"49","UT","Utah","Sanpete County","county",49039,"October",2019,12103,12485,382
+"49","UT","Utah","Sevier County","county",49041,"October",2019,9457,9744,287
+"49","UT","Utah","State of Utah","state",NA,"October",2019,1569807,1610853,41046
+"49","UT","Utah","Summit County","county",49043,"October",2019,24821,25403,582
+"49","UT","Utah","Tooele County","county",49045,"October",2019,33351,34289,938
+"49","UT","Utah","Uintah County","county",49047,"October",2019,13145,13711,566
+"49","UT","Utah","Utah County","county",49049,"October",2019,304043,311101,7058
+"49","UT","Utah","Wasatch County","county",49051,"October",2019,16047,16472,425
+"49","UT","Utah","Washington County","county",49053,"October",2019,74829,76985,2156
+"49","UT","Utah","Wayne County","county",49055,"October",2019,1353,1427,74
+"49","UT","Utah","Weber County","county",49057,"October",2019,125020,128262,3242
+"49","UT","Utah","Beaver County","county",49001,"November",2019,2737,2814,77
+"49","UT","Utah","Box Elder County","county",49003,"November",2019,25421,26047,626
+"49","UT","Utah","Cache County","county",49005,"November",2019,63193,64518,1325
+"49","UT","Utah","Carbon County","county",49007,"November",2019,8261,8559,298
+"49","UT","Utah","Daggett County","county",49009,"November",2019,380,395,15
+"49","UT","Utah","Davis County","county",49011,"November",2019,171561,175510,3949
+"49","UT","Utah","Duchesne County","county",49013,"November",2019,7533,7829,296
+"49","UT","Utah","Emery County","county",49015,"November",2019,4145,4309,164
+"49","UT","Utah","Garfield County","county",49017,"November",2019,2612,2767,155
+"49","UT","Utah","Grand County","county",49019,"November",2019,6065,6284,219
+"49","UT","Utah","Iron County","county",49021,"November",2019,23826,24487,661
+"49","UT","Utah","Juab County","county",49023,"November",2019,5666,5797,131
+"49","UT","Utah","Kane County","county",49025,"November",2019,3732,3832,100
+"49","UT","Utah","Millard County","county",49027,"November",2019,5812,5960,148
+"49","UT","Utah","Morgan County","county",49029,"November",2019,5495,5621,126
+"49","UT","Utah","Piute County","county",49031,"November",2019,463,485,22
+"49","UT","Utah","Rich County","county",49033,"November",2019,1129,1164,35
+"49","UT","Utah","Salt Lake County","county",49035,"November",2019,627614,643084,15470
+"49","UT","Utah","San Juan County","county",49037,"November",2019,5427,5723,296
+"49","UT","Utah","Sanpete County","county",49039,"November",2019,12102,12487,385
+"49","UT","Utah","Sevier County","county",49041,"November",2019,9454,9738,284
+"49","UT","Utah","State of Utah","state",NA,"November",2019,1577859,1617037,39178
+"49","UT","Utah","Summit County","county",49043,"November",2019,24888,25476,588
+"49","UT","Utah","Tooele County","county",49045,"November",2019,33458,34389,931
+"49","UT","Utah","Uintah County","county",49047,"November",2019,13144,13735,591
+"49","UT","Utah","Utah County","county",49049,"November",2019,304925,312105,7180
+"49","UT","Utah","Wasatch County","county",49051,"November",2019,16132,16560,428
+"49","UT","Utah","Washington County","county",49053,"November",2019,74946,77108,2162
+"49","UT","Utah","Wayne County","county",49055,"November",2019,1354,1429,75
+"49","UT","Utah","Weber County","county",49057,"November",2019,125309,128482,3173
+"49","UT","Utah","Beaver County","county",49001,"December",2019,2712,2790,78
+"49","UT","Utah","Box Elder County","county",49003,"December",2019,25419,26049,630
+"49","UT","Utah","Cache County","county",49005,"December",2019,63288,64638,1350
+"49","UT","Utah","Carbon County","county",49007,"December",2019,8255,8555,300
+"49","UT","Utah","Daggett County","county",49009,"December",2019,378,392,14
+"49","UT","Utah","Davis County","county",49011,"December",2019,171833,175816,3983
+"49","UT","Utah","Duchesne County","county",49013,"December",2019,7531,7842,311
+"49","UT","Utah","Emery County","county",49015,"December",2019,4158,4323,165
+"49","UT","Utah","Garfield County","county",49017,"December",2019,2609,2765,156
+"49","UT","Utah","Grand County","county",49019,"December",2019,6067,6289,222
+"49","UT","Utah","Iron County","county",49021,"December",2019,23889,24561,672
+"49","UT","Utah","Juab County","county",49023,"December",2019,5675,5808,133
+"49","UT","Utah","Kane County","county",49025,"December",2019,3725,3823,98
+"49","UT","Utah","Millard County","county",49027,"December",2019,5779,5926,147
+"49","UT","Utah","Morgan County","county",49029,"December",2019,5498,5623,125
+"49","UT","Utah","Piute County","county",49031,"December",2019,462,484,22
+"49","UT","Utah","Rich County","county",49033,"December",2019,1120,1155,35
+"49","UT","Utah","Salt Lake County","county",49035,"December",2019,629502,645323,15821
+"49","UT","Utah","San Juan County","county",49037,"December",2019,5424,5724,300
+"49","UT","Utah","Sanpete County","county",49039,"December",2019,12095,12485,390
+"49","UT","Utah","Sevier County","county",49041,"December",2019,9438,9720,282
+"49","UT","Utah","State of Utah","state",NA,"December",2019,1582820,1622443,39623
+"49","UT","Utah","Summit County","county",49043,"December",2019,24942,25541,599
+"49","UT","Utah","Tooele County","county",49045,"December",2019,33535,34465,930
+"49","UT","Utah","Uintah County","county",49047,"December",2019,13128,13753,625
+"49","UT","Utah","Utah County","county",49049,"December",2019,305517,312909,7392
+"49","UT","Utah","Wasatch County","county",49051,"December",2019,16211,16644,433
+"49","UT","Utah","Washington County","county",49053,"December",2019,75004,77197,2193
+"49","UT","Utah","Wayne County","county",49055,"December",2019,1348,1424,76
+"49","UT","Utah","Weber County","county",49057,"December",2019,125525,128662,3137
+"49","UT","Utah","Beaver County","county",49001,"February",2019,2821,2911,90
+"49","UT","Utah","Beaver County","county",49001,"February",2020,2707,2793,86
+"49","UT","Utah","Box Elder County","county",49003,"February",2019,24942,25670,728
+"49","UT","Utah","Box Elder County","county",49003,"February",2020,25449,26191,742
+"49","UT","Utah","Cache County","county",49005,"February",2019,62496,64021,1525
+"49","UT","Utah","Cache County","county",49005,"February",2020,62914,64424,1510
+"49","UT","Utah","Carbon County","county",49007,"February",2019,8096,8433,337
+"49","UT","Utah","Carbon County","county",49007,"February",2020,8223,8577,354
+"49","UT","Utah","Daggett County","county",49009,"February",2019,373,391,18
+"49","UT","Utah","Daggett County","county",49009,"February",2020,372,386,14
+"49","UT","Utah","Davis County","county",49011,"February",2019,167527,172057,4530
+"49","UT","Utah","Davis County","county",49011,"February",2020,171298,176174,4876
+"49","UT","Utah","Duchesne County","county",49013,"February",2019,7407,7716,309
+"49","UT","Utah","Duchesne County","county",49013,"February",2020,7453,7843,390
+"49","UT","Utah","Emery County","county",49015,"February",2019,4150,4336,186
+"49","UT","Utah","Emery County","county",49015,"February",2020,4139,4335,196
+"49","UT","Utah","Garfield County","county",49017,"February",2019,2586,2769,183
+"49","UT","Utah","Garfield County","county",49017,"February",2020,2611,2802,191
+"49","UT","Utah","Grand County","county",49019,"February",2019,5836,6090,254
+"49","UT","Utah","Grand County","county",49019,"February",2020,6094,6384,290
+"49","UT","Utah","Iron County","county",49021,"February",2019,22807,23564,757
+"49","UT","Utah","Iron County","county",49021,"February",2020,24004,24792,788
+"49","UT","Utah","Juab County","county",49023,"February",2019,5502,5657,155
+"49","UT","Utah","Juab County","county",49023,"February",2020,5653,5801,148
+"49","UT","Utah","Kane County","county",49025,"February",2019,3674,3792,118
+"49","UT","Utah","Kane County","county",49025,"February",2020,3727,3845,118
+"49","UT","Utah","Millard County","county",49027,"February",2019,5813,5993,180
+"49","UT","Utah","Millard County","county",49027,"February",2020,5833,6006,173
+"49","UT","Utah","Morgan County","county",49029,"February",2019,5354,5496,142
+"49","UT","Utah","Morgan County","county",49029,"February",2020,5471,5614,143
+"49","UT","Utah","Piute County","county",49031,"February",2019,458,481,23
+"49","UT","Utah","Piute County","county",49031,"February",2020,455,480,25
+"49","UT","Utah","Rich County","county",49033,"February",2019,1134,1172,38
+"49","UT","Utah","Rich County","county",49033,"February",2020,1131,1171,40
+"49","UT","Utah","Salt Lake County","county",49035,"February",2019,609514,626655,17141
+"49","UT","Utah","Salt Lake County","county",49035,"February",2020,626607,645621,19014
+"49","UT","Utah","San Juan County","county",49037,"February",2019,5412,5719,307
+"49","UT","Utah","San Juan County","county",49037,"February",2020,5409,5769,360
+"49","UT","Utah","Sanpete County","county",49039,"February",2019,12035,12461,426
+"49","UT","Utah","Sanpete County","county",49039,"February",2020,12160,12550,390
+"49","UT","Utah","Sevier County","county",49041,"February",2019,9435,9762,327
+"49","UT","Utah","Sevier County","county",49041,"February",2020,9396,9740,344
+"49","UT","Utah","State of Utah","state",NA,"February",2019,1535434,1583689,48255
+"49","UT","Utah","State of Utah","state",NA,"February",2020,1590199,1630650,40451
+"49","UT","Utah","Summit County","county",49043,"February",2019,24120,24782,662
+"49","UT","Utah","Summit County","county",49043,"February",2020,24633,25333,700
+"49","UT","Utah","Tooele County","county",49045,"February",2019,32391,33462,1071
+"49","UT","Utah","Tooele County","county",49045,"February",2020,33417,34507,1090
+"49","UT","Utah","Uintah County","county",49047,"February",2019,13042,13613,571
+"49","UT","Utah","Uintah County","county",49047,"February",2020,12917,13699,782
+"49","UT","Utah","Utah County","county",49049,"February",2019,296034,303850,7816
+"49","UT","Utah","Utah County","county",49049,"February",2020,304135,312454,8319
+"49","UT","Utah","Wasatch County","county",49051,"February",2019,15271,15725,454
+"49","UT","Utah","Wasatch County","county",49051,"February",2020,16091,16595,504
+"49","UT","Utah","Washington County","county",49053,"February",2019,72841,75219,2378
+"49","UT","Utah","Washington County","county",49053,"February",2020,75186,77800,2614
+"49","UT","Utah","Wayne County","county",49055,"February",2019,1338,1418,80
+"49","UT","Utah","Wayne County","county",49055,"February",2020,1363,1457,94
+"49","UT","Utah","Weber County","county",49057,"February",2019,122236,126427,4191
+"49","UT","Utah","Weber County","county",49057,"February",2020,125114,129116,4002
+"49","UT","Utah","Beaver County","county",49001,"March",2019,2813,2904,91
+"49","UT","Utah","Beaver County","county",49001,"March",2020,2703,2793,90
+"49","UT","Utah","Box Elder County","county",49003,"March",2019,25016,25734,718
+"49","UT","Utah","Box Elder County","county",49003,"March",2020,25451,26238,787
+"49","UT","Utah","Cache County","county",49005,"March",2019,62628,64121,1493
+"49","UT","Utah","Cache County","county",49005,"March",2020,62693,64285,1592
+"49","UT","Utah","Carbon County","county",49007,"March",2019,8112,8446,334
+"49","UT","Utah","Carbon County","county",49007,"March",2020,8202,8576,374
+"49","UT","Utah","Daggett County","county",49009,"March",2019,375,392,17
+"49","UT","Utah","Daggett County","county",49009,"March",2020,372,386,14
+"49","UT","Utah","Davis County","county",49011,"March",2019,167960,172413,4453
+"49","UT","Utah","Davis County","county",49011,"March",2020,170922,176250,5328
+"49","UT","Utah","Duchesne County","county",49013,"March",2019,7413,7721,308
+"49","UT","Utah","Duchesne County","county",49013,"March",2020,7405,7839,434
+"49","UT","Utah","Emery County","county",49015,"March",2019,4157,4339,182
+"49","UT","Utah","Emery County","county",49015,"March",2020,4121,4330,209
+"49","UT","Utah","Garfield County","county",49017,"March",2019,2602,2779,177
+"49","UT","Utah","Garfield County","county",49017,"March",2020,2606,2814,208
+"49","UT","Utah","Grand County","county",49019,"March",2019,5856,6107,251
+"49","UT","Utah","Grand County","county",49019,"March",2020,6097,6408,311
+"49","UT","Utah","Iron County","county",49021,"March",2019,22925,23670,745
+"49","UT","Utah","Iron County","county",49021,"March",2020,24035,24881,846
+"49","UT","Utah","Juab County","county",49023,"March",2019,5518,5673,155
+"49","UT","Utah","Juab County","county",49023,"March",2020,5650,5804,154
+"49","UT","Utah","Kane County","county",49025,"March",2019,3679,3796,117
+"49","UT","Utah","Kane County","county",49025,"March",2020,3723,3848,125
+"49","UT","Utah","Millard County","county",49027,"March",2019,5819,5995,176
+"49","UT","Utah","Millard County","county",49027,"March",2020,5824,6005,181
+"49","UT","Utah","Morgan County","county",49029,"March",2019,5370,5512,142
+"49","UT","Utah","Morgan County","county",49029,"March",2020,5456,5604,148
+"49","UT","Utah","Piute County","county",49031,"March",2019,459,481,22
+"49","UT","Utah","Piute County","county",49031,"March",2020,452,479,27
+"49","UT","Utah","Rich County","county",49033,"March",2019,1141,1179,38
+"49","UT","Utah","Rich County","county",49033,"March",2020,1137,1180,43
+"49","UT","Utah","Salt Lake County","county",49035,"March",2019,611464,628332,16868
+"49","UT","Utah","Salt Lake County","county",49035,"March",2020,624970,645913,20943
+"49","UT","Utah","San Juan County","county",49037,"March",2019,5431,5730,299
+"49","UT","Utah","San Juan County","county",49037,"March",2020,5399,5784,385
+"49","UT","Utah","Sanpete County","county",49039,"March",2019,12047,12467,420
+"49","UT","Utah","Sanpete County","county",49039,"March",2020,12160,12550,390
+"49","UT","Utah","Sevier County","county",49041,"March",2019,9420,9743,323
+"49","UT","Utah","Sevier County","county",49041,"March",2020,9363,9728,365
+"49","UT","Utah","State of Utah","state",NA,"March",2019,1538066,1585267,47201
+"49","UT","Utah","State of Utah","state",NA,"March",2020,1565274,1623114,57840
+"49","UT","Utah","Summit County","county",49043,"March",2019,24187,24838,651
+"49","UT","Utah","Summit County","county",49043,"March",2020,24519,25254,735
+"49","UT","Utah","Tooele County","county",49045,"March",2019,32440,33485,1045
+"49","UT","Utah","Tooele County","county",49045,"March",2020,33320,34496,1176
+"49","UT","Utah","Uintah County","county",49047,"March",2019,13065,13627,562
+"49","UT","Utah","Uintah County","county",49047,"March",2020,12819,13683,864
+"49","UT","Utah","Utah County","county",49049,"March",2019,296881,304567,7686
+"49","UT","Utah","Utah County","county",49049,"March",2020,303865,312681,8816
+"49","UT","Utah","Wasatch County","county",49051,"March",2019,15374,15820,446
+"49","UT","Utah","Wasatch County","county",49051,"March",2020,16050,16585,535
+"49","UT","Utah","Washington County","county",49053,"March",2019,72971,75305,2334
+"49","UT","Utah","Washington County","county",49053,"March",2020,75161,77937,2776
+"49","UT","Utah","Wayne County","county",49055,"March",2019,1338,1417,79
+"49","UT","Utah","Wayne County","county",49055,"March",2020,1365,1464,99
+"49","UT","Utah","Weber County","county",49057,"March",2019,122560,126619,4059
+"49","UT","Utah","Weber County","county",49057,"March",2020,124851,129196,4345
+"49","UT","Utah","Beaver County","county",49001,"April",2019,2805,2897,92
+"49","UT","Utah","Beaver County","county",49001,"April",2020,2627,2811,184
+"49","UT","Utah","Box Elder County","county",49003,"April",2019,25087,25793,706
+"49","UT","Utah","Box Elder County","county",49003,"April",2020,23669,26428,2759
+"49","UT","Utah","Cache County","county",49005,"April",2019,62711,64171,1460
+"49","UT","Utah","Cache County","county",49005,"April",2020,58272,62058,3786
+"49","UT","Utah","Carbon County","county",49007,"April",2019,8136,8466,330
+"49","UT","Utah","Carbon County","county",49007,"April",2020,7553,8363,810
+"49","UT","Utah","Daggett County","county",49009,"April",2019,376,393,17
+"49","UT","Utah","Daggett County","county",49009,"April",2020,335,368,33
+"49","UT","Utah","Davis County","county",49011,"April",2019,168403,172783,4380
+"49","UT","Utah","Davis County","county",49011,"April",2020,158303,173873,15570
+"49","UT","Utah","Duchesne County","county",49013,"April",2019,7415,7725,310
+"49","UT","Utah","Duchesne County","county",49013,"April",2020,6897,7898,1001
+"49","UT","Utah","Emery County","county",49015,"April",2019,4157,4335,178
+"49","UT","Utah","Emery County","county",49015,"April",2020,3868,4228,360
+"49","UT","Utah","Garfield County","county",49017,"April",2019,2614,2785,171
+"49","UT","Utah","Garfield County","county",49017,"April",2020,2177,2869,692
+"49","UT","Utah","Grand County","county",49019,"April",2019,5879,6127,248
+"49","UT","Utah","Grand County","county",49019,"April",2020,4959,6796,1837
+"49","UT","Utah","Iron County","county",49021,"April",2019,23040,23773,733
+"49","UT","Utah","Iron County","county",49021,"April",2020,21166,23346,2180
+"49","UT","Utah","Juab County","county",49023,"April",2019,5530,5684,154
+"49","UT","Utah","Juab County","county",49023,"April",2020,5131,5442,311
+"49","UT","Utah","Kane County","county",49025,"April",2019,3686,3802,116
+"49","UT","Utah","Kane County","county",49025,"April",2020,3022,3568,546
+"49","UT","Utah","Millard County","county",49027,"April",2019,5831,6005,174
+"49","UT","Utah","Millard County","county",49027,"April",2020,5473,5806,333
+"49","UT","Utah","Morgan County","county",49029,"April",2019,5390,5532,142
+"49","UT","Utah","Morgan County","county",49029,"April",2020,5072,5502,430
+"49","UT","Utah","Piute County","county",49031,"April",2019,460,482,22
+"49","UT","Utah","Piute County","county",49031,"April",2020,431,483,52
+"49","UT","Utah","Rich County","county",49033,"April",2019,1150,1187,37
+"49","UT","Utah","Rich County","county",49033,"April",2020,918,992,74
+"49","UT","Utah","Salt Lake County","county",49035,"April",2019,613616,630221,16605
+"49","UT","Utah","Salt Lake County","county",49035,"April",2020,560482,631486,71004
+"49","UT","Utah","San Juan County","county",49037,"April",2019,5445,5738,293
+"49","UT","Utah","San Juan County","county",49037,"April",2020,4899,5873,974
+"49","UT","Utah","Sanpete County","county",49039,"April",2019,12063,12477,414
+"49","UT","Utah","Sanpete County","county",49039,"April",2020,11478,12208,730
+"49","UT","Utah","Sevier County","county",49041,"April",2019,9416,9734,318
+"49","UT","Utah","Sevier County","county",49041,"April",2020,8727,9506,779
+"49","UT","Utah","State of Utah","state",NA,"April",2019,1540433,1586487,46054
+"49","UT","Utah","State of Utah","state",NA,"April",2020,1434307,1600601,166294
+"49","UT","Utah","Summit County","county",49043,"April",2019,24285,24926,641
+"49","UT","Utah","Summit County","county",49043,"April",2020,19237,24160,4923
+"49","UT","Utah","Tooele County","county",49045,"April",2019,32541,33560,1019
+"49","UT","Utah","Tooele County","county",49045,"April",2020,29949,33477,3528
+"49","UT","Utah","Uintah County","county",49047,"April",2019,13079,13634,555
+"49","UT","Utah","Uintah County","county",49047,"April",2020,11838,14082,2244
+"49","UT","Utah","Utah County","county",49049,"April",2019,297628,305191,7563
+"49","UT","Utah","Utah County","county",49049,"April",2020,275992,299698,23706
+"49","UT","Utah","Wasatch County","county",49051,"April",2019,15482,15922,440
+"49","UT","Utah","Wasatch County","county",49051,"April",2020,13283,16109,2826
+"49","UT","Utah","Washington County","county",49053,"April",2019,73100,75401,2301
+"49","UT","Utah","Washington County","county",49053,"April",2020,65989,75371,9382
+"49","UT","Utah","Wayne County","county",49055,"April",2019,1337,1414,77
+"49","UT","Utah","Wayne County","county",49055,"April",2020,1191,1420,229
+"49","UT","Utah","Weber County","county",49057,"April",2019,122913,126837,3924
+"49","UT","Utah","Weber County","county",49057,"April",2020,115749,129680,13931
+"49","UT","Utah","Beaver County","county",49001,"May",2019,2792,2884,92
+"49","UT","Utah","Beaver County","county",49001,"May",2020,2656,2818,162
+"49","UT","Utah","Box Elder County","county",49003,"May",2019,25147,25838,691
+"49","UT","Utah","Box Elder County","county",49003,"May",2020,24353,27157,2804
+"49","UT","Utah","Cache County","county",49005,"May",2019,62717,64139,1422
+"49","UT","Utah","Cache County","county",49005,"May",2020,59163,62137,2974
+"49","UT","Utah","Carbon County","county",49007,"May",2019,8161,8486,325
+"49","UT","Utah","Carbon County","county",49007,"May",2020,7889,8498,609
+"49","UT","Utah","Daggett County","county",49009,"May",2019,376,392,16
+"49","UT","Utah","Daggett County","county",49009,"May",2020,358,377,19
+"49","UT","Utah","Davis County","county",49011,"May",2019,168885,173189,4304
+"49","UT","Utah","Davis County","county",49011,"May",2020,164087,176609,12522
+"49","UT","Utah","Duchesne County","county",49013,"May",2019,7417,7729,312
+"49","UT","Utah","Duchesne County","county",49013,"May",2020,7064,8014,950
+"49","UT","Utah","Emery County","county",49015,"May",2019,4148,4321,173
+"49","UT","Utah","Emery County","county",49015,"May",2020,4181,4448,267
+"49","UT","Utah","Garfield County","county",49017,"May",2019,2618,2785,167
+"49","UT","Utah","Garfield County","county",49017,"May",2020,2576,3024,448
+"49","UT","Utah","Grand County","county",49019,"May",2019,5909,6153,244
+"49","UT","Utah","Grand County","county",49019,"May",2020,5602,6713,1111
+"49","UT","Utah","Iron County","county",49021,"May",2019,23150,23871,721
+"49","UT","Utah","Iron County","county",49021,"May",2020,21675,23487,1812
+"49","UT","Utah","Juab County","county",49023,"May",2019,5541,5693,152
+"49","UT","Utah","Juab County","county",49023,"May",2020,5283,5502,219
+"49","UT","Utah","Kane County","county",49025,"May",2019,3694,3809,115
+"49","UT","Utah","Kane County","county",49025,"May",2020,3363,3758,395
+"49","UT","Utah","Millard County","county",49027,"May",2019,5839,6010,171
+"49","UT","Utah","Millard County","county",49027,"May",2020,5542,5806,264
+"49","UT","Utah","Morgan County","county",49029,"May",2019,5409,5549,140
+"49","UT","Utah","Morgan County","county",49029,"May",2020,5248,5555,307
+"49","UT","Utah","Piute County","county",49031,"May",2019,460,482,22
+"49","UT","Utah","Piute County","county",49031,"May",2020,442,485,43
+"49","UT","Utah","Rich County","county",49033,"May",2019,1156,1192,36
+"49","UT","Utah","Rich County","county",49033,"May",2020,1068,1117,49
+"49","UT","Utah","Salt Lake County","county",49035,"May",2019,615858,632189,16331
+"49","UT","Utah","Salt Lake County","county",49035,"May",2020,573932,633766,59834
+"49","UT","Utah","San Juan County","county",49037,"May",2019,5452,5739,287
+"49","UT","Utah","San Juan County","county",49037,"May",2020,5430,6285,855
+"49","UT","Utah","Sanpete County","county",49039,"May",2019,12078,12485,407
+"49","UT","Utah","Sanpete County","county",49039,"May",2020,11485,12120,635
+"49","UT","Utah","Sevier County","county",49041,"May",2019,9417,9728,311
+"49","UT","Utah","Sevier County","county",49041,"May",2020,8951,9538,587
+"49","UT","Utah","State of Utah","state",NA,"May",2019,1542357,1587815,45458
+"49","UT","Utah","State of Utah","state",NA,"May",2020,1473599,1610853,137254
+"49","UT","Utah","Summit County","county",49043,"May",2019,24402,25033,631
+"49","UT","Utah","Summit County","county",49043,"May",2020,20221,24339,4118
+"49","UT","Utah","Tooele County","county",49045,"May",2019,32684,33682,998
+"49","UT","Utah","Tooele County","county",49045,"May",2020,30615,33642,3027
+"49","UT","Utah","Uintah County","county",49047,"May",2019,13083,13636,553
+"49","UT","Utah","Uintah County","county",49047,"May",2020,12246,14135,1889
+"49","UT","Utah","Utah County","county",49049,"May",2019,298360,305794,7434
+"49","UT","Utah","Utah County","county",49049,"May",2020,284605,303470,18865
+"49","UT","Utah","Wasatch County","county",49051,"May",2019,15592,16028,436
+"49","UT","Utah","Wasatch County","county",49051,"May",2020,14187,16530,2343
+"49","UT","Utah","Washington County","county",49053,"May",2019,73275,75554,2279
+"49","UT","Utah","Washington County","county",49053,"May",2020,70067,77279,7212
+"49","UT","Utah","Wayne County","county",49055,"May",2019,1335,1411,76
+"49","UT","Utah","Wayne County","county",49055,"May",2020,1288,1459,171
+"49","UT","Utah","Weber County","county",49057,"May",2019,123267,127079,3812
+"49","UT","Utah","Weber County","county",49057,"May",2020,119753,131043,11290
+"49","UT","Utah","Beaver County","county",49001,"June",2019,2777,2868,91
+"49","UT","Utah","Box Elder County","county",49003,"June",2019,25197,25872,675
+"49","UT","Utah","Cache County","county",49005,"June",2019,62688,64074,1386
+"49","UT","Utah","Carbon County","county",49007,"June",2019,8186,8504,318
+"49","UT","Utah","Daggett County","county",49009,"June",2019,377,393,16
+"49","UT","Utah","Davis County","county",49011,"June",2019,169402,173614,4212
+"49","UT","Utah","Duchesne County","county",49013,"June",2019,7426,7737,311
+"49","UT","Utah","Emery County","county",49015,"June",2019,4132,4301,169
+"49","UT","Utah","Garfield County","county",49017,"June",2019,2617,2780,163
+"49","UT","Utah","Grand County","county",49019,"June",2019,5944,6183,239
+"49","UT","Utah","Iron County","county",49021,"June",2019,23261,23970,709
+"49","UT","Utah","Juab County","county",49023,"June",2019,5555,5704,149
+"49","UT","Utah","Kane County","county",49025,"June",2019,3704,3817,113
+"49","UT","Utah","Millard County","county",49027,"June",2019,5841,6008,167
+"49","UT","Utah","Morgan County","county",49029,"June",2019,5426,5565,139
+"49","UT","Utah","Piute County","county",49031,"June",2019,460,482,22
+"49","UT","Utah","Rich County","county",49033,"June",2019,1157,1192,35
+"49","UT","Utah","Salt Lake County","county",49035,"June",2019,618051,634074,16023
+"49","UT","Utah","San Juan County","county",49037,"June",2019,5450,5734,284
+"49","UT","Utah","Sanpete County","county",49039,"June",2019,12086,12486,400
+"49","UT","Utah","Sevier County","county",49041,"June",2019,9422,9726,304
+"49","UT","Utah","State of Utah","state",NA,"June",2019,1545287,1590502,45215
+"49","UT","Utah","Summit County","county",49043,"June",2019,24511,25129,618
+"49","UT","Utah","Tooele County","county",49045,"June",2019,32840,33824,984
+"49","UT","Utah","Uintah County","county",49047,"June",2019,13088,13644,556
+"49","UT","Utah","Utah County","county",49049,"June",2019,299220,306529,7309
+"49","UT","Utah","Wasatch County","county",49051,"June",2019,15699,16133,434
+"49","UT","Utah","Washington County","county",49053,"June",2019,73540,75800,2260
+"49","UT","Utah","Wayne County","county",49055,"June",2019,1334,1409,75
+"49","UT","Utah","Weber County","county",49057,"June",2019,123621,127341,3720
+"49","UT","Utah","Beaver County","county",49001,"July",2019,2765,2853,88
+"49","UT","Utah","Box Elder County","county",49003,"July",2019,25245,25904,659
+"49","UT","Utah","Cache County","county",49005,"July",2019,62688,64045,1357
+"49","UT","Utah","Carbon County","county",49007,"July",2019,8211,8521,310
+"49","UT","Utah","Daggett County","county",49009,"July",2019,378,393,15
+"49","UT","Utah","Davis County","county",49011,"July",2019,169919,174027,4108
+"49","UT","Utah","Duchesne County","county",49013,"July",2019,7444,7751,307
+"49","UT","Utah","Emery County","county",49015,"July",2019,4116,4282,166
+"49","UT","Utah","Garfield County","county",49017,"July",2019,2614,2775,161
+"49","UT","Utah","Grand County","county",49019,"July",2019,5983,6217,234
+"49","UT","Utah","Iron County","county",49021,"July",2019,23373,24070,697
+"49","UT","Utah","Juab County","county",49023,"July",2019,5576,5720,144
+"49","UT","Utah","Kane County","county",49025,"July",2019,3714,3825,111
+"49","UT","Utah","Millard County","county",49027,"July",2019,5839,6002,163
+"49","UT","Utah","Morgan County","county",49029,"July",2019,5441,5577,136
+"49","UT","Utah","Piute County","county",49031,"July",2019,460,483,23
+"49","UT","Utah","Rich County","county",49033,"July",2019,1154,1189,35
+"49","UT","Utah","Salt Lake County","county",49035,"July",2019,620191,635902,15711
+"49","UT","Utah","San Juan County","county",49037,"July",2019,5444,5727,283
+"49","UT","Utah","Sanpete County","county",49039,"July",2019,12090,12483,393
+"49","UT","Utah","Sevier County","county",49041,"July",2019,9429,9727,298
+"49","UT","Utah","State of Utah","state",NA,"July",2019,1550525,1595978,45453
+"49","UT","Utah","Summit County","county",49043,"July",2019,24604,25209,605
+"49","UT","Utah","Tooele County","county",49045,"July",2019,32984,33957,973
+"49","UT","Utah","Uintah County","county",49047,"July",2019,13099,13657,558
+"49","UT","Utah","Utah County","county",49049,"July",2019,300297,307493,7196
+"49","UT","Utah","Wasatch County","county",49051,"July",2019,15795,16227,432
+"49","UT","Utah","Washington County","county",49053,"July",2019,73899,76135,2236
+"49","UT","Utah","Wayne County","county",49055,"July",2019,1336,1410,74
+"49","UT","Utah","Weber County","county",49057,"July",2019,123967,127586,3619
+"49","UT","Utah","Beaver County","county",49001,"August",2019,2758,2842,84
+"49","UT","Utah","Box Elder County","county",49003,"August",2019,25296,25941,645
+"49","UT","Utah","Cache County","county",49005,"August",2019,62759,64096,1337
+"49","UT","Utah","Carbon County","county",49007,"August",2019,8234,8537,303
+"49","UT","Utah","Daggett County","county",49009,"August",2019,380,395,15
+"49","UT","Utah","Davis County","county",49011,"August",2019,170398,174413,4015
+"49","UT","Utah","Duchesne County","county",49013,"August",2019,7470,7770,300
+"49","UT","Utah","Emery County","county",49015,"August",2019,4109,4273,164
+"49","UT","Utah","Garfield County","county",49017,"August",2019,2612,2770,158
+"49","UT","Utah","Grand County","county",49019,"August",2019,6018,6245,227
+"49","UT","Utah","Iron County","county",49021,"August",2019,23500,24183,683
+"49","UT","Utah","Juab County","county",49023,"August",2019,5601,5739,138
+"49","UT","Utah","Kane County","county",49025,"August",2019,3724,3832,108
+"49","UT","Utah","Millard County","county",49027,"August",2019,5837,5995,158
+"49","UT","Utah","Morgan County","county",49029,"August",2019,5457,5590,133
+"49","UT","Utah","Piute County","county",49031,"August",2019,461,484,23
+"49","UT","Utah","Rich County","county",49033,"August",2019,1149,1184,35
+"49","UT","Utah","Salt Lake County","county",49035,"August",2019,622209,637651,15442
+"49","UT","Utah","San Juan County","county",49037,"August",2019,5437,5721,284
+"49","UT","Utah","Sanpete County","county",49039,"August",2019,12093,12480,387
+"49","UT","Utah","Sevier County","county",49041,"August",2019,9439,9732,293
+"49","UT","Utah","State of Utah","state",NA,"August",2019,1556358,1601441,45083
+"49","UT","Utah","Summit County","county",49043,"August",2019,24679,25272,593
+"49","UT","Utah","Tooele County","county",49045,"August",2019,33109,34071,962
+"49","UT","Utah","Uintah County","county",49047,"August",2019,13117,13674,557
+"49","UT","Utah","Utah County","county",49049,"August",2019,301571,308675,7104
+"49","UT","Utah","Wasatch County","county",49051,"August",2019,15882,16312,430
+"49","UT","Utah","Washington County","county",49053,"August",2019,74281,76485,2204
+"49","UT","Utah","Wayne County","county",49055,"August",2019,1341,1415,74
+"49","UT","Utah","Weber County","county",49057,"August",2019,124313,127803,3490
+"49","UT","Utah","Beaver County","county",49001,"September",2019,2755,2836,81
+"49","UT","Utah","Box Elder County","county",49003,"September",2019,25348,25982,634
+"49","UT","Utah","Cache County","county",49005,"September",2019,62895,64217,1322
+"49","UT","Utah","Carbon County","county",49007,"September",2019,8251,8550,299
+"49","UT","Utah","Daggett County","county",49009,"September",2019,381,396,15
+"49","UT","Utah","Davis County","county",49011,"September",2019,170845,174801,3956
+"49","UT","Utah","Duchesne County","county",49013,"September",2019,7499,7791,292
+"49","UT","Utah","Emery County","county",49015,"September",2019,4114,4277,163
+"49","UT","Utah","Garfield County","county",49017,"September",2019,2612,2768,156
+"49","UT","Utah","Grand County","county",49019,"September",2019,6044,6266,222
+"49","UT","Utah","Iron County","county",49021,"September",2019,23635,24304,669
+"49","UT","Utah","Juab County","county",49023,"September",2019,5627,5761,134
+"49","UT","Utah","Kane County","county",49025,"September",2019,3732,3837,105
+"49","UT","Utah","Millard County","county",49027,"September",2019,5835,5989,154
+"49","UT","Utah","Morgan County","county",49029,"September",2019,5473,5603,130
+"49","UT","Utah","Piute County","county",49031,"September",2019,463,486,23
+"49","UT","Utah","Rich County","county",49033,"September",2019,1144,1179,35
+"49","UT","Utah","Salt Lake County","county",49035,"September",2019,624078,639350,15272
+"49","UT","Utah","San Juan County","county",49037,"September",2019,5432,5719,287
+"49","UT","Utah","Sanpete County","county",49039,"September",2019,12098,12481,383
+"49","UT","Utah","Sevier County","county",49041,"September",2019,9450,9739,289
+"49","UT","Utah","State of Utah","state",NA,"September",2019,1562718,1606085,43367
+"49","UT","Utah","Summit County","county",49043,"September",2019,24748,25332,584
+"49","UT","Utah","Tooele County","county",49045,"September",2019,33230,34180,950
+"49","UT","Utah","Uintah County","county",49047,"September",2019,13136,13692,556
+"49","UT","Utah","Utah County","county",49049,"September",2019,302891,309935,7044
+"49","UT","Utah","Wasatch County","county",49051,"September",2019,15964,16391,427
+"49","UT","Utah","Washington County","county",49053,"September",2019,74607,76780,2173
+"49","UT","Utah","Wayne County","county",49055,"September",2019,1348,1422,74
+"49","UT","Utah","Weber County","county",49057,"September",2019,124677,128030,3353
