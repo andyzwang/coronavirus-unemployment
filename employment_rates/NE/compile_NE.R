@@ -11,7 +11,7 @@ library(stringr)
 raw <- read_csv("NE_data.csv")
 
 output <- raw %>%
-  clean_names("snake") %>%
+  clean_names("snake")
   mutate(
     state_fips = "31",
     state_short = "NE",
