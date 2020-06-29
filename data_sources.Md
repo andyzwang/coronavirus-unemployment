@@ -261,6 +261,9 @@ No data
 * [Center for Workforce Information and Analysis](https://www.workstats.dli.pa.gov/Products/UCActivity/Pages/default.aspx)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries
+* [Pennslyvania LMI](https://paworkstats.geosolinc.com/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmizGZkm52zV+sR+lKAe/bUj0=)
+  * Format: CSV, Updated:  Monthly, Level: County
+  * Data: Unemployment
 
 ## Rhode Island
 * [RI Department of Labor and Training](http://www.dlt.ri.gov/lmi/uiadmin/initial.htm)
