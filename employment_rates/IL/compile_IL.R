@@ -43,8 +43,8 @@ output <- raw %>%
     labor_force = force
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    labor_force, employment, unemployment
   )
 
 write.csv(output, file = "IL_compiled.csv", row.names = FALSE)

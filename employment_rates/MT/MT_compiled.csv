@@ -1,1055 +1,1055 @@
-"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
-30,"MT","Montana","Montana","state",NA,"January",2019,502439,526011,23572
-30,"MT","Montana","Montana","state",NA,"February",2019,504628,526862,22234
-30,"MT","Montana","Montana","state",NA,"March",2019,505541,527703,22162
-30,"MT","Montana","Montana","state",NA,"April",2019,510921,528624,17703
-30,"MT","Montana","Montana","state",NA,"May",2019,516822,532019,15197
-30,"MT","Montana","Montana","state",NA,"June",2019,521553,539659,18106
-30,"MT","Montana","Montana","state",NA,"July",2019,527026,543860,16834
-30,"MT","Montana","Montana","state",NA,"August",2019,525258,542082,16824
-30,"MT","Montana","Montana","state",NA,"September",2019,518723,534592,15869
-30,"MT","Montana","Montana","state",NA,"October",2019,518171,535076,16905
-30,"MT","Montana","Montana","state",NA,"November",2019,516106,534315,18209
-30,"MT","Montana","Montana","state",NA,"December",2019,511817,531156,19339
-30,"MT","Montana","Montana","state",NA,"January",2020,510463,534089,23626
-30,"MT","Montana","Montana","state",NA,"February",2020,512749,535223,22474
-30,"MT","Montana","Montana","state",NA,"March",2020,512504,535146,22642
-30,"MT","Montana","Montana","state",NA,"April",2020,456449,518037,61588
-30,"MT","Montana","Montana","state",NA,"May",2020,477874,522050,44176
-30,"MT","Montana","Beaverhead","county",30001,"January",2019,4858,5071,213
-30,"MT","Montana","Beaverhead","county",30001,"February",2019,4899,5060,161
-30,"MT","Montana","Beaverhead","county",30001,"March",2019,4836,5011,175
-30,"MT","Montana","Beaverhead","county",30001,"April",2019,4894,5038,144
-30,"MT","Montana","Beaverhead","county",30001,"May",2019,4935,5058,123
-30,"MT","Montana","Beaverhead","county",30001,"June",2019,4921,5062,141
-30,"MT","Montana","Beaverhead","county",30001,"July",2019,5038,5164,126
-30,"MT","Montana","Beaverhead","county",30001,"August",2019,5007,5132,125
-30,"MT","Montana","Beaverhead","county",30001,"September",2019,4932,5056,124
-30,"MT","Montana","Beaverhead","county",30001,"October",2019,4974,5105,131
-30,"MT","Montana","Beaverhead","county",30001,"November",2019,4925,5080,155
-30,"MT","Montana","Beaverhead","county",30001,"December",2019,4843,5009,166
-30,"MT","Montana","Beaverhead","county",30001,"January",2020,4798,4981,183
-30,"MT","Montana","Beaverhead","county",30001,"February",2020,4853,5024,171
-30,"MT","Montana","Beaverhead","county",30001,"March",2020,4920,5095,175
-30,"MT","Montana","Beaverhead","county",30001,"April",2020,4400,4744,344
-30,"MT","Montana","Beaverhead","county",30001,"May",2020,4560,4807,247
-30,"MT","Montana","Big Horn","county",30003,"January",2019,4453,4904,451
-30,"MT","Montana","Big Horn","county",30003,"February",2019,4429,4854,425
-30,"MT","Montana","Big Horn","county",30003,"March",2019,4474,4894,420
-30,"MT","Montana","Big Horn","county",30003,"April",2019,4517,4890,373
-30,"MT","Montana","Big Horn","county",30003,"May",2019,4507,4826,319
-30,"MT","Montana","Big Horn","county",30003,"June",2019,4388,4748,360
-30,"MT","Montana","Big Horn","county",30003,"July",2019,4430,4768,338
-30,"MT","Montana","Big Horn","county",30003,"August",2019,4476,4823,347
-30,"MT","Montana","Big Horn","county",30003,"September",2019,4546,4854,308
-30,"MT","Montana","Big Horn","county",30003,"October",2019,4541,4849,308
-30,"MT","Montana","Big Horn","county",30003,"November",2019,4513,4834,321
-30,"MT","Montana","Big Horn","county",30003,"December",2019,4424,4740,316
-30,"MT","Montana","Big Horn","county",30003,"January",2020,4318,4657,339
-30,"MT","Montana","Big Horn","county",30003,"February",2020,4310,4657,347
-30,"MT","Montana","Big Horn","county",30003,"March",2020,4391,4755,364
-30,"MT","Montana","Big Horn","county",30003,"April",2020,3900,4362,462
-30,"MT","Montana","Big Horn","county",30003,"May",2020,4077,4497,420
-30,"MT","Montana","Blaine","county",30005,"January",2019,2346,2473,127
-30,"MT","Montana","Blaine","county",30005,"February",2019,2344,2446,102
-30,"MT","Montana","Blaine","county",30005,"March",2019,2373,2479,106
-30,"MT","Montana","Blaine","county",30005,"April",2019,2415,2495,80
-30,"MT","Montana","Blaine","county",30005,"May",2019,2440,2505,65
-30,"MT","Montana","Blaine","county",30005,"June",2019,2318,2399,81
-30,"MT","Montana","Blaine","county",30005,"July",2019,2315,2388,73
-30,"MT","Montana","Blaine","county",30005,"August",2019,2448,2523,75
-30,"MT","Montana","Blaine","county",30005,"September",2019,2435,2509,74
-30,"MT","Montana","Blaine","county",30005,"October",2019,2481,2561,80
-30,"MT","Montana","Blaine","county",30005,"November",2019,2450,2540,90
-30,"MT","Montana","Blaine","county",30005,"December",2019,2421,2524,103
-30,"MT","Montana","Blaine","county",30005,"January",2020,2376,2495,119
-30,"MT","Montana","Blaine","county",30005,"February",2020,2424,2530,106
-30,"MT","Montana","Blaine","county",30005,"March",2020,2441,2549,108
-30,"MT","Montana","Blaine","county",30005,"April",2020,2227,2354,127
-30,"MT","Montana","Blaine","county",30005,"May",2020,2281,2394,113
-30,"MT","Montana","Broadwater","county",30007,"January",2019,2406,2528,122
-30,"MT","Montana","Broadwater","county",30007,"February",2019,2430,2542,112
-30,"MT","Montana","Broadwater","county",30007,"March",2019,2453,2568,115
-30,"MT","Montana","Broadwater","county",30007,"April",2019,2442,2538,96
-30,"MT","Montana","Broadwater","county",30007,"May",2019,2480,2573,93
-30,"MT","Montana","Broadwater","county",30007,"June",2019,2518,2625,107
-30,"MT","Montana","Broadwater","county",30007,"July",2019,2568,2676,108
-30,"MT","Montana","Broadwater","county",30007,"August",2019,2552,2645,93
-30,"MT","Montana","Broadwater","county",30007,"September",2019,2491,2577,86
-30,"MT","Montana","Broadwater","county",30007,"October",2019,2494,2581,87
-30,"MT","Montana","Broadwater","county",30007,"November",2019,2494,2599,105
-30,"MT","Montana","Broadwater","county",30007,"December",2019,2451,2558,107
-30,"MT","Montana","Broadwater","county",30007,"January",2020,2442,2582,140
-30,"MT","Montana","Broadwater","county",30007,"February",2020,2464,2595,131
-30,"MT","Montana","Broadwater","county",30007,"March",2020,2468,2597,129
-30,"MT","Montana","Broadwater","county",30007,"April",2020,2184,2460,276
-30,"MT","Montana","Broadwater","county",30007,"May",2020,2282,2470,188
-30,"MT","Montana","Carbon","county",30009,"January",2019,5230,5489,259
-30,"MT","Montana","Carbon","county",30009,"February",2019,5203,5447,244
-30,"MT","Montana","Carbon","county",30009,"March",2019,5235,5483,248
-30,"MT","Montana","Carbon","county",30009,"April",2019,5291,5471,180
-30,"MT","Montana","Carbon","county",30009,"May",2019,5302,5456,154
-30,"MT","Montana","Carbon","county",30009,"June",2019,5290,5460,170
-30,"MT","Montana","Carbon","county",30009,"July",2019,5319,5480,161
-30,"MT","Montana","Carbon","county",30009,"August",2019,5340,5497,157
-30,"MT","Montana","Carbon","county",30009,"September",2019,5340,5485,145
-30,"MT","Montana","Carbon","county",30009,"October",2019,5348,5511,163
-30,"MT","Montana","Carbon","county",30009,"November",2019,5329,5520,191
-30,"MT","Montana","Carbon","county",30009,"December",2019,5283,5482,199
-30,"MT","Montana","Carbon","county",30009,"January",2020,5245,5519,274
-30,"MT","Montana","Carbon","county",30009,"February",2020,5265,5516,251
-30,"MT","Montana","Carbon","county",30009,"March",2020,5266,5515,249
-30,"MT","Montana","Carbon","county",30009,"April",2020,4821,5499,678
-30,"MT","Montana","Carbon","county",30009,"May",2020,4941,5412,471
-30,"MT","Montana","Carter","county",30011,"January",2019,629,658,29
-30,"MT","Montana","Carter","county",30011,"February",2019,593,612,19
-30,"MT","Montana","Carter","county",30011,"March",2019,598,621,23
-30,"MT","Montana","Carter","county",30011,"April",2019,611,629,18
-30,"MT","Montana","Carter","county",30011,"May",2019,603,622,19
-30,"MT","Montana","Carter","county",30011,"June",2019,592,612,20
-30,"MT","Montana","Carter","county",30011,"July",2019,591,607,16
-30,"MT","Montana","Carter","county",30011,"August",2019,667,680,13
-30,"MT","Montana","Carter","county",30011,"September",2019,646,661,15
-30,"MT","Montana","Carter","county",30011,"October",2019,672,689,17
-30,"MT","Montana","Carter","county",30011,"November",2019,667,681,14
-30,"MT","Montana","Carter","county",30011,"December",2019,647,660,13
-30,"MT","Montana","Carter","county",30011,"January",2020,599,614,15
-30,"MT","Montana","Carter","county",30011,"February",2020,613,628,15
-30,"MT","Montana","Carter","county",30011,"March",2020,634,651,17
-30,"MT","Montana","Carter","county",30011,"April",2020,607,628,21
-30,"MT","Montana","Carter","county",30011,"May",2020,584,601,17
-30,"MT","Montana","Cascade","county",30013,"January",2019,36212,37737,1525
-30,"MT","Montana","Cascade","county",30013,"February",2019,36362,37930,1568
-30,"MT","Montana","Cascade","county",30013,"March",2019,36495,38029,1534
-30,"MT","Montana","Cascade","county",30013,"April",2019,36794,37969,1175
-30,"MT","Montana","Cascade","county",30013,"May",2019,37010,38071,1061
-30,"MT","Montana","Cascade","county",30013,"June",2019,37170,38463,1293
-30,"MT","Montana","Cascade","county",30013,"July",2019,36475,37674,1199
-30,"MT","Montana","Cascade","county",30013,"August",2019,36330,37579,1249
-30,"MT","Montana","Cascade","county",30013,"September",2019,36721,37879,1158
-30,"MT","Montana","Cascade","county",30013,"October",2019,36765,37962,1197
-30,"MT","Montana","Cascade","county",30013,"November",2019,36868,38083,1215
-30,"MT","Montana","Cascade","county",30013,"December",2019,36616,37894,1278
-30,"MT","Montana","Cascade","county",30013,"January",2020,36720,38343,1623
-30,"MT","Montana","Cascade","county",30013,"February",2020,36657,38088,1431
-30,"MT","Montana","Cascade","county",30013,"March",2020,36434,37866,1432
-30,"MT","Montana","Cascade","county",30013,"April",2020,32347,36848,4501
-30,"MT","Montana","Cascade","county",30013,"May",2020,34938,37961,3023
-30,"MT","Montana","Chouteau","county",30015,"January",2019,2327,2416,89
-30,"MT","Montana","Chouteau","county",30015,"February",2019,2308,2385,77
-30,"MT","Montana","Chouteau","county",30015,"March",2019,2293,2372,79
-30,"MT","Montana","Chouteau","county",30015,"April",2019,2359,2418,59
-30,"MT","Montana","Chouteau","county",30015,"May",2019,2395,2449,54
-30,"MT","Montana","Chouteau","county",30015,"June",2019,2403,2461,58
-30,"MT","Montana","Chouteau","county",30015,"July",2019,2367,2423,56
-30,"MT","Montana","Chouteau","county",30015,"August",2019,2455,2508,53
-30,"MT","Montana","Chouteau","county",30015,"September",2019,2400,2460,60
-30,"MT","Montana","Chouteau","county",30015,"October",2019,2472,2540,68
-30,"MT","Montana","Chouteau","county",30015,"November",2019,2465,2526,61
-30,"MT","Montana","Chouteau","county",30015,"December",2019,2428,2509,81
-30,"MT","Montana","Chouteau","county",30015,"January",2020,2314,2401,87
-30,"MT","Montana","Chouteau","county",30015,"February",2020,2367,2449,82
-30,"MT","Montana","Chouteau","county",30015,"March",2020,2395,2479,84
-30,"MT","Montana","Chouteau","county",30015,"April",2020,2215,2356,141
-30,"MT","Montana","Chouteau","county",30015,"May",2020,2246,2356,110
-30,"MT","Montana","Custer","county",30017,"January",2019,5715,5963,248
-30,"MT","Montana","Custer","county",30017,"February",2019,5745,5962,217
-30,"MT","Montana","Custer","county",30017,"March",2019,5724,5941,217
-30,"MT","Montana","Custer","county",30017,"April",2019,5851,6009,158
-30,"MT","Montana","Custer","county",30017,"May",2019,6037,6165,128
-30,"MT","Montana","Custer","county",30017,"June",2019,5849,6019,170
-30,"MT","Montana","Custer","county",30017,"July",2019,6007,6169,162
-30,"MT","Montana","Custer","county",30017,"August",2019,5911,6052,141
-30,"MT","Montana","Custer","county",30017,"September",2019,5937,6085,148
-30,"MT","Montana","Custer","county",30017,"October",2019,5961,6115,154
-30,"MT","Montana","Custer","county",30017,"November",2019,5987,6149,162
-30,"MT","Montana","Custer","county",30017,"December",2019,5907,6093,186
-30,"MT","Montana","Custer","county",30017,"January",2020,5839,6094,255
-30,"MT","Montana","Custer","county",30017,"February",2020,5874,6129,255
-30,"MT","Montana","Custer","county",30017,"March",2020,5825,6062,237
-30,"MT","Montana","Custer","county",30017,"April",2020,5132,5599,467
-30,"MT","Montana","Custer","county",30017,"May",2020,5445,5825,380
-30,"MT","Montana","Daniels","county",30019,"January",2019,883,904,21
-30,"MT","Montana","Daniels","county",30019,"February",2019,850,868,18
-30,"MT","Montana","Daniels","county",30019,"March",2019,844,864,20
-30,"MT","Montana","Daniels","county",30019,"April",2019,870,882,12
-30,"MT","Montana","Daniels","county",30019,"May",2019,876,888,12
-30,"MT","Montana","Daniels","county",30019,"June",2019,844,867,23
-30,"MT","Montana","Daniels","county",30019,"July",2019,893,907,14
-30,"MT","Montana","Daniels","county",30019,"August",2019,902,916,14
-30,"MT","Montana","Daniels","county",30019,"September",2019,866,883,17
-30,"MT","Montana","Daniels","county",30019,"October",2019,893,910,17
-30,"MT","Montana","Daniels","county",30019,"November",2019,892,912,20
-30,"MT","Montana","Daniels","county",30019,"December",2019,883,906,23
-30,"MT","Montana","Daniels","county",30019,"January",2020,862,888,26
-30,"MT","Montana","Daniels","county",30019,"February",2020,869,896,27
-30,"MT","Montana","Daniels","county",30019,"March",2020,870,898,28
-30,"MT","Montana","Daniels","county",30019,"April",2020,799,835,36
-30,"MT","Montana","Daniels","county",30019,"May",2020,813,843,30
-30,"MT","Montana","Dawson","county",30021,"January",2019,4458,4589,131
-30,"MT","Montana","Dawson","county",30021,"February",2019,4432,4549,117
-30,"MT","Montana","Dawson","county",30021,"March",2019,4411,4528,117
-30,"MT","Montana","Dawson","county",30021,"April",2019,4522,4619,97
-30,"MT","Montana","Dawson","county",30021,"May",2019,4507,4597,90
-30,"MT","Montana","Dawson","county",30021,"June",2019,4423,4536,113
-30,"MT","Montana","Dawson","county",30021,"July",2019,4483,4588,105
-30,"MT","Montana","Dawson","county",30021,"August",2019,4521,4619,98
-30,"MT","Montana","Dawson","county",30021,"September",2019,4421,4534,113
-30,"MT","Montana","Dawson","county",30021,"October",2019,4468,4580,112
-30,"MT","Montana","Dawson","county",30021,"November",2019,4483,4600,117
-30,"MT","Montana","Dawson","county",30021,"December",2019,4478,4603,125
-30,"MT","Montana","Dawson","county",30021,"January",2020,4398,4548,150
-30,"MT","Montana","Dawson","county",30021,"February",2020,4432,4568,136
-30,"MT","Montana","Dawson","county",30021,"March",2020,4415,4558,143
-30,"MT","Montana","Dawson","county",30021,"April",2020,3923,4230,307
-30,"MT","Montana","Dawson","county",30021,"May",2020,4052,4413,361
-30,"MT","Montana","Deer Lodge","county",30023,"January",2019,4811,5015,204
-30,"MT","Montana","Deer Lodge","county",30023,"February",2019,4843,5039,196
-30,"MT","Montana","Deer Lodge","county",30023,"March",2019,4830,5008,178
-30,"MT","Montana","Deer Lodge","county",30023,"April",2019,4867,5029,162
-30,"MT","Montana","Deer Lodge","county",30023,"May",2019,4908,5040,132
-30,"MT","Montana","Deer Lodge","county",30023,"June",2019,4962,5115,153
-30,"MT","Montana","Deer Lodge","county",30023,"July",2019,5093,5248,155
-30,"MT","Montana","Deer Lodge","county",30023,"August",2019,4977,5142,165
-30,"MT","Montana","Deer Lodge","county",30023,"September",2019,4865,5001,136
-30,"MT","Montana","Deer Lodge","county",30023,"October",2019,4830,4965,135
-30,"MT","Montana","Deer Lodge","county",30023,"November",2019,4804,4951,147
-30,"MT","Montana","Deer Lodge","county",30023,"December",2019,4738,4904,166
-30,"MT","Montana","Deer Lodge","county",30023,"January",2020,4797,4989,192
-30,"MT","Montana","Deer Lodge","county",30023,"February",2020,4806,4999,193
-30,"MT","Montana","Deer Lodge","county",30023,"March",2020,4845,5053,208
-30,"MT","Montana","Deer Lodge","county",30023,"April",2020,4270,4772,502
-30,"MT","Montana","Deer Lodge","county",30023,"May",2020,4499,4822,323
-30,"MT","Montana","Fallon","county",30025,"January",2019,1651,1688,37
-30,"MT","Montana","Fallon","county",30025,"February",2019,1634,1668,34
-30,"MT","Montana","Fallon","county",30025,"March",2019,1600,1636,36
-30,"MT","Montana","Fallon","county",30025,"April",2019,1661,1687,26
-30,"MT","Montana","Fallon","county",30025,"May",2019,1685,1706,21
-30,"MT","Montana","Fallon","county",30025,"June",2019,1686,1710,24
-30,"MT","Montana","Fallon","county",30025,"July",2019,1684,1706,22
-30,"MT","Montana","Fallon","county",30025,"August",2019,1778,1802,24
-30,"MT","Montana","Fallon","county",30025,"September",2019,1667,1696,29
-30,"MT","Montana","Fallon","county",30025,"October",2019,1695,1730,35
-30,"MT","Montana","Fallon","county",30025,"November",2019,1681,1718,37
-30,"MT","Montana","Fallon","county",30025,"December",2019,1669,1708,39
-30,"MT","Montana","Fallon","county",30025,"January",2020,1634,1672,38
-30,"MT","Montana","Fallon","county",30025,"February",2020,1654,1688,34
-30,"MT","Montana","Fallon","county",30025,"March",2020,1645,1685,40
-30,"MT","Montana","Fallon","county",30025,"April",2020,1485,1578,93
-30,"MT","Montana","Fallon","county",30025,"May",2020,1529,1610,81
-30,"MT","Montana","Fergus","county",30027,"January",2019,5663,5945,282
-30,"MT","Montana","Fergus","county",30027,"February",2019,5524,5792,268
-30,"MT","Montana","Fergus","county",30027,"March",2019,5499,5757,258
-30,"MT","Montana","Fergus","county",30027,"April",2019,5910,6079,169
-30,"MT","Montana","Fergus","county",30027,"May",2019,5934,6064,130
-30,"MT","Montana","Fergus","county",30027,"June",2019,6075,6227,152
-30,"MT","Montana","Fergus","county",30027,"July",2019,5978,6133,155
-30,"MT","Montana","Fergus","county",30027,"August",2019,6079,6228,149
-30,"MT","Montana","Fergus","county",30027,"September",2019,5891,6037,146
-30,"MT","Montana","Fergus","county",30027,"October",2019,5963,6111,148
-30,"MT","Montana","Fergus","county",30027,"November",2019,5931,6107,176
-30,"MT","Montana","Fergus","county",30027,"December",2019,5820,6038,218
-30,"MT","Montana","Fergus","county",30027,"January",2020,5753,6040,287
-30,"MT","Montana","Fergus","county",30027,"February",2020,5796,6075,279
-30,"MT","Montana","Fergus","county",30027,"March",2020,5634,5898,264
-30,"MT","Montana","Fergus","county",30027,"April",2020,5093,5554,461
-30,"MT","Montana","Fergus","county",30027,"May",2020,5288,5606,318
-30,"MT","Montana","Flathead","county",30029,"January",2019,43759,46640,2881
-30,"MT","Montana","Flathead","county",30029,"February",2019,43886,46720,2834
-30,"MT","Montana","Flathead","county",30029,"March",2019,44140,46977,2837
-30,"MT","Montana","Flathead","county",30029,"April",2019,44622,46972,2350
-30,"MT","Montana","Flathead","county",30029,"May",2019,45732,47572,1840
-30,"MT","Montana","Flathead","county",30029,"June",2019,47352,49408,2056
-30,"MT","Montana","Flathead","county",30029,"July",2019,48612,50466,1854
-30,"MT","Montana","Flathead","county",30029,"August",2019,48008,49912,1904
-30,"MT","Montana","Flathead","county",30029,"September",2019,46049,47813,1764
-30,"MT","Montana","Flathead","county",30029,"October",2019,45495,47428,1933
-30,"MT","Montana","Flathead","county",30029,"November",2019,45111,47351,2240
-30,"MT","Montana","Flathead","county",30029,"December",2019,44991,47451,2460
-30,"MT","Montana","Flathead","county",30029,"January",2020,44736,47869,3133
-30,"MT","Montana","Flathead","county",30029,"February",2020,44807,47768,2961
-30,"MT","Montana","Flathead","county",30029,"March",2020,45236,48195,2959
-30,"MT","Montana","Flathead","county",30029,"April",2020,39852,47788,7936
-30,"MT","Montana","Flathead","county",30029,"May",2020,42303,47991,5688
-30,"MT","Montana","Gallatin","county",30031,"January",2019,64733,66559,1826
-30,"MT","Montana","Gallatin","county",30031,"February",2019,65670,67252,1582
-30,"MT","Montana","Gallatin","county",30031,"March",2019,65450,67140,1690
-30,"MT","Montana","Gallatin","county",30031,"April",2019,65587,66990,1403
-30,"MT","Montana","Gallatin","county",30031,"May",2019,66059,67561,1502
-30,"MT","Montana","Gallatin","county",30031,"June",2019,67918,69420,1502
-30,"MT","Montana","Gallatin","county",30031,"July",2019,71249,72563,1314
-30,"MT","Montana","Gallatin","county",30031,"August",2019,69838,71140,1302
-30,"MT","Montana","Gallatin","county",30031,"September",2019,67923,69274,1351
-30,"MT","Montana","Gallatin","county",30031,"October",2019,67586,69254,1668
-30,"MT","Montana","Gallatin","county",30031,"November",2019,67352,69227,1875
-30,"MT","Montana","Gallatin","county",30031,"December",2019,67096,68746,1650
-30,"MT","Montana","Gallatin","county",30031,"January",2020,67266,69025,1759
-30,"MT","Montana","Gallatin","county",30031,"February",2020,67824,69563,1739
-30,"MT","Montana","Gallatin","county",30031,"March",2020,67345,69133,1788
-30,"MT","Montana","Gallatin","county",30031,"April",2020,58831,67109,8278
-30,"MT","Montana","Gallatin","county",30031,"May",2020,61730,67753,6023
-30,"MT","Montana","Garfield","county",30033,"January",2019,721,744,23
-30,"MT","Montana","Garfield","county",30033,"February",2019,698,719,21
-30,"MT","Montana","Garfield","county",30033,"March",2019,698,720,22
-30,"MT","Montana","Garfield","county",30033,"April",2019,724,736,12
-30,"MT","Montana","Garfield","county",30033,"May",2019,719,730,11
-30,"MT","Montana","Garfield","county",30033,"June",2019,679,694,15
-30,"MT","Montana","Garfield","county",30033,"July",2019,720,734,14
-30,"MT","Montana","Garfield","county",30033,"August",2019,728,746,18
-30,"MT","Montana","Garfield","county",30033,"September",2019,732,749,17
-30,"MT","Montana","Garfield","county",30033,"October",2019,752,768,16
-30,"MT","Montana","Garfield","county",30033,"November",2019,732,750,18
-30,"MT","Montana","Garfield","county",30033,"December",2019,738,764,26
-30,"MT","Montana","Garfield","county",30033,"January",2020,693,720,27
-30,"MT","Montana","Garfield","county",30033,"February",2020,708,730,22
-30,"MT","Montana","Garfield","county",30033,"March",2020,723,747,24
-30,"MT","Montana","Garfield","county",30033,"April",2020,690,722,32
-30,"MT","Montana","Garfield","county",30033,"May",2020,666,688,22
-30,"MT","Montana","Glacier","county",30035,"January",2019,4976,5500,524
-30,"MT","Montana","Glacier","county",30035,"February",2019,4921,5436,515
-30,"MT","Montana","Glacier","county",30035,"March",2019,5009,5494,485
-30,"MT","Montana","Glacier","county",30035,"April",2019,5042,5455,413
-30,"MT","Montana","Glacier","county",30035,"May",2019,5258,5601,343
-30,"MT","Montana","Glacier","county",30035,"June",2019,5603,6062,459
-30,"MT","Montana","Glacier","county",30035,"July",2019,5624,6057,433
-30,"MT","Montana","Glacier","county",30035,"August",2019,5816,6228,412
-30,"MT","Montana","Glacier","county",30035,"September",2019,5591,5929,338
-30,"MT","Montana","Glacier","county",30035,"October",2019,5198,5586,388
-30,"MT","Montana","Glacier","county",30035,"November",2019,5124,5531,407
-30,"MT","Montana","Glacier","county",30035,"December",2019,5028,5431,403
-30,"MT","Montana","Glacier","county",30035,"January",2020,4981,5445,464
-30,"MT","Montana","Glacier","county",30035,"February",2020,4972,5419,447
-30,"MT","Montana","Glacier","county",30035,"March",2020,5090,5538,448
-30,"MT","Montana","Glacier","county",30035,"April",2020,4512,5186,674
-30,"MT","Montana","Glacier","county",30035,"May",2020,4833,5356,523
-30,"MT","Montana","Golden Valley","county",30037,"January",2019,349,372,23
-30,"MT","Montana","Golden Valley","county",30037,"February",2019,342,361,19
-30,"MT","Montana","Golden Valley","county",30037,"March",2019,346,365,19
-30,"MT","Montana","Golden Valley","county",30037,"April",2019,352,367,15
-30,"MT","Montana","Golden Valley","county",30037,"May",2019,349,363,14
-30,"MT","Montana","Golden Valley","county",30037,"June",2019,348,362,14
-30,"MT","Montana","Golden Valley","county",30037,"July",2019,352,362,10
-30,"MT","Montana","Golden Valley","county",30037,"August",2019,357,365,8
-30,"MT","Montana","Golden Valley","county",30037,"September",2019,357,371,14
-30,"MT","Montana","Golden Valley","county",30037,"October",2019,362,375,13
-30,"MT","Montana","Golden Valley","county",30037,"November",2019,356,372,16
-30,"MT","Montana","Golden Valley","county",30037,"December",2019,355,368,13
-30,"MT","Montana","Golden Valley","county",30037,"January",2020,347,365,18
-30,"MT","Montana","Golden Valley","county",30037,"February",2020,351,369,18
-30,"MT","Montana","Golden Valley","county",30037,"March",2020,352,371,19
-30,"MT","Montana","Golden Valley","county",30037,"April",2020,329,352,23
-30,"MT","Montana","Golden Valley","county",30037,"May",2020,330,354,24
-30,"MT","Montana","Granite","county",30039,"January",2019,1648,1784,136
-30,"MT","Montana","Granite","county",30039,"February",2019,1634,1776,142
-30,"MT","Montana","Granite","county",30039,"March",2019,1629,1738,109
-30,"MT","Montana","Granite","county",30039,"April",2019,1589,1697,108
-30,"MT","Montana","Granite","county",30039,"May",2019,1562,1640,78
-30,"MT","Montana","Granite","county",30039,"June",2019,1631,1708,77
-30,"MT","Montana","Granite","county",30039,"July",2019,1600,1672,72
-30,"MT","Montana","Granite","county",30039,"August",2019,1648,1722,74
-30,"MT","Montana","Granite","county",30039,"September",2019,1564,1635,71
-30,"MT","Montana","Granite","county",30039,"October",2019,1544,1618,74
-30,"MT","Montana","Granite","county",30039,"November",2019,1501,1598,97
-30,"MT","Montana","Granite","county",30039,"December",2019,1540,1648,108
-30,"MT","Montana","Granite","county",30039,"January",2020,1600,1747,147
-30,"MT","Montana","Granite","county",30039,"February",2020,1609,1729,120
-30,"MT","Montana","Granite","county",30039,"March",2020,1644,1771,127
-30,"MT","Montana","Granite","county",30039,"April",2020,1433,1713,280
-30,"MT","Montana","Granite","county",30039,"May",2020,1437,1614,177
-30,"MT","Montana","Hill","county",30041,"January",2019,7165,7474,309
-30,"MT","Montana","Hill","county",30041,"February",2019,7287,7593,306
-30,"MT","Montana","Hill","county",30041,"March",2019,7313,7607,294
-30,"MT","Montana","Hill","county",30041,"April",2019,7308,7561,253
-30,"MT","Montana","Hill","county",30041,"May",2019,7433,7648,215
-30,"MT","Montana","Hill","county",30041,"June",2019,7376,7679,303
-30,"MT","Montana","Hill","county",30041,"July",2019,7386,7693,307
-30,"MT","Montana","Hill","county",30041,"August",2019,7387,7706,319
-30,"MT","Montana","Hill","county",30041,"September",2019,7421,7678,257
-30,"MT","Montana","Hill","county",30041,"October",2019,7447,7729,282
-30,"MT","Montana","Hill","county",30041,"November",2019,7445,7715,270
-30,"MT","Montana","Hill","county",30041,"December",2019,7346,7598,252
-30,"MT","Montana","Hill","county",30041,"January",2020,7275,7584,309
-30,"MT","Montana","Hill","county",30041,"February",2020,7354,7626,272
-30,"MT","Montana","Hill","county",30041,"March",2020,7335,7618,283
-30,"MT","Montana","Hill","county",30041,"April",2020,6438,7052,614
-30,"MT","Montana","Hill","county",30041,"May",2020,6709,7134,425
-30,"MT","Montana","Jefferson","county",30043,"January",2019,5407,5663,256
-30,"MT","Montana","Jefferson","county",30043,"February",2019,5438,5672,234
-30,"MT","Montana","Jefferson","county",30043,"March",2019,5433,5667,234
-30,"MT","Montana","Jefferson","county",30043,"April",2019,5468,5641,173
-30,"MT","Montana","Jefferson","county",30043,"May",2019,5530,5667,137
-30,"MT","Montana","Jefferson","county",30043,"June",2019,5546,5717,171
-30,"MT","Montana","Jefferson","county",30043,"July",2019,5689,5852,163
-30,"MT","Montana","Jefferson","county",30043,"August",2019,5631,5796,165
-30,"MT","Montana","Jefferson","county",30043,"September",2019,5499,5661,162
-30,"MT","Montana","Jefferson","county",30043,"October",2019,5504,5681,177
-30,"MT","Montana","Jefferson","county",30043,"November",2019,5516,5704,188
-30,"MT","Montana","Jefferson","county",30043,"December",2019,5444,5655,211
-30,"MT","Montana","Jefferson","county",30043,"January",2020,5453,5700,247
-30,"MT","Montana","Jefferson","county",30043,"February",2020,5479,5708,229
-30,"MT","Montana","Jefferson","county",30043,"March",2020,5512,5753,241
-30,"MT","Montana","Jefferson","county",30043,"April",2020,4847,5363,516
-30,"MT","Montana","Jefferson","county",30043,"May",2020,5062,5446,384
-30,"MT","Montana","Judith Basin","county",30045,"January",2019,880,924,44
-30,"MT","Montana","Judith Basin","county",30045,"February",2019,856,905,49
-30,"MT","Montana","Judith Basin","county",30045,"March",2019,864,900,36
-30,"MT","Montana","Judith Basin","county",30045,"April",2019,892,918,26
-30,"MT","Montana","Judith Basin","county",30045,"May",2019,902,922,20
-30,"MT","Montana","Judith Basin","county",30045,"June",2019,861,885,24
-30,"MT","Montana","Judith Basin","county",30045,"July",2019,890,912,22
-30,"MT","Montana","Judith Basin","county",30045,"August",2019,920,941,21
-30,"MT","Montana","Judith Basin","county",30045,"September",2019,978,1002,24
-30,"MT","Montana","Judith Basin","county",30045,"October",2019,1010,1038,28
-30,"MT","Montana","Judith Basin","county",30045,"November",2019,996,1023,27
-30,"MT","Montana","Judith Basin","county",30045,"December",2019,976,1008,32
-30,"MT","Montana","Judith Basin","county",30045,"January",2020,918,964,46
-30,"MT","Montana","Judith Basin","county",30045,"February",2020,943,985,42
-30,"MT","Montana","Judith Basin","county",30045,"March",2020,1029,1072,43
-30,"MT","Montana","Judith Basin","county",30045,"April",2020,952,1028,76
-30,"MT","Montana","Judith Basin","county",30045,"May",2020,949,1003,54
-30,"MT","Montana","Lake","county",30047,"January",2019,12137,12829,692
-30,"MT","Montana","Lake","county",30047,"February",2019,12204,12874,670
-30,"MT","Montana","Lake","county",30047,"March",2019,12307,12955,648
-30,"MT","Montana","Lake","county",30047,"April",2019,12489,13014,525
-30,"MT","Montana","Lake","county",30047,"May",2019,12884,13337,453
-30,"MT","Montana","Lake","county",30047,"June",2019,13147,13690,543
-30,"MT","Montana","Lake","county",30047,"July",2019,12952,13480,528
-30,"MT","Montana","Lake","county",30047,"August",2019,12775,13313,538
-30,"MT","Montana","Lake","county",30047,"September",2019,12815,13298,483
-30,"MT","Montana","Lake","county",30047,"October",2019,12758,13273,515
-30,"MT","Montana","Lake","county",30047,"November",2019,12717,13246,529
-30,"MT","Montana","Lake","county",30047,"December",2019,12548,13113,565
-30,"MT","Montana","Lake","county",30047,"January",2020,12432,13195,763
-30,"MT","Montana","Lake","county",30047,"February",2020,12528,13257,729
-30,"MT","Montana","Lake","county",30047,"March",2020,12669,13364,695
-30,"MT","Montana","Lake","county",30047,"April",2020,11232,12435,1203
-30,"MT","Montana","Lake","county",30047,"May",2020,11888,12925,1037
-30,"MT","Montana","Lewis and Clark","county",30049,"January",2019,34067,35459,1392
-30,"MT","Montana","Lewis and Clark","county",30049,"February",2019,34385,35633,1248
-30,"MT","Montana","Lewis and Clark","county",30049,"March",2019,34375,35644,1269
-30,"MT","Montana","Lewis and Clark","county",30049,"April",2019,34505,35453,948
-30,"MT","Montana","Lewis and Clark","county",30049,"May",2019,34970,35797,827
-30,"MT","Montana","Lewis and Clark","county",30049,"June",2019,35127,36200,1073
-30,"MT","Montana","Lewis and Clark","county",30049,"July",2019,35990,36990,1000
-30,"MT","Montana","Lewis and Clark","county",30049,"August",2019,35523,36569,1046
-30,"MT","Montana","Lewis and Clark","county",30049,"September",2019,34633,35586,953
-30,"MT","Montana","Lewis and Clark","county",30049,"October",2019,34562,35525,963
-30,"MT","Montana","Lewis and Clark","county",30049,"November",2019,34729,35723,994
-30,"MT","Montana","Lewis and Clark","county",30049,"December",2019,34244,35311,1067
-30,"MT","Montana","Lewis and Clark","county",30049,"January",2020,34450,35798,1348
-30,"MT","Montana","Lewis and Clark","county",30049,"February",2020,34548,35827,1279
-30,"MT","Montana","Lewis and Clark","county",30049,"March",2020,34750,35991,1241
-30,"MT","Montana","Lewis and Clark","county",30049,"April",2020,30341,33958,3617
-30,"MT","Montana","Lewis and Clark","county",30049,"May",2020,31925,34294,2369
-30,"MT","Montana","Liberty","county",30051,"January",2019,925,958,33
-30,"MT","Montana","Liberty","county",30051,"February",2019,898,923,25
-30,"MT","Montana","Liberty","county",30051,"March",2019,903,930,27
-30,"MT","Montana","Liberty","county",30051,"April",2019,949,968,19
-30,"MT","Montana","Liberty","county",30051,"May",2019,909,928,19
-30,"MT","Montana","Liberty","county",30051,"June",2019,890,914,24
-30,"MT","Montana","Liberty","county",30051,"July",2019,915,938,23
-30,"MT","Montana","Liberty","county",30051,"August",2019,927,949,22
-30,"MT","Montana","Liberty","county",30051,"September",2019,943,967,24
-30,"MT","Montana","Liberty","county",30051,"October",2019,974,1000,26
-30,"MT","Montana","Liberty","county",30051,"November",2019,958,986,28
-30,"MT","Montana","Liberty","county",30051,"December",2019,952,975,23
-30,"MT","Montana","Liberty","county",30051,"January",2020,902,933,31
-30,"MT","Montana","Liberty","county",30051,"February",2020,925,953,28
-30,"MT","Montana","Liberty","county",30051,"March",2020,967,994,27
-30,"MT","Montana","Liberty","county",30051,"April",2020,919,945,26
-30,"MT","Montana","Liberty","county",30051,"May",2020,883,905,22
-30,"MT","Montana","Lincoln","county",30053,"January",2019,7164,7963,799
-30,"MT","Montana","Lincoln","county",30053,"February",2019,7155,7872,717
-30,"MT","Montana","Lincoln","county",30053,"March",2019,7209,7922,713
-30,"MT","Montana","Lincoln","county",30053,"April",2019,7351,7963,612
-30,"MT","Montana","Lincoln","county",30053,"May",2019,7643,8097,454
-30,"MT","Montana","Lincoln","county",30053,"June",2019,7759,8264,505
-30,"MT","Montana","Lincoln","county",30053,"July",2019,7736,8211,475
-30,"MT","Montana","Lincoln","county",30053,"August",2019,7781,8274,493
-30,"MT","Montana","Lincoln","county",30053,"September",2019,7646,8132,486
-30,"MT","Montana","Lincoln","county",30053,"October",2019,7668,8173,505
-30,"MT","Montana","Lincoln","county",30053,"November",2019,7544,8117,573
-30,"MT","Montana","Lincoln","county",30053,"December",2019,7334,8038,704
-30,"MT","Montana","Lincoln","county",30053,"January",2020,7260,8098,838
-30,"MT","Montana","Lincoln","county",30053,"February",2020,7261,8042,781
-30,"MT","Montana","Lincoln","county",30053,"March",2020,7212,8088,876
-30,"MT","Montana","Lincoln","county",30053,"April",2020,6465,7931,1466
-30,"MT","Montana","Lincoln","county",30053,"May",2020,6905,7905,1000
-30,"MT","Montana","McCone","county",30055,"January",2019,924,942,18
-30,"MT","Montana","McCone","county",30055,"February",2019,898,912,14
-30,"MT","Montana","McCone","county",30055,"March",2019,894,913,19
-30,"MT","Montana","McCone","county",30055,"April",2019,928,943,15
-30,"MT","Montana","McCone","county",30055,"May",2019,923,937,14
-30,"MT","Montana","McCone","county",30055,"June",2019,919,939,20
-30,"MT","Montana","McCone","county",30055,"July",2019,927,953,26
-30,"MT","Montana","McCone","county",30055,"August",2019,933,951,18
-30,"MT","Montana","McCone","county",30055,"September",2019,950,970,20
-30,"MT","Montana","McCone","county",30055,"October",2019,976,998,22
-30,"MT","Montana","McCone","county",30055,"November",2019,953,971,18
-30,"MT","Montana","McCone","county",30055,"December",2019,953,974,21
-30,"MT","Montana","McCone","county",30055,"January",2020,908,930,22
-30,"MT","Montana","McCone","county",30055,"February",2020,931,951,20
-30,"MT","Montana","McCone","county",30055,"March",2020,930,950,20
-30,"MT","Montana","McCone","county",30055,"April",2020,872,900,28
-30,"MT","Montana","McCone","county",30055,"May",2020,858,889,31
-30,"MT","Montana","Madison","county",30057,"January",2019,5125,5340,215
-30,"MT","Montana","Madison","county",30057,"February",2019,5072,5282,210
-30,"MT","Montana","Madison","county",30057,"March",2019,5094,5277,183
-30,"MT","Montana","Madison","county",30057,"April",2019,4957,5084,127
-30,"MT","Montana","Madison","county",30057,"May",2019,4330,4445,115
-30,"MT","Montana","Madison","county",30057,"June",2019,4340,4470,130
-30,"MT","Montana","Madison","county",30057,"July",2019,4667,4783,116
-30,"MT","Montana","Madison","county",30057,"August",2019,4610,4732,122
-30,"MT","Montana","Madison","county",30057,"September",2019,4331,4455,124
-30,"MT","Montana","Madison","county",30057,"October",2019,4064,4209,145
-30,"MT","Montana","Madison","county",30057,"November",2019,4241,4429,188
-30,"MT","Montana","Madison","county",30057,"December",2019,5014,5187,173
-30,"MT","Montana","Madison","county",30057,"January",2020,5324,5524,200
-30,"MT","Montana","Madison","county",30057,"February",2020,5351,5554,203
-30,"MT","Montana","Madison","county",30057,"March",2020,5201,5397,196
-30,"MT","Montana","Madison","county",30057,"April",2020,4502,4909,407
-30,"MT","Montana","Madison","county",30057,"May",2020,4003,4323,320
-30,"MT","Montana","Meagher","county",30059,"January",2019,947,998,51
-30,"MT","Montana","Meagher","county",30059,"February",2019,948,992,44
-30,"MT","Montana","Meagher","county",30059,"March",2019,928,969,41
-30,"MT","Montana","Meagher","county",30059,"April",2019,918,950,32
-30,"MT","Montana","Meagher","county",30059,"May",2019,869,896,27
-30,"MT","Montana","Meagher","county",30059,"June",2019,868,896,28
-30,"MT","Montana","Meagher","county",30059,"July",2019,957,983,26
-30,"MT","Montana","Meagher","county",30059,"August",2019,885,906,21
-30,"MT","Montana","Meagher","county",30059,"September",2019,904,930,26
-30,"MT","Montana","Meagher","county",30059,"October",2019,923,951,28
-30,"MT","Montana","Meagher","county",30059,"November",2019,947,978,31
-30,"MT","Montana","Meagher","county",30059,"December",2019,967,1002,35
-30,"MT","Montana","Meagher","county",30059,"January",2020,955,995,40
-30,"MT","Montana","Meagher","county",30059,"February",2020,970,1008,38
-30,"MT","Montana","Meagher","county",30059,"March",2020,961,993,32
-30,"MT","Montana","Meagher","county",30059,"April",2020,833,903,70
-30,"MT","Montana","Meagher","county",30059,"May",2020,812,869,57
-30,"MT","Montana","Mineral","county",30061,"January",2019,1563,1709,146
-30,"MT","Montana","Mineral","county",30061,"February",2019,1547,1689,142
-30,"MT","Montana","Mineral","county",30061,"March",2019,1572,1689,117
-30,"MT","Montana","Mineral","county",30061,"April",2019,1644,1741,97
-30,"MT","Montana","Mineral","county",30061,"May",2019,1727,1801,74
-30,"MT","Montana","Mineral","county",30061,"June",2019,1741,1836,95
-30,"MT","Montana","Mineral","county",30061,"July",2019,1777,1854,77
-30,"MT","Montana","Mineral","county",30061,"August",2019,1741,1824,83
-30,"MT","Montana","Mineral","county",30061,"September",2019,1710,1793,83
-30,"MT","Montana","Mineral","county",30061,"October",2019,1666,1747,81
-30,"MT","Montana","Mineral","county",30061,"November",2019,1624,1714,90
-30,"MT","Montana","Mineral","county",30061,"December",2019,1573,1683,110
-30,"MT","Montana","Mineral","county",30061,"January",2020,1577,1770,193
-30,"MT","Montana","Mineral","county",30061,"February",2020,1590,1774,184
-30,"MT","Montana","Mineral","county",30061,"March",2020,1594,1785,191
-30,"MT","Montana","Mineral","county",30061,"April",2020,1439,1760,321
-30,"MT","Montana","Mineral","county",30061,"May",2020,1553,1779,226
-30,"MT","Montana","Missoula","county",30063,"January",2019,60366,63097,2731
-30,"MT","Montana","Missoula","county",30063,"February",2019,61090,63570,2480
-30,"MT","Montana","Missoula","county",30063,"March",2019,61236,63711,2475
-30,"MT","Montana","Missoula","county",30063,"April",2019,61632,63578,1946
-30,"MT","Montana","Missoula","county",30063,"May",2019,62547,64193,1646
-30,"MT","Montana","Missoula","county",30063,"June",2019,62426,64333,1907
-30,"MT","Montana","Missoula","county",30063,"July",2019,61580,63386,1806
-30,"MT","Montana","Missoula","county",30063,"August",2019,61812,63580,1768
-30,"MT","Montana","Missoula","county",30063,"September",2019,62579,64326,1747
-30,"MT","Montana","Missoula","county",30063,"October",2019,62603,64444,1841
-30,"MT","Montana","Missoula","county",30063,"November",2019,62028,64012,1984
-30,"MT","Montana","Missoula","county",30063,"December",2019,61409,63664,2255
-30,"MT","Montana","Missoula","county",30063,"January",2020,61591,64234,2643
-30,"MT","Montana","Missoula","county",30063,"February",2020,61886,64456,2570
-30,"MT","Montana","Missoula","county",30063,"March",2020,61734,64332,2598
-30,"MT","Montana","Missoula","county",30063,"April",2020,55553,64082,8529
-30,"MT","Montana","Missoula","county",30063,"May",2020,58042,64014,5972
-30,"MT","Montana","Musselshell","county",30065,"January",2019,2144,2252,108
-30,"MT","Montana","Musselshell","county",30065,"February",2019,2134,2239,105
-30,"MT","Montana","Musselshell","county",30065,"March",2019,2143,2248,105
-30,"MT","Montana","Musselshell","county",30065,"April",2019,2182,2266,84
-30,"MT","Montana","Musselshell","county",30065,"May",2019,2172,2235,63
-30,"MT","Montana","Musselshell","county",30065,"June",2019,2192,2275,83
-30,"MT","Montana","Musselshell","county",30065,"July",2019,2183,2266,83
-30,"MT","Montana","Musselshell","county",30065,"August",2019,2175,2253,78
-30,"MT","Montana","Musselshell","county",30065,"September",2019,2189,2272,83
-30,"MT","Montana","Musselshell","county",30065,"October",2019,2205,2282,77
-30,"MT","Montana","Musselshell","county",30065,"November",2019,2211,2301,90
-30,"MT","Montana","Musselshell","county",30065,"December",2019,2188,2280,92
-30,"MT","Montana","Musselshell","county",30065,"January",2020,2151,2296,145
-30,"MT","Montana","Musselshell","county",30065,"February",2020,2164,2293,129
-30,"MT","Montana","Musselshell","county",30065,"March",2020,2148,2263,115
-30,"MT","Montana","Musselshell","county",30065,"April",2020,1936,2145,209
-30,"MT","Montana","Musselshell","county",30065,"May",2020,1991,2156,165
-30,"MT","Montana","Park","county",30067,"January",2019,8021,8471,450
-30,"MT","Montana","Park","county",30067,"February",2019,8095,8458,363
-30,"MT","Montana","Park","county",30067,"March",2019,8142,8526,384
-30,"MT","Montana","Park","county",30067,"April",2019,8332,8629,297
-30,"MT","Montana","Park","county",30067,"May",2019,8677,8938,261
-30,"MT","Montana","Park","county",30067,"June",2019,9040,9316,276
-30,"MT","Montana","Park","county",30067,"July",2019,9226,9467,241
-30,"MT","Montana","Park","county",30067,"August",2019,9265,9496,231
-30,"MT","Montana","Park","county",30067,"September",2019,8878,9105,227
-30,"MT","Montana","Park","county",30067,"October",2019,8768,9020,252
-30,"MT","Montana","Park","county",30067,"November",2019,8484,8811,327
-30,"MT","Montana","Park","county",30067,"December",2019,8345,8699,354
-30,"MT","Montana","Park","county",30067,"January",2020,8234,8618,384
-30,"MT","Montana","Park","county",30067,"February",2020,8304,8694,390
-30,"MT","Montana","Park","county",30067,"March",2020,8382,8801,419
-30,"MT","Montana","Park","county",30067,"April",2020,7501,9034,1533
-30,"MT","Montana","Park","county",30067,"May",2020,8065,9232,1167
-30,"MT","Montana","Petroleum","county",30069,"January",2019,268,283,15
-30,"MT","Montana","Petroleum","county",30069,"February",2019,260,273,13
-30,"MT","Montana","Petroleum","county",30069,"March",2019,259,271,12
-30,"MT","Montana","Petroleum","county",30069,"April",2019,270,278,8
-30,"MT","Montana","Petroleum","county",30069,"May",2019,264,270,6
-30,"MT","Montana","Petroleum","county",30069,"June",2019,262,270,8
-30,"MT","Montana","Petroleum","county",30069,"July",2019,267,274,7
-30,"MT","Montana","Petroleum","county",30069,"August",2019,271,279,8
-30,"MT","Montana","Petroleum","county",30069,"September",2019,275,283,8
-30,"MT","Montana","Petroleum","county",30069,"October",2019,283,292,9
-30,"MT","Montana","Petroleum","county",30069,"November",2019,277,288,11
-30,"MT","Montana","Petroleum","county",30069,"December",2019,276,289,13
-30,"MT","Montana","Petroleum","county",30069,"January",2020,263,273,10
-30,"MT","Montana","Petroleum","county",30069,"February",2020,269,283,14
-30,"MT","Montana","Petroleum","county",30069,"March",2020,269,280,11
-30,"MT","Montana","Petroleum","county",30069,"April",2020,255,263,8
-30,"MT","Montana","Petroleum","county",30069,"May",2020,249,259,10
-30,"MT","Montana","Phillips","county",30071,"January",2019,1801,1901,100
-30,"MT","Montana","Phillips","county",30071,"February",2019,1763,1856,93
-30,"MT","Montana","Phillips","county",30071,"March",2019,1762,1847,85
-30,"MT","Montana","Phillips","county",30071,"April",2019,1813,1886,73
-30,"MT","Montana","Phillips","county",30071,"May",2019,1795,1841,46
-30,"MT","Montana","Phillips","county",30071,"June",2019,1791,1854,63
-30,"MT","Montana","Phillips","county",30071,"July",2019,1773,1838,65
-30,"MT","Montana","Phillips","county",30071,"August",2019,1824,1875,51
-30,"MT","Montana","Phillips","county",30071,"September",2019,1849,1902,53
-30,"MT","Montana","Phillips","county",30071,"October",2019,1890,1948,58
-30,"MT","Montana","Phillips","county",30071,"November",2019,1855,1919,64
-30,"MT","Montana","Phillips","county",30071,"December",2019,1842,1928,86
-30,"MT","Montana","Phillips","county",30071,"January",2020,1767,1866,99
-30,"MT","Montana","Phillips","county",30071,"February",2020,1790,1876,86
-30,"MT","Montana","Phillips","county",30071,"March",2020,1816,1900,84
-30,"MT","Montana","Phillips","county",30071,"April",2020,1667,1807,140
-30,"MT","Montana","Phillips","county",30071,"May",2020,1682,1790,108
-30,"MT","Montana","Pondera","county",30073,"January",2019,2542,2677,135
-30,"MT","Montana","Pondera","county",30073,"February",2019,2551,2683,132
-30,"MT","Montana","Pondera","county",30073,"March",2019,2536,2666,130
-30,"MT","Montana","Pondera","county",30073,"April",2019,2563,2662,99
-30,"MT","Montana","Pondera","county",30073,"May",2019,2610,2695,85
-30,"MT","Montana","Pondera","county",30073,"June",2019,2604,2711,107
-30,"MT","Montana","Pondera","county",30073,"July",2019,2523,2626,103
-30,"MT","Montana","Pondera","county",30073,"August",2019,2563,2651,88
-30,"MT","Montana","Pondera","county",30073,"September",2019,2560,2643,83
-30,"MT","Montana","Pondera","county",30073,"October",2019,2625,2705,80
-30,"MT","Montana","Pondera","county",30073,"November",2019,2590,2671,81
-30,"MT","Montana","Pondera","county",30073,"December",2019,2570,2656,86
-30,"MT","Montana","Pondera","county",30073,"January",2020,2503,2602,99
-30,"MT","Montana","Pondera","county",30073,"February",2020,2551,2641,90
-30,"MT","Montana","Pondera","county",30073,"March",2020,2561,2664,103
-30,"MT","Montana","Pondera","county",30073,"April",2020,2333,2517,184
-30,"MT","Montana","Pondera","county",30073,"May",2020,2380,2542,162
-30,"MT","Montana","Powder River","county",30075,"January",2019,920,955,35
-30,"MT","Montana","Powder River","county",30075,"February",2019,895,926,31
-30,"MT","Montana","Powder River","county",30075,"March",2019,885,912,27
-30,"MT","Montana","Powder River","county",30075,"April",2019,922,938,16
-30,"MT","Montana","Powder River","county",30075,"May",2019,927,942,15
-30,"MT","Montana","Powder River","county",30075,"June",2019,932,952,20
-30,"MT","Montana","Powder River","county",30075,"July",2019,927,946,19
-30,"MT","Montana","Powder River","county",30075,"August",2019,952,971,19
-30,"MT","Montana","Powder River","county",30075,"September",2019,963,984,21
-30,"MT","Montana","Powder River","county",30075,"October",2019,985,1007,22
-30,"MT","Montana","Powder River","county",30075,"November",2019,976,1000,24
-30,"MT","Montana","Powder River","county",30075,"December",2019,952,975,23
-30,"MT","Montana","Powder River","county",30075,"January",2020,911,939,28
-30,"MT","Montana","Powder River","county",30075,"February",2020,927,956,29
-30,"MT","Montana","Powder River","county",30075,"March",2020,939,971,32
-30,"MT","Montana","Powder River","county",30075,"April",2020,880,929,49
-30,"MT","Montana","Powder River","county",30075,"May",2020,876,911,35
-30,"MT","Montana","Powell","county",30077,"January",2019,2664,2788,124
-30,"MT","Montana","Powell","county",30077,"February",2019,2702,2831,129
-30,"MT","Montana","Powell","county",30077,"March",2019,2725,2860,135
-30,"MT","Montana","Powell","county",30077,"April",2019,2794,2914,120
-30,"MT","Montana","Powell","county",30077,"May",2019,2870,2975,105
-30,"MT","Montana","Powell","county",30077,"June",2019,2946,3044,98
-30,"MT","Montana","Powell","county",30077,"July",2019,3007,3094,87
-30,"MT","Montana","Powell","county",30077,"August",2019,2968,3066,98
-30,"MT","Montana","Powell","county",30077,"September",2019,2928,3025,97
-30,"MT","Montana","Powell","county",30077,"October",2019,2940,3040,100
-30,"MT","Montana","Powell","county",30077,"November",2019,2930,3037,107
-30,"MT","Montana","Powell","county",30077,"December",2019,2907,3008,101
-30,"MT","Montana","Powell","county",30077,"January",2020,2762,2891,129
-30,"MT","Montana","Powell","county",30077,"February",2020,2797,2921,124
-30,"MT","Montana","Powell","county",30077,"March",2020,2734,2874,140
-30,"MT","Montana","Powell","county",30077,"April",2020,2457,2737,280
-30,"MT","Montana","Powell","county",30077,"May",2020,2579,2762,183
-30,"MT","Montana","Prairie","county",30079,"January",2019,456,478,22
-30,"MT","Montana","Prairie","county",30079,"February",2019,455,472,17
-30,"MT","Montana","Prairie","county",30079,"March",2019,446,463,17
-30,"MT","Montana","Prairie","county",30079,"April",2019,454,470,16
-30,"MT","Montana","Prairie","county",30079,"May",2019,457,472,15
-30,"MT","Montana","Prairie","county",30079,"June",2019,440,458,18
-30,"MT","Montana","Prairie","county",30079,"July",2019,458,477,19
-30,"MT","Montana","Prairie","county",30079,"August",2019,465,484,19
-30,"MT","Montana","Prairie","county",30079,"September",2019,465,485,20
-30,"MT","Montana","Prairie","county",30079,"October",2019,471,490,19
-30,"MT","Montana","Prairie","county",30079,"November",2019,478,495,17
-30,"MT","Montana","Prairie","county",30079,"December",2019,464,481,17
-30,"MT","Montana","Prairie","county",30079,"January",2020,449,473,24
-30,"MT","Montana","Prairie","county",30079,"February",2020,460,484,24
-30,"MT","Montana","Prairie","county",30079,"March",2020,454,477,23
-30,"MT","Montana","Prairie","county",30079,"April",2020,412,439,27
-30,"MT","Montana","Prairie","county",30079,"May",2020,423,457,34
-30,"MT","Montana","Ravalli","county",30081,"January",2019,18676,19823,1147
-30,"MT","Montana","Ravalli","county",30081,"February",2019,18734,19824,1090
-30,"MT","Montana","Ravalli","county",30081,"March",2019,18904,19952,1048
-30,"MT","Montana","Ravalli","county",30081,"April",2019,19312,20103,791
-30,"MT","Montana","Ravalli","county",30081,"May",2019,19679,20337,658
-30,"MT","Montana","Ravalli","county",30081,"June",2019,19836,20611,775
-30,"MT","Montana","Ravalli","county",30081,"July",2019,19727,20435,708
-30,"MT","Montana","Ravalli","county",30081,"August",2019,19668,20365,697
-30,"MT","Montana","Ravalli","county",30081,"September",2019,19613,20279,666
-30,"MT","Montana","Ravalli","county",30081,"October",2019,19774,20449,675
-30,"MT","Montana","Ravalli","county",30081,"November",2019,19677,20408,731
-30,"MT","Montana","Ravalli","county",30081,"December",2019,19327,20172,845
-30,"MT","Montana","Ravalli","county",30081,"January",2020,19217,20261,1044
-30,"MT","Montana","Ravalli","county",30081,"February",2020,19320,20338,1018
-30,"MT","Montana","Ravalli","county",30081,"March",2020,19408,20403,995
-30,"MT","Montana","Ravalli","county",30081,"April",2020,17296,19388,2092
-30,"MT","Montana","Ravalli","county",30081,"May",2020,18117,19562,1445
-30,"MT","Montana","Richland","county",30083,"January",2019,5662,5825,163
-30,"MT","Montana","Richland","county",30083,"February",2019,5619,5765,146
-30,"MT","Montana","Richland","county",30083,"March",2019,5623,5802,179
-30,"MT","Montana","Richland","county",30083,"April",2019,5646,5797,151
-30,"MT","Montana","Richland","county",30083,"May",2019,5689,5822,133
-30,"MT","Montana","Richland","county",30083,"June",2019,5676,5840,164
-30,"MT","Montana","Richland","county",30083,"July",2019,5729,5880,151
-30,"MT","Montana","Richland","county",30083,"August",2019,5929,6096,167
-30,"MT","Montana","Richland","county",30083,"September",2019,5664,5833,169
-30,"MT","Montana","Richland","county",30083,"October",2019,5854,6015,161
-30,"MT","Montana","Richland","county",30083,"November",2019,5827,5971,144
-30,"MT","Montana","Richland","county",30083,"December",2019,5774,5917,143
-30,"MT","Montana","Richland","county",30083,"January",2020,5712,5900,188
-30,"MT","Montana","Richland","county",30083,"February",2020,5723,5904,181
-30,"MT","Montana","Richland","county",30083,"March",2020,5557,5749,192
-30,"MT","Montana","Richland","county",30083,"April",2020,4862,5475,613
-30,"MT","Montana","Richland","county",30083,"May",2020,5044,5573,529
-30,"MT","Montana","Roosevelt","county",30085,"January",2019,4278,4503,225
-30,"MT","Montana","Roosevelt","county",30085,"February",2019,4257,4467,210
-30,"MT","Montana","Roosevelt","county",30085,"March",2019,4239,4472,233
-30,"MT","Montana","Roosevelt","county",30085,"April",2019,4322,4533,211
-30,"MT","Montana","Roosevelt","county",30085,"May",2019,4395,4554,159
-30,"MT","Montana","Roosevelt","county",30085,"June",2019,4405,4610,205
-30,"MT","Montana","Roosevelt","county",30085,"July",2019,4245,4464,219
-30,"MT","Montana","Roosevelt","county",30085,"August",2019,4277,4469,192
-30,"MT","Montana","Roosevelt","county",30085,"September",2019,4292,4455,163
-30,"MT","Montana","Roosevelt","county",30085,"October",2019,4345,4508,163
-30,"MT","Montana","Roosevelt","county",30085,"November",2019,4343,4505,162
-30,"MT","Montana","Roosevelt","county",30085,"December",2019,4293,4474,181
-30,"MT","Montana","Roosevelt","county",30085,"January",2020,4245,4461,216
-30,"MT","Montana","Roosevelt","county",30085,"February",2020,4270,4492,222
-30,"MT","Montana","Roosevelt","county",30085,"March",2020,4202,4427,225
-30,"MT","Montana","Roosevelt","county",30085,"April",2020,3734,4060,326
-30,"MT","Montana","Roosevelt","county",30085,"May",2020,3908,4235,327
-30,"MT","Montana","Rosebud","county",30087,"January",2019,3545,3769,224
-30,"MT","Montana","Rosebud","county",30087,"February",2019,3523,3732,209
-30,"MT","Montana","Rosebud","county",30087,"March",2019,3531,3748,217
-30,"MT","Montana","Rosebud","county",30087,"April",2019,3605,3781,176
-30,"MT","Montana","Rosebud","county",30087,"May",2019,3669,3822,153
-30,"MT","Montana","Rosebud","county",30087,"June",2019,3596,3818,222
-30,"MT","Montana","Rosebud","county",30087,"July",2019,3690,3902,212
-30,"MT","Montana","Rosebud","county",30087,"August",2019,3767,3986,219
-30,"MT","Montana","Rosebud","county",30087,"September",2019,3669,3831,162
-30,"MT","Montana","Rosebud","county",30087,"October",2019,3725,3904,179
-30,"MT","Montana","Rosebud","county",30087,"November",2019,3676,3848,172
-30,"MT","Montana","Rosebud","county",30087,"December",2019,3621,3779,158
-30,"MT","Montana","Rosebud","county",30087,"January",2020,3546,3732,186
-30,"MT","Montana","Rosebud","county",30087,"February",2020,3580,3768,188
-30,"MT","Montana","Rosebud","county",30087,"March",2020,3573,3754,181
-30,"MT","Montana","Rosebud","county",30087,"April",2020,3242,3513,271
-30,"MT","Montana","Rosebud","county",30087,"May",2020,3463,3760,297
-30,"MT","Montana","Sanders","county",30089,"January",2019,4327,4743,416
-30,"MT","Montana","Sanders","county",30089,"February",2019,4368,4763,395
-30,"MT","Montana","Sanders","county",30089,"March",2019,4346,4717,371
-30,"MT","Montana","Sanders","county",30089,"April",2019,4502,4807,305
-30,"MT","Montana","Sanders","county",30089,"May",2019,4659,4879,220
-30,"MT","Montana","Sanders","county",30089,"June",2019,4671,4933,262
-30,"MT","Montana","Sanders","county",30089,"July",2019,4672,4913,241
-30,"MT","Montana","Sanders","county",30089,"August",2019,4725,4975,250
-30,"MT","Montana","Sanders","county",30089,"September",2019,4675,4891,216
-30,"MT","Montana","Sanders","county",30089,"October",2019,4670,4888,218
-30,"MT","Montana","Sanders","county",30089,"November",2019,4616,4849,233
-30,"MT","Montana","Sanders","county",30089,"December",2019,4476,4771,295
-30,"MT","Montana","Sanders","county",30089,"January",2020,4405,4811,406
-30,"MT","Montana","Sanders","county",30089,"February",2020,4434,4817,383
-30,"MT","Montana","Sanders","county",30089,"March",2020,4507,4870,363
-30,"MT","Montana","Sanders","county",30089,"April",2020,4066,4727,661
-30,"MT","Montana","Sanders","county",30089,"May",2020,4288,4765,477
-30,"MT","Montana","Sheridan","county",30091,"January",2019,1693,1748,55
-30,"MT","Montana","Sheridan","county",30091,"February",2019,1685,1725,40
-30,"MT","Montana","Sheridan","county",30091,"March",2019,1714,1763,49
-30,"MT","Montana","Sheridan","county",30091,"April",2019,1720,1752,32
-30,"MT","Montana","Sheridan","county",30091,"May",2019,1707,1739,32
-30,"MT","Montana","Sheridan","county",30091,"June",2019,1714,1751,37
-30,"MT","Montana","Sheridan","county",30091,"July",2019,1645,1675,30
-30,"MT","Montana","Sheridan","county",30091,"August",2019,1705,1740,35
-30,"MT","Montana","Sheridan","county",30091,"September",2019,1700,1738,38
-30,"MT","Montana","Sheridan","county",30091,"October",2019,1729,1768,39
-30,"MT","Montana","Sheridan","county",30091,"November",2019,1718,1758,40
-30,"MT","Montana","Sheridan","county",30091,"December",2019,1699,1741,42
-30,"MT","Montana","Sheridan","county",30091,"January",2020,1666,1722,56
-30,"MT","Montana","Sheridan","county",30091,"February",2020,1680,1727,47
-30,"MT","Montana","Sheridan","county",30091,"March",2020,1722,1779,57
-30,"MT","Montana","Sheridan","county",30091,"April",2020,1548,1689,141
-30,"MT","Montana","Sheridan","county",30091,"May",2020,1575,1680,105
-30,"MT","Montana","Silver Bow","county",30093,"January",2019,16163,16956,793
-30,"MT","Montana","Silver Bow","county",30093,"February",2019,16274,17020,746
-30,"MT","Montana","Silver Bow","county",30093,"March",2019,16192,16957,765
-30,"MT","Montana","Silver Bow","county",30093,"April",2019,16451,17086,635
-30,"MT","Montana","Silver Bow","county",30093,"May",2019,16575,17086,511
-30,"MT","Montana","Silver Bow","county",30093,"June",2019,16808,17455,647
-30,"MT","Montana","Silver Bow","county",30093,"July",2019,17154,17766,612
-30,"MT","Montana","Silver Bow","county",30093,"August",2019,16987,17621,634
-30,"MT","Montana","Silver Bow","county",30093,"September",2019,16465,17009,544
-30,"MT","Montana","Silver Bow","county",30093,"October",2019,16522,17123,601
-30,"MT","Montana","Silver Bow","county",30093,"November",2019,16570,17202,632
-30,"MT","Montana","Silver Bow","county",30093,"December",2019,16347,17017,670
-30,"MT","Montana","Silver Bow","county",30093,"January",2020,16390,17201,811
-30,"MT","Montana","Silver Bow","county",30093,"February",2020,16386,17165,779
-30,"MT","Montana","Silver Bow","county",30093,"March",2020,16266,17067,801
-30,"MT","Montana","Silver Bow","county",30093,"April",2020,14269,16567,2298
-30,"MT","Montana","Silver Bow","county",30093,"May",2020,14963,16443,1480
-30,"MT","Montana","Stillwater","county",30095,"January",2019,4806,5001,195
-30,"MT","Montana","Stillwater","county",30095,"February",2019,4825,5035,210
-30,"MT","Montana","Stillwater","county",30095,"March",2019,4821,5030,209
-30,"MT","Montana","Stillwater","county",30095,"April",2019,4962,5115,153
-30,"MT","Montana","Stillwater","county",30095,"May",2019,5017,5153,136
-30,"MT","Montana","Stillwater","county",30095,"June",2019,4900,5055,155
-30,"MT","Montana","Stillwater","county",30095,"July",2019,5063,5208,145
-30,"MT","Montana","Stillwater","county",30095,"August",2019,5099,5242,143
-30,"MT","Montana","Stillwater","county",30095,"September",2019,5164,5301,137
-30,"MT","Montana","Stillwater","county",30095,"October",2019,5213,5353,140
-30,"MT","Montana","Stillwater","county",30095,"November",2019,5201,5352,151
-30,"MT","Montana","Stillwater","county",30095,"December",2019,5140,5310,170
-30,"MT","Montana","Stillwater","county",30095,"January",2020,5114,5315,201
-30,"MT","Montana","Stillwater","county",30095,"February",2020,5151,5335,184
-30,"MT","Montana","Stillwater","county",30095,"March",2020,5224,5401,177
-30,"MT","Montana","Stillwater","county",30095,"April",2020,4690,5180,490
-30,"MT","Montana","Stillwater","county",30095,"May",2020,4878,5223,345
-30,"MT","Montana","Sweet Grass","county",30097,"January",2019,1706,1767,61
-30,"MT","Montana","Sweet Grass","county",30097,"February",2019,1683,1740,57
-30,"MT","Montana","Sweet Grass","county",30097,"March",2019,1676,1727,51
-30,"MT","Montana","Sweet Grass","county",30097,"April",2019,1713,1763,50
-30,"MT","Montana","Sweet Grass","county",30097,"May",2019,1734,1778,44
-30,"MT","Montana","Sweet Grass","county",30097,"June",2019,1774,1825,51
-30,"MT","Montana","Sweet Grass","county",30097,"July",2019,1765,1811,46
-30,"MT","Montana","Sweet Grass","county",30097,"August",2019,1762,1807,45
-30,"MT","Montana","Sweet Grass","county",30097,"September",2019,1788,1830,42
-30,"MT","Montana","Sweet Grass","county",30097,"October",2019,1814,1863,49
-30,"MT","Montana","Sweet Grass","county",30097,"November",2019,1790,1837,47
-30,"MT","Montana","Sweet Grass","county",30097,"December",2019,1765,1816,51
-30,"MT","Montana","Sweet Grass","county",30097,"January",2020,1729,1794,65
-30,"MT","Montana","Sweet Grass","county",30097,"February",2020,1750,1803,53
-30,"MT","Montana","Sweet Grass","county",30097,"March",2020,1750,1806,56
-30,"MT","Montana","Sweet Grass","county",30097,"April",2020,1590,1707,117
-30,"MT","Montana","Sweet Grass","county",30097,"May",2020,1633,1713,80
-30,"MT","Montana","Teton","county",30099,"January",2019,2587,2706,119
-30,"MT","Montana","Teton","county",30099,"February",2019,2559,2667,108
-30,"MT","Montana","Teton","county",30099,"March",2019,2543,2650,107
-30,"MT","Montana","Teton","county",30099,"April",2019,2654,2739,85
-30,"MT","Montana","Teton","county",30099,"May",2019,2683,2753,70
-30,"MT","Montana","Teton","county",30099,"June",2019,2695,2776,81
-30,"MT","Montana","Teton","county",30099,"July",2019,2651,2726,75
-30,"MT","Montana","Teton","county",30099,"August",2019,2688,2762,74
-30,"MT","Montana","Teton","county",30099,"September",2019,2686,2762,76
-30,"MT","Montana","Teton","county",30099,"October",2019,2718,2801,83
-30,"MT","Montana","Teton","county",30099,"November",2019,2689,2779,90
-30,"MT","Montana","Teton","county",30099,"December",2019,2647,2759,112
-30,"MT","Montana","Teton","county",30099,"January",2020,2586,2723,137
-30,"MT","Montana","Teton","county",30099,"February",2020,2629,2744,115
-30,"MT","Montana","Teton","county",30099,"March",2020,2647,2758,111
-30,"MT","Montana","Teton","county",30099,"April",2020,2432,2616,184
-30,"MT","Montana","Teton","county",30099,"May",2020,2492,2626,134
-30,"MT","Montana","Toole","county",30101,"January",2019,2064,2116,52
-30,"MT","Montana","Toole","county",30101,"February",2019,2032,2081,49
-30,"MT","Montana","Toole","county",30101,"March",2019,2020,2073,53
-30,"MT","Montana","Toole","county",30101,"April",2019,2053,2091,38
-30,"MT","Montana","Toole","county",30101,"May",2019,2068,2112,44
-30,"MT","Montana","Toole","county",30101,"June",2019,2078,2129,51
-30,"MT","Montana","Toole","county",30101,"July",2019,2106,2155,49
-30,"MT","Montana","Toole","county",30101,"August",2019,2104,2155,51
-30,"MT","Montana","Toole","county",30101,"September",2019,2065,2112,47
-30,"MT","Montana","Toole","county",30101,"October",2019,2082,2142,60
-30,"MT","Montana","Toole","county",30101,"November",2019,2054,2115,61
-30,"MT","Montana","Toole","county",30101,"December",2019,2042,2102,60
-30,"MT","Montana","Toole","county",30101,"January",2020,2011,2079,68
-30,"MT","Montana","Toole","county",30101,"February",2020,2023,2093,70
-30,"MT","Montana","Toole","county",30101,"March",2020,2027,2100,73
-30,"MT","Montana","Toole","county",30101,"April",2020,1823,1983,160
-30,"MT","Montana","Toole","county",30101,"May",2020,1881,2025,144
-30,"MT","Montana","Treasure","county",30103,"January",2019,322,334,12
-30,"MT","Montana","Treasure","county",30103,"February",2019,309,321,12
-30,"MT","Montana","Treasure","county",30103,"March",2019,318,333,15
-30,"MT","Montana","Treasure","county",30103,"April",2019,325,334,9
-30,"MT","Montana","Treasure","county",30103,"May",2019,324,331,7
-30,"MT","Montana","Treasure","county",30103,"June",2019,314,323,9
-30,"MT","Montana","Treasure","county",30103,"July",2019,319,326,7
-30,"MT","Montana","Treasure","county",30103,"August",2019,328,338,10
-30,"MT","Montana","Treasure","county",30103,"September",2019,333,341,8
-30,"MT","Montana","Treasure","county",30103,"October",2019,339,346,7
-30,"MT","Montana","Treasure","county",30103,"November",2019,341,348,7
-30,"MT","Montana","Treasure","county",30103,"December",2019,331,339,8
-30,"MT","Montana","Treasure","county",30103,"January",2020,323,331,8
-30,"MT","Montana","Treasure","county",30103,"February",2020,327,335,8
-30,"MT","Montana","Treasure","county",30103,"March",2020,333,341,8
-30,"MT","Montana","Treasure","county",30103,"April",2020,311,326,15
-30,"MT","Montana","Treasure","county",30103,"May",2020,310,325,15
-30,"MT","Montana","Valley","county",30105,"January",2019,3864,4019,155
-30,"MT","Montana","Valley","county",30105,"February",2019,3824,3969,145
-30,"MT","Montana","Valley","county",30105,"March",2019,3819,3966,147
-30,"MT","Montana","Valley","county",30105,"April",2019,3910,4023,113
-30,"MT","Montana","Valley","county",30105,"May",2019,4007,4096,89
-30,"MT","Montana","Valley","county",30105,"June",2019,4032,4151,119
-30,"MT","Montana","Valley","county",30105,"July",2019,4065,4187,122
-30,"MT","Montana","Valley","county",30105,"August",2019,4021,4141,120
-30,"MT","Montana","Valley","county",30105,"September",2019,3968,4101,133
-30,"MT","Montana","Valley","county",30105,"October",2019,4017,4151,134
-30,"MT","Montana","Valley","county",30105,"November",2019,3977,4115,138
-30,"MT","Montana","Valley","county",30105,"December",2019,3901,4037,136
-30,"MT","Montana","Valley","county",30105,"January",2020,3852,4022,170
-30,"MT","Montana","Valley","county",30105,"February",2020,3870,4025,155
-30,"MT","Montana","Valley","county",30105,"March",2020,3914,4069,155
-30,"MT","Montana","Valley","county",30105,"April",2020,3528,3814,286
-30,"MT","Montana","Valley","county",30105,"May",2020,3695,3897,202
-30,"MT","Montana","Wheatland","county",30107,"January",2019,732,775,43
-30,"MT","Montana","Wheatland","county",30107,"February",2019,720,759,39
-30,"MT","Montana","Wheatland","county",30107,"March",2019,727,759,32
-30,"MT","Montana","Wheatland","county",30107,"April",2019,751,774,23
-30,"MT","Montana","Wheatland","county",30107,"May",2019,756,777,21
-30,"MT","Montana","Wheatland","county",30107,"June",2019,727,755,28
-30,"MT","Montana","Wheatland","county",30107,"July",2019,740,769,29
-30,"MT","Montana","Wheatland","county",30107,"August",2019,772,801,29
-30,"MT","Montana","Wheatland","county",30107,"September",2019,774,798,24
-30,"MT","Montana","Wheatland","county",30107,"October",2019,795,820,25
-30,"MT","Montana","Wheatland","county",30107,"November",2019,791,819,28
-30,"MT","Montana","Wheatland","county",30107,"December",2019,775,810,35
-30,"MT","Montana","Wheatland","county",30107,"January",2020,728,775,47
-30,"MT","Montana","Wheatland","county",30107,"February",2020,747,785,38
-30,"MT","Montana","Wheatland","county",30107,"March",2020,756,796,40
-30,"MT","Montana","Wheatland","county",30107,"April",2020,717,815,98
-30,"MT","Montana","Wheatland","county",30107,"May",2020,710,788,78
-30,"MT","Montana","Wibaux","county",30109,"January",2019,447,464,17
-30,"MT","Montana","Wibaux","county",30109,"February",2019,433,445,12
-30,"MT","Montana","Wibaux","county",30109,"March",2019,428,442,14
-30,"MT","Montana","Wibaux","county",30109,"April",2019,436,450,14
-30,"MT","Montana","Wibaux","county",30109,"May",2019,448,459,11
-30,"MT","Montana","Wibaux","county",30109,"June",2019,453,467,14
-30,"MT","Montana","Wibaux","county",30109,"July",2019,470,483,13
-30,"MT","Montana","Wibaux","county",30109,"August",2019,462,472,10
-30,"MT","Montana","Wibaux","county",30109,"September",2019,447,462,15
-30,"MT","Montana","Wibaux","county",30109,"October",2019,458,473,15
-30,"MT","Montana","Wibaux","county",30109,"November",2019,442,456,14
-30,"MT","Montana","Wibaux","county",30109,"December",2019,446,459,13
-30,"MT","Montana","Wibaux","county",30109,"January",2020,437,451,14
-30,"MT","Montana","Wibaux","county",30109,"February",2020,438,452,14
-30,"MT","Montana","Wibaux","county",30109,"March",2020,427,444,17
-30,"MT","Montana","Wibaux","county",30109,"April",2020,395,441,46
-30,"MT","Montana","Wibaux","county",30109,"May",2020,408,435,27
-30,"MT","Montana","Yellowstone","county",30111,"January",2019,78249,81315,3066
-30,"MT","Montana","Yellowstone","county",30111,"February",2019,78407,81482,3075
-30,"MT","Montana","Yellowstone","county",30111,"March",2019,78674,81709,3035
-30,"MT","Montana","Yellowstone","county",30111,"April",2019,79269,81651,2382
-30,"MT","Montana","Yellowstone","county",30111,"May",2019,79672,81792,2120
-30,"MT","Montana","Yellowstone","county",30111,"June",2019,79697,82501,2804
-30,"MT","Montana","Yellowstone","county",30111,"July",2019,79763,82360,2597
-30,"MT","Montana","Yellowstone","county",30111,"August",2019,79719,82243,2524
-30,"MT","Montana","Yellowstone","county",30111,"September",2019,79527,81865,2338
-30,"MT","Montana","Yellowstone","county",30111,"October",2019,79294,81676,2382
-30,"MT","Montana","Yellowstone","county",30111,"November",2019,79232,81686,2454
-30,"MT","Montana","Yellowstone","county",30111,"December",2019,78574,81096,2522
-30,"MT","Montana","Yellowstone","county",30111,"January",2020,78700,81833,3133
-30,"MT","Montana","Yellowstone","county",30111,"February",2020,78737,81734,2997
-30,"MT","Montana","Yellowstone","county",30111,"March",2020,78417,81396,2979
-30,"MT","Montana","Yellowstone","county",30111,"April",2020,71061,79904,8843
-30,"MT","Montana","Yellowstone","county",30111,"May",2020,73843,80033,6190
-30,"MT","Montana","Billings","city",NA,"January",2019,53602,55692,2090
-30,"MT","Montana","Billings","city",NA,"February",2019,53710,55781,2071
-30,"MT","Montana","Billings","city",NA,"March",2019,53893,55978,2085
-30,"MT","Montana","Billings","city",NA,"April",2019,54301,55967,1666
-30,"MT","Montana","Billings","city",NA,"May",2019,54577,56050,1473
-30,"MT","Montana","Billings","city",NA,"June",2019,54594,56577,1983
-30,"MT","Montana","Billings","city",NA,"July",2019,54639,56483,1844
-30,"MT","Montana","Billings","city",NA,"August",2019,54609,56401,1792
-30,"MT","Montana","Billings","city",NA,"September",2019,54478,56088,1610
-30,"MT","Montana","Billings","city",NA,"October",2019,54318,55966,1648
-30,"MT","Montana","Billings","city",NA,"November",2019,54276,55934,1658
-30,"MT","Montana","Billings","city",NA,"December",2019,53825,55503,1678
-30,"MT","Montana","Billings","city",NA,"January",2020,53911,55990,2079
-30,"MT","Montana","Billings","city",NA,"February",2020,53936,55939,2003
-30,"MT","Montana","Billings","city",NA,"March",2020,53717,55733,2016
-30,"MT","Montana","Billings","city",NA,"April",2020,48678,55178,6500
-30,"MT","Montana","Billings","city",NA,"May",2020,50584,55112,4528
-30,"MT","Montana","Bozeman","city",NA,"January",2019,29105,29909,804
-30,"MT","Montana","Bozeman","city",NA,"February",2019,29526,30227,701
-30,"MT","Montana","Bozeman","city",NA,"March",2019,29427,30178,751
-30,"MT","Montana","Bozeman","city",NA,"April",2019,29489,30063,574
-30,"MT","Montana","Bozeman","city",NA,"May",2019,29701,30294,593
-30,"MT","Montana","Bozeman","city",NA,"June",2019,30537,31212,675
-30,"MT","Montana","Bozeman","city",NA,"July",2019,32035,32675,640
-30,"MT","Montana","Bozeman","city",NA,"August",2019,31400,32016,616
-30,"MT","Montana","Bozeman","city",NA,"September",2019,30539,31180,641
-30,"MT","Montana","Bozeman","city",NA,"October",2019,30388,31069,681
-30,"MT","Montana","Bozeman","city",NA,"November",2019,30283,30996,713
-30,"MT","Montana","Bozeman","city",NA,"December",2019,30168,30832,664
-30,"MT","Montana","Bozeman","city",NA,"January",2020,30244,30997,753
-30,"MT","Montana","Bozeman","city",NA,"February",2020,30495,31233,738
-30,"MT","Montana","Bozeman","city",NA,"March",2020,30279,31039,760
-30,"MT","Montana","Bozeman","city",NA,"April",2020,26451,30453,4002
-30,"MT","Montana","Bozeman","city",NA,"May",2020,27755,30534,2779
-30,"MT","Montana","Great Falls","city",NA,"January",2019,26704,27816,1112
-30,"MT","Montana","Great Falls","city",NA,"February",2019,26815,27936,1121
-30,"MT","Montana","Great Falls","city",NA,"March",2019,26913,28008,1095
-30,"MT","Montana","Great Falls","city",NA,"April",2019,27134,27978,844
-30,"MT","Montana","Great Falls","city",NA,"May",2019,27293,28086,793
-30,"MT","Montana","Great Falls","city",NA,"June",2019,27411,28383,972
-30,"MT","Montana","Great Falls","city",NA,"July",2019,26898,27814,916
-30,"MT","Montana","Great Falls","city",NA,"August",2019,26791,27746,955
-30,"MT","Montana","Great Falls","city",NA,"September",2019,27080,27952,872
-30,"MT","Montana","Great Falls","city",NA,"October",2019,27112,28032,920
-30,"MT","Montana","Great Falls","city",NA,"November",2019,27188,28084,896
-30,"MT","Montana","Great Falls","city",NA,"December",2019,27002,27926,924
-30,"MT","Montana","Great Falls","city",NA,"January",2020,27079,28211,1132
-30,"MT","Montana","Great Falls","city",NA,"February",2020,27033,28019,986
-30,"MT","Montana","Great Falls","city",NA,"March",2020,26868,27871,1003
-30,"MT","Montana","Great Falls","city",NA,"April",2020,23854,27369,3515
-30,"MT","Montana","Great Falls","city",NA,"May",2020,25765,28119,2354
-30,"MT","Montana","Helena","city",NA,"January",2019,16711,17297,586
-30,"MT","Montana","Helena","city",NA,"February",2019,16867,17411,544
-30,"MT","Montana","Helena","city",NA,"March",2019,16862,17415,553
-30,"MT","Montana","Helena","city",NA,"April",2019,16926,17350,424
-30,"MT","Montana","Helena","city",NA,"May",2019,17154,17563,409
-30,"MT","Montana","Helena","city",NA,"June",2019,17231,17747,516
-30,"MT","Montana","Helena","city",NA,"July",2019,17654,18118,464
-30,"MT","Montana","Helena","city",NA,"August",2019,17425,17895,470
-30,"MT","Montana","Helena","city",NA,"September",2019,16989,17452,463
-30,"MT","Montana","Helena","city",NA,"October",2019,16954,17408,454
-30,"MT","Montana","Helena","city",NA,"November",2019,17036,17509,473
-30,"MT","Montana","Helena","city",NA,"December",2019,16798,17299,501
-30,"MT","Montana","Helena","city",NA,"January",2020,16899,17516,617
-30,"MT","Montana","Helena","city",NA,"February",2020,16947,17487,540
-30,"MT","Montana","Helena","city",NA,"March",2020,17046,17590,544
-30,"MT","Montana","Helena","city",NA,"April",2020,14883,16613,1730
-30,"MT","Montana","Helena","city",NA,"May",2020,15660,16789,1129
-30,"MT","Montana","Missoula","city",NA,"January",2019,38805,40449,1644
-30,"MT","Montana","Missoula","city",NA,"February",2019,39271,40755,1484
-30,"MT","Montana","Missoula","city",NA,"March",2019,39365,40860,1495
-30,"MT","Montana","Missoula","city",NA,"April",2019,39619,40820,1201
-30,"MT","Montana","Missoula","city",NA,"May",2019,40207,41233,1026
-30,"MT","Montana","Missoula","city",NA,"June",2019,40130,41318,1188
-30,"MT","Montana","Missoula","city",NA,"July",2019,39586,40720,1134
-30,"MT","Montana","Missoula","city",NA,"August",2019,39735,40835,1100
-30,"MT","Montana","Missoula","city",NA,"September",2019,40228,41311,1083
-30,"MT","Montana","Missoula","city",NA,"October",2019,40243,41383,1140
-30,"MT","Montana","Missoula","city",NA,"November",2019,39874,41146,1272
-30,"MT","Montana","Missoula","city",NA,"December",2019,39476,40869,1393
-30,"MT","Montana","Missoula","city",NA,"January",2020,39593,41249,1656
-30,"MT","Montana","Missoula","city",NA,"February",2020,39783,41377,1594
-30,"MT","Montana","Missoula","city",NA,"March",2020,39685,41319,1634
-30,"MT","Montana","Missoula","city",NA,"April",2020,35711,41650,5939
-30,"MT","Montana","Missoula","city",NA,"May",2020,37311,41488,4177
+"state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
+30,"MT","Montana","Montana","state",NA,"January",2019,526011,502439,23572
+30,"MT","Montana","Montana","state",NA,"February",2019,526862,504628,22234
+30,"MT","Montana","Montana","state",NA,"March",2019,527703,505541,22162
+30,"MT","Montana","Montana","state",NA,"April",2019,528624,510921,17703
+30,"MT","Montana","Montana","state",NA,"May",2019,532019,516822,15197
+30,"MT","Montana","Montana","state",NA,"June",2019,539659,521553,18106
+30,"MT","Montana","Montana","state",NA,"July",2019,543860,527026,16834
+30,"MT","Montana","Montana","state",NA,"August",2019,542082,525258,16824
+30,"MT","Montana","Montana","state",NA,"September",2019,534592,518723,15869
+30,"MT","Montana","Montana","state",NA,"October",2019,535076,518171,16905
+30,"MT","Montana","Montana","state",NA,"November",2019,534315,516106,18209
+30,"MT","Montana","Montana","state",NA,"December",2019,531156,511817,19339
+30,"MT","Montana","Montana","state",NA,"January",2020,534089,510463,23626
+30,"MT","Montana","Montana","state",NA,"February",2020,535223,512749,22474
+30,"MT","Montana","Montana","state",NA,"March",2020,535146,512504,22642
+30,"MT","Montana","Montana","state",NA,"April",2020,518037,456449,61588
+30,"MT","Montana","Montana","state",NA,"May",2020,522050,477874,44176
+30,"MT","Montana","Beaverhead","county",30001,"January",2019,5071,4858,213
+30,"MT","Montana","Beaverhead","county",30001,"February",2019,5060,4899,161
+30,"MT","Montana","Beaverhead","county",30001,"March",2019,5011,4836,175
+30,"MT","Montana","Beaverhead","county",30001,"April",2019,5038,4894,144
+30,"MT","Montana","Beaverhead","county",30001,"May",2019,5058,4935,123
+30,"MT","Montana","Beaverhead","county",30001,"June",2019,5062,4921,141
+30,"MT","Montana","Beaverhead","county",30001,"July",2019,5164,5038,126
+30,"MT","Montana","Beaverhead","county",30001,"August",2019,5132,5007,125
+30,"MT","Montana","Beaverhead","county",30001,"September",2019,5056,4932,124
+30,"MT","Montana","Beaverhead","county",30001,"October",2019,5105,4974,131
+30,"MT","Montana","Beaverhead","county",30001,"November",2019,5080,4925,155
+30,"MT","Montana","Beaverhead","county",30001,"December",2019,5009,4843,166
+30,"MT","Montana","Beaverhead","county",30001,"January",2020,4981,4798,183
+30,"MT","Montana","Beaverhead","county",30001,"February",2020,5024,4853,171
+30,"MT","Montana","Beaverhead","county",30001,"March",2020,5095,4920,175
+30,"MT","Montana","Beaverhead","county",30001,"April",2020,4744,4400,344
+30,"MT","Montana","Beaverhead","county",30001,"May",2020,4807,4560,247
+30,"MT","Montana","Big Horn","county",30003,"January",2019,4904,4453,451
+30,"MT","Montana","Big Horn","county",30003,"February",2019,4854,4429,425
+30,"MT","Montana","Big Horn","county",30003,"March",2019,4894,4474,420
+30,"MT","Montana","Big Horn","county",30003,"April",2019,4890,4517,373
+30,"MT","Montana","Big Horn","county",30003,"May",2019,4826,4507,319
+30,"MT","Montana","Big Horn","county",30003,"June",2019,4748,4388,360
+30,"MT","Montana","Big Horn","county",30003,"July",2019,4768,4430,338
+30,"MT","Montana","Big Horn","county",30003,"August",2019,4823,4476,347
+30,"MT","Montana","Big Horn","county",30003,"September",2019,4854,4546,308
+30,"MT","Montana","Big Horn","county",30003,"October",2019,4849,4541,308
+30,"MT","Montana","Big Horn","county",30003,"November",2019,4834,4513,321
+30,"MT","Montana","Big Horn","county",30003,"December",2019,4740,4424,316
+30,"MT","Montana","Big Horn","county",30003,"January",2020,4657,4318,339
+30,"MT","Montana","Big Horn","county",30003,"February",2020,4657,4310,347
+30,"MT","Montana","Big Horn","county",30003,"March",2020,4755,4391,364
+30,"MT","Montana","Big Horn","county",30003,"April",2020,4362,3900,462
+30,"MT","Montana","Big Horn","county",30003,"May",2020,4497,4077,420
+30,"MT","Montana","Blaine","county",30005,"January",2019,2473,2346,127
+30,"MT","Montana","Blaine","county",30005,"February",2019,2446,2344,102
+30,"MT","Montana","Blaine","county",30005,"March",2019,2479,2373,106
+30,"MT","Montana","Blaine","county",30005,"April",2019,2495,2415,80
+30,"MT","Montana","Blaine","county",30005,"May",2019,2505,2440,65
+30,"MT","Montana","Blaine","county",30005,"June",2019,2399,2318,81
+30,"MT","Montana","Blaine","county",30005,"July",2019,2388,2315,73
+30,"MT","Montana","Blaine","county",30005,"August",2019,2523,2448,75
+30,"MT","Montana","Blaine","county",30005,"September",2019,2509,2435,74
+30,"MT","Montana","Blaine","county",30005,"October",2019,2561,2481,80
+30,"MT","Montana","Blaine","county",30005,"November",2019,2540,2450,90
+30,"MT","Montana","Blaine","county",30005,"December",2019,2524,2421,103
+30,"MT","Montana","Blaine","county",30005,"January",2020,2495,2376,119
+30,"MT","Montana","Blaine","county",30005,"February",2020,2530,2424,106
+30,"MT","Montana","Blaine","county",30005,"March",2020,2549,2441,108
+30,"MT","Montana","Blaine","county",30005,"April",2020,2354,2227,127
+30,"MT","Montana","Blaine","county",30005,"May",2020,2394,2281,113
+30,"MT","Montana","Broadwater","county",30007,"January",2019,2528,2406,122
+30,"MT","Montana","Broadwater","county",30007,"February",2019,2542,2430,112
+30,"MT","Montana","Broadwater","county",30007,"March",2019,2568,2453,115
+30,"MT","Montana","Broadwater","county",30007,"April",2019,2538,2442,96
+30,"MT","Montana","Broadwater","county",30007,"May",2019,2573,2480,93
+30,"MT","Montana","Broadwater","county",30007,"June",2019,2625,2518,107
+30,"MT","Montana","Broadwater","county",30007,"July",2019,2676,2568,108
+30,"MT","Montana","Broadwater","county",30007,"August",2019,2645,2552,93
+30,"MT","Montana","Broadwater","county",30007,"September",2019,2577,2491,86
+30,"MT","Montana","Broadwater","county",30007,"October",2019,2581,2494,87
+30,"MT","Montana","Broadwater","county",30007,"November",2019,2599,2494,105
+30,"MT","Montana","Broadwater","county",30007,"December",2019,2558,2451,107
+30,"MT","Montana","Broadwater","county",30007,"January",2020,2582,2442,140
+30,"MT","Montana","Broadwater","county",30007,"February",2020,2595,2464,131
+30,"MT","Montana","Broadwater","county",30007,"March",2020,2597,2468,129
+30,"MT","Montana","Broadwater","county",30007,"April",2020,2460,2184,276
+30,"MT","Montana","Broadwater","county",30007,"May",2020,2470,2282,188
+30,"MT","Montana","Carbon","county",30009,"January",2019,5489,5230,259
+30,"MT","Montana","Carbon","county",30009,"February",2019,5447,5203,244
+30,"MT","Montana","Carbon","county",30009,"March",2019,5483,5235,248
+30,"MT","Montana","Carbon","county",30009,"April",2019,5471,5291,180
+30,"MT","Montana","Carbon","county",30009,"May",2019,5456,5302,154
+30,"MT","Montana","Carbon","county",30009,"June",2019,5460,5290,170
+30,"MT","Montana","Carbon","county",30009,"July",2019,5480,5319,161
+30,"MT","Montana","Carbon","county",30009,"August",2019,5497,5340,157
+30,"MT","Montana","Carbon","county",30009,"September",2019,5485,5340,145
+30,"MT","Montana","Carbon","county",30009,"October",2019,5511,5348,163
+30,"MT","Montana","Carbon","county",30009,"November",2019,5520,5329,191
+30,"MT","Montana","Carbon","county",30009,"December",2019,5482,5283,199
+30,"MT","Montana","Carbon","county",30009,"January",2020,5519,5245,274
+30,"MT","Montana","Carbon","county",30009,"February",2020,5516,5265,251
+30,"MT","Montana","Carbon","county",30009,"March",2020,5515,5266,249
+30,"MT","Montana","Carbon","county",30009,"April",2020,5499,4821,678
+30,"MT","Montana","Carbon","county",30009,"May",2020,5412,4941,471
+30,"MT","Montana","Carter","county",30011,"January",2019,658,629,29
+30,"MT","Montana","Carter","county",30011,"February",2019,612,593,19
+30,"MT","Montana","Carter","county",30011,"March",2019,621,598,23
+30,"MT","Montana","Carter","county",30011,"April",2019,629,611,18
+30,"MT","Montana","Carter","county",30011,"May",2019,622,603,19
+30,"MT","Montana","Carter","county",30011,"June",2019,612,592,20
+30,"MT","Montana","Carter","county",30011,"July",2019,607,591,16
+30,"MT","Montana","Carter","county",30011,"August",2019,680,667,13
+30,"MT","Montana","Carter","county",30011,"September",2019,661,646,15
+30,"MT","Montana","Carter","county",30011,"October",2019,689,672,17
+30,"MT","Montana","Carter","county",30011,"November",2019,681,667,14
+30,"MT","Montana","Carter","county",30011,"December",2019,660,647,13
+30,"MT","Montana","Carter","county",30011,"January",2020,614,599,15
+30,"MT","Montana","Carter","county",30011,"February",2020,628,613,15
+30,"MT","Montana","Carter","county",30011,"March",2020,651,634,17
+30,"MT","Montana","Carter","county",30011,"April",2020,628,607,21
+30,"MT","Montana","Carter","county",30011,"May",2020,601,584,17
+30,"MT","Montana","Cascade","county",30013,"January",2019,37737,36212,1525
+30,"MT","Montana","Cascade","county",30013,"February",2019,37930,36362,1568
+30,"MT","Montana","Cascade","county",30013,"March",2019,38029,36495,1534
+30,"MT","Montana","Cascade","county",30013,"April",2019,37969,36794,1175
+30,"MT","Montana","Cascade","county",30013,"May",2019,38071,37010,1061
+30,"MT","Montana","Cascade","county",30013,"June",2019,38463,37170,1293
+30,"MT","Montana","Cascade","county",30013,"July",2019,37674,36475,1199
+30,"MT","Montana","Cascade","county",30013,"August",2019,37579,36330,1249
+30,"MT","Montana","Cascade","county",30013,"September",2019,37879,36721,1158
+30,"MT","Montana","Cascade","county",30013,"October",2019,37962,36765,1197
+30,"MT","Montana","Cascade","county",30013,"November",2019,38083,36868,1215
+30,"MT","Montana","Cascade","county",30013,"December",2019,37894,36616,1278
+30,"MT","Montana","Cascade","county",30013,"January",2020,38343,36720,1623
+30,"MT","Montana","Cascade","county",30013,"February",2020,38088,36657,1431
+30,"MT","Montana","Cascade","county",30013,"March",2020,37866,36434,1432
+30,"MT","Montana","Cascade","county",30013,"April",2020,36848,32347,4501
+30,"MT","Montana","Cascade","county",30013,"May",2020,37961,34938,3023
+30,"MT","Montana","Chouteau","county",30015,"January",2019,2416,2327,89
+30,"MT","Montana","Chouteau","county",30015,"February",2019,2385,2308,77
+30,"MT","Montana","Chouteau","county",30015,"March",2019,2372,2293,79
+30,"MT","Montana","Chouteau","county",30015,"April",2019,2418,2359,59
+30,"MT","Montana","Chouteau","county",30015,"May",2019,2449,2395,54
+30,"MT","Montana","Chouteau","county",30015,"June",2019,2461,2403,58
+30,"MT","Montana","Chouteau","county",30015,"July",2019,2423,2367,56
+30,"MT","Montana","Chouteau","county",30015,"August",2019,2508,2455,53
+30,"MT","Montana","Chouteau","county",30015,"September",2019,2460,2400,60
+30,"MT","Montana","Chouteau","county",30015,"October",2019,2540,2472,68
+30,"MT","Montana","Chouteau","county",30015,"November",2019,2526,2465,61
+30,"MT","Montana","Chouteau","county",30015,"December",2019,2509,2428,81
+30,"MT","Montana","Chouteau","county",30015,"January",2020,2401,2314,87
+30,"MT","Montana","Chouteau","county",30015,"February",2020,2449,2367,82
+30,"MT","Montana","Chouteau","county",30015,"March",2020,2479,2395,84
+30,"MT","Montana","Chouteau","county",30015,"April",2020,2356,2215,141
+30,"MT","Montana","Chouteau","county",30015,"May",2020,2356,2246,110
+30,"MT","Montana","Custer","county",30017,"January",2019,5963,5715,248
+30,"MT","Montana","Custer","county",30017,"February",2019,5962,5745,217
+30,"MT","Montana","Custer","county",30017,"March",2019,5941,5724,217
+30,"MT","Montana","Custer","county",30017,"April",2019,6009,5851,158
+30,"MT","Montana","Custer","county",30017,"May",2019,6165,6037,128
+30,"MT","Montana","Custer","county",30017,"June",2019,6019,5849,170
+30,"MT","Montana","Custer","county",30017,"July",2019,6169,6007,162
+30,"MT","Montana","Custer","county",30017,"August",2019,6052,5911,141
+30,"MT","Montana","Custer","county",30017,"September",2019,6085,5937,148
+30,"MT","Montana","Custer","county",30017,"October",2019,6115,5961,154
+30,"MT","Montana","Custer","county",30017,"November",2019,6149,5987,162
+30,"MT","Montana","Custer","county",30017,"December",2019,6093,5907,186
+30,"MT","Montana","Custer","county",30017,"January",2020,6094,5839,255
+30,"MT","Montana","Custer","county",30017,"February",2020,6129,5874,255
+30,"MT","Montana","Custer","county",30017,"March",2020,6062,5825,237
+30,"MT","Montana","Custer","county",30017,"April",2020,5599,5132,467
+30,"MT","Montana","Custer","county",30017,"May",2020,5825,5445,380
+30,"MT","Montana","Daniels","county",30019,"January",2019,904,883,21
+30,"MT","Montana","Daniels","county",30019,"February",2019,868,850,18
+30,"MT","Montana","Daniels","county",30019,"March",2019,864,844,20
+30,"MT","Montana","Daniels","county",30019,"April",2019,882,870,12
+30,"MT","Montana","Daniels","county",30019,"May",2019,888,876,12
+30,"MT","Montana","Daniels","county",30019,"June",2019,867,844,23
+30,"MT","Montana","Daniels","county",30019,"July",2019,907,893,14
+30,"MT","Montana","Daniels","county",30019,"August",2019,916,902,14
+30,"MT","Montana","Daniels","county",30019,"September",2019,883,866,17
+30,"MT","Montana","Daniels","county",30019,"October",2019,910,893,17
+30,"MT","Montana","Daniels","county",30019,"November",2019,912,892,20
+30,"MT","Montana","Daniels","county",30019,"December",2019,906,883,23
+30,"MT","Montana","Daniels","county",30019,"January",2020,888,862,26
+30,"MT","Montana","Daniels","county",30019,"February",2020,896,869,27
+30,"MT","Montana","Daniels","county",30019,"March",2020,898,870,28
+30,"MT","Montana","Daniels","county",30019,"April",2020,835,799,36
+30,"MT","Montana","Daniels","county",30019,"May",2020,843,813,30
+30,"MT","Montana","Dawson","county",30021,"January",2019,4589,4458,131
+30,"MT","Montana","Dawson","county",30021,"February",2019,4549,4432,117
+30,"MT","Montana","Dawson","county",30021,"March",2019,4528,4411,117
+30,"MT","Montana","Dawson","county",30021,"April",2019,4619,4522,97
+30,"MT","Montana","Dawson","county",30021,"May",2019,4597,4507,90
+30,"MT","Montana","Dawson","county",30021,"June",2019,4536,4423,113
+30,"MT","Montana","Dawson","county",30021,"July",2019,4588,4483,105
+30,"MT","Montana","Dawson","county",30021,"August",2019,4619,4521,98
+30,"MT","Montana","Dawson","county",30021,"September",2019,4534,4421,113
+30,"MT","Montana","Dawson","county",30021,"October",2019,4580,4468,112
+30,"MT","Montana","Dawson","county",30021,"November",2019,4600,4483,117
+30,"MT","Montana","Dawson","county",30021,"December",2019,4603,4478,125
+30,"MT","Montana","Dawson","county",30021,"January",2020,4548,4398,150
+30,"MT","Montana","Dawson","county",30021,"February",2020,4568,4432,136
+30,"MT","Montana","Dawson","county",30021,"March",2020,4558,4415,143
+30,"MT","Montana","Dawson","county",30021,"April",2020,4230,3923,307
+30,"MT","Montana","Dawson","county",30021,"May",2020,4413,4052,361
+30,"MT","Montana","Deer Lodge","county",30023,"January",2019,5015,4811,204
+30,"MT","Montana","Deer Lodge","county",30023,"February",2019,5039,4843,196
+30,"MT","Montana","Deer Lodge","county",30023,"March",2019,5008,4830,178
+30,"MT","Montana","Deer Lodge","county",30023,"April",2019,5029,4867,162
+30,"MT","Montana","Deer Lodge","county",30023,"May",2019,5040,4908,132
+30,"MT","Montana","Deer Lodge","county",30023,"June",2019,5115,4962,153
+30,"MT","Montana","Deer Lodge","county",30023,"July",2019,5248,5093,155
+30,"MT","Montana","Deer Lodge","county",30023,"August",2019,5142,4977,165
+30,"MT","Montana","Deer Lodge","county",30023,"September",2019,5001,4865,136
+30,"MT","Montana","Deer Lodge","county",30023,"October",2019,4965,4830,135
+30,"MT","Montana","Deer Lodge","county",30023,"November",2019,4951,4804,147
+30,"MT","Montana","Deer Lodge","county",30023,"December",2019,4904,4738,166
+30,"MT","Montana","Deer Lodge","county",30023,"January",2020,4989,4797,192
+30,"MT","Montana","Deer Lodge","county",30023,"February",2020,4999,4806,193
+30,"MT","Montana","Deer Lodge","county",30023,"March",2020,5053,4845,208
+30,"MT","Montana","Deer Lodge","county",30023,"April",2020,4772,4270,502
+30,"MT","Montana","Deer Lodge","county",30023,"May",2020,4822,4499,323
+30,"MT","Montana","Fallon","county",30025,"January",2019,1688,1651,37
+30,"MT","Montana","Fallon","county",30025,"February",2019,1668,1634,34
+30,"MT","Montana","Fallon","county",30025,"March",2019,1636,1600,36
+30,"MT","Montana","Fallon","county",30025,"April",2019,1687,1661,26
+30,"MT","Montana","Fallon","county",30025,"May",2019,1706,1685,21
+30,"MT","Montana","Fallon","county",30025,"June",2019,1710,1686,24
+30,"MT","Montana","Fallon","county",30025,"July",2019,1706,1684,22
+30,"MT","Montana","Fallon","county",30025,"August",2019,1802,1778,24
+30,"MT","Montana","Fallon","county",30025,"September",2019,1696,1667,29
+30,"MT","Montana","Fallon","county",30025,"October",2019,1730,1695,35
+30,"MT","Montana","Fallon","county",30025,"November",2019,1718,1681,37
+30,"MT","Montana","Fallon","county",30025,"December",2019,1708,1669,39
+30,"MT","Montana","Fallon","county",30025,"January",2020,1672,1634,38
+30,"MT","Montana","Fallon","county",30025,"February",2020,1688,1654,34
+30,"MT","Montana","Fallon","county",30025,"March",2020,1685,1645,40
+30,"MT","Montana","Fallon","county",30025,"April",2020,1578,1485,93
+30,"MT","Montana","Fallon","county",30025,"May",2020,1610,1529,81
+30,"MT","Montana","Fergus","county",30027,"January",2019,5945,5663,282
+30,"MT","Montana","Fergus","county",30027,"February",2019,5792,5524,268
+30,"MT","Montana","Fergus","county",30027,"March",2019,5757,5499,258
+30,"MT","Montana","Fergus","county",30027,"April",2019,6079,5910,169
+30,"MT","Montana","Fergus","county",30027,"May",2019,6064,5934,130
+30,"MT","Montana","Fergus","county",30027,"June",2019,6227,6075,152
+30,"MT","Montana","Fergus","county",30027,"July",2019,6133,5978,155
+30,"MT","Montana","Fergus","county",30027,"August",2019,6228,6079,149
+30,"MT","Montana","Fergus","county",30027,"September",2019,6037,5891,146
+30,"MT","Montana","Fergus","county",30027,"October",2019,6111,5963,148
+30,"MT","Montana","Fergus","county",30027,"November",2019,6107,5931,176
+30,"MT","Montana","Fergus","county",30027,"December",2019,6038,5820,218
+30,"MT","Montana","Fergus","county",30027,"January",2020,6040,5753,287
+30,"MT","Montana","Fergus","county",30027,"February",2020,6075,5796,279
+30,"MT","Montana","Fergus","county",30027,"March",2020,5898,5634,264
+30,"MT","Montana","Fergus","county",30027,"April",2020,5554,5093,461
+30,"MT","Montana","Fergus","county",30027,"May",2020,5606,5288,318
+30,"MT","Montana","Flathead","county",30029,"January",2019,46640,43759,2881
+30,"MT","Montana","Flathead","county",30029,"February",2019,46720,43886,2834
+30,"MT","Montana","Flathead","county",30029,"March",2019,46977,44140,2837
+30,"MT","Montana","Flathead","county",30029,"April",2019,46972,44622,2350
+30,"MT","Montana","Flathead","county",30029,"May",2019,47572,45732,1840
+30,"MT","Montana","Flathead","county",30029,"June",2019,49408,47352,2056
+30,"MT","Montana","Flathead","county",30029,"July",2019,50466,48612,1854
+30,"MT","Montana","Flathead","county",30029,"August",2019,49912,48008,1904
+30,"MT","Montana","Flathead","county",30029,"September",2019,47813,46049,1764
+30,"MT","Montana","Flathead","county",30029,"October",2019,47428,45495,1933
+30,"MT","Montana","Flathead","county",30029,"November",2019,47351,45111,2240
+30,"MT","Montana","Flathead","county",30029,"December",2019,47451,44991,2460
+30,"MT","Montana","Flathead","county",30029,"January",2020,47869,44736,3133
+30,"MT","Montana","Flathead","county",30029,"February",2020,47768,44807,2961
+30,"MT","Montana","Flathead","county",30029,"March",2020,48195,45236,2959
+30,"MT","Montana","Flathead","county",30029,"April",2020,47788,39852,7936
+30,"MT","Montana","Flathead","county",30029,"May",2020,47991,42303,5688
+30,"MT","Montana","Gallatin","county",30031,"January",2019,66559,64733,1826
+30,"MT","Montana","Gallatin","county",30031,"February",2019,67252,65670,1582
+30,"MT","Montana","Gallatin","county",30031,"March",2019,67140,65450,1690
+30,"MT","Montana","Gallatin","county",30031,"April",2019,66990,65587,1403
+30,"MT","Montana","Gallatin","county",30031,"May",2019,67561,66059,1502
+30,"MT","Montana","Gallatin","county",30031,"June",2019,69420,67918,1502
+30,"MT","Montana","Gallatin","county",30031,"July",2019,72563,71249,1314
+30,"MT","Montana","Gallatin","county",30031,"August",2019,71140,69838,1302
+30,"MT","Montana","Gallatin","county",30031,"September",2019,69274,67923,1351
+30,"MT","Montana","Gallatin","county",30031,"October",2019,69254,67586,1668
+30,"MT","Montana","Gallatin","county",30031,"November",2019,69227,67352,1875
+30,"MT","Montana","Gallatin","county",30031,"December",2019,68746,67096,1650
+30,"MT","Montana","Gallatin","county",30031,"January",2020,69025,67266,1759
+30,"MT","Montana","Gallatin","county",30031,"February",2020,69563,67824,1739
+30,"MT","Montana","Gallatin","county",30031,"March",2020,69133,67345,1788
+30,"MT","Montana","Gallatin","county",30031,"April",2020,67109,58831,8278
+30,"MT","Montana","Gallatin","county",30031,"May",2020,67753,61730,6023
+30,"MT","Montana","Garfield","county",30033,"January",2019,744,721,23
+30,"MT","Montana","Garfield","county",30033,"February",2019,719,698,21
+30,"MT","Montana","Garfield","county",30033,"March",2019,720,698,22
+30,"MT","Montana","Garfield","county",30033,"April",2019,736,724,12
+30,"MT","Montana","Garfield","county",30033,"May",2019,730,719,11
+30,"MT","Montana","Garfield","county",30033,"June",2019,694,679,15
+30,"MT","Montana","Garfield","county",30033,"July",2019,734,720,14
+30,"MT","Montana","Garfield","county",30033,"August",2019,746,728,18
+30,"MT","Montana","Garfield","county",30033,"September",2019,749,732,17
+30,"MT","Montana","Garfield","county",30033,"October",2019,768,752,16
+30,"MT","Montana","Garfield","county",30033,"November",2019,750,732,18
+30,"MT","Montana","Garfield","county",30033,"December",2019,764,738,26
+30,"MT","Montana","Garfield","county",30033,"January",2020,720,693,27
+30,"MT","Montana","Garfield","county",30033,"February",2020,730,708,22
+30,"MT","Montana","Garfield","county",30033,"March",2020,747,723,24
+30,"MT","Montana","Garfield","county",30033,"April",2020,722,690,32
+30,"MT","Montana","Garfield","county",30033,"May",2020,688,666,22
+30,"MT","Montana","Glacier","county",30035,"January",2019,5500,4976,524
+30,"MT","Montana","Glacier","county",30035,"February",2019,5436,4921,515
+30,"MT","Montana","Glacier","county",30035,"March",2019,5494,5009,485
+30,"MT","Montana","Glacier","county",30035,"April",2019,5455,5042,413
+30,"MT","Montana","Glacier","county",30035,"May",2019,5601,5258,343
+30,"MT","Montana","Glacier","county",30035,"June",2019,6062,5603,459
+30,"MT","Montana","Glacier","county",30035,"July",2019,6057,5624,433
+30,"MT","Montana","Glacier","county",30035,"August",2019,6228,5816,412
+30,"MT","Montana","Glacier","county",30035,"September",2019,5929,5591,338
+30,"MT","Montana","Glacier","county",30035,"October",2019,5586,5198,388
+30,"MT","Montana","Glacier","county",30035,"November",2019,5531,5124,407
+30,"MT","Montana","Glacier","county",30035,"December",2019,5431,5028,403
+30,"MT","Montana","Glacier","county",30035,"January",2020,5445,4981,464
+30,"MT","Montana","Glacier","county",30035,"February",2020,5419,4972,447
+30,"MT","Montana","Glacier","county",30035,"March",2020,5538,5090,448
+30,"MT","Montana","Glacier","county",30035,"April",2020,5186,4512,674
+30,"MT","Montana","Glacier","county",30035,"May",2020,5356,4833,523
+30,"MT","Montana","Golden Valley","county",30037,"January",2019,372,349,23
+30,"MT","Montana","Golden Valley","county",30037,"February",2019,361,342,19
+30,"MT","Montana","Golden Valley","county",30037,"March",2019,365,346,19
+30,"MT","Montana","Golden Valley","county",30037,"April",2019,367,352,15
+30,"MT","Montana","Golden Valley","county",30037,"May",2019,363,349,14
+30,"MT","Montana","Golden Valley","county",30037,"June",2019,362,348,14
+30,"MT","Montana","Golden Valley","county",30037,"July",2019,362,352,10
+30,"MT","Montana","Golden Valley","county",30037,"August",2019,365,357,8
+30,"MT","Montana","Golden Valley","county",30037,"September",2019,371,357,14
+30,"MT","Montana","Golden Valley","county",30037,"October",2019,375,362,13
+30,"MT","Montana","Golden Valley","county",30037,"November",2019,372,356,16
+30,"MT","Montana","Golden Valley","county",30037,"December",2019,368,355,13
+30,"MT","Montana","Golden Valley","county",30037,"January",2020,365,347,18
+30,"MT","Montana","Golden Valley","county",30037,"February",2020,369,351,18
+30,"MT","Montana","Golden Valley","county",30037,"March",2020,371,352,19
+30,"MT","Montana","Golden Valley","county",30037,"April",2020,352,329,23
+30,"MT","Montana","Golden Valley","county",30037,"May",2020,354,330,24
+30,"MT","Montana","Granite","county",30039,"January",2019,1784,1648,136
+30,"MT","Montana","Granite","county",30039,"February",2019,1776,1634,142
+30,"MT","Montana","Granite","county",30039,"March",2019,1738,1629,109
+30,"MT","Montana","Granite","county",30039,"April",2019,1697,1589,108
+30,"MT","Montana","Granite","county",30039,"May",2019,1640,1562,78
+30,"MT","Montana","Granite","county",30039,"June",2019,1708,1631,77
+30,"MT","Montana","Granite","county",30039,"July",2019,1672,1600,72
+30,"MT","Montana","Granite","county",30039,"August",2019,1722,1648,74
+30,"MT","Montana","Granite","county",30039,"September",2019,1635,1564,71
+30,"MT","Montana","Granite","county",30039,"October",2019,1618,1544,74
+30,"MT","Montana","Granite","county",30039,"November",2019,1598,1501,97
+30,"MT","Montana","Granite","county",30039,"December",2019,1648,1540,108
+30,"MT","Montana","Granite","county",30039,"January",2020,1747,1600,147
+30,"MT","Montana","Granite","county",30039,"February",2020,1729,1609,120
+30,"MT","Montana","Granite","county",30039,"March",2020,1771,1644,127
+30,"MT","Montana","Granite","county",30039,"April",2020,1713,1433,280
+30,"MT","Montana","Granite","county",30039,"May",2020,1614,1437,177
+30,"MT","Montana","Hill","county",30041,"January",2019,7474,7165,309
+30,"MT","Montana","Hill","county",30041,"February",2019,7593,7287,306
+30,"MT","Montana","Hill","county",30041,"March",2019,7607,7313,294
+30,"MT","Montana","Hill","county",30041,"April",2019,7561,7308,253
+30,"MT","Montana","Hill","county",30041,"May",2019,7648,7433,215
+30,"MT","Montana","Hill","county",30041,"June",2019,7679,7376,303
+30,"MT","Montana","Hill","county",30041,"July",2019,7693,7386,307
+30,"MT","Montana","Hill","county",30041,"August",2019,7706,7387,319
+30,"MT","Montana","Hill","county",30041,"September",2019,7678,7421,257
+30,"MT","Montana","Hill","county",30041,"October",2019,7729,7447,282
+30,"MT","Montana","Hill","county",30041,"November",2019,7715,7445,270
+30,"MT","Montana","Hill","county",30041,"December",2019,7598,7346,252
+30,"MT","Montana","Hill","county",30041,"January",2020,7584,7275,309
+30,"MT","Montana","Hill","county",30041,"February",2020,7626,7354,272
+30,"MT","Montana","Hill","county",30041,"March",2020,7618,7335,283
+30,"MT","Montana","Hill","county",30041,"April",2020,7052,6438,614
+30,"MT","Montana","Hill","county",30041,"May",2020,7134,6709,425
+30,"MT","Montana","Jefferson","county",30043,"January",2019,5663,5407,256
+30,"MT","Montana","Jefferson","county",30043,"February",2019,5672,5438,234
+30,"MT","Montana","Jefferson","county",30043,"March",2019,5667,5433,234
+30,"MT","Montana","Jefferson","county",30043,"April",2019,5641,5468,173
+30,"MT","Montana","Jefferson","county",30043,"May",2019,5667,5530,137
+30,"MT","Montana","Jefferson","county",30043,"June",2019,5717,5546,171
+30,"MT","Montana","Jefferson","county",30043,"July",2019,5852,5689,163
+30,"MT","Montana","Jefferson","county",30043,"August",2019,5796,5631,165
+30,"MT","Montana","Jefferson","county",30043,"September",2019,5661,5499,162
+30,"MT","Montana","Jefferson","county",30043,"October",2019,5681,5504,177
+30,"MT","Montana","Jefferson","county",30043,"November",2019,5704,5516,188
+30,"MT","Montana","Jefferson","county",30043,"December",2019,5655,5444,211
+30,"MT","Montana","Jefferson","county",30043,"January",2020,5700,5453,247
+30,"MT","Montana","Jefferson","county",30043,"February",2020,5708,5479,229
+30,"MT","Montana","Jefferson","county",30043,"March",2020,5753,5512,241
+30,"MT","Montana","Jefferson","county",30043,"April",2020,5363,4847,516
+30,"MT","Montana","Jefferson","county",30043,"May",2020,5446,5062,384
+30,"MT","Montana","Judith Basin","county",30045,"January",2019,924,880,44
+30,"MT","Montana","Judith Basin","county",30045,"February",2019,905,856,49
+30,"MT","Montana","Judith Basin","county",30045,"March",2019,900,864,36
+30,"MT","Montana","Judith Basin","county",30045,"April",2019,918,892,26
+30,"MT","Montana","Judith Basin","county",30045,"May",2019,922,902,20
+30,"MT","Montana","Judith Basin","county",30045,"June",2019,885,861,24
+30,"MT","Montana","Judith Basin","county",30045,"July",2019,912,890,22
+30,"MT","Montana","Judith Basin","county",30045,"August",2019,941,920,21
+30,"MT","Montana","Judith Basin","county",30045,"September",2019,1002,978,24
+30,"MT","Montana","Judith Basin","county",30045,"October",2019,1038,1010,28
+30,"MT","Montana","Judith Basin","county",30045,"November",2019,1023,996,27
+30,"MT","Montana","Judith Basin","county",30045,"December",2019,1008,976,32
+30,"MT","Montana","Judith Basin","county",30045,"January",2020,964,918,46
+30,"MT","Montana","Judith Basin","county",30045,"February",2020,985,943,42
+30,"MT","Montana","Judith Basin","county",30045,"March",2020,1072,1029,43
+30,"MT","Montana","Judith Basin","county",30045,"April",2020,1028,952,76
+30,"MT","Montana","Judith Basin","county",30045,"May",2020,1003,949,54
+30,"MT","Montana","Lake","county",30047,"January",2019,12829,12137,692
+30,"MT","Montana","Lake","county",30047,"February",2019,12874,12204,670
+30,"MT","Montana","Lake","county",30047,"March",2019,12955,12307,648
+30,"MT","Montana","Lake","county",30047,"April",2019,13014,12489,525
+30,"MT","Montana","Lake","county",30047,"May",2019,13337,12884,453
+30,"MT","Montana","Lake","county",30047,"June",2019,13690,13147,543
+30,"MT","Montana","Lake","county",30047,"July",2019,13480,12952,528
+30,"MT","Montana","Lake","county",30047,"August",2019,13313,12775,538
+30,"MT","Montana","Lake","county",30047,"September",2019,13298,12815,483
+30,"MT","Montana","Lake","county",30047,"October",2019,13273,12758,515
+30,"MT","Montana","Lake","county",30047,"November",2019,13246,12717,529
+30,"MT","Montana","Lake","county",30047,"December",2019,13113,12548,565
+30,"MT","Montana","Lake","county",30047,"January",2020,13195,12432,763
+30,"MT","Montana","Lake","county",30047,"February",2020,13257,12528,729
+30,"MT","Montana","Lake","county",30047,"March",2020,13364,12669,695
+30,"MT","Montana","Lake","county",30047,"April",2020,12435,11232,1203
+30,"MT","Montana","Lake","county",30047,"May",2020,12925,11888,1037
+30,"MT","Montana","Lewis and Clark","county",30049,"January",2019,35459,34067,1392
+30,"MT","Montana","Lewis and Clark","county",30049,"February",2019,35633,34385,1248
+30,"MT","Montana","Lewis and Clark","county",30049,"March",2019,35644,34375,1269
+30,"MT","Montana","Lewis and Clark","county",30049,"April",2019,35453,34505,948
+30,"MT","Montana","Lewis and Clark","county",30049,"May",2019,35797,34970,827
+30,"MT","Montana","Lewis and Clark","county",30049,"June",2019,36200,35127,1073
+30,"MT","Montana","Lewis and Clark","county",30049,"July",2019,36990,35990,1000
+30,"MT","Montana","Lewis and Clark","county",30049,"August",2019,36569,35523,1046
+30,"MT","Montana","Lewis and Clark","county",30049,"September",2019,35586,34633,953
+30,"MT","Montana","Lewis and Clark","county",30049,"October",2019,35525,34562,963
+30,"MT","Montana","Lewis and Clark","county",30049,"November",2019,35723,34729,994
+30,"MT","Montana","Lewis and Clark","county",30049,"December",2019,35311,34244,1067
+30,"MT","Montana","Lewis and Clark","county",30049,"January",2020,35798,34450,1348
+30,"MT","Montana","Lewis and Clark","county",30049,"February",2020,35827,34548,1279
+30,"MT","Montana","Lewis and Clark","county",30049,"March",2020,35991,34750,1241
+30,"MT","Montana","Lewis and Clark","county",30049,"April",2020,33958,30341,3617
+30,"MT","Montana","Lewis and Clark","county",30049,"May",2020,34294,31925,2369
+30,"MT","Montana","Liberty","county",30051,"January",2019,958,925,33
+30,"MT","Montana","Liberty","county",30051,"February",2019,923,898,25
+30,"MT","Montana","Liberty","county",30051,"March",2019,930,903,27
+30,"MT","Montana","Liberty","county",30051,"April",2019,968,949,19
+30,"MT","Montana","Liberty","county",30051,"May",2019,928,909,19
+30,"MT","Montana","Liberty","county",30051,"June",2019,914,890,24
+30,"MT","Montana","Liberty","county",30051,"July",2019,938,915,23
+30,"MT","Montana","Liberty","county",30051,"August",2019,949,927,22
+30,"MT","Montana","Liberty","county",30051,"September",2019,967,943,24
+30,"MT","Montana","Liberty","county",30051,"October",2019,1000,974,26
+30,"MT","Montana","Liberty","county",30051,"November",2019,986,958,28
+30,"MT","Montana","Liberty","county",30051,"December",2019,975,952,23
+30,"MT","Montana","Liberty","county",30051,"January",2020,933,902,31
+30,"MT","Montana","Liberty","county",30051,"February",2020,953,925,28
+30,"MT","Montana","Liberty","county",30051,"March",2020,994,967,27
+30,"MT","Montana","Liberty","county",30051,"April",2020,945,919,26
+30,"MT","Montana","Liberty","county",30051,"May",2020,905,883,22
+30,"MT","Montana","Lincoln","county",30053,"January",2019,7963,7164,799
+30,"MT","Montana","Lincoln","county",30053,"February",2019,7872,7155,717
+30,"MT","Montana","Lincoln","county",30053,"March",2019,7922,7209,713
+30,"MT","Montana","Lincoln","county",30053,"April",2019,7963,7351,612
+30,"MT","Montana","Lincoln","county",30053,"May",2019,8097,7643,454
+30,"MT","Montana","Lincoln","county",30053,"June",2019,8264,7759,505
+30,"MT","Montana","Lincoln","county",30053,"July",2019,8211,7736,475
+30,"MT","Montana","Lincoln","county",30053,"August",2019,8274,7781,493
+30,"MT","Montana","Lincoln","county",30053,"September",2019,8132,7646,486
+30,"MT","Montana","Lincoln","county",30053,"October",2019,8173,7668,505
+30,"MT","Montana","Lincoln","county",30053,"November",2019,8117,7544,573
+30,"MT","Montana","Lincoln","county",30053,"December",2019,8038,7334,704
+30,"MT","Montana","Lincoln","county",30053,"January",2020,8098,7260,838
+30,"MT","Montana","Lincoln","county",30053,"February",2020,8042,7261,781
+30,"MT","Montana","Lincoln","county",30053,"March",2020,8088,7212,876
+30,"MT","Montana","Lincoln","county",30053,"April",2020,7931,6465,1466
+30,"MT","Montana","Lincoln","county",30053,"May",2020,7905,6905,1000
+30,"MT","Montana","McCone","county",30055,"January",2019,942,924,18
+30,"MT","Montana","McCone","county",30055,"February",2019,912,898,14
+30,"MT","Montana","McCone","county",30055,"March",2019,913,894,19
+30,"MT","Montana","McCone","county",30055,"April",2019,943,928,15
+30,"MT","Montana","McCone","county",30055,"May",2019,937,923,14
+30,"MT","Montana","McCone","county",30055,"June",2019,939,919,20
+30,"MT","Montana","McCone","county",30055,"July",2019,953,927,26
+30,"MT","Montana","McCone","county",30055,"August",2019,951,933,18
+30,"MT","Montana","McCone","county",30055,"September",2019,970,950,20
+30,"MT","Montana","McCone","county",30055,"October",2019,998,976,22
+30,"MT","Montana","McCone","county",30055,"November",2019,971,953,18
+30,"MT","Montana","McCone","county",30055,"December",2019,974,953,21
+30,"MT","Montana","McCone","county",30055,"January",2020,930,908,22
+30,"MT","Montana","McCone","county",30055,"February",2020,951,931,20
+30,"MT","Montana","McCone","county",30055,"March",2020,950,930,20
+30,"MT","Montana","McCone","county",30055,"April",2020,900,872,28
+30,"MT","Montana","McCone","county",30055,"May",2020,889,858,31
+30,"MT","Montana","Madison","county",30057,"January",2019,5340,5125,215
+30,"MT","Montana","Madison","county",30057,"February",2019,5282,5072,210
+30,"MT","Montana","Madison","county",30057,"March",2019,5277,5094,183
+30,"MT","Montana","Madison","county",30057,"April",2019,5084,4957,127
+30,"MT","Montana","Madison","county",30057,"May",2019,4445,4330,115
+30,"MT","Montana","Madison","county",30057,"June",2019,4470,4340,130
+30,"MT","Montana","Madison","county",30057,"July",2019,4783,4667,116
+30,"MT","Montana","Madison","county",30057,"August",2019,4732,4610,122
+30,"MT","Montana","Madison","county",30057,"September",2019,4455,4331,124
+30,"MT","Montana","Madison","county",30057,"October",2019,4209,4064,145
+30,"MT","Montana","Madison","county",30057,"November",2019,4429,4241,188
+30,"MT","Montana","Madison","county",30057,"December",2019,5187,5014,173
+30,"MT","Montana","Madison","county",30057,"January",2020,5524,5324,200
+30,"MT","Montana","Madison","county",30057,"February",2020,5554,5351,203
+30,"MT","Montana","Madison","county",30057,"March",2020,5397,5201,196
+30,"MT","Montana","Madison","county",30057,"April",2020,4909,4502,407
+30,"MT","Montana","Madison","county",30057,"May",2020,4323,4003,320
+30,"MT","Montana","Meagher","county",30059,"January",2019,998,947,51
+30,"MT","Montana","Meagher","county",30059,"February",2019,992,948,44
+30,"MT","Montana","Meagher","county",30059,"March",2019,969,928,41
+30,"MT","Montana","Meagher","county",30059,"April",2019,950,918,32
+30,"MT","Montana","Meagher","county",30059,"May",2019,896,869,27
+30,"MT","Montana","Meagher","county",30059,"June",2019,896,868,28
+30,"MT","Montana","Meagher","county",30059,"July",2019,983,957,26
+30,"MT","Montana","Meagher","county",30059,"August",2019,906,885,21
+30,"MT","Montana","Meagher","county",30059,"September",2019,930,904,26
+30,"MT","Montana","Meagher","county",30059,"October",2019,951,923,28
+30,"MT","Montana","Meagher","county",30059,"November",2019,978,947,31
+30,"MT","Montana","Meagher","county",30059,"December",2019,1002,967,35
+30,"MT","Montana","Meagher","county",30059,"January",2020,995,955,40
+30,"MT","Montana","Meagher","county",30059,"February",2020,1008,970,38
+30,"MT","Montana","Meagher","county",30059,"March",2020,993,961,32
+30,"MT","Montana","Meagher","county",30059,"April",2020,903,833,70
+30,"MT","Montana","Meagher","county",30059,"May",2020,869,812,57
+30,"MT","Montana","Mineral","county",30061,"January",2019,1709,1563,146
+30,"MT","Montana","Mineral","county",30061,"February",2019,1689,1547,142
+30,"MT","Montana","Mineral","county",30061,"March",2019,1689,1572,117
+30,"MT","Montana","Mineral","county",30061,"April",2019,1741,1644,97
+30,"MT","Montana","Mineral","county",30061,"May",2019,1801,1727,74
+30,"MT","Montana","Mineral","county",30061,"June",2019,1836,1741,95
+30,"MT","Montana","Mineral","county",30061,"July",2019,1854,1777,77
+30,"MT","Montana","Mineral","county",30061,"August",2019,1824,1741,83
+30,"MT","Montana","Mineral","county",30061,"September",2019,1793,1710,83
+30,"MT","Montana","Mineral","county",30061,"October",2019,1747,1666,81
+30,"MT","Montana","Mineral","county",30061,"November",2019,1714,1624,90
+30,"MT","Montana","Mineral","county",30061,"December",2019,1683,1573,110
+30,"MT","Montana","Mineral","county",30061,"January",2020,1770,1577,193
+30,"MT","Montana","Mineral","county",30061,"February",2020,1774,1590,184
+30,"MT","Montana","Mineral","county",30061,"March",2020,1785,1594,191
+30,"MT","Montana","Mineral","county",30061,"April",2020,1760,1439,321
+30,"MT","Montana","Mineral","county",30061,"May",2020,1779,1553,226
+30,"MT","Montana","Missoula","county",30063,"January",2019,63097,60366,2731
+30,"MT","Montana","Missoula","county",30063,"February",2019,63570,61090,2480
+30,"MT","Montana","Missoula","county",30063,"March",2019,63711,61236,2475
+30,"MT","Montana","Missoula","county",30063,"April",2019,63578,61632,1946
+30,"MT","Montana","Missoula","county",30063,"May",2019,64193,62547,1646
+30,"MT","Montana","Missoula","county",30063,"June",2019,64333,62426,1907
+30,"MT","Montana","Missoula","county",30063,"July",2019,63386,61580,1806
+30,"MT","Montana","Missoula","county",30063,"August",2019,63580,61812,1768
+30,"MT","Montana","Missoula","county",30063,"September",2019,64326,62579,1747
+30,"MT","Montana","Missoula","county",30063,"October",2019,64444,62603,1841
+30,"MT","Montana","Missoula","county",30063,"November",2019,64012,62028,1984
+30,"MT","Montana","Missoula","county",30063,"December",2019,63664,61409,2255
+30,"MT","Montana","Missoula","county",30063,"January",2020,64234,61591,2643
+30,"MT","Montana","Missoula","county",30063,"February",2020,64456,61886,2570
+30,"MT","Montana","Missoula","county",30063,"March",2020,64332,61734,2598
+30,"MT","Montana","Missoula","county",30063,"April",2020,64082,55553,8529
+30,"MT","Montana","Missoula","county",30063,"May",2020,64014,58042,5972
+30,"MT","Montana","Musselshell","county",30065,"January",2019,2252,2144,108
+30,"MT","Montana","Musselshell","county",30065,"February",2019,2239,2134,105
+30,"MT","Montana","Musselshell","county",30065,"March",2019,2248,2143,105
+30,"MT","Montana","Musselshell","county",30065,"April",2019,2266,2182,84
+30,"MT","Montana","Musselshell","county",30065,"May",2019,2235,2172,63
+30,"MT","Montana","Musselshell","county",30065,"June",2019,2275,2192,83
+30,"MT","Montana","Musselshell","county",30065,"July",2019,2266,2183,83
+30,"MT","Montana","Musselshell","county",30065,"August",2019,2253,2175,78
+30,"MT","Montana","Musselshell","county",30065,"September",2019,2272,2189,83
+30,"MT","Montana","Musselshell","county",30065,"October",2019,2282,2205,77
+30,"MT","Montana","Musselshell","county",30065,"November",2019,2301,2211,90
+30,"MT","Montana","Musselshell","county",30065,"December",2019,2280,2188,92
+30,"MT","Montana","Musselshell","county",30065,"January",2020,2296,2151,145
+30,"MT","Montana","Musselshell","county",30065,"February",2020,2293,2164,129
+30,"MT","Montana","Musselshell","county",30065,"March",2020,2263,2148,115
+30,"MT","Montana","Musselshell","county",30065,"April",2020,2145,1936,209
+30,"MT","Montana","Musselshell","county",30065,"May",2020,2156,1991,165
+30,"MT","Montana","Park","county",30067,"January",2019,8471,8021,450
+30,"MT","Montana","Park","county",30067,"February",2019,8458,8095,363
+30,"MT","Montana","Park","county",30067,"March",2019,8526,8142,384
+30,"MT","Montana","Park","county",30067,"April",2019,8629,8332,297
+30,"MT","Montana","Park","county",30067,"May",2019,8938,8677,261
+30,"MT","Montana","Park","county",30067,"June",2019,9316,9040,276
+30,"MT","Montana","Park","county",30067,"July",2019,9467,9226,241
+30,"MT","Montana","Park","county",30067,"August",2019,9496,9265,231
+30,"MT","Montana","Park","county",30067,"September",2019,9105,8878,227
+30,"MT","Montana","Park","county",30067,"October",2019,9020,8768,252
+30,"MT","Montana","Park","county",30067,"November",2019,8811,8484,327
+30,"MT","Montana","Park","county",30067,"December",2019,8699,8345,354
+30,"MT","Montana","Park","county",30067,"January",2020,8618,8234,384
+30,"MT","Montana","Park","county",30067,"February",2020,8694,8304,390
+30,"MT","Montana","Park","county",30067,"March",2020,8801,8382,419
+30,"MT","Montana","Park","county",30067,"April",2020,9034,7501,1533
+30,"MT","Montana","Park","county",30067,"May",2020,9232,8065,1167
+30,"MT","Montana","Petroleum","county",30069,"January",2019,283,268,15
+30,"MT","Montana","Petroleum","county",30069,"February",2019,273,260,13
+30,"MT","Montana","Petroleum","county",30069,"March",2019,271,259,12
+30,"MT","Montana","Petroleum","county",30069,"April",2019,278,270,8
+30,"MT","Montana","Petroleum","county",30069,"May",2019,270,264,6
+30,"MT","Montana","Petroleum","county",30069,"June",2019,270,262,8
+30,"MT","Montana","Petroleum","county",30069,"July",2019,274,267,7
+30,"MT","Montana","Petroleum","county",30069,"August",2019,279,271,8
+30,"MT","Montana","Petroleum","county",30069,"September",2019,283,275,8
+30,"MT","Montana","Petroleum","county",30069,"October",2019,292,283,9
+30,"MT","Montana","Petroleum","county",30069,"November",2019,288,277,11
+30,"MT","Montana","Petroleum","county",30069,"December",2019,289,276,13
+30,"MT","Montana","Petroleum","county",30069,"January",2020,273,263,10
+30,"MT","Montana","Petroleum","county",30069,"February",2020,283,269,14
+30,"MT","Montana","Petroleum","county",30069,"March",2020,280,269,11
+30,"MT","Montana","Petroleum","county",30069,"April",2020,263,255,8
+30,"MT","Montana","Petroleum","county",30069,"May",2020,259,249,10
+30,"MT","Montana","Phillips","county",30071,"January",2019,1901,1801,100
+30,"MT","Montana","Phillips","county",30071,"February",2019,1856,1763,93
+30,"MT","Montana","Phillips","county",30071,"March",2019,1847,1762,85
+30,"MT","Montana","Phillips","county",30071,"April",2019,1886,1813,73
+30,"MT","Montana","Phillips","county",30071,"May",2019,1841,1795,46
+30,"MT","Montana","Phillips","county",30071,"June",2019,1854,1791,63
+30,"MT","Montana","Phillips","county",30071,"July",2019,1838,1773,65
+30,"MT","Montana","Phillips","county",30071,"August",2019,1875,1824,51
+30,"MT","Montana","Phillips","county",30071,"September",2019,1902,1849,53
+30,"MT","Montana","Phillips","county",30071,"October",2019,1948,1890,58
+30,"MT","Montana","Phillips","county",30071,"November",2019,1919,1855,64
+30,"MT","Montana","Phillips","county",30071,"December",2019,1928,1842,86
+30,"MT","Montana","Phillips","county",30071,"January",2020,1866,1767,99
+30,"MT","Montana","Phillips","county",30071,"February",2020,1876,1790,86
+30,"MT","Montana","Phillips","county",30071,"March",2020,1900,1816,84
+30,"MT","Montana","Phillips","county",30071,"April",2020,1807,1667,140
+30,"MT","Montana","Phillips","county",30071,"May",2020,1790,1682,108
+30,"MT","Montana","Pondera","county",30073,"January",2019,2677,2542,135
+30,"MT","Montana","Pondera","county",30073,"February",2019,2683,2551,132
+30,"MT","Montana","Pondera","county",30073,"March",2019,2666,2536,130
+30,"MT","Montana","Pondera","county",30073,"April",2019,2662,2563,99
+30,"MT","Montana","Pondera","county",30073,"May",2019,2695,2610,85
+30,"MT","Montana","Pondera","county",30073,"June",2019,2711,2604,107
+30,"MT","Montana","Pondera","county",30073,"July",2019,2626,2523,103
+30,"MT","Montana","Pondera","county",30073,"August",2019,2651,2563,88
+30,"MT","Montana","Pondera","county",30073,"September",2019,2643,2560,83
+30,"MT","Montana","Pondera","county",30073,"October",2019,2705,2625,80
+30,"MT","Montana","Pondera","county",30073,"November",2019,2671,2590,81
+30,"MT","Montana","Pondera","county",30073,"December",2019,2656,2570,86
+30,"MT","Montana","Pondera","county",30073,"January",2020,2602,2503,99
+30,"MT","Montana","Pondera","county",30073,"February",2020,2641,2551,90
+30,"MT","Montana","Pondera","county",30073,"March",2020,2664,2561,103
+30,"MT","Montana","Pondera","county",30073,"April",2020,2517,2333,184
+30,"MT","Montana","Pondera","county",30073,"May",2020,2542,2380,162
+30,"MT","Montana","Powder River","county",30075,"January",2019,955,920,35
+30,"MT","Montana","Powder River","county",30075,"February",2019,926,895,31
+30,"MT","Montana","Powder River","county",30075,"March",2019,912,885,27
+30,"MT","Montana","Powder River","county",30075,"April",2019,938,922,16
+30,"MT","Montana","Powder River","county",30075,"May",2019,942,927,15
+30,"MT","Montana","Powder River","county",30075,"June",2019,952,932,20
+30,"MT","Montana","Powder River","county",30075,"July",2019,946,927,19
+30,"MT","Montana","Powder River","county",30075,"August",2019,971,952,19
+30,"MT","Montana","Powder River","county",30075,"September",2019,984,963,21
+30,"MT","Montana","Powder River","county",30075,"October",2019,1007,985,22
+30,"MT","Montana","Powder River","county",30075,"November",2019,1000,976,24
+30,"MT","Montana","Powder River","county",30075,"December",2019,975,952,23
+30,"MT","Montana","Powder River","county",30075,"January",2020,939,911,28
+30,"MT","Montana","Powder River","county",30075,"February",2020,956,927,29
+30,"MT","Montana","Powder River","county",30075,"March",2020,971,939,32
+30,"MT","Montana","Powder River","county",30075,"April",2020,929,880,49
+30,"MT","Montana","Powder River","county",30075,"May",2020,911,876,35
+30,"MT","Montana","Powell","county",30077,"January",2019,2788,2664,124
+30,"MT","Montana","Powell","county",30077,"February",2019,2831,2702,129
+30,"MT","Montana","Powell","county",30077,"March",2019,2860,2725,135
+30,"MT","Montana","Powell","county",30077,"April",2019,2914,2794,120
+30,"MT","Montana","Powell","county",30077,"May",2019,2975,2870,105
+30,"MT","Montana","Powell","county",30077,"June",2019,3044,2946,98
+30,"MT","Montana","Powell","county",30077,"July",2019,3094,3007,87
+30,"MT","Montana","Powell","county",30077,"August",2019,3066,2968,98
+30,"MT","Montana","Powell","county",30077,"September",2019,3025,2928,97
+30,"MT","Montana","Powell","county",30077,"October",2019,3040,2940,100
+30,"MT","Montana","Powell","county",30077,"November",2019,3037,2930,107
+30,"MT","Montana","Powell","county",30077,"December",2019,3008,2907,101
+30,"MT","Montana","Powell","county",30077,"January",2020,2891,2762,129
+30,"MT","Montana","Powell","county",30077,"February",2020,2921,2797,124
+30,"MT","Montana","Powell","county",30077,"March",2020,2874,2734,140
+30,"MT","Montana","Powell","county",30077,"April",2020,2737,2457,280
+30,"MT","Montana","Powell","county",30077,"May",2020,2762,2579,183
+30,"MT","Montana","Prairie","county",30079,"January",2019,478,456,22
+30,"MT","Montana","Prairie","county",30079,"February",2019,472,455,17
+30,"MT","Montana","Prairie","county",30079,"March",2019,463,446,17
+30,"MT","Montana","Prairie","county",30079,"April",2019,470,454,16
+30,"MT","Montana","Prairie","county",30079,"May",2019,472,457,15
+30,"MT","Montana","Prairie","county",30079,"June",2019,458,440,18
+30,"MT","Montana","Prairie","county",30079,"July",2019,477,458,19
+30,"MT","Montana","Prairie","county",30079,"August",2019,484,465,19
+30,"MT","Montana","Prairie","county",30079,"September",2019,485,465,20
+30,"MT","Montana","Prairie","county",30079,"October",2019,490,471,19
+30,"MT","Montana","Prairie","county",30079,"November",2019,495,478,17
+30,"MT","Montana","Prairie","county",30079,"December",2019,481,464,17
+30,"MT","Montana","Prairie","county",30079,"January",2020,473,449,24
+30,"MT","Montana","Prairie","county",30079,"February",2020,484,460,24
+30,"MT","Montana","Prairie","county",30079,"March",2020,477,454,23
+30,"MT","Montana","Prairie","county",30079,"April",2020,439,412,27
+30,"MT","Montana","Prairie","county",30079,"May",2020,457,423,34
+30,"MT","Montana","Ravalli","county",30081,"January",2019,19823,18676,1147
+30,"MT","Montana","Ravalli","county",30081,"February",2019,19824,18734,1090
+30,"MT","Montana","Ravalli","county",30081,"March",2019,19952,18904,1048
+30,"MT","Montana","Ravalli","county",30081,"April",2019,20103,19312,791
+30,"MT","Montana","Ravalli","county",30081,"May",2019,20337,19679,658
+30,"MT","Montana","Ravalli","county",30081,"June",2019,20611,19836,775
+30,"MT","Montana","Ravalli","county",30081,"July",2019,20435,19727,708
+30,"MT","Montana","Ravalli","county",30081,"August",2019,20365,19668,697
+30,"MT","Montana","Ravalli","county",30081,"September",2019,20279,19613,666
+30,"MT","Montana","Ravalli","county",30081,"October",2019,20449,19774,675
+30,"MT","Montana","Ravalli","county",30081,"November",2019,20408,19677,731
+30,"MT","Montana","Ravalli","county",30081,"December",2019,20172,19327,845
+30,"MT","Montana","Ravalli","county",30081,"January",2020,20261,19217,1044
+30,"MT","Montana","Ravalli","county",30081,"February",2020,20338,19320,1018
+30,"MT","Montana","Ravalli","county",30081,"March",2020,20403,19408,995
+30,"MT","Montana","Ravalli","county",30081,"April",2020,19388,17296,2092
+30,"MT","Montana","Ravalli","county",30081,"May",2020,19562,18117,1445
+30,"MT","Montana","Richland","county",30083,"January",2019,5825,5662,163
+30,"MT","Montana","Richland","county",30083,"February",2019,5765,5619,146
+30,"MT","Montana","Richland","county",30083,"March",2019,5802,5623,179
+30,"MT","Montana","Richland","county",30083,"April",2019,5797,5646,151
+30,"MT","Montana","Richland","county",30083,"May",2019,5822,5689,133
+30,"MT","Montana","Richland","county",30083,"June",2019,5840,5676,164
+30,"MT","Montana","Richland","county",30083,"July",2019,5880,5729,151
+30,"MT","Montana","Richland","county",30083,"August",2019,6096,5929,167
+30,"MT","Montana","Richland","county",30083,"September",2019,5833,5664,169
+30,"MT","Montana","Richland","county",30083,"October",2019,6015,5854,161
+30,"MT","Montana","Richland","county",30083,"November",2019,5971,5827,144
+30,"MT","Montana","Richland","county",30083,"December",2019,5917,5774,143
+30,"MT","Montana","Richland","county",30083,"January",2020,5900,5712,188
+30,"MT","Montana","Richland","county",30083,"February",2020,5904,5723,181
+30,"MT","Montana","Richland","county",30083,"March",2020,5749,5557,192
+30,"MT","Montana","Richland","county",30083,"April",2020,5475,4862,613
+30,"MT","Montana","Richland","county",30083,"May",2020,5573,5044,529
+30,"MT","Montana","Roosevelt","county",30085,"January",2019,4503,4278,225
+30,"MT","Montana","Roosevelt","county",30085,"February",2019,4467,4257,210
+30,"MT","Montana","Roosevelt","county",30085,"March",2019,4472,4239,233
+30,"MT","Montana","Roosevelt","county",30085,"April",2019,4533,4322,211
+30,"MT","Montana","Roosevelt","county",30085,"May",2019,4554,4395,159
+30,"MT","Montana","Roosevelt","county",30085,"June",2019,4610,4405,205
+30,"MT","Montana","Roosevelt","county",30085,"July",2019,4464,4245,219
+30,"MT","Montana","Roosevelt","county",30085,"August",2019,4469,4277,192
+30,"MT","Montana","Roosevelt","county",30085,"September",2019,4455,4292,163
+30,"MT","Montana","Roosevelt","county",30085,"October",2019,4508,4345,163
+30,"MT","Montana","Roosevelt","county",30085,"November",2019,4505,4343,162
+30,"MT","Montana","Roosevelt","county",30085,"December",2019,4474,4293,181
+30,"MT","Montana","Roosevelt","county",30085,"January",2020,4461,4245,216
+30,"MT","Montana","Roosevelt","county",30085,"February",2020,4492,4270,222
+30,"MT","Montana","Roosevelt","county",30085,"March",2020,4427,4202,225
+30,"MT","Montana","Roosevelt","county",30085,"April",2020,4060,3734,326
+30,"MT","Montana","Roosevelt","county",30085,"May",2020,4235,3908,327
+30,"MT","Montana","Rosebud","county",30087,"January",2019,3769,3545,224
+30,"MT","Montana","Rosebud","county",30087,"February",2019,3732,3523,209
+30,"MT","Montana","Rosebud","county",30087,"March",2019,3748,3531,217
+30,"MT","Montana","Rosebud","county",30087,"April",2019,3781,3605,176
+30,"MT","Montana","Rosebud","county",30087,"May",2019,3822,3669,153
+30,"MT","Montana","Rosebud","county",30087,"June",2019,3818,3596,222
+30,"MT","Montana","Rosebud","county",30087,"July",2019,3902,3690,212
+30,"MT","Montana","Rosebud","county",30087,"August",2019,3986,3767,219
+30,"MT","Montana","Rosebud","county",30087,"September",2019,3831,3669,162
+30,"MT","Montana","Rosebud","county",30087,"October",2019,3904,3725,179
+30,"MT","Montana","Rosebud","county",30087,"November",2019,3848,3676,172
+30,"MT","Montana","Rosebud","county",30087,"December",2019,3779,3621,158
+30,"MT","Montana","Rosebud","county",30087,"January",2020,3732,3546,186
+30,"MT","Montana","Rosebud","county",30087,"February",2020,3768,3580,188
+30,"MT","Montana","Rosebud","county",30087,"March",2020,3754,3573,181
+30,"MT","Montana","Rosebud","county",30087,"April",2020,3513,3242,271
+30,"MT","Montana","Rosebud","county",30087,"May",2020,3760,3463,297
+30,"MT","Montana","Sanders","county",30089,"January",2019,4743,4327,416
+30,"MT","Montana","Sanders","county",30089,"February",2019,4763,4368,395
+30,"MT","Montana","Sanders","county",30089,"March",2019,4717,4346,371
+30,"MT","Montana","Sanders","county",30089,"April",2019,4807,4502,305
+30,"MT","Montana","Sanders","county",30089,"May",2019,4879,4659,220
+30,"MT","Montana","Sanders","county",30089,"June",2019,4933,4671,262
+30,"MT","Montana","Sanders","county",30089,"July",2019,4913,4672,241
+30,"MT","Montana","Sanders","county",30089,"August",2019,4975,4725,250
+30,"MT","Montana","Sanders","county",30089,"September",2019,4891,4675,216
+30,"MT","Montana","Sanders","county",30089,"October",2019,4888,4670,218
+30,"MT","Montana","Sanders","county",30089,"November",2019,4849,4616,233
+30,"MT","Montana","Sanders","county",30089,"December",2019,4771,4476,295
+30,"MT","Montana","Sanders","county",30089,"January",2020,4811,4405,406
+30,"MT","Montana","Sanders","county",30089,"February",2020,4817,4434,383
+30,"MT","Montana","Sanders","county",30089,"March",2020,4870,4507,363
+30,"MT","Montana","Sanders","county",30089,"April",2020,4727,4066,661
+30,"MT","Montana","Sanders","county",30089,"May",2020,4765,4288,477
+30,"MT","Montana","Sheridan","county",30091,"January",2019,1748,1693,55
+30,"MT","Montana","Sheridan","county",30091,"February",2019,1725,1685,40
+30,"MT","Montana","Sheridan","county",30091,"March",2019,1763,1714,49
+30,"MT","Montana","Sheridan","county",30091,"April",2019,1752,1720,32
+30,"MT","Montana","Sheridan","county",30091,"May",2019,1739,1707,32
+30,"MT","Montana","Sheridan","county",30091,"June",2019,1751,1714,37
+30,"MT","Montana","Sheridan","county",30091,"July",2019,1675,1645,30
+30,"MT","Montana","Sheridan","county",30091,"August",2019,1740,1705,35
+30,"MT","Montana","Sheridan","county",30091,"September",2019,1738,1700,38
+30,"MT","Montana","Sheridan","county",30091,"October",2019,1768,1729,39
+30,"MT","Montana","Sheridan","county",30091,"November",2019,1758,1718,40
+30,"MT","Montana","Sheridan","county",30091,"December",2019,1741,1699,42
+30,"MT","Montana","Sheridan","county",30091,"January",2020,1722,1666,56
+30,"MT","Montana","Sheridan","county",30091,"February",2020,1727,1680,47
+30,"MT","Montana","Sheridan","county",30091,"March",2020,1779,1722,57
+30,"MT","Montana","Sheridan","county",30091,"April",2020,1689,1548,141
+30,"MT","Montana","Sheridan","county",30091,"May",2020,1680,1575,105
+30,"MT","Montana","Silver Bow","county",30093,"January",2019,16956,16163,793
+30,"MT","Montana","Silver Bow","county",30093,"February",2019,17020,16274,746
+30,"MT","Montana","Silver Bow","county",30093,"March",2019,16957,16192,765
+30,"MT","Montana","Silver Bow","county",30093,"April",2019,17086,16451,635
+30,"MT","Montana","Silver Bow","county",30093,"May",2019,17086,16575,511
+30,"MT","Montana","Silver Bow","county",30093,"June",2019,17455,16808,647
+30,"MT","Montana","Silver Bow","county",30093,"July",2019,17766,17154,612
+30,"MT","Montana","Silver Bow","county",30093,"August",2019,17621,16987,634
+30,"MT","Montana","Silver Bow","county",30093,"September",2019,17009,16465,544
+30,"MT","Montana","Silver Bow","county",30093,"October",2019,17123,16522,601
+30,"MT","Montana","Silver Bow","county",30093,"November",2019,17202,16570,632
+30,"MT","Montana","Silver Bow","county",30093,"December",2019,17017,16347,670
+30,"MT","Montana","Silver Bow","county",30093,"January",2020,17201,16390,811
+30,"MT","Montana","Silver Bow","county",30093,"February",2020,17165,16386,779
+30,"MT","Montana","Silver Bow","county",30093,"March",2020,17067,16266,801
+30,"MT","Montana","Silver Bow","county",30093,"April",2020,16567,14269,2298
+30,"MT","Montana","Silver Bow","county",30093,"May",2020,16443,14963,1480
+30,"MT","Montana","Stillwater","county",30095,"January",2019,5001,4806,195
+30,"MT","Montana","Stillwater","county",30095,"February",2019,5035,4825,210
+30,"MT","Montana","Stillwater","county",30095,"March",2019,5030,4821,209
+30,"MT","Montana","Stillwater","county",30095,"April",2019,5115,4962,153
+30,"MT","Montana","Stillwater","county",30095,"May",2019,5153,5017,136
+30,"MT","Montana","Stillwater","county",30095,"June",2019,5055,4900,155
+30,"MT","Montana","Stillwater","county",30095,"July",2019,5208,5063,145
+30,"MT","Montana","Stillwater","county",30095,"August",2019,5242,5099,143
+30,"MT","Montana","Stillwater","county",30095,"September",2019,5301,5164,137
+30,"MT","Montana","Stillwater","county",30095,"October",2019,5353,5213,140
+30,"MT","Montana","Stillwater","county",30095,"November",2019,5352,5201,151
+30,"MT","Montana","Stillwater","county",30095,"December",2019,5310,5140,170
+30,"MT","Montana","Stillwater","county",30095,"January",2020,5315,5114,201
+30,"MT","Montana","Stillwater","county",30095,"February",2020,5335,5151,184
+30,"MT","Montana","Stillwater","county",30095,"March",2020,5401,5224,177
+30,"MT","Montana","Stillwater","county",30095,"April",2020,5180,4690,490
+30,"MT","Montana","Stillwater","county",30095,"May",2020,5223,4878,345
+30,"MT","Montana","Sweet Grass","county",30097,"January",2019,1767,1706,61
+30,"MT","Montana","Sweet Grass","county",30097,"February",2019,1740,1683,57
+30,"MT","Montana","Sweet Grass","county",30097,"March",2019,1727,1676,51
+30,"MT","Montana","Sweet Grass","county",30097,"April",2019,1763,1713,50
+30,"MT","Montana","Sweet Grass","county",30097,"May",2019,1778,1734,44
+30,"MT","Montana","Sweet Grass","county",30097,"June",2019,1825,1774,51
+30,"MT","Montana","Sweet Grass","county",30097,"July",2019,1811,1765,46
+30,"MT","Montana","Sweet Grass","county",30097,"August",2019,1807,1762,45
+30,"MT","Montana","Sweet Grass","county",30097,"September",2019,1830,1788,42
+30,"MT","Montana","Sweet Grass","county",30097,"October",2019,1863,1814,49
+30,"MT","Montana","Sweet Grass","county",30097,"November",2019,1837,1790,47
+30,"MT","Montana","Sweet Grass","county",30097,"December",2019,1816,1765,51
+30,"MT","Montana","Sweet Grass","county",30097,"January",2020,1794,1729,65
+30,"MT","Montana","Sweet Grass","county",30097,"February",2020,1803,1750,53
+30,"MT","Montana","Sweet Grass","county",30097,"March",2020,1806,1750,56
+30,"MT","Montana","Sweet Grass","county",30097,"April",2020,1707,1590,117
+30,"MT","Montana","Sweet Grass","county",30097,"May",2020,1713,1633,80
+30,"MT","Montana","Teton","county",30099,"January",2019,2706,2587,119
+30,"MT","Montana","Teton","county",30099,"February",2019,2667,2559,108
+30,"MT","Montana","Teton","county",30099,"March",2019,2650,2543,107
+30,"MT","Montana","Teton","county",30099,"April",2019,2739,2654,85
+30,"MT","Montana","Teton","county",30099,"May",2019,2753,2683,70
+30,"MT","Montana","Teton","county",30099,"June",2019,2776,2695,81
+30,"MT","Montana","Teton","county",30099,"July",2019,2726,2651,75
+30,"MT","Montana","Teton","county",30099,"August",2019,2762,2688,74
+30,"MT","Montana","Teton","county",30099,"September",2019,2762,2686,76
+30,"MT","Montana","Teton","county",30099,"October",2019,2801,2718,83
+30,"MT","Montana","Teton","county",30099,"November",2019,2779,2689,90
+30,"MT","Montana","Teton","county",30099,"December",2019,2759,2647,112
+30,"MT","Montana","Teton","county",30099,"January",2020,2723,2586,137
+30,"MT","Montana","Teton","county",30099,"February",2020,2744,2629,115
+30,"MT","Montana","Teton","county",30099,"March",2020,2758,2647,111
+30,"MT","Montana","Teton","county",30099,"April",2020,2616,2432,184
+30,"MT","Montana","Teton","county",30099,"May",2020,2626,2492,134
+30,"MT","Montana","Toole","county",30101,"January",2019,2116,2064,52
+30,"MT","Montana","Toole","county",30101,"February",2019,2081,2032,49
+30,"MT","Montana","Toole","county",30101,"March",2019,2073,2020,53
+30,"MT","Montana","Toole","county",30101,"April",2019,2091,2053,38
+30,"MT","Montana","Toole","county",30101,"May",2019,2112,2068,44
+30,"MT","Montana","Toole","county",30101,"June",2019,2129,2078,51
+30,"MT","Montana","Toole","county",30101,"July",2019,2155,2106,49
+30,"MT","Montana","Toole","county",30101,"August",2019,2155,2104,51
+30,"MT","Montana","Toole","county",30101,"September",2019,2112,2065,47
+30,"MT","Montana","Toole","county",30101,"October",2019,2142,2082,60
+30,"MT","Montana","Toole","county",30101,"November",2019,2115,2054,61
+30,"MT","Montana","Toole","county",30101,"December",2019,2102,2042,60
+30,"MT","Montana","Toole","county",30101,"January",2020,2079,2011,68
+30,"MT","Montana","Toole","county",30101,"February",2020,2093,2023,70
+30,"MT","Montana","Toole","county",30101,"March",2020,2100,2027,73
+30,"MT","Montana","Toole","county",30101,"April",2020,1983,1823,160
+30,"MT","Montana","Toole","county",30101,"May",2020,2025,1881,144
+30,"MT","Montana","Treasure","county",30103,"January",2019,334,322,12
+30,"MT","Montana","Treasure","county",30103,"February",2019,321,309,12
+30,"MT","Montana","Treasure","county",30103,"March",2019,333,318,15
+30,"MT","Montana","Treasure","county",30103,"April",2019,334,325,9
+30,"MT","Montana","Treasure","county",30103,"May",2019,331,324,7
+30,"MT","Montana","Treasure","county",30103,"June",2019,323,314,9
+30,"MT","Montana","Treasure","county",30103,"July",2019,326,319,7
+30,"MT","Montana","Treasure","county",30103,"August",2019,338,328,10
+30,"MT","Montana","Treasure","county",30103,"September",2019,341,333,8
+30,"MT","Montana","Treasure","county",30103,"October",2019,346,339,7
+30,"MT","Montana","Treasure","county",30103,"November",2019,348,341,7
+30,"MT","Montana","Treasure","county",30103,"December",2019,339,331,8
+30,"MT","Montana","Treasure","county",30103,"January",2020,331,323,8
+30,"MT","Montana","Treasure","county",30103,"February",2020,335,327,8
+30,"MT","Montana","Treasure","county",30103,"March",2020,341,333,8
+30,"MT","Montana","Treasure","county",30103,"April",2020,326,311,15
+30,"MT","Montana","Treasure","county",30103,"May",2020,325,310,15
+30,"MT","Montana","Valley","county",30105,"January",2019,4019,3864,155
+30,"MT","Montana","Valley","county",30105,"February",2019,3969,3824,145
+30,"MT","Montana","Valley","county",30105,"March",2019,3966,3819,147
+30,"MT","Montana","Valley","county",30105,"April",2019,4023,3910,113
+30,"MT","Montana","Valley","county",30105,"May",2019,4096,4007,89
+30,"MT","Montana","Valley","county",30105,"June",2019,4151,4032,119
+30,"MT","Montana","Valley","county",30105,"July",2019,4187,4065,122
+30,"MT","Montana","Valley","county",30105,"August",2019,4141,4021,120
+30,"MT","Montana","Valley","county",30105,"September",2019,4101,3968,133
+30,"MT","Montana","Valley","county",30105,"October",2019,4151,4017,134
+30,"MT","Montana","Valley","county",30105,"November",2019,4115,3977,138
+30,"MT","Montana","Valley","county",30105,"December",2019,4037,3901,136
+30,"MT","Montana","Valley","county",30105,"January",2020,4022,3852,170
+30,"MT","Montana","Valley","county",30105,"February",2020,4025,3870,155
+30,"MT","Montana","Valley","county",30105,"March",2020,4069,3914,155
+30,"MT","Montana","Valley","county",30105,"April",2020,3814,3528,286
+30,"MT","Montana","Valley","county",30105,"May",2020,3897,3695,202
+30,"MT","Montana","Wheatland","county",30107,"January",2019,775,732,43
+30,"MT","Montana","Wheatland","county",30107,"February",2019,759,720,39
+30,"MT","Montana","Wheatland","county",30107,"March",2019,759,727,32
+30,"MT","Montana","Wheatland","county",30107,"April",2019,774,751,23
+30,"MT","Montana","Wheatland","county",30107,"May",2019,777,756,21
+30,"MT","Montana","Wheatland","county",30107,"June",2019,755,727,28
+30,"MT","Montana","Wheatland","county",30107,"July",2019,769,740,29
+30,"MT","Montana","Wheatland","county",30107,"August",2019,801,772,29
+30,"MT","Montana","Wheatland","county",30107,"September",2019,798,774,24
+30,"MT","Montana","Wheatland","county",30107,"October",2019,820,795,25
+30,"MT","Montana","Wheatland","county",30107,"November",2019,819,791,28
+30,"MT","Montana","Wheatland","county",30107,"December",2019,810,775,35
+30,"MT","Montana","Wheatland","county",30107,"January",2020,775,728,47
+30,"MT","Montana","Wheatland","county",30107,"February",2020,785,747,38
+30,"MT","Montana","Wheatland","county",30107,"March",2020,796,756,40
+30,"MT","Montana","Wheatland","county",30107,"April",2020,815,717,98
+30,"MT","Montana","Wheatland","county",30107,"May",2020,788,710,78
+30,"MT","Montana","Wibaux","county",30109,"January",2019,464,447,17
+30,"MT","Montana","Wibaux","county",30109,"February",2019,445,433,12
+30,"MT","Montana","Wibaux","county",30109,"March",2019,442,428,14
+30,"MT","Montana","Wibaux","county",30109,"April",2019,450,436,14
+30,"MT","Montana","Wibaux","county",30109,"May",2019,459,448,11
+30,"MT","Montana","Wibaux","county",30109,"June",2019,467,453,14
+30,"MT","Montana","Wibaux","county",30109,"July",2019,483,470,13
+30,"MT","Montana","Wibaux","county",30109,"August",2019,472,462,10
+30,"MT","Montana","Wibaux","county",30109,"September",2019,462,447,15
+30,"MT","Montana","Wibaux","county",30109,"October",2019,473,458,15
+30,"MT","Montana","Wibaux","county",30109,"November",2019,456,442,14
+30,"MT","Montana","Wibaux","county",30109,"December",2019,459,446,13
+30,"MT","Montana","Wibaux","county",30109,"January",2020,451,437,14
+30,"MT","Montana","Wibaux","county",30109,"February",2020,452,438,14
+30,"MT","Montana","Wibaux","county",30109,"March",2020,444,427,17
+30,"MT","Montana","Wibaux","county",30109,"April",2020,441,395,46
+30,"MT","Montana","Wibaux","county",30109,"May",2020,435,408,27
+30,"MT","Montana","Yellowstone","county",30111,"January",2019,81315,78249,3066
+30,"MT","Montana","Yellowstone","county",30111,"February",2019,81482,78407,3075
+30,"MT","Montana","Yellowstone","county",30111,"March",2019,81709,78674,3035
+30,"MT","Montana","Yellowstone","county",30111,"April",2019,81651,79269,2382
+30,"MT","Montana","Yellowstone","county",30111,"May",2019,81792,79672,2120
+30,"MT","Montana","Yellowstone","county",30111,"June",2019,82501,79697,2804
+30,"MT","Montana","Yellowstone","county",30111,"July",2019,82360,79763,2597
+30,"MT","Montana","Yellowstone","county",30111,"August",2019,82243,79719,2524
+30,"MT","Montana","Yellowstone","county",30111,"September",2019,81865,79527,2338
+30,"MT","Montana","Yellowstone","county",30111,"October",2019,81676,79294,2382
+30,"MT","Montana","Yellowstone","county",30111,"November",2019,81686,79232,2454
+30,"MT","Montana","Yellowstone","county",30111,"December",2019,81096,78574,2522
+30,"MT","Montana","Yellowstone","county",30111,"January",2020,81833,78700,3133
+30,"MT","Montana","Yellowstone","county",30111,"February",2020,81734,78737,2997
+30,"MT","Montana","Yellowstone","county",30111,"March",2020,81396,78417,2979
+30,"MT","Montana","Yellowstone","county",30111,"April",2020,79904,71061,8843
+30,"MT","Montana","Yellowstone","county",30111,"May",2020,80033,73843,6190
+30,"MT","Montana","Billings","city",NA,"January",2019,55692,53602,2090
+30,"MT","Montana","Billings","city",NA,"February",2019,55781,53710,2071
+30,"MT","Montana","Billings","city",NA,"March",2019,55978,53893,2085
+30,"MT","Montana","Billings","city",NA,"April",2019,55967,54301,1666
+30,"MT","Montana","Billings","city",NA,"May",2019,56050,54577,1473
+30,"MT","Montana","Billings","city",NA,"June",2019,56577,54594,1983
+30,"MT","Montana","Billings","city",NA,"July",2019,56483,54639,1844
+30,"MT","Montana","Billings","city",NA,"August",2019,56401,54609,1792
+30,"MT","Montana","Billings","city",NA,"September",2019,56088,54478,1610
+30,"MT","Montana","Billings","city",NA,"October",2019,55966,54318,1648
+30,"MT","Montana","Billings","city",NA,"November",2019,55934,54276,1658
+30,"MT","Montana","Billings","city",NA,"December",2019,55503,53825,1678
+30,"MT","Montana","Billings","city",NA,"January",2020,55990,53911,2079
+30,"MT","Montana","Billings","city",NA,"February",2020,55939,53936,2003
+30,"MT","Montana","Billings","city",NA,"March",2020,55733,53717,2016
+30,"MT","Montana","Billings","city",NA,"April",2020,55178,48678,6500
+30,"MT","Montana","Billings","city",NA,"May",2020,55112,50584,4528
+30,"MT","Montana","Bozeman","city",NA,"January",2019,29909,29105,804
+30,"MT","Montana","Bozeman","city",NA,"February",2019,30227,29526,701
+30,"MT","Montana","Bozeman","city",NA,"March",2019,30178,29427,751
+30,"MT","Montana","Bozeman","city",NA,"April",2019,30063,29489,574
+30,"MT","Montana","Bozeman","city",NA,"May",2019,30294,29701,593
+30,"MT","Montana","Bozeman","city",NA,"June",2019,31212,30537,675
+30,"MT","Montana","Bozeman","city",NA,"July",2019,32675,32035,640
+30,"MT","Montana","Bozeman","city",NA,"August",2019,32016,31400,616
+30,"MT","Montana","Bozeman","city",NA,"September",2019,31180,30539,641
+30,"MT","Montana","Bozeman","city",NA,"October",2019,31069,30388,681
+30,"MT","Montana","Bozeman","city",NA,"November",2019,30996,30283,713
+30,"MT","Montana","Bozeman","city",NA,"December",2019,30832,30168,664
+30,"MT","Montana","Bozeman","city",NA,"January",2020,30997,30244,753
+30,"MT","Montana","Bozeman","city",NA,"February",2020,31233,30495,738
+30,"MT","Montana","Bozeman","city",NA,"March",2020,31039,30279,760
+30,"MT","Montana","Bozeman","city",NA,"April",2020,30453,26451,4002
+30,"MT","Montana","Bozeman","city",NA,"May",2020,30534,27755,2779
+30,"MT","Montana","Great Falls","city",NA,"January",2019,27816,26704,1112
+30,"MT","Montana","Great Falls","city",NA,"February",2019,27936,26815,1121
+30,"MT","Montana","Great Falls","city",NA,"March",2019,28008,26913,1095
+30,"MT","Montana","Great Falls","city",NA,"April",2019,27978,27134,844
+30,"MT","Montana","Great Falls","city",NA,"May",2019,28086,27293,793
+30,"MT","Montana","Great Falls","city",NA,"June",2019,28383,27411,972
+30,"MT","Montana","Great Falls","city",NA,"July",2019,27814,26898,916
+30,"MT","Montana","Great Falls","city",NA,"August",2019,27746,26791,955
+30,"MT","Montana","Great Falls","city",NA,"September",2019,27952,27080,872
+30,"MT","Montana","Great Falls","city",NA,"October",2019,28032,27112,920
+30,"MT","Montana","Great Falls","city",NA,"November",2019,28084,27188,896
+30,"MT","Montana","Great Falls","city",NA,"December",2019,27926,27002,924
+30,"MT","Montana","Great Falls","city",NA,"January",2020,28211,27079,1132
+30,"MT","Montana","Great Falls","city",NA,"February",2020,28019,27033,986
+30,"MT","Montana","Great Falls","city",NA,"March",2020,27871,26868,1003
+30,"MT","Montana","Great Falls","city",NA,"April",2020,27369,23854,3515
+30,"MT","Montana","Great Falls","city",NA,"May",2020,28119,25765,2354
+30,"MT","Montana","Helena","city",NA,"January",2019,17297,16711,586
+30,"MT","Montana","Helena","city",NA,"February",2019,17411,16867,544
+30,"MT","Montana","Helena","city",NA,"March",2019,17415,16862,553
+30,"MT","Montana","Helena","city",NA,"April",2019,17350,16926,424
+30,"MT","Montana","Helena","city",NA,"May",2019,17563,17154,409
+30,"MT","Montana","Helena","city",NA,"June",2019,17747,17231,516
+30,"MT","Montana","Helena","city",NA,"July",2019,18118,17654,464
+30,"MT","Montana","Helena","city",NA,"August",2019,17895,17425,470
+30,"MT","Montana","Helena","city",NA,"September",2019,17452,16989,463
+30,"MT","Montana","Helena","city",NA,"October",2019,17408,16954,454
+30,"MT","Montana","Helena","city",NA,"November",2019,17509,17036,473
+30,"MT","Montana","Helena","city",NA,"December",2019,17299,16798,501
+30,"MT","Montana","Helena","city",NA,"January",2020,17516,16899,617
+30,"MT","Montana","Helena","city",NA,"February",2020,17487,16947,540
+30,"MT","Montana","Helena","city",NA,"March",2020,17590,17046,544
+30,"MT","Montana","Helena","city",NA,"April",2020,16613,14883,1730
+30,"MT","Montana","Helena","city",NA,"May",2020,16789,15660,1129
+30,"MT","Montana","Missoula","city",NA,"January",2019,40449,38805,1644
+30,"MT","Montana","Missoula","city",NA,"February",2019,40755,39271,1484
+30,"MT","Montana","Missoula","city",NA,"March",2019,40860,39365,1495
+30,"MT","Montana","Missoula","city",NA,"April",2019,40820,39619,1201
+30,"MT","Montana","Missoula","city",NA,"May",2019,41233,40207,1026
+30,"MT","Montana","Missoula","city",NA,"June",2019,41318,40130,1188
+30,"MT","Montana","Missoula","city",NA,"July",2019,40720,39586,1134
+30,"MT","Montana","Missoula","city",NA,"August",2019,40835,39735,1100
+30,"MT","Montana","Missoula","city",NA,"September",2019,41311,40228,1083
+30,"MT","Montana","Missoula","city",NA,"October",2019,41383,40243,1140
+30,"MT","Montana","Missoula","city",NA,"November",2019,41146,39874,1272
+30,"MT","Montana","Missoula","city",NA,"December",2019,40869,39476,1393
+30,"MT","Montana","Missoula","city",NA,"January",2020,41249,39593,1656
+30,"MT","Montana","Missoula","city",NA,"February",2020,41377,39783,1594
+30,"MT","Montana","Missoula","city",NA,"March",2020,41319,39685,1634
+30,"MT","Montana","Missoula","city",NA,"April",2020,41650,35711,5939
+30,"MT","Montana","Missoula","city",NA,"May",2020,41488,37311,4177

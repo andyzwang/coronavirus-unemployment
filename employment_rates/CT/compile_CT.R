@@ -56,7 +56,7 @@ output <- raw %>%
   ) %>%
   select(
     state_fips, state_short, state, area, area_type, fips, period, year, 
-    employment, labor_force, unemployment
+    labor_force, employment, unemployment
   )
 
 

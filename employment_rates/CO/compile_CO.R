@@ -40,7 +40,7 @@ output_counties <- raw_counties %>%
   ) %>%
   select(
     state_fips, state_short, state, area, area_type, fips, period, year, 
-    employment, labor_force, unemployment
+    labor_force, employment, unemployment
   )
 
 raw_state <- read_csv("CO_state_data.csv") %>%
@@ -65,7 +65,7 @@ output_state <- raw_state %>%
   ) %>%
   select(
     state_fips, state_short, state, area, area_type, fips, period, year, 
-    employment, labor_force, unemployment
+    labor_force, employment, unemployment
   )
 
 output <- rbind(output_counties, output_state)

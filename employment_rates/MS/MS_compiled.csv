@@ -1,452 +1,452 @@
-"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
-"28","MS","Mississippi","Adams County","county",28001,"March",2020,10438,11182,744
-"28","MS","Mississippi","Alcorn County","county",28003,"March",2020,15365,16080,715
-"28","MS","Mississippi","Amite County","county",28005,"March",2020,4162,4447,285
-"28","MS","Mississippi","Attala County","county",28007,"March",2020,6593,7009,416
-"28","MS","Mississippi","Benton County","county",28009,"March",2020,2834,3004,170
-"28","MS","Mississippi","Bolivar County","county",28011,"March",2020,11335,12168,833
-"28","MS","Mississippi","Calhoun County","county",28013,"March",2020,5405,5714,309
-"28","MS","Mississippi","Carroll County","county",28015,"March",2020,3287,3496,209
-"28","MS","Mississippi","Chickasaw County","county",28017,"March",2020,6460,6809,349
-"28","MS","Mississippi","Choctaw County","county",28019,"March",2020,3514,3700,186
-"28","MS","Mississippi","Claiborne County","county",28021,"March",2020,2687,2959,272
-"28","MS","Mississippi","Clarke County","county",28023,"March",2020,5552,5906,354
-"28","MS","Mississippi","Clay County","county",28025,"March",2020,7193,7743,550
-"28","MS","Mississippi","Coahoma County","county",28027,"March",2020,7683,8294,611
-"28","MS","Mississippi","Copiah County","county",28029,"March",2020,10341,10989,648
-"28","MS","Mississippi","Covington County","county",28031,"March",2020,7682,8050,368
-"28","MS","Mississippi","DeSoto County","county",28033,"March",2020,86245,89911,3666
-"28","MS","Mississippi","Forrest County","county",28035,"March",2020,31638,33164,1526
-"28","MS","Mississippi","Franklin County","county",28037,"March",2020,2599,2768,169
-"28","MS","Mississippi","George County","county",28039,"March",2020,8226,8776,550
-"28","MS","Mississippi","Greene County","county",28041,"March",2020,4060,4362,302
-"28","MS","Mississippi","Grenada County","county",28043,"March",2020,8888,9330,442
-"28","MS","Mississippi","Hancock County","county",28045,"March",2020,17683,18641,958
-"28","MS","Mississippi","Harrison County","county",28047,"March",2020,81537,85611,4074
-"28","MS","Mississippi","Hinds County","county",28049,"March",2020,99315,104498,5183
-"28","MS","Mississippi","Holmes County","county",28051,"March",2020,5155,5679,524
-"28","MS","Mississippi","Humphreys County","county",28053,"March",2020,2070,2305,235
-"28","MS","Mississippi","Issaquena County","county",28055,"March",2020,355,387,32
-"28","MS","Mississippi","Itawamba County","county",28057,"March",2020,10005,10503,498
-"28","MS","Mississippi","Jackson County","county",28059,"March",2020,54652,57805,3153
-"28","MS","Mississippi","Jasper County","county",28061,"March",2020,5717,6132,415
-"28","MS","Mississippi","Jefferson County","county",28063,"March",2020,1702,1946,244
-"28","MS","Mississippi","Jefferson Davis County","county",28065,"March",2020,3850,4106,256
-"28","MS","Mississippi","Jones County","county",28067,"March",2020,24552,25875,1323
-"28","MS","Mississippi","Kemper County","county",28069,"March",2020,3297,3570,273
-"28","MS","Mississippi","Lafayette County","county",28071,"March",2020,27233,28365,1132
-"28","MS","Mississippi","Lamar County","county",28073,"March",2020,29448,30673,1225
-"28","MS","Mississippi","Lauderdale County","county",28075,"March",2020,28614,30095,1481
-"28","MS","Mississippi","Lawrence County","county",28077,"March",2020,4254,4537,283
-"28","MS","Mississippi","Leake County","county",28079,"March",2020,7524,7936,412
-"28","MS","Mississippi","Lee County","county",28081,"March",2020,39080,40762,1682
-"28","MS","Mississippi","Leflore County","county",28083,"March",2020,9304,9999,695
-"28","MS","Mississippi","Lincoln County","county",28085,"March",2020,13660,14379,719
-"28","MS","Mississippi","Lowndes County","county",28087,"March",2020,23792,25035,1243
-"28","MS","Mississippi","Madison County","county",28089,"March",2020,49945,52133,2188
-"28","MS","Mississippi","Marion County","county",28091,"March",2020,9419,9917,498
-"28","MS","Mississippi","Marshall County","county",28093,"March",2020,13540,14268,728
-"28","MS","Mississippi","Monroe County","county",28095,"March",2020,14679,15449,770
-"28","MS","Mississippi","Montgomery County","county",28097,"March",2020,3687,3909,222
-"28","MS","Mississippi","Neshoba County","county",28099,"March",2020,9621,10203,582
-"28","MS","Mississippi","Newton County","county",28101,"March",2020,8369,8821,452
-"28","MS","Mississippi","Noxubee County","county",28103,"March",2020,3559,3829,270
-"28","MS","Mississippi","Oktibbeha County","county",28105,"March",2020,20792,21914,1122
-"28","MS","Mississippi","Panola County","county",28107,"March",2020,11571,12331,760
-"28","MS","Mississippi","Pearl River County","county",28109,"March",2020,22519,23651,1132
-"28","MS","Mississippi","Perry County","county",28111,"March",2020,4030,4302,272
-"28","MS","Mississippi","Pike County","county",28113,"March",2020,13606,14463,857
-"28","MS","Mississippi","Pontotoc County","county",28115,"March",2020,14083,14676,593
-"28","MS","Mississippi","Prentiss County","county",28117,"March",2020,10728,11270,542
-"28","MS","Mississippi","Quitman County","county",28119,"March",2020,2227,2394,167
-"28","MS","Mississippi","Rankin County","county",28121,"March",2020,71637,74428,2791
-"28","MS","Mississippi","Scott County","county",28123,"March",2020,12116,12645,529
-"28","MS","Mississippi","Sharkey County","county",28125,"March",2020,1501,1628,127
-"28","MS","Mississippi","Simpson County","county",28127,"March",2020,10057,10596,539
-"28","MS","Mississippi","Smith County","county",28129,"March",2020,6546,6872,326
-"28","MS","Mississippi","Stone County","county",28131,"March",2020,6504,6916,412
-"28","MS","Mississippi","Sunflower County","county",28133,"March",2020,7131,7787,656
-"28","MS","Mississippi","Tallahatchie County","county",28135,"March",2020,4999,5308,309
-"28","MS","Mississippi","Tate County","county",28137,"March",2020,11629,12256,627
-"28","MS","Mississippi","Tippah County","county",28139,"March",2020,8905,9337,432
-"28","MS","Mississippi","Tishomingo County","county",28141,"March",2020,8108,8576,468
-"28","MS","Mississippi","Tunica County","county",28143,"March",2020,4181,4437,256
-"28","MS","Mississippi","Union County","county",28145,"March",2020,13718,14286,568
-"28","MS","Mississippi","Walthall County","county",28147,"March",2020,4474,4797,323
-"28","MS","Mississippi","Warren County","county",28149,"March",2020,18878,19905,1027
-"28","MS","Mississippi","Washington County","county",28151,"March",2020,15698,16878,1180
-"28","MS","Mississippi","Wayne County","county",28153,"March",2020,7082,7513,431
-"28","MS","Mississippi","Webster County","county",28155,"March",2020,3732,3955,223
-"28","MS","Mississippi","Wilkinson County","county",28157,"March",2020,2525,2777,252
-"28","MS","Mississippi","Winston County","county",28159,"March",2020,6978,7401,423
-"28","MS","Mississippi","Yalobusha County","county",28161,"March",2020,4659,4900,241
-"28","MS","Mississippi","Yazoo County","county",28163,"March",2020,8787,9337,550
-"28","MS","Mississippi","Adams County","county",28001,"February",2020,10420,11150,730
-"28","MS","Mississippi","Alcorn County","county",28003,"February",2020,15422,16148,726
-"28","MS","Mississippi","Amite County","county",28005,"February",2020,4056,4357,301
-"28","MS","Mississippi","Attala County","county",28007,"February",2020,6513,6958,445
-"28","MS","Mississippi","Benton County","county",28009,"February",2020,2845,3024,179
-"28","MS","Mississippi","Bolivar County","county",28011,"February",2020,11133,11978,845
-"28","MS","Mississippi","Calhoun County","county",28013,"February",2020,5228,5535,307
-"28","MS","Mississippi","Carroll County","county",28015,"February",2020,3232,3444,212
-"28","MS","Mississippi","Chickasaw County","county",28017,"February",2020,6413,6753,340
-"28","MS","Mississippi","Choctaw County","county",28019,"February",2020,3449,3646,197
-"28","MS","Mississippi","Claiborne County","county",28021,"February",2020,2669,2951,282
-"28","MS","Mississippi","Clarke County","county",28023,"February",2020,5559,5925,366
-"28","MS","Mississippi","Clay County","county",28025,"February",2020,7066,7606,540
-"28","MS","Mississippi","Coahoma County","county",28027,"February",2020,7549,8211,662
-"28","MS","Mississippi","Copiah County","county",28029,"February",2020,10366,11031,665
-"28","MS","Mississippi","Covington County","county",28031,"February",2020,7634,8030,396
-"28","MS","Mississippi","DeSoto County","county",28033,"February",2020,86751,90466,3715
-"28","MS","Mississippi","Forrest County","county",28035,"February",2020,31731,33277,1546
-"28","MS","Mississippi","Franklin County","county",28037,"February",2020,2560,2736,176
-"28","MS","Mississippi","George County","county",28039,"February",2020,8091,8717,626
-"28","MS","Mississippi","Greene County","county",28041,"February",2020,3978,4324,346
-"28","MS","Mississippi","Grenada County","county",28043,"February",2020,8840,9285,445
-"28","MS","Mississippi","Hancock County","county",28045,"February",2020,17755,18743,988
-"28","MS","Mississippi","Harrison County","county",28047,"February",2020,81992,86198,4206
-"28","MS","Mississippi","Hinds County","county",28049,"February",2020,100470,105551,5081
-"28","MS","Mississippi","Holmes County","county",28051,"February",2020,5081,5599,518
-"28","MS","Mississippi","Humphreys County","county",28053,"February",2020,1970,2228,258
-"28","MS","Mississippi","Issaquena County","county",28055,"February",2020,335,365,30
-"28","MS","Mississippi","Itawamba County","county",28057,"February",2020,9985,10475,490
-"28","MS","Mississippi","Jackson County","county",28059,"February",2020,54990,58261,3271
-"28","MS","Mississippi","Jasper County","county",28061,"February",2020,5662,6139,477
-"28","MS","Mississippi","Jefferson County","county",28063,"February",2020,1677,1948,271
-"28","MS","Mississippi","Jefferson Davis County","county",28065,"February",2020,3844,4122,278
-"28","MS","Mississippi","Jones County","county",28067,"February",2020,24448,25806,1358
-"28","MS","Mississippi","Kemper County","county",28069,"February",2020,3260,3516,256
-"28","MS","Mississippi","Lafayette County","county",28071,"February",2020,27355,28439,1084
-"28","MS","Mississippi","Lamar County","county",28073,"February",2020,29586,30837,1251
-"28","MS","Mississippi","Lauderdale County","county",28075,"February",2020,28875,30362,1487
-"28","MS","Mississippi","Lawrence County","county",28077,"February",2020,4234,4506,272
-"28","MS","Mississippi","Leake County","county",28079,"February",2020,7392,7820,428
-"28","MS","Mississippi","Lee County","county",28081,"February",2020,39264,40947,1683
-"28","MS","Mississippi","Leflore County","county",28083,"February",2020,9194,9912,718
-"28","MS","Mississippi","Lincoln County","county",28085,"February",2020,13637,14394,757
-"28","MS","Mississippi","Lowndes County","county",28087,"February",2020,23811,25077,1266
-"28","MS","Mississippi","Madison County","county",28089,"February",2020,50498,52612,2114
-"28","MS","Mississippi","Marion County","county",28091,"February",2020,9404,9942,538
-"28","MS","Mississippi","Marshall County","county",28093,"February",2020,13582,14335,753
-"28","MS","Mississippi","Monroe County","county",28095,"February",2020,14684,15466,782
-"28","MS","Mississippi","Montgomery County","county",28097,"February",2020,3658,3894,236
-"28","MS","Mississippi","Neshoba County","county",28099,"February",2020,9410,9993,583
-"28","MS","Mississippi","Newton County","county",28101,"February",2020,8350,8812,462
-"28","MS","Mississippi","Noxubee County","county",28103,"February",2020,3470,3732,262
-"28","MS","Mississippi","Oktibbeha County","county",28105,"February",2020,20970,22040,1070
-"28","MS","Mississippi","Panola County","county",28107,"February",2020,11536,12301,765
-"28","MS","Mississippi","Pearl River County","county",28109,"February",2020,22628,23773,1145
-"28","MS","Mississippi","Perry County","county",28111,"February",2020,4020,4311,291
-"28","MS","Mississippi","Pike County","county",28113,"February",2020,13436,14280,844
-"28","MS","Mississippi","Pontotoc County","county",28115,"February",2020,14096,14695,599
-"28","MS","Mississippi","Prentiss County","county",28117,"February",2020,10654,11194,540
-"28","MS","Mississippi","Quitman County","county",28119,"February",2020,2133,2313,180
-"28","MS","Mississippi","Rankin County","county",28121,"February",2020,72456,75331,2875
-"28","MS","Mississippi","Scott County","county",28123,"February",2020,11949,12496,547
-"28","MS","Mississippi","Sharkey County","county",28125,"February",2020,1445,1588,143
-"28","MS","Mississippi","Simpson County","county",28127,"February",2020,10095,10662,567
-"28","MS","Mississippi","Smith County","county",28129,"February",2020,6443,6806,363
-"28","MS","Mississippi","Stone County","county",28131,"February",2020,6450,6846,396
-"28","MS","Mississippi","Sunflower County","county",28133,"February",2020,6886,7587,701
-"28","MS","Mississippi","Tallahatchie County","county",28135,"February",2020,4871,5205,334
-"28","MS","Mississippi","Tate County","county",28137,"February",2020,11601,12236,635
-"28","MS","Mississippi","Tippah County","county",28139,"February",2020,8922,9354,432
-"28","MS","Mississippi","Tishomingo County","county",28141,"February",2020,8081,8546,465
-"28","MS","Mississippi","Tunica County","county",28143,"February",2020,4133,4401,268
-"28","MS","Mississippi","Union County","county",28145,"February",2020,13709,14286,577
-"28","MS","Mississippi","Walthall County","county",28147,"February",2020,4434,4748,314
-"28","MS","Mississippi","Warren County","county",28149,"February",2020,18851,19905,1054
-"28","MS","Mississippi","Washington County","county",28151,"February",2020,15469,16704,1235
-"28","MS","Mississippi","Wayne County","county",28153,"February",2020,6931,7383,452
-"28","MS","Mississippi","Webster County","county",28155,"February",2020,3715,3937,222
-"28","MS","Mississippi","Wilkinson County","county",28157,"February",2020,2514,2779,265
-"28","MS","Mississippi","Winston County","county",28159,"February",2020,6927,7357,430
-"28","MS","Mississippi","Yalobusha County","county",28161,"February",2020,4691,4943,252
-"28","MS","Mississippi","Yazoo County","county",28163,"February",2020,8722,9272,550
-"28","MS","Mississippi","Adams County","county",28001,"January",2020,10420,11192,772
-"28","MS","Mississippi","Alcorn County","county",28003,"January",2020,15365,16116,751
-"28","MS","Mississippi","Amite County","county",28005,"January",2020,4019,4340,321
-"28","MS","Mississippi","Attala County","county",28007,"January",2020,6509,6972,463
-"28","MS","Mississippi","Benton County","county",28009,"January",2020,2841,3024,183
-"28","MS","Mississippi","Bolivar County","county",28011,"January",2020,10949,11876,927
-"28","MS","Mississippi","Calhoun County","county",28013,"January",2020,5166,5487,321
-"28","MS","Mississippi","Carroll County","county",28015,"January",2020,3202,3422,220
-"28","MS","Mississippi","Chickasaw County","county",28017,"January",2020,6376,6727,351
-"28","MS","Mississippi","Choctaw County","county",28019,"January",2020,3393,3593,200
-"28","MS","Mississippi","Claiborne County","county",28021,"January",2020,2649,2958,309
-"28","MS","Mississippi","Clarke County","county",28023,"January",2020,5522,5908,386
-"28","MS","Mississippi","Clay County","county",28025,"January",2020,7031,7612,581
-"28","MS","Mississippi","Coahoma County","county",28027,"January",2020,7505,8212,707
-"28","MS","Mississippi","Copiah County","county",28029,"January",2020,10303,11005,702
-"28","MS","Mississippi","Covington County","county",28031,"January",2020,7610,8010,400
-"28","MS","Mississippi","DeSoto County","county",28033,"January",2020,86625,90445,3820
-"28","MS","Mississippi","Forrest County","county",28035,"January",2020,31599,33196,1597
-"28","MS","Mississippi","Franklin County","county",28037,"January",2020,2529,2727,198
-"28","MS","Mississippi","George County","county",28039,"January",2020,8003,8723,720
-"28","MS","Mississippi","Greene County","county",28041,"January",2020,3951,4362,411
-"28","MS","Mississippi","Grenada County","county",28043,"January",2020,8845,9312,467
-"28","MS","Mississippi","Hancock County","county",28045,"January",2020,17532,18546,1014
-"28","MS","Mississippi","Harrison County","county",28047,"January",2020,81145,85452,4307
-"28","MS","Mississippi","Hinds County","county",28049,"January",2020,100102,105298,5196
-"28","MS","Mississippi","Holmes County","county",28051,"January",2020,5065,5639,574
-"28","MS","Mississippi","Humphreys County","county",28053,"January",2020,1928,2207,279
-"28","MS","Mississippi","Issaquena County","county",28055,"January",2020,329,371,42
-"28","MS","Mississippi","Itawamba County","county",28057,"January",2020,9956,10423,467
-"28","MS","Mississippi","Jackson County","county",28059,"January",2020,54471,57905,3434
-"28","MS","Mississippi","Jasper County","county",28061,"January",2020,5646,6158,512
-"28","MS","Mississippi","Jefferson County","county",28063,"January",2020,1674,2025,351
-"28","MS","Mississippi","Jefferson Davis County","county",28065,"January",2020,3806,4078,272
-"28","MS","Mississippi","Jones County","county",28067,"January",2020,24403,25798,1395
-"28","MS","Mississippi","Kemper County","county",28069,"January",2020,3232,3496,264
-"28","MS","Mississippi","Lafayette County","county",28071,"January",2020,26279,27426,1147
-"28","MS","Mississippi","Lamar County","county",28073,"January",2020,29481,30757,1276
-"28","MS","Mississippi","Lauderdale County","county",28075,"January",2020,28794,30329,1535
-"28","MS","Mississippi","Lawrence County","county",28077,"January",2020,4214,4515,301
-"28","MS","Mississippi","Leake County","county",28079,"January",2020,7341,7771,430
-"28","MS","Mississippi","Lee County","county",28081,"January",2020,39221,40942,1721
-"28","MS","Mississippi","Leflore County","county",28083,"January",2020,9134,9918,784
-"28","MS","Mississippi","Lincoln County","county",28085,"January",2020,13568,14403,835
-"28","MS","Mississippi","Lowndes County","county",28087,"January",2020,23622,24925,1303
-"28","MS","Mississippi","Madison County","county",28089,"January",2020,50286,52484,2198
-"28","MS","Mississippi","Marion County","county",28091,"January",2020,9342,9905,563
-"28","MS","Mississippi","Marshall County","county",28093,"January",2020,13540,14334,794
-"28","MS","Mississippi","Monroe County","county",28095,"January",2020,14688,15511,823
-"28","MS","Mississippi","Montgomery County","county",28097,"January",2020,3636,3873,237
-"28","MS","Mississippi","Neshoba County","county",28099,"January",2020,9376,9997,621
-"28","MS","Mississippi","Newton County","county",28101,"January",2020,8313,8803,490
-"28","MS","Mississippi","Noxubee County","county",28103,"January",2020,3432,3707,275
-"28","MS","Mississippi","Oktibbeha County","county",28105,"January",2020,20424,21544,1120
-"28","MS","Mississippi","Panola County","county",28107,"January",2020,11536,12329,793
-"28","MS","Mississippi","Pearl River County","county",28109,"January",2020,22492,23652,1160
-"28","MS","Mississippi","Perry County","county",28111,"January",2020,3998,4307,309
-"28","MS","Mississippi","Pike County","county",28113,"January",2020,13357,14265,908
-"28","MS","Mississippi","Pontotoc County","county",28115,"January",2020,14044,14659,615
-"28","MS","Mississippi","Prentiss County","county",28117,"January",2020,10612,11144,532
-"28","MS","Mississippi","Quitman County","county",28119,"January",2020,2102,2298,196
-"28","MS","Mississippi","Rankin County","county",28121,"January",2020,72193,75102,2909
-"28","MS","Mississippi","Scott County","county",28123,"January",2020,11874,12430,556
-"28","MS","Mississippi","Sharkey County","county",28125,"January",2020,1426,1577,151
-"28","MS","Mississippi","Simpson County","county",28127,"January",2020,10033,10592,559
-"28","MS","Mississippi","Smith County","county",28129,"January",2020,6403,6779,376
-"28","MS","Mississippi","Stone County","county",28131,"January",2020,6316,6743,427
-"28","MS","Mississippi","Sunflower County","county",28133,"January",2020,6775,7549,774
-"28","MS","Mississippi","Tallahatchie County","county",28135,"January",2020,4844,5210,366
-"28","MS","Mississippi","Tate County","county",28137,"January",2020,11554,12197,643
-"28","MS","Mississippi","Tippah County","county",28139,"January",2020,8917,9359,442
-"28","MS","Mississippi","Tishomingo County","county",28141,"January",2020,8011,8485,474
-"28","MS","Mississippi","Tunica County","county",28143,"January",2020,4112,4401,289
-"28","MS","Mississippi","Union County","county",28145,"January",2020,13680,14273,593
-"28","MS","Mississippi","Walthall County","county",28147,"January",2020,4436,4772,336
-"28","MS","Mississippi","Warren County","county",28149,"January",2020,18754,19851,1097
-"28","MS","Mississippi","Washington County","county",28151,"January",2020,15393,16706,1313
-"28","MS","Mississippi","Wayne County","county",28153,"January",2020,6853,7333,480
-"28","MS","Mississippi","Webster County","county",28155,"January",2020,3666,3896,230
-"28","MS","Mississippi","Wilkinson County","county",28157,"January",2020,2503,2809,306
-"28","MS","Mississippi","Winston County","county",28159,"January",2020,6900,7338,438
-"28","MS","Mississippi","Yalobusha County","county",28161,"January",2020,4597,4852,255
-"28","MS","Mississippi","Yazoo County","county",28163,"January",2020,8636,9225,589
-"28","MS","Mississippi","Adams County","county",28001,"May",2020,9490,10840,1350
-"28","MS","Mississippi","Alcorn County","county",28003,"May",2020,13860,14940,1080
-"28","MS","Mississippi","Amite County","county",28005,"May",2020,3910,4270,360
-"28","MS","Mississippi","Attala County","county",28007,"May",2020,6100,6730,630
-"28","MS","Mississippi","Benton County","county",28009,"May",2020,2530,2800,270
-"28","MS","Mississippi","Bolivar County","county",28011,"May",2020,10780,11690,910
-"28","MS","Mississippi","Calhoun County","county",28013,"May",2020,5190,5680,490
-"28","MS","Mississippi","Carroll County","county",28015,"May",2020,3000,3280,280
-"28","MS","Mississippi","Chickasaw County","county",28017,"May",2020,5960,6910,950
-"28","MS","Mississippi","Choctaw County","county",28019,"May",2020,3290,3520,230
-"28","MS","Mississippi","Claiborne County","county",28021,"May",2020,2450,2950,500
-"28","MS","Mississippi","Clarke County","county",28023,"May",2020,5040,5590,550
-"28","MS","Mississippi","Clay County","county",28025,"May",2020,6660,7810,1150
-"28","MS","Mississippi","Coahoma County","county",28027,"May",2020,7260,8550,1290
-"28","MS","Mississippi","Copiah County","county",28029,"May",2020,9510,10450,940
-"28","MS","Mississippi","Covington County","county",28031,"May",2020,6990,7560,570
-"28","MS","Mississippi","DeSoto County","county",28033,"May",2020,76850,83430,6580
-"28","MS","Mississippi","Forrest County","county",28035,"May",2020,28430,31530,3100
-"28","MS","Mississippi","Franklin County","county",28037,"May",2020,2480,2720,240
-"28","MS","Mississippi","George County","county",28039,"May",2020,7630,8550,920
-"28","MS","Mississippi","Greene County","county",28041,"May",2020,3790,4220,430
-"28","MS","Mississippi","Grenada County","county",28043,"May",2020,8260,8980,720
-"28","MS","Mississippi","Hancock County","county",28045,"May",2020,15540,17810,2270
-"28","MS","Mississippi","Harrison County","county",28047,"May",2020,71880,85450,13570
-"28","MS","Mississippi","Hinds County","county",28049,"May",2020,90290,103040,12750
-"28","MS","Mississippi","Holmes County","county",28051,"May",2020,4660,5920,1260
-"28","MS","Mississippi","Humphreys County","county",28053,"May",2020,2010,2330,320
-"28","MS","Mississippi","Issaquena County","county",28055,"May",2020,340,370,30
-"28","MS","Mississippi","Itawamba County","county",28057,"May",2020,9050,9920,870
-"28","MS","Mississippi","Jackson County","county",28059,"May",2020,45230,56670,8440
-"28","MS","Mississippi","Jasper County","county",28061,"May",2020,5300,5810,510
-"28","MS","Mississippi","Jefferson County","county",28063,"May",2020,1610,1970,360
-"28","MS","Mississippi","Jefferson Davis County","county",28065,"May",2020,3510,3900,390
-"28","MS","Mississippi","Jones County","county",28067,"May",2020,22550,24310,1760
-"28","MS","Mississippi","Kemper County","county",28069,"May",2020,3060,3450,390
-"28","MS","Mississippi","Lafayette County","county",28071,"May",2020,23930,25920,1990
-"28","MS","Mississippi","Lamar County","county",28073,"May",2020,25410,28620,2210
-"28","MS","Mississippi","Lauderdale County","county",28075,"May",2020,2570,28370,2500
-"28","MS","Mississippi","Lawrence County","county",28077,"May",2020,3990,4430,440
-"28","MS","Mississippi","Leake County","county",28079,"May",2020,7130,7950,820
-"28","MS","Mississippi","Lee County","county",28081,"May",2020,35040,39660,4620
-"28","MS","Mississippi","Leflore County","county",28083,"May",2020,8470,9480,1010
-"28","MS","Mississippi","Lincoln County","county",28085,"May",2020,12630,13900,1270
-"28","MS","Mississippi","Lowndes County","county",28087,"May",2020,21570,24110,2540
-"28","MS","Mississippi","Madison County","county",28089,"May",2020,45370,50410,5040
-"28","MS","Mississippi","Marion County","county",28091,"May",2020,8550,9290,740
-"28","MS","Mississippi","Marshall County","county",28093,"May",2020,12090,13190,1100
-"28","MS","Mississippi","Monroe County","county",28095,"May",2020,13120,14860,1740
-"28","MS","Mississippi","Montgomery County","county",28097,"May",2020,3470,3810,340
-"28","MS","Mississippi","Neshoba County","county",28099,"May",2020,9070,10540,1470
-"28","MS","Mississippi","Newton County","county",28101,"May",2020,7590,8410,820
-"28","MS","Mississippi","Noxubee County","county",28103,"May",2020,3360,3850,490
-"28","MS","Mississippi","Oktibbeha County","county",28105,"May",2020,19320,21300,1980
-"28","MS","Mississippi","Panola County","county",28107,"May",2020,10630,12020,1390
-"28","MS","Mississippi","Pearl River County","county",28109,"May",2020,19800,21870,2070
-"28","MS","Mississippi","Perry County","county",28111,"May",2020,3650,4030,380
-"28","MS","Mississippi","Pike County","county",28113,"May",2020,12550,13940,1390
-"28","MS","Mississippi","Pontotoc County","county",28115,"May",2020,12650,14120,1470
-"28","MS","Mississippi","Prentiss County","county",28117,"May",2020,9860,10770,910
-"28","MS","Mississippi","Quitman County","county",28119,"May",2020,2140,2430,290
-"28","MS","Mississippi","Rankin County","county",28121,"May",2020,65150,70180,5030
-"28","MS","Mississippi","Scott County","county",28123,"May",2020,11280,12170,890
-"28","MS","Mississippi","Sharkey County","county",28125,"May",2020,1410,1570,160
-"28","MS","Mississippi","Simpson County","county",28127,"May",2020,9230,9930,700
-"28","MS","Mississippi","Smith County","county",28129,"May",2020,6040,6390,350
-"28","MS","Mississippi","Stone County","county",28131,"May",2020,5870,6540,670
-"28","MS","Mississippi","Sunflower County","county",28133,"May",2020,6870,7600,730
-"28","MS","Mississippi","Tallahatchie County","county",28135,"May",2020,4790,5150,360
-"28","MS","Mississippi","Tate County","county",28137,"May",2020,10470,11520,1050
-"28","MS","Mississippi","Tippah County","county",28139,"May",2020,8050,8760,730
-"28","MS","Mississippi","Tishomingo County","county",28141,"May",2020,7460,8120,640
-"28","MS","Mississippi","Tunica County","county",28143,"May",2020,3830,5000,1170
-"28","MS","Mississippi","Union County","county",28145,"May",2020,12210,13550,1340
-"28","MS","Mississippi","Walthall County","county",28147,"May",2020,4220,4660,440
-"28","MS","Mississippi","Warren County","county",28149,"May",2020,17120,19520,2400
-"28","MS","Mississippi","Washington County","county",28151,"May",2020,14520,16390,1870
-"28","MS","Mississippi","Wayne County","county",28153,"May",2020,6590,7210,620
-"28","MS","Mississippi","Webster County","county",28155,"May",2020,3440,3740,300
-"28","MS","Mississippi","Wilkinson County","county",28157,"May",2020,2280,2650,370
-"28","MS","Mississippi","Winston County","county",28159,"May",2020,6370,7160,790
-"28","MS","Mississippi","Yalobusha County","county",28161,"May",2020,4150,4650,500
-"28","MS","Mississippi","Yazoo County","county",28163,"May",2020,8150,9410,1260
-"28","MS","Mississippi","Adams County","county",28001,"April",2020,8600,10360,1760
-"28","MS","Mississippi","Alcorn County","county",28003,"April",2020,12860,14720,1860
-"28","MS","Mississippi","Amite County","county",28005,"April",2020,3590,4060,470
-"28","MS","Mississippi","Attala County","county",28007,"April",2020,5620,6480,860
-"28","MS","Mississippi","Benton County","county",28009,"April",2020,2360,2770,410
-"28","MS","Mississippi","Bolivar County","county",28011,"April",2020,9970,11190,1220
-"28","MS","Mississippi","Calhoun County","county",28013,"April",2020,4750,5960,1210
-"28","MS","Mississippi","Carroll County","county",28015,"April",2020,2780,3210,430
-"28","MS","Mississippi","Chickasaw County","county",28017,"April",2020,5500,7020,2320
-"28","MS","Mississippi","Choctaw County","county",28019,"April",2020,3030,3360,330
-"28","MS","Mississippi","Claiborne County","county",28021,"April",2020,2270,2070,600
-"28","MS","Mississippi","Clarke County","county",28023,"April",2020,4660,5390,730
-"28","MS","Mississippi","Clay County","county",28025,"April",2020,6190,8100,1910
-"28","MS","Mississippi","Coahoma County","county",28027,"April",2020,6650,8410,1760
-"28","MS","Mississippi","Copiah County","county",28029,"April",2020,8900,10130,1230
-"28","MS","Mississippi","Covington County","county",28031,"April",2020,6450,7170,720
-"28","MS","Mississippi","DeSoto County","county",28033,"April",2020,71630,80870,9240
-"28","MS","Mississippi","Forrest County","county",28035,"April",2020,26490,30770,4280
-"28","MS","Mississippi","Franklin County","county",28037,"April",2020,2260,2570,310
-"28","MS","Mississippi","George County","county",28039,"April",2020,7030,8280,1250
-"28","MS","Mississippi","Greene County","county",28041,"April",2020,3490,4070,580
-"28","MS","Mississippi","Grenada County","county",28043,"April",2020,7520,8630,1110
-"28","MS","Mississippi","Hancock County","county",28045,"April",2020,14310,17490,3180
-"28","MS","Mississippi","Harrison County","county",28047,"April",2020,66210,85800,19590
-"28","MS","Mississippi","Hinds County","county",28049,"April",2020,84670,102090,17420
-"28","MS","Mississippi","Holmes County","county",28051,"April",2020,4380,6040,1660
-"28","MS","Mississippi","Humphreys County","county",28053,"April",2020,1860,2260,400
-"28","MS","Mississippi","Issaquena County","county",28055,"April",2020,310,350,40
-"28","MS","Mississippi","Itawamba County","county",28057,"April",2020,8340,10410,2070
-"28","MS","Mississippi","Jackson County","county",28059,"April",2020,44430,56270,11840
-"28","MS","Mississippi","Jasper County","county",28061,"April",2020,4920,5560,640
-"28","MS","Mississippi","Jefferson County","county",28063,"April",2020,1470,1070,400
-"28","MS","Mississippi","Jefferson Davis County","county",28065,"April",2020,3270,3770,500
-"28","MS","Mississippi","Jones County","county",28067,"April",2020,20980,23390,2410
-"28","MS","Mississippi","Kemper County","county",28069,"April",2020,2820,3290,470
-"28","MS","Mississippi","Lafayette County","county",28071,"April",2020,22510,25460,2950
-"28","MS","Mississippi","Lamar County","county",28073,"April",2020,24620,27760,3140
-"28","MS","Mississippi","Lauderdale County","county",28075,"April",2020,23950,27300,3430
-"28","MS","Mississippi","Lawrence County","county",28077,"April",2020,3660,2450,590
-"28","MS","Mississippi","Leake County","county",28079,"April",2020,6520,7580,1060
-"28","MS","Mississippi","Lee County","county",28081,"April",2020,32310,41140,8830
-"28","MS","Mississippi","Leflore County","county",28083,"April",2020,7840,9460,1620
-"28","MS","Mississippi","Lincoln County","county",28085,"April",2020,11590,13360,1770
-"28","MS","Mississippi","Lowndes County","county",28087,"April",2020,20010,23750,3740
-"28","MS","Mississippi","Madison County","county",28089,"April",2020,42540,49530,6990
-"28","MS","Mississippi","Marion County","county",28091,"April",2020,7850,8860,1010
-"28","MS","Mississippi","Marshall County","county",28093,"April",2020,11260,12660,1400
-"28","MS","Mississippi","Monroe County","county",28095,"April",2020,12040,15490,3450
-"28","MS","Mississippi","Montgomery County","county",28097,"April",2020,3180,3690,510
-"28","MS","Mississippi","Neshoba County","county",28099,"April",2020,8170,9950,1780
-"28","MS","Mississippi","Newton County","county",28101,"April",2020,7010,8100,1090
-"28","MS","Mississippi","Noxubee County","county",28103,"April",2020,3090,3720,630
-"28","MS","Mississippi","Oktibbeha County","county",28105,"April",2020,17830,20700,2870
-"28","MS","Mississippi","Panola County","county",28107,"April",2020,9800,11720,1920
-"28","MS","Mississippi","Pearl River County","county",28109,"April",2020,18410,21060,2650
-"28","MS","Mississippi","Perry County","county",28111,"April",2020,3390,3910,520
-"28","MS","Mississippi","Pike County","county",28113,"April",2020,11550,13330,1780
-"28","MS","Mississippi","Pontotoc County","county",28115,"April",2020,11650,15370,3720
-"28","MS","Mississippi","Prentiss County","county",28117,"April",2020,9050,10910,1860
-"28","MS","Mississippi","Quitman County","county",28119,"April",2020,1970,2350,380
-"28","MS","Mississippi","Rankin County","county",28121,"April",2020,61100,68900,7800
-"28","MS","Mississippi","Scott County","county",28123,"April",2020,10390,11540,1150
-"28","MS","Mississippi","Sharkey County","county",28125,"April",2020,1310,1500,190
-"28","MS","Mississippi","Simpson County","county",28127,"April",2020,8640,9590,950
-"28","MS","Mississippi","Smith County","county",28129,"April",2020,5590,6060,470
-"28","MS","Mississippi","Stone County","county",28131,"April",2020,5430,6380,950
-"28","MS","Mississippi","Sunflower County","county",28133,"April",2020,6290,7320,1030
-"28","MS","Mississippi","Tallahatchie County","county",28135,"April",2020,4360,4830,470
-"28","MS","Mississippi","Tate County","county",28137,"April",2020,9740,11110,1370
-"28","MS","Mississippi","Tippah County","county",28139,"April",2020,7500,9180,1880
-"28","MS","Mississippi","Tishomingo County","county",28141,"April",2020,6990,8140,1150
-"28","MS","Mississippi","Tunica County","county",28143,"April",2020,3560,5070,1510
-"28","MS","Mississippi","Union County","county",28145,"April",2020,11230,14150,2920
-"28","MS","Mississippi","Walthall County","county",28147,"April",2020,3880,4450,570
-"28","MS","Mississippi","Warren County","county",28149,"April",2020,15860,19080,3220
-"28","MS","Mississippi","Washington County","county",28151,"April",2020,13300,15780,2480
-"28","MS","Mississippi","Wayne County","county",28153,"April",2020,6070,6850,780
-"28","MS","Mississippi","Webster County","county",28155,"April",2020,3210,3690,480
-"28","MS","Mississippi","Wilkinson County","county",28157,"April",2020,2100,2480,380
-"28","MS","Mississippi","Winston County","county",28159,"April",2020,5850,6850,1000
-"28","MS","Mississippi","Yalobusha County","county",28161,"April",2020,3870,4610,740
-"28","MS","Mississippi","Yazoo County","county",28163,"April",2020,7610,9250,1640
-"28","MS","Mississippi","Biloxi","city",NA,"May",2020,16170,19830,3660
-"28","MS","Mississippi","Clinton","city",NA,"May",2020,11140,12090,950
-"28","MS","Mississippi","Columbus","city",NA,"May",2020,8360,9510,1150
-"28","MS","Mississippi","Greenville","city",NA,"May",2020,9750,11120,1370
-"28","MS","Mississippi","Gulfport","city",NA,"May",2020,23810,29150,5340
-"28","MS","Mississippi","Hattiesburg","city",NA,"May",2020,18430,20610,2180
-"28","MS","Mississippi","Horn Lake","city",NA,"May",2020,10850,12340,1490
-"28","MS","Mississippi","Jackson","city",NA,"May",2020,60580,70400,9820
-"28","MS","Mississippi","Madison","city",NA,"May",2020,11310,12110,800
-"28","MS","Mississippi","Meridian","city",NA,"May",2020,12350,13730,1380
-"28","MS","Mississippi","Moss Point","city",NA,"May",2020,4150,4880,730
-"28","MS","Mississippi","Olive Branch","city",NA,"May",2020,17150,18220,1070
-"28","MS","Mississippi","Pascagoula","city",NA,"May",2020,7140,8320,1180
-"28","MS","Mississippi","Pearl","city",NA,"May",2020,10870,11880,1010
-"28","MS","Mississippi","Southaven","city",NA,"May",2020,23810,25870,2060
-"28","MS","Mississippi","Starkville","city",NA,"May",2020,10530,11650,1120
-"28","MS","Mississippi","Tupelo","city",NA,"May",2020,15060,17430,2370
-"28","MS","Mississippi","Vicksburg","city",NA,"May",2020,7590,9010,1420
-"28","MS","Mississippi","Mississippi","state",NA,"January",2020,1190407,1257892,67485
-"28","MS","Mississippi","Mississippi","state",NA,"February",2020,1198146,1262857,64711
-"28","MS","Mississippi","Mississippi","state",NA,"March",2020,1207861,1268451,60590
-"28","MS","Mississippi","Mississippi","state",NA,"April",2020,1006236,1194015,187779
-"28","MS","Mississippi","Mississippi","state",NA,"May",2020,1085200,1213000,127800
-"28","MS","Mississippi","Biloxi","city",NA,"April",2020,14900,20180,5280
-"28","MS","Mississippi","Clinton","city",NA,"April",2020,10450,11830,1380
-"28","MS","Mississippi","Columbus","city",NA,"April",2020,7750,9410,1660
-"28","MS","Mississippi","Greenville","city",NA,"April",2020,8930,10750,1820
-"28","MS","Mississippi","Gulfport","city",NA,"April",2020,21930,29470,7540
-"28","MS","Mississippi","Hattiesburg","city",NA,"April",2020,17170,20100,2930
-"28","MS","Mississippi","Horn Lake","city",NA,"April",2020,10110,11920,1810
-"28","MS","Mississippi","Jackson","city",NA,"April",2020,56810,69980,13170
-"28","MS","Mississippi","Madison","city",NA,"April",2020,10600,11830,1230
-"28","MS","Mississippi","Meridian","city",NA,"April",2020,11430,13290,1860
-"28","MS","Mississippi","Moss Point","city",NA,"April",2020,3820,4770,950
-"28","MS","Mississippi","Olive Branch","city",NA,"April",2020,15990,17450,1460
-"28","MS","Mississippi","Pascagoula","city",NA,"April",2020,6580,8090,1510
-"28","MS","Mississippi","Pearl","city",NA,"April",2020,10.19,11.71,1520
-"28","MS","Mississippi","Southaven","city",NA,"April",2020,22190,24930,2740
-"28","MS","Mississippi","Starkville","city",NA,"April",2020,9710,11350,1640
-"28","MS","Mississippi","Tupelo","city",NA,"April",2020,13890,18200,4310
-"28","MS","Mississippi","Vicksburg","city",NA,"April",2020,7030,8870,1840
+"state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
+"28","MS","Mississippi","Adams County","county",28001,"March",2020,11182,10438,744
+"28","MS","Mississippi","Alcorn County","county",28003,"March",2020,16080,15365,715
+"28","MS","Mississippi","Amite County","county",28005,"March",2020,4447,4162,285
+"28","MS","Mississippi","Attala County","county",28007,"March",2020,7009,6593,416
+"28","MS","Mississippi","Benton County","county",28009,"March",2020,3004,2834,170
+"28","MS","Mississippi","Bolivar County","county",28011,"March",2020,12168,11335,833
+"28","MS","Mississippi","Calhoun County","county",28013,"March",2020,5714,5405,309
+"28","MS","Mississippi","Carroll County","county",28015,"March",2020,3496,3287,209
+"28","MS","Mississippi","Chickasaw County","county",28017,"March",2020,6809,6460,349
+"28","MS","Mississippi","Choctaw County","county",28019,"March",2020,3700,3514,186
+"28","MS","Mississippi","Claiborne County","county",28021,"March",2020,2959,2687,272
+"28","MS","Mississippi","Clarke County","county",28023,"March",2020,5906,5552,354
+"28","MS","Mississippi","Clay County","county",28025,"March",2020,7743,7193,550
+"28","MS","Mississippi","Coahoma County","county",28027,"March",2020,8294,7683,611
+"28","MS","Mississippi","Copiah County","county",28029,"March",2020,10989,10341,648
+"28","MS","Mississippi","Covington County","county",28031,"March",2020,8050,7682,368
+"28","MS","Mississippi","DeSoto County","county",28033,"March",2020,89911,86245,3666
+"28","MS","Mississippi","Forrest County","county",28035,"March",2020,33164,31638,1526
+"28","MS","Mississippi","Franklin County","county",28037,"March",2020,2768,2599,169
+"28","MS","Mississippi","George County","county",28039,"March",2020,8776,8226,550
+"28","MS","Mississippi","Greene County","county",28041,"March",2020,4362,4060,302
+"28","MS","Mississippi","Grenada County","county",28043,"March",2020,9330,8888,442
+"28","MS","Mississippi","Hancock County","county",28045,"March",2020,18641,17683,958
+"28","MS","Mississippi","Harrison County","county",28047,"March",2020,85611,81537,4074
+"28","MS","Mississippi","Hinds County","county",28049,"March",2020,104498,99315,5183
+"28","MS","Mississippi","Holmes County","county",28051,"March",2020,5679,5155,524
+"28","MS","Mississippi","Humphreys County","county",28053,"March",2020,2305,2070,235
+"28","MS","Mississippi","Issaquena County","county",28055,"March",2020,387,355,32
+"28","MS","Mississippi","Itawamba County","county",28057,"March",2020,10503,10005,498
+"28","MS","Mississippi","Jackson County","county",28059,"March",2020,57805,54652,3153
+"28","MS","Mississippi","Jasper County","county",28061,"March",2020,6132,5717,415
+"28","MS","Mississippi","Jefferson County","county",28063,"March",2020,1946,1702,244
+"28","MS","Mississippi","Jefferson Davis County","county",28065,"March",2020,4106,3850,256
+"28","MS","Mississippi","Jones County","county",28067,"March",2020,25875,24552,1323
+"28","MS","Mississippi","Kemper County","county",28069,"March",2020,3570,3297,273
+"28","MS","Mississippi","Lafayette County","county",28071,"March",2020,28365,27233,1132
+"28","MS","Mississippi","Lamar County","county",28073,"March",2020,30673,29448,1225
+"28","MS","Mississippi","Lauderdale County","county",28075,"March",2020,30095,28614,1481
+"28","MS","Mississippi","Lawrence County","county",28077,"March",2020,4537,4254,283
+"28","MS","Mississippi","Leake County","county",28079,"March",2020,7936,7524,412
+"28","MS","Mississippi","Lee County","county",28081,"March",2020,40762,39080,1682
+"28","MS","Mississippi","Leflore County","county",28083,"March",2020,9999,9304,695
+"28","MS","Mississippi","Lincoln County","county",28085,"March",2020,14379,13660,719
+"28","MS","Mississippi","Lowndes County","county",28087,"March",2020,25035,23792,1243
+"28","MS","Mississippi","Madison County","county",28089,"March",2020,52133,49945,2188
+"28","MS","Mississippi","Marion County","county",28091,"March",2020,9917,9419,498
+"28","MS","Mississippi","Marshall County","county",28093,"March",2020,14268,13540,728
+"28","MS","Mississippi","Monroe County","county",28095,"March",2020,15449,14679,770
+"28","MS","Mississippi","Montgomery County","county",28097,"March",2020,3909,3687,222
+"28","MS","Mississippi","Neshoba County","county",28099,"March",2020,10203,9621,582
+"28","MS","Mississippi","Newton County","county",28101,"March",2020,8821,8369,452
+"28","MS","Mississippi","Noxubee County","county",28103,"March",2020,3829,3559,270
+"28","MS","Mississippi","Oktibbeha County","county",28105,"March",2020,21914,20792,1122
+"28","MS","Mississippi","Panola County","county",28107,"March",2020,12331,11571,760
+"28","MS","Mississippi","Pearl River County","county",28109,"March",2020,23651,22519,1132
+"28","MS","Mississippi","Perry County","county",28111,"March",2020,4302,4030,272
+"28","MS","Mississippi","Pike County","county",28113,"March",2020,14463,13606,857
+"28","MS","Mississippi","Pontotoc County","county",28115,"March",2020,14676,14083,593
+"28","MS","Mississippi","Prentiss County","county",28117,"March",2020,11270,10728,542
+"28","MS","Mississippi","Quitman County","county",28119,"March",2020,2394,2227,167
+"28","MS","Mississippi","Rankin County","county",28121,"March",2020,74428,71637,2791
+"28","MS","Mississippi","Scott County","county",28123,"March",2020,12645,12116,529
+"28","MS","Mississippi","Sharkey County","county",28125,"March",2020,1628,1501,127
+"28","MS","Mississippi","Simpson County","county",28127,"March",2020,10596,10057,539
+"28","MS","Mississippi","Smith County","county",28129,"March",2020,6872,6546,326
+"28","MS","Mississippi","Stone County","county",28131,"March",2020,6916,6504,412
+"28","MS","Mississippi","Sunflower County","county",28133,"March",2020,7787,7131,656
+"28","MS","Mississippi","Tallahatchie County","county",28135,"March",2020,5308,4999,309
+"28","MS","Mississippi","Tate County","county",28137,"March",2020,12256,11629,627
+"28","MS","Mississippi","Tippah County","county",28139,"March",2020,9337,8905,432
+"28","MS","Mississippi","Tishomingo County","county",28141,"March",2020,8576,8108,468
+"28","MS","Mississippi","Tunica County","county",28143,"March",2020,4437,4181,256
+"28","MS","Mississippi","Union County","county",28145,"March",2020,14286,13718,568
+"28","MS","Mississippi","Walthall County","county",28147,"March",2020,4797,4474,323
+"28","MS","Mississippi","Warren County","county",28149,"March",2020,19905,18878,1027
+"28","MS","Mississippi","Washington County","county",28151,"March",2020,16878,15698,1180
+"28","MS","Mississippi","Wayne County","county",28153,"March",2020,7513,7082,431
+"28","MS","Mississippi","Webster County","county",28155,"March",2020,3955,3732,223
+"28","MS","Mississippi","Wilkinson County","county",28157,"March",2020,2777,2525,252
+"28","MS","Mississippi","Winston County","county",28159,"March",2020,7401,6978,423
+"28","MS","Mississippi","Yalobusha County","county",28161,"March",2020,4900,4659,241
+"28","MS","Mississippi","Yazoo County","county",28163,"March",2020,9337,8787,550
+"28","MS","Mississippi","Adams County","county",28001,"February",2020,11150,10420,730
+"28","MS","Mississippi","Alcorn County","county",28003,"February",2020,16148,15422,726
+"28","MS","Mississippi","Amite County","county",28005,"February",2020,4357,4056,301
+"28","MS","Mississippi","Attala County","county",28007,"February",2020,6958,6513,445
+"28","MS","Mississippi","Benton County","county",28009,"February",2020,3024,2845,179
+"28","MS","Mississippi","Bolivar County","county",28011,"February",2020,11978,11133,845
+"28","MS","Mississippi","Calhoun County","county",28013,"February",2020,5535,5228,307
+"28","MS","Mississippi","Carroll County","county",28015,"February",2020,3444,3232,212
+"28","MS","Mississippi","Chickasaw County","county",28017,"February",2020,6753,6413,340
+"28","MS","Mississippi","Choctaw County","county",28019,"February",2020,3646,3449,197
+"28","MS","Mississippi","Claiborne County","county",28021,"February",2020,2951,2669,282
+"28","MS","Mississippi","Clarke County","county",28023,"February",2020,5925,5559,366
+"28","MS","Mississippi","Clay County","county",28025,"February",2020,7606,7066,540
+"28","MS","Mississippi","Coahoma County","county",28027,"February",2020,8211,7549,662
+"28","MS","Mississippi","Copiah County","county",28029,"February",2020,11031,10366,665
+"28","MS","Mississippi","Covington County","county",28031,"February",2020,8030,7634,396
+"28","MS","Mississippi","DeSoto County","county",28033,"February",2020,90466,86751,3715
+"28","MS","Mississippi","Forrest County","county",28035,"February",2020,33277,31731,1546
+"28","MS","Mississippi","Franklin County","county",28037,"February",2020,2736,2560,176
+"28","MS","Mississippi","George County","county",28039,"February",2020,8717,8091,626
+"28","MS","Mississippi","Greene County","county",28041,"February",2020,4324,3978,346
+"28","MS","Mississippi","Grenada County","county",28043,"February",2020,9285,8840,445
+"28","MS","Mississippi","Hancock County","county",28045,"February",2020,18743,17755,988
+"28","MS","Mississippi","Harrison County","county",28047,"February",2020,86198,81992,4206
+"28","MS","Mississippi","Hinds County","county",28049,"February",2020,105551,100470,5081
+"28","MS","Mississippi","Holmes County","county",28051,"February",2020,5599,5081,518
+"28","MS","Mississippi","Humphreys County","county",28053,"February",2020,2228,1970,258
+"28","MS","Mississippi","Issaquena County","county",28055,"February",2020,365,335,30
+"28","MS","Mississippi","Itawamba County","county",28057,"February",2020,10475,9985,490
+"28","MS","Mississippi","Jackson County","county",28059,"February",2020,58261,54990,3271
+"28","MS","Mississippi","Jasper County","county",28061,"February",2020,6139,5662,477
+"28","MS","Mississippi","Jefferson County","county",28063,"February",2020,1948,1677,271
+"28","MS","Mississippi","Jefferson Davis County","county",28065,"February",2020,4122,3844,278
+"28","MS","Mississippi","Jones County","county",28067,"February",2020,25806,24448,1358
+"28","MS","Mississippi","Kemper County","county",28069,"February",2020,3516,3260,256
+"28","MS","Mississippi","Lafayette County","county",28071,"February",2020,28439,27355,1084
+"28","MS","Mississippi","Lamar County","county",28073,"February",2020,30837,29586,1251
+"28","MS","Mississippi","Lauderdale County","county",28075,"February",2020,30362,28875,1487
+"28","MS","Mississippi","Lawrence County","county",28077,"February",2020,4506,4234,272
+"28","MS","Mississippi","Leake County","county",28079,"February",2020,7820,7392,428
+"28","MS","Mississippi","Lee County","county",28081,"February",2020,40947,39264,1683
+"28","MS","Mississippi","Leflore County","county",28083,"February",2020,9912,9194,718
+"28","MS","Mississippi","Lincoln County","county",28085,"February",2020,14394,13637,757
+"28","MS","Mississippi","Lowndes County","county",28087,"February",2020,25077,23811,1266
+"28","MS","Mississippi","Madison County","county",28089,"February",2020,52612,50498,2114
+"28","MS","Mississippi","Marion County","county",28091,"February",2020,9942,9404,538
+"28","MS","Mississippi","Marshall County","county",28093,"February",2020,14335,13582,753
+"28","MS","Mississippi","Monroe County","county",28095,"February",2020,15466,14684,782
+"28","MS","Mississippi","Montgomery County","county",28097,"February",2020,3894,3658,236
+"28","MS","Mississippi","Neshoba County","county",28099,"February",2020,9993,9410,583
+"28","MS","Mississippi","Newton County","county",28101,"February",2020,8812,8350,462
+"28","MS","Mississippi","Noxubee County","county",28103,"February",2020,3732,3470,262
+"28","MS","Mississippi","Oktibbeha County","county",28105,"February",2020,22040,20970,1070
+"28","MS","Mississippi","Panola County","county",28107,"February",2020,12301,11536,765
+"28","MS","Mississippi","Pearl River County","county",28109,"February",2020,23773,22628,1145
+"28","MS","Mississippi","Perry County","county",28111,"February",2020,4311,4020,291
+"28","MS","Mississippi","Pike County","county",28113,"February",2020,14280,13436,844
+"28","MS","Mississippi","Pontotoc County","county",28115,"February",2020,14695,14096,599
+"28","MS","Mississippi","Prentiss County","county",28117,"February",2020,11194,10654,540
+"28","MS","Mississippi","Quitman County","county",28119,"February",2020,2313,2133,180
+"28","MS","Mississippi","Rankin County","county",28121,"February",2020,75331,72456,2875
+"28","MS","Mississippi","Scott County","county",28123,"February",2020,12496,11949,547
+"28","MS","Mississippi","Sharkey County","county",28125,"February",2020,1588,1445,143
+"28","MS","Mississippi","Simpson County","county",28127,"February",2020,10662,10095,567
+"28","MS","Mississippi","Smith County","county",28129,"February",2020,6806,6443,363
+"28","MS","Mississippi","Stone County","county",28131,"February",2020,6846,6450,396
+"28","MS","Mississippi","Sunflower County","county",28133,"February",2020,7587,6886,701
+"28","MS","Mississippi","Tallahatchie County","county",28135,"February",2020,5205,4871,334
+"28","MS","Mississippi","Tate County","county",28137,"February",2020,12236,11601,635
+"28","MS","Mississippi","Tippah County","county",28139,"February",2020,9354,8922,432
+"28","MS","Mississippi","Tishomingo County","county",28141,"February",2020,8546,8081,465
+"28","MS","Mississippi","Tunica County","county",28143,"February",2020,4401,4133,268
+"28","MS","Mississippi","Union County","county",28145,"February",2020,14286,13709,577
+"28","MS","Mississippi","Walthall County","county",28147,"February",2020,4748,4434,314
+"28","MS","Mississippi","Warren County","county",28149,"February",2020,19905,18851,1054
+"28","MS","Mississippi","Washington County","county",28151,"February",2020,16704,15469,1235
+"28","MS","Mississippi","Wayne County","county",28153,"February",2020,7383,6931,452
+"28","MS","Mississippi","Webster County","county",28155,"February",2020,3937,3715,222
+"28","MS","Mississippi","Wilkinson County","county",28157,"February",2020,2779,2514,265
+"28","MS","Mississippi","Winston County","county",28159,"February",2020,7357,6927,430
+"28","MS","Mississippi","Yalobusha County","county",28161,"February",2020,4943,4691,252
+"28","MS","Mississippi","Yazoo County","county",28163,"February",2020,9272,8722,550
+"28","MS","Mississippi","Adams County","county",28001,"January",2020,11192,10420,772
+"28","MS","Mississippi","Alcorn County","county",28003,"January",2020,16116,15365,751
+"28","MS","Mississippi","Amite County","county",28005,"January",2020,4340,4019,321
+"28","MS","Mississippi","Attala County","county",28007,"January",2020,6972,6509,463
+"28","MS","Mississippi","Benton County","county",28009,"January",2020,3024,2841,183
+"28","MS","Mississippi","Bolivar County","county",28011,"January",2020,11876,10949,927
+"28","MS","Mississippi","Calhoun County","county",28013,"January",2020,5487,5166,321
+"28","MS","Mississippi","Carroll County","county",28015,"January",2020,3422,3202,220
+"28","MS","Mississippi","Chickasaw County","county",28017,"January",2020,6727,6376,351
+"28","MS","Mississippi","Choctaw County","county",28019,"January",2020,3593,3393,200
+"28","MS","Mississippi","Claiborne County","county",28021,"January",2020,2958,2649,309
+"28","MS","Mississippi","Clarke County","county",28023,"January",2020,5908,5522,386
+"28","MS","Mississippi","Clay County","county",28025,"January",2020,7612,7031,581
+"28","MS","Mississippi","Coahoma County","county",28027,"January",2020,8212,7505,707
+"28","MS","Mississippi","Copiah County","county",28029,"January",2020,11005,10303,702
+"28","MS","Mississippi","Covington County","county",28031,"January",2020,8010,7610,400
+"28","MS","Mississippi","DeSoto County","county",28033,"January",2020,90445,86625,3820
+"28","MS","Mississippi","Forrest County","county",28035,"January",2020,33196,31599,1597
+"28","MS","Mississippi","Franklin County","county",28037,"January",2020,2727,2529,198
+"28","MS","Mississippi","George County","county",28039,"January",2020,8723,8003,720
+"28","MS","Mississippi","Greene County","county",28041,"January",2020,4362,3951,411
+"28","MS","Mississippi","Grenada County","county",28043,"January",2020,9312,8845,467
+"28","MS","Mississippi","Hancock County","county",28045,"January",2020,18546,17532,1014
+"28","MS","Mississippi","Harrison County","county",28047,"January",2020,85452,81145,4307
+"28","MS","Mississippi","Hinds County","county",28049,"January",2020,105298,100102,5196
+"28","MS","Mississippi","Holmes County","county",28051,"January",2020,5639,5065,574
+"28","MS","Mississippi","Humphreys County","county",28053,"January",2020,2207,1928,279
+"28","MS","Mississippi","Issaquena County","county",28055,"January",2020,371,329,42
+"28","MS","Mississippi","Itawamba County","county",28057,"January",2020,10423,9956,467
+"28","MS","Mississippi","Jackson County","county",28059,"January",2020,57905,54471,3434
+"28","MS","Mississippi","Jasper County","county",28061,"January",2020,6158,5646,512
+"28","MS","Mississippi","Jefferson County","county",28063,"January",2020,2025,1674,351
+"28","MS","Mississippi","Jefferson Davis County","county",28065,"January",2020,4078,3806,272
+"28","MS","Mississippi","Jones County","county",28067,"January",2020,25798,24403,1395
+"28","MS","Mississippi","Kemper County","county",28069,"January",2020,3496,3232,264
+"28","MS","Mississippi","Lafayette County","county",28071,"January",2020,27426,26279,1147
+"28","MS","Mississippi","Lamar County","county",28073,"January",2020,30757,29481,1276
+"28","MS","Mississippi","Lauderdale County","county",28075,"January",2020,30329,28794,1535
+"28","MS","Mississippi","Lawrence County","county",28077,"January",2020,4515,4214,301
+"28","MS","Mississippi","Leake County","county",28079,"January",2020,7771,7341,430
+"28","MS","Mississippi","Lee County","county",28081,"January",2020,40942,39221,1721
+"28","MS","Mississippi","Leflore County","county",28083,"January",2020,9918,9134,784
+"28","MS","Mississippi","Lincoln County","county",28085,"January",2020,14403,13568,835
+"28","MS","Mississippi","Lowndes County","county",28087,"January",2020,24925,23622,1303
+"28","MS","Mississippi","Madison County","county",28089,"January",2020,52484,50286,2198
+"28","MS","Mississippi","Marion County","county",28091,"January",2020,9905,9342,563
+"28","MS","Mississippi","Marshall County","county",28093,"January",2020,14334,13540,794
+"28","MS","Mississippi","Monroe County","county",28095,"January",2020,15511,14688,823
+"28","MS","Mississippi","Montgomery County","county",28097,"January",2020,3873,3636,237
+"28","MS","Mississippi","Neshoba County","county",28099,"January",2020,9997,9376,621
+"28","MS","Mississippi","Newton County","county",28101,"January",2020,8803,8313,490
+"28","MS","Mississippi","Noxubee County","county",28103,"January",2020,3707,3432,275
+"28","MS","Mississippi","Oktibbeha County","county",28105,"January",2020,21544,20424,1120
+"28","MS","Mississippi","Panola County","county",28107,"January",2020,12329,11536,793
+"28","MS","Mississippi","Pearl River County","county",28109,"January",2020,23652,22492,1160
+"28","MS","Mississippi","Perry County","county",28111,"January",2020,4307,3998,309
+"28","MS","Mississippi","Pike County","county",28113,"January",2020,14265,13357,908
+"28","MS","Mississippi","Pontotoc County","county",28115,"January",2020,14659,14044,615
+"28","MS","Mississippi","Prentiss County","county",28117,"January",2020,11144,10612,532
+"28","MS","Mississippi","Quitman County","county",28119,"January",2020,2298,2102,196
+"28","MS","Mississippi","Rankin County","county",28121,"January",2020,75102,72193,2909
+"28","MS","Mississippi","Scott County","county",28123,"January",2020,12430,11874,556
+"28","MS","Mississippi","Sharkey County","county",28125,"January",2020,1577,1426,151
+"28","MS","Mississippi","Simpson County","county",28127,"January",2020,10592,10033,559
+"28","MS","Mississippi","Smith County","county",28129,"January",2020,6779,6403,376
+"28","MS","Mississippi","Stone County","county",28131,"January",2020,6743,6316,427
+"28","MS","Mississippi","Sunflower County","county",28133,"January",2020,7549,6775,774
+"28","MS","Mississippi","Tallahatchie County","county",28135,"January",2020,5210,4844,366
+"28","MS","Mississippi","Tate County","county",28137,"January",2020,12197,11554,643
+"28","MS","Mississippi","Tippah County","county",28139,"January",2020,9359,8917,442
+"28","MS","Mississippi","Tishomingo County","county",28141,"January",2020,8485,8011,474
+"28","MS","Mississippi","Tunica County","county",28143,"January",2020,4401,4112,289
+"28","MS","Mississippi","Union County","county",28145,"January",2020,14273,13680,593
+"28","MS","Mississippi","Walthall County","county",28147,"January",2020,4772,4436,336
+"28","MS","Mississippi","Warren County","county",28149,"January",2020,19851,18754,1097
+"28","MS","Mississippi","Washington County","county",28151,"January",2020,16706,15393,1313
+"28","MS","Mississippi","Wayne County","county",28153,"January",2020,7333,6853,480
+"28","MS","Mississippi","Webster County","county",28155,"January",2020,3896,3666,230
+"28","MS","Mississippi","Wilkinson County","county",28157,"January",2020,2809,2503,306
+"28","MS","Mississippi","Winston County","county",28159,"January",2020,7338,6900,438
+"28","MS","Mississippi","Yalobusha County","county",28161,"January",2020,4852,4597,255
+"28","MS","Mississippi","Yazoo County","county",28163,"January",2020,9225,8636,589
+"28","MS","Mississippi","Adams County","county",28001,"May",2020,10840,9490,1350
+"28","MS","Mississippi","Alcorn County","county",28003,"May",2020,14940,13860,1080
+"28","MS","Mississippi","Amite County","county",28005,"May",2020,4270,3910,360
+"28","MS","Mississippi","Attala County","county",28007,"May",2020,6730,6100,630
+"28","MS","Mississippi","Benton County","county",28009,"May",2020,2800,2530,270
+"28","MS","Mississippi","Bolivar County","county",28011,"May",2020,11690,10780,910
+"28","MS","Mississippi","Calhoun County","county",28013,"May",2020,5680,5190,490
+"28","MS","Mississippi","Carroll County","county",28015,"May",2020,3280,3000,280
+"28","MS","Mississippi","Chickasaw County","county",28017,"May",2020,6910,5960,950
+"28","MS","Mississippi","Choctaw County","county",28019,"May",2020,3520,3290,230
+"28","MS","Mississippi","Claiborne County","county",28021,"May",2020,2950,2450,500
+"28","MS","Mississippi","Clarke County","county",28023,"May",2020,5590,5040,550
+"28","MS","Mississippi","Clay County","county",28025,"May",2020,7810,6660,1150
+"28","MS","Mississippi","Coahoma County","county",28027,"May",2020,8550,7260,1290
+"28","MS","Mississippi","Copiah County","county",28029,"May",2020,10450,9510,940
+"28","MS","Mississippi","Covington County","county",28031,"May",2020,7560,6990,570
+"28","MS","Mississippi","DeSoto County","county",28033,"May",2020,83430,76850,6580
+"28","MS","Mississippi","Forrest County","county",28035,"May",2020,31530,28430,3100
+"28","MS","Mississippi","Franklin County","county",28037,"May",2020,2720,2480,240
+"28","MS","Mississippi","George County","county",28039,"May",2020,8550,7630,920
+"28","MS","Mississippi","Greene County","county",28041,"May",2020,4220,3790,430
+"28","MS","Mississippi","Grenada County","county",28043,"May",2020,8980,8260,720
+"28","MS","Mississippi","Hancock County","county",28045,"May",2020,17810,15540,2270
+"28","MS","Mississippi","Harrison County","county",28047,"May",2020,85450,71880,13570
+"28","MS","Mississippi","Hinds County","county",28049,"May",2020,103040,90290,12750
+"28","MS","Mississippi","Holmes County","county",28051,"May",2020,5920,4660,1260
+"28","MS","Mississippi","Humphreys County","county",28053,"May",2020,2330,2010,320
+"28","MS","Mississippi","Issaquena County","county",28055,"May",2020,370,340,30
+"28","MS","Mississippi","Itawamba County","county",28057,"May",2020,9920,9050,870
+"28","MS","Mississippi","Jackson County","county",28059,"May",2020,56670,45230,8440
+"28","MS","Mississippi","Jasper County","county",28061,"May",2020,5810,5300,510
+"28","MS","Mississippi","Jefferson County","county",28063,"May",2020,1970,1610,360
+"28","MS","Mississippi","Jefferson Davis County","county",28065,"May",2020,3900,3510,390
+"28","MS","Mississippi","Jones County","county",28067,"May",2020,24310,22550,1760
+"28","MS","Mississippi","Kemper County","county",28069,"May",2020,3450,3060,390
+"28","MS","Mississippi","Lafayette County","county",28071,"May",2020,25920,23930,1990
+"28","MS","Mississippi","Lamar County","county",28073,"May",2020,28620,25410,2210
+"28","MS","Mississippi","Lauderdale County","county",28075,"May",2020,28370,2570,2500
+"28","MS","Mississippi","Lawrence County","county",28077,"May",2020,4430,3990,440
+"28","MS","Mississippi","Leake County","county",28079,"May",2020,7950,7130,820
+"28","MS","Mississippi","Lee County","county",28081,"May",2020,39660,35040,4620
+"28","MS","Mississippi","Leflore County","county",28083,"May",2020,9480,8470,1010
+"28","MS","Mississippi","Lincoln County","county",28085,"May",2020,13900,12630,1270
+"28","MS","Mississippi","Lowndes County","county",28087,"May",2020,24110,21570,2540
+"28","MS","Mississippi","Madison County","county",28089,"May",2020,50410,45370,5040
+"28","MS","Mississippi","Marion County","county",28091,"May",2020,9290,8550,740
+"28","MS","Mississippi","Marshall County","county",28093,"May",2020,13190,12090,1100
+"28","MS","Mississippi","Monroe County","county",28095,"May",2020,14860,13120,1740
+"28","MS","Mississippi","Montgomery County","county",28097,"May",2020,3810,3470,340
+"28","MS","Mississippi","Neshoba County","county",28099,"May",2020,10540,9070,1470
+"28","MS","Mississippi","Newton County","county",28101,"May",2020,8410,7590,820
+"28","MS","Mississippi","Noxubee County","county",28103,"May",2020,3850,3360,490
+"28","MS","Mississippi","Oktibbeha County","county",28105,"May",2020,21300,19320,1980
+"28","MS","Mississippi","Panola County","county",28107,"May",2020,12020,10630,1390
+"28","MS","Mississippi","Pearl River County","county",28109,"May",2020,21870,19800,2070
+"28","MS","Mississippi","Perry County","county",28111,"May",2020,4030,3650,380
+"28","MS","Mississippi","Pike County","county",28113,"May",2020,13940,12550,1390
+"28","MS","Mississippi","Pontotoc County","county",28115,"May",2020,14120,12650,1470
+"28","MS","Mississippi","Prentiss County","county",28117,"May",2020,10770,9860,910
+"28","MS","Mississippi","Quitman County","county",28119,"May",2020,2430,2140,290
+"28","MS","Mississippi","Rankin County","county",28121,"May",2020,70180,65150,5030
+"28","MS","Mississippi","Scott County","county",28123,"May",2020,12170,11280,890
+"28","MS","Mississippi","Sharkey County","county",28125,"May",2020,1570,1410,160
+"28","MS","Mississippi","Simpson County","county",28127,"May",2020,9930,9230,700
+"28","MS","Mississippi","Smith County","county",28129,"May",2020,6390,6040,350
+"28","MS","Mississippi","Stone County","county",28131,"May",2020,6540,5870,670
+"28","MS","Mississippi","Sunflower County","county",28133,"May",2020,7600,6870,730
+"28","MS","Mississippi","Tallahatchie County","county",28135,"May",2020,5150,4790,360
+"28","MS","Mississippi","Tate County","county",28137,"May",2020,11520,10470,1050
+"28","MS","Mississippi","Tippah County","county",28139,"May",2020,8760,8050,730
+"28","MS","Mississippi","Tishomingo County","county",28141,"May",2020,8120,7460,640
+"28","MS","Mississippi","Tunica County","county",28143,"May",2020,5000,3830,1170
+"28","MS","Mississippi","Union County","county",28145,"May",2020,13550,12210,1340
+"28","MS","Mississippi","Walthall County","county",28147,"May",2020,4660,4220,440
+"28","MS","Mississippi","Warren County","county",28149,"May",2020,19520,17120,2400
+"28","MS","Mississippi","Washington County","county",28151,"May",2020,16390,14520,1870
+"28","MS","Mississippi","Wayne County","county",28153,"May",2020,7210,6590,620
+"28","MS","Mississippi","Webster County","county",28155,"May",2020,3740,3440,300
+"28","MS","Mississippi","Wilkinson County","county",28157,"May",2020,2650,2280,370
+"28","MS","Mississippi","Winston County","county",28159,"May",2020,7160,6370,790
+"28","MS","Mississippi","Yalobusha County","county",28161,"May",2020,4650,4150,500
+"28","MS","Mississippi","Yazoo County","county",28163,"May",2020,9410,8150,1260
+"28","MS","Mississippi","Adams County","county",28001,"April",2020,10360,8600,1760
+"28","MS","Mississippi","Alcorn County","county",28003,"April",2020,14720,12860,1860
+"28","MS","Mississippi","Amite County","county",28005,"April",2020,4060,3590,470
+"28","MS","Mississippi","Attala County","county",28007,"April",2020,6480,5620,860
+"28","MS","Mississippi","Benton County","county",28009,"April",2020,2770,2360,410
+"28","MS","Mississippi","Bolivar County","county",28011,"April",2020,11190,9970,1220
+"28","MS","Mississippi","Calhoun County","county",28013,"April",2020,5960,4750,1210
+"28","MS","Mississippi","Carroll County","county",28015,"April",2020,3210,2780,430
+"28","MS","Mississippi","Chickasaw County","county",28017,"April",2020,7020,5500,2320
+"28","MS","Mississippi","Choctaw County","county",28019,"April",2020,3360,3030,330
+"28","MS","Mississippi","Claiborne County","county",28021,"April",2020,2070,2270,600
+"28","MS","Mississippi","Clarke County","county",28023,"April",2020,5390,4660,730
+"28","MS","Mississippi","Clay County","county",28025,"April",2020,8100,6190,1910
+"28","MS","Mississippi","Coahoma County","county",28027,"April",2020,8410,6650,1760
+"28","MS","Mississippi","Copiah County","county",28029,"April",2020,10130,8900,1230
+"28","MS","Mississippi","Covington County","county",28031,"April",2020,7170,6450,720
+"28","MS","Mississippi","DeSoto County","county",28033,"April",2020,80870,71630,9240
+"28","MS","Mississippi","Forrest County","county",28035,"April",2020,30770,26490,4280
+"28","MS","Mississippi","Franklin County","county",28037,"April",2020,2570,2260,310
+"28","MS","Mississippi","George County","county",28039,"April",2020,8280,7030,1250
+"28","MS","Mississippi","Greene County","county",28041,"April",2020,4070,3490,580
+"28","MS","Mississippi","Grenada County","county",28043,"April",2020,8630,7520,1110
+"28","MS","Mississippi","Hancock County","county",28045,"April",2020,17490,14310,3180
+"28","MS","Mississippi","Harrison County","county",28047,"April",2020,85800,66210,19590
+"28","MS","Mississippi","Hinds County","county",28049,"April",2020,102090,84670,17420
+"28","MS","Mississippi","Holmes County","county",28051,"April",2020,6040,4380,1660
+"28","MS","Mississippi","Humphreys County","county",28053,"April",2020,2260,1860,400
+"28","MS","Mississippi","Issaquena County","county",28055,"April",2020,350,310,40
+"28","MS","Mississippi","Itawamba County","county",28057,"April",2020,10410,8340,2070
+"28","MS","Mississippi","Jackson County","county",28059,"April",2020,56270,44430,11840
+"28","MS","Mississippi","Jasper County","county",28061,"April",2020,5560,4920,640
+"28","MS","Mississippi","Jefferson County","county",28063,"April",2020,1070,1470,400
+"28","MS","Mississippi","Jefferson Davis County","county",28065,"April",2020,3770,3270,500
+"28","MS","Mississippi","Jones County","county",28067,"April",2020,23390,20980,2410
+"28","MS","Mississippi","Kemper County","county",28069,"April",2020,3290,2820,470
+"28","MS","Mississippi","Lafayette County","county",28071,"April",2020,25460,22510,2950
+"28","MS","Mississippi","Lamar County","county",28073,"April",2020,27760,24620,3140
+"28","MS","Mississippi","Lauderdale County","county",28075,"April",2020,27300,23950,3430
+"28","MS","Mississippi","Lawrence County","county",28077,"April",2020,2450,3660,590
+"28","MS","Mississippi","Leake County","county",28079,"April",2020,7580,6520,1060
+"28","MS","Mississippi","Lee County","county",28081,"April",2020,41140,32310,8830
+"28","MS","Mississippi","Leflore County","county",28083,"April",2020,9460,7840,1620
+"28","MS","Mississippi","Lincoln County","county",28085,"April",2020,13360,11590,1770
+"28","MS","Mississippi","Lowndes County","county",28087,"April",2020,23750,20010,3740
+"28","MS","Mississippi","Madison County","county",28089,"April",2020,49530,42540,6990
+"28","MS","Mississippi","Marion County","county",28091,"April",2020,8860,7850,1010
+"28","MS","Mississippi","Marshall County","county",28093,"April",2020,12660,11260,1400
+"28","MS","Mississippi","Monroe County","county",28095,"April",2020,15490,12040,3450
+"28","MS","Mississippi","Montgomery County","county",28097,"April",2020,3690,3180,510
+"28","MS","Mississippi","Neshoba County","county",28099,"April",2020,9950,8170,1780
+"28","MS","Mississippi","Newton County","county",28101,"April",2020,8100,7010,1090
+"28","MS","Mississippi","Noxubee County","county",28103,"April",2020,3720,3090,630
+"28","MS","Mississippi","Oktibbeha County","county",28105,"April",2020,20700,17830,2870
+"28","MS","Mississippi","Panola County","county",28107,"April",2020,11720,9800,1920
+"28","MS","Mississippi","Pearl River County","county",28109,"April",2020,21060,18410,2650
+"28","MS","Mississippi","Perry County","county",28111,"April",2020,3910,3390,520
+"28","MS","Mississippi","Pike County","county",28113,"April",2020,13330,11550,1780
+"28","MS","Mississippi","Pontotoc County","county",28115,"April",2020,15370,11650,3720
+"28","MS","Mississippi","Prentiss County","county",28117,"April",2020,10910,9050,1860
+"28","MS","Mississippi","Quitman County","county",28119,"April",2020,2350,1970,380
+"28","MS","Mississippi","Rankin County","county",28121,"April",2020,68900,61100,7800
+"28","MS","Mississippi","Scott County","county",28123,"April",2020,11540,10390,1150
+"28","MS","Mississippi","Sharkey County","county",28125,"April",2020,1500,1310,190
+"28","MS","Mississippi","Simpson County","county",28127,"April",2020,9590,8640,950
+"28","MS","Mississippi","Smith County","county",28129,"April",2020,6060,5590,470
+"28","MS","Mississippi","Stone County","county",28131,"April",2020,6380,5430,950
+"28","MS","Mississippi","Sunflower County","county",28133,"April",2020,7320,6290,1030
+"28","MS","Mississippi","Tallahatchie County","county",28135,"April",2020,4830,4360,470
+"28","MS","Mississippi","Tate County","county",28137,"April",2020,11110,9740,1370
+"28","MS","Mississippi","Tippah County","county",28139,"April",2020,9180,7500,1880
+"28","MS","Mississippi","Tishomingo County","county",28141,"April",2020,8140,6990,1150
+"28","MS","Mississippi","Tunica County","county",28143,"April",2020,5070,3560,1510
+"28","MS","Mississippi","Union County","county",28145,"April",2020,14150,11230,2920
+"28","MS","Mississippi","Walthall County","county",28147,"April",2020,4450,3880,570
+"28","MS","Mississippi","Warren County","county",28149,"April",2020,19080,15860,3220
+"28","MS","Mississippi","Washington County","county",28151,"April",2020,15780,13300,2480
+"28","MS","Mississippi","Wayne County","county",28153,"April",2020,6850,6070,780
+"28","MS","Mississippi","Webster County","county",28155,"April",2020,3690,3210,480
+"28","MS","Mississippi","Wilkinson County","county",28157,"April",2020,2480,2100,380
+"28","MS","Mississippi","Winston County","county",28159,"April",2020,6850,5850,1000
+"28","MS","Mississippi","Yalobusha County","county",28161,"April",2020,4610,3870,740
+"28","MS","Mississippi","Yazoo County","county",28163,"April",2020,9250,7610,1640
+"28","MS","Mississippi","Biloxi","city",NA,"May",2020,19830,16170,3660
+"28","MS","Mississippi","Clinton","city",NA,"May",2020,12090,11140,950
+"28","MS","Mississippi","Columbus","city",NA,"May",2020,9510,8360,1150
+"28","MS","Mississippi","Greenville","city",NA,"May",2020,11120,9750,1370
+"28","MS","Mississippi","Gulfport","city",NA,"May",2020,29150,23810,5340
+"28","MS","Mississippi","Hattiesburg","city",NA,"May",2020,20610,18430,2180
+"28","MS","Mississippi","Horn Lake","city",NA,"May",2020,12340,10850,1490
+"28","MS","Mississippi","Jackson","city",NA,"May",2020,70400,60580,9820
+"28","MS","Mississippi","Madison","city",NA,"May",2020,12110,11310,800
+"28","MS","Mississippi","Meridian","city",NA,"May",2020,13730,12350,1380
+"28","MS","Mississippi","Moss Point","city",NA,"May",2020,4880,4150,730
+"28","MS","Mississippi","Olive Branch","city",NA,"May",2020,18220,17150,1070
+"28","MS","Mississippi","Pascagoula","city",NA,"May",2020,8320,7140,1180
+"28","MS","Mississippi","Pearl","city",NA,"May",2020,11880,10870,1010
+"28","MS","Mississippi","Southaven","city",NA,"May",2020,25870,23810,2060
+"28","MS","Mississippi","Starkville","city",NA,"May",2020,11650,10530,1120
+"28","MS","Mississippi","Tupelo","city",NA,"May",2020,17430,15060,2370
+"28","MS","Mississippi","Vicksburg","city",NA,"May",2020,9010,7590,1420
+"28","MS","Mississippi","Mississippi","state",NA,"January",2020,1257892,1190407,67485
+"28","MS","Mississippi","Mississippi","state",NA,"February",2020,1262857,1198146,64711
+"28","MS","Mississippi","Mississippi","state",NA,"March",2020,1268451,1207861,60590
+"28","MS","Mississippi","Mississippi","state",NA,"April",2020,1194015,1006236,187779
+"28","MS","Mississippi","Mississippi","state",NA,"May",2020,1213000,1085200,127800
+"28","MS","Mississippi","Biloxi","city",NA,"April",2020,20180,14900,5280
+"28","MS","Mississippi","Clinton","city",NA,"April",2020,11830,10450,1380
+"28","MS","Mississippi","Columbus","city",NA,"April",2020,9410,7750,1660
+"28","MS","Mississippi","Greenville","city",NA,"April",2020,10750,8930,1820
+"28","MS","Mississippi","Gulfport","city",NA,"April",2020,29470,21930,7540
+"28","MS","Mississippi","Hattiesburg","city",NA,"April",2020,20100,17170,2930
+"28","MS","Mississippi","Horn Lake","city",NA,"April",2020,11920,10110,1810
+"28","MS","Mississippi","Jackson","city",NA,"April",2020,69980,56810,13170
+"28","MS","Mississippi","Madison","city",NA,"April",2020,11830,10600,1230
+"28","MS","Mississippi","Meridian","city",NA,"April",2020,13290,11430,1860
+"28","MS","Mississippi","Moss Point","city",NA,"April",2020,4770,3820,950
+"28","MS","Mississippi","Olive Branch","city",NA,"April",2020,17450,15990,1460
+"28","MS","Mississippi","Pascagoula","city",NA,"April",2020,8090,6580,1510
+"28","MS","Mississippi","Pearl","city",NA,"April",2020,11710,10190,1520
+"28","MS","Mississippi","Southaven","city",NA,"April",2020,24930,22190,2740
+"28","MS","Mississippi","Starkville","city",NA,"April",2020,11350,9710,1640
+"28","MS","Mississippi","Tupelo","city",NA,"April",2020,18200,13890,4310
+"28","MS","Mississippi","Vicksburg","city",NA,"April",2020,8870,7030,1840

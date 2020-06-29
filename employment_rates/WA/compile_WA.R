@@ -39,10 +39,10 @@ output <- raw %>%
   # Join with FIPS
   
   left_join(county.fips, by = "polyname") %>%
-   select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
-  )  %>%
+  select(
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    labor_force, employment, unemployment
+  ) %>%
   filter(year >= 2019) %>%
   filter(!is.na(area_type)) %>%
   filter(!is.na(period))

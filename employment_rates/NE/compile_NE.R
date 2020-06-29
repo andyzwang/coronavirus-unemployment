@@ -11,7 +11,7 @@ library(stringr)
 raw <- read_csv("NE_data.csv")
 
 output <- raw %>%
-  clean_names("snake")
+  clean_names("snake") %>%
   mutate(
     state_fips = "31",
     state_short = "NE",
@@ -32,9 +32,9 @@ output <- raw %>%
   left_join(county.fips, by = "polyname") %>%
     rename(unemployment = unemployed,
            employment = employed) %>%
-  select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
-  )
+    select(
+      state_fips, state_short, state, area, area_type, fips, period, year, 
+      labor_force, employment, unemployment
+    )
 
 write.csv(output, file = "NE_compiled.csv", row.names = FALSE)

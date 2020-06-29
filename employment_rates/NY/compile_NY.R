@@ -61,8 +61,8 @@ output <- raw %>%
     unemployment = unemp
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    labor_force, employment, unemployment
   ) %>%
   filter(year >= 2019) %>%
   filter(!is.na(period))

@@ -1,396 +1,396 @@
-"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
-"46","SD","South Dakota","City of Aberdeen","city",NA,"January",2020,14378,14940,562
-"46","SD","South Dakota","City of Brandon","city",NA,"January",2020,5618,5785,167
-"46","SD","South Dakota","City of Brookings","city",NA,"January",2020,12868,13389,521
-"46","SD","South Dakota","City of Huron","city",NA,"January",2020,6567,6810,243
-"46","SD","South Dakota","City of Mitchell","city",NA,"January",2020,8431,8728,297
-"46","SD","South Dakota","City of Pierre","city",NA,"January",2020,7810,8063,253
-"46","SD","South Dakota","City of Rapid City","city",NA,"January",2020,35505,36898,1393
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"January",2020,103229,106947,3718
-"46","SD","South Dakota","City of Spearfish","city",NA,"January",2020,6004,6203,199
-"46","SD","South Dakota","City of Vermillion","city",NA,"January",2020,5580,5789,209
-"46","SD","South Dakota","City of Watertown","city",NA,"January",2020,11647,12084,437
-"46","SD","South Dakota","City of Yankton","city",NA,"January",2020,7095,7343,248
-"46","SD","South Dakota","City of Aberdeen","city",NA,"February",2020,14490,15019,529
-"46","SD","South Dakota","City of Brandon","city",NA,"February",2020,5669,5825,156
-"46","SD","South Dakota","City of Brookings","city",NA,"February",2020,13232,13650,418
-"46","SD","South Dakota","City of Huron","city",NA,"February",2020,6596,6822,226
-"46","SD","South Dakota","City of Mitchell","city",NA,"February",2020,8438,8729,291
-"46","SD","South Dakota","City of Pierre","city",NA,"February",2020,7767,8019,252
-"46","SD","South Dakota","City of Rapid City","city",NA,"February",2020,35782,37146,1364
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"February",2020,104160,107707,3547
-"46","SD","South Dakota","City of Spearfish","city",NA,"February",2020,6080,6256,176
-"46","SD","South Dakota","City of Vermillion","city",NA,"February",2020,5776,5943,167
-"46","SD","South Dakota","City of Watertown","city",NA,"February",2020,11672,12097,425
-"46","SD","South Dakota","City of Yankton","city",NA,"February",2020,7152,7401,249
-"46","SD","South Dakota","City of Aberdeen","city",NA,"March",2020,14602,15086,484
-"46","SD","South Dakota","City of Brandon","city",NA,"March",2020,5632,5781,149
-"46","SD","South Dakota","City of Brookings","city",NA,"March",2020,13294,13688,394
-"46","SD","South Dakota","City of Huron","city",NA,"March",2020,6618,6835,217
-"46","SD","South Dakota","City of Mitchell","city",NA,"March",2020,8508,8800,292
-"46","SD","South Dakota","City of Pierre","city",NA,"March",2020,7750,7976,226
-"46","SD","South Dakota","City of Rapid City","city",NA,"March",2020,35594,36875,1281
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"March",2020,103515,106818,3303
-"46","SD","South Dakota","City of Spearfish","city",NA,"March",2020,6210,6383,173
-"46","SD","South Dakota","City of Vermillion","city",NA,"March",2020,5770,5949,179
-"46","SD","South Dakota","City of Watertown","city",NA,"March",2020,11817,12226,409
-"46","SD","South Dakota","City of Yankton","city",NA,"March",2020,7100,7328,228
-"46","SD","South Dakota","City of Aberdeen","city",NA,"April",2020,13717,15512,1795
-"46","SD","South Dakota","City of Brandon","city",NA,"April",2020,5223,5687,464
-"46","SD","South Dakota","City of Brookings","city",NA,"April",2020,12244,13467,1223
-"46","SD","South Dakota","City of Huron","city",NA,"April",2020,6265,6797,532
-"46","SD","South Dakota","City of Mitchell","city",NA,"April",2020,7984,8768,784
-"46","SD","South Dakota","City of Pierre","city",NA,"April",2020,7283,7941,658
-"46","SD","South Dakota","City of Rapid City","city",NA,"April",2020,32301,37726,5425
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"April",2020,95985,108638,12653
-"46","SD","South Dakota","City of Spearfish","city",NA,"April",2020,5559,6846,1287
-"46","SD","South Dakota","City of Vermillion","city",NA,"April",2020,5375,5922,547
-"46","SD","South Dakota","City of Watertown","city",NA,"April",2020,10937,12729,1792
-"46","SD","South Dakota","City of Yankton","city",NA,"April",2020,6750,7788,1038
-"46","SD","South Dakota","City of Aberdeen","city",NA,"May",2020,13793,15367,1574
-"46","SD","South Dakota","City of Brandon","city",NA,"May",2020,5344,5795,451
-"46","SD","South Dakota","City of Brookings","city",NA,"May",2020,12072,13216,1144
-"46","SD","South Dakota","City of Huron","city",NA,"May",2020,6366,6841,475
-"46","SD","South Dakota","City of Mitchell","city",NA,"May",2020,8066,8778,712
-"46","SD","South Dakota","City of Pierre","city",NA,"May",2020,7503,8081,578
-"46","SD","South Dakota","City of Rapid City","city",NA,"May",2020,33075,37227,4152
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"May",2020,98194,109532,11338
-"46","SD","South Dakota","City of Spearfish","city",NA,"May",2020,5636,6428,792
-"46","SD","South Dakota","City of Vermillion","city",NA,"May",2020,4858,5452,594
-"46","SD","South Dakota","City of Watertown","city",NA,"May",2020,10965,12162,1197
-"46","SD","South Dakota","City of Yankton","city",NA,"May",2020,6813,7495,682
-"46","SD","South Dakota","Aurora County","county",46003,"January",2020,1431,1477,46
-"46","SD","South Dakota","Beadle County","county",46005,"January",2020,9151,9483,332
-"46","SD","South Dakota","Bennett County","county",46007,"January",2020,1020,1083,63
-"46","SD","South Dakota","Bon Homme County","county",46009,"January",2020,2728,2836,108
-"46","SD","South Dakota","Brookings County","county",46011,"January",2020,18351,19069,718
-"46","SD","South Dakota","Brown County","county",46013,"January",2020,19886,20616,730
-"46","SD","South Dakota","Brule County","county",46015,"January",2020,2287,2373,86
-"46","SD","South Dakota","Buffalo County","county",46017,"January",2020,624,665,41
-"46","SD","South Dakota","Butte County","county",46019,"January",2020,4776,4978,202
-"46","SD","South Dakota","Campbell County","county",46021,"January",2020,731,763,32
-"46","SD","South Dakota","Charles Mix County","county",46023,"January",2020,3517,3661,144
-"46","SD","South Dakota","Clark County","county",46025,"January",2020,1807,1902,95
-"46","SD","South Dakota","Clay County","county",46027,"January",2020,7355,7614,259
-"46","SD","South Dakota","Codington County","county",46029,"January",2020,14963,15505,542
-"46","SD","South Dakota","Corson County","county",46031,"January",2020,1281,1352,71
-"46","SD","South Dakota","Custer County","county",46033,"January",2020,3764,3984,220
-"46","SD","South Dakota","Davison County","county",46035,"January",2020,10608,10984,376
-"46","SD","South Dakota","Day County","county",46037,"January",2020,2570,2746,176
-"46","SD","South Dakota","Deuel County","county",46039,"January",2020,1950,2121,171
-"46","SD","South Dakota","Dewey County","county",46041,"January",2020,2026,2177,151
-"46","SD","South Dakota","Aurora County","county",46003,"February",2020,1428,1470,42
-"46","SD","South Dakota","Beadle County","county",46005,"February",2020,9191,9505,314
-"46","SD","South Dakota","Bennett County","county",46007,"February",2020,1012,1072,60
-"46","SD","South Dakota","Bon Homme County","county",46009,"February",2020,2722,2824,102
-"46","SD","South Dakota","Brookings County","county",46011,"February",2020,18870,19473,603
-"46","SD","South Dakota","Brown County","county",46013,"February",2020,20040,20731,691
-"46","SD","South Dakota","Brule County","county",46015,"February",2020,2278,2357,79
-"46","SD","South Dakota","Buffalo County","county",46017,"February",2020,621,665,44
-"46","SD","South Dakota","Butte County","county",46019,"February",2020,4780,4969,189
-"46","SD","South Dakota","Campbell County","county",46021,"February",2020,736,768,32
-"46","SD","South Dakota","Charles Mix County","county",46023,"February",2020,3507,3634,127
-"46","SD","South Dakota","Clark County","county",46025,"February",2020,1797,1887,90
-"46","SD","South Dakota","Clay County","county",46027,"February",2020,7614,7825,211
-"46","SD","South Dakota","Codington County","county",46029,"February",2020,14996,15519,523
-"46","SD","South Dakota","Corson County","county",46031,"February",2020,1274,1346,72
-"46","SD","South Dakota","Custer County","county",46033,"February",2020,3785,3996,211
-"46","SD","South Dakota","Davison County","county",46035,"February",2020,10617,10982,365
-"46","SD","South Dakota","Day County","county",46037,"February",2020,2574,2748,174
-"46","SD","South Dakota","Deuel County","county",46039,"February",2020,1957,2119,162
-"46","SD","South Dakota","Dewey County","county",46041,"February",2020,2030,2169,139
-"46","SD","South Dakota","Aurora County","county",46003,"March",2020,1466,1506,40
-"46","SD","South Dakota","Beadle County","county",46005,"March",2020,9221,9522,301
-"46","SD","South Dakota","Bennett County","county",46007,"March",2020,1027,1077,50
-"46","SD","South Dakota","Bon Homme County","county",46009,"March",2020,2814,2901,87
-"46","SD","South Dakota","Brookings County","county",46011,"March",2020,18959,19542,583
-"46","SD","South Dakota","Brown County","county",46013,"March",2020,20196,20842,646
-"46","SD","South Dakota","Brule County","county",46015,"March",2020,2344,2419,75
-"46","SD","South Dakota","Buffalo County","county",46017,"March",2020,614,646,32
-"46","SD","South Dakota","Butte County","county",46019,"March",2020,4894,5073,179
-"46","SD","South Dakota","Campbell County","county",46021,"March",2020,765,802,37
-"46","SD","South Dakota","Charles Mix County","county",46023,"March",2020,3622,3749,127
-"46","SD","South Dakota","Clark County","county",46025,"March",2020,1835,1929,94
-"46","SD","South Dakota","Clay County","county",46027,"March",2020,7606,7825,219
-"46","SD","South Dakota","Codington County","county",46029,"March",2020,15182,15680,498
-"46","SD","South Dakota","Corson County","county",46031,"March",2020,1313,1380,67
-"46","SD","South Dakota","Custer County","county",46033,"March",2020,3847,4047,200
-"46","SD","South Dakota","Davison County","county",46035,"March",2020,10704,11066,362
-"46","SD","South Dakota","Day County","county",46037,"March",2020,2599,2763,164
-"46","SD","South Dakota","Deuel County","county",46039,"March",2020,2031,2173,142
-"46","SD","South Dakota","Dewey County","county",46041,"March",2020,2092,2232,140
-"46","SD","South Dakota","Aurora County","county",46003,"April",2020,1394,1478,84
-"46","SD","South Dakota","Beadle County","county",46005,"April",2020,8729,9436,707
-"46","SD","South Dakota","Bennett County","county",46007,"April",2020,965,1033,68
-"46","SD","South Dakota","Bon Homme County","county",46009,"April",2020,2578,2823,245
-"46","SD","South Dakota","Brookings County","county",46011,"April",2020,17461,19124,1663
-"46","SD","South Dakota","Brown County","county",46013,"April",2020,18971,21143,2172
-"46","SD","South Dakota","Brule County","county",46015,"April",2020,2228,2513,285
-"46","SD","South Dakota","Buffalo County","county",46017,"April",2020,592,693,101
-"46","SD","South Dakota","Butte County","county",46019,"April",2020,4556,5215,659
-"46","SD","South Dakota","Campbell County","county",46021,"April",2020,696,745,49
-"46","SD","South Dakota","Charles Mix County","county",46023,"April",2020,3359,3798,439
-"46","SD","South Dakota","Clark County","county",46025,"April",2020,1687,1860,173
-"46","SD","South Dakota","Clay County","county",46027,"April",2020,7085,7748,663
-"46","SD","South Dakota","Codington County","county",46029,"April",2020,14051,16172,2121
-"46","SD","South Dakota","Corson County","county",46031,"April",2020,1203,1283,80
-"46","SD","South Dakota","Custer County","county",46033,"April",2020,3502,4042,540
-"46","SD","South Dakota","Davison County","county",46035,"April",2020,10045,10993,948
-"46","SD","South Dakota","Day County","county",46037,"April",2020,2405,2776,371
-"46","SD","South Dakota","Deuel County","county",46039,"April",2020,1929,2193,264
-"46","SD","South Dakota","Dewey County","county",46041,"April",2020,1929,2121,192
-"46","SD","South Dakota","Aurora County","county",46003,"May",2020,1401,1494,93
-"46","SD","South Dakota","Beadle County","county",46005,"May",2020,8870,9454,584
-"46","SD","South Dakota","Bennett County","county",46007,"May",2020,955,1029,74
-"46","SD","South Dakota","Bon Homme County","county",46009,"May",2020,2582,2787,205
-"46","SD","South Dakota","Brookings County","county",46011,"May",2020,17216,18775,1559
-"46","SD","South Dakota","Brown County","county",46013,"May",2020,19076,20971,1895
-"46","SD","South Dakota","Brule County","county",46015,"May",2020,2239,2482,243
-"46","SD","South Dakota","Buffalo County","county",46017,"May",2020,601,715,114
-"46","SD","South Dakota","Butte County","county",46019,"May",2020,4560,5074,514
-"46","SD","South Dakota","Campbell County","county",46021,"May",2020,692,735,43
-"46","SD","South Dakota","Charles Mix County","county",46023,"May",2020,3437,3898,461
-"46","SD","South Dakota","Clark County","county",46025,"May",2020,1722,1877,155
-"46","SD","South Dakota","Clay County","county",46027,"May",2020,6404,7125,721
-"46","SD","South Dakota","Codington County","county",46029,"May",2020,14088,15520,1432
-"46","SD","South Dakota","Corson County","county",46031,"May",2020,1188,1281,93
-"46","SD","South Dakota","Custer County","county",46033,"May",2020,3529,3969,440
-"46","SD","South Dakota","Davison County","county",46035,"May",2020,10149,10997,848
-"46","SD","South Dakota","Day County","county",46037,"May",2020,2515,2758,243
-"46","SD","South Dakota","Deuel County","county",46039,"May",2020,1967,2142,175
-"46","SD","South Dakota","Dewey County","county",46041,"May",2020,1894,2069,175
-"46","SD","South Dakota","Douglas County","county",46043,"January",2020,1518,1574,56
-"46","SD","South Dakota","Edmunds County","county",46045,"January",2020,1944,2013,69
-"46","SD","South Dakota","Fall River County","county",46047,"January",2020,2721,2868,147
-"46","SD","South Dakota","Faulk County","county",46049,"January",2020,989,1028,39
-"46","SD","South Dakota","Grant County","county",46051,"January",2020,4196,4428,232
-"46","SD","South Dakota","Gregory County","county",46053,"January",2020,1899,1984,85
-"46","SD","South Dakota","Haakon County","county",46055,"January",2020,1002,1036,34
-"46","SD","South Dakota","Hamlin County","county",46057,"January",2020,3160,3285,125
-"46","SD","South Dakota","Hand County","county",46059,"January",2020,1703,1756,53
-"46","SD","South Dakota","Hanson County","county",46061,"January",2020,1635,1745,110
-"46","SD","South Dakota","Harding County","county",46063,"January",2020,697,717,20
-"46","SD","South Dakota","Hughes County","county",46065,"January",2020,9664,9984,320
-"46","SD","South Dakota","Hutchinson County","county",46067,"January",2020,3475,3622,147
-"46","SD","South Dakota","Hyde County","county",46069,"January",2020,660,687,27
-"46","SD","South Dakota","Jackson County","county",46071,"January",2020,1059,1134,75
-"46","SD","South Dakota","Jerauld County","county",46073,"January",2020,1059,1084,25
-"46","SD","South Dakota","Jones County","county",46075,"January",2020,487,506,19
-"46","SD","South Dakota","Kingsbury County","county",46077,"January",2020,2503,2598,95
-"46","SD","South Dakota","Lake County","county",46079,"January",2020,6336,6585,249
-"46","SD","South Dakota","Douglas County","county",46043,"February",2020,1506,1566,60
-"46","SD","South Dakota","Edmunds County","county",46045,"February",2020,1951,2013,62
-"46","SD","South Dakota","Fall River County","county",46047,"February",2020,2745,2882,137
-"46","SD","South Dakota","Faulk County","county",46049,"February",2020,982,1021,39
-"46","SD","South Dakota","Grant County","county",46051,"February",2020,4185,4423,238
-"46","SD","South Dakota","Gregory County","county",46053,"February",2020,1904,1978,74
-"46","SD","South Dakota","Haakon County","county",46055,"February",2020,996,1029,33
-"46","SD","South Dakota","Hamlin County","county",46057,"February",2020,3167,3282,115
-"46","SD","South Dakota","Hand County","county",46059,"February",2020,1693,1741,48
-"46","SD","South Dakota","Hanson County","county",46061,"February",2020,1628,1736,108
-"46","SD","South Dakota","Harding County","county",46063,"February",2020,688,706,18
-"46","SD","South Dakota","Hughes County","county",46065,"February",2020,9611,9926,315
-"46","SD","South Dakota","Hutchinson County","county",46067,"February",2020,3446,3598,152
-"46","SD","South Dakota","Hyde County","county",46069,"February",2020,658,683,25
-"46","SD","South Dakota","Jackson County","county",46071,"February",2020,1047,1116,69
-"46","SD","South Dakota","Jerauld County","county",46073,"February",2020,1063,1089,26
-"46","SD","South Dakota","Jones County","county",46075,"February",2020,483,502,19
-"46","SD","South Dakota","Kingsbury County","county",46077,"February",2020,2516,2615,99
-"46","SD","South Dakota","Lake County","county",46079,"February",2020,6507,6738,231
-"46","SD","South Dakota","Douglas County","county",46043,"March",2020,1534,1584,50
-"46","SD","South Dakota","Edmunds County","county",46045,"March",2020,2007,2067,60
-"46","SD","South Dakota","Fall River County","county",46047,"March",2020,2835,2979,144
-"46","SD","South Dakota","Faulk County","county",46049,"March",2020,1040,1077,37
-"46","SD","South Dakota","Grant County","county",46051,"March",2020,4294,4504,210
-"46","SD","South Dakota","Gregory County","county",46053,"March",2020,1945,2015,70
-"46","SD","South Dakota","Haakon County","county",46055,"March",2020,1038,1070,32
-"46","SD","South Dakota","Hamlin County","county",46057,"March",2020,3247,3359,112
-"46","SD","South Dakota","Hand County","county",46059,"March",2020,1736,1781,45
-"46","SD","South Dakota","Hanson County","county",46061,"March",2020,1666,1766,100
-"46","SD","South Dakota","Harding County","county",46063,"March",2020,721,739,18
-"46","SD","South Dakota","Hughes County","county",46065,"March",2020,9590,9874,284
-"46","SD","South Dakota","Hutchinson County","county",46067,"March",2020,3592,3737,145
-"46","SD","South Dakota","Hyde County","county",46069,"March",2020,685,705,20
-"46","SD","South Dakota","Jackson County","county",46071,"March",2020,1110,1172,62
-"46","SD","South Dakota","Jerauld County","county",46073,"March",2020,1132,1159,27
-"46","SD","South Dakota","Jones County","county",46075,"March",2020,503,520,17
-"46","SD","South Dakota","Kingsbury County","county",46077,"March",2020,2599,2691,92
-"46","SD","South Dakota","Lake County","county",46079,"March",2020,6518,6732,214
-"46","SD","South Dakota","Douglas County","county",46043,"April",2020,1429,1492,63
-"46","SD","South Dakota","Edmunds County","county",46045,"April",2020,1868,1959,91
-"46","SD","South Dakota","Fall River County","county",46047,"April",2020,2670,2982,312
-"46","SD","South Dakota","Faulk County","county",46049,"April",2020,949,1004,55
-"46","SD","South Dakota","Grant County","county",46051,"April",2020,4016,4407,391
-"46","SD","South Dakota","Gregory County","county",46053,"April",2020,1847,1990,143
-"46","SD","South Dakota","Haakon County","county",46055,"April",2020,956,1000,44
-"46","SD","South Dakota","Hamlin County","county",46057,"April",2020,2937,3176,239
-"46","SD","South Dakota","Hand County","county",46059,"April",2020,1606,1688,82
-"46","SD","South Dakota","Hanson County","county",46061,"April",2020,1548,1704,156
-"46","SD","South Dakota","Harding County","county",46063,"April",2020,655,704,49
-"46","SD","South Dakota","Hughes County","county",46065,"April",2020,9012,9768,756
-"46","SD","South Dakota","Hutchinson County","county",46067,"April",2020,3264,3509,245
-"46","SD","South Dakota","Hyde County","county",46069,"April",2020,617,644,27
-"46","SD","South Dakota","Jackson County","county",46071,"April",2020,1107,1172,65
-"46","SD","South Dakota","Jerauld County","county",46073,"April",2020,1010,1058,48
-"46","SD","South Dakota","Jones County","county",46075,"April",2020,478,508,30
-"46","SD","South Dakota","Kingsbury County","county",46077,"April",2020,2446,2625,179
-"46","SD","South Dakota","Lake County","county",46079,"April",2020,6151,6624,473
-"46","SD","South Dakota","Douglas County","county",46043,"May",2020,1444,1507,63
-"46","SD","South Dakota","Edmunds County","county",46045,"May",2020,1859,1942,83
-"46","SD","South Dakota","Fall River County","county",46047,"May",2020,2756,3085,329
-"46","SD","South Dakota","Faulk County","county",46049,"May",2020,942,995,53
-"46","SD","South Dakota","Grant County","county",46051,"May",2020,4053,4329,276
-"46","SD","South Dakota","Gregory County","county",46053,"May",2020,1871,2008,137
-"46","SD","South Dakota","Haakon County","county",46055,"May",2020,949,985,36
-"46","SD","South Dakota","Hamlin County","county",46057,"May",2020,2992,3195,203
-"46","SD","South Dakota","Hand County","county",46059,"May",2020,1637,1711,74
-"46","SD","South Dakota","Hanson County","county",46061,"May",2020,1554,1696,142
-"46","SD","South Dakota","Harding County","county",46063,"May",2020,648,688,40
-"46","SD","South Dakota","Hughes County","county",46065,"May",2020,9284,9957,673
-"46","SD","South Dakota","Hutchinson County","county",46067,"May",2020,3252,3478,226
-"46","SD","South Dakota","Hyde County","county",46069,"May",2020,603,633,30
-"46","SD","South Dakota","Jackson County","county",46071,"May",2020,1187,1248,61
-"46","SD","South Dakota","Jerauld County","county",46073,"May",2020,1007,1052,45
-"46","SD","South Dakota","Jones County","county",46075,"May",2020,499,537,38
-"46","SD","South Dakota","Kingsbury County","county",46077,"May",2020,2450,2612,162
-"46","SD","South Dakota","Lake County","county",46079,"May",2020,6140,6530,390
-"46","SD","South Dakota","Lawrence County","county",46081,"January",2020,12835,13270,435
-"46","SD","South Dakota","Lincoln County","county",46083,"January",2020,33635,34643,1008
-"46","SD","South Dakota","Lyman County","county",46085,"January",2020,1532,1618,86
-"46","SD","South Dakota","Marshall County","county",46091,"January",2020,2205,2322,117
-"46","SD","South Dakota","McCook County","county",46087,"January",2020,2966,3073,107
-"46","SD","South Dakota","McPherson County","county",46089,"January",2020,955,1008,53
-"46","SD","South Dakota","Meade County","county",46093,"January",2020,13458,14010,552
-"46","SD","South Dakota","Mellette County","county",46095,"January",2020,688,739,51
-"46","SD","South Dakota","Miner County","county",46097,"January",2020,1131,1168,37
-"46","SD","South Dakota","Minnehaha County","county",46099,"January",2020,109661,113605,3944
-"46","SD","South Dakota","Moody County","county",46101,"January",2020,3806,3955,149
-"46","SD","South Dakota","Oglala Lakota County","county",NA,"January",2020,3225,3550,325
-"46","SD","South Dakota","Pennington County","county",46103,"January",2020,54234,56372,2138
-"46","SD","South Dakota","Perkins County","county",46105,"January",2020,1351,1393,42
-"46","SD","South Dakota","Potter County","county",46107,"January",2020,950,986,36
-"46","SD","South Dakota","Roberts County","county",46109,"January",2020,4570,4873,303
-"46","SD","South Dakota","Sanborn County","county",46111,"January",2020,1102,1144,42
-"46","SD","South Dakota","Spink County","county",46115,"January",2020,2993,3137,144
-"46","SD","South Dakota","Stanley County","county",46117,"January",2020,1771,1847,76
-"46","SD","South Dakota","Sully County","county",46119,"January",2020,762,786,24
-"46","SD","South Dakota","Lawrence County","county",46081,"February",2020,12997,13399,402
-"46","SD","South Dakota","Lincoln County","county",46083,"February",2020,33933,34894,961
-"46","SD","South Dakota","Lyman County","county",46085,"February",2020,1519,1602,83
-"46","SD","South Dakota","Marshall County","county",46091,"February",2020,2198,2327,129
-"46","SD","South Dakota","McCook County","county",46087,"February",2020,2984,3090,106
-"46","SD","South Dakota","McPherson County","county",46089,"February",2020,938,989,51
-"46","SD","South Dakota","Meade County","county",46093,"February",2020,13568,14086,518
-"46","SD","South Dakota","Mellette County","county",46095,"February",2020,683,727,44
-"46","SD","South Dakota","Miner County","county",46097,"February",2020,1124,1159,35
-"46","SD","South Dakota","Minnehaha County","county",46099,"February",2020,110654,114408,3754
-"46","SD","South Dakota","Moody County","county",46101,"February",2020,3822,3979,157
-"46","SD","South Dakota","Oglala Lakota County","county",NA,"February",2020,3250,3543,293
-"46","SD","South Dakota","Pennington County","county",46103,"February",2020,54656,56748,2092
-"46","SD","South Dakota","Perkins County","county",46105,"February",2020,1351,1397,46
-"46","SD","South Dakota","Potter County","county",46107,"February",2020,950,983,33
-"46","SD","South Dakota","Roberts County","county",46109,"February",2020,4566,4874,308
-"46","SD","South Dakota","Sanborn County","county",46111,"February",2020,1100,1142,42
-"46","SD","South Dakota","Spink County","county",46115,"February",2020,2995,3145,150
-"46","SD","South Dakota","Stanley County","county",46117,"February",2020,1756,1834,78
-"46","SD","South Dakota","Sully County","county",46119,"February",2020,754,775,21
-"46","SD","South Dakota","Lawrence County","county",46081,"March",2020,13276,13665,389
-"46","SD","South Dakota","Lincoln County","county",46083,"March",2020,33758,34646,888
-"46","SD","South Dakota","Lyman County","county",46085,"March",2020,1570,1648,78
-"46","SD","South Dakota","Marshall County","county",46091,"March",2020,2271,2388,117
-"46","SD","South Dakota","McCook County","county",46087,"March",2020,3020,3120,100
-"46","SD","South Dakota","McPherson County","county",46089,"March",2020,965,1013,48
-"46","SD","South Dakota","Meade County","county",46093,"March",2020,13545,14028,483
-"46","SD","South Dakota","Mellette County","county",46095,"March",2020,717,759,42
-"46","SD","South Dakota","Miner County","county",46097,"March",2020,1152,1184,32
-"46","SD","South Dakota","Minnehaha County","county",46099,"March",2020,109947,113477,3530
-"46","SD","South Dakota","Moody County","county",46101,"March",2020,3945,4092,147
-"46","SD","South Dakota","Oglala Lakota County","county",NA,"March",2020,3252,3521,269
-"46","SD","South Dakota","Pennington County","county",46103,"March",2020,54369,56328,1959
-"46","SD","South Dakota","Perkins County","county",46105,"March",2020,1410,1450,40
-"46","SD","South Dakota","Potter County","county",46107,"March",2020,981,1014,33
-"46","SD","South Dakota","Roberts County","county",46109,"March",2020,4683,4969,286
-"46","SD","South Dakota","Sanborn County","county",46111,"March",2020,1153,1198,45
-"46","SD","South Dakota","Spink County","county",46115,"March",2020,3082,3222,140
-"46","SD","South Dakota","Stanley County","county",46117,"March",2020,1782,1850,68
-"46","SD","South Dakota","Sully County","county",46119,"March",2020,787,810,23
-"46","SD","South Dakota","Lawrence County","county",46081,"April",2020,11884,15217,3333
-"46","SD","South Dakota","Lincoln County","county",46083,"April",2020,31299,34415,3116
-"46","SD","South Dakota","Lyman County","county",46085,"April",2020,1468,1633,165
-"46","SD","South Dakota","Marshall County","county",46091,"April",2020,2076,2353,277
-"46","SD","South Dakota","McCook County","county",46087,"April",2020,2792,3030,238
-"46","SD","South Dakota","McPherson County","county",46089,"April",2020,895,988,93
-"46","SD","South Dakota","Meade County","county",46093,"April",2020,12329,14189,1860
-"46","SD","South Dakota","Mellette County","county",46095,"April",2020,659,720,61
-"46","SD","South Dakota","Miner County","county",46097,"April",2020,1054,1141,87
-"46","SD","South Dakota","Minnehaha County","county",46099,"April",2020,101951,114719,12768
-"46","SD","South Dakota","Moody County","county",46101,"April",2020,3591,4076,485
-"46","SD","South Dakota","Oglala Lakota County","county",NA,"April",2020,3020,3375,355
-"46","SD","South Dakota","Pennington County","county",46103,"April",2020,49339,57388,8049
-"46","SD","South Dakota","Perkins County","county",46105,"April",2020,1299,1366,67
-"46","SD","South Dakota","Potter County","county",46107,"April",2020,932,985,53
-"46","SD","South Dakota","Roberts County","county",46109,"April",2020,4258,5159,901
-"46","SD","South Dakota","Sanborn County","county",46111,"April",2020,1042,1129,87
-"46","SD","South Dakota","Spink County","county",46115,"April",2020,2868,3113,245
-"46","SD","South Dakota","Stanley County","county",46117,"April",2020,1660,1825,165
-"46","SD","South Dakota","Sully County","county",46119,"April",2020,722,766,44
-"46","SD","South Dakota","Lawrence County","county",46081,"May",2020,12049,14026,1977
-"46","SD","South Dakota","Lincoln County","county",46083,"May",2020,31997,34829,2832
-"46","SD","South Dakota","Lyman County","county",46085,"May",2020,1507,1672,165
-"46","SD","South Dakota","Marshall County","county",46091,"May",2020,2185,2362,177
-"46","SD","South Dakota","McCook County","county",46087,"May",2020,2822,3062,240
-"46","SD","South Dakota","McPherson County","county",46089,"May",2020,884,970,86
-"46","SD","South Dakota","Meade County","county",46093,"May",2020,12575,14010,1435
-"46","SD","South Dakota","Mellette County","county",46095,"May",2020,654,725,71
-"46","SD","South Dakota","Miner County","county",46097,"May",2020,1064,1133,69
-"46","SD","South Dakota","Minnehaha County","county",46099,"May",2020,104310,115856,11546
-"46","SD","South Dakota","Moody County","county",46101,"May",2020,3673,4121,448
-"46","SD","South Dakota","Oglala Lakota County","county",NA,"May",2020,3014,3373,359
-"46","SD","South Dakota","Pennington County","county",46103,"May",2020,50521,56785,6264
-"46","SD","South Dakota","Perkins County","county",46105,"May",2020,1305,1384,79
-"46","SD","South Dakota","Potter County","county",46107,"May",2020,948,996,48
-"46","SD","South Dakota","Roberts County","county",46109,"May",2020,4305,4781,476
-"46","SD","South Dakota","Sanborn County","county",46111,"May",2020,1031,1114,83
-"46","SD","South Dakota","Spink County","county",46115,"May",2020,2902,3094,192
-"46","SD","South Dakota","Stanley County","county",46117,"May",2020,1693,1843,150
-"46","SD","South Dakota","Sully County","county",46119,"May",2020,724,760,36
-"46","SD","South Dakota","Todd County","county",46121,"January",2020,2929,3149,220
-"46","SD","South Dakota","Tripp County","county",46123,"January",2020,2908,3005,97
-"46","SD","South Dakota","Turner County","county",46125,"January",2020,4511,4708,197
-"46","SD","South Dakota","Union County","county",46127,"January",2020,8217,8541,324
-"46","SD","South Dakota","Walworth County","county",46129,"January",2020,1958,2109,151
-"46","SD","South Dakota","Yankton County","county",46135,"January",2020,11497,11875,378
-"46","SD","South Dakota","Ziebach County","county",46137,"January",2020,871,908,37
-"46","SD","South Dakota","Todd County","county",46121,"February",2020,2939,3138,199
-"46","SD","South Dakota","Tripp County","county",46123,"February",2020,2877,2967,90
-"46","SD","South Dakota","Turner County","county",46125,"February",2020,4544,4726,182
-"46","SD","South Dakota","Union County","county",46127,"February",2020,8268,8587,319
-"46","SD","South Dakota","Walworth County","county",46129,"February",2020,1953,2105,152
-"46","SD","South Dakota","Yankton County","county",46135,"February",2020,11590,11964,374
-"46","SD","South Dakota","Ziebach County","county",46137,"February",2020,869,902,33
-"46","SD","South Dakota","Todd County","county",46121,"March",2020,2992,3177,185
-"46","SD","South Dakota","Tripp County","county",46123,"March",2020,3015,3098,83
-"46","SD","South Dakota","Turner County","county",46125,"March",2020,4606,4771,165
-"46","SD","South Dakota","Union County","county",46127,"March",2020,8232,8503,271
-"46","SD","South Dakota","Walworth County","county",46129,"March",2020,2016,2158,142
-"46","SD","South Dakota","Yankton County","county",46135,"March",2020,11505,11852,347
-"46","SD","South Dakota","Ziebach County","county",46137,"March",2020,903,936,33
-"46","SD","South Dakota","Todd County","county",46121,"April",2020,2816,3090,274
-"46","SD","South Dakota","Tripp County","county",46123,"April",2020,2762,2920,158
-"46","SD","South Dakota","Turner County","county",46125,"April",2020,4283,4657,374
-"46","SD","South Dakota","Union County","county",46127,"April",2020,7689,8763,1074
-"46","SD","South Dakota","Walworth County","county",46129,"April",2020,1843,2077,234
-"46","SD","South Dakota","Yankton County","county",46135,"April",2020,10939,12408,1469
-"46","SD","South Dakota","Ziebach County","county",46137,"April",2020,826,872,46
-"46","SD","South Dakota","Todd County","county",46121,"May",2020,2798,3069,271
-"46","SD","South Dakota","Tripp County","county",46123,"May",2020,2747,2919,172
-"46","SD","South Dakota","Turner County","county",46125,"May",2020,4312,4686,374
-"46","SD","South Dakota","Union County","county",46127,"May",2020,7816,8712,896
-"46","SD","South Dakota","Walworth County","county",46129,"May",2020,1881,2071,190
-"46","SD","South Dakota","Yankton County","county",46135,"May",2020,11040,12040,1000
-"46","SD","South Dakota","Ziebach County","county",46137,"May",2020,809,864,55
-"46","SD","South Dakota","South Dakota","state",NA,"January",2020,444256,461820,17564
-"46","SD","South Dakota","South Dakota","state",NA,"February",2020,447445,464194,16749
-"46","SD","South Dakota","South Dakota","state",NA,"March",2020,449860,465585,15725
-"46","SD","South Dakota","South Dakota","state",NA,"April",2020,416227,467575,51348
-"46","SD","South Dakota","South Dakota","state",NA,"May",2020,421779,464600,42821
+"state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
+"46","SD","South Dakota","City of Aberdeen","city",NA,"January",2020,14940,14378,562
+"46","SD","South Dakota","City of Brandon","city",NA,"January",2020,5785,5618,167
+"46","SD","South Dakota","City of Brookings","city",NA,"January",2020,13389,12868,521
+"46","SD","South Dakota","City of Huron","city",NA,"January",2020,6810,6567,243
+"46","SD","South Dakota","City of Mitchell","city",NA,"January",2020,8728,8431,297
+"46","SD","South Dakota","City of Pierre","city",NA,"January",2020,8063,7810,253
+"46","SD","South Dakota","City of Rapid City","city",NA,"January",2020,36898,35505,1393
+"46","SD","South Dakota","City of Sioux Falls","city",NA,"January",2020,106947,103229,3718
+"46","SD","South Dakota","City of Spearfish","city",NA,"January",2020,6203,6004,199
+"46","SD","South Dakota","City of Vermillion","city",NA,"January",2020,5789,5580,209
+"46","SD","South Dakota","City of Watertown","city",NA,"January",2020,12084,11647,437
+"46","SD","South Dakota","City of Yankton","city",NA,"January",2020,7343,7095,248
+"46","SD","South Dakota","City of Aberdeen","city",NA,"February",2020,15019,14490,529
+"46","SD","South Dakota","City of Brandon","city",NA,"February",2020,5825,5669,156
+"46","SD","South Dakota","City of Brookings","city",NA,"February",2020,13650,13232,418
+"46","SD","South Dakota","City of Huron","city",NA,"February",2020,6822,6596,226
+"46","SD","South Dakota","City of Mitchell","city",NA,"February",2020,8729,8438,291
+"46","SD","South Dakota","City of Pierre","city",NA,"February",2020,8019,7767,252
+"46","SD","South Dakota","City of Rapid City","city",NA,"February",2020,37146,35782,1364
+"46","SD","South Dakota","City of Sioux Falls","city",NA,"February",2020,107707,104160,3547
+"46","SD","South Dakota","City of Spearfish","city",NA,"February",2020,6256,6080,176
+"46","SD","South Dakota","City of Vermillion","city",NA,"February",2020,5943,5776,167
+"46","SD","South Dakota","City of Watertown","city",NA,"February",2020,12097,11672,425
+"46","SD","South Dakota","City of Yankton","city",NA,"February",2020,7401,7152,249
+"46","SD","South Dakota","City of Aberdeen","city",NA,"March",2020,15086,14602,484
+"46","SD","South Dakota","City of Brandon","city",NA,"March",2020,5781,5632,149
+"46","SD","South Dakota","City of Brookings","city",NA,"March",2020,13688,13294,394
+"46","SD","South Dakota","City of Huron","city",NA,"March",2020,6835,6618,217
+"46","SD","South Dakota","City of Mitchell","city",NA,"March",2020,8800,8508,292
+"46","SD","South Dakota","City of Pierre","city",NA,"March",2020,7976,7750,226
+"46","SD","South Dakota","City of Rapid City","city",NA,"March",2020,36875,35594,1281
+"46","SD","South Dakota","City of Sioux Falls","city",NA,"March",2020,106818,103515,3303
+"46","SD","South Dakota","City of Spearfish","city",NA,"March",2020,6383,6210,173
+"46","SD","South Dakota","City of Vermillion","city",NA,"March",2020,5949,5770,179
+"46","SD","South Dakota","City of Watertown","city",NA,"March",2020,12226,11817,409
+"46","SD","South Dakota","City of Yankton","city",NA,"March",2020,7328,7100,228
+"46","SD","South Dakota","City of Aberdeen","city",NA,"April",2020,15512,13717,1795
+"46","SD","South Dakota","City of Brandon","city",NA,"April",2020,5687,5223,464
+"46","SD","South Dakota","City of Brookings","city",NA,"April",2020,13467,12244,1223
+"46","SD","South Dakota","City of Huron","city",NA,"April",2020,6797,6265,532
+"46","SD","South Dakota","City of Mitchell","city",NA,"April",2020,8768,7984,784
+"46","SD","South Dakota","City of Pierre","city",NA,"April",2020,7941,7283,658
+"46","SD","South Dakota","City of Rapid City","city",NA,"April",2020,37726,32301,5425
+"46","SD","South Dakota","City of Sioux Falls","city",NA,"April",2020,108638,95985,12653
+"46","SD","South Dakota","City of Spearfish","city",NA,"April",2020,6846,5559,1287
+"46","SD","South Dakota","City of Vermillion","city",NA,"April",2020,5922,5375,547
+"46","SD","South Dakota","City of Watertown","city",NA,"April",2020,12729,10937,1792
+"46","SD","South Dakota","City of Yankton","city",NA,"April",2020,7788,6750,1038
+"46","SD","South Dakota","City of Aberdeen","city",NA,"May",2020,15367,13793,1574
+"46","SD","South Dakota","City of Brandon","city",NA,"May",2020,5795,5344,451
+"46","SD","South Dakota","City of Brookings","city",NA,"May",2020,13216,12072,1144
+"46","SD","South Dakota","City of Huron","city",NA,"May",2020,6841,6366,475
+"46","SD","South Dakota","City of Mitchell","city",NA,"May",2020,8778,8066,712
+"46","SD","South Dakota","City of Pierre","city",NA,"May",2020,8081,7503,578
+"46","SD","South Dakota","City of Rapid City","city",NA,"May",2020,37227,33075,4152
+"46","SD","South Dakota","City of Sioux Falls","city",NA,"May",2020,109532,98194,11338
+"46","SD","South Dakota","City of Spearfish","city",NA,"May",2020,6428,5636,792
+"46","SD","South Dakota","City of Vermillion","city",NA,"May",2020,5452,4858,594
+"46","SD","South Dakota","City of Watertown","city",NA,"May",2020,12162,10965,1197
+"46","SD","South Dakota","City of Yankton","city",NA,"May",2020,7495,6813,682
+"46","SD","South Dakota","Aurora County","county",46003,"January",2020,1477,1431,46
+"46","SD","South Dakota","Beadle County","county",46005,"January",2020,9483,9151,332
+"46","SD","South Dakota","Bennett County","county",46007,"January",2020,1083,1020,63
+"46","SD","South Dakota","Bon Homme County","county",46009,"January",2020,2836,2728,108
+"46","SD","South Dakota","Brookings County","county",46011,"January",2020,19069,18351,718
+"46","SD","South Dakota","Brown County","county",46013,"January",2020,20616,19886,730
+"46","SD","South Dakota","Brule County","county",46015,"January",2020,2373,2287,86
+"46","SD","South Dakota","Buffalo County","county",46017,"January",2020,665,624,41
+"46","SD","South Dakota","Butte County","county",46019,"January",2020,4978,4776,202
+"46","SD","South Dakota","Campbell County","county",46021,"January",2020,763,731,32
+"46","SD","South Dakota","Charles Mix County","county",46023,"January",2020,3661,3517,144
+"46","SD","South Dakota","Clark County","county",46025,"January",2020,1902,1807,95
+"46","SD","South Dakota","Clay County","county",46027,"January",2020,7614,7355,259
+"46","SD","South Dakota","Codington County","county",46029,"January",2020,15505,14963,542
+"46","SD","South Dakota","Corson County","county",46031,"January",2020,1352,1281,71
+"46","SD","South Dakota","Custer County","county",46033,"January",2020,3984,3764,220
+"46","SD","South Dakota","Davison County","county",46035,"January",2020,10984,10608,376
+"46","SD","South Dakota","Day County","county",46037,"January",2020,2746,2570,176
+"46","SD","South Dakota","Deuel County","county",46039,"January",2020,2121,1950,171
+"46","SD","South Dakota","Dewey County","county",46041,"January",2020,2177,2026,151
+"46","SD","South Dakota","Aurora County","county",46003,"February",2020,1470,1428,42
+"46","SD","South Dakota","Beadle County","county",46005,"February",2020,9505,9191,314
+"46","SD","South Dakota","Bennett County","county",46007,"February",2020,1072,1012,60
+"46","SD","South Dakota","Bon Homme County","county",46009,"February",2020,2824,2722,102
+"46","SD","South Dakota","Brookings County","county",46011,"February",2020,19473,18870,603
+"46","SD","South Dakota","Brown County","county",46013,"February",2020,20731,20040,691
+"46","SD","South Dakota","Brule County","county",46015,"February",2020,2357,2278,79
+"46","SD","South Dakota","Buffalo County","county",46017,"February",2020,665,621,44
+"46","SD","South Dakota","Butte County","county",46019,"February",2020,4969,4780,189
+"46","SD","South Dakota","Campbell County","county",46021,"February",2020,768,736,32
+"46","SD","South Dakota","Charles Mix County","county",46023,"February",2020,3634,3507,127
+"46","SD","South Dakota","Clark County","county",46025,"February",2020,1887,1797,90
+"46","SD","South Dakota","Clay County","county",46027,"February",2020,7825,7614,211
+"46","SD","South Dakota","Codington County","county",46029,"February",2020,15519,14996,523
+"46","SD","South Dakota","Corson County","county",46031,"February",2020,1346,1274,72
+"46","SD","South Dakota","Custer County","county",46033,"February",2020,3996,3785,211
+"46","SD","South Dakota","Davison County","county",46035,"February",2020,10982,10617,365
+"46","SD","South Dakota","Day County","county",46037,"February",2020,2748,2574,174
+"46","SD","South Dakota","Deuel County","county",46039,"February",2020,2119,1957,162
+"46","SD","South Dakota","Dewey County","county",46041,"February",2020,2169,2030,139
+"46","SD","South Dakota","Aurora County","county",46003,"March",2020,1506,1466,40
+"46","SD","South Dakota","Beadle County","county",46005,"March",2020,9522,9221,301
+"46","SD","South Dakota","Bennett County","county",46007,"March",2020,1077,1027,50
+"46","SD","South Dakota","Bon Homme County","county",46009,"March",2020,2901,2814,87
+"46","SD","South Dakota","Brookings County","county",46011,"March",2020,19542,18959,583
+"46","SD","South Dakota","Brown County","county",46013,"March",2020,20842,20196,646
+"46","SD","South Dakota","Brule County","county",46015,"March",2020,2419,2344,75
+"46","SD","South Dakota","Buffalo County","county",46017,"March",2020,646,614,32
+"46","SD","South Dakota","Butte County","county",46019,"March",2020,5073,4894,179
+"46","SD","South Dakota","Campbell County","county",46021,"March",2020,802,765,37
+"46","SD","South Dakota","Charles Mix County","county",46023,"March",2020,3749,3622,127
+"46","SD","South Dakota","Clark County","county",46025,"March",2020,1929,1835,94
+"46","SD","South Dakota","Clay County","county",46027,"March",2020,7825,7606,219
+"46","SD","South Dakota","Codington County","county",46029,"March",2020,15680,15182,498
+"46","SD","South Dakota","Corson County","county",46031,"March",2020,1380,1313,67
+"46","SD","South Dakota","Custer County","county",46033,"March",2020,4047,3847,200
+"46","SD","South Dakota","Davison County","county",46035,"March",2020,11066,10704,362
+"46","SD","South Dakota","Day County","county",46037,"March",2020,2763,2599,164
+"46","SD","South Dakota","Deuel County","county",46039,"March",2020,2173,2031,142
+"46","SD","South Dakota","Dewey County","county",46041,"March",2020,2232,2092,140
+"46","SD","South Dakota","Aurora County","county",46003,"April",2020,1478,1394,84
+"46","SD","South Dakota","Beadle County","county",46005,"April",2020,9436,8729,707
+"46","SD","South Dakota","Bennett County","county",46007,"April",2020,1033,965,68
+"46","SD","South Dakota","Bon Homme County","county",46009,"April",2020,2823,2578,245
+"46","SD","South Dakota","Brookings County","county",46011,"April",2020,19124,17461,1663
+"46","SD","South Dakota","Brown County","county",46013,"April",2020,21143,18971,2172
+"46","SD","South Dakota","Brule County","county",46015,"April",2020,2513,2228,285
+"46","SD","South Dakota","Buffalo County","county",46017,"April",2020,693,592,101
+"46","SD","South Dakota","Butte County","county",46019,"April",2020,5215,4556,659
+"46","SD","South Dakota","Campbell County","county",46021,"April",2020,745,696,49
+"46","SD","South Dakota","Charles Mix County","county",46023,"April",2020,3798,3359,439
+"46","SD","South Dakota","Clark County","county",46025,"April",2020,1860,1687,173
+"46","SD","South Dakota","Clay County","county",46027,"April",2020,7748,7085,663
+"46","SD","South Dakota","Codington County","county",46029,"April",2020,16172,14051,2121
+"46","SD","South Dakota","Corson County","county",46031,"April",2020,1283,1203,80
+"46","SD","South Dakota","Custer County","county",46033,"April",2020,4042,3502,540
+"46","SD","South Dakota","Davison County","county",46035,"April",2020,10993,10045,948
+"46","SD","South Dakota","Day County","county",46037,"April",2020,2776,2405,371
+"46","SD","South Dakota","Deuel County","county",46039,"April",2020,2193,1929,264
+"46","SD","South Dakota","Dewey County","county",46041,"April",2020,2121,1929,192
+"46","SD","South Dakota","Aurora County","county",46003,"May",2020,1494,1401,93
+"46","SD","South Dakota","Beadle County","county",46005,"May",2020,9454,8870,584
+"46","SD","South Dakota","Bennett County","county",46007,"May",2020,1029,955,74
+"46","SD","South Dakota","Bon Homme County","county",46009,"May",2020,2787,2582,205
+"46","SD","South Dakota","Brookings County","county",46011,"May",2020,18775,17216,1559
+"46","SD","South Dakota","Brown County","county",46013,"May",2020,20971,19076,1895
+"46","SD","South Dakota","Brule County","county",46015,"May",2020,2482,2239,243
+"46","SD","South Dakota","Buffalo County","county",46017,"May",2020,715,601,114
+"46","SD","South Dakota","Butte County","county",46019,"May",2020,5074,4560,514
+"46","SD","South Dakota","Campbell County","county",46021,"May",2020,735,692,43
+"46","SD","South Dakota","Charles Mix County","county",46023,"May",2020,3898,3437,461
+"46","SD","South Dakota","Clark County","county",46025,"May",2020,1877,1722,155
+"46","SD","South Dakota","Clay County","county",46027,"May",2020,7125,6404,721
+"46","SD","South Dakota","Codington County","county",46029,"May",2020,15520,14088,1432
+"46","SD","South Dakota","Corson County","county",46031,"May",2020,1281,1188,93
+"46","SD","South Dakota","Custer County","county",46033,"May",2020,3969,3529,440
+"46","SD","South Dakota","Davison County","county",46035,"May",2020,10997,10149,848
+"46","SD","South Dakota","Day County","county",46037,"May",2020,2758,2515,243
+"46","SD","South Dakota","Deuel County","county",46039,"May",2020,2142,1967,175
+"46","SD","South Dakota","Dewey County","county",46041,"May",2020,2069,1894,175
+"46","SD","South Dakota","Douglas County","county",46043,"January",2020,1574,1518,56
+"46","SD","South Dakota","Edmunds County","county",46045,"January",2020,2013,1944,69
+"46","SD","South Dakota","Fall River County","county",46047,"January",2020,2868,2721,147
+"46","SD","South Dakota","Faulk County","county",46049,"January",2020,1028,989,39
+"46","SD","South Dakota","Grant County","county",46051,"January",2020,4428,4196,232
+"46","SD","South Dakota","Gregory County","county",46053,"January",2020,1984,1899,85
+"46","SD","South Dakota","Haakon County","county",46055,"January",2020,1036,1002,34
+"46","SD","South Dakota","Hamlin County","county",46057,"January",2020,3285,3160,125
+"46","SD","South Dakota","Hand County","county",46059,"January",2020,1756,1703,53
+"46","SD","South Dakota","Hanson County","county",46061,"January",2020,1745,1635,110
+"46","SD","South Dakota","Harding County","county",46063,"January",2020,717,697,20
+"46","SD","South Dakota","Hughes County","county",46065,"January",2020,9984,9664,320
+"46","SD","South Dakota","Hutchinson County","county",46067,"January",2020,3622,3475,147
+"46","SD","South Dakota","Hyde County","county",46069,"January",2020,687,660,27
+"46","SD","South Dakota","Jackson County","county",46071,"January",2020,1134,1059,75
+"46","SD","South Dakota","Jerauld County","county",46073,"January",2020,1084,1059,25
+"46","SD","South Dakota","Jones County","county",46075,"January",2020,506,487,19
+"46","SD","South Dakota","Kingsbury County","county",46077,"January",2020,2598,2503,95
+"46","SD","South Dakota","Lake County","county",46079,"January",2020,6585,6336,249
+"46","SD","South Dakota","Douglas County","county",46043,"February",2020,1566,1506,60
+"46","SD","South Dakota","Edmunds County","county",46045,"February",2020,2013,1951,62
+"46","SD","South Dakota","Fall River County","county",46047,"February",2020,2882,2745,137
+"46","SD","South Dakota","Faulk County","county",46049,"February",2020,1021,982,39
+"46","SD","South Dakota","Grant County","county",46051,"February",2020,4423,4185,238
+"46","SD","South Dakota","Gregory County","county",46053,"February",2020,1978,1904,74
+"46","SD","South Dakota","Haakon County","county",46055,"February",2020,1029,996,33
+"46","SD","South Dakota","Hamlin County","county",46057,"February",2020,3282,3167,115
+"46","SD","South Dakota","Hand County","county",46059,"February",2020,1741,1693,48
+"46","SD","South Dakota","Hanson County","county",46061,"February",2020,1736,1628,108
+"46","SD","South Dakota","Harding County","county",46063,"February",2020,706,688,18
+"46","SD","South Dakota","Hughes County","county",46065,"February",2020,9926,9611,315
+"46","SD","South Dakota","Hutchinson County","county",46067,"February",2020,3598,3446,152
+"46","SD","South Dakota","Hyde County","county",46069,"February",2020,683,658,25
+"46","SD","South Dakota","Jackson County","county",46071,"February",2020,1116,1047,69
+"46","SD","South Dakota","Jerauld County","county",46073,"February",2020,1089,1063,26
+"46","SD","South Dakota","Jones County","county",46075,"February",2020,502,483,19
+"46","SD","South Dakota","Kingsbury County","county",46077,"February",2020,2615,2516,99
+"46","SD","South Dakota","Lake County","county",46079,"February",2020,6738,6507,231
+"46","SD","South Dakota","Douglas County","county",46043,"March",2020,1584,1534,50
+"46","SD","South Dakota","Edmunds County","county",46045,"March",2020,2067,2007,60
+"46","SD","South Dakota","Fall River County","county",46047,"March",2020,2979,2835,144
+"46","SD","South Dakota","Faulk County","county",46049,"March",2020,1077,1040,37
+"46","SD","South Dakota","Grant County","county",46051,"March",2020,4504,4294,210
+"46","SD","South Dakota","Gregory County","county",46053,"March",2020,2015,1945,70
+"46","SD","South Dakota","Haakon County","county",46055,"March",2020,1070,1038,32
+"46","SD","South Dakota","Hamlin County","county",46057,"March",2020,3359,3247,112
+"46","SD","South Dakota","Hand County","county",46059,"March",2020,1781,1736,45
+"46","SD","South Dakota","Hanson County","county",46061,"March",2020,1766,1666,100
+"46","SD","South Dakota","Harding County","county",46063,"March",2020,739,721,18
+"46","SD","South Dakota","Hughes County","county",46065,"March",2020,9874,9590,284
+"46","SD","South Dakota","Hutchinson County","county",46067,"March",2020,3737,3592,145
+"46","SD","South Dakota","Hyde County","county",46069,"March",2020,705,685,20
+"46","SD","South Dakota","Jackson County","county",46071,"March",2020,1172,1110,62
+"46","SD","South Dakota","Jerauld County","county",46073,"March",2020,1159,1132,27
+"46","SD","South Dakota","Jones County","county",46075,"March",2020,520,503,17
+"46","SD","South Dakota","Kingsbury County","county",46077,"March",2020,2691,2599,92
+"46","SD","South Dakota","Lake County","county",46079,"March",2020,6732,6518,214
+"46","SD","South Dakota","Douglas County","county",46043,"April",2020,1492,1429,63
+"46","SD","South Dakota","Edmunds County","county",46045,"April",2020,1959,1868,91
+"46","SD","South Dakota","Fall River County","county",46047,"April",2020,2982,2670,312
+"46","SD","South Dakota","Faulk County","county",46049,"April",2020,1004,949,55
+"46","SD","South Dakota","Grant County","county",46051,"April",2020,4407,4016,391
+"46","SD","South Dakota","Gregory County","county",46053,"April",2020,1990,1847,143
+"46","SD","South Dakota","Haakon County","county",46055,"April",2020,1000,956,44
+"46","SD","South Dakota","Hamlin County","county",46057,"April",2020,3176,2937,239
+"46","SD","South Dakota","Hand County","county",46059,"April",2020,1688,1606,82
+"46","SD","South Dakota","Hanson County","county",46061,"April",2020,1704,1548,156
+"46","SD","South Dakota","Harding County","county",46063,"April",2020,704,655,49
+"46","SD","South Dakota","Hughes County","county",46065,"April",2020,9768,9012,756
+"46","SD","South Dakota","Hutchinson County","county",46067,"April",2020,3509,3264,245
+"46","SD","South Dakota","Hyde County","county",46069,"April",2020,644,617,27
+"46","SD","South Dakota","Jackson County","county",46071,"April",2020,1172,1107,65
+"46","SD","South Dakota","Jerauld County","county",46073,"April",2020,1058,1010,48
+"46","SD","South Dakota","Jones County","county",46075,"April",2020,508,478,30
+"46","SD","South Dakota","Kingsbury County","county",46077,"April",2020,2625,2446,179
+"46","SD","South Dakota","Lake County","county",46079,"April",2020,6624,6151,473
+"46","SD","South Dakota","Douglas County","county",46043,"May",2020,1507,1444,63
+"46","SD","South Dakota","Edmunds County","county",46045,"May",2020,1942,1859,83
+"46","SD","South Dakota","Fall River County","county",46047,"May",2020,3085,2756,329
+"46","SD","South Dakota","Faulk County","county",46049,"May",2020,995,942,53
+"46","SD","South Dakota","Grant County","county",46051,"May",2020,4329,4053,276
+"46","SD","South Dakota","Gregory County","county",46053,"May",2020,2008,1871,137
+"46","SD","South Dakota","Haakon County","county",46055,"May",2020,985,949,36
+"46","SD","South Dakota","Hamlin County","county",46057,"May",2020,3195,2992,203
+"46","SD","South Dakota","Hand County","county",46059,"May",2020,1711,1637,74
+"46","SD","South Dakota","Hanson County","county",46061,"May",2020,1696,1554,142
+"46","SD","South Dakota","Harding County","county",46063,"May",2020,688,648,40
+"46","SD","South Dakota","Hughes County","county",46065,"May",2020,9957,9284,673
+"46","SD","South Dakota","Hutchinson County","county",46067,"May",2020,3478,3252,226
+"46","SD","South Dakota","Hyde County","county",46069,"May",2020,633,603,30
+"46","SD","South Dakota","Jackson County","county",46071,"May",2020,1248,1187,61
+"46","SD","South Dakota","Jerauld County","county",46073,"May",2020,1052,1007,45
+"46","SD","South Dakota","Jones County","county",46075,"May",2020,537,499,38
+"46","SD","South Dakota","Kingsbury County","county",46077,"May",2020,2612,2450,162
+"46","SD","South Dakota","Lake County","county",46079,"May",2020,6530,6140,390
+"46","SD","South Dakota","Lawrence County","county",46081,"January",2020,13270,12835,435
+"46","SD","South Dakota","Lincoln County","county",46083,"January",2020,34643,33635,1008
+"46","SD","South Dakota","Lyman County","county",46085,"January",2020,1618,1532,86
+"46","SD","South Dakota","Marshall County","county",46091,"January",2020,2322,2205,117
+"46","SD","South Dakota","McCook County","county",46087,"January",2020,3073,2966,107
+"46","SD","South Dakota","McPherson County","county",46089,"January",2020,1008,955,53
+"46","SD","South Dakota","Meade County","county",46093,"January",2020,14010,13458,552
+"46","SD","South Dakota","Mellette County","county",46095,"January",2020,739,688,51
+"46","SD","South Dakota","Miner County","county",46097,"January",2020,1168,1131,37
+"46","SD","South Dakota","Minnehaha County","county",46099,"January",2020,113605,109661,3944
+"46","SD","South Dakota","Moody County","county",46101,"January",2020,3955,3806,149
+"46","SD","South Dakota","Oglala Lakota County","county",NA,"January",2020,3550,3225,325
+"46","SD","South Dakota","Pennington County","county",46103,"January",2020,56372,54234,2138
+"46","SD","South Dakota","Perkins County","county",46105,"January",2020,1393,1351,42
+"46","SD","South Dakota","Potter County","county",46107,"January",2020,986,950,36
+"46","SD","South Dakota","Roberts County","county",46109,"January",2020,4873,4570,303
+"46","SD","South Dakota","Sanborn County","county",46111,"January",2020,1144,1102,42
+"46","SD","South Dakota","Spink County","county",46115,"January",2020,3137,2993,144
+"46","SD","South Dakota","Stanley County","county",46117,"January",2020,1847,1771,76
+"46","SD","South Dakota","Sully County","county",46119,"January",2020,786,762,24
+"46","SD","South Dakota","Lawrence County","county",46081,"February",2020,13399,12997,402
+"46","SD","South Dakota","Lincoln County","county",46083,"February",2020,34894,33933,961
+"46","SD","South Dakota","Lyman County","county",46085,"February",2020,1602,1519,83
+"46","SD","South Dakota","Marshall County","county",46091,"February",2020,2327,2198,129
+"46","SD","South Dakota","McCook County","county",46087,"February",2020,3090,2984,106
+"46","SD","South Dakota","McPherson County","county",46089,"February",2020,989,938,51
+"46","SD","South Dakota","Meade County","county",46093,"February",2020,14086,13568,518
+"46","SD","South Dakota","Mellette County","county",46095,"February",2020,727,683,44
+"46","SD","South Dakota","Miner County","county",46097,"February",2020,1159,1124,35
+"46","SD","South Dakota","Minnehaha County","county",46099,"February",2020,114408,110654,3754
+"46","SD","South Dakota","Moody County","county",46101,"February",2020,3979,3822,157
+"46","SD","South Dakota","Oglala Lakota County","county",NA,"February",2020,3543,3250,293
+"46","SD","South Dakota","Pennington County","county",46103,"February",2020,56748,54656,2092
+"46","SD","South Dakota","Perkins County","county",46105,"February",2020,1397,1351,46
+"46","SD","South Dakota","Potter County","county",46107,"February",2020,983,950,33
+"46","SD","South Dakota","Roberts County","county",46109,"February",2020,4874,4566,308
+"46","SD","South Dakota","Sanborn County","county",46111,"February",2020,1142,1100,42
+"46","SD","South Dakota","Spink County","county",46115,"February",2020,3145,2995,150
+"46","SD","South Dakota","Stanley County","county",46117,"February",2020,1834,1756,78
+"46","SD","South Dakota","Sully County","county",46119,"February",2020,775,754,21
+"46","SD","South Dakota","Lawrence County","county",46081,"March",2020,13665,13276,389
+"46","SD","South Dakota","Lincoln County","county",46083,"March",2020,34646,33758,888
+"46","SD","South Dakota","Lyman County","county",46085,"March",2020,1648,1570,78
+"46","SD","South Dakota","Marshall County","county",46091,"March",2020,2388,2271,117
+"46","SD","South Dakota","McCook County","county",46087,"March",2020,3120,3020,100
+"46","SD","South Dakota","McPherson County","county",46089,"March",2020,1013,965,48
+"46","SD","South Dakota","Meade County","county",46093,"March",2020,14028,13545,483
+"46","SD","South Dakota","Mellette County","county",46095,"March",2020,759,717,42
+"46","SD","South Dakota","Miner County","county",46097,"March",2020,1184,1152,32
+"46","SD","South Dakota","Minnehaha County","county",46099,"March",2020,113477,109947,3530
+"46","SD","South Dakota","Moody County","county",46101,"March",2020,4092,3945,147
+"46","SD","South Dakota","Oglala Lakota County","county",NA,"March",2020,3521,3252,269
+"46","SD","South Dakota","Pennington County","county",46103,"March",2020,56328,54369,1959
+"46","SD","South Dakota","Perkins County","county",46105,"March",2020,1450,1410,40
+"46","SD","South Dakota","Potter County","county",46107,"March",2020,1014,981,33
+"46","SD","South Dakota","Roberts County","county",46109,"March",2020,4969,4683,286
+"46","SD","South Dakota","Sanborn County","county",46111,"March",2020,1198,1153,45
+"46","SD","South Dakota","Spink County","county",46115,"March",2020,3222,3082,140
+"46","SD","South Dakota","Stanley County","county",46117,"March",2020,1850,1782,68
+"46","SD","South Dakota","Sully County","county",46119,"March",2020,810,787,23
+"46","SD","South Dakota","Lawrence County","county",46081,"April",2020,15217,11884,3333
+"46","SD","South Dakota","Lincoln County","county",46083,"April",2020,34415,31299,3116
+"46","SD","South Dakota","Lyman County","county",46085,"April",2020,1633,1468,165
+"46","SD","South Dakota","Marshall County","county",46091,"April",2020,2353,2076,277
+"46","SD","South Dakota","McCook County","county",46087,"April",2020,3030,2792,238
+"46","SD","South Dakota","McPherson County","county",46089,"April",2020,988,895,93
+"46","SD","South Dakota","Meade County","county",46093,"April",2020,14189,12329,1860
+"46","SD","South Dakota","Mellette County","county",46095,"April",2020,720,659,61
+"46","SD","South Dakota","Miner County","county",46097,"April",2020,1141,1054,87
+"46","SD","South Dakota","Minnehaha County","county",46099,"April",2020,114719,101951,12768
+"46","SD","South Dakota","Moody County","county",46101,"April",2020,4076,3591,485
+"46","SD","South Dakota","Oglala Lakota County","county",NA,"April",2020,3375,3020,355
+"46","SD","South Dakota","Pennington County","county",46103,"April",2020,57388,49339,8049
+"46","SD","South Dakota","Perkins County","county",46105,"April",2020,1366,1299,67
+"46","SD","South Dakota","Potter County","county",46107,"April",2020,985,932,53
+"46","SD","South Dakota","Roberts County","county",46109,"April",2020,5159,4258,901
+"46","SD","South Dakota","Sanborn County","county",46111,"April",2020,1129,1042,87
+"46","SD","South Dakota","Spink County","county",46115,"April",2020,3113,2868,245
+"46","SD","South Dakota","Stanley County","county",46117,"April",2020,1825,1660,165
+"46","SD","South Dakota","Sully County","county",46119,"April",2020,766,722,44
+"46","SD","South Dakota","Lawrence County","county",46081,"May",2020,14026,12049,1977
+"46","SD","South Dakota","Lincoln County","county",46083,"May",2020,34829,31997,2832
+"46","SD","South Dakota","Lyman County","county",46085,"May",2020,1672,1507,165
+"46","SD","South Dakota","Marshall County","county",46091,"May",2020,2362,2185,177
+"46","SD","South Dakota","McCook County","county",46087,"May",2020,3062,2822,240
+"46","SD","South Dakota","McPherson County","county",46089,"May",2020,970,884,86
+"46","SD","South Dakota","Meade County","county",46093,"May",2020,14010,12575,1435
+"46","SD","South Dakota","Mellette County","county",46095,"May",2020,725,654,71
+"46","SD","South Dakota","Miner County","county",46097,"May",2020,1133,1064,69
+"46","SD","South Dakota","Minnehaha County","county",46099,"May",2020,115856,104310,11546
+"46","SD","South Dakota","Moody County","county",46101,"May",2020,4121,3673,448
+"46","SD","South Dakota","Oglala Lakota County","county",NA,"May",2020,3373,3014,359
+"46","SD","South Dakota","Pennington County","county",46103,"May",2020,56785,50521,6264
+"46","SD","South Dakota","Perkins County","county",46105,"May",2020,1384,1305,79
+"46","SD","South Dakota","Potter County","county",46107,"May",2020,996,948,48
+"46","SD","South Dakota","Roberts County","county",46109,"May",2020,4781,4305,476
+"46","SD","South Dakota","Sanborn County","county",46111,"May",2020,1114,1031,83
+"46","SD","South Dakota","Spink County","county",46115,"May",2020,3094,2902,192
+"46","SD","South Dakota","Stanley County","county",46117,"May",2020,1843,1693,150
+"46","SD","South Dakota","Sully County","county",46119,"May",2020,760,724,36
+"46","SD","South Dakota","Todd County","county",46121,"January",2020,3149,2929,220
+"46","SD","South Dakota","Tripp County","county",46123,"January",2020,3005,2908,97
+"46","SD","South Dakota","Turner County","county",46125,"January",2020,4708,4511,197
+"46","SD","South Dakota","Union County","county",46127,"January",2020,8541,8217,324
+"46","SD","South Dakota","Walworth County","county",46129,"January",2020,2109,1958,151
+"46","SD","South Dakota","Yankton County","county",46135,"January",2020,11875,11497,378
+"46","SD","South Dakota","Ziebach County","county",46137,"January",2020,908,871,37
+"46","SD","South Dakota","Todd County","county",46121,"February",2020,3138,2939,199
+"46","SD","South Dakota","Tripp County","county",46123,"February",2020,2967,2877,90
+"46","SD","South Dakota","Turner County","county",46125,"February",2020,4726,4544,182
+"46","SD","South Dakota","Union County","county",46127,"February",2020,8587,8268,319
+"46","SD","South Dakota","Walworth County","county",46129,"February",2020,2105,1953,152
+"46","SD","South Dakota","Yankton County","county",46135,"February",2020,11964,11590,374
+"46","SD","South Dakota","Ziebach County","county",46137,"February",2020,902,869,33
+"46","SD","South Dakota","Todd County","county",46121,"March",2020,3177,2992,185
+"46","SD","South Dakota","Tripp County","county",46123,"March",2020,3098,3015,83
+"46","SD","South Dakota","Turner County","county",46125,"March",2020,4771,4606,165
+"46","SD","South Dakota","Union County","county",46127,"March",2020,8503,8232,271
+"46","SD","South Dakota","Walworth County","county",46129,"March",2020,2158,2016,142
+"46","SD","South Dakota","Yankton County","county",46135,"March",2020,11852,11505,347
+"46","SD","South Dakota","Ziebach County","county",46137,"March",2020,936,903,33
+"46","SD","South Dakota","Todd County","county",46121,"April",2020,3090,2816,274
+"46","SD","South Dakota","Tripp County","county",46123,"April",2020,2920,2762,158
+"46","SD","South Dakota","Turner County","county",46125,"April",2020,4657,4283,374
+"46","SD","South Dakota","Union County","county",46127,"April",2020,8763,7689,1074
+"46","SD","South Dakota","Walworth County","county",46129,"April",2020,2077,1843,234
+"46","SD","South Dakota","Yankton County","county",46135,"April",2020,12408,10939,1469
+"46","SD","South Dakota","Ziebach County","county",46137,"April",2020,872,826,46
+"46","SD","South Dakota","Todd County","county",46121,"May",2020,3069,2798,271
+"46","SD","South Dakota","Tripp County","county",46123,"May",2020,2919,2747,172
+"46","SD","South Dakota","Turner County","county",46125,"May",2020,4686,4312,374
+"46","SD","South Dakota","Union County","county",46127,"May",2020,8712,7816,896
+"46","SD","South Dakota","Walworth County","county",46129,"May",2020,2071,1881,190
+"46","SD","South Dakota","Yankton County","county",46135,"May",2020,12040,11040,1000
+"46","SD","South Dakota","Ziebach County","county",46137,"May",2020,864,809,55
+"46","SD","South Dakota","South Dakota","state",NA,"January",2020,461820,444256,17564
+"46","SD","South Dakota","South Dakota","state",NA,"February",2020,464194,447445,16749
+"46","SD","South Dakota","South Dakota","state",NA,"March",2020,465585,449860,15725
+"46","SD","South Dakota","South Dakota","state",NA,"April",2020,467575,416227,51348
+"46","SD","South Dakota","South Dakota","state",NA,"May",2020,464600,421779,42821

@@ -30,8 +30,8 @@ output <- raw %>%
     rename(unemployment = unemployed,
            employment = employed) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    labor_force, employment, unemployment
   )
 
 write.csv(output, file = "MI_compiled.csv", row.names = FALSE)

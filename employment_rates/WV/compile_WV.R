@@ -47,10 +47,10 @@ output <- raw %>%
     employment = emp,
     labor_force = civilian_labor_force
   ) %>%
-   select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
-  )   %>%
+  select(
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    labor_force, employment, unemployment
+  )  %>%
   filter(!is.na(area_type))
 
 write.csv(output, file = "WV_compiled.csv", row.names = FALSE)

@@ -1,262 +1,262 @@
-"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
-"22","LA","Louisiana","Acadia Parish","county",22001,"April",2020,18791,21195,2404
-"22","LA","Louisiana","Allen Parish","county",22003,"April",2020,6935,8212,1277
-"22","LA","Louisiana","Ascension Parish","county",22005,"April",2020,51447,59009,7562
-"22","LA","Louisiana","Assumption Parish","county",22007,"April",2020,7102,8458,1356
-"22","LA","Louisiana","Avoyelles Parish","county",22009,"April",2020,12069,14100,2031
-"22","LA","Louisiana","Beauregard Parish","county",22011,"April",2020,11663,13054,1391
-"22","LA","Louisiana","Bienville Parish","county",22013,"April",2020,4310,4769,459
-"22","LA","Louisiana","Bossier Parish","county",22015,"April",2020,46489,52711,6222
-"22","LA","Louisiana","Caddo Parish","county",22017,"April",2020,82513,96113,13600
-"22","LA","Louisiana","Calcasieu Parish","county",22019,"April",2020,79315,92959,13644
-"22","LA","Louisiana","Caldwell Parish","county",22021,"April",2020,2979,3304,325
-"22","LA","Louisiana","Cameron Parish","county",22023,"April",2020,2953,3246,293
-"22","LA","Louisiana","Catahoula Parish","county",22025,"April",2020,2729,3029,300
-"22","LA","Louisiana","Claiborne Parish","county",22027,"April",2020,4579,4961,382
-"22","LA","Louisiana","Concordia Parish","county",22029,"April",2020,5589,6296,707
-"22","LA","Louisiana","De Soto Parish","county",22031,"April",2020,8604,9618,1014
-"22","LA","Louisiana","East Baton Rouge Parish","county",22033,"April",2020,184860,213017,28157
-"22","LA","Louisiana","East Carroll Parish","county",22035,"April",2020,1395,1581,186
-"22","LA","Louisiana","East Feliciana Parish","county",22037,"April",2020,6379,7141,762
-"22","LA","Louisiana","Evangeline Parish","county",22039,"April",2020,9234,10431,1197
-"22","LA","Louisiana","Franklin Parish","county",22041,"April",2020,5809,6484,675
-"22","LA","Louisiana","Grant Parish","county",22043,"April",2020,6665,7382,717
-"22","LA","Louisiana","Iberia Parish","county",22045,"April",2020,22107,25765,3658
-"22","LA","Louisiana","Iberville Parish","county",22047,"April",2020,11087,12909,1822
-"22","LA","Louisiana","Jackson Parish","county",22049,"April",2020,5414,5835,421
-"22","LA","Louisiana","Jefferson Davis Parish","county",22053,"April",2020,10315,11796,1481
-"22","LA","Louisiana","Jefferson Parish","county",22051,"April",2020,163766,201568,37802
-"22","LA","Louisiana","La Salle Parish","county",22059,"April",2020,5493,5922,429
-"22","LA","Louisiana","Lafayette Parish","county",22055,"April",2020,90397,104191,13794
-"22","LA","Louisiana","Lafourche Parish","county",22057,"April",2020,34694,39034,4340
-"22","LA","Louisiana","Lincoln Parish","county",22061,"April",2020,16562,18240,1678
-"22","LA","Louisiana","Livingston Parish","county",22063,"April",2020,55289,63581,8292
-"22","LA","Louisiana","Madison Parish","county",22065,"April",2020,2748,3100,352
-"22","LA","Louisiana","Morehouse Parish","county",22067,"April",2020,7714,8866,1152
-"22","LA","Louisiana","Natchitoches Parish","county",22069,"April",2020,12627,13985,1358
-"22","LA","Louisiana","Orleans Parish","county",22071,"April",2020,136075,174608,38533
-"22","LA","Louisiana","Ouachita Parish","county",22073,"April",2020,57094,64768,7674
-"22","LA","Louisiana","Plaquemines Parish","county",22075,"April",2020,7708,9061,1353
-"22","LA","Louisiana","Pointe Coupee Parish","county",22077,"April",2020,7836,8962,1126
-"22","LA","Louisiana","Rapides Parish","county",22079,"April",2020,45316,50298,4982
-"22","LA","Louisiana","Red River Parish","county",22081,"April",2020,3013,3251,238
-"22","LA","Louisiana","Richland Parish","county",22083,"April",2020,6465,7240,775
-"22","LA","Louisiana","Sabine Parish","county",22085,"April",2020,7316,7958,642
-"22","LA","Louisiana","St. Bernard Parish","county",22087,"April",2020,15118,18798,3680
-"22","LA","Louisiana","St. Charles Parish","county",22089,"April",2020,19233,22788,3555
-"22","LA","Louisiana","St. Helena Parish","county",22091,"April",2020,3367,4011,644
-"22","LA","Louisiana","St. James Parish","county",22093,"April",2020,6938,8099,1161
-"22","LA","Louisiana","St. John the Baptist Parish","county",22095,"April",2020,14826,18123,3297
-"22","LA","Louisiana","St. Landry Parish","county",22097,"April",2020,25044,28858,3814
-"22","LA","Louisiana","St. Martin Parish","county",22099,"April",2020,17530,20292,2762
-"22","LA","Louisiana","St. Mary Parish","county",22101,"April",2020,15411,18012,2601
-"22","LA","Louisiana","St. Tammany Parish","county",22103,"April",2020,91474,107599,16125
-"22","LA","Louisiana","Tangipahoa Parish","county",22105,"April",2020,43131,52028,8897
-"22","LA","Louisiana","Tensas Parish","county",22107,"April",2020,1068,1178,110
-"22","LA","Louisiana","Terrebonne Parish","county",22109,"April",2020,38192,44084,5892
-"22","LA","Louisiana","Union Parish","county",22111,"April",2020,7373,8135,762
-"22","LA","Louisiana","Vermilion Parish","county",22113,"April",2020,19019,21775,2756
-"22","LA","Louisiana","Vernon Parish","county",22115,"April",2020,12448,13993,1545
-"22","LA","Louisiana","Washington Parish","county",22117,"April",2020,13194,14963,1769
-"22","LA","Louisiana","Webster Parish","county",22119,"April",2020,11478,13005,1527
-"22","LA","Louisiana","West Baton Rouge Parish","county",22121,"April",2020,10931,12463,1532
-"22","LA","Louisiana","West Carroll Parish","county",22123,"April",2020,2747,3189,442
-"22","LA","Louisiana","West Feliciana Parish","county",22125,"April",2020,4327,4755,428
-"22","LA","Louisiana","Winn Parish","county",22127,"April",2020,3798,4171,373
-"22","LA","Louisiana","Acadia Parish","county",22001,"March",2020,22364,24036,1672
-"22","LA","Louisiana","Allen Parish","county",22003,"March",2020,8376,9076,700
-"22","LA","Louisiana","Ascension Parish","county",22005,"March",2020,62681,66163,3482
-"22","LA","Louisiana","Assumption Parish","county",22007,"March",2020,8412,9122,710
-"22","LA","Louisiana","Avoyelles Parish","county",22009,"March",2020,14340,15532,1192
-"22","LA","Louisiana","Beauregard Parish","county",22011,"March",2020,13851,14961,1110
-"22","LA","Louisiana","Bienville Parish","county",22013,"March",2020,5225,5697,472
-"22","LA","Louisiana","Bossier Parish","county",22015,"March",2020,55121,58383,3262
-"22","LA","Louisiana","Caddo Parish","county",22017,"March",2020,97807,105143,7336
-"22","LA","Louisiana","Calcasieu Parish","county",22019,"March",2020,97696,103917,6221
-"22","LA","Louisiana","Caldwell Parish","county",22021,"March",2020,3535,3894,359
-"22","LA","Louisiana","Cameron Parish","county",22023,"March",2020,3639,3844,205
-"22","LA","Louisiana","Catahoula Parish","county",22025,"March",2020,3217,3484,267
-"22","LA","Louisiana","Claiborne Parish","county",22027,"March",2020,5537,6017,480
-"22","LA","Louisiana","Concordia Parish","county",22029,"March",2020,6719,7357,638
-"22","LA","Louisiana","De Soto Parish","county",22031,"March",2020,10211,11101,890
-"22","LA","Louisiana","East Baton Rouge Parish","county",22033,"March",2020,225204,238382,13178
-"22","LA","Louisiana","East Carroll Parish","county",22035,"March",2020,1666,1953,287
-"22","LA","Louisiana","East Feliciana Parish","county",22037,"March",2020,7767,8236,469
-"22","LA","Louisiana","Evangeline Parish","county",22039,"March",2020,11158,12061,903
-"22","LA","Louisiana","Franklin Parish","county",22041,"March",2020,6908,7629,721
-"22","LA","Louisiana","Grant Parish","county",22043,"March",2020,7695,8341,646
-"22","LA","Louisiana","Iberia Parish","county",22045,"March",2020,26271,28430,2159
-"22","LA","Louisiana","Iberville Parish","county",22047,"March",2020,13528,14654,1126
-"22","LA","Louisiana","Jackson Parish","county",22049,"March",2020,6584,7043,459
-"22","LA","Louisiana","Jefferson Davis Parish","county",22053,"March",2020,12461,13302,841
-"22","LA","Louisiana","Jefferson Parish","county",22051,"March",2020,202921,214778,11857
-"22","LA","Louisiana","La Salle Parish","county",22059,"March",2020,6548,6935,387
-"22","LA","Louisiana","Lafayette Parish","county",22055,"March",2020,107302,113977,6675
-"22","LA","Louisiana","Lafourche Parish","county",22057,"March",2020,39684,42141,2457
-"22","LA","Louisiana","Lincoln Parish","county",22061,"March",2020,21355,22835,1480
-"22","LA","Louisiana","Livingston Parish","county",22063,"March",2020,67338,71038,3700
-"22","LA","Louisiana","Madison Parish","county",22065,"March",2020,3245,3609,364
-"22","LA","Louisiana","Morehouse Parish","county",22067,"March",2020,9289,10502,1213
-"22","LA","Louisiana","Natchitoches Parish","county",22069,"March",2020,15943,17148,1205
-"22","LA","Louisiana","Orleans Parish","county",22071,"March",2020,168498,179911,11413
-"22","LA","Louisiana","Ouachita Parish","county",22073,"March",2020,66873,71948,5075
-"22","LA","Louisiana","Plaquemines Parish","county",22075,"March",2020,9564,10115,551
-"22","LA","Louisiana","Pointe Coupee Parish","county",22077,"March",2020,9551,10225,674
-"22","LA","Louisiana","Rapides Parish","county",22079,"March",2020,52305,55880,3575
-"22","LA","Louisiana","Red River Parish","county",22081,"March",2020,3592,3877,285
-"22","LA","Louisiana","Richland Parish","county",22083,"March",2020,7683,8437,754
-"22","LA","Louisiana","Sabine Parish","county",22085,"March",2020,8829,9432,603
-"22","LA","Louisiana","St. Bernard Parish","county",22087,"March",2020,18709,19991,1282
-"22","LA","Louisiana","St. Charles Parish","county",22089,"March",2020,23836,25269,1433
-"22","LA","Louisiana","St. Helena Parish","county",22091,"March",2020,4102,4428,326
-"22","LA","Louisiana","St. James Parish","county",22093,"March",2020,8615,9343,728
-"22","LA","Louisiana","St. John the Baptist Parish","county",22095,"March",2020,18388,19852,1464
-"22","LA","Louisiana","St. Landry Parish","county",22097,"March",2020,30079,32771,2692
-"22","LA","Louisiana","St. Martin Parish","county",22099,"March",2020,20849,22375,1526
-"22","LA","Louisiana","St. Mary Parish","county",22101,"March",2020,18758,20320,1562
-"22","LA","Louisiana","St. Tammany Parish","county",22103,"March",2020,113214,119673,6459
-"22","LA","Louisiana","Tangipahoa Parish","county",22105,"March",2020,51596,55524,3928
-"22","LA","Louisiana","Tensas Parish","county",22107,"March",2020,1267,1449,182
-"22","LA","Louisiana","Terrebonne Parish","county",22109,"March",2020,43716,46567,2851
-"22","LA","Louisiana","Union Parish","county",22111,"March",2020,8662,9418,756
-"22","LA","Louisiana","Vermilion Parish","county",22113,"March",2020,22582,24246,1664
-"22","LA","Louisiana","Vernon Parish","county",22115,"March",2020,15236,16808,1572
-"22","LA","Louisiana","Washington Parish","county",22117,"March",2020,15824,17093,1269
-"22","LA","Louisiana","Webster Parish","county",22119,"March",2020,13610,14838,1228
-"22","LA","Louisiana","West Baton Rouge Parish","county",22121,"March",2020,13318,14113,795
-"22","LA","Louisiana","West Carroll Parish","county",22123,"March",2020,3233,3851,618
-"22","LA","Louisiana","West Feliciana Parish","county",22125,"March",2020,5274,5566,292
-"22","LA","Louisiana","Winn Parish","county",22127,"March",2020,4603,5036,433
-"22","LA","Louisiana","Acadia Parish","county",22001,"February",2020,22483,23574,1091
-"22","LA","Louisiana","Allen Parish","county",22003,"February",2020,8425,8924,499
-"22","LA","Louisiana","Ascension Parish","county",22005,"February",2020,62402,64725,2323
-"22","LA","Louisiana","Assumption Parish","county",22007,"February",2020,8366,8869,503
-"22","LA","Louisiana","Avoyelles Parish","county",22009,"February",2020,14132,14913,781
-"22","LA","Louisiana","Beauregard Parish","county",22011,"February",2020,13874,14582,708
-"22","LA","Louisiana","Bienville Parish","county",22013,"February",2020,5197,5514,317
-"22","LA","Louisiana","Bossier Parish","county",22015,"February",2020,55279,57407,2128
-"22","LA","Louisiana","Caddo Parish","county",22017,"February",2020,98110,103033,4923
-"22","LA","Louisiana","Calcasieu Parish","county",22019,"February",2020,99332,103480,4148
-"22","LA","Louisiana","Caldwell Parish","county",22021,"February",2020,3510,3761,251
-"22","LA","Louisiana","Cameron Parish","county",22023,"February",2020,3697,3841,144
-"22","LA","Louisiana","Catahoula Parish","county",22025,"February",2020,3171,3357,186
-"22","LA","Louisiana","Claiborne Parish","county",22027,"February",2020,5508,5854,346
-"22","LA","Louisiana","Concordia Parish","county",22029,"February",2020,6648,7090,442
-"22","LA","Louisiana","De Soto Parish","county",22031,"February",2020,10230,10842,612
-"22","LA","Louisiana","East Baton Rouge Parish","county",22033,"February",2020,224223,232932,8709
-"22","LA","Louisiana","East Carroll Parish","county",22035,"February",2020,1655,1866,211
-"22","LA","Louisiana","East Feliciana Parish","county",22037,"February",2020,7726,8030,304
-"22","LA","Louisiana","Evangeline Parish","county",22039,"February",2020,11038,11639,601
-"22","LA","Louisiana","Franklin Parish","county",22041,"February",2020,6803,7300,497
-"22","LA","Louisiana","Grant Parish","county",22043,"February",2020,7706,8150,444
-"22","LA","Louisiana","Iberia Parish","county",22045,"February",2020,26431,27889,1458
-"22","LA","Louisiana","Iberville Parish","county",22047,"February",2020,13446,14225,779
-"22","LA","Louisiana","Jackson Parish","county",22049,"February",2020,6515,6823,308
-"22","LA","Louisiana","Jefferson Davis Parish","county",22053,"February",2020,12489,13044,555
-"22","LA","Louisiana","Jefferson Parish","county",22051,"February",2020,207311,215129,7818
-"22","LA","Louisiana","La Salle Parish","county",22059,"February",2020,6503,6754,251
-"22","LA","Louisiana","Lafayette Parish","county",22055,"February",2020,108221,112611,4390
-"22","LA","Louisiana","Lafourche Parish","county",22057,"February",2020,40139,41727,1588
-"22","LA","Louisiana","Lincoln Parish","county",22061,"February",2020,21170,22095,925
-"22","LA","Louisiana","Livingston Parish","county",22063,"February",2020,67015,69409,2394
-"22","LA","Louisiana","Madison Parish","county",22065,"February",2020,3196,3445,249
-"22","LA","Louisiana","Morehouse Parish","county",22067,"February",2020,9201,10082,881
-"22","LA","Louisiana","Natchitoches Parish","county",22069,"February",2020,15705,16482,777
-"22","LA","Louisiana","Orleans Parish","county",22071,"February",2020,172117,179631,7514
-"22","LA","Louisiana","Ouachita Parish","county",22073,"February",2020,66784,70222,3438
-"22","LA","Louisiana","Plaquemines Parish","county",22075,"February",2020,9731,10093,362
-"22","LA","Louisiana","Pointe Coupee Parish","county",22077,"February",2020,9478,9924,446
-"22","LA","Louisiana","Rapides Parish","county",22079,"February",2020,52398,54814,2416
-"22","LA","Louisiana","Red River Parish","county",22081,"February",2020,3542,3735,193
-"22","LA","Louisiana","Richland Parish","county",22083,"February",2020,7605,8133,528
-"22","LA","Louisiana","Sabine Parish","county",22085,"February",2020,8676,9075,399
-"22","LA","Louisiana","St. Bernard Parish","county",22087,"February",2020,19082,19971,889
-"22","LA","Louisiana","St. Charles Parish","county",22089,"February",2020,24351,25300,949
-"22","LA","Louisiana","St. Helena Parish","county",22091,"February",2020,4078,4307,229
-"22","LA","Louisiana","St. James Parish","county",22093,"February",2020,8796,9311,515
-"22","LA","Louisiana","St. John the Baptist Parish","county",22095,"February",2020,18793,19800,1007
-"22","LA","Louisiana","St. Landry Parish","county",22097,"February",2020,29870,31700,1830
-"22","LA","Louisiana","St. Martin Parish","county",22099,"February",2020,21002,22025,1023
-"22","LA","Louisiana","St. Mary Parish","county",22101,"February",2020,18587,19607,1020
-"22","LA","Louisiana","St. Tammany Parish","county",22103,"February",2020,115612,119820,4208
-"22","LA","Louisiana","Tangipahoa Parish","county",22105,"February",2020,51887,54463,2576
-"22","LA","Louisiana","Tensas Parish","county",22107,"February",2020,1241,1361,120
-"22","LA","Louisiana","Terrebonne Parish","county",22109,"February",2020,44184,46027,1843
-"22","LA","Louisiana","Union Parish","county",22111,"February",2020,8619,9123,504
-"22","LA","Louisiana","Vermilion Parish","county",22113,"February",2020,22729,23807,1078
-"22","LA","Louisiana","Vernon Parish","county",22115,"February",2020,15142,16129,987
-"22","LA","Louisiana","Washington Parish","county",22117,"February",2020,15841,16680,839
-"22","LA","Louisiana","Webster Parish","county",22119,"February",2020,13647,14470,823
-"22","LA","Louisiana","West Baton Rouge Parish","county",22121,"February",2020,13262,13786,524
-"22","LA","Louisiana","West Carroll Parish","county",22123,"February",2020,3167,3591,424
-"22","LA","Louisiana","West Feliciana Parish","county",22125,"February",2020,5243,5443,200
-"22","LA","Louisiana","Winn Parish","county",22127,"February",2020,4543,4831,288
-"22","LA","Louisiana","Acadia Parish","county",22001,"January",2020,22161,23619,1458
-"22","LA","Louisiana","Allen Parish","county",22003,"January",2020,8322,8968,646
-"22","LA","Louisiana","Ascension Parish","county",22005,"January",2020,61136,64241,3105
-"22","LA","Louisiana","Assumption Parish","county",22007,"January",2020,8251,8921,670
-"22","LA","Louisiana","Avoyelles Parish","county",22009,"January",2020,13897,14984,1087
-"22","LA","Louisiana","Beauregard Parish","county",22011,"January",2020,13630,14567,937
-"22","LA","Louisiana","Bienville Parish","county",22013,"January",2020,5112,5493,381
-"22","LA","Louisiana","Bossier Parish","county",22015,"January",2020,54562,57460,2898
-"22","LA","Louisiana","Caddo Parish","county",22017,"January",2020,96887,103314,6427
-"22","LA","Louisiana","Calcasieu Parish","county",22019,"January",2020,98016,103482,5466
-"22","LA","Louisiana","Caldwell Parish","county",22021,"January",2020,3462,3781,319
-"22","LA","Louisiana","Cameron Parish","county",22023,"January",2020,3643,3832,189
-"22","LA","Louisiana","Catahoula Parish","county",22025,"January",2020,3110,3355,245
-"22","LA","Louisiana","Claiborne Parish","county",22027,"January",2020,5447,5863,416
-"22","LA","Louisiana","Concordia Parish","county",22029,"January",2020,6546,7099,553
-"22","LA","Louisiana","De Soto Parish","county",22031,"January",2020,10081,10880,799
-"22","LA","Louisiana","East Baton Rouge Parish","county",22033,"January",2020,219712,231590,11878
-"22","LA","Louisiana","East Carroll Parish","county",22035,"January",2020,1627,1862,235
-"22","LA","Louisiana","East Feliciana Parish","county",22037,"January",2020,7563,7976,413
-"22","LA","Louisiana","Evangeline Parish","county",22039,"January",2020,10890,11712,822
-"22","LA","Louisiana","Franklin Parish","county",22041,"January",2020,6675,7319,644
-"22","LA","Louisiana","Grant Parish","county",22043,"January",2020,7602,8181,579
-"22","LA","Louisiana","Iberia Parish","county",22045,"January",2020,26100,27913,1813
-"22","LA","Louisiana","Iberville Parish","county",22047,"January",2020,13131,14119,988
-"22","LA","Louisiana","Jackson Parish","county",22049,"January",2020,6403,6782,379
-"22","LA","Louisiana","Jefferson Davis Parish","county",22053,"January",2020,12310,13064,754
-"22","LA","Louisiana","Jefferson Parish","county",22051,"January",2020,205031,215328,10297
-"22","LA","Louisiana","La Salle Parish","county",22059,"January",2020,6468,6808,340
-"22","LA","Louisiana","Lafayette Parish","county",22055,"January",2020,107282,113183,5901
-"22","LA","Louisiana","Lafourche Parish","county",22057,"January",2020,39552,41763,2211
-"22","LA","Louisiana","Lincoln Parish","county",22061,"January",2020,20617,21986,1369
-"22","LA","Louisiana","Livingston Parish","county",22063,"January",2020,65622,68910,3288
-"22","LA","Louisiana","Madison Parish","county",22065,"January",2020,3121,3453,332
-"22","LA","Louisiana","Morehouse Parish","county",22067,"January",2020,9028,10109,1081
-"22","LA","Louisiana","Natchitoches Parish","county",22069,"January",2020,14874,16000,1126
-"22","LA","Louisiana","Orleans Parish","county",22071,"January",2020,170249,180237,9988
-"22","LA","Louisiana","Ouachita Parish","county",22073,"January",2020,65733,70168,4435
-"22","LA","Louisiana","Plaquemines Parish","county",22075,"January",2020,9564,10078,514
-"22","LA","Louisiana","Pointe Coupee Parish","county",22077,"January",2020,9233,9836,603
-"22","LA","Louisiana","Rapides Parish","county",22079,"January",2020,51708,55019,3311
-"22","LA","Louisiana","Red River Parish","county",22081,"January",2020,3479,3722,243
-"22","LA","Louisiana","Richland Parish","county",22083,"January",2020,7457,8142,685
-"22","LA","Louisiana","Sabine Parish","county",22085,"January",2020,8525,9067,542
-"22","LA","Louisiana","St. Bernard Parish","county",22087,"January",2020,18843,19997,1154
-"22","LA","Louisiana","St. Charles Parish","county",22089,"January",2020,24079,25369,1290
-"22","LA","Louisiana","St. Helena Parish","county",22091,"January",2020,3988,4285,297
-"22","LA","Louisiana","St. James Parish","county",22093,"January",2020,8681,9363,682
-"22","LA","Louisiana","St. John the Baptist Parish","county",22095,"January",2020,18589,19928,1339
-"22","LA","Louisiana","St. Landry Parish","county",22097,"January",2020,29464,31903,2439
-"22","LA","Louisiana","St. Martin Parish","county",22099,"January",2020,20761,22096,1335
-"22","LA","Louisiana","St. Mary Parish","county",22101,"January",2020,18426,19761,1335
-"22","LA","Louisiana","St. Tammany Parish","county",22103,"January",2020,114340,120112,5772
-"22","LA","Louisiana","Tangipahoa Parish","county",22105,"January",2020,51077,54687,3610
-"22","LA","Louisiana","Tensas Parish","county",22107,"January",2020,1185,1327,142
-"22","LA","Louisiana","Terrebonne Parish","county",22109,"January",2020,43469,46005,2536
-"22","LA","Louisiana","Union Parish","county",22111,"January",2020,8429,9077,648
-"22","LA","Louisiana","Vermilion Parish","county",22113,"January",2020,22472,23921,1449
-"22","LA","Louisiana","Vernon Parish","county",22115,"January",2020,15015,16167,1152
-"22","LA","Louisiana","Washington Parish","county",22117,"January",2020,15629,16749,1120
-"22","LA","Louisiana","Webster Parish","county",22119,"January",2020,13467,14518,1051
-"22","LA","Louisiana","West Baton Rouge Parish","county",22121,"January",2020,12999,13712,713
-"22","LA","Louisiana","West Carroll Parish","county",22123,"January",2020,3090,3654,564
-"22","LA","Louisiana","West Feliciana Parish","county",22125,"January",2020,5121,5392,271
-"22","LA","Louisiana","Winn Parish","county",22127,"January",2020,4468,4834,366
-"22","LA","Louisiana","Louisiana","state",NA,"January",2020,1977412,2097045,119633
-"22","LA","Louisiana","Louisiana","state",NA,"February",2020,2006863,2096578,89715
-"22","LA","Louisiana","Louisiana","state",NA,"March",2020,1993963,2129078,135115
-"22","LA","Louisiana","Louisiana","state",NA,"April",2020,1649341,1929961,280620
-"22","LA","Louisiana","Louisiana","state",NA,"May",2020,1774794,2041451,266657
+"state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
+"22","LA","Louisiana","Acadia Parish","county",22001,"April",2020,21195,18791,2404
+"22","LA","Louisiana","Allen Parish","county",22003,"April",2020,8212,6935,1277
+"22","LA","Louisiana","Ascension Parish","county",22005,"April",2020,59009,51447,7562
+"22","LA","Louisiana","Assumption Parish","county",22007,"April",2020,8458,7102,1356
+"22","LA","Louisiana","Avoyelles Parish","county",22009,"April",2020,14100,12069,2031
+"22","LA","Louisiana","Beauregard Parish","county",22011,"April",2020,13054,11663,1391
+"22","LA","Louisiana","Bienville Parish","county",22013,"April",2020,4769,4310,459
+"22","LA","Louisiana","Bossier Parish","county",22015,"April",2020,52711,46489,6222
+"22","LA","Louisiana","Caddo Parish","county",22017,"April",2020,96113,82513,13600
+"22","LA","Louisiana","Calcasieu Parish","county",22019,"April",2020,92959,79315,13644
+"22","LA","Louisiana","Caldwell Parish","county",22021,"April",2020,3304,2979,325
+"22","LA","Louisiana","Cameron Parish","county",22023,"April",2020,3246,2953,293
+"22","LA","Louisiana","Catahoula Parish","county",22025,"April",2020,3029,2729,300
+"22","LA","Louisiana","Claiborne Parish","county",22027,"April",2020,4961,4579,382
+"22","LA","Louisiana","Concordia Parish","county",22029,"April",2020,6296,5589,707
+"22","LA","Louisiana","De Soto Parish","county",22031,"April",2020,9618,8604,1014
+"22","LA","Louisiana","East Baton Rouge Parish","county",22033,"April",2020,213017,184860,28157
+"22","LA","Louisiana","East Carroll Parish","county",22035,"April",2020,1581,1395,186
+"22","LA","Louisiana","East Feliciana Parish","county",22037,"April",2020,7141,6379,762
+"22","LA","Louisiana","Evangeline Parish","county",22039,"April",2020,10431,9234,1197
+"22","LA","Louisiana","Franklin Parish","county",22041,"April",2020,6484,5809,675
+"22","LA","Louisiana","Grant Parish","county",22043,"April",2020,7382,6665,717
+"22","LA","Louisiana","Iberia Parish","county",22045,"April",2020,25765,22107,3658
+"22","LA","Louisiana","Iberville Parish","county",22047,"April",2020,12909,11087,1822
+"22","LA","Louisiana","Jackson Parish","county",22049,"April",2020,5835,5414,421
+"22","LA","Louisiana","Jefferson Davis Parish","county",22053,"April",2020,11796,10315,1481
+"22","LA","Louisiana","Jefferson Parish","county",22051,"April",2020,201568,163766,37802
+"22","LA","Louisiana","La Salle Parish","county",22059,"April",2020,5922,5493,429
+"22","LA","Louisiana","Lafayette Parish","county",22055,"April",2020,104191,90397,13794
+"22","LA","Louisiana","Lafourche Parish","county",22057,"April",2020,39034,34694,4340
+"22","LA","Louisiana","Lincoln Parish","county",22061,"April",2020,18240,16562,1678
+"22","LA","Louisiana","Livingston Parish","county",22063,"April",2020,63581,55289,8292
+"22","LA","Louisiana","Madison Parish","county",22065,"April",2020,3100,2748,352
+"22","LA","Louisiana","Morehouse Parish","county",22067,"April",2020,8866,7714,1152
+"22","LA","Louisiana","Natchitoches Parish","county",22069,"April",2020,13985,12627,1358
+"22","LA","Louisiana","Orleans Parish","county",22071,"April",2020,174608,136075,38533
+"22","LA","Louisiana","Ouachita Parish","county",22073,"April",2020,64768,57094,7674
+"22","LA","Louisiana","Plaquemines Parish","county",22075,"April",2020,9061,7708,1353
+"22","LA","Louisiana","Pointe Coupee Parish","county",22077,"April",2020,8962,7836,1126
+"22","LA","Louisiana","Rapides Parish","county",22079,"April",2020,50298,45316,4982
+"22","LA","Louisiana","Red River Parish","county",22081,"April",2020,3251,3013,238
+"22","LA","Louisiana","Richland Parish","county",22083,"April",2020,7240,6465,775
+"22","LA","Louisiana","Sabine Parish","county",22085,"April",2020,7958,7316,642
+"22","LA","Louisiana","St. Bernard Parish","county",22087,"April",2020,18798,15118,3680
+"22","LA","Louisiana","St. Charles Parish","county",22089,"April",2020,22788,19233,3555
+"22","LA","Louisiana","St. Helena Parish","county",22091,"April",2020,4011,3367,644
+"22","LA","Louisiana","St. James Parish","county",22093,"April",2020,8099,6938,1161
+"22","LA","Louisiana","St. John the Baptist Parish","county",22095,"April",2020,18123,14826,3297
+"22","LA","Louisiana","St. Landry Parish","county",22097,"April",2020,28858,25044,3814
+"22","LA","Louisiana","St. Martin Parish","county",22099,"April",2020,20292,17530,2762
+"22","LA","Louisiana","St. Mary Parish","county",22101,"April",2020,18012,15411,2601
+"22","LA","Louisiana","St. Tammany Parish","county",22103,"April",2020,107599,91474,16125
+"22","LA","Louisiana","Tangipahoa Parish","county",22105,"April",2020,52028,43131,8897
+"22","LA","Louisiana","Tensas Parish","county",22107,"April",2020,1178,1068,110
+"22","LA","Louisiana","Terrebonne Parish","county",22109,"April",2020,44084,38192,5892
+"22","LA","Louisiana","Union Parish","county",22111,"April",2020,8135,7373,762
+"22","LA","Louisiana","Vermilion Parish","county",22113,"April",2020,21775,19019,2756
+"22","LA","Louisiana","Vernon Parish","county",22115,"April",2020,13993,12448,1545
+"22","LA","Louisiana","Washington Parish","county",22117,"April",2020,14963,13194,1769
+"22","LA","Louisiana","Webster Parish","county",22119,"April",2020,13005,11478,1527
+"22","LA","Louisiana","West Baton Rouge Parish","county",22121,"April",2020,12463,10931,1532
+"22","LA","Louisiana","West Carroll Parish","county",22123,"April",2020,3189,2747,442
+"22","LA","Louisiana","West Feliciana Parish","county",22125,"April",2020,4755,4327,428
+"22","LA","Louisiana","Winn Parish","county",22127,"April",2020,4171,3798,373
+"22","LA","Louisiana","Acadia Parish","county",22001,"March",2020,24036,22364,1672
+"22","LA","Louisiana","Allen Parish","county",22003,"March",2020,9076,8376,700
+"22","LA","Louisiana","Ascension Parish","county",22005,"March",2020,66163,62681,3482
+"22","LA","Louisiana","Assumption Parish","county",22007,"March",2020,9122,8412,710
+"22","LA","Louisiana","Avoyelles Parish","county",22009,"March",2020,15532,14340,1192
+"22","LA","Louisiana","Beauregard Parish","county",22011,"March",2020,14961,13851,1110
+"22","LA","Louisiana","Bienville Parish","county",22013,"March",2020,5697,5225,472
+"22","LA","Louisiana","Bossier Parish","county",22015,"March",2020,58383,55121,3262
+"22","LA","Louisiana","Caddo Parish","county",22017,"March",2020,105143,97807,7336
+"22","LA","Louisiana","Calcasieu Parish","county",22019,"March",2020,103917,97696,6221
+"22","LA","Louisiana","Caldwell Parish","county",22021,"March",2020,3894,3535,359
+"22","LA","Louisiana","Cameron Parish","county",22023,"March",2020,3844,3639,205
+"22","LA","Louisiana","Catahoula Parish","county",22025,"March",2020,3484,3217,267
+"22","LA","Louisiana","Claiborne Parish","county",22027,"March",2020,6017,5537,480
+"22","LA","Louisiana","Concordia Parish","county",22029,"March",2020,7357,6719,638
+"22","LA","Louisiana","De Soto Parish","county",22031,"March",2020,11101,10211,890
+"22","LA","Louisiana","East Baton Rouge Parish","county",22033,"March",2020,238382,225204,13178
+"22","LA","Louisiana","East Carroll Parish","county",22035,"March",2020,1953,1666,287
+"22","LA","Louisiana","East Feliciana Parish","county",22037,"March",2020,8236,7767,469
+"22","LA","Louisiana","Evangeline Parish","county",22039,"March",2020,12061,11158,903
+"22","LA","Louisiana","Franklin Parish","county",22041,"March",2020,7629,6908,721
+"22","LA","Louisiana","Grant Parish","county",22043,"March",2020,8341,7695,646
+"22","LA","Louisiana","Iberia Parish","county",22045,"March",2020,28430,26271,2159
+"22","LA","Louisiana","Iberville Parish","county",22047,"March",2020,14654,13528,1126
+"22","LA","Louisiana","Jackson Parish","county",22049,"March",2020,7043,6584,459
+"22","LA","Louisiana","Jefferson Davis Parish","county",22053,"March",2020,13302,12461,841
+"22","LA","Louisiana","Jefferson Parish","county",22051,"March",2020,214778,202921,11857
+"22","LA","Louisiana","La Salle Parish","county",22059,"March",2020,6935,6548,387
+"22","LA","Louisiana","Lafayette Parish","county",22055,"March",2020,113977,107302,6675
+"22","LA","Louisiana","Lafourche Parish","county",22057,"March",2020,42141,39684,2457
+"22","LA","Louisiana","Lincoln Parish","county",22061,"March",2020,22835,21355,1480
+"22","LA","Louisiana","Livingston Parish","county",22063,"March",2020,71038,67338,3700
+"22","LA","Louisiana","Madison Parish","county",22065,"March",2020,3609,3245,364
+"22","LA","Louisiana","Morehouse Parish","county",22067,"March",2020,10502,9289,1213
+"22","LA","Louisiana","Natchitoches Parish","county",22069,"March",2020,17148,15943,1205
+"22","LA","Louisiana","Orleans Parish","county",22071,"March",2020,179911,168498,11413
+"22","LA","Louisiana","Ouachita Parish","county",22073,"March",2020,71948,66873,5075
+"22","LA","Louisiana","Plaquemines Parish","county",22075,"March",2020,10115,9564,551
+"22","LA","Louisiana","Pointe Coupee Parish","county",22077,"March",2020,10225,9551,674
+"22","LA","Louisiana","Rapides Parish","county",22079,"March",2020,55880,52305,3575
+"22","LA","Louisiana","Red River Parish","county",22081,"March",2020,3877,3592,285
+"22","LA","Louisiana","Richland Parish","county",22083,"March",2020,8437,7683,754
+"22","LA","Louisiana","Sabine Parish","county",22085,"March",2020,9432,8829,603
+"22","LA","Louisiana","St. Bernard Parish","county",22087,"March",2020,19991,18709,1282
+"22","LA","Louisiana","St. Charles Parish","county",22089,"March",2020,25269,23836,1433
+"22","LA","Louisiana","St. Helena Parish","county",22091,"March",2020,4428,4102,326
+"22","LA","Louisiana","St. James Parish","county",22093,"March",2020,9343,8615,728
+"22","LA","Louisiana","St. John the Baptist Parish","county",22095,"March",2020,19852,18388,1464
+"22","LA","Louisiana","St. Landry Parish","county",22097,"March",2020,32771,30079,2692
+"22","LA","Louisiana","St. Martin Parish","county",22099,"March",2020,22375,20849,1526
+"22","LA","Louisiana","St. Mary Parish","county",22101,"March",2020,20320,18758,1562
+"22","LA","Louisiana","St. Tammany Parish","county",22103,"March",2020,119673,113214,6459
+"22","LA","Louisiana","Tangipahoa Parish","county",22105,"March",2020,55524,51596,3928
+"22","LA","Louisiana","Tensas Parish","county",22107,"March",2020,1449,1267,182
+"22","LA","Louisiana","Terrebonne Parish","county",22109,"March",2020,46567,43716,2851
+"22","LA","Louisiana","Union Parish","county",22111,"March",2020,9418,8662,756
+"22","LA","Louisiana","Vermilion Parish","county",22113,"March",2020,24246,22582,1664
+"22","LA","Louisiana","Vernon Parish","county",22115,"March",2020,16808,15236,1572
+"22","LA","Louisiana","Washington Parish","county",22117,"March",2020,17093,15824,1269
+"22","LA","Louisiana","Webster Parish","county",22119,"March",2020,14838,13610,1228
+"22","LA","Louisiana","West Baton Rouge Parish","county",22121,"March",2020,14113,13318,795
+"22","LA","Louisiana","West Carroll Parish","county",22123,"March",2020,3851,3233,618
+"22","LA","Louisiana","West Feliciana Parish","county",22125,"March",2020,5566,5274,292
+"22","LA","Louisiana","Winn Parish","county",22127,"March",2020,5036,4603,433
+"22","LA","Louisiana","Acadia Parish","county",22001,"February",2020,23574,22483,1091
+"22","LA","Louisiana","Allen Parish","county",22003,"February",2020,8924,8425,499
+"22","LA","Louisiana","Ascension Parish","county",22005,"February",2020,64725,62402,2323
+"22","LA","Louisiana","Assumption Parish","county",22007,"February",2020,8869,8366,503
+"22","LA","Louisiana","Avoyelles Parish","county",22009,"February",2020,14913,14132,781
+"22","LA","Louisiana","Beauregard Parish","county",22011,"February",2020,14582,13874,708
+"22","LA","Louisiana","Bienville Parish","county",22013,"February",2020,5514,5197,317
+"22","LA","Louisiana","Bossier Parish","county",22015,"February",2020,57407,55279,2128
+"22","LA","Louisiana","Caddo Parish","county",22017,"February",2020,103033,98110,4923
+"22","LA","Louisiana","Calcasieu Parish","county",22019,"February",2020,103480,99332,4148
+"22","LA","Louisiana","Caldwell Parish","county",22021,"February",2020,3761,3510,251
+"22","LA","Louisiana","Cameron Parish","county",22023,"February",2020,3841,3697,144
+"22","LA","Louisiana","Catahoula Parish","county",22025,"February",2020,3357,3171,186
+"22","LA","Louisiana","Claiborne Parish","county",22027,"February",2020,5854,5508,346
+"22","LA","Louisiana","Concordia Parish","county",22029,"February",2020,7090,6648,442
+"22","LA","Louisiana","De Soto Parish","county",22031,"February",2020,10842,10230,612
+"22","LA","Louisiana","East Baton Rouge Parish","county",22033,"February",2020,232932,224223,8709
+"22","LA","Louisiana","East Carroll Parish","county",22035,"February",2020,1866,1655,211
+"22","LA","Louisiana","East Feliciana Parish","county",22037,"February",2020,8030,7726,304
+"22","LA","Louisiana","Evangeline Parish","county",22039,"February",2020,11639,11038,601
+"22","LA","Louisiana","Franklin Parish","county",22041,"February",2020,7300,6803,497
+"22","LA","Louisiana","Grant Parish","county",22043,"February",2020,8150,7706,444
+"22","LA","Louisiana","Iberia Parish","county",22045,"February",2020,27889,26431,1458
+"22","LA","Louisiana","Iberville Parish","county",22047,"February",2020,14225,13446,779
+"22","LA","Louisiana","Jackson Parish","county",22049,"February",2020,6823,6515,308
+"22","LA","Louisiana","Jefferson Davis Parish","county",22053,"February",2020,13044,12489,555
+"22","LA","Louisiana","Jefferson Parish","county",22051,"February",2020,215129,207311,7818
+"22","LA","Louisiana","La Salle Parish","county",22059,"February",2020,6754,6503,251
+"22","LA","Louisiana","Lafayette Parish","county",22055,"February",2020,112611,108221,4390
+"22","LA","Louisiana","Lafourche Parish","county",22057,"February",2020,41727,40139,1588
+"22","LA","Louisiana","Lincoln Parish","county",22061,"February",2020,22095,21170,925
+"22","LA","Louisiana","Livingston Parish","county",22063,"February",2020,69409,67015,2394
+"22","LA","Louisiana","Madison Parish","county",22065,"February",2020,3445,3196,249
+"22","LA","Louisiana","Morehouse Parish","county",22067,"February",2020,10082,9201,881
+"22","LA","Louisiana","Natchitoches Parish","county",22069,"February",2020,16482,15705,777
+"22","LA","Louisiana","Orleans Parish","county",22071,"February",2020,179631,172117,7514
+"22","LA","Louisiana","Ouachita Parish","county",22073,"February",2020,70222,66784,3438
+"22","LA","Louisiana","Plaquemines Parish","county",22075,"February",2020,10093,9731,362
+"22","LA","Louisiana","Pointe Coupee Parish","county",22077,"February",2020,9924,9478,446
+"22","LA","Louisiana","Rapides Parish","county",22079,"February",2020,54814,52398,2416
+"22","LA","Louisiana","Red River Parish","county",22081,"February",2020,3735,3542,193
+"22","LA","Louisiana","Richland Parish","county",22083,"February",2020,8133,7605,528
+"22","LA","Louisiana","Sabine Parish","county",22085,"February",2020,9075,8676,399
+"22","LA","Louisiana","St. Bernard Parish","county",22087,"February",2020,19971,19082,889
+"22","LA","Louisiana","St. Charles Parish","county",22089,"February",2020,25300,24351,949
+"22","LA","Louisiana","St. Helena Parish","county",22091,"February",2020,4307,4078,229
+"22","LA","Louisiana","St. James Parish","county",22093,"February",2020,9311,8796,515
+"22","LA","Louisiana","St. John the Baptist Parish","county",22095,"February",2020,19800,18793,1007
+"22","LA","Louisiana","St. Landry Parish","county",22097,"February",2020,31700,29870,1830
+"22","LA","Louisiana","St. Martin Parish","county",22099,"February",2020,22025,21002,1023
+"22","LA","Louisiana","St. Mary Parish","county",22101,"February",2020,19607,18587,1020
+"22","LA","Louisiana","St. Tammany Parish","county",22103,"February",2020,119820,115612,4208
+"22","LA","Louisiana","Tangipahoa Parish","county",22105,"February",2020,54463,51887,2576
+"22","LA","Louisiana","Tensas Parish","county",22107,"February",2020,1361,1241,120
+"22","LA","Louisiana","Terrebonne Parish","county",22109,"February",2020,46027,44184,1843
+"22","LA","Louisiana","Union Parish","county",22111,"February",2020,9123,8619,504
+"22","LA","Louisiana","Vermilion Parish","county",22113,"February",2020,23807,22729,1078
+"22","LA","Louisiana","Vernon Parish","county",22115,"February",2020,16129,15142,987
+"22","LA","Louisiana","Washington Parish","county",22117,"February",2020,16680,15841,839
+"22","LA","Louisiana","Webster Parish","county",22119,"February",2020,14470,13647,823
+"22","LA","Louisiana","West Baton Rouge Parish","county",22121,"February",2020,13786,13262,524
+"22","LA","Louisiana","West Carroll Parish","county",22123,"February",2020,3591,3167,424
+"22","LA","Louisiana","West Feliciana Parish","county",22125,"February",2020,5443,5243,200
+"22","LA","Louisiana","Winn Parish","county",22127,"February",2020,4831,4543,288
+"22","LA","Louisiana","Acadia Parish","county",22001,"January",2020,23619,22161,1458
+"22","LA","Louisiana","Allen Parish","county",22003,"January",2020,8968,8322,646
+"22","LA","Louisiana","Ascension Parish","county",22005,"January",2020,64241,61136,3105
+"22","LA","Louisiana","Assumption Parish","county",22007,"January",2020,8921,8251,670
+"22","LA","Louisiana","Avoyelles Parish","county",22009,"January",2020,14984,13897,1087
+"22","LA","Louisiana","Beauregard Parish","county",22011,"January",2020,14567,13630,937
+"22","LA","Louisiana","Bienville Parish","county",22013,"January",2020,5493,5112,381
+"22","LA","Louisiana","Bossier Parish","county",22015,"January",2020,57460,54562,2898
+"22","LA","Louisiana","Caddo Parish","county",22017,"January",2020,103314,96887,6427
+"22","LA","Louisiana","Calcasieu Parish","county",22019,"January",2020,103482,98016,5466
+"22","LA","Louisiana","Caldwell Parish","county",22021,"January",2020,3781,3462,319
+"22","LA","Louisiana","Cameron Parish","county",22023,"January",2020,3832,3643,189
+"22","LA","Louisiana","Catahoula Parish","county",22025,"January",2020,3355,3110,245
+"22","LA","Louisiana","Claiborne Parish","county",22027,"January",2020,5863,5447,416
+"22","LA","Louisiana","Concordia Parish","county",22029,"January",2020,7099,6546,553
+"22","LA","Louisiana","De Soto Parish","county",22031,"January",2020,10880,10081,799
+"22","LA","Louisiana","East Baton Rouge Parish","county",22033,"January",2020,231590,219712,11878
+"22","LA","Louisiana","East Carroll Parish","county",22035,"January",2020,1862,1627,235
+"22","LA","Louisiana","East Feliciana Parish","county",22037,"January",2020,7976,7563,413
+"22","LA","Louisiana","Evangeline Parish","county",22039,"January",2020,11712,10890,822
+"22","LA","Louisiana","Franklin Parish","county",22041,"January",2020,7319,6675,644
+"22","LA","Louisiana","Grant Parish","county",22043,"January",2020,8181,7602,579
+"22","LA","Louisiana","Iberia Parish","county",22045,"January",2020,27913,26100,1813
+"22","LA","Louisiana","Iberville Parish","county",22047,"January",2020,14119,13131,988
+"22","LA","Louisiana","Jackson Parish","county",22049,"January",2020,6782,6403,379
+"22","LA","Louisiana","Jefferson Davis Parish","county",22053,"January",2020,13064,12310,754
+"22","LA","Louisiana","Jefferson Parish","county",22051,"January",2020,215328,205031,10297
+"22","LA","Louisiana","La Salle Parish","county",22059,"January",2020,6808,6468,340
+"22","LA","Louisiana","Lafayette Parish","county",22055,"January",2020,113183,107282,5901
+"22","LA","Louisiana","Lafourche Parish","county",22057,"January",2020,41763,39552,2211
+"22","LA","Louisiana","Lincoln Parish","county",22061,"January",2020,21986,20617,1369
+"22","LA","Louisiana","Livingston Parish","county",22063,"January",2020,68910,65622,3288
+"22","LA","Louisiana","Madison Parish","county",22065,"January",2020,3453,3121,332
+"22","LA","Louisiana","Morehouse Parish","county",22067,"January",2020,10109,9028,1081
+"22","LA","Louisiana","Natchitoches Parish","county",22069,"January",2020,16000,14874,1126
+"22","LA","Louisiana","Orleans Parish","county",22071,"January",2020,180237,170249,9988
+"22","LA","Louisiana","Ouachita Parish","county",22073,"January",2020,70168,65733,4435
+"22","LA","Louisiana","Plaquemines Parish","county",22075,"January",2020,10078,9564,514
+"22","LA","Louisiana","Pointe Coupee Parish","county",22077,"January",2020,9836,9233,603
+"22","LA","Louisiana","Rapides Parish","county",22079,"January",2020,55019,51708,3311
+"22","LA","Louisiana","Red River Parish","county",22081,"January",2020,3722,3479,243
+"22","LA","Louisiana","Richland Parish","county",22083,"January",2020,8142,7457,685
+"22","LA","Louisiana","Sabine Parish","county",22085,"January",2020,9067,8525,542
+"22","LA","Louisiana","St. Bernard Parish","county",22087,"January",2020,19997,18843,1154
+"22","LA","Louisiana","St. Charles Parish","county",22089,"January",2020,25369,24079,1290
+"22","LA","Louisiana","St. Helena Parish","county",22091,"January",2020,4285,3988,297
+"22","LA","Louisiana","St. James Parish","county",22093,"January",2020,9363,8681,682
+"22","LA","Louisiana","St. John the Baptist Parish","county",22095,"January",2020,19928,18589,1339
+"22","LA","Louisiana","St. Landry Parish","county",22097,"January",2020,31903,29464,2439
+"22","LA","Louisiana","St. Martin Parish","county",22099,"January",2020,22096,20761,1335
+"22","LA","Louisiana","St. Mary Parish","county",22101,"January",2020,19761,18426,1335
+"22","LA","Louisiana","St. Tammany Parish","county",22103,"January",2020,120112,114340,5772
+"22","LA","Louisiana","Tangipahoa Parish","county",22105,"January",2020,54687,51077,3610
+"22","LA","Louisiana","Tensas Parish","county",22107,"January",2020,1327,1185,142
+"22","LA","Louisiana","Terrebonne Parish","county",22109,"January",2020,46005,43469,2536
+"22","LA","Louisiana","Union Parish","county",22111,"January",2020,9077,8429,648
+"22","LA","Louisiana","Vermilion Parish","county",22113,"January",2020,23921,22472,1449
+"22","LA","Louisiana","Vernon Parish","county",22115,"January",2020,16167,15015,1152
+"22","LA","Louisiana","Washington Parish","county",22117,"January",2020,16749,15629,1120
+"22","LA","Louisiana","Webster Parish","county",22119,"January",2020,14518,13467,1051
+"22","LA","Louisiana","West Baton Rouge Parish","county",22121,"January",2020,13712,12999,713
+"22","LA","Louisiana","West Carroll Parish","county",22123,"January",2020,3654,3090,564
+"22","LA","Louisiana","West Feliciana Parish","county",22125,"January",2020,5392,5121,271
+"22","LA","Louisiana","Winn Parish","county",22127,"January",2020,4834,4468,366
+"22","LA","Louisiana","Louisiana","state",NA,"January",2020,2097045,1977412,119633
+"22","LA","Louisiana","Louisiana","state",NA,"February",2020,2096578,2006863,89715
+"22","LA","Louisiana","Louisiana","state",NA,"March",2020,2129078,1993963,135115
+"22","LA","Louisiana","Louisiana","state",NA,"April",2020,1929961,1649341,280620
+"22","LA","Louisiana","Louisiana","state",NA,"May",2020,2041451,1774794,266657

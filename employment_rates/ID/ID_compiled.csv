@@ -1,296 +1,296 @@
-"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
-"16","ID","Idaho","Idaho","state",NA,"May",2020,808311,884204,75893
-"16","ID","Idaho","Ada ","county","16001","May",2020,234340,258113,23773
-"16","ID","Idaho","Adams","county","16003","May",2020,1506,1749,243
-"16","ID","Idaho","Bannock ","county","16005","May",2020,37356,40444,3088
-"16","ID","Idaho","Bear Lake","county","16007","May",2020,2816,2991,175
-"16","ID","Idaho","Benewah","county","16009","May",2020,3696,4142,446
-"16","ID","Idaho","Bingham ","county","16011","May",2020,22477,23815,1338
-"16","ID","Idaho","Blaine ","county","16013","May",2020,10970,12886,1916
-"16","ID","Idaho","Boise ","county","16015","May",2020,3191,3612,421
-"16","ID","Idaho","Bonner ","county","16017","May",2020,18282,20883,2601
-"16","ID","Idaho","Bonneville ","county","16019","May",2020,55763,59199,3436
-"16","ID","Idaho","Boundary","county","16021","May",2020,5018,5516,498
-"16","ID","Idaho","Butte ","county","16023","May",2020,1385,1456,71
-"16","ID","Idaho","Camas ","county","16025","May",2020,645,699,54
-"16","ID","Idaho","Canyon ","county","16027","May",2020,95531,105162,9631
-"16","ID","Idaho","Caribou","county","16029","May",2020,3904,4086,182
-"16","ID","Idaho","Cassia ","county","16031","May",2020,11380,12067,687
-"16","ID","Idaho","Clark","county","16033","May",2020,367,383,16
-"16","ID","Idaho","Clearwater","county","16035","May",2020,2530,2896,366
-"16","ID","Idaho","Custer","county","16037","May",2020,2006,2153,147
-"16","ID","Idaho","Elmore ","county","16039","May",2020,10836,11647,811
-"16","ID","Idaho","Franklin","county","16041","May",2020,6617,6936,319
-"16","ID","Idaho","Fremont ","county","16043","May",2020,7353,7772,419
-"16","ID","Idaho","Gem ","county","16045","May",2020,7633,8351,718
-"16","ID","Idaho","Gooding","county","16047","May",2020,7729,8163,434
-"16","ID","Idaho","Idaho ","county","16049","May",2020,6141,6796,655
-"16","ID","Idaho","Jefferson ","county","16051","May",2020,13792,14434,642
-"16","ID","Idaho","Jerome ","county","16053","May",2020,11337,11986,649
-"16","ID","Idaho","Kootenai ","county","16055","May",2020,70666,79566,8900
-"16","ID","Idaho","Latah ","county","16057","May",2020,18206,19701,1495
-"16","ID","Idaho","Lemhi","county","16059","May",2020,3245,3587,342
-"16","ID","Idaho","Lewis ","county","16061","May",2020,1554,1735,181
-"16","ID","Idaho","Lincoln ","county","16063","May",2020,2441,2649,208
-"16","ID","Idaho","Madison ","county","16065","May",2020,20251,21103,852
-"16","ID","Idaho","Minidoka ","county","16067","May",2020,10685,11316,631
-"16","ID","Idaho","Nez Perce ","county","16069","May",2020,17761,19393,1632
-"16","ID","Idaho","Oneida","county","16071","May",2020,2229,2383,154
-"16","ID","Idaho","Owyhee ","county","16073","May",2020,5241,5741,500
-"16","ID","Idaho","Payette","county","16075","May",2020,10729,11638,909
-"16","ID","Idaho","Power","county","16077","May",2020,3798,4009,211
-"16","ID","Idaho","Shoshone","county","16079","May",2020,4328,5123,795
-"16","ID","Idaho","Teton","county","16081","May",2020,5913,6659,746
-"16","ID","Idaho","Twin Falls ","county","16083","May",2020,37428,40895,3467
-"16","ID","Idaho","Valley","county","16085","May",2020,5000,5772,772
-"16","ID","Idaho","Washington","county","16087","May",2020,4236,4598,362
-"16","ID","Idaho","Asotin Wa ","county",NA,"May",2020,8828,9631,803
-"16","ID","Idaho","Boise","city",NA,"May",2020,122078,134987,12909
-"16","ID","Idaho","Caldwell","city",NA,"May",2020,24486,26966,2480
-"16","ID","Idaho","Coeur D' Alene","city",NA,"May",2020,23041,26319,3278
-"16","ID","Idaho","Eagle","city",NA,"May",2020,12662,13735,1073
-"16","ID","Idaho","Idaho Falls","city",NA,"May",2020,29876,31863,1987
-"16","ID","Idaho","Lewiston","city",NA,"May",2020,15009,16409,1400
-"16","ID","Idaho","Meridian","city",NA,"May",2020,50531,55541,5010
-"16","ID","Idaho","Moscow","city",NA,"May",2020,11826,12859,1033
-"16","ID","Idaho","Nampa","city",NA,"May",2020,40453,44725,4272
-"16","ID","Idaho","Pocatello","city",NA,"May",2020,25192,27296,2104
-"16","ID","Idaho","Post Falls","city",NA,"May",2020,16232,18165,1933
-"16","ID","Idaho","Rexburg","city",NA,"May",2020,14666,15276,610
-"16","ID","Idaho","Twin  Falls","city",NA,"May",2020,21791,24063,2272
-"16","ID","Idaho","Idaho","state",NA,"April",2020,776635,881168,104533
-"16","ID","Idaho","Ada ","county","16001","April",2020,224948,256201,31253
-"16","ID","Idaho","Adams","county","16003","April",2020,1387,1766,379
-"16","ID","Idaho","Bannock ","county","16005","April",2020,35589,39698,4109
-"16","ID","Idaho","Bear Lake","county","16007","April",2020,2661,2904,243
-"16","ID","Idaho","Benewah","county","16009","April",2020,3501,4263,762
-"16","ID","Idaho","Bingham ","county","16011","April",2020,21825,23345,1520
-"16","ID","Idaho","Blaine ","county","16013","April",2020,10573,13616,3043
-"16","ID","Idaho","Boise ","county","16015","April",2020,3068,3662,594
-"16","ID","Idaho","Bonner ","county","16017","April",2020,17310,20970,3660
-"16","ID","Idaho","Bonneville ","county","16019","April",2020,53110,57947,4837
-"16","ID","Idaho","Boundary","county","16021","April",2020,4758,5404,646
-"16","ID","Idaho","Butte ","county","16023","April",2020,1322,1400,78
-"16","ID","Idaho","Camas ","county","16025","April",2020,630,724,94
-"16","ID","Idaho","Canyon ","county","16027","April",2020,91926,105183,13257
-"16","ID","Idaho","Caribou","county","16029","April",2020,3720,3975,255
-"16","ID","Idaho","Cassia ","county","16031","April",2020,10971,11838,867
-"16","ID","Idaho","Clark","county","16033","April",2020,343,363,20
-"16","ID","Idaho","Clearwater","county","16035","April",2020,2386,2935,549
-"16","ID","Idaho","Custer","county","16037","April",2020,1792,1994,202
-"16","ID","Idaho","Elmore ","county","16039","April",2020,10304,11393,1089
-"16","ID","Idaho","Franklin","county","16041","April",2020,6520,7100,580
-"16","ID","Idaho","Fremont ","county","16043","April",2020,7039,7595,556
-"16","ID","Idaho","Gem ","county","16045","April",2020,7356,8357,1001
-"16","ID","Idaho","Gooding","county","16047","April",2020,7546,8103,557
-"16","ID","Idaho","Idaho ","county","16049","April",2020,5798,6667,869
-"16","ID","Idaho","Jefferson ","county","16051","April",2020,13110,14007,897
-"16","ID","Idaho","Jerome ","county","16053","April",2020,11250,12178,928
-"16","ID","Idaho","Kootenai ","county","16055","April",2020,67166,80902,13736
-"16","ID","Idaho","Latah ","county","16057","April",2020,18054,20033,1979
-"16","ID","Idaho","Lemhi","county","16059","April",2020,2994,3407,413
-"16","ID","Idaho","Lewis ","county","16061","April",2020,1465,1723,258
-"16","ID","Idaho","Lincoln ","county","16063","April",2020,2374,2738,364
-"16","ID","Idaho","Madison ","county","16065","April",2020,19330,20309,979
-"16","ID","Idaho","Minidoka ","county","16067","April",2020,10335,11125,790
-"16","ID","Idaho","Nez Perce ","county","16069","April",2020,17500,19873,2373
-"16","ID","Idaho","Oneida","county","16071","April",2020,2154,2327,173
-"16","ID","Idaho","Owyhee ","county","16073","April",2020,5028,5648,620
-"16","ID","Idaho","Payette","county","16075","April",2020,10484,11616,1132
-"16","ID","Idaho","Power","county","16077","April",2020,3741,3989,248
-"16","ID","Idaho","Shoshone","county","16079","April",2020,4194,5289,1095
-"16","ID","Idaho","Teton","county","16081","April",2020,5477,6544,1067
-"16","ID","Idaho","Twin Falls ","county","16083","April",2020,36898,41633,4735
-"16","ID","Idaho","Valley","county","16085","April",2020,4582,5873,1291
-"16","ID","Idaho","Washington","county","16087","April",2020,4116,4552,436
-"16","ID","Idaho","Asotin Wa ","county",NA,"April",2020,8808,9667,859
-"16","ID","Idaho","Boise","city",NA,"April",2020,117185,134148,16963
-"16","ID","Idaho","Caldwell","city",NA,"April",2020,23562,27030,3468
-"16","ID","Idaho","Coeur D' Alene","city",NA,"April",2020,21899,27040,5141
-"16","ID","Idaho","Eagle","city",NA,"April",2020,12155,13488,1333
-"16","ID","Idaho","Idaho Falls","city",NA,"April",2020,28455,31336,2881
-"16","ID","Idaho","Lewiston","city",NA,"April",2020,14789,16821,2032
-"16","ID","Idaho","Meridian","city",NA,"April",2020,48505,55173,6668
-"16","ID","Idaho","Moscow","city",NA,"April",2020,11728,13028,1300
-"16","ID","Idaho","Nampa","city",NA,"April",2020,38926,44945,6019
-"16","ID","Idaho","Pocatello","city",NA,"April",2020,24000,26812,2812
-"16","ID","Idaho","Post Falls","city",NA,"April",2020,15428,18405,2977
-"16","ID","Idaho","Rexburg","city",NA,"April",2020,13999,14671,672
-"16","ID","Idaho","Twin  Falls","city",NA,"April",2020,21482,24660,3178
-"16","ID","Idaho","Idaho","state",NA,"March",2020,862872,889902,27030
-"16","ID","Idaho","Ada ","county","16001","March",2020,252439,258487,6048
-"16","ID","Idaho","Adams","county","16003","March",2020,1540,1695,155
-"16","ID","Idaho","Bannock ","county","16005","March",2020,42246,43505,1259
-"16","ID","Idaho","Bear Lake","county","16007","March",2020,2876,2976,100
-"16","ID","Idaho","Benewah","county","16009","March",2020,3808,4129,321
-"16","ID","Idaho","Bingham ","county","16011","March",2020,23083,23739,656
-"16","ID","Idaho","Blaine ","county","16013","March",2020,12244,12649,405
-"16","ID","Idaho","Boise ","county","16015","March",2020,3436,3630,194
-"16","ID","Idaho","Bonner ","county","16017","March",2020,19397,20510,1113
-"16","ID","Idaho","Bonneville ","county","16019","March",2020,56820,58307,1487
-"16","ID","Idaho","Boundary","county","16021","March",2020,5020,5338,318
-"16","ID","Idaho","Butte ","county","16023","March",2020,1359,1388,29
-"16","ID","Idaho","Camas ","county","16025","March",2020,673,694,21
-"16","ID","Idaho","Canyon ","county","16027","March",2020,102476,105693,3217
-"16","ID","Idaho","Caribou","county","16029","March",2020,3963,4088,125
-"16","ID","Idaho","Cassia ","county","16031","March",2020,11726,12012,286
-"16","ID","Idaho","Clark","county","16033","March",2020,341,359,18
-"16","ID","Idaho","Clearwater","county","16035","March",2020,2631,2911,280
-"16","ID","Idaho","Custer","county","16037","March",2020,1896,1988,92
-"16","ID","Idaho","Elmore ","county","16039","March",2020,11410,11803,393
-"16","ID","Idaho","Franklin","county","16041","March",2020,6918,7088,170
-"16","ID","Idaho","Fremont ","county","16043","March",2020,7731,7961,230
-"16","ID","Idaho","Gem ","county","16045","March",2020,8118,8408,290
-"16","ID","Idaho","Gooding","county","16047","March",2020,7993,8213,220
-"16","ID","Idaho","Idaho ","county","16049","March",2020,6273,6631,358
-"16","ID","Idaho","Jefferson ","county","16051","March",2020,13811,14153,342
-"16","ID","Idaho","Jerome ","county","16053","March",2020,11734,12068,334
-"16","ID","Idaho","Kootenai ","county","16055","March",2020,76787,80041,3254
-"16","ID","Idaho","Latah ","county","16057","March",2020,20279,20864,585
-"16","ID","Idaho","Lemhi","county","16059","March",2020,3272,3494,222
-"16","ID","Idaho","Lewis ","county","16061","March",2020,1530,1637,107
-"16","ID","Idaho","Lincoln ","county","16063","March",2020,2578,2695,117
-"16","ID","Idaho","Madison ","county","16065","March",2020,22006,22406,400
-"16","ID","Idaho","Minidoka ","county","16067","March",2020,11032,11327,295
-"16","ID","Idaho","Nez Perce ","county","16069","March",2020,20279,20923,644
-"16","ID","Idaho","Oneida","county","16071","March",2020,2295,2370,75
-"16","ID","Idaho","Owyhee ","county","16073","March",2020,5317,5514,197
-"16","ID","Idaho","Payette","county","16075","March",2020,11443,11839,396
-"16","ID","Idaho","Power","county","16077","March",2020,3809,3926,117
-"16","ID","Idaho","Shoshone","county","16079","March",2020,4824,5185,361
-"16","ID","Idaho","Teton","county","16081","March",2020,6014,6150,136
-"16","ID","Idaho","Twin Falls ","county","16083","March",2020,39666,40884,1218
-"16","ID","Idaho","Valley","county","16085","March",2020,5305,5553,248
-"16","ID","Idaho","Washington","county","16087","March",2020,4475,4670,195
-"16","ID","Idaho","Asotin Wa ","county",NA,"March",2020,9846,10220,374
-"16","ID","Idaho","Boise","city",NA,"March",2020,131506,134582,3076
-"16","ID","Idaho","Caldwell","city",NA,"March",2020,26266,27173,907
-"16","ID","Idaho","Coeur D' Alene","city",NA,"March",2020,25036,26032,996
-"16","ID","Idaho","Eagle","city",NA,"March",2020,13640,13971,331
-"16","ID","Idaho","Idaho Falls","city",NA,"March",2020,30443,31275,832
-"16","ID","Idaho","Lewiston","city",NA,"March",2020,17137,17626,489
-"16","ID","Idaho","Meridian","city",NA,"March",2020,54433,55751,1318
-"16","ID","Idaho","Moscow","city",NA,"March",2020,13173,13443,270
-"16","ID","Idaho","Nampa","city",NA,"March",2020,43394,44773,1379
-"16","ID","Idaho","Pocatello","city",NA,"March",2020,28490,29344,854
-"16","ID","Idaho","Post Falls","city",NA,"March",2020,17638,18291,653
-"16","ID","Idaho","Rexburg","city",NA,"March",2020,15937,16205,268
-"16","ID","Idaho","Twin  Falls","city",NA,"March",2020,23094,23837,743
-"16","ID","Idaho","Idaho","state",NA,"February",2020,863857,891314,27457
-"16","ID","Idaho","Ada ","county","16001","February",2020,254134,260365,6231
-"16","ID","Idaho","Adams","county","16003","February",2020,1545,1658,113
-"16","ID","Idaho","Bannock ","county","16005","February",2020,42277,43600,1323
-"16","ID","Idaho","Bear Lake","county","16007","February",2020,2814,2920,106
-"16","ID","Idaho","Benewah","county","16009","February",2020,3881,4140,259
-"16","ID","Idaho","Bingham ","county","16011","February",2020,22723,23419,696
-"16","ID","Idaho","Blaine ","county","16013","February",2020,12245,12643,398
-"16","ID","Idaho","Boise ","county","16015","February",2020,3461,3656,195
-"16","ID","Idaho","Bonner ","county","16017","February",2020,19362,20360,998
-"16","ID","Idaho","Bonneville ","county","16019","February",2020,56704,58206,1502
-"16","ID","Idaho","Boundary","county","16021","February",2020,4961,5238,277
-"16","ID","Idaho","Butte ","county","16023","February",2020,1350,1384,34
-"16","ID","Idaho","Camas ","county","16025","February",2020,661,681,20
-"16","ID","Idaho","Canyon ","county","16027","February",2020,102797,106260,3463
-"16","ID","Idaho","Caribou","county","16029","February",2020,3954,4094,140
-"16","ID","Idaho","Cassia ","county","16031","February",2020,11744,12030,286
-"16","ID","Idaho","Clark","county","16033","February",2020,342,358,16
-"16","ID","Idaho","Clearwater","county","16035","February",2020,2623,2810,187
-"16","ID","Idaho","Custer","county","16037","February",2020,1894,1983,89
-"16","ID","Idaho","Elmore ","county","16039","February",2020,11050,11466,416
-"16","ID","Idaho","Franklin","county","16041","February",2020,6815,6971,156
-"16","ID","Idaho","Fremont ","county","16043","February",2020,7555,7787,232
-"16","ID","Idaho","Gem ","county","16045","February",2020,8143,8441,298
-"16","ID","Idaho","Gooding","county","16047","February",2020,7830,8084,254
-"16","ID","Idaho","Idaho ","county","16049","February",2020,6090,6416,326
-"16","ID","Idaho","Jefferson ","county","16051","February",2020,13751,14108,357
-"16","ID","Idaho","Jerome ","county","16053","February",2020,11758,12133,375
-"16","ID","Idaho","Kootenai ","county","16055","February",2020,77242,80559,3317
-"16","ID","Idaho","Latah ","county","16057","February",2020,20619,21143,524
-"16","ID","Idaho","Lemhi","county","16059","February",2020,3246,3460,214
-"16","ID","Idaho","Lewis ","county","16061","February",2020,1472,1570,98
-"16","ID","Idaho","Lincoln ","county","16063","February",2020,2568,2725,157
-"16","ID","Idaho","Madison ","county","16065","February",2020,21582,21984,402
-"16","ID","Idaho","Minidoka ","county","16067","February",2020,10939,11264,325
-"16","ID","Idaho","Nez Perce ","county","16069","February",2020,20703,21338,635
-"16","ID","Idaho","Oneida","county","16071","February",2020,2223,2281,58
-"16","ID","Idaho","Owyhee ","county","16073","February",2020,5066,5268,202
-"16","ID","Idaho","Payette","county","16075","February",2020,11190,11643,453
-"16","ID","Idaho","Power","county","16077","February",2020,3671,3815,144
-"16","ID","Idaho","Shoshone","county","16079","February",2020,4748,5084,336
-"16","ID","Idaho","Teton","county","16081","February",2020,6153,6289,136
-"16","ID","Idaho","Twin Falls ","county","16083","February",2020,40191,41444,1253
-"16","ID","Idaho","Valley","county","16085","February",2020,5379,5626,247
-"16","ID","Idaho","Washington","county","16087","February",2020,4402,4613,211
-"16","ID","Idaho","Asotin Wa ","county",NA,"February",2020,10212,10651,439
-"16","ID","Idaho","Boise","city",NA,"February",2020,132389,135633,3244
-"16","ID","Idaho","Caldwell","city",NA,"February",2020,26348,27327,979
-"16","ID","Idaho","Coeur D' Alene","city",NA,"February",2020,25185,26228,1043
-"16","ID","Idaho","Eagle","city",NA,"February",2020,13732,14045,313
-"16","ID","Idaho","Idaho Falls","city",NA,"February",2020,30381,31247,866
-"16","ID","Idaho","Lewiston","city",NA,"February",2020,17495,17969,474
-"16","ID","Idaho","Meridian","city",NA,"February",2020,54799,56118,1319
-"16","ID","Idaho","Moscow","city",NA,"February",2020,13394,13677,283
-"16","ID","Idaho","Nampa","city",NA,"February",2020,43530,44987,1457
-"16","ID","Idaho","Pocatello","city",NA,"February",2020,28511,29386,875
-"16","ID","Idaho","Post Falls","city",NA,"February",2020,17742,18462,720
-"16","ID","Idaho","Rexburg","city",NA,"February",2020,15630,15903,273
-"16","ID","Idaho","Twin  Falls","city",NA,"February",2020,23399,24144,745
-"16","ID","Idaho","Idaho","state",NA,"January",2020,855878,886931,31053
-"16","ID","Idaho","Ada ","county","16001","January",2020,250900,258097,7197
-"16","ID","Idaho","Adams","county","16003","January",2020,1542,1667,125
-"16","ID","Idaho","Bannock ","county","16005","January",2020,41477,42944,1467
-"16","ID","Idaho","Bear Lake","county","16007","January",2020,2780,2901,121
-"16","ID","Idaho","Benewah","county","16009","January",2020,3898,4132,234
-"16","ID","Idaho","Bingham ","county","16011","January",2020,22536,23329,793
-"16","ID","Idaho","Blaine ","county","16013","January",2020,12279,12656,377
-"16","ID","Idaho","Boise ","county","16015","January",2020,3414,3600,186
-"16","ID","Idaho","Bonner ","county","16017","January",2020,19377,20433,1056
-"16","ID","Idaho","Bonneville ","county","16019","January",2020,56412,58116,1704
-"16","ID","Idaho","Boundary","county","16021","January",2020,4952,5245,293
-"16","ID","Idaho","Butte ","county","16023","January",2020,1345,1396,51
-"16","ID","Idaho","Camas ","county","16025","January",2020,663,685,22
-"16","ID","Idaho","Canyon ","county","16027","January",2020,101366,105469,4103
-"16","ID","Idaho","Caribou","county","16029","January",2020,3897,4046,149
-"16","ID","Idaho","Cassia ","county","16031","January",2020,11707,12051,344
-"16","ID","Idaho","Clark","county","16033","January",2020,338,357,19
-"16","ID","Idaho","Clearwater","county","16035","January",2020,2621,2804,183
-"16","ID","Idaho","Custer","county","16037","January",2020,1884,1997,113
-"16","ID","Idaho","Elmore ","county","16039","January",2020,10995,11431,436
-"16","ID","Idaho","Franklin","county","16041","January",2020,6815,6999,184
-"16","ID","Idaho","Fremont ","county","16043","January",2020,7453,7742,289
-"16","ID","Idaho","Gem ","county","16045","January",2020,8033,8369,336
-"16","ID","Idaho","Gooding","county","16047","January",2020,7837,8118,281
-"16","ID","Idaho","Idaho ","county","16049","January",2020,6046,6401,355
-"16","ID","Idaho","Jefferson ","county","16051","January",2020,13676,14101,425
-"16","ID","Idaho","Jerome ","county","16053","January",2020,11708,12105,397
-"16","ID","Idaho","Kootenai ","county","16055","January",2020,76901,80656,3755
-"16","ID","Idaho","Latah ","county","16057","January",2020,20308,20908,600
-"16","ID","Idaho","Lemhi","county","16059","January",2020,3233,3459,226
-"16","ID","Idaho","Lewis ","county","16061","January",2020,1461,1570,109
-"16","ID","Idaho","Lincoln ","county","16063","January",2020,2591,2718,127
-"16","ID","Idaho","Madison ","county","16065","January",2020,21291,21741,450
-"16","ID","Idaho","Minidoka ","county","16067","January",2020,10874,11236,362
-"16","ID","Idaho","Nez Perce ","county","16069","January",2020,20670,21446,776
-"16","ID","Idaho","Oneida","county","16071","January",2020,2219,2286,67
-"16","ID","Idaho","Owyhee ","county","16073","January",2020,4953,5196,243
-"16","ID","Idaho","Payette","county","16075","January",2020,11016,11497,481
-"16","ID","Idaho","Power","county","16077","January",2020,3623,3802,179
-"16","ID","Idaho","Shoshone","county","16079","January",2020,4787,5153,366
-"16","ID","Idaho","Teton","county","16081","January",2020,6174,6318,144
-"16","ID","Idaho","Twin Falls ","county","16083","January",2020,40090,41560,1470
-"16","ID","Idaho","Valley","county","16085","January",2020,5371,5624,253
-"16","ID","Idaho","Washington","county","16087","January",2020,4368,4578,210
-"16","ID","Idaho","Asotin Wa ","county",NA,"January",2020,10187,10636,449
-"16","ID","Idaho","Boise","city",NA,"January",2020,130705,134432,3727
-"16","ID","Idaho","Caldwell","city",NA,"January",2020,25981,27152,1171
-"16","ID","Idaho","Coeur D' Alene","city",NA,"January",2020,25073,26248,1175
-"16","ID","Idaho","Eagle","city",NA,"January",2020,13557,13937,380
-"16","ID","Idaho","Idaho Falls","city",NA,"January",2020,30224,31200,976
-"16","ID","Idaho","Lewiston","city",NA,"January",2020,17468,18083,615
-"16","ID","Idaho","Meridian","city",NA,"January",2020,54101,55598,1497
-"16","ID","Idaho","Moscow","city",NA,"January",2020,13192,13536,344
-"16","ID","Idaho","Nampa","city",NA,"January",2020,42924,44607,1683
-"16","ID","Idaho","Pocatello","city",NA,"January",2020,27971,28947,976
-"16","ID","Idaho","Post Falls","city",NA,"January",2020,17664,18467,803
-"16","ID","Idaho","Rexburg","city",NA,"January",2020,15419,15734,315
-"16","ID","Idaho","Twin  Falls","city",NA,"January",2020,23340,24230,890
+"state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
+"16","ID","Idaho","Idaho","state",NA,"May",2020,884204,808311,75893
+"16","ID","Idaho","Ada ","county","16001","May",2020,258113,234340,23773
+"16","ID","Idaho","Adams","county","16003","May",2020,1749,1506,243
+"16","ID","Idaho","Bannock ","county","16005","May",2020,40444,37356,3088
+"16","ID","Idaho","Bear Lake","county","16007","May",2020,2991,2816,175
+"16","ID","Idaho","Benewah","county","16009","May",2020,4142,3696,446
+"16","ID","Idaho","Bingham ","county","16011","May",2020,23815,22477,1338
+"16","ID","Idaho","Blaine ","county","16013","May",2020,12886,10970,1916
+"16","ID","Idaho","Boise ","county","16015","May",2020,3612,3191,421
+"16","ID","Idaho","Bonner ","county","16017","May",2020,20883,18282,2601
+"16","ID","Idaho","Bonneville ","county","16019","May",2020,59199,55763,3436
+"16","ID","Idaho","Boundary","county","16021","May",2020,5516,5018,498
+"16","ID","Idaho","Butte ","county","16023","May",2020,1456,1385,71
+"16","ID","Idaho","Camas ","county","16025","May",2020,699,645,54
+"16","ID","Idaho","Canyon ","county","16027","May",2020,105162,95531,9631
+"16","ID","Idaho","Caribou","county","16029","May",2020,4086,3904,182
+"16","ID","Idaho","Cassia ","county","16031","May",2020,12067,11380,687
+"16","ID","Idaho","Clark","county","16033","May",2020,383,367,16
+"16","ID","Idaho","Clearwater","county","16035","May",2020,2896,2530,366
+"16","ID","Idaho","Custer","county","16037","May",2020,2153,2006,147
+"16","ID","Idaho","Elmore ","county","16039","May",2020,11647,10836,811
+"16","ID","Idaho","Franklin","county","16041","May",2020,6936,6617,319
+"16","ID","Idaho","Fremont ","county","16043","May",2020,7772,7353,419
+"16","ID","Idaho","Gem ","county","16045","May",2020,8351,7633,718
+"16","ID","Idaho","Gooding","county","16047","May",2020,8163,7729,434
+"16","ID","Idaho","Idaho ","county","16049","May",2020,6796,6141,655
+"16","ID","Idaho","Jefferson ","county","16051","May",2020,14434,13792,642
+"16","ID","Idaho","Jerome ","county","16053","May",2020,11986,11337,649
+"16","ID","Idaho","Kootenai ","county","16055","May",2020,79566,70666,8900
+"16","ID","Idaho","Latah ","county","16057","May",2020,19701,18206,1495
+"16","ID","Idaho","Lemhi","county","16059","May",2020,3587,3245,342
+"16","ID","Idaho","Lewis ","county","16061","May",2020,1735,1554,181
+"16","ID","Idaho","Lincoln ","county","16063","May",2020,2649,2441,208
+"16","ID","Idaho","Madison ","county","16065","May",2020,21103,20251,852
+"16","ID","Idaho","Minidoka ","county","16067","May",2020,11316,10685,631
+"16","ID","Idaho","Nez Perce ","county","16069","May",2020,19393,17761,1632
+"16","ID","Idaho","Oneida","county","16071","May",2020,2383,2229,154
+"16","ID","Idaho","Owyhee ","county","16073","May",2020,5741,5241,500
+"16","ID","Idaho","Payette","county","16075","May",2020,11638,10729,909
+"16","ID","Idaho","Power","county","16077","May",2020,4009,3798,211
+"16","ID","Idaho","Shoshone","county","16079","May",2020,5123,4328,795
+"16","ID","Idaho","Teton","county","16081","May",2020,6659,5913,746
+"16","ID","Idaho","Twin Falls ","county","16083","May",2020,40895,37428,3467
+"16","ID","Idaho","Valley","county","16085","May",2020,5772,5000,772
+"16","ID","Idaho","Washington","county","16087","May",2020,4598,4236,362
+"16","ID","Idaho","Asotin Wa ","county",NA,"May",2020,9631,8828,803
+"16","ID","Idaho","Boise","city",NA,"May",2020,134987,122078,12909
+"16","ID","Idaho","Caldwell","city",NA,"May",2020,26966,24486,2480
+"16","ID","Idaho","Coeur D' Alene","city",NA,"May",2020,26319,23041,3278
+"16","ID","Idaho","Eagle","city",NA,"May",2020,13735,12662,1073
+"16","ID","Idaho","Idaho Falls","city",NA,"May",2020,31863,29876,1987
+"16","ID","Idaho","Lewiston","city",NA,"May",2020,16409,15009,1400
+"16","ID","Idaho","Meridian","city",NA,"May",2020,55541,50531,5010
+"16","ID","Idaho","Moscow","city",NA,"May",2020,12859,11826,1033
+"16","ID","Idaho","Nampa","city",NA,"May",2020,44725,40453,4272
+"16","ID","Idaho","Pocatello","city",NA,"May",2020,27296,25192,2104
+"16","ID","Idaho","Post Falls","city",NA,"May",2020,18165,16232,1933
+"16","ID","Idaho","Rexburg","city",NA,"May",2020,15276,14666,610
+"16","ID","Idaho","Twin  Falls","city",NA,"May",2020,24063,21791,2272
+"16","ID","Idaho","Idaho","state",NA,"April",2020,881168,776635,104533
+"16","ID","Idaho","Ada ","county","16001","April",2020,256201,224948,31253
+"16","ID","Idaho","Adams","county","16003","April",2020,1766,1387,379
+"16","ID","Idaho","Bannock ","county","16005","April",2020,39698,35589,4109
+"16","ID","Idaho","Bear Lake","county","16007","April",2020,2904,2661,243
+"16","ID","Idaho","Benewah","county","16009","April",2020,4263,3501,762
+"16","ID","Idaho","Bingham ","county","16011","April",2020,23345,21825,1520
+"16","ID","Idaho","Blaine ","county","16013","April",2020,13616,10573,3043
+"16","ID","Idaho","Boise ","county","16015","April",2020,3662,3068,594
+"16","ID","Idaho","Bonner ","county","16017","April",2020,20970,17310,3660
+"16","ID","Idaho","Bonneville ","county","16019","April",2020,57947,53110,4837
+"16","ID","Idaho","Boundary","county","16021","April",2020,5404,4758,646
+"16","ID","Idaho","Butte ","county","16023","April",2020,1400,1322,78
+"16","ID","Idaho","Camas ","county","16025","April",2020,724,630,94
+"16","ID","Idaho","Canyon ","county","16027","April",2020,105183,91926,13257
+"16","ID","Idaho","Caribou","county","16029","April",2020,3975,3720,255
+"16","ID","Idaho","Cassia ","county","16031","April",2020,11838,10971,867
+"16","ID","Idaho","Clark","county","16033","April",2020,363,343,20
+"16","ID","Idaho","Clearwater","county","16035","April",2020,2935,2386,549
+"16","ID","Idaho","Custer","county","16037","April",2020,1994,1792,202
+"16","ID","Idaho","Elmore ","county","16039","April",2020,11393,10304,1089
+"16","ID","Idaho","Franklin","county","16041","April",2020,7100,6520,580
+"16","ID","Idaho","Fremont ","county","16043","April",2020,7595,7039,556
+"16","ID","Idaho","Gem ","county","16045","April",2020,8357,7356,1001
+"16","ID","Idaho","Gooding","county","16047","April",2020,8103,7546,557
+"16","ID","Idaho","Idaho ","county","16049","April",2020,6667,5798,869
+"16","ID","Idaho","Jefferson ","county","16051","April",2020,14007,13110,897
+"16","ID","Idaho","Jerome ","county","16053","April",2020,12178,11250,928
+"16","ID","Idaho","Kootenai ","county","16055","April",2020,80902,67166,13736
+"16","ID","Idaho","Latah ","county","16057","April",2020,20033,18054,1979
+"16","ID","Idaho","Lemhi","county","16059","April",2020,3407,2994,413
+"16","ID","Idaho","Lewis ","county","16061","April",2020,1723,1465,258
+"16","ID","Idaho","Lincoln ","county","16063","April",2020,2738,2374,364
+"16","ID","Idaho","Madison ","county","16065","April",2020,20309,19330,979
+"16","ID","Idaho","Minidoka ","county","16067","April",2020,11125,10335,790
+"16","ID","Idaho","Nez Perce ","county","16069","April",2020,19873,17500,2373
+"16","ID","Idaho","Oneida","county","16071","April",2020,2327,2154,173
+"16","ID","Idaho","Owyhee ","county","16073","April",2020,5648,5028,620
+"16","ID","Idaho","Payette","county","16075","April",2020,11616,10484,1132
+"16","ID","Idaho","Power","county","16077","April",2020,3989,3741,248
+"16","ID","Idaho","Shoshone","county","16079","April",2020,5289,4194,1095
+"16","ID","Idaho","Teton","county","16081","April",2020,6544,5477,1067
+"16","ID","Idaho","Twin Falls ","county","16083","April",2020,41633,36898,4735
+"16","ID","Idaho","Valley","county","16085","April",2020,5873,4582,1291
+"16","ID","Idaho","Washington","county","16087","April",2020,4552,4116,436
+"16","ID","Idaho","Asotin Wa ","county",NA,"April",2020,9667,8808,859
+"16","ID","Idaho","Boise","city",NA,"April",2020,134148,117185,16963
+"16","ID","Idaho","Caldwell","city",NA,"April",2020,27030,23562,3468
+"16","ID","Idaho","Coeur D' Alene","city",NA,"April",2020,27040,21899,5141
+"16","ID","Idaho","Eagle","city",NA,"April",2020,13488,12155,1333
+"16","ID","Idaho","Idaho Falls","city",NA,"April",2020,31336,28455,2881
+"16","ID","Idaho","Lewiston","city",NA,"April",2020,16821,14789,2032
+"16","ID","Idaho","Meridian","city",NA,"April",2020,55173,48505,6668
+"16","ID","Idaho","Moscow","city",NA,"April",2020,13028,11728,1300
+"16","ID","Idaho","Nampa","city",NA,"April",2020,44945,38926,6019
+"16","ID","Idaho","Pocatello","city",NA,"April",2020,26812,24000,2812
+"16","ID","Idaho","Post Falls","city",NA,"April",2020,18405,15428,2977
+"16","ID","Idaho","Rexburg","city",NA,"April",2020,14671,13999,672
+"16","ID","Idaho","Twin  Falls","city",NA,"April",2020,24660,21482,3178
+"16","ID","Idaho","Idaho","state",NA,"March",2020,889902,862872,27030
+"16","ID","Idaho","Ada ","county","16001","March",2020,258487,252439,6048
+"16","ID","Idaho","Adams","county","16003","March",2020,1695,1540,155
+"16","ID","Idaho","Bannock ","county","16005","March",2020,43505,42246,1259
+"16","ID","Idaho","Bear Lake","county","16007","March",2020,2976,2876,100
+"16","ID","Idaho","Benewah","county","16009","March",2020,4129,3808,321
+"16","ID","Idaho","Bingham ","county","16011","March",2020,23739,23083,656
+"16","ID","Idaho","Blaine ","county","16013","March",2020,12649,12244,405
+"16","ID","Idaho","Boise ","county","16015","March",2020,3630,3436,194
+"16","ID","Idaho","Bonner ","county","16017","March",2020,20510,19397,1113
+"16","ID","Idaho","Bonneville ","county","16019","March",2020,58307,56820,1487
+"16","ID","Idaho","Boundary","county","16021","March",2020,5338,5020,318
+"16","ID","Idaho","Butte ","county","16023","March",2020,1388,1359,29
+"16","ID","Idaho","Camas ","county","16025","March",2020,694,673,21
+"16","ID","Idaho","Canyon ","county","16027","March",2020,105693,102476,3217
+"16","ID","Idaho","Caribou","county","16029","March",2020,4088,3963,125
+"16","ID","Idaho","Cassia ","county","16031","March",2020,12012,11726,286
+"16","ID","Idaho","Clark","county","16033","March",2020,359,341,18
+"16","ID","Idaho","Clearwater","county","16035","March",2020,2911,2631,280
+"16","ID","Idaho","Custer","county","16037","March",2020,1988,1896,92
+"16","ID","Idaho","Elmore ","county","16039","March",2020,11803,11410,393
+"16","ID","Idaho","Franklin","county","16041","March",2020,7088,6918,170
+"16","ID","Idaho","Fremont ","county","16043","March",2020,7961,7731,230
+"16","ID","Idaho","Gem ","county","16045","March",2020,8408,8118,290
+"16","ID","Idaho","Gooding","county","16047","March",2020,8213,7993,220
+"16","ID","Idaho","Idaho ","county","16049","March",2020,6631,6273,358
+"16","ID","Idaho","Jefferson ","county","16051","March",2020,14153,13811,342
+"16","ID","Idaho","Jerome ","county","16053","March",2020,12068,11734,334
+"16","ID","Idaho","Kootenai ","county","16055","March",2020,80041,76787,3254
+"16","ID","Idaho","Latah ","county","16057","March",2020,20864,20279,585
+"16","ID","Idaho","Lemhi","county","16059","March",2020,3494,3272,222
+"16","ID","Idaho","Lewis ","county","16061","March",2020,1637,1530,107
+"16","ID","Idaho","Lincoln ","county","16063","March",2020,2695,2578,117
+"16","ID","Idaho","Madison ","county","16065","March",2020,22406,22006,400
+"16","ID","Idaho","Minidoka ","county","16067","March",2020,11327,11032,295
+"16","ID","Idaho","Nez Perce ","county","16069","March",2020,20923,20279,644
+"16","ID","Idaho","Oneida","county","16071","March",2020,2370,2295,75
+"16","ID","Idaho","Owyhee ","county","16073","March",2020,5514,5317,197
+"16","ID","Idaho","Payette","county","16075","March",2020,11839,11443,396
+"16","ID","Idaho","Power","county","16077","March",2020,3926,3809,117
+"16","ID","Idaho","Shoshone","county","16079","March",2020,5185,4824,361
+"16","ID","Idaho","Teton","county","16081","March",2020,6150,6014,136
+"16","ID","Idaho","Twin Falls ","county","16083","March",2020,40884,39666,1218
+"16","ID","Idaho","Valley","county","16085","March",2020,5553,5305,248
+"16","ID","Idaho","Washington","county","16087","March",2020,4670,4475,195
+"16","ID","Idaho","Asotin Wa ","county",NA,"March",2020,10220,9846,374
+"16","ID","Idaho","Boise","city",NA,"March",2020,134582,131506,3076
+"16","ID","Idaho","Caldwell","city",NA,"March",2020,27173,26266,907
+"16","ID","Idaho","Coeur D' Alene","city",NA,"March",2020,26032,25036,996
+"16","ID","Idaho","Eagle","city",NA,"March",2020,13971,13640,331
+"16","ID","Idaho","Idaho Falls","city",NA,"March",2020,31275,30443,832
+"16","ID","Idaho","Lewiston","city",NA,"March",2020,17626,17137,489
+"16","ID","Idaho","Meridian","city",NA,"March",2020,55751,54433,1318
+"16","ID","Idaho","Moscow","city",NA,"March",2020,13443,13173,270
+"16","ID","Idaho","Nampa","city",NA,"March",2020,44773,43394,1379
+"16","ID","Idaho","Pocatello","city",NA,"March",2020,29344,28490,854
+"16","ID","Idaho","Post Falls","city",NA,"March",2020,18291,17638,653
+"16","ID","Idaho","Rexburg","city",NA,"March",2020,16205,15937,268
+"16","ID","Idaho","Twin  Falls","city",NA,"March",2020,23837,23094,743
+"16","ID","Idaho","Idaho","state",NA,"February",2020,891314,863857,27457
+"16","ID","Idaho","Ada ","county","16001","February",2020,260365,254134,6231
+"16","ID","Idaho","Adams","county","16003","February",2020,1658,1545,113
+"16","ID","Idaho","Bannock ","county","16005","February",2020,43600,42277,1323
+"16","ID","Idaho","Bear Lake","county","16007","February",2020,2920,2814,106
+"16","ID","Idaho","Benewah","county","16009","February",2020,4140,3881,259
+"16","ID","Idaho","Bingham ","county","16011","February",2020,23419,22723,696
+"16","ID","Idaho","Blaine ","county","16013","February",2020,12643,12245,398
+"16","ID","Idaho","Boise ","county","16015","February",2020,3656,3461,195
+"16","ID","Idaho","Bonner ","county","16017","February",2020,20360,19362,998
+"16","ID","Idaho","Bonneville ","county","16019","February",2020,58206,56704,1502
+"16","ID","Idaho","Boundary","county","16021","February",2020,5238,4961,277
+"16","ID","Idaho","Butte ","county","16023","February",2020,1384,1350,34
+"16","ID","Idaho","Camas ","county","16025","February",2020,681,661,20
+"16","ID","Idaho","Canyon ","county","16027","February",2020,106260,102797,3463
+"16","ID","Idaho","Caribou","county","16029","February",2020,4094,3954,140
+"16","ID","Idaho","Cassia ","county","16031","February",2020,12030,11744,286
+"16","ID","Idaho","Clark","county","16033","February",2020,358,342,16
+"16","ID","Idaho","Clearwater","county","16035","February",2020,2810,2623,187
+"16","ID","Idaho","Custer","county","16037","February",2020,1983,1894,89
+"16","ID","Idaho","Elmore ","county","16039","February",2020,11466,11050,416
+"16","ID","Idaho","Franklin","county","16041","February",2020,6971,6815,156
+"16","ID","Idaho","Fremont ","county","16043","February",2020,7787,7555,232
+"16","ID","Idaho","Gem ","county","16045","February",2020,8441,8143,298
+"16","ID","Idaho","Gooding","county","16047","February",2020,8084,7830,254
+"16","ID","Idaho","Idaho ","county","16049","February",2020,6416,6090,326
+"16","ID","Idaho","Jefferson ","county","16051","February",2020,14108,13751,357
+"16","ID","Idaho","Jerome ","county","16053","February",2020,12133,11758,375
+"16","ID","Idaho","Kootenai ","county","16055","February",2020,80559,77242,3317
+"16","ID","Idaho","Latah ","county","16057","February",2020,21143,20619,524
+"16","ID","Idaho","Lemhi","county","16059","February",2020,3460,3246,214
+"16","ID","Idaho","Lewis ","county","16061","February",2020,1570,1472,98
+"16","ID","Idaho","Lincoln ","county","16063","February",2020,2725,2568,157
+"16","ID","Idaho","Madison ","county","16065","February",2020,21984,21582,402
+"16","ID","Idaho","Minidoka ","county","16067","February",2020,11264,10939,325
+"16","ID","Idaho","Nez Perce ","county","16069","February",2020,21338,20703,635
+"16","ID","Idaho","Oneida","county","16071","February",2020,2281,2223,58
+"16","ID","Idaho","Owyhee ","county","16073","February",2020,5268,5066,202
+"16","ID","Idaho","Payette","county","16075","February",2020,11643,11190,453
+"16","ID","Idaho","Power","county","16077","February",2020,3815,3671,144
+"16","ID","Idaho","Shoshone","county","16079","February",2020,5084,4748,336
+"16","ID","Idaho","Teton","county","16081","February",2020,6289,6153,136
+"16","ID","Idaho","Twin Falls ","county","16083","February",2020,41444,40191,1253
+"16","ID","Idaho","Valley","county","16085","February",2020,5626,5379,247
+"16","ID","Idaho","Washington","county","16087","February",2020,4613,4402,211
+"16","ID","Idaho","Asotin Wa ","county",NA,"February",2020,10651,10212,439
+"16","ID","Idaho","Boise","city",NA,"February",2020,135633,132389,3244
+"16","ID","Idaho","Caldwell","city",NA,"February",2020,27327,26348,979
+"16","ID","Idaho","Coeur D' Alene","city",NA,"February",2020,26228,25185,1043
+"16","ID","Idaho","Eagle","city",NA,"February",2020,14045,13732,313
+"16","ID","Idaho","Idaho Falls","city",NA,"February",2020,31247,30381,866
+"16","ID","Idaho","Lewiston","city",NA,"February",2020,17969,17495,474
+"16","ID","Idaho","Meridian","city",NA,"February",2020,56118,54799,1319
+"16","ID","Idaho","Moscow","city",NA,"February",2020,13677,13394,283
+"16","ID","Idaho","Nampa","city",NA,"February",2020,44987,43530,1457
+"16","ID","Idaho","Pocatello","city",NA,"February",2020,29386,28511,875
+"16","ID","Idaho","Post Falls","city",NA,"February",2020,18462,17742,720
+"16","ID","Idaho","Rexburg","city",NA,"February",2020,15903,15630,273
+"16","ID","Idaho","Twin  Falls","city",NA,"February",2020,24144,23399,745
+"16","ID","Idaho","Idaho","state",NA,"January",2020,886931,855878,31053
+"16","ID","Idaho","Ada ","county","16001","January",2020,258097,250900,7197
+"16","ID","Idaho","Adams","county","16003","January",2020,1667,1542,125
+"16","ID","Idaho","Bannock ","county","16005","January",2020,42944,41477,1467
+"16","ID","Idaho","Bear Lake","county","16007","January",2020,2901,2780,121
+"16","ID","Idaho","Benewah","county","16009","January",2020,4132,3898,234
+"16","ID","Idaho","Bingham ","county","16011","January",2020,23329,22536,793
+"16","ID","Idaho","Blaine ","county","16013","January",2020,12656,12279,377
+"16","ID","Idaho","Boise ","county","16015","January",2020,3600,3414,186
+"16","ID","Idaho","Bonner ","county","16017","January",2020,20433,19377,1056
+"16","ID","Idaho","Bonneville ","county","16019","January",2020,58116,56412,1704
+"16","ID","Idaho","Boundary","county","16021","January",2020,5245,4952,293
+"16","ID","Idaho","Butte ","county","16023","January",2020,1396,1345,51
+"16","ID","Idaho","Camas ","county","16025","January",2020,685,663,22
+"16","ID","Idaho","Canyon ","county","16027","January",2020,105469,101366,4103
+"16","ID","Idaho","Caribou","county","16029","January",2020,4046,3897,149
+"16","ID","Idaho","Cassia ","county","16031","January",2020,12051,11707,344
+"16","ID","Idaho","Clark","county","16033","January",2020,357,338,19
+"16","ID","Idaho","Clearwater","county","16035","January",2020,2804,2621,183
+"16","ID","Idaho","Custer","county","16037","January",2020,1997,1884,113
+"16","ID","Idaho","Elmore ","county","16039","January",2020,11431,10995,436
+"16","ID","Idaho","Franklin","county","16041","January",2020,6999,6815,184
+"16","ID","Idaho","Fremont ","county","16043","January",2020,7742,7453,289
+"16","ID","Idaho","Gem ","county","16045","January",2020,8369,8033,336
+"16","ID","Idaho","Gooding","county","16047","January",2020,8118,7837,281
+"16","ID","Idaho","Idaho ","county","16049","January",2020,6401,6046,355
+"16","ID","Idaho","Jefferson ","county","16051","January",2020,14101,13676,425
+"16","ID","Idaho","Jerome ","county","16053","January",2020,12105,11708,397
+"16","ID","Idaho","Kootenai ","county","16055","January",2020,80656,76901,3755
+"16","ID","Idaho","Latah ","county","16057","January",2020,20908,20308,600
+"16","ID","Idaho","Lemhi","county","16059","January",2020,3459,3233,226
+"16","ID","Idaho","Lewis ","county","16061","January",2020,1570,1461,109
+"16","ID","Idaho","Lincoln ","county","16063","January",2020,2718,2591,127
+"16","ID","Idaho","Madison ","county","16065","January",2020,21741,21291,450
+"16","ID","Idaho","Minidoka ","county","16067","January",2020,11236,10874,362
+"16","ID","Idaho","Nez Perce ","county","16069","January",2020,21446,20670,776
+"16","ID","Idaho","Oneida","county","16071","January",2020,2286,2219,67
+"16","ID","Idaho","Owyhee ","county","16073","January",2020,5196,4953,243
+"16","ID","Idaho","Payette","county","16075","January",2020,11497,11016,481
+"16","ID","Idaho","Power","county","16077","January",2020,3802,3623,179
+"16","ID","Idaho","Shoshone","county","16079","January",2020,5153,4787,366
+"16","ID","Idaho","Teton","county","16081","January",2020,6318,6174,144
+"16","ID","Idaho","Twin Falls ","county","16083","January",2020,41560,40090,1470
+"16","ID","Idaho","Valley","county","16085","January",2020,5624,5371,253
+"16","ID","Idaho","Washington","county","16087","January",2020,4578,4368,210
+"16","ID","Idaho","Asotin Wa ","county",NA,"January",2020,10636,10187,449
+"16","ID","Idaho","Boise","city",NA,"January",2020,134432,130705,3727
+"16","ID","Idaho","Caldwell","city",NA,"January",2020,27152,25981,1171
+"16","ID","Idaho","Coeur D' Alene","city",NA,"January",2020,26248,25073,1175
+"16","ID","Idaho","Eagle","city",NA,"January",2020,13937,13557,380
+"16","ID","Idaho","Idaho Falls","city",NA,"January",2020,31200,30224,976
+"16","ID","Idaho","Lewiston","city",NA,"January",2020,18083,17468,615
+"16","ID","Idaho","Meridian","city",NA,"January",2020,55598,54101,1497
+"16","ID","Idaho","Moscow","city",NA,"January",2020,13536,13192,344
+"16","ID","Idaho","Nampa","city",NA,"January",2020,44607,42924,1683
+"16","ID","Idaho","Pocatello","city",NA,"January",2020,28947,27971,976
+"16","ID","Idaho","Post Falls","city",NA,"January",2020,18467,17664,803
+"16","ID","Idaho","Rexburg","city",NA,"January",2020,15734,15419,315
+"16","ID","Idaho","Twin  Falls","city",NA,"January",2020,24230,23340,890

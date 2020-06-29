@@ -36,7 +36,7 @@ output <- raw %>%
     state_short = "HI",
     state = "Hawaii",
     year = year(date),
-    period = month(date)
+    period = month(date, abbr = F, label = T)
   ) %>%
   
   rename(
@@ -46,8 +46,8 @@ output <- raw %>%
     labor_force = total
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    labor_force, employment, unemployment
   )
 
 write.csv(output, file = "HI_compiled.csv", row.names = FALSE)

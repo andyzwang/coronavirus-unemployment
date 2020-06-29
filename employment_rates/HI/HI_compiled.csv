@@ -1,85 +1,85 @@
-"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
-"15","HI","Hawaii","Hawaii","state",NA,1,2019,648550,667650,19150
-"15","HI","Hawaii","Hawaii","state",NA,2,2019,647000,664850,17850
-"15","HI","Hawaii","Hawaii","state",NA,3,2019,647550,665500,17950
-"15","HI","Hawaii","Hawaii","state",NA,4,2019,646000,663200,17250
-"15","HI","Hawaii","Hawaii","state",NA,5,2019,643650,660700,17100
-"15","HI","Hawaii","Hawaii","state",NA,6,2019,643500,665600,22100
-"15","HI","Hawaii","Hawaii","state",NA,7,2019,648800,667200,18450
-"15","HI","Hawaii","Hawaii","state",NA,8,2019,645900,663700,17800
-"15","HI","Hawaii","Hawaii","state",NA,9,2019,643700,662550,18850
-"15","HI","Hawaii","Hawaii","state",NA,10,2019,646200,663750,17550
-"15","HI","Hawaii","Hawaii","state",NA,11,2019,650500,667850,17350
-"15","HI","Hawaii","Hawaii","state",NA,12,2019,652350,667350,15000
-"15","HI","Hawaii","Hawaii","state",NA,1,2020,654000,673450,19450
-"15","HI","Hawaii","Hawaii","state",NA,2,2020,651350,669100,17750
-"15","HI","Hawaii","Hawaii","state",NA,3,2020,652500,667550,15050
-"15","HI","Hawaii","Hawaii","state",NA,4,2020,484200,634100,149900
-"15","HI","Hawaii","Hawaii","state",NA,5,2020,489750,631600,141850
-"15","HI","Hawaii","Hawaii County","county","15001",1,2019,87050,90250,3200
-"15","HI","Hawaii","Hawaii County","county","15001",2,2019,87750,90800,3050
-"15","HI","Hawaii","Hawaii County","county","15001",3,2019,87500,90600,3050
-"15","HI","Hawaii","Hawaii County","county","15001",4,2019,87950,91000,3050
-"15","HI","Hawaii","Hawaii County","county","15001",5,2019,88450,91400,2950
-"15","HI","Hawaii","Hawaii County","county","15001",6,2019,87500,91350,3850
-"15","HI","Hawaii","Hawaii County","county","15001",7,2019,88250,91650,3450
-"15","HI","Hawaii","Hawaii County","county","15001",8,2019,87450,90550,3100
-"15","HI","Hawaii","Hawaii County","county","15001",9,2019,88400,91600,3200
-"15","HI","Hawaii","Hawaii County","county","15001",10,2019,87800,91000,3200
-"15","HI","Hawaii","Hawaii County","county","15001",11,2019,89000,92000,3000
-"15","HI","Hawaii","Hawaii County","county","15001",12,2019,89100,91700,2600
-"15","HI","Hawaii","Hawaii County","county","15001",1,2020,88550,91800,3250
-"15","HI","Hawaii","Hawaii County","county","15001",2,2020,88750,91800,3050
-"15","HI","Hawaii","Hawaii County","county","15001",3,2020,88900,91550,2650
-"15","HI","Hawaii","Hawaii County","county","15001",4,2020,69100,88800,20750
-"15","HI","Hawaii","Hawaii County","county","15001",5,2020,69700,88400,18700
-"15","HI","Hawaii","Honolulu County","county","15003",1,2019,440950,453300,12400
-"15","HI","Hawaii","Honolulu County","county","15003",2,2019,440000,451400,11400
-"15","HI","Hawaii","Honolulu County","county","15003",3,2019,440650,452250,11600
-"15","HI","Hawaii","Honolulu County","county","15003",5,2019,435900,447050,11100
-"15","HI","Hawaii","Honolulu County","county","15003",6,2019,435700,450100,14400
-"15","HI","Hawaii","Honolulu County","county","15003",7,2019,438450,450200,11750
-"15","HI","Hawaii","Honolulu County","county","15003",8,2019,437250,448850,11600
-"15","HI","Hawaii","Honolulu County","county","15003",9,2019,435650,447900,12300
-"15","HI","Hawaii","Honolulu County","county","15003",10,2019,439150,450250,11100
-"15","HI","Hawaii","Honolulu County","county","15003",11,2019,441850,453000,11100
-"15","HI","Hawaii","Honolulu County","county","15003",12,2019,443200,452850,9650
-"15","HI","Hawaii","Honolulu County","county","15003",1,2020,444400,457000,12650
-"15","HI","Hawaii","Honolulu County","county","15003",2,2020,442250,453650,11400
-"15","HI","Hawaii","Honolulu County","county","15003",3,2020,443550,453200,9700
-"15","HI","Hawaii","Honolulu County","county","15003",4,2020,332450,418300,85850
-"15","HI","Hawaii","Honolulu County","county","15003",5,2020,337450,421100,83700
-"15","HI","Hawaii","Kauai County","county","15007",1,2019,35400,36450,1050
-"15","HI","Hawaii","Kauai County","county","15007",2,2019,35100,36100,1000
-"15","HI","Hawaii","Kauai County","county","15007",3,2019,35050,36050,1000
-"15","HI","Hawaii","Kauai County","county","15007",4,2019,35350,36250,950
-"15","HI","Hawaii","Kauai County","county","15007",5,2019,35550,36400,900
-"15","HI","Hawaii","Kauai County","county","15007",6,2019,35800,36950,1150
-"15","HI","Hawaii","Kauai County","county","15007",7,2019,36600,37600,1000
-"15","HI","Hawaii","Kauai County","county","15007",8,2019,35900,36800,950
-"15","HI","Hawaii","Kauai County","county","15007",9,2019,35600,36600,1000
-"15","HI","Hawaii","Kauai County","county","15007",10,2019,35400,36350,950
-"15","HI","Hawaii","Kauai County","county","15007",11,2019,35500,36550,1050
-"15","HI","Hawaii","Kauai County","county","15007",12,2019,35500,36400,850
-"15","HI","Hawaii","Kauai County","county","15007",1,2020,35850,36950,1100
-"15","HI","Hawaii","Kauai County","county","15007",2,2020,35550,36550,1000
-"15","HI","Hawaii","Kauai County","county","15007",3,2020,35650,36500,850
-"15","HI","Hawaii","Kauai County","county","15007",4,2020,25400,37950,12550
-"15","HI","Hawaii","Kauai County","county","15007",5,2020,25850,36900,11000
-"15","HI","Hawaii","Maui County","county","15009",1,2019,85150,87650,2450
-"15","HI","Hawaii","Maui County","county","15009",2,2019,84200,86550,2400
-"15","HI","Hawaii","Maui County","county","15009",3,2019,84300,86600,2300
-"15","HI","Hawaii","Maui County","county","15009",4,2019,84150,86350,2150
-"15","HI","Hawaii","Maui County","county","15009",5,2019,83800,85900,2100
-"15","HI","Hawaii","Maui County","county","15009",6,2019,84500,87200,2700
-"15","HI","Hawaii","Maui County","county","15009",7,2019,85550,87800,2250
-"15","HI","Hawaii","Maui County","county","15009",8,2019,85300,87500,2200
-"15","HI","Hawaii","Maui County","county","15009",9,2019,84100,86450,2350
-"15","HI","Hawaii","Maui County","county","15009",10,2019,83850,86100,2300
-"15","HI","Hawaii","Maui County","county","15009",11,2019,84150,86300,2150
-"15","HI","Hawaii","Maui County","county","15009",12,2019,84500,86400,1850
-"15","HI","Hawaii","Maui County","county","15009",1,2020,85200,87700,2500
-"15","HI","Hawaii","Maui County","county","15009",2,2020,84800,87100,2300
-"15","HI","Hawaii","Maui County","county","15009",3,2020,84400,86250,1850
-"15","HI","Hawaii","Maui County","county","15009",4,2020,58250,89050,30800
-"15","HI","Hawaii","Maui County","county","15009",5,2020,56750,85200,28400
+"state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
+"15","HI","Hawaii","Hawaii","state",NA,"January",2019,667650,648550,19150
+"15","HI","Hawaii","Hawaii","state",NA,"February",2019,664850,647000,17850
+"15","HI","Hawaii","Hawaii","state",NA,"March",2019,665500,647550,17950
+"15","HI","Hawaii","Hawaii","state",NA,"April",2019,663200,646000,17250
+"15","HI","Hawaii","Hawaii","state",NA,"May",2019,660700,643650,17100
+"15","HI","Hawaii","Hawaii","state",NA,"June",2019,665600,643500,22100
+"15","HI","Hawaii","Hawaii","state",NA,"July",2019,667200,648800,18450
+"15","HI","Hawaii","Hawaii","state",NA,"August",2019,663700,645900,17800
+"15","HI","Hawaii","Hawaii","state",NA,"September",2019,662550,643700,18850
+"15","HI","Hawaii","Hawaii","state",NA,"October",2019,663750,646200,17550
+"15","HI","Hawaii","Hawaii","state",NA,"November",2019,667850,650500,17350
+"15","HI","Hawaii","Hawaii","state",NA,"December",2019,667350,652350,15000
+"15","HI","Hawaii","Hawaii","state",NA,"January",2020,673450,654000,19450
+"15","HI","Hawaii","Hawaii","state",NA,"February",2020,669100,651350,17750
+"15","HI","Hawaii","Hawaii","state",NA,"March",2020,667550,652500,15050
+"15","HI","Hawaii","Hawaii","state",NA,"April",2020,634100,484200,149900
+"15","HI","Hawaii","Hawaii","state",NA,"May",2020,631600,489750,141850
+"15","HI","Hawaii","Hawaii County","county","15001","January",2019,90250,87050,3200
+"15","HI","Hawaii","Hawaii County","county","15001","February",2019,90800,87750,3050
+"15","HI","Hawaii","Hawaii County","county","15001","March",2019,90600,87500,3050
+"15","HI","Hawaii","Hawaii County","county","15001","April",2019,91000,87950,3050
+"15","HI","Hawaii","Hawaii County","county","15001","May",2019,91400,88450,2950
+"15","HI","Hawaii","Hawaii County","county","15001","June",2019,91350,87500,3850
+"15","HI","Hawaii","Hawaii County","county","15001","July",2019,91650,88250,3450
+"15","HI","Hawaii","Hawaii County","county","15001","August",2019,90550,87450,3100
+"15","HI","Hawaii","Hawaii County","county","15001","September",2019,91600,88400,3200
+"15","HI","Hawaii","Hawaii County","county","15001","October",2019,91000,87800,3200
+"15","HI","Hawaii","Hawaii County","county","15001","November",2019,92000,89000,3000
+"15","HI","Hawaii","Hawaii County","county","15001","December",2019,91700,89100,2600
+"15","HI","Hawaii","Hawaii County","county","15001","January",2020,91800,88550,3250
+"15","HI","Hawaii","Hawaii County","county","15001","February",2020,91800,88750,3050
+"15","HI","Hawaii","Hawaii County","county","15001","March",2020,91550,88900,2650
+"15","HI","Hawaii","Hawaii County","county","15001","April",2020,88800,69100,20750
+"15","HI","Hawaii","Hawaii County","county","15001","May",2020,88400,69700,18700
+"15","HI","Hawaii","Honolulu County","county","15003","January",2019,453300,440950,12400
+"15","HI","Hawaii","Honolulu County","county","15003","February",2019,451400,440000,11400
+"15","HI","Hawaii","Honolulu County","county","15003","March",2019,452250,440650,11600
+"15","HI","Hawaii","Honolulu County","county","15003","May",2019,447050,435900,11100
+"15","HI","Hawaii","Honolulu County","county","15003","June",2019,450100,435700,14400
+"15","HI","Hawaii","Honolulu County","county","15003","July",2019,450200,438450,11750
+"15","HI","Hawaii","Honolulu County","county","15003","August",2019,448850,437250,11600
+"15","HI","Hawaii","Honolulu County","county","15003","September",2019,447900,435650,12300
+"15","HI","Hawaii","Honolulu County","county","15003","October",2019,450250,439150,11100
+"15","HI","Hawaii","Honolulu County","county","15003","November",2019,453000,441850,11100
+"15","HI","Hawaii","Honolulu County","county","15003","December",2019,452850,443200,9650
+"15","HI","Hawaii","Honolulu County","county","15003","January",2020,457000,444400,12650
+"15","HI","Hawaii","Honolulu County","county","15003","February",2020,453650,442250,11400
+"15","HI","Hawaii","Honolulu County","county","15003","March",2020,453200,443550,9700
+"15","HI","Hawaii","Honolulu County","county","15003","April",2020,418300,332450,85850
+"15","HI","Hawaii","Honolulu County","county","15003","May",2020,421100,337450,83700
+"15","HI","Hawaii","Kauai County","county","15007","January",2019,36450,35400,1050
+"15","HI","Hawaii","Kauai County","county","15007","February",2019,36100,35100,1000
+"15","HI","Hawaii","Kauai County","county","15007","March",2019,36050,35050,1000
+"15","HI","Hawaii","Kauai County","county","15007","April",2019,36250,35350,950
+"15","HI","Hawaii","Kauai County","county","15007","May",2019,36400,35550,900
+"15","HI","Hawaii","Kauai County","county","15007","June",2019,36950,35800,1150
+"15","HI","Hawaii","Kauai County","county","15007","July",2019,37600,36600,1000
+"15","HI","Hawaii","Kauai County","county","15007","August",2019,36800,35900,950
+"15","HI","Hawaii","Kauai County","county","15007","September",2019,36600,35600,1000
+"15","HI","Hawaii","Kauai County","county","15007","October",2019,36350,35400,950
+"15","HI","Hawaii","Kauai County","county","15007","November",2019,36550,35500,1050
+"15","HI","Hawaii","Kauai County","county","15007","December",2019,36400,35500,850
+"15","HI","Hawaii","Kauai County","county","15007","January",2020,36950,35850,1100
+"15","HI","Hawaii","Kauai County","county","15007","February",2020,36550,35550,1000
+"15","HI","Hawaii","Kauai County","county","15007","March",2020,36500,35650,850
+"15","HI","Hawaii","Kauai County","county","15007","April",2020,37950,25400,12550
+"15","HI","Hawaii","Kauai County","county","15007","May",2020,36900,25850,11000
+"15","HI","Hawaii","Maui County","county","15009","January",2019,87650,85150,2450
+"15","HI","Hawaii","Maui County","county","15009","February",2019,86550,84200,2400
+"15","HI","Hawaii","Maui County","county","15009","March",2019,86600,84300,2300
+"15","HI","Hawaii","Maui County","county","15009","April",2019,86350,84150,2150
+"15","HI","Hawaii","Maui County","county","15009","May",2019,85900,83800,2100
+"15","HI","Hawaii","Maui County","county","15009","June",2019,87200,84500,2700
+"15","HI","Hawaii","Maui County","county","15009","July",2019,87800,85550,2250
+"15","HI","Hawaii","Maui County","county","15009","August",2019,87500,85300,2200
+"15","HI","Hawaii","Maui County","county","15009","September",2019,86450,84100,2350
+"15","HI","Hawaii","Maui County","county","15009","October",2019,86100,83850,2300
+"15","HI","Hawaii","Maui County","county","15009","November",2019,86300,84150,2150
+"15","HI","Hawaii","Maui County","county","15009","December",2019,86400,84500,1850
+"15","HI","Hawaii","Maui County","county","15009","January",2020,87700,85200,2500
+"15","HI","Hawaii","Maui County","county","15009","February",2020,87100,84800,2300
+"15","HI","Hawaii","Maui County","county","15009","March",2020,86250,84400,1850
+"15","HI","Hawaii","Maui County","county","15009","April",2020,89050,58250,30800
+"15","HI","Hawaii","Maui County","county","15009","May",2020,85200,56750,28400

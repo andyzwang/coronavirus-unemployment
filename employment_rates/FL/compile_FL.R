@@ -53,8 +53,8 @@ output_counties <- raw_counties %>%
     unemployment = unemp
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    labor_force, employment, unemployment
   )
 
 raw_cities <- read_excel("FL_cities_data.xlsx")
@@ -86,8 +86,8 @@ output_cities <- raw_cities %>%
     area = str_to_title(city)
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, period, year,
-    employment, labor_force, unemployment
+    state_fips, state_short, state, area, area_type, fips, period, year, 
+    labor_force, employment, unemployment
   )
 
 output <- rbind(output_counties, output_cities)
