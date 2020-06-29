@@ -1,0 +1,2146 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","employment","labor_force","unemployment"
+"51","VA","Virginia","Accomack County","county",NA,"January",2019,15596,16493,897
+"51","VA","Virginia","Albemarle County","county",51003,"January",2019,54492,56174,1682
+"51","VA","Virginia","Alleghany County","county",51005,"January",2019,6731,7041,310
+"51","VA","Virginia","Amelia County","county",51007,"January",2019,6000,6257,257
+"51","VA","Virginia","Amherst County","county",51009,"January",2019,14465,15007,542
+"51","VA","Virginia","Appomattox County","county",51011,"January",2019,6864,7164,300
+"51","VA","Virginia","Arlington County","county",51013,"January",2019,149328,153119,3791
+"51","VA","Virginia","Augusta County","county",51015,"January",2019,36014,37114,1100
+"51","VA","Virginia","Bath County","county",51017,"January",2019,2331,2419,88
+"51","VA","Virginia","Bedford County","county",51019,"January",2019,37149,38436,1287
+"51","VA","Virginia","Bland County","county",51021,"January",2019,2741,2839,98
+"51","VA","Virginia","Botetourt County","county",51023,"January",2019,16791,17328,537
+"51","VA","Virginia","Brunswick County","county",51025,"January",2019,5733,6098,365
+"51","VA","Virginia","Buchanan County","county",51027,"January",2019,6359,6789,430
+"51","VA","Virginia","Buckingham County","county",51029,"January",2019,6006,6363,357
+"51","VA","Virginia","Campbell County","county",51031,"January",2019,25042,25987,945
+"51","VA","Virginia","Caroline County","county",51033,"January",2019,14610,15208,598
+"51","VA","Virginia","Carroll County","county",51035,"January",2019,12571,13194,623
+"51","VA","Virginia","Charles City County","county",51036,"January",2019,3493,3661,168
+"51","VA","Virginia","Charlotte County","county",51037,"January",2019,5069,5277,208
+"51","VA","Virginia","Chesterfield County","county",51041,"January",2019,180576,186604,6028
+"51","VA","Virginia","Clarke County","county",51043,"January",2019,7288,7526,238
+"51","VA","Virginia","Craig County","county",51045,"January",2019,2205,2292,87
+"51","VA","Virginia","Culpeper County","county",51047,"January",2019,23611,24414,803
+"51","VA","Virginia","Cumberland County","county",51049,"January",2019,4447,4632,185
+"51","VA","Virginia","Dickenson County","county",51051,"January",2019,4330,4615,285
+"51","VA","Virginia","Dinwiddie County","county",51053,"January",2019,13072,13614,542
+"51","VA","Virginia","Essex County","county",51057,"January",2019,5280,5550,270
+"51","VA","Virginia","Fairfax County","county",51059,"January",2019,612286,630417,18131
+"51","VA","Virginia","Fauquier County","county",51061,"January",2019,35749,36887,1138
+"51","VA","Virginia","Floyd County","county",51063,"January",2019,7702,7977,275
+"51","VA","Virginia","Fluvanna County","county",51065,"January",2019,13276,13656,380
+"51","VA","Virginia","Franklin County","county",51067,"January",2019,25338,26233,895
+"51","VA","Virginia","Frederick County","county",51069,"January",2019,46216,47624,1408
+"51","VA","Virginia","Giles County","county",51071,"January",2019,7383,7696,313
+"51","VA","Virginia","Gloucester County","county",51073,"January",2019,18804,19422,618
+"51","VA","Virginia","Goochland County","county",51075,"January",2019,10792,11177,385
+"51","VA","Virginia","Grayson County","county",51077,"January",2019,7620,7913,293
+"51","VA","Virginia","Greene County","county",51079,"January",2019,10011,10289,278
+"51","VA","Virginia","Greensville County","county",51081,"January",2019,4157,4339,182
+"51","VA","Virginia","Halifax County","county",51083,"January",2019,14985,15682,697
+"51","VA","Virginia","Hanover County","county",51085,"January",2019,57209,58912,1703
+"51","VA","Virginia","Henrico County","county",51087,"January",2019,175238,181268,6030
+"51","VA","Virginia","Henry County","county",51089,"January",2019,22992,23944,952
+"51","VA","Virginia","Highland County","county",51091,"January",2019,1200,1237,37
+"51","VA","Virginia","Isle of Wight County","county",51093,"January",2019,18625,19263,638
+"51","VA","Virginia","James City County","county",51095,"January",2019,35156,36348,1192
+"51","VA","Virginia","King and Queen County","county",51097,"January",2019,3723,3851,128
+"51","VA","Virginia","King George County","county",51099,"January",2019,12853,13310,457
+"51","VA","Virginia","King William County","county",51101,"January",2019,8814,9141,327
+"51","VA","Virginia","Lancaster County","county",51103,"January",2019,4966,5369,403
+"51","VA","Virginia","Lee County","county",51105,"January",2019,7874,8246,372
+"51","VA","Virginia","Loudoun County","county",51107,"January",2019,214339,220495,6156
+"51","VA","Virginia","Louisa County","county",51109,"January",2019,18899,19571,672
+"51","VA","Virginia","Lunenburg County","county",51111,"January",2019,5190,5378,188
+"51","VA","Virginia","Madison County","county",51113,"January",2019,7087,7282,195
+"51","VA","Virginia","Mathews County","county",51115,"January",2019,3966,4121,155
+"51","VA","Virginia","Mecklenburg County","county",51117,"January",2019,12190,12785,595
+"51","VA","Virginia","Middlesex County","county",51119,"January",2019,5041,5216,175
+"51","VA","Virginia","Montgomery County","county",51121,"January",2019,47119,48766,1647
+"51","VA","Virginia","Nelson County","county",51125,"January",2019,7072,7329,257
+"51","VA","Virginia","New Kent County","county",51127,"January",2019,12055,12427,372
+"51","VA","Virginia","Northampton County","county",51131,"January",2019,4955,5307,352
+"51","VA","Virginia","Northumberland County","county",51133,"January",2019,5181,5599,418
+"51","VA","Virginia","Nottoway County","county",51135,"January",2019,7006,7251,245
+"51","VA","Virginia","Orange County","county",51137,"January",2019,16495,17100,605
+"51","VA","Virginia","Page County","county",51139,"January",2019,11150,11893,743
+"51","VA","Virginia","Patrick County","county",51141,"January",2019,7135,7467,332
+"51","VA","Virginia","Pittsylvania County","county",51143,"January",2019,29233,30383,1150
+"51","VA","Virginia","Powhatan County","county",51145,"January",2019,13648,14083,435
+"51","VA","Virginia","Prince Edward County","county",51147,"January",2019,9980,10435,455
+"51","VA","Virginia","Prince George County","county",51149,"January",2019,14430,15015,585
+"51","VA","Virginia","Prince William County","county",51153,"January",2019,236033,243944,7911
+"51","VA","Virginia","Pulaski County","county",51155,"January",2019,15022,15642,620
+"51","VA","Virginia","Rappahannock County","county",51157,"January",2019,3546,3664,118
+"51","VA","Virginia","Richmond County","county",51159,"January",2019,3880,4047,167
+"51","VA","Virginia","Roanoke County","county",51161,"January",2019,47665,49133,1468
+"51","VA","Virginia","Rockbridge County","county",51163,"January",2019,10194,10562,368
+"51","VA","Virginia","Rockingham County","county",51165,"January",2019,40801,42013,1212
+"51","VA","Virginia","Russell County","county",51167,"January",2019,10642,11252,610
+"51","VA","Virginia","Scott County","county",51169,"January",2019,8752,9105,353
+"51","VA","Virginia","Shenandoah County","county",51171,"January",2019,21480,22177,697
+"51","VA","Virginia","Smyth County","county",51173,"January",2019,13053,13681,628
+"51","VA","Virginia","Southampton County","county",51175,"January",2019,8720,8998,278
+"51","VA","Virginia","Spotsylvania County","county",51177,"January",2019,64181,66606,2425
+"51","VA","Virginia","Stafford County","county",51179,"January",2019,69075,71605,2530
+"51","VA","Virginia","Surry County","county",51181,"January",2019,3512,3669,157
+"51","VA","Virginia","Sussex County","county",51183,"January",2019,3566,3768,202
+"51","VA","Virginia","Tazewell County","county",51185,"January",2019,14952,15784,832
+"51","VA","Virginia","Warren County","county",51187,"January",2019,19572,20277,705
+"51","VA","Virginia","Washington County","county",51191,"January",2019,25609,26742,1133
+"51","VA","Virginia","Westmoreland County","county",51193,"January",2019,8827,9270,443
+"51","VA","Virginia","Wise County","county",51195,"January",2019,12618,13355,737
+"51","VA","Virginia","Wythe County","county",51197,"January",2019,13094,13671,577
+"51","VA","Virginia","York County","county",51199,"January",2019,31478,32575,1097
+"51","VA","Virginia","Alexandria city","city",NA,"January",2019,97819,100621,2802
+"51","VA","Virginia","Bristol city","city",NA,"January",2019,6872,7200,328
+"51","VA","Virginia","Buena Vista city","city",NA,"January",2019,3220,3332,112
+"51","VA","Virginia","Charlottesville city","city",NA,"January",2019,25197,25987,790
+"51","VA","Virginia","Chesapeake city","city",NA,"January",2019,117577,121803,4226
+"51","VA","Virginia","Colonial Heights city","city",NA,"January",2019,8442,8779,337
+"51","VA","Virginia","Covington city","city",NA,"January",2019,2303,2421,118
+"51","VA","Virginia","Danville city","city",NA,"January",2019,18359,19349,990
+"51","VA","Virginia","Emporia city","city",NA,"January",2019,2187,2329,142
+"51","VA","Virginia","Fairfax city","city",NA,"January",2019,12986,13346,360
+"51","VA","Virginia","Falls Church city","city",NA,"January",2019,8310,8517,207
+"51","VA","Virginia","Franklin city","city",NA,"January",2019,3397,3559,162
+"51","VA","Virginia","Fredericksburg city","city",NA,"January",2019,13488,14080,592
+"51","VA","Virginia","Galax city","city",NA,"January",2019,2795,2910,115
+"51","VA","Virginia","Hampton city","city",NA,"January",2019,61121,64174,3053
+"51","VA","Virginia","Harrisonburg city","city",NA,"January",2019,24212,25140,928
+"51","VA","Virginia","Hopewell city","city",NA,"January",2019,9174,9679,505
+"51","VA","Virginia","Lexington city","city",NA,"January",2019,1964,2077,113
+"51","VA","Virginia","Lynchburg city","city",NA,"January",2019,34820,36455,1635
+"51","VA","Virginia","Manassas city","city",NA,"January",2019,21205,21933,728
+"51","VA","Virginia","Manassas Park city","city",NA,"January",2019,9022,9347,325
+"51","VA","Virginia","Martinsville city","city",NA,"January",2019,5242,5474,232
+"51","VA","Virginia","Newport News city","city",NA,"January",2019,84612,88403,3791
+"51","VA","Virginia","Norfolk city","city",NA,"January",2019,106353,110928,4575
+"51","VA","Virginia","Norton city","city",NA,"January",2019,1607,1685,78
+"51","VA","Virginia","Petersburg city","city",NA,"January",2019,12178,13043,865
+"51","VA","Virginia","Poquoson city","city",NA,"January",2019,6139,6332,193
+"51","VA","Virginia","Portsmouth city","city",NA,"January",2019,41992,44022,2030
+"51","VA","Virginia","Radford city","city",NA,"January",2019,8062,8439,377
+"51","VA","Virginia","Richmond city","city",NA,"January",2019,113341,117909,4568
+"51","VA","Virginia","Roanoke city","city",NA,"January",2019,47227,48915,1688
+"51","VA","Virginia","Salem city","city",NA,"January",2019,12498,12905,407
+"51","VA","Virginia","Staunton city","city",NA,"January",2019,11749,12147,398
+"51","VA","Virginia","Suffolk city","city",NA,"January",2019,42692,44272,1580
+"51","VA","Virginia","Virginia Beach city","city",NA,"January",2019,223802,231377,7575
+"51","VA","Virginia","Waynesboro city","city",NA,"January",2019,10246,10628,382
+"51","VA","Virginia","Williamsburg city","city",NA,"January",2019,6350,6663,313
+"51","VA","Virginia","Winchester city","city",NA,"January",2019,14139,14644,505
+"51","VA","Virginia","Accomack County","county",NA,"February",2019,15741,16518,777
+"51","VA","Virginia","Albemarle County","county",51003,"February",2019,55602,57156,1554
+"51","VA","Virginia","Alleghany County","county",51005,"February",2019,6741,7017,276
+"51","VA","Virginia","Amelia County","county",51007,"February",2019,6044,6283,239
+"51","VA","Virginia","Amherst County","county",51009,"February",2019,14626,15148,522
+"51","VA","Virginia","Appomattox County","county",51011,"February",2019,6940,7226,286
+"51","VA","Virginia","Arlington County","county",51013,"February",2019,150532,153729,3197
+"51","VA","Virginia","Augusta County","county",51015,"February",2019,36429,37448,1019
+"51","VA","Virginia","Bath County","county",51017,"February",2019,2373,2447,74
+"51","VA","Virginia","Bedford County","county",51019,"February",2019,37534,38764,1230
+"51","VA","Virginia","Bland County","county",51021,"February",2019,2787,2877,90
+"51","VA","Virginia","Botetourt County","county",51023,"February",2019,16932,17421,489
+"51","VA","Virginia","Brunswick County","county",51025,"February",2019,5794,6154,360
+"51","VA","Virginia","Buchanan County","county",51027,"February",2019,6414,6805,391
+"51","VA","Virginia","Buckingham County","county",51029,"February",2019,6128,6455,327
+"51","VA","Virginia","Campbell County","county",51031,"February",2019,25314,26212,898
+"51","VA","Virginia","Caroline County","county",51033,"February",2019,14721,15274,553
+"51","VA","Virginia","Carroll County","county",51035,"February",2019,12713,13284,571
+"51","VA","Virginia","Charles City County","county",51036,"February",2019,3521,3668,147
+"51","VA","Virginia","Charlotte County","county",51037,"February",2019,5132,5328,196
+"51","VA","Virginia","Chesterfield County","county",51041,"February",2019,181969,187639,5670
+"51","VA","Virginia","Clarke County","county",51043,"February",2019,7345,7564,219
+"51","VA","Virginia","Craig County","county",51045,"February",2019,2222,2315,93
+"51","VA","Virginia","Culpeper County","county",51047,"February",2019,23771,24509,738
+"51","VA","Virginia","Cumberland County","county",51049,"February",2019,4512,4684,172
+"51","VA","Virginia","Dickenson County","county",51051,"February",2019,4443,4690,247
+"51","VA","Virginia","Dinwiddie County","county",51053,"February",2019,13160,13667,507
+"51","VA","Virginia","Essex County","county",51057,"February",2019,5299,5553,254
+"51","VA","Virginia","Fairfax County","county",51059,"February",2019,616948,633030,16082
+"51","VA","Virginia","Fauquier County","county",51061,"February",2019,36031,37093,1062
+"51","VA","Virginia","Floyd County","county",51063,"February",2019,8091,8336,245
+"51","VA","Virginia","Fluvanna County","county",51065,"February",2019,13549,13893,344
+"51","VA","Virginia","Franklin County","county",51067,"February",2019,25536,26405,869
+"51","VA","Virginia","Frederick County","county",51069,"February",2019,46680,48017,1337
+"51","VA","Virginia","Giles County","county",51071,"February",2019,7786,8076,290
+"51","VA","Virginia","Gloucester County","county",51073,"February",2019,18953,19539,586
+"51","VA","Virginia","Goochland County","county",51075,"February",2019,10864,11212,348
+"51","VA","Virginia","Grayson County","county",51077,"February",2019,7757,8037,280
+"51","VA","Virginia","Greene County","county",51079,"February",2019,10210,10480,270
+"51","VA","Virginia","Greensville County","county",51081,"February",2019,4178,4353,175
+"51","VA","Virginia","Halifax County","county",51083,"February",2019,14977,15633,656
+"51","VA","Virginia","Hanover County","county",51085,"February",2019,57654,59239,1585
+"51","VA","Virginia","Henrico County","county",51087,"February",2019,176613,182264,5651
+"51","VA","Virginia","Henry County","county",51089,"February",2019,23122,24019,897
+"51","VA","Virginia","Highland County","county",51091,"February",2019,1213,1252,39
+"51","VA","Virginia","Isle of Wight County","county",51093,"February",2019,18769,19381,612
+"51","VA","Virginia","James City County","county",51095,"February",2019,35426,36548,1122
+"51","VA","Virginia","King and Queen County","county",51097,"February",2019,3741,3865,124
+"51","VA","Virginia","King George County","county",51099,"February",2019,12946,13370,424
+"51","VA","Virginia","King William County","county",51101,"February",2019,8871,9183,312
+"51","VA","Virginia","Lancaster County","county",51103,"February",2019,5010,5412,402
+"51","VA","Virginia","Lee County","county",51105,"February",2019,7950,8295,345
+"51","VA","Virginia","Loudoun County","county",51107,"February",2019,216113,221800,5687
+"51","VA","Virginia","Louisa County","county",51109,"February",2019,19214,19808,594
+"51","VA","Virginia","Lunenburg County","county",51111,"February",2019,5193,5368,175
+"51","VA","Virginia","Madison County","county",51113,"February",2019,7116,7307,191
+"51","VA","Virginia","Mathews County","county",51115,"February",2019,3998,4139,141
+"51","VA","Virginia","Mecklenburg County","county",51117,"February",2019,12343,12880,537
+"51","VA","Virginia","Middlesex County","county",51119,"February",2019,5059,5228,169
+"51","VA","Virginia","Montgomery County","county",51121,"February",2019,49809,51393,1584
+"51","VA","Virginia","Nelson County","county",51125,"February",2019,7194,7426,232
+"51","VA","Virginia","New Kent County","county",51127,"February",2019,12143,12470,327
+"51","VA","Virginia","Northampton County","county",51131,"February",2019,4923,5247,324
+"51","VA","Virginia","Northumberland County","county",51133,"February",2019,5248,5628,380
+"51","VA","Virginia","Nottoway County","county",51135,"February",2019,7035,7259,224
+"51","VA","Virginia","Orange County","county",51137,"February",2019,16623,17194,571
+"51","VA","Virginia","Page County","county",51139,"February",2019,11226,11916,690
+"51","VA","Virginia","Patrick County","county",51141,"February",2019,7153,7470,317
+"51","VA","Virginia","Pittsylvania County","county",51143,"February",2019,29237,30333,1096
+"51","VA","Virginia","Powhatan County","county",51145,"February",2019,13743,14155,412
+"51","VA","Virginia","Prince Edward County","county",51147,"February",2019,10073,10487,414
+"51","VA","Virginia","Prince George County","county",51149,"February",2019,14546,15091,545
+"51","VA","Virginia","Prince William County","county",51153,"February",2019,237970,245031,7061
+"51","VA","Virginia","Pulaski County","county",51155,"February",2019,15863,16424,561
+"51","VA","Virginia","Rappahannock County","county",51157,"February",2019,3565,3676,111
+"51","VA","Virginia","Richmond County","county",51159,"February",2019,3900,4046,146
+"51","VA","Virginia","Roanoke County","county",51161,"February",2019,48055,49431,1376
+"51","VA","Virginia","Rockbridge County","county",51163,"February",2019,10265,10618,353
+"51","VA","Virginia","Rockingham County","county",51165,"February",2019,41324,42481,1157
+"51","VA","Virginia","Russell County","county",51167,"February",2019,10718,11294,576
+"51","VA","Virginia","Scott County","county",51169,"February",2019,8818,9148,330
+"51","VA","Virginia","Shenandoah County","county",51171,"February",2019,21637,22288,651
+"51","VA","Virginia","Smyth County","county",51173,"February",2019,13093,13670,577
+"51","VA","Virginia","Southampton County","county",51175,"February",2019,8795,9050,255
+"51","VA","Virginia","Spotsylvania County","county",51177,"February",2019,64700,66909,2209
+"51","VA","Virginia","Stafford County","county",51179,"February",2019,69673,71898,2225
+"51","VA","Virginia","Surry County","county",51181,"February",2019,3547,3689,142
+"51","VA","Virginia","Sussex County","county",51183,"February",2019,3598,3793,195
+"51","VA","Virginia","Tazewell County","county",51185,"February",2019,15064,15859,795
+"51","VA","Virginia","Warren County","county",51187,"February",2019,19716,20387,671
+"51","VA","Virginia","Washington County","county",51191,"February",2019,25802,26833,1031
+"51","VA","Virginia","Westmoreland County","county",51193,"February",2019,8902,9339,437
+"51","VA","Virginia","Wise County","county",51195,"February",2019,12900,13571,671
+"51","VA","Virginia","Wythe County","county",51197,"February",2019,13195,13728,533
+"51","VA","Virginia","York County","county",51199,"February",2019,31739,32761,1022
+"51","VA","Virginia","Alexandria city","city",NA,"February",2019,98600,100938,2338
+"51","VA","Virginia","Bristol city","city",NA,"February",2019,6915,7218,303
+"51","VA","Virginia","Buena Vista city","city",NA,"February",2019,3282,3388,106
+"51","VA","Virginia","Charlottesville city","city",NA,"February",2019,25741,26425,684
+"51","VA","Virginia","Chesapeake city","city",NA,"February",2019,118577,122531,3954
+"51","VA","Virginia","Colonial Heights city","city",NA,"February",2019,8506,8827,321
+"51","VA","Virginia","Covington city","city",NA,"February",2019,2312,2418,106
+"51","VA","Virginia","Danville city","city",NA,"February",2019,18271,19302,1031
+"51","VA","Virginia","Emporia city","city",NA,"February",2019,2204,2341,137
+"51","VA","Virginia","Fairfax city","city",NA,"February",2019,13083,13412,329
+"51","VA","Virginia","Falls Church city","city",NA,"February",2019,8371,8559,188
+"51","VA","Virginia","Franklin city","city",NA,"February",2019,3416,3568,152
+"51","VA","Virginia","Fredericksburg city","city",NA,"February",2019,13602,14139,537
+"51","VA","Virginia","Galax city","city",NA,"February",2019,2819,2925,106
+"51","VA","Virginia","Hampton city","city",NA,"February",2019,61642,64448,2806
+"51","VA","Virginia","Harrisonburg city","city",NA,"February",2019,24532,25447,915
+"51","VA","Virginia","Hopewell city","city",NA,"February",2019,9251,9693,442
+"51","VA","Virginia","Lexington city","city",NA,"February",2019,1998,2106,108
+"51","VA","Virginia","Lynchburg city","city",NA,"February",2019,35217,36660,1443
+"51","VA","Virginia","Manassas city","city",NA,"February",2019,21373,22058,685
+"51","VA","Virginia","Manassas Park city","city",NA,"February",2019,9087,9368,281
+"51","VA","Virginia","Martinsville city","city",NA,"February",2019,5280,5522,242
+"51","VA","Virginia","Newport News city","city",NA,"February",2019,85338,88885,3547
+"51","VA","Virginia","Norfolk city","city",NA,"February",2019,107266,111598,4332
+"51","VA","Virginia","Norton city","city",NA,"February",2019,1637,1709,72
+"51","VA","Virginia","Petersburg city","city",NA,"February",2019,12274,13085,811
+"51","VA","Virginia","Poquoson city","city",NA,"February",2019,6189,6362,173
+"51","VA","Virginia","Portsmouth city","city",NA,"February",2019,42346,44283,1937
+"51","VA","Virginia","Radford city","city",NA,"February",2019,8536,8866,330
+"51","VA","Virginia","Richmond city","city",NA,"February",2019,114197,118480,4283
+"51","VA","Virginia","Roanoke city","city",NA,"February",2019,47612,49237,1625
+"51","VA","Virginia","Salem city","city",NA,"February",2019,12606,13007,401
+"51","VA","Virginia","Staunton city","city",NA,"February",2019,11884,12242,358
+"51","VA","Virginia","Suffolk city","city",NA,"February",2019,43062,44583,1521
+"51","VA","Virginia","Virginia Beach city","city",NA,"February",2019,225616,232646,7030
+"51","VA","Virginia","Waynesboro city","city",NA,"February",2019,10367,10712,345
+"51","VA","Virginia","Williamsburg city","city",NA,"February",2019,6400,6703,303
+"51","VA","Virginia","Winchester city","city",NA,"February",2019,14282,14766,484
+"51","VA","Virginia","Accomack County","county",NA,"March",2019,15582,16224,642
+"51","VA","Virginia","Albemarle County","county",51003,"March",2019,55701,57204,1503
+"51","VA","Virginia","Alleghany County","county",51005,"March",2019,6695,6953,258
+"51","VA","Virginia","Amelia County","county",51007,"March",2019,5973,6197,224
+"51","VA","Virginia","Amherst County","county",51009,"March",2019,14629,15126,497
+"51","VA","Virginia","Appomattox County","county",51011,"March",2019,6908,7182,274
+"51","VA","Virginia","Arlington County","county",51013,"March",2019,151611,154788,3177
+"51","VA","Virginia","Augusta County","county",51015,"March",2019,36392,37397,1005
+"51","VA","Virginia","Bath County","county",51017,"March",2019,2319,2386,67
+"51","VA","Virginia","Bedford County","county",51019,"March",2019,37595,38793,1198
+"51","VA","Virginia","Bland County","county",51021,"March",2019,2787,2870,83
+"51","VA","Virginia","Botetourt County","county",51023,"March",2019,16998,17483,485
+"51","VA","Virginia","Brunswick County","county",51025,"March",2019,5750,6075,325
+"51","VA","Virginia","Buchanan County","county",51027,"March",2019,6490,6867,377
+"51","VA","Virginia","Buckingham County","county",51029,"March",2019,6099,6398,299
+"51","VA","Virginia","Campbell County","county",51031,"March",2019,25388,26270,882
+"51","VA","Virginia","Caroline County","county",51033,"March",2019,14740,15259,519
+"51","VA","Virginia","Carroll County","county",51035,"March",2019,12705,13217,512
+"51","VA","Virginia","Charles City County","county",51036,"March",2019,3484,3629,145
+"51","VA","Virginia","Charlotte County","county",51037,"March",2019,4996,5190,194
+"51","VA","Virginia","Chesterfield County","county",51041,"March",2019,182818,188252,5434
+"51","VA","Virginia","Clarke County","county",51043,"March",2019,7264,7478,214
+"51","VA","Virginia","Craig County","county",51045,"March",2019,2225,2305,80
+"51","VA","Virginia","Culpeper County","county",51047,"March",2019,23707,24419,712
+"51","VA","Virginia","Cumberland County","county",51049,"March",2019,4481,4625,144
+"51","VA","Virginia","Dickenson County","county",51051,"March",2019,4457,4691,234
+"51","VA","Virginia","Dinwiddie County","county",51053,"March",2019,13110,13604,494
+"51","VA","Virginia","Essex County","county",51057,"March",2019,5308,5539,231
+"51","VA","Virginia","Fairfax County","county",51059,"March",2019,621003,636612,15609
+"51","VA","Virginia","Fauquier County","county",51061,"March",2019,35776,36775,999
+"51","VA","Virginia","Floyd County","county",51063,"March",2019,7896,8124,228
+"51","VA","Virginia","Fluvanna County","county",51065,"March",2019,13631,13978,347
+"51","VA","Virginia","Franklin County","county",51067,"March",2019,25522,26377,855
+"51","VA","Virginia","Frederick County","county",51069,"March",2019,46749,48058,1309
+"51","VA","Virginia","Giles County","county",51071,"March",2019,7746,8019,273
+"51","VA","Virginia","Gloucester County","county",51073,"March",2019,18987,19534,547
+"51","VA","Virginia","Goochland County","county",51075,"March",2019,10846,11183,337
+"51","VA","Virginia","Grayson County","county",51077,"March",2019,7799,8063,264
+"51","VA","Virginia","Greene County","county",51079,"March",2019,10232,10496,264
+"51","VA","Virginia","Greensville County","county",51081,"March",2019,4166,4337,171
+"51","VA","Virginia","Halifax County","county",51083,"March",2019,15116,15742,626
+"51","VA","Virginia","Hanover County","county",51085,"March",2019,57773,59305,1532
+"51","VA","Virginia","Henrico County","county",51087,"March",2019,177597,183062,5465
+"51","VA","Virginia","Henry County","county",51089,"March",2019,23133,24003,870
+"51","VA","Virginia","Highland County","county",51091,"March",2019,1110,1149,39
+"51","VA","Virginia","Isle of Wight County","county",51093,"March",2019,18782,19359,577
+"51","VA","Virginia","James City County","county",51095,"March",2019,35668,36721,1053
+"51","VA","Virginia","King and Queen County","county",51097,"March",2019,3704,3830,126
+"51","VA","Virginia","King George County","county",51099,"March",2019,12992,13375,383
+"51","VA","Virginia","King William County","county",51101,"March",2019,8852,9120,268
+"51","VA","Virginia","Lancaster County","county",51103,"March",2019,5025,5357,332
+"51","VA","Virginia","Lee County","county",51105,"March",2019,8003,8334,331
+"51","VA","Virginia","Loudoun County","county",51107,"March",2019,217294,222801,5507
+"51","VA","Virginia","Louisa County","county",51109,"March",2019,19513,20082,569
+"51","VA","Virginia","Lunenburg County","county",51111,"March",2019,5136,5309,173
+"51","VA","Virginia","Madison County","county",51113,"March",2019,7024,7215,191
+"51","VA","Virginia","Mathews County","county",51115,"March",2019,4016,4154,138
+"51","VA","Virginia","Mecklenburg County","county",51117,"March",2019,12137,12651,514
+"51","VA","Virginia","Middlesex County","county",51119,"March",2019,5002,5156,154
+"51","VA","Virginia","Montgomery County","county",51121,"March",2019,49923,51391,1468
+"51","VA","Virginia","Nelson County","county",51125,"March",2019,7115,7337,222
+"51","VA","Virginia","New Kent County","county",51127,"March",2019,12157,12480,323
+"51","VA","Virginia","Northampton County","county",51131,"March",2019,4756,5041,285
+"51","VA","Virginia","Northumberland County","county",51133,"March",2019,5196,5552,356
+"51","VA","Virginia","Nottoway County","county",51135,"March",2019,7076,7288,212
+"51","VA","Virginia","Orange County","county",51137,"March",2019,16587,17130,543
+"51","VA","Virginia","Page County","county",51139,"March",2019,11188,11784,596
+"51","VA","Virginia","Patrick County","county",51141,"March",2019,7152,7438,286
+"51","VA","Virginia","Pittsylvania County","county",51143,"March",2019,29083,30134,1051
+"51","VA","Virginia","Powhatan County","county",51145,"March",2019,13779,14153,374
+"51","VA","Virginia","Prince Edward County","county",51147,"March",2019,10012,10396,384
+"51","VA","Virginia","Prince George County","county",51149,"March",2019,14595,15133,538
+"51","VA","Virginia","Prince William County","county",51153,"March",2019,239615,246311,6696
+"51","VA","Virginia","Pulaski County","county",51155,"March",2019,15899,16464,565
+"51","VA","Virginia","Rappahannock County","county",51157,"March",2019,3513,3621,108
+"51","VA","Virginia","Richmond County","county",51159,"March",2019,3888,4024,136
+"51","VA","Virginia","Roanoke County","county",51161,"March",2019,48485,49815,1330
+"51","VA","Virginia","Rockbridge County","county",51163,"March",2019,10331,10654,323
+"51","VA","Virginia","Rockingham County","county",51165,"March",2019,40672,41791,1119
+"51","VA","Virginia","Russell County","county",51167,"March",2019,10665,11203,538
+"51","VA","Virginia","Scott County","county",51169,"March",2019,8788,9110,322
+"51","VA","Virginia","Shenandoah County","county",51171,"March",2019,21573,22202,629
+"51","VA","Virginia","Smyth County","county",51173,"March",2019,13089,13624,535
+"51","VA","Virginia","Southampton County","county",51175,"March",2019,8655,8898,243
+"51","VA","Virginia","Spotsylvania County","county",51177,"March",2019,65022,67113,2091
+"51","VA","Virginia","Stafford County","county",51179,"March",2019,70167,72278,2111
+"51","VA","Virginia","Surry County","county",51181,"March",2019,3505,3624,119
+"51","VA","Virginia","Sussex County","county",51183,"March",2019,3454,3633,179
+"51","VA","Virginia","Tazewell County","county",51185,"March",2019,15207,15939,732
+"51","VA","Virginia","Warren County","county",51187,"March",2019,19771,20407,636
+"51","VA","Virginia","Washington County","county",51191,"March",2019,25788,26752,964
+"51","VA","Virginia","Westmoreland County","county",51193,"March",2019,8818,9211,393
+"51","VA","Virginia","Wise County","county",51195,"March",2019,12998,13649,651
+"51","VA","Virginia","Wythe County","county",51197,"March",2019,13057,13563,506
+"51","VA","Virginia","York County","county",51199,"March",2019,32027,32977,950
+"51","VA","Virginia","Alexandria city","city",NA,"March",2019,99285,101593,2308
+"51","VA","Virginia","Bristol city","city",NA,"March",2019,6941,7230,289
+"51","VA","Virginia","Buena Vista city","city",NA,"March",2019,3336,3438,102
+"51","VA","Virginia","Charlottesville city","city",NA,"March",2019,25938,26598,660
+"51","VA","Virginia","Chesapeake city","city",NA,"March",2019,119611,123371,3760
+"51","VA","Virginia","Colonial Heights city","city",NA,"March",2019,8552,8850,298
+"51","VA","Virginia","Covington city","city",NA,"March",2019,2306,2419,113
+"51","VA","Virginia","Danville city","city",NA,"March",2019,18299,19332,1033
+"51","VA","Virginia","Emporia city","city",NA,"March",2019,2185,2315,130
+"51","VA","Virginia","Fairfax city","city",NA,"March",2019,13171,13497,326
+"51","VA","Virginia","Falls Church city","city",NA,"March",2019,8430,8614,184
+"51","VA","Virginia","Franklin city","city",NA,"March",2019,3434,3582,148
+"51","VA","Virginia","Fredericksburg city","city",NA,"March",2019,13715,14227,512
+"51","VA","Virginia","Galax city","city",NA,"March",2019,2825,2923,98
+"51","VA","Virginia","Hampton city","city",NA,"March",2019,62214,64835,2621
+"51","VA","Virginia","Harrisonburg city","city",NA,"March",2019,24483,25321,838
+"51","VA","Virginia","Hopewell city","city",NA,"March",2019,9301,9729,428
+"51","VA","Virginia","Lexington city","city",NA,"March",2019,2032,2127,95
+"51","VA","Virginia","Lynchburg city","city",NA,"March",2019,35401,36793,1392
+"51","VA","Virginia","Manassas city","city",NA,"March",2019,21527,22147,620
+"51","VA","Virginia","Manassas Park city","city",NA,"March",2019,9143,9397,254
+"51","VA","Virginia","Martinsville city","city",NA,"March",2019,5287,5518,231
+"51","VA","Virginia","Newport News city","city",NA,"March",2019,86194,89485,3291
+"51","VA","Virginia","Norfolk city","city",NA,"March",2019,108353,112423,4070
+"51","VA","Virginia","Norton city","city",NA,"March",2019,1640,1707,67
+"51","VA","Virginia","Petersburg city","city",NA,"March",2019,12338,13099,761
+"51","VA","Virginia","Poquoson city","city",NA,"March",2019,6187,6356,169
+"51","VA","Virginia","Portsmouth city","city",NA,"March",2019,42767,44598,1831
+"51","VA","Virginia","Radford city","city",NA,"March",2019,8577,8882,305
+"51","VA","Virginia","Richmond city","city",NA,"March",2019,114765,118866,4101
+"51","VA","Virginia","Roanoke city","city",NA,"March",2019,48067,49634,1567
+"51","VA","Virginia","Salem city","city",NA,"March",2019,12741,13119,378
+"51","VA","Virginia","Staunton city","city",NA,"March",2019,11996,12359,363
+"51","VA","Virginia","Suffolk city","city",NA,"March",2019,43415,44858,1443
+"51","VA","Virginia","Virginia Beach city","city",NA,"March",2019,227641,234394,6753
+"51","VA","Virginia","Waynesboro city","city",NA,"March",2019,10489,10839,350
+"51","VA","Virginia","Williamsburg city","city",NA,"March",2019,6463,6714,251
+"51","VA","Virginia","Winchester city","city",NA,"March",2019,14226,14671,445
+"51","VA","Virginia","Accomack County","county",NA,"April",2019,15962,16491,529
+"51","VA","Virginia","Albemarle County","county",51003,"April",2019,56782,57982,1200
+"51","VA","Virginia","Alleghany County","county",51005,"April",2019,6661,6854,193
+"51","VA","Virginia","Amelia County","county",51007,"April",2019,6055,6235,180
+"51","VA","Virginia","Amherst County","county",51009,"April",2019,14690,15086,396
+"51","VA","Virginia","Appomattox County","county",51011,"April",2019,6963,7162,199
+"51","VA","Virginia","Arlington County","county",51013,"April",2019,151709,154287,2578
+"51","VA","Virginia","Augusta County","county",51015,"April",2019,36711,37491,780
+"51","VA","Virginia","Bath County","county",51017,"April",2019,2360,2409,49
+"51","VA","Virginia","Bedford County","county",51019,"April",2019,37701,38628,927
+"51","VA","Virginia","Bland County","county",51021,"April",2019,2799,2862,63
+"51","VA","Virginia","Botetourt County","county",51023,"April",2019,17059,17432,373
+"51","VA","Virginia","Brunswick County","county",51025,"April",2019,5790,6041,251
+"51","VA","Virginia","Buchanan County","county",51027,"April",2019,6442,6744,302
+"51","VA","Virginia","Buckingham County","county",51029,"April",2019,6248,6477,229
+"51","VA","Virginia","Campbell County","county",51031,"April",2019,25438,26148,710
+"51","VA","Virginia","Caroline County","county",51033,"April",2019,14791,15211,420
+"51","VA","Virginia","Carroll County","county",51035,"April",2019,12839,13230,391
+"51","VA","Virginia","Charles City County","county",51036,"April",2019,3530,3642,112
+"51","VA","Virginia","Charlotte County","county",51037,"April",2019,5100,5255,155
+"51","VA","Virginia","Chesterfield County","county",51041,"April",2019,182994,187487,4493
+"51","VA","Virginia","Clarke County","county",51043,"April",2019,7369,7536,167
+"51","VA","Virginia","Craig County","county",51045,"April",2019,2236,2296,60
+"51","VA","Virginia","Culpeper County","county",51047,"April",2019,23893,24441,548
+"51","VA","Virginia","Cumberland County","county",51049,"April",2019,4533,4648,115
+"51","VA","Virginia","Dickenson County","county",51051,"April",2019,4463,4658,195
+"51","VA","Virginia","Dinwiddie County","county",51053,"April",2019,13206,13605,399
+"51","VA","Virginia","Essex County","county",51057,"April",2019,5324,5495,171
+"51","VA","Virginia","Fairfax County","county",51059,"April",2019,621587,634283,12696
+"51","VA","Virginia","Fauquier County","county",51061,"April",2019,36193,36970,777
+"51","VA","Virginia","Floyd County","county",51063,"April",2019,8100,8271,171
+"51","VA","Virginia","Fluvanna County","county",51065,"April",2019,13852,14133,281
+"51","VA","Virginia","Franklin County","county",51067,"April",2019,25696,26369,673
+"51","VA","Virginia","Frederick County","county",51069,"April",2019,46888,47918,1030
+"51","VA","Virginia","Giles County","county",51071,"April",2019,7828,8042,214
+"51","VA","Virginia","Gloucester County","county",51073,"April",2019,19086,19529,443
+"51","VA","Virginia","Goochland County","county",51075,"April",2019,10905,11176,271
+"51","VA","Virginia","Grayson County","county",51077,"April",2019,7890,8082,192
+"51","VA","Virginia","Greene County","county",51079,"April",2019,10425,10635,210
+"51","VA","Virginia","Greensville County","county",51081,"April",2019,4152,4285,133
+"51","VA","Virginia","Halifax County","county",51083,"April",2019,15297,15830,533
+"51","VA","Virginia","Hanover County","county",51085,"April",2019,57946,59199,1253
+"51","VA","Virginia","Henrico County","county",51087,"April",2019,177650,182106,4456
+"51","VA","Virginia","Henry County","county",51089,"April",2019,23222,23925,703
+"51","VA","Virginia","Highland County","county",51091,"April",2019,1177,1206,29
+"51","VA","Virginia","Isle of Wight County","county",51093,"April",2019,18894,19388,494
+"51","VA","Virginia","James City County","county",51095,"April",2019,35713,36555,842
+"51","VA","Virginia","King and Queen County","county",51097,"April",2019,3758,3855,97
+"51","VA","Virginia","King George County","county",51099,"April",2019,12961,13271,310
+"51","VA","Virginia","King William County","county",51101,"April",2019,8903,9109,206
+"51","VA","Virginia","Lancaster County","county",51103,"April",2019,5179,5431,252
+"51","VA","Virginia","Lee County","county",51105,"April",2019,8036,8292,256
+"51","VA","Virginia","Loudoun County","county",51107,"April",2019,217737,222259,4522
+"51","VA","Virginia","Louisa County","county",51109,"April",2019,19539,19994,455
+"51","VA","Virginia","Lunenburg County","county",51111,"April",2019,5205,5359,154
+"51","VA","Virginia","Madison County","county",51113,"April",2019,7172,7320,148
+"51","VA","Virginia","Mathews County","county",51115,"April",2019,4026,4134,108
+"51","VA","Virginia","Mecklenburg County","county",51117,"April",2019,12182,12612,430
+"51","VA","Virginia","Middlesex County","county",51119,"April",2019,5113,5230,117
+"51","VA","Virginia","Montgomery County","county",51121,"April",2019,50187,51350,1163
+"51","VA","Virginia","Nelson County","county",51125,"April",2019,7313,7498,185
+"51","VA","Virginia","New Kent County","county",51127,"April",2019,12201,12459,258
+"51","VA","Virginia","Northampton County","county",51131,"April",2019,5063,5302,239
+"51","VA","Virginia","Northumberland County","county",51133,"April",2019,5374,5640,266
+"51","VA","Virginia","Nottoway County","county",51135,"April",2019,7101,7278,177
+"51","VA","Virginia","Orange County","county",51137,"April",2019,16806,17254,448
+"51","VA","Virginia","Page County","county",51139,"April",2019,11559,11959,400
+"51","VA","Virginia","Patrick County","county",51141,"April",2019,7205,7433,228
+"51","VA","Virginia","Pittsylvania County","county",51143,"April",2019,29164,30070,906
+"51","VA","Virginia","Powhatan County","county",51145,"April",2019,13811,14107,296
+"51","VA","Virginia","Prince Edward County","county",51147,"April",2019,10184,10480,296
+"51","VA","Virginia","Prince George County","county",51149,"April",2019,14625,15065,440
+"51","VA","Virginia","Prince William County","county",51153,"April",2019,239832,245221,5389
+"51","VA","Virginia","Pulaski County","county",51155,"April",2019,15981,16424,443
+"51","VA","Virginia","Rappahannock County","county",51157,"April",2019,3570,3654,84
+"51","VA","Virginia","Richmond County","county",51159,"April",2019,3949,4057,108
+"51","VA","Virginia","Roanoke County","county",51161,"April",2019,48466,49534,1068
+"51","VA","Virginia","Rockbridge County","county",51163,"April",2019,10495,10738,243
+"51","VA","Virginia","Rockingham County","county",51165,"April",2019,41139,42021,882
+"51","VA","Virginia","Russell County","county",51167,"April",2019,10768,11156,388
+"51","VA","Virginia","Scott County","county",51169,"April",2019,8876,9135,259
+"51","VA","Virginia","Shenandoah County","county",51171,"April",2019,21662,22143,481
+"51","VA","Virginia","Smyth County","county",51173,"April",2019,13259,13677,418
+"51","VA","Virginia","Southampton County","county",51175,"April",2019,8842,9044,202
+"51","VA","Virginia","Spotsylvania County","county",51177,"April",2019,65174,66864,1690
+"51","VA","Virginia","Stafford County","county",51179,"April",2019,70232,71955,1723
+"51","VA","Virginia","Surry County","county",51181,"April",2019,3514,3615,101
+"51","VA","Virginia","Sussex County","county",51183,"April",2019,3584,3738,154
+"51","VA","Virginia","Tazewell County","county",51185,"April",2019,15396,15981,585
+"51","VA","Virginia","Warren County","county",51187,"April",2019,19846,20362,516
+"51","VA","Virginia","Washington County","county",51191,"April",2019,25990,26741,751
+"51","VA","Virginia","Westmoreland County","county",51193,"April",2019,9113,9412,299
+"51","VA","Virginia","Wise County","county",51195,"April",2019,12806,13341,535
+"51","VA","Virginia","Wythe County","county",51197,"April",2019,13276,13672,396
+"51","VA","Virginia","York County","county",51199,"April",2019,32019,32763,744
+"51","VA","Virginia","Alexandria city","city",NA,"April",2019,99365,101273,1908
+"51","VA","Virginia","Bristol city","city",NA,"April",2019,6968,7197,229
+"51","VA","Virginia","Buena Vista city","city",NA,"April",2019,3332,3407,75
+"51","VA","Virginia","Charlottesville city","city",NA,"April",2019,26342,26866,524
+"51","VA","Virginia","Chesapeake city","city",NA,"April",2019,119624,122732,3108
+"51","VA","Virginia","Colonial Heights city","city",NA,"April",2019,8554,8797,243
+"51","VA","Virginia","Covington city","city",NA,"April",2019,2287,2367,80
+"51","VA","Virginia","Danville city","city",NA,"April",2019,18178,19129,951
+"51","VA","Virginia","Emporia city","city",NA,"April",2019,2183,2297,114
+"51","VA","Virginia","Fairfax city","city",NA,"April",2019,13180,13443,263
+"51","VA","Virginia","Falls Church city","city",NA,"April",2019,8435,8586,151
+"51","VA","Virginia","Franklin city","city",NA,"April",2019,3444,3566,122
+"51","VA","Virginia","Fredericksburg city","city",NA,"April",2019,13714,14123,409
+"51","VA","Virginia","Galax city","city",NA,"April",2019,2843,2924,81
+"51","VA","Virginia","Hampton city","city",NA,"April",2019,62193,64340,2147
+"51","VA","Virginia","Harrisonburg city","city",NA,"April",2019,24492,25156,664
+"51","VA","Virginia","Hopewell city","city",NA,"April",2019,9306,9662,356
+"51","VA","Virginia","Lexington city","city",NA,"April",2019,2023,2100,77
+"51","VA","Virginia","Lynchburg city","city",NA,"April",2019,35413,36495,1082
+"51","VA","Virginia","Manassas city","city",NA,"April",2019,21539,22020,481
+"51","VA","Virginia","Manassas Park city","city",NA,"April",2019,9154,9360,206
+"51","VA","Virginia","Martinsville city","city",NA,"April",2019,5281,5474,193
+"51","VA","Virginia","Newport News city","city",NA,"April",2019,86119,88840,2721
+"51","VA","Virginia","Norfolk city","city",NA,"April",2019,108251,111681,3430
+"51","VA","Virginia","Norton city","city",NA,"April",2019,1616,1663,47
+"51","VA","Virginia","Petersburg city","city",NA,"April",2019,12346,12988,642
+"51","VA","Virginia","Poquoson city","city",NA,"April",2019,6231,6367,136
+"51","VA","Virginia","Portsmouth city","city",NA,"April",2019,42730,44271,1541
+"51","VA","Virginia","Radford city","city",NA,"April",2019,8609,8850,241
+"51","VA","Virginia","Richmond city","city",NA,"April",2019,114840,118232,3392
+"51","VA","Virginia","Roanoke city","city",NA,"April",2019,48027,49324,1297
+"51","VA","Virginia","Salem city","city",NA,"April",2019,12721,13027,306
+"51","VA","Virginia","Staunton city","city",NA,"April",2019,12006,12288,282
+"51","VA","Virginia","Suffolk city","city",NA,"April",2019,43441,44621,1180
+"51","VA","Virginia","Virginia Beach city","city",NA,"April",2019,227587,233140,5553
+"51","VA","Virginia","Waynesboro city","city",NA,"April",2019,10479,10750,271
+"51","VA","Virginia","Williamsburg city","city",NA,"April",2019,6457,6663,206
+"51","VA","Virginia","Winchester city","city",NA,"April",2019,14328,14693,365
+"51","VA","Virginia","Accomack County","county",NA,"May",2019,16079,16601,522
+"51","VA","Virginia","Albemarle County","county",51003,"May",2019,56554,58002,1448
+"51","VA","Virginia","Alleghany County","county",51005,"May",2019,6708,6918,210
+"51","VA","Virginia","Amelia County","county",51007,"May",2019,6077,6265,188
+"51","VA","Virginia","Amherst County","county",51009,"May",2019,14586,15054,468
+"51","VA","Virginia","Appomattox County","county",51011,"May",2019,6917,7151,234
+"51","VA","Virginia","Arlington County","county",51013,"May",2019,152528,155416,2888
+"51","VA","Virginia","Augusta County","county",51015,"May",2019,36678,37583,905
+"51","VA","Virginia","Bath County","county",51017,"May",2019,2425,2481,56
+"51","VA","Virginia","Bedford County","county",51019,"May",2019,37484,38544,1060
+"51","VA","Virginia","Bland County","county",51021,"May",2019,2804,2871,67
+"51","VA","Virginia","Botetourt County","county",51023,"May",2019,17049,17462,413
+"51","VA","Virginia","Brunswick County","county",51025,"May",2019,5766,6029,263
+"51","VA","Virginia","Buchanan County","county",51027,"May",2019,6443,6755,312
+"51","VA","Virginia","Buckingham County","county",51029,"May",2019,6225,6482,257
+"51","VA","Virginia","Campbell County","county",51031,"May",2019,25264,26061,797
+"51","VA","Virginia","Caroline County","county",51033,"May",2019,14823,15281,458
+"51","VA","Virginia","Carroll County","county",51035,"May",2019,13031,13438,407
+"51","VA","Virginia","Charles City County","county",51036,"May",2019,3536,3657,121
+"51","VA","Virginia","Charlotte County","county",51037,"May",2019,5074,5248,174
+"51","VA","Virginia","Chesterfield County","county",51041,"May",2019,183290,188282,4992
+"51","VA","Virginia","Clarke County","county",51043,"May",2019,7426,7605,179
+"51","VA","Virginia","Craig County","county",51045,"May",2019,2240,2314,74
+"51","VA","Virginia","Culpeper County","county",51047,"May",2019,24092,24708,616
+"51","VA","Virginia","Cumberland County","county",51049,"May",2019,4527,4654,127
+"51","VA","Virginia","Dickenson County","county",51051,"May",2019,4533,4745,212
+"51","VA","Virginia","Dinwiddie County","county",51053,"May",2019,13260,13692,432
+"51","VA","Virginia","Essex County","county",51057,"May",2019,5348,5524,176
+"51","VA","Virginia","Fairfax County","county",51059,"May",2019,625467,639829,14362
+"51","VA","Virginia","Fauquier County","county",51061,"May",2019,36441,37340,899
+"51","VA","Virginia","Floyd County","county",51063,"May",2019,8010,8206,196
+"51","VA","Virginia","Fluvanna County","county",51065,"May",2019,13792,14112,320
+"51","VA","Virginia","Franklin County","county",51067,"May",2019,25719,26472,753
+"51","VA","Virginia","Frederick County","county",51069,"May",2019,46999,48140,1141
+"51","VA","Virginia","Giles County","county",51071,"May",2019,7712,7951,239
+"51","VA","Virginia","Gloucester County","county",51073,"May",2019,19173,19668,495
+"51","VA","Virginia","Goochland County","county",51075,"May",2019,10955,11257,302
+"51","VA","Virginia","Grayson County","county",51077,"May",2019,8021,8227,206
+"51","VA","Virginia","Greene County","county",51079,"May",2019,10390,10629,239
+"51","VA","Virginia","Greensville County","county",51081,"May",2019,4136,4270,134
+"51","VA","Virginia","Halifax County","county",51083,"May",2019,15192,15771,579
+"51","VA","Virginia","Hanover County","county",51085,"May",2019,58048,59460,1412
+"51","VA","Virginia","Henrico County","county",51087,"May",2019,177878,182735,4857
+"51","VA","Virginia","Henry County","county",51089,"May",2019,23069,23818,749
+"51","VA","Virginia","Highland County","county",51091,"May",2019,1188,1217,29
+"51","VA","Virginia","Isle of Wight County","county",51093,"May",2019,18989,19539,550
+"51","VA","Virginia","James City County","county",51095,"May",2019,35876,36822,946
+"51","VA","Virginia","King and Queen County","county",51097,"May",2019,3766,3872,106
+"51","VA","Virginia","King George County","county",51099,"May",2019,13074,13413,339
+"51","VA","Virginia","King William County","county",51101,"May",2019,8944,9169,225
+"51","VA","Virginia","Lancaster County","county",51103,"May",2019,5251,5438,187
+"51","VA","Virginia","Lee County","county",51105,"May",2019,8024,8308,284
+"51","VA","Virginia","Loudoun County","county",51107,"May",2019,218858,223937,5079
+"51","VA","Virginia","Louisa County","county",51109,"May",2019,19433,19942,509
+"51","VA","Virginia","Lunenburg County","county",51111,"May",2019,5170,5338,168
+"51","VA","Virginia","Madison County","county",51113,"May",2019,7288,7448,160
+"51","VA","Virginia","Mathews County","county",51115,"May",2019,4047,4161,114
+"51","VA","Virginia","Mecklenburg County","county",51117,"May",2019,12169,12656,487
+"51","VA","Virginia","Middlesex County","county",51119,"May",2019,5145,5273,128
+"51","VA","Virginia","Montgomery County","county",51121,"May",2019,49315,50735,1420
+"51","VA","Virginia","Nelson County","county",51125,"May",2019,7322,7533,211
+"51","VA","Virginia","New Kent County","county",51127,"May",2019,12232,12530,298
+"51","VA","Virginia","Northampton County","county",51131,"May",2019,5174,5390,216
+"51","VA","Virginia","Northumberland County","county",51133,"May",2019,5458,5658,200
+"51","VA","Virginia","Nottoway County","county",51135,"May",2019,7090,7288,198
+"51","VA","Virginia","Orange County","county",51137,"May",2019,16871,17374,503
+"51","VA","Virginia","Page County","county",51139,"May",2019,11694,12090,396
+"51","VA","Virginia","Patrick County","county",51141,"May",2019,7207,7458,251
+"51","VA","Virginia","Pittsylvania County","county",51143,"May",2019,29180,30158,978
+"51","VA","Virginia","Powhatan County","county",51145,"May",2019,13855,14186,331
+"51","VA","Virginia","Prince Edward County","county",51147,"May",2019,10168,10573,405
+"51","VA","Virginia","Prince George County","county",51149,"May",2019,14641,15119,478
+"51","VA","Virginia","Prince William County","county",51153,"May",2019,241065,247123,6058
+"51","VA","Virginia","Pulaski County","county",51155,"May",2019,15721,16208,487
+"51","VA","Virginia","Rappahannock County","county",51157,"May",2019,3615,3702,87
+"51","VA","Virginia","Richmond County","county",51159,"May",2019,3986,4091,105
+"51","VA","Virginia","Roanoke County","county",51161,"May",2019,48434,49649,1215
+"51","VA","Virginia","Rockbridge County","county",51163,"May",2019,10605,10885,280
+"51","VA","Virginia","Rockingham County","county",51165,"May",2019,40187,41210,1023
+"51","VA","Virginia","Russell County","county",51167,"May",2019,10744,11153,409
+"51","VA","Virginia","Scott County","county",51169,"May",2019,8883,9166,283
+"51","VA","Virginia","Shenandoah County","county",51171,"May",2019,21701,22248,547
+"51","VA","Virginia","Smyth County","county",51173,"May",2019,13263,13721,458
+"51","VA","Virginia","Southampton County","county",51175,"May",2019,8839,9059,220
+"51","VA","Virginia","Spotsylvania County","county",51177,"May",2019,65534,67401,1867
+"51","VA","Virginia","Stafford County","county",51179,"May",2019,70538,72476,1938
+"51","VA","Virginia","Surry County","county",51181,"May",2019,3507,3625,118
+"51","VA","Virginia","Sussex County","county",51183,"May",2019,3595,3755,160
+"51","VA","Virginia","Tazewell County","county",51185,"May",2019,15282,15888,606
+"51","VA","Virginia","Warren County","county",51187,"May",2019,19986,20528,542
+"51","VA","Virginia","Washington County","county",51191,"May",2019,26002,26819,817
+"51","VA","Virginia","Westmoreland County","county",51193,"May",2019,9253,9548,295
+"51","VA","Virginia","Wise County","county",51195,"May",2019,12785,13343,558
+"51","VA","Virginia","Wythe County","county",51197,"May",2019,13261,13684,423
+"51","VA","Virginia","York County","county",51199,"May",2019,32125,32977,852
+"51","VA","Virginia","Alexandria city","city",NA,"May",2019,99914,101979,2065
+"51","VA","Virginia","Bristol city","city",NA,"May",2019,6987,7242,255
+"51","VA","Virginia","Buena Vista city","city",NA,"May",2019,3233,3320,87
+"51","VA","Virginia","Charlottesville city","city",NA,"May",2019,26182,26850,668
+"51","VA","Virginia","Chesapeake city","city",NA,"May",2019,119974,123427,3453
+"51","VA","Virginia","Colonial Heights city","city",NA,"May",2019,8569,8840,271
+"51","VA","Virginia","Covington city","city",NA,"May",2019,2313,2400,87
+"51","VA","Virginia","Danville city","city",NA,"May",2019,18152,19119,967
+"51","VA","Virginia","Emporia city","city",NA,"May",2019,2177,2278,101
+"51","VA","Virginia","Fairfax city","city",NA,"May",2019,13267,13555,288
+"51","VA","Virginia","Falls Church city","city",NA,"May",2019,8489,8664,175
+"51","VA","Virginia","Franklin city","city",NA,"May",2019,3456,3589,133
+"51","VA","Virginia","Fredericksburg city","city",NA,"May",2019,13777,14239,462
+"51","VA","Virginia","Galax city","city",NA,"May",2019,2875,2963,88
+"51","VA","Virginia","Hampton city","city",NA,"May",2019,62373,64685,2312
+"51","VA","Virginia","Harrisonburg city","city",NA,"May",2019,23855,24704,849
+"51","VA","Virginia","Hopewell city","city",NA,"May",2019,9311,9684,373
+"51","VA","Virginia","Lexington city","city",NA,"May",2019,2013,2108,95
+"51","VA","Virginia","Lynchburg city","city",NA,"May",2019,35125,36477,1352
+"51","VA","Virginia","Manassas city","city",NA,"May",2019,21662,22180,518
+"51","VA","Virginia","Manassas Park city","city",NA,"May",2019,9216,9440,224
+"51","VA","Virginia","Martinsville city","city",NA,"May",2019,5251,5465,214
+"51","VA","Virginia","Newport News city","city",NA,"May",2019,86350,89270,2920
+"51","VA","Virginia","Norfolk city","city",NA,"May",2019,108542,112289,3747
+"51","VA","Virginia","Norton city","city",NA,"May",2019,1617,1673,56
+"51","VA","Virginia","Petersburg city","city",NA,"May",2019,12358,13061,703
+"51","VA","Virginia","Poquoson city","city",NA,"May",2019,6259,6404,145
+"51","VA","Virginia","Portsmouth city","city",NA,"May",2019,42858,44503,1645
+"51","VA","Virginia","Radford city","city",NA,"May",2019,8444,8759,315
+"51","VA","Virginia","Richmond city","city",NA,"May",2019,115059,118823,3764
+"51","VA","Virginia","Roanoke city","city",NA,"May",2019,47994,49388,1394
+"51","VA","Virginia","Salem city","city",NA,"May",2019,12700,13045,345
+"51","VA","Virginia","Staunton city","city",NA,"May",2019,11982,12302,320
+"51","VA","Virginia","Suffolk city","city",NA,"May",2019,43554,44879,1325
+"51","VA","Virginia","Virginia Beach city","city",NA,"May",2019,228415,234504,6089
+"51","VA","Virginia","Waynesboro city","city",NA,"May",2019,10454,10749,295
+"51","VA","Virginia","Williamsburg city","city",NA,"May",2019,6482,6740,258
+"51","VA","Virginia","Winchester city","city",NA,"May",2019,14367,14762,395
+"51","VA","Virginia","Accomack County","county",NA,"June",2019,16743,17300,557
+"51","VA","Virginia","Albemarle County","county",51003,"June",2019,56462,58064,1602
+"51","VA","Virginia","Alleghany County","county",51005,"June",2019,6702,6935,233
+"51","VA","Virginia","Amelia County","county",51007,"June",2019,6199,6408,209
+"51","VA","Virginia","Amherst County","county",51009,"June",2019,14596,15142,546
+"51","VA","Virginia","Appomattox County","county",51011,"June",2019,6955,7229,274
+"51","VA","Virginia","Arlington County","county",51013,"June",2019,153475,156605,3130
+"51","VA","Virginia","Augusta County","county",51015,"June",2019,36954,37937,983
+"51","VA","Virginia","Bath County","county",51017,"June",2019,2581,2641,60
+"51","VA","Virginia","Bedford County","county",51019,"June",2019,37483,38661,1178
+"51","VA","Virginia","Bland County","county",51021,"June",2019,2767,2851,84
+"51","VA","Virginia","Botetourt County","county",51023,"June",2019,16994,17456,462
+"51","VA","Virginia","Brunswick County","county",51025,"June",2019,5883,6172,289
+"51","VA","Virginia","Buchanan County","county",51027,"June",2019,6468,6804,336
+"51","VA","Virginia","Buckingham County","county",51029,"June",2019,6254,6534,280
+"51","VA","Virginia","Campbell County","county",51031,"June",2019,25220,26090,870
+"51","VA","Virginia","Caroline County","county",51033,"June",2019,14923,15439,516
+"51","VA","Virginia","Carroll County","county",51035,"June",2019,13122,13577,455
+"51","VA","Virginia","Charles City County","county",51036,"June",2019,3600,3736,136
+"51","VA","Virginia","Charlotte County","county",51037,"June",2019,5184,5391,207
+"51","VA","Virginia","Chesterfield County","county",51041,"June",2019,183892,189383,5491
+"51","VA","Virginia","Clarke County","county",51043,"June",2019,7606,7808,202
+"51","VA","Virginia","Craig County","county",51045,"June",2019,2238,2318,80
+"51","VA","Virginia","Culpeper County","county",51047,"June",2019,24494,25174,680
+"51","VA","Virginia","Cumberland County","county",51049,"June",2019,4562,4709,147
+"51","VA","Virginia","Dickenson County","county",51051,"June",2019,4547,4789,242
+"51","VA","Virginia","Dinwiddie County","county",51053,"June",2019,13426,13919,493
+"51","VA","Virginia","Essex County","county",51057,"June",2019,5404,5587,183
+"51","VA","Virginia","Fairfax County","county",51059,"June",2019,629898,645532,15634
+"51","VA","Virginia","Fauquier County","county",51061,"June",2019,37177,38163,986
+"51","VA","Virginia","Floyd County","county",51063,"June",2019,7963,8182,219
+"51","VA","Virginia","Fluvanna County","county",51065,"June",2019,13709,14061,352
+"51","VA","Virginia","Franklin County","county",51067,"June",2019,25771,26579,808
+"51","VA","Virginia","Frederick County","county",51069,"June",2019,47289,48540,1251
+"51","VA","Virginia","Giles County","county",51071,"June",2019,7494,7760,266
+"51","VA","Virginia","Gloucester County","county",51073,"June",2019,19418,19951,533
+"51","VA","Virginia","Goochland County","county",51075,"June",2019,11069,11403,334
+"51","VA","Virginia","Grayson County","county",51077,"June",2019,8035,8258,223
+"51","VA","Virginia","Greene County","county",51079,"June",2019,10373,10636,263
+"51","VA","Virginia","Greensville County","county",51081,"June",2019,4150,4290,140
+"51","VA","Virginia","Halifax County","county",51083,"June",2019,15232,15892,660
+"51","VA","Virginia","Hanover County","county",51085,"June",2019,58387,59918,1531
+"51","VA","Virginia","Henrico County","county",51087,"June",2019,178284,183667,5383
+"51","VA","Virginia","Henry County","county",51089,"June",2019,23005,23855,850
+"51","VA","Virginia","Highland County","county",51091,"June",2019,1340,1370,30
+"51","VA","Virginia","Isle of Wight County","county",51093,"June",2019,19256,19848,592
+"51","VA","Virginia","James City County","county",51095,"June",2019,36166,37219,1053
+"51","VA","Virginia","King and Queen County","county",51097,"June",2019,3806,3917,111
+"51","VA","Virginia","King George County","county",51099,"June",2019,13237,13597,360
+"51","VA","Virginia","King William County","county",51101,"June",2019,9041,9290,249
+"51","VA","Virginia","Lancaster County","county",51103,"June",2019,5355,5545,190
+"51","VA","Virginia","Lee County","county",51105,"June",2019,8036,8355,319
+"51","VA","Virginia","Loudoun County","county",51107,"June",2019,220546,226050,5504
+"51","VA","Virginia","Louisa County","county",51109,"June",2019,19582,20129,547
+"51","VA","Virginia","Lunenburg County","county",51111,"June",2019,5202,5381,179
+"51","VA","Virginia","Madison County","county",51113,"June",2019,7424,7604,180
+"51","VA","Virginia","Mathews County","county",51115,"June",2019,4090,4213,123
+"51","VA","Virginia","Mecklenburg County","county",51117,"June",2019,12311,12864,553
+"51","VA","Virginia","Middlesex County","county",51119,"June",2019,5349,5492,143
+"51","VA","Virginia","Montgomery County","county",51121,"June",2019,47442,49029,1587
+"51","VA","Virginia","Nelson County","county",51125,"June",2019,7416,7659,243
+"51","VA","Virginia","New Kent County","county",51127,"June",2019,12320,12650,330
+"51","VA","Virginia","Northampton County","county",51131,"June",2019,5633,5859,226
+"51","VA","Virginia","Northumberland County","county",51133,"June",2019,5692,5895,203
+"51","VA","Virginia","Nottoway County","county",51135,"June",2019,7102,7315,213
+"51","VA","Virginia","Orange County","county",51137,"June",2019,17242,17811,569
+"51","VA","Virginia","Page County","county",51139,"June",2019,11956,12362,406
+"51","VA","Virginia","Patrick County","county",51141,"June",2019,7291,7554,263
+"51","VA","Virginia","Pittsylvania County","county",51143,"June",2019,29349,30465,1116
+"51","VA","Virginia","Powhatan County","county",51145,"June",2019,13937,14306,369
+"51","VA","Virginia","Prince Edward County","county",51147,"June",2019,10184,10656,472
+"51","VA","Virginia","Prince George County","county",51149,"June",2019,14705,15250,545
+"51","VA","Virginia","Prince William County","county",51153,"June",2019,242598,249170,6572
+"51","VA","Virginia","Pulaski County","county",51155,"June",2019,15139,15671,532
+"51","VA","Virginia","Rappahannock County","county",51157,"June",2019,3721,3817,96
+"51","VA","Virginia","Richmond County","county",51159,"June",2019,4042,4162,120
+"51","VA","Virginia","Roanoke County","county",51161,"June",2019,48042,49393,1351
+"51","VA","Virginia","Rockbridge County","county",51163,"June",2019,10510,10824,314
+"51","VA","Virginia","Rockingham County","county",51165,"June",2019,40652,41775,1123
+"51","VA","Virginia","Russell County","county",51167,"June",2019,10894,11357,463
+"51","VA","Virginia","Scott County","county",51169,"June",2019,8842,9142,300
+"51","VA","Virginia","Shenandoah County","county",51171,"June",2019,22000,22595,595
+"51","VA","Virginia","Smyth County","county",51173,"June",2019,13373,13878,505
+"51","VA","Virginia","Southampton County","county",51175,"June",2019,9039,9285,246
+"51","VA","Virginia","Spotsylvania County","county",51177,"June",2019,66079,68190,2111
+"51","VA","Virginia","Stafford County","county",51179,"June",2019,70952,73042,2090
+"51","VA","Virginia","Surry County","county",51181,"June",2019,3572,3712,140
+"51","VA","Virginia","Sussex County","county",51183,"June",2019,3765,3945,180
+"51","VA","Virginia","Tazewell County","county",51185,"June",2019,15351,16027,676
+"51","VA","Virginia","Warren County","county",51187,"June",2019,20205,20804,599
+"51","VA","Virginia","Washington County","county",51191,"June",2019,25805,26738,933
+"51","VA","Virginia","Westmoreland County","county",51193,"June",2019,9494,9807,313
+"51","VA","Virginia","Wise County","county",51195,"June",2019,12750,13387,637
+"51","VA","Virginia","Wythe County","county",51197,"June",2019,13340,13816,476
+"51","VA","Virginia","York County","county",51199,"June",2019,32302,33220,918
+"51","VA","Virginia","Alexandria city","city",NA,"June",2019,100561,102791,2230
+"51","VA","Virginia","Bristol city","city",NA,"June",2019,6914,7206,292
+"51","VA","Virginia","Buena Vista city","city",NA,"June",2019,3179,3285,106
+"51","VA","Virginia","Charlottesville city","city",NA,"June",2019,25964,26690,726
+"51","VA","Virginia","Chesapeake city","city",NA,"June",2019,120662,124381,3719
+"51","VA","Virginia","Colonial Heights city","city",NA,"June",2019,8594,8896,302
+"51","VA","Virginia","Covington city","city",NA,"June",2019,2287,2393,106
+"51","VA","Virginia","Danville city","city",NA,"June",2019,18076,19144,1068
+"51","VA","Virginia","Emporia city","city",NA,"June",2019,2196,2310,114
+"51","VA","Virginia","Fairfax city","city",NA,"June",2019,13361,13660,299
+"51","VA","Virginia","Falls Church city","city",NA,"June",2019,8546,8738,192
+"51","VA","Virginia","Franklin city","city",NA,"June",2019,3461,3613,152
+"51","VA","Virginia","Fredericksburg city","city",NA,"June",2019,13845,14358,513
+"51","VA","Virginia","Galax city","city",NA,"June",2019,2886,2993,107
+"51","VA","Virginia","Hampton city","city",NA,"June",2019,62696,65227,2531
+"51","VA","Virginia","Harrisonburg city","city",NA,"June",2019,23772,24708,936
+"51","VA","Virginia","Hopewell city","city",NA,"June",2019,9328,9760,432
+"51","VA","Virginia","Lexington city","city",NA,"June",2019,1949,2060,111
+"51","VA","Virginia","Lynchburg city","city",NA,"June",2019,34963,36535,1572
+"51","VA","Virginia","Manassas city","city",NA,"June",2019,21798,22370,572
+"51","VA","Virginia","Manassas Park city","city",NA,"June",2019,9289,9535,246
+"51","VA","Virginia","Martinsville city","city",NA,"June",2019,5249,5501,252
+"51","VA","Virginia","Newport News city","city",NA,"June",2019,86729,89936,3207
+"51","VA","Virginia","Norfolk city","city",NA,"June",2019,109010,113114,4104
+"51","VA","Virginia","Norton city","city",NA,"June",2019,1621,1685,64
+"51","VA","Virginia","Petersburg city","city",NA,"June",2019,12390,13153,763
+"51","VA","Virginia","Poquoson city","city",NA,"June",2019,6349,6511,162
+"51","VA","Virginia","Portsmouth city","city",NA,"June",2019,43054,44826,1772
+"51","VA","Virginia","Radford city","city",NA,"June",2019,8089,8439,350
+"51","VA","Virginia","Richmond city","city",NA,"June",2019,115416,119520,4104
+"51","VA","Virginia","Roanoke city","city",NA,"June",2019,47580,49277,1697
+"51","VA","Virginia","Salem city","city",NA,"June",2019,12570,12952,382
+"51","VA","Virginia","Staunton city","city",NA,"June",2019,11947,12299,352
+"51","VA","Virginia","Suffolk city","city",NA,"June",2019,43819,45257,1438
+"51","VA","Virginia","Virginia Beach city","city",NA,"June",2019,229727,236312,6585
+"51","VA","Virginia","Waynesboro city","city",NA,"June",2019,10398,10714,316
+"51","VA","Virginia","Williamsburg city","city",NA,"June",2019,6513,6805,292
+"51","VA","Virginia","Winchester city","city",NA,"June",2019,14531,14966,435
+"51","VA","Virginia","Accomack County","county",NA,"July",2019,16711,17272,561
+"51","VA","Virginia","Albemarle County","county",51003,"July",2019,56162,57765,1603
+"51","VA","Virginia","Alleghany County","county",51005,"July",2019,6553,6798,245
+"51","VA","Virginia","Amelia County","county",51007,"July",2019,6215,6432,217
+"51","VA","Virginia","Amherst County","county",51009,"July",2019,14642,15201,559
+"51","VA","Virginia","Appomattox County","county",51011,"July",2019,6964,7233,269
+"51","VA","Virginia","Arlington County","county",51013,"July",2019,155069,158146,3077
+"51","VA","Virginia","Augusta County","county",51015,"July",2019,36970,37924,954
+"51","VA","Virginia","Bath County","county",51017,"July",2019,2553,2611,58
+"51","VA","Virginia","Bedford County","county",51019,"July",2019,37587,38758,1171
+"51","VA","Virginia","Bland County","county",51021,"July",2019,2745,2832,87
+"51","VA","Virginia","Botetourt County","county",51023,"July",2019,17159,17613,454
+"51","VA","Virginia","Brunswick County","county",51025,"July",2019,5833,6120,287
+"51","VA","Virginia","Buchanan County","county",51027,"July",2019,6327,6780,453
+"51","VA","Virginia","Buckingham County","county",51029,"July",2019,6208,6493,285
+"51","VA","Virginia","Campbell County","county",51031,"July",2019,25314,26208,894
+"51","VA","Virginia","Caroline County","county",51033,"July",2019,15041,15569,528
+"51","VA","Virginia","Carroll County","county",51035,"July",2019,12838,13291,453
+"51","VA","Virginia","Charles City County","county",51036,"July",2019,3616,3745,129
+"51","VA","Virginia","Charlotte County","county",51037,"July",2019,5112,5323,211
+"51","VA","Virginia","Chesterfield County","county",51041,"July",2019,185623,191298,5675
+"51","VA","Virginia","Clarke County","county",51043,"July",2019,7627,7825,198
+"51","VA","Virginia","Craig County","county",51045,"July",2019,2255,2337,82
+"51","VA","Virginia","Culpeper County","county",51047,"July",2019,24616,25291,675
+"51","VA","Virginia","Cumberland County","county",51049,"July",2019,4569,4722,153
+"51","VA","Virginia","Dickenson County","county",51051,"July",2019,4464,4714,250
+"51","VA","Virginia","Dinwiddie County","county",51053,"July",2019,13492,13969,477
+"51","VA","Virginia","Essex County","county",51057,"July",2019,5383,5571,188
+"51","VA","Virginia","Fairfax County","county",51059,"July",2019,635931,651558,15627
+"51","VA","Virginia","Fauquier County","county",51061,"July",2019,37351,38329,978
+"51","VA","Virginia","Floyd County","county",51063,"July",2019,7940,8148,208
+"51","VA","Virginia","Fluvanna County","county",51065,"July",2019,13654,14007,353
+"51","VA","Virginia","Franklin County","county",51067,"July",2019,25954,26755,801
+"51","VA","Virginia","Frederick County","county",51069,"July",2019,47730,48980,1250
+"51","VA","Virginia","Giles County","county",51071,"July",2019,7532,7783,251
+"51","VA","Virginia","Gloucester County","county",51073,"July",2019,19537,20057,520
+"51","VA","Virginia","Goochland County","county",51075,"July",2019,11129,11462,333
+"51","VA","Virginia","Grayson County","county",51077,"July",2019,7736,7973,237
+"51","VA","Virginia","Greene County","county",51079,"July",2019,10315,10587,272
+"51","VA","Virginia","Greensville County","county",51081,"July",2019,4183,4336,153
+"51","VA","Virginia","Halifax County","county",51083,"July",2019,14842,15544,702
+"51","VA","Virginia","Hanover County","county",51085,"July",2019,58880,60428,1548
+"51","VA","Virginia","Henrico County","county",51087,"July",2019,180056,185531,5475
+"51","VA","Virginia","Henry County","county",51089,"July",2019,23005,23846,841
+"51","VA","Virginia","Highland County","county",51091,"July",2019,1278,1312,34
+"51","VA","Virginia","Isle of Wight County","county",51093,"July",2019,19361,19960,599
+"51","VA","Virginia","James City County","county",51095,"July",2019,36447,37510,1063
+"51","VA","Virginia","King and Queen County","county",51097,"July",2019,3810,3928,118
+"51","VA","Virginia","King George County","county",51099,"July",2019,13382,13744,362
+"51","VA","Virginia","King William County","county",51101,"July",2019,9091,9347,256
+"51","VA","Virginia","Lancaster County","county",51103,"July",2019,5404,5599,195
+"51","VA","Virginia","Lee County","county",51105,"July",2019,7906,8291,385
+"51","VA","Virginia","Loudoun County","county",51107,"July",2019,222749,228311,5562
+"51","VA","Virginia","Louisa County","county",51109,"July",2019,19464,20021,557
+"51","VA","Virginia","Lunenburg County","county",51111,"July",2019,5179,5371,192
+"51","VA","Virginia","Madison County","county",51113,"July",2019,7330,7501,171
+"51","VA","Virginia","Mathews County","county",51115,"July",2019,4117,4235,118
+"51","VA","Virginia","Mecklenburg County","county",51117,"July",2019,12241,12789,548
+"51","VA","Virginia","Middlesex County","county",51119,"July",2019,5334,5473,139
+"51","VA","Virginia","Montgomery County","county",51121,"July",2019,47870,49471,1601
+"51","VA","Virginia","Nelson County","county",51125,"July",2019,7332,7569,237
+"51","VA","Virginia","New Kent County","county",51127,"July",2019,12413,12742,329
+"51","VA","Virginia","Northampton County","county",51131,"July",2019,5635,5872,237
+"51","VA","Virginia","Northumberland County","county",51133,"July",2019,5653,5853,200
+"51","VA","Virginia","Nottoway County","county",51135,"July",2019,7105,7316,211
+"51","VA","Virginia","Orange County","county",51137,"July",2019,17215,17774,559
+"51","VA","Virginia","Page County","county",51139,"July",2019,11870,12276,406
+"51","VA","Virginia","Patrick County","county",51141,"July",2019,6923,7192,269
+"51","VA","Virginia","Pittsylvania County","county",51143,"July",2019,28566,29752,1186
+"51","VA","Virginia","Powhatan County","county",51145,"July",2019,14044,14431,387
+"51","VA","Virginia","Prince Edward County","county",51147,"July",2019,10106,10594,488
+"51","VA","Virginia","Prince George County","county",51149,"July",2019,14842,15399,557
+"51","VA","Virginia","Prince William County","county",51153,"July",2019,245137,251730,6593
+"51","VA","Virginia","Pulaski County","county",51155,"July",2019,15265,15798,533
+"51","VA","Virginia","Rappahannock County","county",51157,"July",2019,3715,3816,101
+"51","VA","Virginia","Richmond County","county",51159,"July",2019,4041,4170,129
+"51","VA","Virginia","Roanoke County","county",51161,"July",2019,48588,49944,1356
+"51","VA","Virginia","Rockbridge County","county",51163,"July",2019,10778,11087,309
+"51","VA","Virginia","Rockingham County","county",51165,"July",2019,40686,41770,1084
+"51","VA","Virginia","Russell County","county",51167,"July",2019,10641,11142,501
+"51","VA","Virginia","Scott County","county",51169,"July",2019,8832,9127,295
+"51","VA","Virginia","Shenandoah County","county",51171,"July",2019,22304,22882,578
+"51","VA","Virginia","Smyth County","county",51173,"July",2019,13446,14005,559
+"51","VA","Virginia","Southampton County","county",51175,"July",2019,9020,9291,271
+"51","VA","Virginia","Spotsylvania County","county",51177,"July",2019,66712,68874,2162
+"51","VA","Virginia","Stafford County","county",51179,"July",2019,71739,73867,2128
+"51","VA","Virginia","Surry County","county",51181,"July",2019,3603,3751,148
+"51","VA","Virginia","Sussex County","county",51183,"July",2019,3743,3930,187
+"51","VA","Virginia","Tazewell County","county",51185,"July",2019,14657,15424,767
+"51","VA","Virginia","Warren County","county",51187,"July",2019,20362,20974,612
+"51","VA","Virginia","Washington County","county",51191,"July",2019,25799,26766,967
+"51","VA","Virginia","Westmoreland County","county",51193,"July",2019,9508,9840,332
+"51","VA","Virginia","Wise County","county",51195,"July",2019,12642,13348,706
+"51","VA","Virginia","Wythe County","county",51197,"July",2019,13327,13842,515
+"51","VA","Virginia","York County","county",51199,"July",2019,32605,33528,923
+"51","VA","Virginia","Alexandria city","city",NA,"July",2019,101587,103813,2226
+"51","VA","Virginia","Bristol city","city",NA,"July",2019,6911,7207,296
+"51","VA","Virginia","Buena Vista city","city",NA,"July",2019,3274,3388,114
+"51","VA","Virginia","Charlottesville city","city",NA,"July",2019,25895,26596,701
+"51","VA","Virginia","Chesapeake city","city",NA,"July",2019,121808,125623,3815
+"51","VA","Virginia","Colonial Heights city","city",NA,"July",2019,8675,8975,300
+"51","VA","Virginia","Covington city","city",NA,"July",2019,2252,2357,105
+"51","VA","Virginia","Danville city","city",NA,"July",2019,17980,19064,1084
+"51","VA","Virginia","Emporia city","city",NA,"July",2019,2207,2328,121
+"51","VA","Virginia","Fairfax city","city",NA,"July",2019,13486,13774,288
+"51","VA","Virginia","Falls Church city","city",NA,"July",2019,8628,8828,200
+"51","VA","Virginia","Franklin city","city",NA,"July",2019,3504,3662,158
+"51","VA","Virginia","Fredericksburg city","city",NA,"July",2019,14001,14528,527
+"51","VA","Virginia","Galax city","city",NA,"July",2019,2850,2963,113
+"51","VA","Virginia","Hampton city","city",NA,"July",2019,63305,65905,2600
+"51","VA","Virginia","Harrisonburg city","city",NA,"July",2019,23929,24870,941
+"51","VA","Virginia","Hopewell city","city",NA,"July",2019,9426,9866,440
+"51","VA","Virginia","Lexington city","city",NA,"July",2019,1998,2122,124
+"51","VA","Virginia","Lynchburg city","city",NA,"July",2019,35146,36754,1608
+"51","VA","Virginia","Manassas city","city",NA,"July",2019,22019,22599,580
+"51","VA","Virginia","Manassas Park city","city",NA,"July",2019,9372,9615,243
+"51","VA","Virginia","Martinsville city","city",NA,"July",2019,5292,5542,250
+"51","VA","Virginia","Newport News city","city",NA,"July",2019,87606,90920,3314
+"51","VA","Virginia","Norfolk city","city",NA,"July",2019,110114,114357,4243
+"51","VA","Virginia","Norton city","city",NA,"July",2019,1615,1683,68
+"51","VA","Virginia","Petersburg city","city",NA,"July",2019,12514,13326,812
+"51","VA","Virginia","Poquoson city","city",NA,"July",2019,6384,6548,164
+"51","VA","Virginia","Portsmouth city","city",NA,"July",2019,43478,45318,1840
+"51","VA","Virginia","Radford city","city",NA,"July",2019,8178,8542,364
+"51","VA","Virginia","Richmond city","city",NA,"July",2019,116493,120786,4293
+"51","VA","Virginia","Roanoke city","city",NA,"July",2019,48129,49769,1640
+"51","VA","Virginia","Salem city","city",NA,"July",2019,12729,13135,406
+"51","VA","Virginia","Staunton city","city",NA,"July",2019,11997,12345,348
+"51","VA","Virginia","Suffolk city","city",NA,"July",2019,44237,45706,1469
+"51","VA","Virginia","Virginia Beach city","city",NA,"July",2019,231817,238470,6653
+"51","VA","Virginia","Waynesboro city","city",NA,"July",2019,10452,10773,321
+"51","VA","Virginia","Williamsburg city","city",NA,"July",2019,6574,6878,304
+"51","VA","Virginia","Winchester city","city",NA,"July",2019,14637,15080,443
+"51","VA","Virginia","Accomack County","county",NA,"August",2019,16545,17105,560
+"51","VA","Virginia","Albemarle County","county",51003,"August",2019,55231,56785,1554
+"51","VA","Virginia","Alleghany County","county",51005,"August",2019,6591,6833,242
+"51","VA","Virginia","Amelia County","county",51007,"August",2019,6152,6354,202
+"51","VA","Virginia","Amherst County","county",51009,"August",2019,14629,15151,522
+"51","VA","Virginia","Appomattox County","county",51011,"August",2019,6959,7222,263
+"51","VA","Virginia","Arlington County","county",51013,"August",2019,152907,156045,3138
+"51","VA","Virginia","Augusta County","county",51015,"August",2019,36646,37609,963
+"51","VA","Virginia","Bath County","county",51017,"August",2019,2505,2571,66
+"51","VA","Virginia","Bedford County","county",51019,"August",2019,37541,38719,1178
+"51","VA","Virginia","Bland County","county",51021,"August",2019,2728,2803,75
+"51","VA","Virginia","Botetourt County","county",51023,"August",2019,17123,17605,482
+"51","VA","Virginia","Brunswick County","county",51025,"August",2019,5713,6004,291
+"51","VA","Virginia","Buchanan County","county",51027,"August",2019,6226,6650,424
+"51","VA","Virginia","Buckingham County","county",51029,"August",2019,6107,6367,260
+"51","VA","Virginia","Campbell County","county",51031,"August",2019,25292,26159,867
+"51","VA","Virginia","Caroline County","county",51033,"August",2019,14888,15415,527
+"51","VA","Virginia","Carroll County","county",51035,"August",2019,12717,13184,467
+"51","VA","Virginia","Charles City County","county",51036,"August",2019,3580,3704,124
+"51","VA","Virginia","Charlotte County","county",51037,"August",2019,5089,5283,194
+"51","VA","Virginia","Chesterfield County","county",51041,"August",2019,183737,189326,5589
+"51","VA","Virginia","Clarke County","county",51043,"August",2019,7522,7716,194
+"51","VA","Virginia","Craig County","county",51045,"August",2019,2250,2327,77
+"51","VA","Virginia","Culpeper County","county",51047,"August",2019,24267,24938,671
+"51","VA","Virginia","Cumberland County","county",51049,"August",2019,4524,4676,152
+"51","VA","Virginia","Dickenson County","county",51051,"August",2019,4456,4684,228
+"51","VA","Virginia","Dinwiddie County","county",51053,"August",2019,13349,13819,470
+"51","VA","Virginia","Essex County","county",51057,"August",2019,5321,5520,199
+"51","VA","Virginia","Fairfax County","county",51059,"August",2019,626970,642476,15506
+"51","VA","Virginia","Fauquier County","county",51061,"August",2019,36837,37789,952
+"51","VA","Virginia","Floyd County","county",51063,"August",2019,8047,8254,207
+"51","VA","Virginia","Fluvanna County","county",51065,"August",2019,13427,13783,356
+"51","VA","Virginia","Franklin County","county",51067,"August",2019,25890,26675,785
+"51","VA","Virginia","Frederick County","county",51069,"August",2019,47562,48785,1223
+"51","VA","Virginia","Giles County","county",51071,"August",2019,7650,7891,241
+"51","VA","Virginia","Gloucester County","county",51073,"August",2019,19354,19881,527
+"51","VA","Virginia","Goochland County","county",51075,"August",2019,11009,11336,327
+"51","VA","Virginia","Grayson County","county",51077,"August",2019,7570,7808,238
+"51","VA","Virginia","Greene County","county",51079,"August",2019,10145,10415,270
+"51","VA","Virginia","Greensville County","county",51081,"August",2019,4151,4305,154
+"51","VA","Virginia","Halifax County","county",51083,"August",2019,15017,15690,673
+"51","VA","Virginia","Hanover County","county",51085,"August",2019,58285,59839,1554
+"51","VA","Virginia","Henrico County","county",51087,"August",2019,178236,183788,5552
+"51","VA","Virginia","Henry County","county",51089,"August",2019,23243,24065,822
+"51","VA","Virginia","Highland County","county",51091,"August",2019,1258,1292,34
+"51","VA","Virginia","Isle of Wight County","county",51093,"August",2019,19179,19763,584
+"51","VA","Virginia","James City County","county",51095,"August",2019,36100,37150,1050
+"51","VA","Virginia","King and Queen County","county",51097,"August",2019,3737,3851,114
+"51","VA","Virginia","King George County","county",51099,"August",2019,13245,13608,363
+"51","VA","Virginia","King William County","county",51101,"August",2019,8992,9254,262
+"51","VA","Virginia","Lancaster County","county",51103,"August",2019,5336,5522,186
+"51","VA","Virginia","Lee County","county",51105,"August",2019,7888,8307,419
+"51","VA","Virginia","Loudoun County","county",51107,"August",2019,219666,225159,5493
+"51","VA","Virginia","Louisa County","county",51109,"August",2019,19517,20077,560
+"51","VA","Virginia","Lunenburg County","county",51111,"August",2019,5115,5306,191
+"51","VA","Virginia","Madison County","county",51113,"August",2019,7261,7438,177
+"51","VA","Virginia","Mathews County","county",51115,"August",2019,4078,4203,125
+"51","VA","Virginia","Mecklenburg County","county",51117,"August",2019,11856,12387,531
+"51","VA","Virginia","Middlesex County","county",51119,"August",2019,5307,5450,143
+"51","VA","Virginia","Montgomery County","county",51121,"August",2019,48695,50206,1511
+"51","VA","Virginia","Nelson County","county",51125,"August",2019,7209,7429,220
+"51","VA","Virginia","New Kent County","county",51127,"August",2019,12286,12604,318
+"51","VA","Virginia","Northampton County","county",51131,"August",2019,5543,5779,236
+"51","VA","Virginia","Northumberland County","county",51133,"August",2019,5544,5745,201
+"51","VA","Virginia","Nottoway County","county",51135,"August",2019,7038,7242,204
+"51","VA","Virginia","Orange County","county",51137,"August",2019,17029,17592,563
+"51","VA","Virginia","Page County","county",51139,"August",2019,11682,12066,384
+"51","VA","Virginia","Patrick County","county",51141,"August",2019,6981,7239,258
+"51","VA","Virginia","Pittsylvania County","county",51143,"August",2019,28958,30025,1067
+"51","VA","Virginia","Powhatan County","county",51145,"August",2019,13896,14289,393
+"51","VA","Virginia","Prince Edward County","county",51147,"August",2019,10049,10465,416
+"51","VA","Virginia","Prince George County","county",51149,"August",2019,14694,15248,554
+"51","VA","Virginia","Prince William County","county",51153,"August",2019,241733,248340,6607
+"51","VA","Virginia","Pulaski County","county",51155,"August",2019,15520,16064,544
+"51","VA","Virginia","Rappahannock County","county",51157,"August",2019,3661,3761,100
+"51","VA","Virginia","Richmond County","county",51159,"August",2019,4002,4124,122
+"51","VA","Virginia","Roanoke County","county",51161,"August",2019,48488,49824,1336
+"51","VA","Virginia","Rockbridge County","county",51163,"August",2019,10698,11006,308
+"51","VA","Virginia","Rockingham County","county",51165,"August",2019,40158,41216,1058
+"51","VA","Virginia","Russell County","county",51167,"August",2019,10592,11083,491
+"51","VA","Virginia","Scott County","county",51169,"August",2019,8895,9192,297
+"51","VA","Virginia","Shenandoah County","county",51171,"August",2019,22035,22621,586
+"51","VA","Virginia","Smyth County","county",51173,"August",2019,13425,13961,536
+"51","VA","Virginia","Southampton County","county",51175,"August",2019,8977,9260,283
+"51","VA","Virginia","Spotsylvania County","county",51177,"August",2019,65785,67867,2082
+"51","VA","Virginia","Stafford County","county",51179,"August",2019,70753,72837,2084
+"51","VA","Virginia","Surry County","county",51181,"August",2019,3584,3733,149
+"51","VA","Virginia","Sussex County","county",51183,"August",2019,3708,3883,175
+"51","VA","Virginia","Tazewell County","county",51185,"August",2019,14668,15365,697
+"51","VA","Virginia","Warren County","county",51187,"August",2019,20074,20684,610
+"51","VA","Virginia","Washington County","county",51191,"August",2019,25989,26894,905
+"51","VA","Virginia","Westmoreland County","county",51193,"August",2019,9328,9657,329
+"51","VA","Virginia","Wise County","county",51195,"August",2019,12654,13331,677
+"51","VA","Virginia","Wythe County","county",51197,"August",2019,13379,13840,461
+"51","VA","Virginia","York County","county",51199,"August",2019,32306,33210,904
+"51","VA","Virginia","Alexandria city","city",NA,"August",2019,100169,102455,2286
+"51","VA","Virginia","Bristol city","city",NA,"August",2019,6957,7240,283
+"51","VA","Virginia","Buena Vista city","city",NA,"August",2019,3341,3437,96
+"51","VA","Virginia","Charlottesville city","city",NA,"August",2019,25469,26169,700
+"51","VA","Virginia","Chesapeake city","city",NA,"August",2019,120700,124559,3859
+"51","VA","Virginia","Colonial Heights city","city",NA,"August",2019,8588,8883,295
+"51","VA","Virginia","Covington city","city",NA,"August",2019,2262,2374,112
+"51","VA","Virginia","Danville city","city",NA,"August",2019,18148,19164,1016
+"51","VA","Virginia","Emporia city","city",NA,"August",2019,2190,2312,122
+"51","VA","Virginia","Fairfax city","city",NA,"August",2019,13296,13587,291
+"51","VA","Virginia","Falls Church city","city",NA,"August",2019,8506,8699,193
+"51","VA","Virginia","Franklin city","city",NA,"August",2019,3492,3644,152
+"51","VA","Virginia","Fredericksburg city","city",NA,"August",2019,13807,14313,506
+"51","VA","Virginia","Galax city","city",NA,"August",2019,2818,2919,101
+"51","VA","Virginia","Hampton city","city",NA,"August",2019,62728,65303,2575
+"51","VA","Virginia","Harrisonburg city","city",NA,"August",2019,23614,24486,872
+"51","VA","Virginia","Hopewell city","city",NA,"August",2019,9333,9773,440
+"51","VA","Virginia","Lexington city","city",NA,"August",2019,1971,2074,103
+"51","VA","Virginia","Lynchburg city","city",NA,"August",2019,35129,36582,1453
+"51","VA","Virginia","Manassas city","city",NA,"August",2019,21711,22290,579
+"51","VA","Virginia","Manassas Park city","city",NA,"August",2019,9239,9469,230
+"51","VA","Virginia","Martinsville city","city",NA,"August",2019,5301,5559,258
+"51","VA","Virginia","Newport News city","city",NA,"August",2019,86811,90065,3254
+"51","VA","Virginia","Norfolk city","city",NA,"August",2019,109114,113288,4174
+"51","VA","Virginia","Norton city","city",NA,"August",2019,1617,1681,64
+"51","VA","Virginia","Petersburg city","city",NA,"August",2019,12388,13154,766
+"51","VA","Virginia","Poquoson city","city",NA,"August",2019,6326,6490,164
+"51","VA","Virginia","Portsmouth city","city",NA,"August",2019,43082,44907,1825
+"51","VA","Virginia","Radford city","city",NA,"August",2019,8327,8675,348
+"51","VA","Virginia","Richmond city","city",NA,"August",2019,115300,119539,4239
+"51","VA","Virginia","Roanoke city","city",NA,"August",2019,48031,49683,1652
+"51","VA","Virginia","Salem city","city",NA,"August",2019,12707,13099,392
+"51","VA","Virginia","Staunton city","city",NA,"August",2019,11892,12245,353
+"51","VA","Virginia","Suffolk city","city",NA,"August",2019,43839,45305,1466
+"51","VA","Virginia","Virginia Beach city","city",NA,"August",2019,229663,236402,6739
+"51","VA","Virginia","Waynesboro city","city",NA,"August",2019,10361,10695,334
+"51","VA","Virginia","Williamsburg city","city",NA,"August",2019,6512,6801,289
+"51","VA","Virginia","Winchester city","city",NA,"August",2019,14585,15004,419
+"51","VA","Virginia","Accomack County","county",NA,"September",2019,16122,16605,483
+"51","VA","Virginia","Albemarle County","county",51003,"September",2019,57444,58797,1353
+"51","VA","Virginia","Alleghany County","county",51005,"September",2019,6697,6915,218
+"51","VA","Virginia","Amelia County","county",51007,"September",2019,6129,6295,166
+"51","VA","Virginia","Amherst County","county",51009,"September",2019,14732,15185,453
+"51","VA","Virginia","Appomattox County","county",51011,"September",2019,6996,7228,232
+"51","VA","Virginia","Arlington County","county",51013,"September",2019,153388,156199,2811
+"51","VA","Virginia","Augusta County","county",51015,"September",2019,37041,37889,848
+"51","VA","Virginia","Bath County","county",51017,"September",2019,2509,2566,57
+"51","VA","Virginia","Bedford County","county",51019,"September",2019,37771,38843,1072
+"51","VA","Virginia","Bland County","county",51021,"September",2019,2787,2859,72
+"51","VA","Virginia","Botetourt County","county",51023,"September",2019,17117,17551,434
+"51","VA","Virginia","Brunswick County","county",51025,"September",2019,5769,6025,256
+"51","VA","Virginia","Buchanan County","county",51027,"September",2019,6249,6638,389
+"51","VA","Virginia","Buckingham County","county",51029,"September",2019,6335,6543,208
+"51","VA","Virginia","Campbell County","county",51031,"September",2019,25483,26242,759
+"51","VA","Virginia","Caroline County","county",51033,"September",2019,14904,15344,440
+"51","VA","Virginia","Carroll County","county",51035,"September",2019,12819,13236,417
+"51","VA","Virginia","Charles City County","county",51036,"September",2019,3574,3683,109
+"51","VA","Virginia","Charlotte County","county",51037,"September",2019,5100,5267,167
+"51","VA","Virginia","Chesterfield County","county",51041,"September",2019,184176,189081,4905
+"51","VA","Virginia","Clarke County","county",51043,"September",2019,7494,7663,169
+"51","VA","Virginia","Craig County","county",51045,"September",2019,2243,2309,66
+"51","VA","Virginia","Culpeper County","county",51047,"September",2019,24207,24801,594
+"51","VA","Virginia","Cumberland County","county",51049,"September",2019,4530,4657,127
+"51","VA","Virginia","Dickenson County","county",51051,"September",2019,4596,4807,211
+"51","VA","Virginia","Dinwiddie County","county",51053,"September",2019,13321,13735,414
+"51","VA","Virginia","Essex County","county",51057,"September",2019,5274,5438,164
+"51","VA","Virginia","Fairfax County","county",51059,"September",2019,628309,642000,13691
+"51","VA","Virginia","Fauquier County","county",51061,"September",2019,36762,37595,833
+"51","VA","Virginia","Floyd County","county",51063,"September",2019,8089,8282,193
+"51","VA","Virginia","Fluvanna County","county",51065,"September",2019,13992,14293,301
+"51","VA","Virginia","Franklin County","county",51067,"September",2019,25812,26554,742
+"51","VA","Virginia","Frederick County","county",51069,"September",2019,47521,48571,1050
+"51","VA","Virginia","Giles County","county",51071,"September",2019,7758,7982,224
+"51","VA","Virginia","Gloucester County","county",51073,"September",2019,19246,19714,468
+"51","VA","Virginia","Goochland County","county",51075,"September",2019,10988,11278,290
+"51","VA","Virginia","Grayson County","county",51077,"September",2019,7742,7939,197
+"51","VA","Virginia","Greene County","county",51079,"September",2019,10543,10787,244
+"51","VA","Virginia","Greensville County","county",51081,"September",2019,4143,4279,136
+"51","VA","Virginia","Halifax County","county",51083,"September",2019,15107,15690,583
+"51","VA","Virginia","Hanover County","county",51085,"September",2019,58375,59741,1366
+"51","VA","Virginia","Henrico County","county",51087,"September",2019,178761,183553,4792
+"51","VA","Virginia","Henry County","county",51089,"September",2019,23003,23733,730
+"51","VA","Virginia","Highland County","county",51091,"September",2019,1175,1205,30
+"51","VA","Virginia","Isle of Wight County","county",51093,"September",2019,19059,19552,493
+"51","VA","Virginia","James City County","county",51095,"September",2019,35945,36845,900
+"51","VA","Virginia","King and Queen County","county",51097,"September",2019,3729,3828,99
+"51","VA","Virginia","King George County","county",51099,"September",2019,13286,13619,333
+"51","VA","Virginia","King William County","county",51101,"September",2019,8974,9212,238
+"51","VA","Virginia","Lancaster County","county",51103,"September",2019,5306,5464,158
+"51","VA","Virginia","Lee County","county",51105,"September",2019,7978,8349,371
+"51","VA","Virginia","Loudoun County","county",51107,"September",2019,220318,225145,4827
+"51","VA","Virginia","Louisa County","county",51109,"September",2019,19710,20205,495
+"51","VA","Virginia","Lunenburg County","county",51111,"September",2019,5116,5279,163
+"51","VA","Virginia","Madison County","county",51113,"September",2019,7370,7525,155
+"51","VA","Virginia","Mathews County","county",51115,"September",2019,4057,4165,108
+"51","VA","Virginia","Mecklenburg County","county",51117,"September",2019,11888,12363,475
+"51","VA","Virginia","Middlesex County","county",51119,"September",2019,5180,5306,126
+"51","VA","Virginia","Montgomery County","county",51121,"September",2019,49592,50949,1357
+"51","VA","Virginia","Nelson County","county",51125,"September",2019,7415,7600,185
+"51","VA","Virginia","New Kent County","county",51127,"September",2019,12292,12564,272
+"51","VA","Virginia","Northampton County","county",51131,"September",2019,5267,5460,193
+"51","VA","Virginia","Northumberland County","county",51133,"September",2019,5468,5637,169
+"51","VA","Virginia","Nottoway County","county",51135,"September",2019,7081,7266,185
+"51","VA","Virginia","Orange County","county",51137,"September",2019,17062,17557,495
+"51","VA","Virginia","Page County","county",51139,"September",2019,11756,12094,338
+"51","VA","Virginia","Patrick County","county",51141,"September",2019,6982,7208,226
+"51","VA","Virginia","Pittsylvania County","county",51143,"September",2019,29135,30089,954
+"51","VA","Virginia","Powhatan County","county",51145,"September",2019,13900,14241,341
+"51","VA","Virginia","Prince Edward County","county",51147,"September",2019,9922,10272,350
+"51","VA","Virginia","Prince George County","county",51149,"September",2019,14731,15220,489
+"51","VA","Virginia","Prince William County","county",51153,"September",2019,242540,248369,5829
+"51","VA","Virginia","Pulaski County","county",51155,"September",2019,15787,16262,475
+"51","VA","Virginia","Rappahannock County","county",51157,"September",2019,3625,3710,85
+"51","VA","Virginia","Richmond County","county",51159,"September",2019,3961,4066,105
+"51","VA","Virginia","Roanoke County","county",51161,"September",2019,48530,49719,1189
+"51","VA","Virginia","Rockbridge County","county",51163,"September",2019,10576,10854,278
+"51","VA","Virginia","Rockingham County","county",51165,"September",2019,41726,42625,899
+"51","VA","Virginia","Russell County","county",51167,"September",2019,10846,11278,432
+"51","VA","Virginia","Scott County","county",51169,"September",2019,8880,9140,260
+"51","VA","Virginia","Shenandoah County","county",51171,"September",2019,21947,22473,526
+"51","VA","Virginia","Smyth County","county",51173,"September",2019,13379,13866,487
+"51","VA","Virginia","Southampton County","county",51175,"September",2019,8888,9129,241
+"51","VA","Virginia","Spotsylvania County","county",51177,"September",2019,65945,67761,1816
+"51","VA","Virginia","Stafford County","county",51179,"September",2019,71050,72905,1855
+"51","VA","Virginia","Surry County","county",51181,"September",2019,3602,3714,112
+"51","VA","Virginia","Sussex County","county",51183,"September",2019,3670,3839,169
+"51","VA","Virginia","Tazewell County","county",51185,"September",2019,14994,15638,644
+"51","VA","Virginia","Warren County","county",51187,"September",2019,20081,20622,541
+"51","VA","Virginia","Washington County","county",51191,"September",2019,25975,26781,806
+"51","VA","Virginia","Westmoreland County","county",51193,"September",2019,9205,9488,283
+"51","VA","Virginia","Wise County","county",51195,"September",2019,12893,13498,605
+"51","VA","Virginia","Wythe County","county",51197,"September",2019,13355,13792,437
+"51","VA","Virginia","York County","county",51199,"September",2019,32221,33040,819
+"51","VA","Virginia","Alexandria city","city",NA,"September",2019,100464,102455,1991
+"51","VA","Virginia","Bristol city","city",NA,"September",2019,6945,7196,251
+"51","VA","Virginia","Buena Vista city","city",NA,"September",2019,3462,3547,85
+"51","VA","Virginia","Charlottesville city","city",NA,"September",2019,26615,27168,553
+"51","VA","Virginia","Chesapeake city","city",NA,"September",2019,120415,123785,3370
+"51","VA","Virginia","Colonial Heights city","city",NA,"September",2019,8610,8872,262
+"51","VA","Virginia","Covington city","city",NA,"September",2019,2305,2398,93
+"51","VA","Virginia","Danville city","city",NA,"September",2019,18213,19125,912
+"51","VA","Virginia","Emporia city","city",NA,"September",2019,2170,2272,102
+"51","VA","Virginia","Fairfax city","city",NA,"September",2019,13321,13580,259
+"51","VA","Virginia","Falls Church city","city",NA,"September",2019,8524,8694,170
+"51","VA","Virginia","Franklin city","city",NA,"September",2019,3455,3593,138
+"51","VA","Virginia","Fredericksburg city","city",NA,"September",2019,13864,14313,449
+"51","VA","Virginia","Galax city","city",NA,"September",2019,2834,2924,90
+"51","VA","Virginia","Hampton city","city",NA,"September",2019,62592,64826,2234
+"51","VA","Virginia","Harrisonburg city","city",NA,"September",2019,24724,25475,751
+"51","VA","Virginia","Hopewell city","city",NA,"September",2019,9369,9773,404
+"51","VA","Virginia","Lexington city","city",NA,"September",2019,2025,2116,91
+"51","VA","Virginia","Lynchburg city","city",NA,"September",2019,35455,36714,1259
+"51","VA","Virginia","Manassas city","city",NA,"September",2019,21772,22282,510
+"51","VA","Virginia","Manassas Park city","city",NA,"September",2019,9250,9458,208
+"51","VA","Virginia","Martinsville city","city",NA,"September",2019,5272,5483,211
+"51","VA","Virginia","Newport News city","city",NA,"September",2019,86655,89518,2863
+"51","VA","Virginia","Norfolk city","city",NA,"September",2019,108918,112499,3581
+"51","VA","Virginia","Norton city","city",NA,"September",2019,1634,1694,60
+"51","VA","Virginia","Petersburg city","city",NA,"September",2019,12426,13097,671
+"51","VA","Virginia","Poquoson city","city",NA,"September",2019,6290,6440,150
+"51","VA","Virginia","Portsmouth city","city",NA,"September",2019,42990,44611,1621
+"51","VA","Virginia","Radford city","city",NA,"September",2019,8501,8790,289
+"51","VA","Virginia","Richmond city","city",NA,"September",2019,115553,119235,3682
+"51","VA","Virginia","Roanoke city","city",NA,"September",2019,48077,49451,1374
+"51","VA","Virginia","Salem city","city",NA,"September",2019,12735,13082,347
+"51","VA","Virginia","Staunton city","city",NA,"September",2019,12068,12366,298
+"51","VA","Virginia","Suffolk city","city",NA,"September",2019,43742,45044,1302
+"51","VA","Virginia","Virginia Beach city","city",NA,"September",2019,228986,234938,5952
+"51","VA","Virginia","Waynesboro city","city",NA,"September",2019,10526,10815,289
+"51","VA","Virginia","Williamsburg city","city",NA,"September",2019,6494,6751,257
+"51","VA","Virginia","Winchester city","city",NA,"September",2019,14549,14921,372
+"51","VA","Virginia","Accomack County","county",NA,"October",2019,16269,16747,478
+"51","VA","Virginia","Albemarle County","county",51003,"October",2019,56909,58209,1300
+"51","VA","Virginia","Alleghany County","county",51005,"October",2019,6750,6960,210
+"51","VA","Virginia","Amelia County","county",51007,"October",2019,6203,6369,166
+"51","VA","Virginia","Amherst County","county",51009,"October",2019,14862,15304,442
+"51","VA","Virginia","Appomattox County","county",51011,"October",2019,7071,7291,220
+"51","VA","Virginia","Arlington County","county",51013,"October",2019,154505,157251,2746
+"51","VA","Virginia","Augusta County","county",51015,"October",2019,37379,38235,856
+"51","VA","Virginia","Bath County","county",51017,"October",2019,2497,2552,55
+"51","VA","Virginia","Bedford County","county",51019,"October",2019,38069,39086,1017
+"51","VA","Virginia","Bland County","county",51021,"October",2019,2790,2856,66
+"51","VA","Virginia","Botetourt County","county",51023,"October",2019,17182,17601,419
+"51","VA","Virginia","Brunswick County","county",51025,"October",2019,5821,6073,252
+"51","VA","Virginia","Buchanan County","county",51027,"October",2019,6318,6686,368
+"51","VA","Virginia","Buckingham County","county",51029,"October",2019,6291,6487,196
+"51","VA","Virginia","Campbell County","county",51031,"October",2019,25680,26423,743
+"51","VA","Virginia","Caroline County","county",51033,"October",2019,15023,15469,446
+"51","VA","Virginia","Carroll County","county",51035,"October",2019,12885,13312,427
+"51","VA","Virginia","Charles City County","county",51036,"October",2019,3620,3726,106
+"51","VA","Virginia","Charlotte County","county",51037,"October",2019,5186,5378,192
+"51","VA","Virginia","Chesterfield County","county",51041,"October",2019,185445,190224,4779
+"51","VA","Virginia","Clarke County","county",51043,"October",2019,7590,7759,169
+"51","VA","Virginia","Craig County","county",51045,"October",2019,2254,2318,64
+"51","VA","Virginia","Culpeper County","county",51047,"October",2019,24439,25020,581
+"51","VA","Virginia","Cumberland County","county",51049,"October",2019,4556,4682,126
+"51","VA","Virginia","Dickenson County","county",51051,"October",2019,4603,4822,219
+"51","VA","Virginia","Dinwiddie County","county",51053,"October",2019,13442,13846,404
+"51","VA","Virginia","Essex County","county",51057,"October",2019,5345,5517,172
+"51","VA","Virginia","Fairfax County","county",51059,"October",2019,632820,646163,13343
+"51","VA","Virginia","Fauquier County","county",51061,"October",2019,37192,37992,800
+"51","VA","Virginia","Floyd County","county",51063,"October",2019,7941,8127,186
+"51","VA","Virginia","Fluvanna County","county",51065,"October",2019,13840,14133,293
+"51","VA","Virginia","Franklin County","county",51067,"October",2019,25943,26669,726
+"51","VA","Virginia","Frederick County","county",51069,"October",2019,48109,49145,1036
+"51","VA","Virginia","Giles County","county",51071,"October",2019,7546,7765,219
+"51","VA","Virginia","Gloucester County","county",51073,"October",2019,19313,19777,464
+"51","VA","Virginia","Goochland County","county",51075,"October",2019,11077,11358,281
+"51","VA","Virginia","Grayson County","county",51077,"October",2019,7924,8131,207
+"51","VA","Virginia","Greene County","county",51079,"October",2019,10442,10671,229
+"51","VA","Virginia","Greensville County","county",51081,"October",2019,4170,4303,133
+"51","VA","Virginia","Halifax County","county",51083,"October",2019,15096,15678,582
+"51","VA","Virginia","Hanover County","county",51085,"October",2019,58827,60163,1336
+"51","VA","Virginia","Henrico County","county",51087,"October",2019,179954,184705,4751
+"51","VA","Virginia","Henry County","county",51089,"October",2019,23124,23849,725
+"51","VA","Virginia","Highland County","county",51091,"October",2019,1210,1240,30
+"51","VA","Virginia","Isle of Wight County","county",51093,"October",2019,19130,19632,502
+"51","VA","Virginia","James City County","county",51095,"October",2019,36004,36892,888
+"51","VA","Virginia","King and Queen County","county",51097,"October",2019,3781,3868,87
+"51","VA","Virginia","King George County","county",51099,"October",2019,13341,13669,328
+"51","VA","Virginia","King William County","county",51101,"October",2019,9048,9288,240
+"51","VA","Virginia","Lancaster County","county",51103,"October",2019,5318,5469,151
+"51","VA","Virginia","Lee County","county",51105,"October",2019,7979,8302,323
+"51","VA","Virginia","Loudoun County","county",51107,"October",2019,222067,226780,4713
+"51","VA","Virginia","Louisa County","county",51109,"October",2019,19823,20307,484
+"51","VA","Virginia","Lunenburg County","county",51111,"October",2019,5185,5338,153
+"51","VA","Virginia","Madison County","county",51113,"October",2019,7475,7626,151
+"51","VA","Virginia","Mathews County","county",51115,"October",2019,4065,4176,111
+"51","VA","Virginia","Mecklenburg County","county",51117,"October",2019,12026,12504,478
+"51","VA","Virginia","Middlesex County","county",51119,"October",2019,5230,5351,121
+"51","VA","Virginia","Montgomery County","county",51121,"October",2019,48068,49344,1276
+"51","VA","Virginia","Nelson County","county",51125,"October",2019,7377,7552,175
+"51","VA","Virginia","New Kent County","county",51127,"October",2019,12389,12656,267
+"51","VA","Virginia","Northampton County","county",51131,"October",2019,5373,5551,178
+"51","VA","Virginia","Northumberland County","county",51133,"October",2019,5525,5696,171
+"51","VA","Virginia","Nottoway County","county",51135,"October",2019,7163,7358,195
+"51","VA","Virginia","Orange County","county",51137,"October",2019,17233,17717,484
+"51","VA","Virginia","Page County","county",51139,"October",2019,11885,12223,338
+"51","VA","Virginia","Patrick County","county",51141,"October",2019,7048,7276,228
+"51","VA","Virginia","Pittsylvania County","county",51143,"October",2019,29521,30458,937
+"51","VA","Virginia","Powhatan County","county",51145,"October",2019,14000,14332,332
+"51","VA","Virginia","Prince Edward County","county",51147,"October",2019,10063,10397,334
+"51","VA","Virginia","Prince George County","county",51149,"October",2019,14841,15332,491
+"51","VA","Virginia","Prince William County","county",51153,"October",2019,244346,250024,5678
+"51","VA","Virginia","Pulaski County","county",51155,"October",2019,15304,15780,476
+"51","VA","Virginia","Rappahannock County","county",51157,"October",2019,3668,3750,82
+"51","VA","Virginia","Richmond County","county",51159,"October",2019,4014,4119,105
+"51","VA","Virginia","Roanoke County","county",51161,"October",2019,48630,49804,1174
+"51","VA","Virginia","Rockbridge County","county",51163,"October",2019,10716,10983,267
+"51","VA","Virginia","Rockingham County","county",51165,"October",2019,42295,43157,862
+"51","VA","Virginia","Russell County","county",51167,"October",2019,10923,11329,406
+"51","VA","Virginia","Scott County","county",51169,"October",2019,8952,9205,253
+"51","VA","Virginia","Shenandoah County","county",51171,"October",2019,22099,22602,503
+"51","VA","Virginia","Smyth County","county",51173,"October",2019,13426,13935,509
+"51","VA","Virginia","Southampton County","county",51175,"October",2019,9008,9243,235
+"51","VA","Virginia","Spotsylvania County","county",51177,"October",2019,66472,68255,1783
+"51","VA","Virginia","Stafford County","county",51179,"October",2019,71594,73443,1849
+"51","VA","Virginia","Surry County","county",51181,"October",2019,3645,3756,111
+"51","VA","Virginia","Sussex County","county",51183,"October",2019,3751,3908,157
+"51","VA","Virginia","Tazewell County","county",51185,"October",2019,15128,15763,635
+"51","VA","Virginia","Warren County","county",51187,"October",2019,20246,20766,520
+"51","VA","Virginia","Washington County","county",51191,"October",2019,26164,26949,785
+"51","VA","Virginia","Westmoreland County","county",51193,"October",2019,9350,9621,271
+"51","VA","Virginia","Wise County","county",51195,"October",2019,12949,13515,566
+"51","VA","Virginia","Wythe County","county",51197,"October",2019,13366,13821,455
+"51","VA","Virginia","York County","county",51199,"October",2019,32260,33052,792
+"51","VA","Virginia","Alexandria city","city",NA,"October",2019,101198,103167,1969
+"51","VA","Virginia","Bristol city","city",NA,"October",2019,6981,7230,249
+"51","VA","Virginia","Buena Vista city","city",NA,"October",2019,3569,3653,84
+"51","VA","Virginia","Charlottesville city","city",NA,"October",2019,26313,26862,549
+"51","VA","Virginia","Chesapeake city","city",NA,"October",2019,120588,123888,3300
+"51","VA","Virginia","Colonial Heights city","city",NA,"October",2019,8667,8947,280
+"51","VA","Virginia","Covington city","city",NA,"October",2019,2322,2410,88
+"51","VA","Virginia","Danville city","city",NA,"October",2019,18406,19268,862
+"51","VA","Virginia","Emporia city","city",NA,"October",2019,2192,2283,91
+"51","VA","Virginia","Fairfax city","city",NA,"October",2019,13414,13681,267
+"51","VA","Virginia","Falls Church city","city",NA,"October",2019,8581,8744,163
+"51","VA","Virginia","Franklin city","city",NA,"October",2019,3464,3603,139
+"51","VA","Virginia","Fredericksburg city","city",NA,"October",2019,13964,14389,425
+"51","VA","Virginia","Galax city","city",NA,"October",2019,2838,2919,81
+"51","VA","Virginia","Hampton city","city",NA,"October",2019,62669,64892,2223
+"51","VA","Virginia","Harrisonburg city","city",NA,"October",2019,24955,25648,693
+"51","VA","Virginia","Hopewell city","city",NA,"October",2019,9434,9816,382
+"51","VA","Virginia","Lexington city","city",NA,"October",2019,2039,2129,90
+"51","VA","Virginia","Lynchburg city","city",NA,"October",2019,35715,36902,1187
+"51","VA","Virginia","Manassas city","city",NA,"October",2019,21929,22414,485
+"51","VA","Virginia","Manassas Park city","city",NA,"October",2019,9317,9524,207
+"51","VA","Virginia","Martinsville city","city",NA,"October",2019,5289,5506,217
+"51","VA","Virginia","Newport News city","city",NA,"October",2019,86745,89557,2812
+"51","VA","Virginia","Norfolk city","city",NA,"October",2019,109028,112518,3490
+"51","VA","Virginia","Norton city","city",NA,"October",2019,1637,1691,54
+"51","VA","Virginia","Petersburg city","city",NA,"October",2019,12510,13179,669
+"51","VA","Virginia","Poquoson city","city",NA,"October",2019,6316,6463,147
+"51","VA","Virginia","Portsmouth city","city",NA,"October",2019,43032,44631,1599
+"51","VA","Virginia","Radford city","city",NA,"October",2019,8229,8491,262
+"51","VA","Virginia","Richmond city","city",NA,"October",2019,116325,119924,3599
+"51","VA","Virginia","Roanoke city","city",NA,"October",2019,48167,49535,1368
+"51","VA","Virginia","Salem city","city",NA,"October",2019,12757,13085,328
+"51","VA","Virginia","Staunton city","city",NA,"October",2019,12139,12443,304
+"51","VA","Virginia","Suffolk city","city",NA,"October",2019,43817,45076,1259
+"51","VA","Virginia","Virginia Beach city","city",NA,"October",2019,229249,235102,5853
+"51","VA","Virginia","Waynesboro city","city",NA,"October",2019,10581,10870,289
+"51","VA","Virginia","Williamsburg city","city",NA,"October",2019,6499,6734,235
+"51","VA","Virginia","Winchester city","city",NA,"October",2019,14752,15122,370
+"51","VA","Virginia","Accomack County","county",NA,"November",2019,16055,16553,498
+"51","VA","Virginia","Albemarle County","county",51003,"November",2019,56983,58238,1255
+"51","VA","Virginia","Alleghany County","county",51005,"November",2019,6635,6858,223
+"51","VA","Virginia","Amelia County","county",51007,"November",2019,6210,6382,172
+"51","VA","Virginia","Amherst County","county",51009,"November",2019,14733,15164,431
+"51","VA","Virginia","Appomattox County","county",51011,"November",2019,7006,7230,224
+"51","VA","Virginia","Arlington County","county",51013,"November",2019,154441,157073,2632
+"51","VA","Virginia","Augusta County","county",51015,"November",2019,37200,38025,825
+"51","VA","Virginia","Bath County","county",51017,"November",2019,2456,2510,54
+"51","VA","Virginia","Bedford County","county",51019,"November",2019,37826,38801,975
+"51","VA","Virginia","Bland County","county",51021,"November",2019,2795,2871,76
+"51","VA","Virginia","Botetourt County","county",51023,"November",2019,17121,17528,407
+"51","VA","Virginia","Brunswick County","county",51025,"November",2019,5759,6007,248
+"51","VA","Virginia","Buchanan County","county",51027,"November",2019,6272,6644,372
+"51","VA","Virginia","Buckingham County","county",51029,"November",2019,6294,6541,247
+"51","VA","Virginia","Campbell County","county",51031,"November",2019,25480,26217,737
+"51","VA","Virginia","Caroline County","county",51033,"November",2019,15044,15478,434
+"51","VA","Virginia","Carroll County","county",51035,"November",2019,12795,13207,412
+"51","VA","Virginia","Charles City County","county",51036,"November",2019,3612,3713,101
+"51","VA","Virginia","Charlotte County","county",51037,"November",2019,5116,5282,166
+"51","VA","Virginia","Chesterfield County","county",51041,"November",2019,185708,190312,4604
+"51","VA","Virginia","Clarke County","county",51043,"November",2019,7588,7749,161
+"51","VA","Virginia","Craig County","county",51045,"November",2019,2250,2313,63
+"51","VA","Virginia","Culpeper County","county",51047,"November",2019,24507,25061,554
+"51","VA","Virginia","Cumberland County","county",51049,"November",2019,4526,4649,123
+"51","VA","Virginia","Dickenson County","county",51051,"November",2019,4535,4762,227
+"51","VA","Virginia","Dinwiddie County","county",51053,"November",2019,13490,13876,386
+"51","VA","Virginia","Essex County","county",51057,"November",2019,5336,5505,169
+"51","VA","Virginia","Fairfax County","county",51059,"November",2019,633377,646369,12992
+"51","VA","Virginia","Fauquier County","county",51061,"November",2019,37171,37959,788
+"51","VA","Virginia","Floyd County","county",51063,"November",2019,8167,8350,183
+"51","VA","Virginia","Fluvanna County","county",51065,"November",2019,13863,14153,290
+"51","VA","Virginia","Franklin County","county",51067,"November",2019,25891,26620,729
+"51","VA","Virginia","Frederick County","county",51069,"November",2019,47914,48944,1030
+"51","VA","Virginia","Giles County","county",51071,"November",2019,7780,8001,221
+"51","VA","Virginia","Gloucester County","county",51073,"November",2019,19219,19669,450
+"51","VA","Virginia","Goochland County","county",51075,"November",2019,11128,11404,276
+"51","VA","Virginia","Grayson County","county",51077,"November",2019,7909,8129,220
+"51","VA","Virginia","Greene County","county",51079,"November",2019,10466,10687,221
+"51","VA","Virginia","Greensville County","county",51081,"November",2019,4160,4287,127
+"51","VA","Virginia","Halifax County","county",51083,"November",2019,15001,15545,544
+"51","VA","Virginia","Hanover County","county",51085,"November",2019,58896,60163,1267
+"51","VA","Virginia","Henrico County","county",51087,"November",2019,180149,184710,4561
+"51","VA","Virginia","Henry County","county",51089,"November",2019,22973,23698,725
+"51","VA","Virginia","Highland County","county",51091,"November",2019,1198,1233,35
+"51","VA","Virginia","Isle of Wight County","county",51093,"November",2019,19048,19540,492
+"51","VA","Virginia","James City County","county",51095,"November",2019,35860,36717,857
+"51","VA","Virginia","King and Queen County","county",51097,"November",2019,3774,3867,93
+"51","VA","Virginia","King George County","county",51099,"November",2019,13302,13625,323
+"51","VA","Virginia","King William County","county",51101,"November",2019,9089,9309,220
+"51","VA","Virginia","Lancaster County","county",51103,"November",2019,5310,5462,152
+"51","VA","Virginia","Lee County","county",51105,"November",2019,7955,8279,324
+"51","VA","Virginia","Loudoun County","county",51107,"November",2019,221820,226387,4567
+"51","VA","Virginia","Louisa County","county",51109,"November",2019,19891,20369,478
+"51","VA","Virginia","Lunenburg County","county",51111,"November",2019,5152,5300,148
+"51","VA","Virginia","Madison County","county",51113,"November",2019,7524,7668,144
+"51","VA","Virginia","Mathews County","county",51115,"November",2019,4050,4161,111
+"51","VA","Virginia","Mecklenburg County","county",51117,"November",2019,11963,12420,457
+"51","VA","Virginia","Middlesex County","county",51119,"November",2019,5229,5343,114
+"51","VA","Virginia","Montgomery County","county",51121,"November",2019,49549,50794,1245
+"51","VA","Virginia","Nelson County","county",51125,"November",2019,7424,7595,171
+"51","VA","Virginia","New Kent County","county",51127,"November",2019,12417,12679,262
+"51","VA","Virginia","Northampton County","county",51131,"November",2019,5286,5486,200
+"51","VA","Virginia","Northumberland County","county",51133,"November",2019,5577,5755,178
+"51","VA","Virginia","Nottoway County","county",51135,"November",2019,7166,7359,193
+"51","VA","Virginia","Orange County","county",51137,"November",2019,17215,17663,448
+"51","VA","Virginia","Page County","county",51139,"November",2019,11718,12072,354
+"51","VA","Virginia","Patrick County","county",51141,"November",2019,6975,7206,231
+"51","VA","Virginia","Pittsylvania County","county",51143,"November",2019,29433,30332,899
+"51","VA","Virginia","Powhatan County","county",51145,"November",2019,14049,14382,333
+"51","VA","Virginia","Prince Edward County","county",51147,"November",2019,9974,10322,348
+"51","VA","Virginia","Prince George County","county",51149,"November",2019,14847,15309,462
+"51","VA","Virginia","Prince William County","county",51153,"November",2019,244138,249663,5525
+"51","VA","Virginia","Pulaski County","county",51155,"November",2019,15795,16249,454
+"51","VA","Virginia","Rappahannock County","county",51157,"November",2019,3697,3777,80
+"51","VA","Virginia","Richmond County","county",51159,"November",2019,4020,4119,99
+"51","VA","Virginia","Roanoke County","county",51161,"November",2019,48500,49645,1145
+"51","VA","Virginia","Rockbridge County","county",51163,"November",2019,10621,10883,262
+"51","VA","Virginia","Rockingham County","county",51165,"November",2019,41988,42832,844
+"51","VA","Virginia","Russell County","county",51167,"November",2019,10820,11227,407
+"51","VA","Virginia","Scott County","county",51169,"November",2019,8910,9154,244
+"51","VA","Virginia","Shenandoah County","county",51171,"November",2019,21928,22423,495
+"51","VA","Virginia","Smyth County","county",51173,"November",2019,13388,13857,469
+"51","VA","Virginia","Southampton County","county",51175,"November",2019,8959,9177,218
+"51","VA","Virginia","Spotsylvania County","county",51177,"November",2019,66433,68133,1700
+"51","VA","Virginia","Stafford County","county",51179,"November",2019,71444,73236,1792
+"51","VA","Virginia","Surry County","county",51181,"November",2019,3667,3778,111
+"51","VA","Virginia","Sussex County","county",51183,"November",2019,3733,3889,156
+"51","VA","Virginia","Tazewell County","county",51185,"November",2019,15055,15670,615
+"51","VA","Virginia","Warren County","county",51187,"November",2019,20275,20787,512
+"51","VA","Virginia","Washington County","county",51191,"November",2019,26038,26813,775
+"51","VA","Virginia","Westmoreland County","county",51193,"November",2019,9358,9648,290
+"51","VA","Virginia","Wise County","county",51195,"November",2019,12879,13443,564
+"51","VA","Virginia","Wythe County","county",51197,"November",2019,13350,13790,440
+"51","VA","Virginia","York County","county",51199,"November",2019,32073,32868,795
+"51","VA","Virginia","Alexandria city","city",NA,"November",2019,101176,103116,1940
+"51","VA","Virginia","Bristol city","city",NA,"November",2019,6978,7225,247
+"51","VA","Virginia","Buena Vista city","city",NA,"November",2019,3451,3533,82
+"51","VA","Virginia","Charlottesville city","city",NA,"November",2019,26300,26824,524
+"51","VA","Virginia","Chesapeake city","city",NA,"November",2019,119807,122966,3159
+"51","VA","Virginia","Colonial Heights city","city",NA,"November",2019,8679,8936,257
+"51","VA","Virginia","Covington city","city",NA,"November",2019,2282,2371,89
+"51","VA","Virginia","Danville city","city",NA,"November",2019,18541,19347,806
+"51","VA","Virginia","Emporia city","city",NA,"November",2019,2180,2274,94
+"51","VA","Virginia","Fairfax city","city",NA,"November",2019,13432,13694,262
+"51","VA","Virginia","Falls Church city","city",NA,"November",2019,8593,8748,155
+"51","VA","Virginia","Franklin city","city",NA,"November",2019,3460,3597,137
+"51","VA","Virginia","Fredericksburg city","city",NA,"November",2019,13945,14359,414
+"51","VA","Virginia","Galax city","city",NA,"November",2019,2830,2917,87
+"51","VA","Virginia","Hampton city","city",NA,"November",2019,62265,64402,2137
+"51","VA","Virginia","Harrisonburg city","city",NA,"November",2019,24769,25446,677
+"51","VA","Virginia","Hopewell city","city",NA,"November",2019,9431,9810,379
+"51","VA","Virginia","Lexington city","city",NA,"November",2019,2022,2108,86
+"51","VA","Virginia","Lynchburg city","city",NA,"November",2019,35386,36552,1166
+"51","VA","Virginia","Manassas city","city",NA,"November",2019,21931,22409,478
+"51","VA","Virginia","Manassas Park city","city",NA,"November",2019,9335,9534,199
+"51","VA","Virginia","Martinsville city","city",NA,"November",2019,5281,5487,206
+"51","VA","Virginia","Newport News city","city",NA,"November",2019,86165,88843,2678
+"51","VA","Virginia","Norfolk city","city",NA,"November",2019,108303,111683,3380
+"51","VA","Virginia","Norton city","city",NA,"November",2019,1633,1688,55
+"51","VA","Virginia","Petersburg city","city",NA,"November",2019,12520,13171,651
+"51","VA","Virginia","Poquoson city","city",NA,"November",2019,6281,6418,137
+"51","VA","Virginia","Portsmouth city","city",NA,"November",2019,42766,44329,1563
+"51","VA","Virginia","Radford city","city",NA,"November",2019,8474,8738,264
+"51","VA","Virginia","Richmond city","city",NA,"November",2019,116548,120010,3462
+"51","VA","Virginia","Roanoke city","city",NA,"November",2019,48046,49378,1332
+"51","VA","Virginia","Salem city","city",NA,"November",2019,12707,13027,320
+"51","VA","Virginia","Staunton city","city",NA,"November",2019,12085,12367,282
+"51","VA","Virginia","Suffolk city","city",NA,"November",2019,43508,44706,1198
+"51","VA","Virginia","Virginia Beach city","city",NA,"November",2019,228046,233715,5669
+"51","VA","Virginia","Waynesboro city","city",NA,"November",2019,10530,10798,268
+"51","VA","Virginia","Williamsburg city","city",NA,"November",2019,6467,6685,218
+"51","VA","Virginia","Winchester city","city",NA,"November",2019,14687,15051,364
+"51","VA","Virginia","Accomack County","county",NA,"December",2019,15996,16588,592
+"51","VA","Virginia","Albemarle County","county",51003,"December",2019,56748,57881,1133
+"51","VA","Virginia","Alleghany County","county",51005,"December",2019,6665,6902,237
+"51","VA","Virginia","Amelia County","county",51007,"December",2019,6224,6403,179
+"51","VA","Virginia","Amherst County","county",51009,"December",2019,14623,15060,437
+"51","VA","Virginia","Appomattox County","county",51011,"December",2019,6960,7190,230
+"51","VA","Virginia","Arlington County","county",51013,"December",2019,154142,156564,2422
+"51","VA","Virginia","Augusta County","county",51015,"December",2019,37254,38007,753
+"51","VA","Virginia","Bath County","county",51017,"December",2019,2459,2515,56
+"51","VA","Virginia","Bedford County","county",51019,"December",2019,37530,38503,973
+"51","VA","Virginia","Bland County","county",51021,"December",2019,2793,2882,89
+"51","VA","Virginia","Botetourt County","county",51023,"December",2019,17068,17447,379
+"51","VA","Virginia","Brunswick County","county",51025,"December",2019,5759,5996,237
+"51","VA","Virginia","Buchanan County","county",51027,"December",2019,6295,6701,406
+"51","VA","Virginia","Buckingham County","county",51029,"December",2019,6275,6563,288
+"51","VA","Virginia","Campbell County","county",51031,"December",2019,25277,25970,693
+"51","VA","Virginia","Caroline County","county",51033,"December",2019,15044,15486,442
+"51","VA","Virginia","Carroll County","county",51035,"December",2019,12781,13337,556
+"51","VA","Virginia","Charles City County","county",51036,"December",2019,3620,3729,109
+"51","VA","Virginia","Charlotte County","county",51037,"December",2019,5146,5335,189
+"51","VA","Virginia","Chesterfield County","county",51041,"December",2019,185622,190107,4485
+"51","VA","Virginia","Clarke County","county",51043,"December",2019,7595,7747,152
+"51","VA","Virginia","Craig County","county",51045,"December",2019,2243,2301,58
+"51","VA","Virginia","Culpeper County","county",51047,"December",2019,24490,25029,539
+"51","VA","Virginia","Cumberland County","county",51049,"December",2019,4514,4635,121
+"51","VA","Virginia","Dickenson County","county",51051,"December",2019,4540,4799,259
+"51","VA","Virginia","Dinwiddie County","county",51053,"December",2019,13497,13876,379
+"51","VA","Virginia","Essex County","county",51057,"December",2019,5334,5513,179
+"51","VA","Virginia","Fairfax County","county",51059,"December",2019,632136,644145,12009
+"51","VA","Virginia","Fauquier County","county",51061,"December",2019,37179,37909,730
+"51","VA","Virginia","Floyd County","county",51063,"December",2019,8216,8455,239
+"51","VA","Virginia","Fluvanna County","county",51065,"December",2019,13794,14053,259
+"51","VA","Virginia","Franklin County","county",51067,"December",2019,25827,26551,724
+"51","VA","Virginia","Frederick County","county",51069,"December",2019,47825,48791,966
+"51","VA","Virginia","Giles County","county",51071,"December",2019,7807,8153,346
+"51","VA","Virginia","Gloucester County","county",51073,"December",2019,19287,19721,434
+"51","VA","Virginia","Goochland County","county",51075,"December",2019,11131,11382,251
+"51","VA","Virginia","Grayson County","county",51077,"December",2019,7821,8068,247
+"51","VA","Virginia","Greene County","county",51079,"December",2019,10421,10629,208
+"51","VA","Virginia","Greensville County","county",51081,"December",2019,4171,4299,128
+"51","VA","Virginia","Halifax County","county",51083,"December",2019,14934,15494,560
+"51","VA","Virginia","Hanover County","county",51085,"December",2019,58892,60102,1210
+"51","VA","Virginia","Henrico County","county",51087,"December",2019,180049,184449,4400
+"51","VA","Virginia","Henry County","county",51089,"December",2019,22942,23667,725
+"51","VA","Virginia","Highland County","county",51091,"December",2019,1223,1264,41
+"51","VA","Virginia","Isle of Wight County","county",51093,"December",2019,19117,19617,500
+"51","VA","Virginia","James City County","county",51095,"December",2019,35957,36763,806
+"51","VA","Virginia","King and Queen County","county",51097,"December",2019,3829,3923,94
+"51","VA","Virginia","King George County","county",51099,"December",2019,13267,13579,312
+"51","VA","Virginia","King William County","county",51101,"December",2019,9091,9311,220
+"51","VA","Virginia","Lancaster County","county",51103,"December",2019,5298,5503,205
+"51","VA","Virginia","Lee County","county",51105,"December",2019,7970,8303,333
+"51","VA","Virginia","Loudoun County","county",51107,"December",2019,221462,225748,4286
+"51","VA","Virginia","Louisa County","county",51109,"December",2019,19619,20087,468
+"51","VA","Virginia","Lunenburg County","county",51111,"December",2019,5182,5330,148
+"51","VA","Virginia","Madison County","county",51113,"December",2019,7463,7596,133
+"51","VA","Virginia","Mathews County","county",51115,"December",2019,4064,4158,94
+"51","VA","Virginia","Mecklenburg County","county",51117,"December",2019,11951,12439,488
+"51","VA","Virginia","Middlesex County","county",51119,"December",2019,5179,5300,121
+"51","VA","Virginia","Montgomery County","county",51121,"December",2019,49677,50945,1268
+"51","VA","Virginia","Nelson County","county",51125,"December",2019,7405,7567,162
+"51","VA","Virginia","New Kent County","county",51127,"December",2019,12415,12662,247
+"51","VA","Virginia","Northampton County","county",51131,"December",2019,5288,5525,237
+"51","VA","Virginia","Northumberland County","county",51133,"December",2019,5584,5792,208
+"51","VA","Virginia","Nottoway County","county",51135,"December",2019,7177,7360,183
+"51","VA","Virginia","Orange County","county",51137,"December",2019,17150,17585,435
+"51","VA","Virginia","Page County","county",51139,"December",2019,11522,12043,521
+"51","VA","Virginia","Patrick County","county",51141,"December",2019,6952,7160,208
+"51","VA","Virginia","Pittsylvania County","county",51143,"December",2019,29429,30315,886
+"51","VA","Virginia","Powhatan County","county",51145,"December",2019,14043,14366,323
+"51","VA","Virginia","Prince Edward County","county",51147,"December",2019,9895,10245,350
+"51","VA","Virginia","Prince George County","county",51149,"December",2019,14845,15289,444
+"51","VA","Virginia","Prince William County","county",51153,"December",2019,243685,248978,5293
+"51","VA","Virginia","Pulaski County","county",51155,"December",2019,15832,16803,971
+"51","VA","Virginia","Rappahannock County","county",51157,"December",2019,3700,3772,72
+"51","VA","Virginia","Richmond County","county",51159,"December",2019,4024,4130,106
+"51","VA","Virginia","Roanoke County","county",51161,"December",2019,48306,49438,1132
+"51","VA","Virginia","Rockbridge County","county",51163,"December",2019,10483,10729,246
+"51","VA","Virginia","Rockingham County","county",51165,"December",2019,42129,42928,799
+"51","VA","Virginia","Russell County","county",51167,"December",2019,10789,11238,449
+"51","VA","Virginia","Scott County","county",51169,"December",2019,8925,9159,234
+"51","VA","Virginia","Shenandoah County","county",51171,"December",2019,21986,22454,468
+"51","VA","Virginia","Smyth County","county",51173,"December",2019,13353,13846,493
+"51","VA","Virginia","Southampton County","county",51175,"December",2019,8992,9224,232
+"51","VA","Virginia","Spotsylvania County","county",51177,"December",2019,66327,67981,1654
+"51","VA","Virginia","Stafford County","county",51179,"December",2019,71316,73004,1688
+"51","VA","Virginia","Surry County","county",51181,"December",2019,3553,3666,113
+"51","VA","Virginia","Sussex County","county",51183,"December",2019,3757,3917,160
+"51","VA","Virginia","Tazewell County","county",51185,"December",2019,14970,15644,674
+"51","VA","Virginia","Warren County","county",51187,"December",2019,20247,20727,480
+"51","VA","Virginia","Washington County","county",51191,"December",2019,26070,26848,778
+"51","VA","Virginia","Westmoreland County","county",51193,"December",2019,9288,9616,328
+"51","VA","Virginia","Wise County","county",51195,"December",2019,12837,13409,572
+"51","VA","Virginia","Wythe County","county",51197,"December",2019,13379,14086,707
+"51","VA","Virginia","York County","county",51199,"December",2019,32159,32891,732
+"51","VA","Virginia","Alexandria city","city",NA,"December",2019,100983,102848,1865
+"51","VA","Virginia","Bristol city","city",NA,"December",2019,6978,7217,239
+"51","VA","Virginia","Buena Vista city","city",NA,"December",2019,3422,3506,84
+"51","VA","Virginia","Charlottesville city","city",NA,"December",2019,26170,26660,490
+"51","VA","Virginia","Chesapeake city","city",NA,"December",2019,120143,123210,3067
+"51","VA","Virginia","Colonial Heights city","city",NA,"December",2019,8675,8921,246
+"51","VA","Virginia","Covington city","city",NA,"December",2019,2288,2396,108
+"51","VA","Virginia","Danville city","city",NA,"December",2019,18510,19368,858
+"51","VA","Virginia","Emporia city","city",NA,"December",2019,2191,2287,96
+"51","VA","Virginia","Fairfax city","city",NA,"December",2019,13405,13641,236
+"51","VA","Virginia","Falls Church city","city",NA,"December",2019,8576,8723,147
+"51","VA","Virginia","Franklin city","city",NA,"December",2019,3456,3599,143
+"51","VA","Virginia","Fredericksburg city","city",NA,"December",2019,13916,14322,406
+"51","VA","Virginia","Galax city","city",NA,"December",2019,2822,2907,85
+"51","VA","Virginia","Hampton city","city",NA,"December",2019,62436,64646,2210
+"51","VA","Virginia","Harrisonburg city","city",NA,"December",2019,24804,25439,635
+"51","VA","Virginia","Hopewell city","city",NA,"December",2019,9427,9838,411
+"51","VA","Virginia","Lexington city","city",NA,"December",2019,1981,2063,82
+"51","VA","Virginia","Lynchburg city","city",NA,"December",2019,35091,36265,1174
+"51","VA","Virginia","Manassas city","city",NA,"December",2019,21888,22339,451
+"51","VA","Virginia","Manassas Park city","city",NA,"December",2019,9316,9502,186
+"51","VA","Virginia","Martinsville city","city",NA,"December",2019,5265,5487,222
+"51","VA","Virginia","Newport News city","city",NA,"December",2019,86393,89151,2758
+"51","VA","Virginia","Norfolk city","city",NA,"December",2019,108587,111990,3403
+"51","VA","Virginia","Norton city","city",NA,"December",2019,1628,1684,56
+"51","VA","Virginia","Petersburg city","city",NA,"December",2019,12514,13190,676
+"51","VA","Virginia","Poquoson city","city",NA,"December",2019,6306,6443,137
+"51","VA","Virginia","Portsmouth city","city",NA,"December",2019,42877,44488,1611
+"51","VA","Virginia","Radford city","city",NA,"December",2019,8494,8784,290
+"51","VA","Virginia","Richmond city","city",NA,"December",2019,116483,119856,3373
+"51","VA","Virginia","Roanoke city","city",NA,"December",2019,47848,49181,1333
+"51","VA","Virginia","Salem city","city",NA,"December",2019,12655,12962,307
+"51","VA","Virginia","Staunton city","city",NA,"December",2019,12083,12361,278
+"51","VA","Virginia","Suffolk city","city",NA,"December",2019,43636,44826,1190
+"51","VA","Virginia","Virginia Beach city","city",NA,"December",2019,228643,234164,5521
+"51","VA","Virginia","Waynesboro city","city",NA,"December",2019,10527,10793,266
+"51","VA","Virginia","Williamsburg city","city",NA,"December",2019,6484,6687,203
+"51","VA","Virginia","Winchester city","city",NA,"December",2019,14673,15023,350
+"51","VA","Virginia","Accomack County","county",NA,"January",2020,15683,16471,788
+"51","VA","Virginia","Albemarle County","county",51003,"January",2020,56585,58100,1515
+"51","VA","Virginia","Alleghany County","county",51005,"January",2020,6685,7015,330
+"51","VA","Virginia","Amelia County","county",51007,"January",2020,6187,6417,230
+"51","VA","Virginia","Amherst County","county",51009,"January",2020,14587,15124,537
+"51","VA","Virginia","Appomattox County","county",51011,"January",2020,6929,7227,298
+"51","VA","Virginia","Arlington County","county",51013,"January",2020,154118,157319,3201
+"51","VA","Virginia","Augusta County","county",51015,"January",2020,37251,38242,991
+"51","VA","Virginia","Bath County","county",51017,"January",2020,2476,2562,86
+"51","VA","Virginia","Bedford County","county",51019,"January",2020,37428,38664,1236
+"51","VA","Virginia","Bland County","county",51021,"January",2020,2774,2853,79
+"51","VA","Virginia","Botetourt County","county",51023,"January",2020,17070,17571,501
+"51","VA","Virginia","Brunswick County","county",51025,"January",2020,5720,6034,314
+"51","VA","Virginia","Buchanan County","county",51027,"January",2020,6272,6808,536
+"51","VA","Virginia","Buckingham County","county",51029,"January",2020,6243,6577,334
+"51","VA","Virginia","Campbell County","county",51031,"January",2020,25234,26137,903
+"51","VA","Virginia","Caroline County","county",51033,"January",2020,15041,15597,556
+"51","VA","Virginia","Carroll County","county",51035,"January",2020,12763,13291,528
+"51","VA","Virginia","Charles City County","county",51036,"January",2020,3606,3747,141
+"51","VA","Virginia","Charlotte County","county",51037,"January",2020,5093,5310,217
+"51","VA","Virginia","Chesterfield County","county",51041,"January",2020,185840,191338,5498
+"51","VA","Virginia","Clarke County","county",51043,"January",2020,7537,7735,198
+"51","VA","Virginia","Craig County","county",51045,"January",2020,2240,2318,78
+"51","VA","Virginia","Culpeper County","county",51047,"January",2020,24360,25102,742
+"51","VA","Virginia","Cumberland County","county",51049,"January",2020,4513,4687,174
+"51","VA","Virginia","Dickenson County","county",51051,"January",2020,4522,4828,306
+"51","VA","Virginia","Dinwiddie County","county",51053,"January",2020,13454,13945,491
+"51","VA","Virginia","Essex County","county",51057,"January",2020,5313,5544,231
+"51","VA","Virginia","Fairfax County","county",51059,"January",2020,631589,647069,15480
+"51","VA","Virginia","Fauquier County","county",51061,"January",2020,36960,37933,973
+"51","VA","Virginia","Floyd County","county",51063,"January",2020,7839,8105,266
+"51","VA","Virginia","Fluvanna County","county",51065,"January",2020,13779,14134,355
+"51","VA","Virginia","Franklin County","county",51067,"January",2020,25768,26679,911
+"51","VA","Virginia","Frederick County","county",51069,"January",2020,47700,48968,1268
+"51","VA","Virginia","Giles County","county",51071,"January",2020,7485,7767,282
+"51","VA","Virginia","Gloucester County","county",51073,"January",2020,19140,19711,571
+"51","VA","Virginia","Goochland County","county",51075,"January",2020,11101,11434,333
+"51","VA","Virginia","Grayson County","county",51077,"January",2020,7922,8201,279
+"51","VA","Virginia","Greene County","county",51079,"January",2020,10389,10658,269
+"51","VA","Virginia","Greensville County","county",51081,"January",2020,4141,4290,149
+"51","VA","Virginia","Halifax County","county",51083,"January",2020,14914,15641,727
+"51","VA","Virginia","Hanover County","county",51085,"January",2020,58904,60459,1555
+"51","VA","Virginia","Henrico County","county",51087,"January",2020,180352,185734,5382
+"51","VA","Virginia","Henry County","county",51089,"January",2020,23091,24023,932
+"51","VA","Virginia","Highland County","county",51091,"January",2020,1181,1227,46
+"51","VA","Virginia","Isle of Wight County","county",51093,"January",2020,18960,19556,596
+"51","VA","Virginia","James City County","county",51095,"January",2020,35744,36895,1151
+"51","VA","Virginia","King and Queen County","county",51097,"January",2020,3783,3896,113
+"51","VA","Virginia","King George County","county",51099,"January",2020,13358,13756,398
+"51","VA","Virginia","King William County","county",51101,"January",2020,9065,9341,276
+"51","VA","Virginia","Lancaster County","county",51103,"January",2020,5168,5539,371
+"51","VA","Virginia","Lee County","county",51105,"January",2020,7942,8343,401
+"51","VA","Virginia","Loudoun County","county",51107,"January",2020,221331,226778,5447
+"51","VA","Virginia","Louisa County","county",51109,"January",2020,19528,20173,645
+"51","VA","Virginia","Lunenburg County","county",51111,"January",2020,5188,5359,171
+"51","VA","Virginia","Madison County","county",51113,"January",2020,7335,7516,181
+"51","VA","Virginia","Mathews County","county",51115,"January",2020,4035,4170,135
+"51","VA","Virginia","Mecklenburg County","county",51117,"January",2020,11806,12378,572
+"51","VA","Virginia","Middlesex County","county",51119,"January",2020,5130,5296,166
+"51","VA","Virginia","Montgomery County","county",51121,"January",2020,47723,49186,1463
+"51","VA","Virginia","Nelson County","county",51125,"January",2020,7333,7541,208
+"51","VA","Virginia","New Kent County","county",51127,"January",2020,12408,12727,319
+"51","VA","Virginia","Northampton County","county",51131,"January",2020,5103,5398,295
+"51","VA","Virginia","Northumberland County","county",51133,"January",2020,5301,5686,385
+"51","VA","Virginia","Nottoway County","county",51135,"January",2020,7179,7396,217
+"51","VA","Virginia","Orange County","county",51137,"January",2020,17089,17648,559
+"51","VA","Virginia","Page County","county",51139,"January",2020,11376,12081,705
+"51","VA","Virginia","Patrick County","county",51141,"January",2020,6839,7127,288
+"51","VA","Virginia","Pittsylvania County","county",51143,"January",2020,29096,30278,1182
+"51","VA","Virginia","Powhatan County","county",51145,"January",2020,14036,14462,426
+"51","VA","Virginia","Prince Edward County","county",51147,"January",2020,9954,10379,425
+"51","VA","Virginia","Prince George County","county",51149,"January",2020,14860,15419,559
+"51","VA","Virginia","Prince William County","county",51153,"January",2020,243661,250393,6732
+"51","VA","Virginia","Pulaski County","county",51155,"January",2020,15208,15782,574
+"51","VA","Virginia","Rappahannock County","county",51157,"January",2020,3657,3760,103
+"51","VA","Virginia","Richmond County","county",51159,"January",2020,3973,4119,146
+"51","VA","Virginia","Roanoke County","county",51161,"January",2020,48398,49816,1418
+"51","VA","Virginia","Rockbridge County","county",51163,"January",2020,10447,10789,342
+"51","VA","Virginia","Rockingham County","county",51165,"January",2020,41947,43037,1090
+"51","VA","Virginia","Russell County","county",51167,"January",2020,10829,11425,596
+"51","VA","Virginia","Scott County","county",51169,"January",2020,8904,9243,339
+"51","VA","Virginia","Shenandoah County","county",51171,"January",2020,22110,22731,621
+"51","VA","Virginia","Smyth County","county",51173,"January",2020,13321,13925,604
+"51","VA","Virginia","Southampton County","county",51175,"January",2020,8831,9108,277
+"51","VA","Virginia","Spotsylvania County","county",51177,"January",2020,66262,68354,2092
+"51","VA","Virginia","Stafford County","county",51179,"January",2020,71348,73480,2132
+"51","VA","Virginia","Surry County","county",51181,"January",2020,3518,3659,141
+"51","VA","Virginia","Sussex County","county",51183,"January",2020,3702,3903,201
+"51","VA","Virginia","Tazewell County","county",51185,"January",2020,14912,15757,845
+"51","VA","Virginia","Warren County","county",51187,"January",2020,20194,20850,656
+"51","VA","Virginia","Washington County","county",51191,"January",2020,26040,27048,1008
+"51","VA","Virginia","Westmoreland County","county",51193,"January",2020,9135,9547,412
+"51","VA","Virginia","Wise County","county",51195,"January",2020,12707,13411,704
+"51","VA","Virginia","Wythe County","county",51197,"January",2020,13131,13659,528
+"51","VA","Virginia","York County","county",51199,"January",2020,32012,32980,968
+"51","VA","Virginia","Alexandria city","city",NA,"January",2020,100950,103294,2344
+"51","VA","Virginia","Bristol city","city",NA,"January",2020,6972,7273,301
+"51","VA","Virginia","Buena Vista city","city",NA,"January",2020,3587,3690,103
+"51","VA","Virginia","Charlottesville city","city",NA,"January",2020,26175,26844,669
+"51","VA","Virginia","Chesapeake city","city",NA,"January",2020,119606,123365,3759
+"51","VA","Virginia","Colonial Heights city","city",NA,"January",2020,8687,8983,296
+"51","VA","Virginia","Covington city","city",NA,"January",2020,2293,2436,143
+"51","VA","Virginia","Danville city","city",NA,"January",2020,18244,19303,1059
+"51","VA","Virginia","Emporia city","city",NA,"January",2020,2168,2281,113
+"51","VA","Virginia","Fairfax city","city",NA,"January",2020,13392,13704,312
+"51","VA","Virginia","Falls Church city","city",NA,"January",2020,8569,8751,182
+"51","VA","Virginia","Franklin city","city",NA,"January",2020,3426,3581,155
+"51","VA","Virginia","Fredericksburg city","city",NA,"January",2020,13926,14420,494
+"51","VA","Virginia","Galax city","city",NA,"January",2020,2819,2919,100
+"51","VA","Virginia","Hampton city","city",NA,"January",2020,62170,64823,2653
+"51","VA","Virginia","Harrisonburg city","city",NA,"January",2020,24841,25641,800
+"51","VA","Virginia","Hopewell city","city",NA,"January",2020,9449,9909,460
+"51","VA","Virginia","Lexington city","city",NA,"January",2020,2006,2107,101
+"51","VA","Virginia","Lynchburg city","city",NA,"January",2020,35081,36495,1414
+"51","VA","Virginia","Manassas city","city",NA,"January",2020,21879,22510,631
+"51","VA","Virginia","Manassas Park city","city",NA,"January",2020,9303,9566,263
+"51","VA","Virginia","Martinsville city","city",NA,"January",2020,5268,5542,274
+"51","VA","Virginia","Newport News city","city",NA,"January",2020,86056,89554,3498
+"51","VA","Virginia","Norfolk city","city",NA,"January",2020,108168,112273,4105
+"51","VA","Virginia","Norton city","city",NA,"January",2020,1613,1694,81
+"51","VA","Virginia","Petersburg city","city",NA,"January",2020,12535,13312,777
+"51","VA","Virginia","Poquoson city","city",NA,"January",2020,6253,6424,171
+"51","VA","Virginia","Portsmouth city","city",NA,"January",2020,42702,44482,1780
+"51","VA","Virginia","Radford city","city",NA,"January",2020,8166,8492,326
+"51","VA","Virginia","Richmond city","city",NA,"January",2020,116615,120799,4184
+"51","VA","Virginia","Roanoke city","city",NA,"January",2020,47947,49622,1675
+"51","VA","Virginia","Salem city","city",NA,"January",2020,12692,13088,396
+"51","VA","Virginia","Staunton city","city",NA,"January",2020,12134,12497,363
+"51","VA","Virginia","Suffolk city","city",NA,"January",2020,43440,44885,1445
+"51","VA","Virginia","Virginia Beach city","city",NA,"January",2020,227555,234357,6802
+"51","VA","Virginia","Waynesboro city","city",NA,"January",2020,10581,10904,323
+"51","VA","Virginia","Williamsburg city","city",NA,"January",2020,6454,6736,282
+"51","VA","Virginia","Winchester city","city",NA,"January",2020,14605,15069,464
+"51","VA","Virginia","Accomack County","county",NA,"February",2020,15771,16485,714
+"51","VA","Virginia","Albemarle County","county",51003,"February",2020,57745,59054,1309
+"51","VA","Virginia","Alleghany County","county",51005,"February",2020,6678,6973,295
+"51","VA","Virginia","Amelia County","county",51007,"February",2020,6234,6439,205
+"51","VA","Virginia","Amherst County","county",51009,"February",2020,14689,15189,500
+"51","VA","Virginia","Appomattox County","county",51011,"February",2020,6974,7253,279
+"51","VA","Virginia","Arlington County","county",51013,"February",2020,155616,158455,2839
+"51","VA","Virginia","Augusta County","county",51015,"February",2020,37502,38381,879
+"51","VA","Virginia","Bath County","county",51017,"February",2020,2459,2530,71
+"51","VA","Virginia","Bedford County","county",51019,"February",2020,37702,38830,1128
+"51","VA","Virginia","Bland County","county",51021,"February",2020,2818,2912,94
+"51","VA","Virginia","Botetourt County","county",51023,"February",2020,17203,17659,456
+"51","VA","Virginia","Brunswick County","county",51025,"February",2020,5760,6044,284
+"51","VA","Virginia","Buchanan County","county",51027,"February",2020,6264,6733,469
+"51","VA","Virginia","Buckingham County","county",51029,"February",2020,6363,6671,308
+"51","VA","Virginia","Campbell County","county",51031,"February",2020,25419,26275,856
+"51","VA","Virginia","Caroline County","county",51033,"February",2020,15185,15701,516
+"51","VA","Virginia","Carroll County","county",51035,"February",2020,12924,13561,637
+"51","VA","Virginia","Charles City County","county",51036,"February",2020,3633,3757,124
+"51","VA","Virginia","Charlotte County","county",51037,"February",2020,5121,5319,198
+"51","VA","Virginia","Chesterfield County","county",51041,"February",2020,187710,192727,5017
+"51","VA","Virginia","Clarke County","county",51043,"February",2020,7590,7766,176
+"51","VA","Virginia","Craig County","county",51045,"February",2020,2258,2324,66
+"51","VA","Virginia","Culpeper County","county",51047,"February",2020,24566,25262,696
+"51","VA","Virginia","Cumberland County","county",51049,"February",2020,4572,4722,150
+"51","VA","Virginia","Dickenson County","county",51051,"February",2020,4556,4856,300
+"51","VA","Virginia","Dinwiddie County","county",51053,"February",2020,13574,14024,450
+"51","VA","Virginia","Essex County","county",51057,"February",2020,5337,5564,227
+"51","VA","Virginia","Fairfax County","county",51059,"February",2020,637718,651529,13811
+"51","VA","Virginia","Fauquier County","county",51061,"February",2020,37244,38135,891
+"51","VA","Virginia","Floyd County","county",51063,"February",2020,8167,8417,250
+"51","VA","Virginia","Fluvanna County","county",51065,"February",2020,14072,14396,324
+"51","VA","Virginia","Franklin County","county",51067,"February",2020,25953,26795,842
+"51","VA","Virginia","Frederick County","county",51069,"February",2020,48136,49266,1130
+"51","VA","Virginia","Giles County","county",51071,"February",2020,7844,8144,300
+"51","VA","Virginia","Gloucester County","county",51073,"February",2020,19268,19794,526
+"51","VA","Virginia","Goochland County","county",51075,"February",2020,11204,11494,290
+"51","VA","Virginia","Grayson County","county",51077,"February",2020,7999,8294,295
+"51","VA","Virginia","Greene County","county",51079,"February",2020,10603,10845,242
+"51","VA","Virginia","Greensville County","county",51081,"February",2020,4168,4313,145
+"51","VA","Virginia","Halifax County","county",51083,"February",2020,15015,15689,674
+"51","VA","Virginia","Hanover County","county",51085,"February",2020,59473,60864,1391
+"51","VA","Virginia","Henrico County","county",51087,"February",2020,182188,187065,4877
+"51","VA","Virginia","Henry County","county",51089,"February",2020,23287,24091,804
+"51","VA","Virginia","Highland County","county",51091,"February",2020,1170,1207,37
+"51","VA","Virginia","Isle of Wight County","county",51093,"February",2020,19082,19627,545
+"51","VA","Virginia","James City County","county",51095,"February",2020,36008,37012,1004
+"51","VA","Virginia","King and Queen County","county",51097,"February",2020,3832,3934,102
+"51","VA","Virginia","King George County","county",51099,"February",2020,13485,13853,368
+"51","VA","Virginia","King William County","county",51101,"February",2020,9149,9407,258
+"51","VA","Virginia","Lancaster County","county",51103,"February",2020,5147,5498,351
+"51","VA","Virginia","Lee County","county",51105,"February",2020,7987,8377,390
+"51","VA","Virginia","Loudoun County","county",51107,"February",2020,223417,228327,4910
+"51","VA","Virginia","Louisa County","county",51109,"February",2020,19833,20412,579
+"51","VA","Virginia","Lunenburg County","county",51111,"February",2020,5184,5347,163
+"51","VA","Virginia","Madison County","county",51113,"February",2020,7408,7568,160
+"51","VA","Virginia","Mathews County","county",51115,"February",2020,4063,4184,121
+"51","VA","Virginia","Mecklenburg County","county",51117,"February",2020,11861,12372,511
+"51","VA","Virginia","Middlesex County","county",51119,"February",2020,5175,5333,158
+"51","VA","Virginia","Montgomery County","county",51121,"February",2020,50146,51507,1361
+"51","VA","Virginia","Nelson County","county",51125,"February",2020,7464,7662,198
+"51","VA","Virginia","New Kent County","county",51127,"February",2020,12526,12816,290
+"51","VA","Virginia","Northampton County","county",51131,"February",2020,5081,5366,285
+"51","VA","Virginia","Northumberland County","county",51133,"February",2020,5353,5719,366
+"51","VA","Virginia","Nottoway County","county",51135,"February",2020,7206,7412,206
+"51","VA","Virginia","Orange County","county",51137,"February",2020,17219,17724,505
+"51","VA","Virginia","Page County","county",51139,"February",2020,11459,12107,648
+"51","VA","Virginia","Patrick County","county",51141,"February",2020,6885,7153,268
+"51","VA","Virginia","Pittsylvania County","county",51143,"February",2020,29129,30283,1154
+"51","VA","Virginia","Powhatan County","county",51145,"February",2020,14174,14556,382
+"51","VA","Virginia","Prince Edward County","county",51147,"February",2020,10125,10507,382
+"51","VA","Virginia","Prince George County","county",51149,"February",2020,15006,15511,505
+"51","VA","Virginia","Prince William County","county",51153,"February",2020,246012,252178,6166
+"51","VA","Virginia","Pulaski County","county",51155,"February",2020,15973,16787,814
+"51","VA","Virginia","Rappahannock County","county",51157,"February",2020,3681,3771,90
+"51","VA","Virginia","Richmond County","county",51159,"February",2020,4002,4129,127
+"51","VA","Virginia","Roanoke County","county",51161,"February",2020,48811,50126,1315
+"51","VA","Virginia","Rockbridge County","county",51163,"February",2020,10517,10810,293
+"51","VA","Virginia","Rockingham County","county",51165,"February",2020,42389,43353,964
+"51","VA","Virginia","Russell County","county",51167,"February",2020,10876,11448,572
+"51","VA","Virginia","Scott County","county",51169,"February",2020,8940,9264,324
+"51","VA","Virginia","Shenandoah County","county",51171,"February",2020,22232,22799,567
+"51","VA","Virginia","Smyth County","county",51173,"February",2020,13328,13895,567
+"51","VA","Virginia","Southampton County","county",51175,"February",2020,8836,9081,245
+"51","VA","Virginia","Spotsylvania County","county",51177,"February",2020,66883,68784,1901
+"51","VA","Virginia","Stafford County","county",51179,"February",2020,72033,73950,1917
+"51","VA","Virginia","Surry County","county",51181,"February",2020,3551,3682,131
+"51","VA","Virginia","Sussex County","county",51183,"February",2020,3712,3889,177
+"51","VA","Virginia","Tazewell County","county",51185,"February",2020,14987,15787,800
+"51","VA","Virginia","Warren County","county",51187,"February",2020,20380,20973,593
+"51","VA","Virginia","Washington County","county",51191,"February",2020,26153,27104,951
+"51","VA","Virginia","Westmoreland County","county",51193,"February",2020,9217,9601,384
+"51","VA","Virginia","Wise County","county",51195,"February",2020,12940,13599,659
+"51","VA","Virginia","Wythe County","county",51197,"February",2020,13195,13822,627
+"51","VA","Virginia","York County","county",51199,"February",2020,32254,33100,846
+"51","VA","Virginia","Alexandria city","city",NA,"February",2020,101927,104087,2160
+"51","VA","Virginia","Bristol city","city",NA,"February",2020,7009,7290,281
+"51","VA","Virginia","Buena Vista city","city",NA,"February",2020,3627,3709,82
+"51","VA","Virginia","Charlottesville city","city",NA,"February",2020,26742,27327,585
+"51","VA","Virginia","Chesapeake city","city",NA,"February",2020,120499,123894,3395
+"51","VA","Virginia","Colonial Heights city","city",NA,"February",2020,8776,9031,255
+"51","VA","Virginia","Covington city","city",NA,"February",2020,2299,2442,143
+"51","VA","Virginia","Danville city","city",NA,"February",2020,18238,19297,1059
+"51","VA","Virginia","Emporia city","city",NA,"February",2020,2184,2287,103
+"51","VA","Virginia","Fairfax city","city",NA,"February",2020,13523,13805,282
+"51","VA","Virginia","Falls Church city","city",NA,"February",2020,8652,8810,158
+"51","VA","Virginia","Franklin city","city",NA,"February",2020,3446,3585,139
+"51","VA","Virginia","Fredericksburg city","city",NA,"February",2020,14063,14500,437
+"51","VA","Virginia","Galax city","city",NA,"February",2020,2852,2952,100
+"51","VA","Virginia","Hampton city","city",NA,"February",2020,62639,65091,2452
+"51","VA","Virginia","Harrisonburg city","city",NA,"February",2020,25158,25854,696
+"51","VA","Virginia","Hopewell city","city",NA,"February",2020,9544,9953,409
+"51","VA","Virginia","Lexington city","city",NA,"February",2020,2040,2122,82
+"51","VA","Virginia","Lynchburg city","city",NA,"February",2020,35350,36633,1283
+"51","VA","Virginia","Manassas city","city",NA,"February",2020,22094,22666,572
+"51","VA","Virginia","Manassas Park city","city",NA,"February",2020,9393,9627,234
+"51","VA","Virginia","Martinsville city","city",NA,"February",2020,5305,5563,258
+"51","VA","Virginia","Newport News city","city",NA,"February",2020,86715,89933,3218
+"51","VA","Virginia","Norfolk city","city",NA,"February",2020,108996,112762,3766
+"51","VA","Virginia","Norton city","city",NA,"February",2020,1636,1713,77
+"51","VA","Virginia","Petersburg city","city",NA,"February",2020,12661,13453,792
+"51","VA","Virginia","Poquoson city","city",NA,"February",2020,6292,6439,147
+"51","VA","Virginia","Portsmouth city","city",NA,"February",2020,43030,44737,1707
+"51","VA","Virginia","Radford city","city",NA,"February",2020,8592,8885,293
+"51","VA","Virginia","Richmond city","city",NA,"February",2020,117795,121662,3867
+"51","VA","Virginia","Roanoke city","city",NA,"February",2020,48361,49913,1552
+"51","VA","Virginia","Salem city","city",NA,"February",2020,12803,13167,364
+"51","VA","Virginia","Staunton city","city",NA,"February",2020,12233,12563,330
+"51","VA","Virginia","Suffolk city","city",NA,"February",2020,43760,45084,1324
+"51","VA","Virginia","Virginia Beach city","city",NA,"February",2020,229285,235430,6145
+"51","VA","Virginia","Waynesboro city","city",NA,"February",2020,10671,10984,313
+"51","VA","Virginia","Williamsburg city","city",NA,"February",2020,6504,6760,256
+"51","VA","Virginia","Winchester city","city",NA,"February",2020,14726,15132,406
+"51","VA","Virginia","Accomack County","county",NA,"March",2020,15545,16332,787
+"51","VA","Virginia","Albemarle County","county",51003,"March",2020,56943,58584,1641
+"51","VA","Virginia","Alleghany County","county",51005,"March",2020,6673,6983,310
+"51","VA","Virginia","Amelia County","county",51007,"March",2020,6063,6290,227
+"51","VA","Virginia","Amherst County","county",51009,"March",2020,14611,15202,591
+"51","VA","Virginia","Appomattox County","county",51011,"March",2020,6914,7226,312
+"51","VA","Virginia","Arlington County","county",51013,"March",2020,153757,157198,3441
+"51","VA","Virginia","Augusta County","county",51015,"March",2020,36391,37479,1088
+"51","VA","Virginia","Bath County","county",51017,"March",2020,2407,2485,78
+"51","VA","Virginia","Bedford County","county",51019,"March",2020,37505,38859,1354
+"51","VA","Virginia","Bland County","county",51021,"March",2020,2796,2914,118
+"51","VA","Virginia","Botetourt County","county",51023,"March",2020,17047,17584,537
+"51","VA","Virginia","Brunswick County","county",51025,"March",2020,5674,5997,323
+"51","VA","Virginia","Buchanan County","county",51027,"March",2020,6208,6763,555
+"51","VA","Virginia","Buckingham County","county",51029,"March",2020,6248,6592,344
+"51","VA","Virginia","Campbell County","county",51031,"March",2020,25326,26327,1001
+"51","VA","Virginia","Caroline County","county",51033,"March",2020,14902,15484,582
+"51","VA","Virginia","Carroll County","county",51035,"March",2020,12719,13531,812
+"51","VA","Virginia","Charles City County","county",51036,"March",2020,3539,3682,143
+"51","VA","Virginia","Charlotte County","county",51037,"March",2020,5066,5307,241
+"51","VA","Virginia","Chesterfield County","county",51041,"March",2020,184639,190718,6079
+"51","VA","Virginia","Clarke County","county",51043,"March",2020,7404,7618,214
+"51","VA","Virginia","Craig County","county",51045,"March",2020,2232,2312,80
+"51","VA","Virginia","Culpeper County","county",51047,"March",2020,24079,24880,801
+"51","VA","Virginia","Cumberland County","county",51049,"March",2020,4495,4656,161
+"51","VA","Virginia","Dickenson County","county",51051,"March",2020,4542,4901,359
+"51","VA","Virginia","Dinwiddie County","county",51053,"March",2020,13264,13795,531
+"51","VA","Virginia","Essex County","county",51057,"March",2020,5270,5524,254
+"51","VA","Virginia","Fairfax County","county",51059,"March",2020,629555,646716,17161
+"51","VA","Virginia","Fauquier County","county",51061,"March",2020,36440,37510,1070
+"51","VA","Virginia","Floyd County","county",51063,"March",2020,7870,8155,285
+"51","VA","Virginia","Fluvanna County","county",51065,"March",2020,13917,14323,406
+"51","VA","Virginia","Franklin County","county",51067,"March",2020,25620,26592,972
+"51","VA","Virginia","Frederick County","county",51069,"March",2020,47341,48695,1354
+"51","VA","Virginia","Giles County","county",51071,"March",2020,7663,8031,368
+"51","VA","Virginia","Gloucester County","county",51073,"March",2020,19109,19713,604
+"51","VA","Virginia","Goochland County","county",51075,"March",2020,10960,11306,346
+"51","VA","Virginia","Grayson County","county",51077,"March",2020,7927,8368,441
+"51","VA","Virginia","Greene County","county",51079,"March",2020,10455,10743,288
+"51","VA","Virginia","Greensville County","county",51081,"March",2020,4121,4290,169
+"51","VA","Virginia","Halifax County","county",51083,"March",2020,14965,15735,770
+"51","VA","Virginia","Hanover County","county",51085,"March",2020,58402,60104,1702
+"51","VA","Virginia","Henrico County","county",51087,"March",2020,179338,185290,5952
+"51","VA","Virginia","Henry County","county",51089,"March",2020,23048,24020,972
+"51","VA","Virginia","Highland County","county",51091,"March",2020,1079,1123,44
+"51","VA","Virginia","Isle of Wight County","county",51093,"March",2020,18906,19541,635
+"51","VA","Virginia","James City County","county",51095,"March",2020,35829,37000,1171
+"51","VA","Virginia","King and Queen County","county",51097,"March",2020,3738,3858,120
+"51","VA","Virginia","King George County","county",51099,"March",2020,13379,13830,451
+"51","VA","Virginia","King William County","county",51101,"March",2020,8949,9255,306
+"51","VA","Virginia","Lancaster County","county",51103,"March",2020,5171,5564,393
+"51","VA","Virginia","Lee County","county",51105,"March",2020,7956,8382,426
+"51","VA","Virginia","Loudoun County","county",51107,"March",2020,220544,226550,6006
+"51","VA","Virginia","Louisa County","county",51109,"March",2020,19796,20443,647
+"51","VA","Virginia","Lunenburg County","county",51111,"March",2020,5091,5274,183
+"51","VA","Virginia","Madison County","county",51113,"March",2020,7225,7410,185
+"51","VA","Virginia","Mathews County","county",51115,"March",2020,4036,4181,145
+"51","VA","Virginia","Mecklenburg County","county",51117,"March",2020,11639,12226,587
+"51","VA","Virginia","Middlesex County","county",51119,"March",2020,5090,5264,174
+"51","VA","Virginia","Montgomery County","county",51121,"March",2020,49273,50999,1726
+"51","VA","Virginia","Nelson County","county",51125,"March",2020,7283,7528,245
+"51","VA","Virginia","New Kent County","county",51127,"March",2020,12288,12618,330
+"51","VA","Virginia","Northampton County","county",51131,"March",2020,4877,5180,303
+"51","VA","Virginia","Northumberland County","county",51133,"March",2020,5244,5646,402
+"51","VA","Virginia","Nottoway County","county",51135,"March",2020,7122,7358,236
+"51","VA","Virginia","Orange County","county",51137,"March",2020,16972,17559,587
+"51","VA","Virginia","Page County","county",51139,"March",2020,11269,11978,709
+"51","VA","Virginia","Patrick County","county",51141,"March",2020,6792,7118,326
+"51","VA","Virginia","Pittsylvania County","county",51143,"March",2020,28783,30092,1309
+"51","VA","Virginia","Powhatan County","county",51145,"March",2020,13914,14349,435
+"51","VA","Virginia","Prince Edward County","county",51147,"March",2020,10011,10499,488
+"51","VA","Virginia","Prince George County","county",51149,"March",2020,14752,15343,591
+"51","VA","Virginia","Prince William County","county",51153,"March",2020,243069,250553,7484
+"51","VA","Virginia","Pulaski County","county",51155,"March",2020,15687,16679,992
+"51","VA","Virginia","Rappahannock County","county",51157,"March",2020,3572,3679,107
+"51","VA","Virginia","Richmond County","county",51159,"March",2020,3951,4096,145
+"51","VA","Virginia","Roanoke County","county",51161,"March",2020,48526,50091,1565
+"51","VA","Virginia","Rockbridge County","county",51163,"March",2020,10447,10795,348
+"51","VA","Virginia","Rockingham County","county",51165,"March",2020,40471,41655,1184
+"51","VA","Virginia","Russell County","county",51167,"March",2020,10755,11417,662
+"51","VA","Virginia","Scott County","county",51169,"March",2020,8836,9204,368
+"51","VA","Virginia","Shenandoah County","county",51171,"March",2020,21917,22624,707
+"51","VA","Virginia","Smyth County","county",51173,"March",2020,13163,13821,658
+"51","VA","Virginia","Southampton County","county",51175,"March",2020,8667,8975,308
+"51","VA","Virginia","Spotsylvania County","county",51177,"March",2020,65988,68243,2255
+"51","VA","Virginia","Stafford County","county",51179,"March",2020,71212,73538,2326
+"51","VA","Virginia","Surry County","county",51181,"March",2020,3498,3641,143
+"51","VA","Virginia","Sussex County","county",51183,"March",2020,3547,3745,198
+"51","VA","Virginia","Tazewell County","county",51185,"March",2020,14830,15729,899
+"51","VA","Virginia","Warren County","county",51187,"March",2020,20060,20740,680
+"51","VA","Virginia","Washington County","county",51191,"March",2020,25902,26968,1066
+"51","VA","Virginia","Westmoreland County","county",51193,"March",2020,9059,9492,433
+"51","VA","Virginia","Wise County","county",51195,"March",2020,12888,13720,832
+"51","VA","Virginia","Wythe County","county",51197,"March",2020,13009,13725,716
+"51","VA","Virginia","York County","county",51199,"March",2020,32166,33188,1022
+"51","VA","Virginia","Alexandria city","city",NA,"March",2020,100688,103295,2607
+"51","VA","Virginia","Bristol city","city",NA,"March",2020,6951,7276,325
+"51","VA","Virginia","Buena Vista city","city",NA,"March",2020,3618,3727,109
+"51","VA","Virginia","Charlottesville city","city",NA,"March",2020,26496,27218,722
+"51","VA","Virginia","Chesapeake city","city",NA,"March",2020,120172,124318,4146
+"51","VA","Virginia","Colonial Heights city","city",NA,"March",2020,8635,8945,310
+"51","VA","Virginia","Covington city","city",NA,"March",2020,2308,2466,158
+"51","VA","Virginia","Danville city","city",NA,"March",2020,18072,19303,1231
+"51","VA","Virginia","Emporia city","city",NA,"March",2020,2156,2272,116
+"51","VA","Virginia","Fairfax city","city",NA,"March",2020,13350,13691,341
+"51","VA","Virginia","Falls Church city","city",NA,"March",2020,8543,8742,199
+"51","VA","Virginia","Franklin city","city",NA,"March",2020,3431,3580,149
+"51","VA","Virginia","Fredericksburg city","city",NA,"March",2020,13910,14443,533
+"51","VA","Virginia","Galax city","city",NA,"March",2020,2809,3007,198
+"51","VA","Virginia","Hampton city","city",NA,"March",2020,62495,65352,2857
+"51","VA","Virginia","Harrisonburg city","city",NA,"March",2020,24233,25179,946
+"51","VA","Virginia","Hopewell city","city",NA,"March",2020,9399,9885,486
+"51","VA","Virginia","Lexington city","city",NA,"March",2020,2040,2145,105
+"51","VA","Virginia","Lynchburg city","city",NA,"March",2020,35300,36901,1601
+"51","VA","Virginia","Manassas city","city",NA,"March",2020,21827,22505,678
+"51","VA","Virginia","Manassas Park city","city",NA,"March",2020,9265,9537,272
+"51","VA","Virginia","Martinsville city","city",NA,"March",2020,5255,5540,285
+"51","VA","Virginia","Newport News city","city",NA,"March",2020,86569,90356,3787
+"51","VA","Virginia","Norfolk city","city",NA,"March",2020,108819,113317,4498
+"51","VA","Virginia","Norton city","city",NA,"March",2020,1620,1712,92
+"51","VA","Virginia","Petersburg city","city",NA,"March",2020,12462,13356,894
+"51","VA","Virginia","Poquoson city","city",NA,"March",2020,6234,6419,185
+"51","VA","Virginia","Portsmouth city","city",NA,"March",2020,42947,44950,2003
+"51","VA","Virginia","Radford city","city",NA,"March",2020,8462,8861,399
+"51","VA","Virginia","Richmond city","city",NA,"March",2020,115874,120511,4637
+"51","VA","Virginia","Roanoke city","city",NA,"March",2020,48095,49944,1849
+"51","VA","Virginia","Salem city","city",NA,"March",2020,12749,13202,453
+"51","VA","Virginia","Staunton city","city",NA,"March",2020,11952,12335,383
+"51","VA","Virginia","Suffolk city","city",NA,"March",2020,43636,45235,1599
+"51","VA","Virginia","Virginia Beach city","city",NA,"March",2020,228594,236016,7422
+"51","VA","Virginia","Waynesboro city","city",NA,"March",2020,10441,10796,355
+"51","VA","Virginia","Williamsburg city","city",NA,"March",2020,6488,6807,319
+"51","VA","Virginia","Winchester city","city",NA,"March",2020,14432,14923,491
+"51","VA","Virginia","Accomack County","county",NA,"April",2020,14868,16475,1607
+"51","VA","Virginia","Albemarle County","county",51003,"April",2020,51319,56442,5123
+"51","VA","Virginia","Alleghany County","county",51005,"April",2020,6177,6982,805
+"51","VA","Virginia","Amelia County","county",51007,"April",2020,5426,6018,592
+"51","VA","Virginia","Amherst County","county",51009,"April",2020,12634,13968,1334
+"51","VA","Virginia","Appomattox County","county",51011,"April",2020,6006,6631,625
+"51","VA","Virginia","Arlington County","county",51013,"April",2020,137176,147504,10328
+"51","VA","Virginia","Augusta County","county",51015,"April",2020,34682,37857,3175
+"51","VA","Virginia","Bath County","county",51017,"April",2020,2274,2859,585
+"51","VA","Virginia","Bedford County","county",51019,"April",2020,32390,35950,3560
+"51","VA","Virginia","Bland County","county",51021,"April",2020,2544,2873,329
+"51","VA","Virginia","Botetourt County","county",51023,"April",2020,15075,16497,1422
+"51","VA","Virginia","Brunswick County","county",51025,"April",2020,5219,5824,605
+"51","VA","Virginia","Buchanan County","county",51027,"April",2020,5747,6690,943
+"51","VA","Virginia","Buckingham County","county",51029,"April",2020,5662,6309,647
+"51","VA","Virginia","Campbell County","county",51031,"April",2020,21843,24313,2470
+"51","VA","Virginia","Caroline County","county",51033,"April",2020,13183,14812,1629
+"51","VA","Virginia","Carroll County","county",51035,"April",2020,11897,14183,2286
+"51","VA","Virginia","Charles City County","county",51036,"April",2020,3166,3527,361
+"51","VA","Virginia","Charlotte County","county",51037,"April",2020,4690,5113,423
+"51","VA","Virginia","Chesterfield County","county",51041,"April",2020,162869,182290,19421
+"51","VA","Virginia","Clarke County","county",51043,"April",2020,6705,7302,597
+"51","VA","Virginia","Craig County","county",51045,"April",2020,1975,2196,221
+"51","VA","Virginia","Culpeper County","county",51047,"April",2020,21646,23810,2164
+"51","VA","Virginia","Cumberland County","county",51049,"April",2020,4119,4535,416
+"51","VA","Virginia","Dickenson County","county",51051,"April",2020,4258,4836,578
+"51","VA","Virginia","Dinwiddie County","county",51053,"April",2020,11786,13032,1246
+"51","VA","Virginia","Essex County","county",51057,"April",2020,4805,5406,601
+"51","VA","Virginia","Fairfax County","county",51059,"April",2020,561807,625663,63856
+"51","VA","Virginia","Fauquier County","county",51061,"April",2020,32894,36071,3177
+"51","VA","Virginia","Floyd County","county",51063,"April",2020,6942,7805,863
+"51","VA","Virginia","Fluvanna County","county",51065,"April",2020,12498,13763,1265
+"51","VA","Virginia","Franklin County","county",51067,"April",2020,22742,25141,2399
+"51","VA","Virginia","Frederick County","county",51069,"April",2020,42469,46934,4465
+"51","VA","Virginia","Giles County","county",51071,"April",2020,6629,7621,992
+"51","VA","Virginia","Gloucester County","county",51073,"April",2020,17097,19040,1943
+"51","VA","Virginia","Goochland County","county",51075,"April",2020,9718,10671,953
+"51","VA","Virginia","Grayson County","county",51077,"April",2020,7414,8313,899
+"51","VA","Virginia","Greene County","county",51079,"April",2020,9417,10420,1003
+"51","VA","Virginia","Greensville County","county",51081,"April",2020,3800,4149,349
+"51","VA","Virginia","Halifax County","county",51083,"April",2020,13822,15483,1661
+"51","VA","Virginia","Hanover County","county",51085,"April",2020,51634,56755,5121
+"51","VA","Virginia","Henrico County","county",51087,"April",2020,158072,177712,19640
+"51","VA","Virginia","Henry County","county",51089,"April",2020,21257,24386,3129
+"51","VA","Virginia","Highland County","county",51091,"April",2020,1073,1145,72
+"51","VA","Virginia","Isle of Wight County","county",51093,"April",2020,16929,18494,1565
+"51","VA","Virginia","James City County","county",51095,"April",2020,31916,36980,5064
+"51","VA","Virginia","King and Queen County","county",51097,"April",2020,3435,3722,287
+"51","VA","Virginia","King George County","county",51099,"April",2020,12137,13136,999
+"51","VA","Virginia","King William County","county",51101,"April",2020,7937,8793,856
+"51","VA","Virginia","Lancaster County","county",51103,"April",2020,4839,5458,619
+"51","VA","Virginia","Lee County","county",51105,"April",2020,7409,8315,906
+"51","VA","Virginia","Loudoun County","county",51107,"April",2020,197063,218667,21604
+"51","VA","Virginia","Louisa County","county",51109,"April",2020,17885,19637,1752
+"51","VA","Virginia","Lunenburg County","county",51111,"April",2020,4737,5127,390
+"51","VA","Virginia","Madison County","county",51113,"April",2020,6664,7171,507
+"51","VA","Virginia","Mathews County","county",51115,"April",2020,3602,3956,354
+"51","VA","Virginia","Mecklenburg County","county",51117,"April",2020,10922,12254,1332
+"51","VA","Virginia","Middlesex County","county",51119,"April",2020,4719,5184,465
+"51","VA","Virginia","Montgomery County","county",51121,"April",2020,42297,46646,4349
+"51","VA","Virginia","Nelson County","county",51125,"April",2020,6622,7341,719
+"51","VA","Virginia","New Kent County","county",51127,"April",2020,10872,11939,1067
+"51","VA","Virginia","Northampton County","county",51131,"April",2020,4676,5287,611
+"51","VA","Virginia","Northumberland County","county",51133,"April",2020,4984,5517,533
+"51","VA","Virginia","Nottoway County","county",51135,"April",2020,6535,7064,529
+"51","VA","Virginia","Orange County","county",51137,"April",2020,15583,17279,1696
+"51","VA","Virginia","Page County","county",51139,"April",2020,10607,12337,1730
+"51","VA","Virginia","Patrick County","county",51141,"April",2020,6263,7293,1030
+"51","VA","Virginia","Pittsylvania County","county",51143,"April",2020,26485,30341,3856
+"51","VA","Virginia","Powhatan County","county",51145,"April",2020,12293,13595,1302
+"51","VA","Virginia","Prince Edward County","county",51147,"April",2020,9403,10388,985
+"51","VA","Virginia","Prince George County","county",51149,"April",2020,13028,14481,1453
+"51","VA","Virginia","Prince William County","county",51153,"April",2020,216922,244629,27707
+"51","VA","Virginia","Pulaski County","county",51155,"April",2020,13469,16248,2779
+"51","VA","Virginia","Rappahannock County","county",51157,"April",2020,3240,3535,295
+"51","VA","Virginia","Richmond County","county",51159,"April",2020,3717,4008,291
+"51","VA","Virginia","Roanoke County","county",51161,"April",2020,42719,47375,4656
+"51","VA","Virginia","Rockbridge County","county",51163,"April",2020,9783,10796,1013
+"51","VA","Virginia","Rockingham County","county",51165,"April",2020,36892,40848,3956
+"51","VA","Virginia","Russell County","county",51167,"April",2020,10027,11237,1210
+"51","VA","Virginia","Scott County","county",51169,"April",2020,7894,8754,860
+"51","VA","Virginia","Shenandoah County","county",51171,"April",2020,20263,22401,2138
+"51","VA","Virginia","Smyth County","county",51173,"April",2020,12143,13601,1458
+"51","VA","Virginia","Southampton County","county",51175,"April",2020,8054,8647,593
+"51","VA","Virginia","Spotsylvania County","county",51177,"April",2020,58981,66331,7350
+"51","VA","Virginia","Stafford County","county",51179,"April",2020,63557,70547,6990
+"51","VA","Virginia","Surry County","county",51181,"April",2020,3198,3524,326
+"51","VA","Virginia","Sussex County","county",51183,"April",2020,3258,3633,375
+"51","VA","Virginia","Tazewell County","county",51185,"April",2020,13733,15699,1966
+"51","VA","Virginia","Warren County","county",51187,"April",2020,17956,20191,2235
+"51","VA","Virginia","Washington County","county",51191,"April",2020,23086,25869,2783
+"51","VA","Virginia","Westmoreland County","county",51193,"April",2020,8650,9468,818
+"51","VA","Virginia","Wise County","county",51195,"April",2020,11968,13586,1618
+"51","VA","Virginia","Wythe County","county",51197,"April",2020,12040,14543,2503
+"51","VA","Virginia","York County","county",51199,"April",2020,28610,31930,3320
+"51","VA","Virginia","Alexandria city","city",NA,"April",2020,89845,99725,9880
+"51","VA","Virginia","Bristol city","city",NA,"April",2020,6170,7284,1114
+"51","VA","Virginia","Buena Vista city","city",NA,"April",2020,3295,3609,314
+"51","VA","Virginia","Charlottesville city","city",NA,"April",2020,23778,26646,2868
+"51","VA","Virginia","Chesapeake city","city",NA,"April",2020,106931,119075,12144
+"51","VA","Virginia","Colonial Heights city","city",NA,"April",2020,7612,8605,993
+"51","VA","Virginia","Covington city","city",NA,"April",2020,2135,2542,407
+"51","VA","Virginia","Danville city","city",NA,"April",2020,16643,19804,3161
+"51","VA","Virginia","Emporia city","city",NA,"April",2020,2004,2304,300
+"51","VA","Virginia","Fairfax city","city",NA,"April",2020,11910,13244,1334
+"51","VA","Virginia","Falls Church city","city",NA,"April",2020,7621,8092,471
+"51","VA","Virginia","Franklin city","city",NA,"April",2020,3126,3458,332
+"51","VA","Virginia","Fredericksburg city","city",NA,"April",2020,12401,14109,1708
+"51","VA","Virginia","Galax city","city",NA,"April",2020,2604,3150,546
+"51","VA","Virginia","Hampton city","city",NA,"April",2020,55581,64147,8566
+"51","VA","Virginia","Harrisonburg city","city",NA,"April",2020,21834,24579,2745
+"51","VA","Virginia","Hopewell city","city",NA,"April",2020,8285,9710,1425
+"51","VA","Virginia","Lexington city","city",NA,"April",2020,1877,2093,216
+"51","VA","Virginia","Lynchburg city","city",NA,"April",2020,30372,34572,4200
+"51","VA","Virginia","Manassas city","city",NA,"April",2020,19469,21846,2377
+"51","VA","Virginia","Manassas Park city","city",NA,"April",2020,8271,9356,1085
+"51","VA","Virginia","Martinsville city","city",NA,"April",2020,4854,5839,985
+"51","VA","Virginia","Newport News city","city",NA,"April",2020,76947,89403,12456
+"51","VA","Virginia","Norfolk city","city",NA,"April",2020,96715,111500,14785
+"51","VA","Virginia","Norton city","city",NA,"April",2020,1504,1717,213
+"51","VA","Virginia","Petersburg city","city",NA,"April",2020,10988,13189,2201
+"51","VA","Virginia","Poquoson city","city",NA,"April",2020,5588,6074,486
+"51","VA","Virginia","Portsmouth city","city",NA,"April",2020,38171,43774,5603
+"51","VA","Virginia","Radford city","city",NA,"April",2020,7244,8185,941
+"51","VA","Virginia","Richmond city","city",NA,"April",2020,102179,119111,16932
+"51","VA","Virginia","Roanoke city","city",NA,"April",2020,42319,48521,6202
+"51","VA","Virginia","Salem city","city",NA,"April",2020,11208,12564,1356
+"51","VA","Virginia","Staunton city","city",NA,"April",2020,11314,12750,1436
+"51","VA","Virginia","Suffolk city","city",NA,"April",2020,38848,43002,4154
+"51","VA","Virginia","Virginia Beach city","city",NA,"April",2020,203317,231672,28355
+"51","VA","Virginia","Waynesboro city","city",NA,"April",2020,9872,11118,1246
+"51","VA","Virginia","Williamsburg city","city",NA,"April",2020,5765,6786,1021
+"51","VA","Virginia","Winchester city","city",NA,"April",2020,13005,14653,1648
+"51","VA","Virginia","Virginia","state",NA,"January",2019,4202310,4351685,149375
+"51","VA","Virginia","Virginia","state",NA,"February",2019,4242132,4379746,137614
+"51","VA","Virginia","Virginia","state",NA,"March",2019,4261323,4392682,131359
+"51","VA","Virginia","Virginia","state",NA,"April",2019,4273985,4380461,106476
+"51","VA","Virginia","Virginia","state",NA,"May",2019,4283709,4401947,118238
+"51","VA","Virginia","Virginia","state",NA,"June",2019,4304790,4434710,129920
+"51","VA","Virginia","Virginia","state",NA,"July",2019,4333739,4465718,131979
+"51","VA","Virginia","Virginia","state",NA,"August",2019,4291862,4422123,130261
+"51","VA","Virginia","Virginia","state",NA,"September",2019,4306133,4420479,114346
+"51","VA","Virginia","Virginia","state",NA,"October",2019,4328395,4440231,111836
+"51","VA","Virginia","Virginia","state",NA,"November",2019,4322543,4431196,108653
+"51","VA","Virginia","Virginia","state",NA,"December",2019,4318658,4425963,107305
+"51","VA","Virginia","Virginia","state",NA,"January",2020,4307025,4441323,134298
+"51","VA","Virginia","Virginia","state",NA,"February",2020,4349458,4472457,122999
+"51","VA","Virginia","Virginia","state",NA,"March",2020,4297542,4445359,147817
+"51","VA","Virginia","Virginia","state",NA,"April",2020,3847680,4312563,464883
+"51","VA","Virginia","Virginia","state",NA,"May",2020,3934121,4332115,397994
