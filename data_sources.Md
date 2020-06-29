@@ -211,25 +211,39 @@
 * [New Mexico Department of Workforce Solutions - *April*](https://www.jobs.state.nm.us/admin/gsipub/htmlarea/uploads/lmr_Apr_20.pdf)
   * Format: PDF Document, Updated: Monthly, Level: County
   * Data: Unemployment Claims
+* [New Mexico Department of Workforce Solutions](https://www.dws.state.nm.us/en-us/Researchers/Data/Labor-Force-Unemployment)
+  * Format: Tableau, Updated:  Monthly, Level: County
+  * Data: Unemployment
 
 ## New York
 * [New York State Department of Labor](https://labor.ny.gov/stats/weekly-ui-claims-report.shtm)
   * Format: PDF tables, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [New York Department of Labor](https://labor.ny.gov/stats/LSLAUS.shtm)
+  * Format: TXT Tables, Updated:  Monthly, Level: County
+  * Data: Unemployment
 
 ## North Carolina
-No data
+* [NC Department of Commerce](https://d4.nccommerce.com/LausSelection.aspx)
+  * Format: Excel Tables, Updated:  Monthly, Level: County, City
+  * Data: Unemployment
 
 ## North Dakota
 * [North Dakota Labor Market Information](https://www.ndlmi.com/gsipub/index.asp?docid=687)
   * Format: Tableau, Updated: Weekly, Daily, Level: County
   * Data: Unemployment Claims, Industries
   * *Note*: Good Visualizations
+* [North Dakota LMI](https://www.ndlmi.com/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmi7ntbB42L7XyypLjx+HEeK0=)
+  * Format: Excel Tables, Updated:  Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Ohio
 * [Ohio Department of Job and Family Services](https://ohiolmi.com/home/UIclaims)
   * Format: PDF, Updated: Weekly, Daily, Level: County
   * Data: Unemployment Claims, Demographics
+* [Ohio LMI](https://ohiolmi.com/Home/DS_Results_LAUS)
+  * Format: Tableau, Updated:  Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Oklahoma
 No data
@@ -239,6 +253,9 @@ No data
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries, Demographics
   * *Note*: Good Visualizations
+* [QualityInfo](https://www.qualityinfo.org/ed-dwnl/?at=1&t1=~unemp~n~03~2019~2020~)
+  * Format: CSV, Updated:  Monthly, Level: County
+  * Data: Unemployment
 
 ## Pennslyvania
 * [Center for Workforce Information and Analysis](https://www.workstats.dli.pa.gov/Products/UCActivity/Pages/default.aspx)
