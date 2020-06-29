@@ -269,6 +269,9 @@ No data
 * [RI Department of Labor and Training](http://www.dlt.ri.gov/lmi/uiadmin/initial.htm)
   * Format: Excel, Updated: weekly, Level: State
   * Data: Unemployment Claims, Industries, Demographics
+* [RI Department of Labor and Training](http://www.dlt.ri.gov/lmi/laus/town/laus20.htm)
+  * Format: Excel, Updated: monthly, Level: County, City
+  * Data: Unemployment
 
 ## South Carolina
 * [COVID-19 Resource Hub](https://dew.sc.gov/covid-hub)
