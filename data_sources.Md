@@ -277,9 +277,14 @@ No data
 * [COVID-19 Resource Hub](https://dew.sc.gov/covid-hub)
   * Format: PDF Map, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [SC Works Online Services](https://jobs.scworks.org/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmi7ntbB42L7XyypLjx+HEeK0=)
+  * Format: Excel, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## South Dakota
-No data
+* [South Dakota Works](https://www.southdakotaworks.org/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmi18Nguc8wHQsB8EpLBHKm04=)
+  * Format: Excel, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Tennessee
 * [TN Department of Labor and Workforce Development](https://www.tn.gov/workforce/covid-19/news.weekly-unemployment-claims-data.html)
