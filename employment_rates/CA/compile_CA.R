@@ -21,9 +21,7 @@ output_county <- raw_county %>%
     state = "California",
     
     # work on FIPS
-    polyname = case_when(
-      area_type == "county" ~ paste("california,", tolower(str_remove(area_name, " County")), sep = "")
-    )
+    polyname = paste("california,", tolower(str_remove(area_name, " County")), sep = "")
   ) %>% # Join with FIPS
   
   filter(seasonally_adjusted_y_n == "N") %>%

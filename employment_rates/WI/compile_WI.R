@@ -20,20 +20,21 @@ output <- raw %>%
       area == "Wisconsin" ~ "state",
       str_detect(area, "County") ~ "county",
       TRUE ~ "city"
-      ),
+    ),
     polyname = case_when(
       area_type == "county" ~ paste("wisconsin,",
-                                    tolower(str_remove(str_remove(
-                                      area,
-                                      "[[:punct:]]"
-                                    ), " County")),
-                                    sep = ""
+        tolower(str_remove(str_remove(
+          area,
+          "[[:punct:]]"
+        ), " County")),
+        sep = ""
       )
-    )
+    ),
+    area = str_remove_all(area, " (City|Town|Village)")
   ) %>%
-  
+
   # Join with FIPS
-  
+
   left_join(county.fips, by = "polyname") %>%
   filter(!str_detect(area, "-.*County")) %>%
   mutate(
@@ -43,7 +44,7 @@ output <- raw %>%
     )
   ) %>%
   select(
-    state_fips, state_short, state, area, area_type, fips, period, year, 
+    state_fips, state_short, state, area, area_type, fips, period, year,
     labor_force, employment, unemployment
   )
 

@@ -1,64 +1,64 @@
 "state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
-"46","SD","South Dakota","City of Aberdeen","city",NA,"January",2020,14940,14378,562
-"46","SD","South Dakota","City of Brandon","city",NA,"January",2020,5785,5618,167
-"46","SD","South Dakota","City of Brookings","city",NA,"January",2020,13389,12868,521
-"46","SD","South Dakota","City of Huron","city",NA,"January",2020,6810,6567,243
-"46","SD","South Dakota","City of Mitchell","city",NA,"January",2020,8728,8431,297
-"46","SD","South Dakota","City of Pierre","city",NA,"January",2020,8063,7810,253
-"46","SD","South Dakota","City of Rapid City","city",NA,"January",2020,36898,35505,1393
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"January",2020,106947,103229,3718
-"46","SD","South Dakota","City of Spearfish","city",NA,"January",2020,6203,6004,199
-"46","SD","South Dakota","City of Vermillion","city",NA,"January",2020,5789,5580,209
-"46","SD","South Dakota","City of Watertown","city",NA,"January",2020,12084,11647,437
-"46","SD","South Dakota","City of Yankton","city",NA,"January",2020,7343,7095,248
-"46","SD","South Dakota","City of Aberdeen","city",NA,"February",2020,15019,14490,529
-"46","SD","South Dakota","City of Brandon","city",NA,"February",2020,5825,5669,156
-"46","SD","South Dakota","City of Brookings","city",NA,"February",2020,13650,13232,418
-"46","SD","South Dakota","City of Huron","city",NA,"February",2020,6822,6596,226
-"46","SD","South Dakota","City of Mitchell","city",NA,"February",2020,8729,8438,291
-"46","SD","South Dakota","City of Pierre","city",NA,"February",2020,8019,7767,252
-"46","SD","South Dakota","City of Rapid City","city",NA,"February",2020,37146,35782,1364
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"February",2020,107707,104160,3547
-"46","SD","South Dakota","City of Spearfish","city",NA,"February",2020,6256,6080,176
-"46","SD","South Dakota","City of Vermillion","city",NA,"February",2020,5943,5776,167
-"46","SD","South Dakota","City of Watertown","city",NA,"February",2020,12097,11672,425
-"46","SD","South Dakota","City of Yankton","city",NA,"February",2020,7401,7152,249
-"46","SD","South Dakota","City of Aberdeen","city",NA,"March",2020,15086,14602,484
-"46","SD","South Dakota","City of Brandon","city",NA,"March",2020,5781,5632,149
-"46","SD","South Dakota","City of Brookings","city",NA,"March",2020,13688,13294,394
-"46","SD","South Dakota","City of Huron","city",NA,"March",2020,6835,6618,217
-"46","SD","South Dakota","City of Mitchell","city",NA,"March",2020,8800,8508,292
-"46","SD","South Dakota","City of Pierre","city",NA,"March",2020,7976,7750,226
-"46","SD","South Dakota","City of Rapid City","city",NA,"March",2020,36875,35594,1281
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"March",2020,106818,103515,3303
-"46","SD","South Dakota","City of Spearfish","city",NA,"March",2020,6383,6210,173
-"46","SD","South Dakota","City of Vermillion","city",NA,"March",2020,5949,5770,179
-"46","SD","South Dakota","City of Watertown","city",NA,"March",2020,12226,11817,409
-"46","SD","South Dakota","City of Yankton","city",NA,"March",2020,7328,7100,228
-"46","SD","South Dakota","City of Aberdeen","city",NA,"April",2020,15512,13717,1795
-"46","SD","South Dakota","City of Brandon","city",NA,"April",2020,5687,5223,464
-"46","SD","South Dakota","City of Brookings","city",NA,"April",2020,13467,12244,1223
-"46","SD","South Dakota","City of Huron","city",NA,"April",2020,6797,6265,532
-"46","SD","South Dakota","City of Mitchell","city",NA,"April",2020,8768,7984,784
-"46","SD","South Dakota","City of Pierre","city",NA,"April",2020,7941,7283,658
-"46","SD","South Dakota","City of Rapid City","city",NA,"April",2020,37726,32301,5425
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"April",2020,108638,95985,12653
-"46","SD","South Dakota","City of Spearfish","city",NA,"April",2020,6846,5559,1287
-"46","SD","South Dakota","City of Vermillion","city",NA,"April",2020,5922,5375,547
-"46","SD","South Dakota","City of Watertown","city",NA,"April",2020,12729,10937,1792
-"46","SD","South Dakota","City of Yankton","city",NA,"April",2020,7788,6750,1038
-"46","SD","South Dakota","City of Aberdeen","city",NA,"May",2020,15367,13793,1574
-"46","SD","South Dakota","City of Brandon","city",NA,"May",2020,5795,5344,451
-"46","SD","South Dakota","City of Brookings","city",NA,"May",2020,13216,12072,1144
-"46","SD","South Dakota","City of Huron","city",NA,"May",2020,6841,6366,475
-"46","SD","South Dakota","City of Mitchell","city",NA,"May",2020,8778,8066,712
-"46","SD","South Dakota","City of Pierre","city",NA,"May",2020,8081,7503,578
-"46","SD","South Dakota","City of Rapid City","city",NA,"May",2020,37227,33075,4152
-"46","SD","South Dakota","City of Sioux Falls","city",NA,"May",2020,109532,98194,11338
-"46","SD","South Dakota","City of Spearfish","city",NA,"May",2020,6428,5636,792
-"46","SD","South Dakota","City of Vermillion","city",NA,"May",2020,5452,4858,594
-"46","SD","South Dakota","City of Watertown","city",NA,"May",2020,12162,10965,1197
-"46","SD","South Dakota","City of Yankton","city",NA,"May",2020,7495,6813,682
+"46","SD","South Dakota","Aberdeen","city",NA,"January",2020,14940,14378,562
+"46","SD","South Dakota","Brandon","city",NA,"January",2020,5785,5618,167
+"46","SD","South Dakota","Brookings","city",NA,"January",2020,13389,12868,521
+"46","SD","South Dakota","Huron","city",NA,"January",2020,6810,6567,243
+"46","SD","South Dakota","Mitchell","city",NA,"January",2020,8728,8431,297
+"46","SD","South Dakota","Pierre","city",NA,"January",2020,8063,7810,253
+"46","SD","South Dakota","Rapid City","city",NA,"January",2020,36898,35505,1393
+"46","SD","South Dakota","Sioux Falls","city",NA,"January",2020,106947,103229,3718
+"46","SD","South Dakota","Spearfish","city",NA,"January",2020,6203,6004,199
+"46","SD","South Dakota","Vermillion","city",NA,"January",2020,5789,5580,209
+"46","SD","South Dakota","Watertown","city",NA,"January",2020,12084,11647,437
+"46","SD","South Dakota","Yankton","city",NA,"January",2020,7343,7095,248
+"46","SD","South Dakota","Aberdeen","city",NA,"February",2020,15019,14490,529
+"46","SD","South Dakota","Brandon","city",NA,"February",2020,5825,5669,156
+"46","SD","South Dakota","Brookings","city",NA,"February",2020,13650,13232,418
+"46","SD","South Dakota","Huron","city",NA,"February",2020,6822,6596,226
+"46","SD","South Dakota","Mitchell","city",NA,"February",2020,8729,8438,291
+"46","SD","South Dakota","Pierre","city",NA,"February",2020,8019,7767,252
+"46","SD","South Dakota","Rapid City","city",NA,"February",2020,37146,35782,1364
+"46","SD","South Dakota","Sioux Falls","city",NA,"February",2020,107707,104160,3547
+"46","SD","South Dakota","Spearfish","city",NA,"February",2020,6256,6080,176
+"46","SD","South Dakota","Vermillion","city",NA,"February",2020,5943,5776,167
+"46","SD","South Dakota","Watertown","city",NA,"February",2020,12097,11672,425
+"46","SD","South Dakota","Yankton","city",NA,"February",2020,7401,7152,249
+"46","SD","South Dakota","Aberdeen","city",NA,"March",2020,15086,14602,484
+"46","SD","South Dakota","Brandon","city",NA,"March",2020,5781,5632,149
+"46","SD","South Dakota","Brookings","city",NA,"March",2020,13688,13294,394
+"46","SD","South Dakota","Huron","city",NA,"March",2020,6835,6618,217
+"46","SD","South Dakota","Mitchell","city",NA,"March",2020,8800,8508,292
+"46","SD","South Dakota","Pierre","city",NA,"March",2020,7976,7750,226
+"46","SD","South Dakota","Rapid City","city",NA,"March",2020,36875,35594,1281
+"46","SD","South Dakota","Sioux Falls","city",NA,"March",2020,106818,103515,3303
+"46","SD","South Dakota","Spearfish","city",NA,"March",2020,6383,6210,173
+"46","SD","South Dakota","Vermillion","city",NA,"March",2020,5949,5770,179
+"46","SD","South Dakota","Watertown","city",NA,"March",2020,12226,11817,409
+"46","SD","South Dakota","Yankton","city",NA,"March",2020,7328,7100,228
+"46","SD","South Dakota","Aberdeen","city",NA,"April",2020,15512,13717,1795
+"46","SD","South Dakota","Brandon","city",NA,"April",2020,5687,5223,464
+"46","SD","South Dakota","Brookings","city",NA,"April",2020,13467,12244,1223
+"46","SD","South Dakota","Huron","city",NA,"April",2020,6797,6265,532
+"46","SD","South Dakota","Mitchell","city",NA,"April",2020,8768,7984,784
+"46","SD","South Dakota","Pierre","city",NA,"April",2020,7941,7283,658
+"46","SD","South Dakota","Rapid City","city",NA,"April",2020,37726,32301,5425
+"46","SD","South Dakota","Sioux Falls","city",NA,"April",2020,108638,95985,12653
+"46","SD","South Dakota","Spearfish","city",NA,"April",2020,6846,5559,1287
+"46","SD","South Dakota","Vermillion","city",NA,"April",2020,5922,5375,547
+"46","SD","South Dakota","Watertown","city",NA,"April",2020,12729,10937,1792
+"46","SD","South Dakota","Yankton","city",NA,"April",2020,7788,6750,1038
+"46","SD","South Dakota","Aberdeen","city",NA,"May",2020,15367,13793,1574
+"46","SD","South Dakota","Brandon","city",NA,"May",2020,5795,5344,451
+"46","SD","South Dakota","Brookings","city",NA,"May",2020,13216,12072,1144
+"46","SD","South Dakota","Huron","city",NA,"May",2020,6841,6366,475
+"46","SD","South Dakota","Mitchell","city",NA,"May",2020,8778,8066,712
+"46","SD","South Dakota","Pierre","city",NA,"May",2020,8081,7503,578
+"46","SD","South Dakota","Rapid City","city",NA,"May",2020,37227,33075,4152
+"46","SD","South Dakota","Sioux Falls","city",NA,"May",2020,109532,98194,11338
+"46","SD","South Dakota","Spearfish","city",NA,"May",2020,6428,5636,792
+"46","SD","South Dakota","Vermillion","city",NA,"May",2020,5452,4858,594
+"46","SD","South Dakota","Watertown","city",NA,"May",2020,12162,10965,1197
+"46","SD","South Dakota","Yankton","city",NA,"May",2020,7495,6813,682
 "46","SD","South Dakota","Aurora County","county",46003,"January",2020,1477,1431,46
 "46","SD","South Dakota","Beadle County","county",46005,"January",2020,9483,9151,332
 "46","SD","South Dakota","Bennett County","county",46007,"January",2020,1083,1020,63

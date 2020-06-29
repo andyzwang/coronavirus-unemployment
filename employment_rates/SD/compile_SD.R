@@ -31,7 +31,8 @@ output <- raw %>%
         ), " County")),
         sep = ""
       )
-    )
+    ),
+    area = str_remove_all(area, "City of ")
   ) %>%
 
   # Join with FIPS

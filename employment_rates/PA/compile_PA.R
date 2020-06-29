@@ -19,7 +19,6 @@ output <- raw %>%
     area_type = case_when(
       area == "Pennsylvania" ~ "state",
       str_detect(area, "County") ~ "county",
-      TRUE ~ "city"
     ),
     period = month(dmy(paste("01", time_period, sep = "")), label = T, abbr = F),
     year = year(dmy(paste("01", time_period, sep = ""))),

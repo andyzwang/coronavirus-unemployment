@@ -469,58 +469,58 @@
 "31","NE","Nebraska","Nebraska","state",NA,"March",2020,1059311,1014731,44580
 "31","NE","Nebraska","Nebraska","state",NA,"April",2020,1058900,967661,91239
 "31","NE","Nebraska","Nebraska","state",NA,"May",2020,1056413,1002852,53561
-"31","NE","Nebraska","Bellevue City","city",NA,"January",2020,27176,26270,906
-"31","NE","Nebraska","Columbus City","city",NA,"January",2020,12118,11737,381
-"31","NE","Nebraska","Fremont City","city",NA,"January",2020,13882,13447,435
-"31","NE","Nebraska","Grand Island City","city",NA,"January",2020,26711,25328,1383
-"31","NE","Nebraska","Hastings City","city",NA,"January",2020,13153,12665,488
-"31","NE","Nebraska","Kearney City","city",NA,"January",2020,19292,18810,482
-"31","NE","Nebraska","Lincoln City","city",NA,"January",2020,160525,156099,4426
-"31","NE","Nebraska","Norfolk City","city",NA,"January",2020,13438,13025,413
-"31","NE","Nebraska","North Platte City","city",NA,"January",2020,12131,11664,467
-"31","NE","Nebraska","Omaha City","city",NA,"January",2020,244283,235855,8428
-"31","NE","Nebraska","Papillion City","city",NA,"January",2020,10749,10408,341
-"31","NE","Nebraska","Bellevue City","city",NA,"February",2020,27388,26465,923
-"31","NE","Nebraska","Columbus City","city",NA,"February",2020,12182,11822,360
-"31","NE","Nebraska","Fremont City","city",NA,"February",2020,13974,13557,417
-"31","NE","Nebraska","Grand Island City","city",NA,"February",2020,26489,25505,984
-"31","NE","Nebraska","Hastings City","city",NA,"February",2020,13223,12794,429
-"31","NE","Nebraska","Kearney City","city",NA,"February",2020,19370,18871,499
-"31","NE","Nebraska","Lincoln City","city",NA,"February",2020,162618,158302,4316
-"31","NE","Nebraska","Norfolk City","city",NA,"February",2020,13595,13187,408
-"31","NE","Nebraska","North Platte City","city",NA,"February",2020,12201,11746,455
-"31","NE","Nebraska","Omaha City","city",NA,"February",2020,245661,237520,8141
-"31","NE","Nebraska","Papillion City","city",NA,"February",2020,10803,10485,318
-"31","NE","Nebraska","Bellevue City","city",NA,"March",2020,27780,26496,1284
-"31","NE","Nebraska","Columbus City","city",NA,"March",2020,12348,11867,481
-"31","NE","Nebraska","Fremont City","city",NA,"March",2020,14228,13628,600
-"31","NE","Nebraska","Grand Island City","city",NA,"March",2020,26698,25412,1286
-"31","NE","Nebraska","Hastings City","city",NA,"March",2020,13330,12746,584
-"31","NE","Nebraska","Kearney City","city",NA,"March",2020,19401,18714,687
-"31","NE","Nebraska","Lincoln City","city",NA,"March",2020,164515,158401,6114
-"31","NE","Nebraska","Norfolk City","city",NA,"March",2020,13808,13240,568
-"31","NE","Nebraska","North Platte City","city",NA,"March",2020,12475,11871,604
-"31","NE","Nebraska","Omaha City","city",NA,"March",2020,249662,237793,11869
-"31","NE","Nebraska","Papillion City","city",NA,"March",2020,10953,10498,455
-"31","NE","Nebraska","Bellevue City","city",NA,"April",2020,27317,24683,2634
-"31","NE","Nebraska","Columbus City","city",NA,"April",2020,12836,11671,1165
-"31","NE","Nebraska","Fremont City","city",NA,"April",2020,14724,13652,1072
-"31","NE","Nebraska","Grand Island City","city",NA,"April",2020,27600,24213,3387
-"31","NE","Nebraska","Hastings City","city",NA,"April",2020,13917,12671,1246
-"31","NE","Nebraska","Kearney City","city",NA,"April",2020,20893,18751,2142
-"31","NE","Nebraska","Lincoln City","city",NA,"April",2020,163443,147778,15665
-"31","NE","Nebraska","Norfolk City","city",NA,"April",2020,14173,13176,997
-"31","NE","Nebraska","North Platte City","city",NA,"April",2020,12884,11765,1119
-"31","NE","Nebraska","Omaha City","city",NA,"April",2020,248370,221467,26903
-"31","NE","Nebraska","Papillion City","city",NA,"April",2020,10858,9779,1079
-"31","NE","Nebraska","Bellevue City","city",NA,"May",2020,27278,25761,1517
-"31","NE","Nebraska","Columbus City","city",NA,"May",2020,12796,12062,734
-"31","NE","Nebraska","Fremont City","city",NA,"May",2020,14813,14219,594
-"31","NE","Nebraska","Grand Island City","city",NA,"May",2020,27231,24888,2343
-"31","NE","Nebraska","Hastings City","city",NA,"May",2020,13922,13172,750
-"31","NE","Nebraska","Kearney City","city",NA,"May",2020,20604,19348,1256
-"31","NE","Nebraska","Lincoln City","city",NA,"May",2020,162394,154048,8346
-"31","NE","Nebraska","Norfolk City","city",NA,"May",2020,14257,13669,588
-"31","NE","Nebraska","North Platte City","city",NA,"May",2020,13001,12297,704
-"31","NE","Nebraska","Omaha City","city",NA,"May",2020,247347,231163,16184
-"31","NE","Nebraska","Papillion City","city",NA,"May",2020,10804,10206,598
+"31","NE","Nebraska","Bellevue","city",NA,"January",2020,27176,26270,906
+"31","NE","Nebraska","Columbus","city",NA,"January",2020,12118,11737,381
+"31","NE","Nebraska","Fremont","city",NA,"January",2020,13882,13447,435
+"31","NE","Nebraska","Grand Island","city",NA,"January",2020,26711,25328,1383
+"31","NE","Nebraska","Hastings","city",NA,"January",2020,13153,12665,488
+"31","NE","Nebraska","Kearney","city",NA,"January",2020,19292,18810,482
+"31","NE","Nebraska","Lincoln","city",NA,"January",2020,160525,156099,4426
+"31","NE","Nebraska","Norfolk","city",NA,"January",2020,13438,13025,413
+"31","NE","Nebraska","North Platte","city",NA,"January",2020,12131,11664,467
+"31","NE","Nebraska","Omaha","city",NA,"January",2020,244283,235855,8428
+"31","NE","Nebraska","Papillion","city",NA,"January",2020,10749,10408,341
+"31","NE","Nebraska","Bellevue","city",NA,"February",2020,27388,26465,923
+"31","NE","Nebraska","Columbus","city",NA,"February",2020,12182,11822,360
+"31","NE","Nebraska","Fremont","city",NA,"February",2020,13974,13557,417
+"31","NE","Nebraska","Grand Island","city",NA,"February",2020,26489,25505,984
+"31","NE","Nebraska","Hastings","city",NA,"February",2020,13223,12794,429
+"31","NE","Nebraska","Kearney","city",NA,"February",2020,19370,18871,499
+"31","NE","Nebraska","Lincoln","city",NA,"February",2020,162618,158302,4316
+"31","NE","Nebraska","Norfolk","city",NA,"February",2020,13595,13187,408
+"31","NE","Nebraska","North Platte","city",NA,"February",2020,12201,11746,455
+"31","NE","Nebraska","Omaha","city",NA,"February",2020,245661,237520,8141
+"31","NE","Nebraska","Papillion","city",NA,"February",2020,10803,10485,318
+"31","NE","Nebraska","Bellevue","city",NA,"March",2020,27780,26496,1284
+"31","NE","Nebraska","Columbus","city",NA,"March",2020,12348,11867,481
+"31","NE","Nebraska","Fremont","city",NA,"March",2020,14228,13628,600
+"31","NE","Nebraska","Grand Island","city",NA,"March",2020,26698,25412,1286
+"31","NE","Nebraska","Hastings","city",NA,"March",2020,13330,12746,584
+"31","NE","Nebraska","Kearney","city",NA,"March",2020,19401,18714,687
+"31","NE","Nebraska","Lincoln","city",NA,"March",2020,164515,158401,6114
+"31","NE","Nebraska","Norfolk","city",NA,"March",2020,13808,13240,568
+"31","NE","Nebraska","North Platte","city",NA,"March",2020,12475,11871,604
+"31","NE","Nebraska","Omaha","city",NA,"March",2020,249662,237793,11869
+"31","NE","Nebraska","Papillion","city",NA,"March",2020,10953,10498,455
+"31","NE","Nebraska","Bellevue","city",NA,"April",2020,27317,24683,2634
+"31","NE","Nebraska","Columbus","city",NA,"April",2020,12836,11671,1165
+"31","NE","Nebraska","Fremont","city",NA,"April",2020,14724,13652,1072
+"31","NE","Nebraska","Grand Island","city",NA,"April",2020,27600,24213,3387
+"31","NE","Nebraska","Hastings","city",NA,"April",2020,13917,12671,1246
+"31","NE","Nebraska","Kearney","city",NA,"April",2020,20893,18751,2142
+"31","NE","Nebraska","Lincoln","city",NA,"April",2020,163443,147778,15665
+"31","NE","Nebraska","Norfolk","city",NA,"April",2020,14173,13176,997
+"31","NE","Nebraska","North Platte","city",NA,"April",2020,12884,11765,1119
+"31","NE","Nebraska","Omaha","city",NA,"April",2020,248370,221467,26903
+"31","NE","Nebraska","Papillion","city",NA,"April",2020,10858,9779,1079
+"31","NE","Nebraska","Bellevue","city",NA,"May",2020,27278,25761,1517
+"31","NE","Nebraska","Columbus","city",NA,"May",2020,12796,12062,734
+"31","NE","Nebraska","Fremont","city",NA,"May",2020,14813,14219,594
+"31","NE","Nebraska","Grand Island","city",NA,"May",2020,27231,24888,2343
+"31","NE","Nebraska","Hastings","city",NA,"May",2020,13922,13172,750
+"31","NE","Nebraska","Kearney","city",NA,"May",2020,20604,19348,1256
+"31","NE","Nebraska","Lincoln","city",NA,"May",2020,162394,154048,8346
+"31","NE","Nebraska","Norfolk","city",NA,"May",2020,14257,13669,588
+"31","NE","Nebraska","North Platte","city",NA,"May",2020,13001,12297,704
+"31","NE","Nebraska","Omaha","city",NA,"May",2020,247347,231163,16184
+"31","NE","Nebraska","Papillion","city",NA,"May",2020,10804,10206,598

@@ -222,8 +222,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"January",2019,140557,135248,5309
 "04","AZ","Arizona","Glendale city","city",NA,"January",2019,126221,120173,6048
 "04","AZ","Arizona","Globe city","city",NA,"January",2019,3734,3493,241
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"January",2019,67,62,5
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"January",2019,15747,14670,1077
 "04","AZ","Arizona","Goodyear city","city",NA,"January",2019,40563,38624,1939
 "04","AZ","Arizona","Guadalupe town","city",NA,"January",2019,2424,2182,242
 "04","AZ","Arizona","Hayden town","city",NA,"January",2019,184,167,17
@@ -283,10 +281,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"January",2019,3460,3215,245
 "04","AZ","Arizona","Youngtown town","city",NA,"January",2019,3198,2959,239
 "04","AZ","Arizona","Yuma city","city",NA,"January",2019,48381,43101,5280
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"January",2019,21579,20719,860
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"January",2019,192,183,9
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"January",2019,1318,1197,121
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"January",2019,3779,3626,153
 "04","AZ","Arizona","Apache Junction city","city",NA,"February",2019,15823,14810,1013
 "04","AZ","Arizona","Avondale city","city",NA,"February",2019,45553,43573,1980
 "04","AZ","Arizona","Benson city","city",NA,"February",2019,1712,1585,127
@@ -318,8 +312,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"February",2019,141646,136654,4992
 "04","AZ","Arizona","Glendale city","city",NA,"February",2019,127044,121423,5621
 "04","AZ","Arizona","Globe city","city",NA,"February",2019,3714,3501,213
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"February",2019,76,62,14
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"February",2019,15747,14748,999
 "04","AZ","Arizona","Goodyear city","city",NA,"February",2019,40804,39026,1778
 "04","AZ","Arizona","Guadalupe town","city",NA,"February",2019,2430,2205,225
 "04","AZ","Arizona","Hayden town","city",NA,"February",2019,182,167,15
@@ -379,10 +371,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"February",2019,3435,3216,219
 "04","AZ","Arizona","Youngtown town","city",NA,"February",2019,3213,2990,223
 "04","AZ","Arizona","Yuma city","city",NA,"February",2019,46921,42404,4517
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"February",2019,21734,20935,799
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"February",2019,192,184,8
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"February",2019,1317,1208,109
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"February",2019,3783,3644,139
 "04","AZ","Arizona","Apache Junction city","city",NA,"March",2019,15902,14889,1013
 "04","AZ","Arizona","Avondale city","city",NA,"March",2019,45619,43596,2023
 "04","AZ","Arizona","Benson city","city",NA,"March",2019,1734,1605,129
@@ -414,8 +402,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"March",2019,141701,136726,4975
 "04","AZ","Arizona","Glendale city","city",NA,"March",2019,127103,121487,5616
 "04","AZ","Arizona","Globe city","city",NA,"March",2019,3761,3546,215
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"March",2019,73,62,11
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"March",2019,15829,14827,1002
 "04","AZ","Arizona","Goodyear city","city",NA,"March",2019,40812,39047,1765
 "04","AZ","Arizona","Guadalupe town","city",NA,"March",2019,2432,2206,226
 "04","AZ","Arizona","Hayden town","city",NA,"March",2019,184,169,15
@@ -475,10 +461,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"March",2019,3471,3256,215
 "04","AZ","Arizona","Youngtown town","city",NA,"March",2019,3214,2991,223
 "04","AZ","Arizona","Yuma city","city",NA,"March",2019,47435,43299,4136
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"March",2019,21754,20946,808
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"March",2019,193,185,8
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"March",2019,1326,1222,104
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"March",2019,3830,3691,139
 "04","AZ","Arizona","Apache Junction city","city",NA,"April",2019,15669,14738,931
 "04","AZ","Arizona","Avondale city","city",NA,"April",2019,45425,43621,1804
 "04","AZ","Arizona","Benson city","city",NA,"April",2019,1697,1575,122
@@ -510,8 +492,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"April",2019,141437,136805,4632
 "04","AZ","Arizona","Glendale city","city",NA,"April",2019,126628,121557,5071
 "04","AZ","Arizona","Globe city","city",NA,"April",2019,3729,3526,203
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"April",2019,73,62,11
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"April",2019,15596,14676,920
 "04","AZ","Arizona","Goodyear city","city",NA,"April",2019,40764,39069,1695
 "04","AZ","Arizona","Guadalupe town","city",NA,"April",2019,2417,2207,210
 "04","AZ","Arizona","Hayden town","city",NA,"April",2019,183,168,15
@@ -571,10 +551,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"April",2019,3448,3257,191
 "04","AZ","Arizona","Youngtown town","city",NA,"April",2019,3201,2993,208
 "04","AZ","Arizona","Yuma city","city",NA,"April",2019,44594,40626,3968
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"April",2019,21713,20958,755
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"April",2019,197,183,14
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"April",2019,1328,1239,89
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"April",2019,3827,3693,134
 "04","AZ","Arizona","Apache Junction city","city",NA,"May",2019,15572,14702,870
 "04","AZ","Arizona","Avondale city","city",NA,"May",2019,45631,43698,1933
 "04","AZ","Arizona","Benson city","city",NA,"May",2019,1707,1589,118
@@ -606,8 +582,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"May",2019,141694,137047,4647
 "04","AZ","Arizona","Glendale city","city",NA,"May",2019,127027,121772,5255
 "04","AZ","Arizona","Globe city","city",NA,"May",2019,3771,3572,199
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"May",2019,72,62,10
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"May",2019,15500,14640,860
 "04","AZ","Arizona","Goodyear city","city",NA,"May",2019,40870,39138,1732
 "04","AZ","Arizona","Guadalupe town","city",NA,"May",2019,2425,2211,214
 "04","AZ","Arizona","Hayden town","city",NA,"May",2019,184,170,14
@@ -667,10 +641,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"May",2019,3495,3311,184
 "04","AZ","Arizona","Youngtown town","city",NA,"May",2019,3210,2998,212
 "04","AZ","Arizona","Yuma city","city",NA,"May",2019,44298,39688,4610
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"May",2019,21747,20995,752
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"May",2019,194,183,11
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"May",2019,1327,1238,89
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"May",2019,3856,3723,133
 "04","AZ","Arizona","Apache Junction city","city",NA,"June",2019,15662,14697,965
 "04","AZ","Arizona","Avondale city","city",NA,"June",2019,46088,43934,2154
 "04","AZ","Arizona","Benson city","city",NA,"June",2019,1712,1581,131
@@ -702,8 +672,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"June",2019,142929,137787,5142
 "04","AZ","Arizona","Glendale city","city",NA,"June",2019,128292,122430,5862
 "04","AZ","Arizona","Globe city","city",NA,"June",2019,3836,3619,217
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"June",2019,74,63,11
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"June",2019,15588,14634,954
 "04","AZ","Arizona","Goodyear city","city",NA,"June",2019,41239,39350,1889
 "04","AZ","Arizona","Guadalupe town","city",NA,"June",2019,2460,2223,237
 "04","AZ","Arizona","Hayden town","city",NA,"June",2019,188,172,16
@@ -763,10 +731,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"June",2019,3557,3345,212
 "04","AZ","Arizona","Youngtown town","city",NA,"June",2019,3248,3014,234
 "04","AZ","Arizona","Yuma city","city",NA,"June",2019,43901,38665,5236
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"June",2019,21942,21108,834
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"June",2019,192,183,9
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"June",2019,1350,1244,106
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"June",2019,3905,3757,148
 "04","AZ","Arizona","Apache Junction city","city",NA,"July",2019,15750,14809,941
 "04","AZ","Arizona","Avondale city","city",NA,"July",2019,46274,44155,2119
 "04","AZ","Arizona","Benson city","city",NA,"July",2019,1698,1567,131
@@ -798,8 +762,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"July",2019,143570,138478,5092
 "04","AZ","Arizona","Glendale city","city",NA,"July",2019,128883,123044,5839
 "04","AZ","Arizona","Globe city","city",NA,"July",2019,3723,3507,216
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"July",2019,71,63,8
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"July",2019,15679,14746,933
 "04","AZ","Arizona","Goodyear city","city",NA,"July",2019,41422,39547,1875
 "04","AZ","Arizona","Guadalupe town","city",NA,"July",2019,2470,2234,236
 "04","AZ","Arizona","Hayden town","city",NA,"July",2019,182,167,15
@@ -859,10 +821,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"July",2019,3369,3158,211
 "04","AZ","Arizona","Youngtown town","city",NA,"July",2019,3264,3030,234
 "04","AZ","Arizona","Yuma city","city",NA,"July",2019,44289,38773,5516
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"July",2019,22030,21214,816
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"July",2019,196,184,12
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"July",2019,1343,1236,107
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"July",2019,3895,3748,147
 "04","AZ","Arizona","Apache Junction city","city",NA,"August",2019,15871,14894,977
 "04","AZ","Arizona","Avondale city","city",NA,"August",2019,46260,44204,2056
 "04","AZ","Arizona","Benson city","city",NA,"August",2019,1704,1575,129
@@ -894,8 +852,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"August",2019,143547,138634,4913
 "04","AZ","Arizona","Glendale city","city",NA,"August",2019,128872,123182,5690
 "04","AZ","Arizona","Globe city","city",NA,"August",2019,3757,3542,215
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"August",2019,72,63,9
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"August",2019,15799,14831,968
 "04","AZ","Arizona","Goodyear city","city",NA,"August",2019,41397,39592,1805
 "04","AZ","Arizona","Guadalupe town","city",NA,"August",2019,2467,2237,230
 "04","AZ","Arizona","Hayden town","city",NA,"August",2019,184,169,15
@@ -955,10 +911,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"August",2019,3541,3344,197
 "04","AZ","Arizona","Youngtown town","city",NA,"August",2019,3260,3033,227
 "04","AZ","Arizona","Yuma city","city",NA,"August",2019,45362,39467,5895
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"August",2019,22003,21238,765
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"August",2019,193,185,8
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"August",2019,1339,1240,99
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"August",2019,3879,3735,144
 "04","AZ","Arizona","Apache Junction city","city",NA,"September",2019,16042,15172,870
 "04","AZ","Arizona","Avondale city","city",NA,"September",2019,46629,44724,1905
 "04","AZ","Arizona","Benson city","city",NA,"September",2019,1739,1618,121
@@ -990,8 +942,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"September",2019,144938,140263,4675
 "04","AZ","Arizona","Glendale city","city",NA,"September",2019,129896,124630,5266
 "04","AZ","Arizona","Globe city","city",NA,"September",2019,3805,3602,203
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"September",2019,76,64,12
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"September",2019,15966,15108,858
 "04","AZ","Arizona","Goodyear city","city",NA,"September",2019,41826,40057,1769
 "04","AZ","Arizona","Guadalupe town","city",NA,"September",2019,2476,2263,213
 "04","AZ","Arizona","Hayden town","city",NA,"September",2019,187,172,15
@@ -1051,10 +1001,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"September",2019,3577,3389,188
 "04","AZ","Arizona","Youngtown town","city",NA,"September",2019,3279,3069,210
 "04","AZ","Arizona","Yuma city","city",NA,"September",2019,46654,41157,5497
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"September",2019,22210,21488,722
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"September",2019,196,189,7
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"September",2019,1370,1279,91
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"September",2019,3909,3775,134
 "04","AZ","Arizona","Apache Junction city","city",NA,"October",2019,16194,15333,861
 "04","AZ","Arizona","Avondale city","city",NA,"October",2019,46816,44924,1892
 "04","AZ","Arizona","Benson city","city",NA,"October",2019,1757,1639,118
@@ -1086,8 +1032,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"October",2019,145562,140890,4672
 "04","AZ","Arizona","Glendale city","city",NA,"October",2019,130392,125186,5206
 "04","AZ","Arizona","Globe city","city",NA,"October",2019,3780,3580,200
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"October",2019,69,64,5
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"October",2019,16125,15269,856
 "04","AZ","Arizona","Goodyear city","city",NA,"October",2019,41892,40236,1656
 "04","AZ","Arizona","Guadalupe town","city",NA,"October",2019,2484,2273,211
 "04","AZ","Arizona","Hayden town","city",NA,"October",2019,185,171,14
@@ -1147,10 +1091,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"October",2019,3557,3375,182
 "04","AZ","Arizona","Youngtown town","city",NA,"October",2019,3291,3082,209
 "04","AZ","Arizona","Yuma city","city",NA,"October",2019,47612,42547,5065
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"October",2019,22308,21584,724
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"October",2019,202,191,11
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"October",2019,1367,1277,90
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"October",2019,3894,3762,132
 "04","AZ","Arizona","Apache Junction city","city",NA,"November",2019,16255,15416,839
 "04","AZ","Arizona","Avondale city","city",NA,"November",2019,47004,45224,1780
 "04","AZ","Arizona","Benson city","city",NA,"November",2019,1759,1642,117
@@ -1182,8 +1122,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"November",2019,146408,141831,4577
 "04","AZ","Arizona","Glendale city","city",NA,"November",2019,130971,126023,4948
 "04","AZ","Arizona","Globe city","city",NA,"November",2019,3775,3565,210
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"November",2019,70,65,5
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"November",2019,16185,15351,834
 "04","AZ","Arizona","Goodyear city","city",NA,"November",2019,42111,40504,1607
 "04","AZ","Arizona","Guadalupe town","city",NA,"November",2019,2491,2288,203
 "04","AZ","Arizona","Hayden town","city",NA,"November",2019,185,170,15
@@ -1243,10 +1181,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"November",2019,3511,3334,177
 "04","AZ","Arizona","Youngtown town","city",NA,"November",2019,3304,3103,201
 "04","AZ","Arizona","Yuma city","city",NA,"November",2019,48313,42992,5321
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"November",2019,22427,21728,699
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"November",2019,199,192,7
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"November",2019,1346,1261,85
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"November",2019,3916,3786,130
 "04","AZ","Arizona","Apache Junction city","city",NA,"December",2019,16240,15405,835
 "04","AZ","Arizona","Avondale city","city",NA,"December",2019,47083,45264,1819
 "04","AZ","Arizona","Benson city","city",NA,"December",2019,1748,1632,116
@@ -1278,8 +1212,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"December",2019,146407,141958,4449
 "04","AZ","Arizona","Glendale city","city",NA,"December",2019,131081,126136,4945
 "04","AZ","Arizona","Globe city","city",NA,"December",2019,3736,3543,193
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"December",2019,69,65,4
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"December",2019,16171,15340,831
 "04","AZ","Arizona","Goodyear city","city",NA,"December",2019,42207,40541,1666
 "04","AZ","Arizona","Guadalupe town","city",NA,"December",2019,2490,2290,200
 "04","AZ","Arizona","Hayden town","city",NA,"December",2019,183,169,14
@@ -1339,10 +1271,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"December",2019,3488,3298,190
 "04","AZ","Arizona","Youngtown town","city",NA,"December",2019,3303,3106,197
 "04","AZ","Arizona","Yuma city","city",NA,"December",2019,48872,43289,5583
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"December",2019,22437,21747,690
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"December",2019,202,191,11
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"December",2019,1334,1237,97
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"December",2019,3874,3749,125
 "04","AZ","Arizona","Arizona","state",NA,"January",2020,3616271,3448584,167687
 "04","AZ","Arizona","Arizona","state",NA,"February",2020,3633324,3475066,158258
 "04","AZ","Arizona","Arizona","state",NA,"March",2020,3588453,3368003,220450
@@ -1454,8 +1382,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"January",2020,146356,141558,4798
 "04","AZ","Arizona","Glendale city","city",NA,"January",2020,131306,125780,5526
 "04","AZ","Arizona","Globe city","city",NA,"January",2020,3741,3522,219
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"January",2020,70,65,5
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"January",2020,16189,15261,928
 "04","AZ","Arizona","Goodyear city","city",NA,"January",2020,42328,40426,1902
 "04","AZ","Arizona","Guadalupe town","city",NA,"January",2020,2507,2284,223
 "04","AZ","Arizona","Hayden town","city",NA,"January",2020,184,168,16
@@ -1515,10 +1441,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"January",2020,3487,3265,222
 "04","AZ","Arizona","Youngtown town","city",NA,"January",2020,3318,3097,221
 "04","AZ","Arizona","Yuma city","city",NA,"January",2020,48493,43109,5384
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"January",2020,22490,21686,804
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"January",2020,205,190,15
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"January",2020,1346,1233,113
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"January",2020,3880,3739,141
 "04","AZ","Arizona","Apache Junction city","city",NA,"February",2020,16297,15423,874
 "04","AZ","Arizona","Avondale city","city",NA,"February",2020,47420,45477,1943
 "04","AZ","Arizona","Benson city","city",NA,"February",2020,1775,1653,122
@@ -1550,8 +1472,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"February",2020,147120,142626,4494
 "04","AZ","Arizona","Glendale city","city",NA,"February",2020,132022,126729,5293
 "04","AZ","Arizona","Globe city","city",NA,"February",2020,3742,3538,204
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"February",2020,70,65,5
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"February",2020,16227,15358,869
 "04","AZ","Arizona","Goodyear city","city",NA,"February",2020,42471,40732,1739
 "04","AZ","Arizona","Guadalupe town","city",NA,"February",2020,2514,2301,213
 "04","AZ","Arizona","Hayden town","city",NA,"February",2020,184,169,15
@@ -1611,10 +1531,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"February",2020,3487,3279,208
 "04","AZ","Arizona","Youngtown town","city",NA,"February",2020,3331,3120,211
 "04","AZ","Arizona","Yuma city","city",NA,"February",2020,47346,43104,4242
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"February",2020,22599,21850,749
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"February",2020,210,192,18
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"February",2020,1343,1240,103
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"February",2020,3907,3773,134
 "04","AZ","Arizona","Apache Junction city","city",NA,"March",2020,16317,14993,1324
 "04","AZ","Arizona","Avondale city","city",NA,"March",2020,46727,44011,2716
 "04","AZ","Arizona","Benson city","city",NA,"March",2020,1782,1616,166
@@ -1646,8 +1562,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"March",2020,144334,138027,6307
 "04","AZ","Arizona","Glendale city","city",NA,"March",2020,129980,122643,7337
 "04","AZ","Arizona","Globe city","city",NA,"March",2020,3739,3455,284
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"March",2020,74,63,11
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"March",2020,16243,14930,1313
 "04","AZ","Arizona","Goodyear city","city",NA,"March",2020,41879,39418,2461
 "04","AZ","Arizona","Guadalupe town","city",NA,"March",2020,2523,2227,296
 "04","AZ","Arizona","Hayden town","city",NA,"March",2020,185,165,20
@@ -1707,10 +1621,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"March",2020,3513,3225,288
 "04","AZ","Arizona","Youngtown town","city",NA,"March",2020,3313,3020,293
 "04","AZ","Arizona","Yuma city","city",NA,"March",2020,48234,42699,5535
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"March",2020,22210,21145,1065
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"March",2020,212,186,26
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"March",2020,1344,1201,143
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"March",2020,3838,3656,182
 "04","AZ","Arizona","Apache Junction city","city",NA,"April",2020,16218,13565,2653
 "04","AZ","Arizona","Avondale city","city",NA,"April",2020,45797,40222,5575
 "04","AZ","Arizona","Benson city","city",NA,"April",2020,1744,1503,241
@@ -1742,8 +1652,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"April",2020,142368,126145,16223
 "04","AZ","Arizona","Glendale city","city",NA,"April",2020,128695,112085,16610
 "04","AZ","Arizona","Globe city","city",NA,"April",2020,3682,3244,438
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"April",2020,76,57,19
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"April",2020,16142,13508,2634
 "04","AZ","Arizona","Goodyear city","city",NA,"April",2020,41079,36025,5054
 "04","AZ","Arizona","Guadalupe town","city",NA,"April",2020,2720,2035,685
 "04","AZ","Arizona","Hayden town","city",NA,"April",2020,186,155,31
@@ -1803,10 +1711,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"April",2020,3369,2984,385
 "04","AZ","Arizona","Youngtown town","city",NA,"April",2020,3438,2760,678
 "04","AZ","Arizona","Yuma city","city",NA,"April",2020,45104,36611,8493
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"April",2020,21990,19325,2665
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"April",2020,249,169,80
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"April",2020,1290,1003,287
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"April",2020,3888,3436,452
 "04","AZ","Arizona","Apache Junction city","city",NA,"May",2020,15828,14155,1673
 "04","AZ","Arizona","Avondale city","city",NA,"May",2020,46055,42279,3776
 "04","AZ","Arizona","Benson city","city",NA,"May",2020,1733,1575,158
@@ -1838,8 +1742,6 @@
 "04","AZ","Arizona","Gilbert town","city",NA,"May",2020,142590,132596,9994
 "04","AZ","Arizona","Glendale city","city",NA,"May",2020,129114,117817,11297
 "04","AZ","Arizona","Globe city","city",NA,"May",2020,3631,3352,279
-"04","AZ","Arizona","Apache Junction, Maricopa part","city",NA,"May",2020,76,60,16
-"04","AZ","Arizona","Apache Junction, Pinal part","city",NA,"May",2020,15752,14095,1657
 "04","AZ","Arizona","Goodyear city","city",NA,"May",2020,41181,37867,3314
 "04","AZ","Arizona","Guadalupe town","city",NA,"May",2020,2594,2139,455
 "04","AZ","Arizona","Hayden town","city",NA,"May",2020,180,160,20
@@ -1899,10 +1801,6 @@
 "04","AZ","Arizona","Winslow city","city",NA,"May",2020,3359,3104,255
 "04","AZ","Arizona","Youngtown town","city",NA,"May",2020,3351,2901,450
 "04","AZ","Arizona","Yuma city","city",NA,"May",2020,43411,37656,5755
-"04","AZ","Arizona","Queen Creek, Maricopa part","city",NA,"May",2020,21944,20313,1631
-"04","AZ","Arizona","Queen Creek, Pinal part","city",NA,"May",2020,219,176,43
-"04","AZ","Arizona","Sedona, Coconino part","city",NA,"May",2020,1242,1053,189
-"04","AZ","Arizona","Sedona, Yavapai part","city",NA,"May",2020,3924,3654,270
 "04","AZ","Arizona","Arizona","state",NA,"January",2019,3494658,3324691,169967
 "04","AZ","Arizona","Arizona","state",NA,"February",2019,3501692,3331523,170169
 "04","AZ","Arizona","Arizona","state",NA,"March",2019,3508284,3338340,169944

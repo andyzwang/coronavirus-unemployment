@@ -1,0 +1,396 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment","unemployment_rate"
+46,"SD","South Dakota","City of Aberdeen","city",NA,"January",2020,14940,14378,562,0.0376171352074967
+46,"SD","South Dakota","City of Brandon","city",NA,"January",2020,5785,5618,167,0.0288677614520311
+46,"SD","South Dakota","City of Brookings","city",NA,"January",2020,13389,12868,521,0.0389125401448951
+46,"SD","South Dakota","City of Huron","city",NA,"January",2020,6810,6567,243,0.0356828193832599
+46,"SD","South Dakota","City of Mitchell","city",NA,"January",2020,8728,8431,297,0.0340284142988084
+46,"SD","South Dakota","City of Pierre","city",NA,"January",2020,8063,7810,253,0.0313778990450205
+46,"SD","South Dakota","City of Rapid","city",NA,"January",2020,36898,35505,1393,0.0377527237248631
+46,"SD","South Dakota","City of Sioux Falls","city",NA,"January",2020,106947,103229,3718,0.0347648835404453
+46,"SD","South Dakota","City of Spearfish","city",NA,"January",2020,6203,6004,199,0.032081251007577
+46,"SD","South Dakota","City of Vermillion","city",NA,"January",2020,5789,5580,209,0.0361029538780446
+46,"SD","South Dakota","City of Watertown","city",NA,"January",2020,12084,11647,437,0.0361635220125786
+46,"SD","South Dakota","City of Yankton","city",NA,"January",2020,7343,7095,248,0.0337736619910118
+46,"SD","South Dakota","City of Aberdeen","city",NA,"February",2020,15019,14490,529,0.0352220520673813
+46,"SD","South Dakota","City of Brandon","city",NA,"February",2020,5825,5669,156,0.0267811158798283
+46,"SD","South Dakota","City of Brookings","city",NA,"February",2020,13650,13232,418,0.0306227106227106
+46,"SD","South Dakota","City of Huron","city",NA,"February",2020,6822,6596,226,0.0331281149223102
+46,"SD","South Dakota","City of Mitchell","city",NA,"February",2020,8729,8438,291,0.0333371520219956
+46,"SD","South Dakota","City of Pierre","city",NA,"February",2020,8019,7767,252,0.0314253647586981
+46,"SD","South Dakota","City of Rapid","city",NA,"February",2020,37146,35782,1364,0.0367199698487051
+46,"SD","South Dakota","City of Sioux Falls","city",NA,"February",2020,107707,104160,3547,0.0329319357144847
+46,"SD","South Dakota","City of Spearfish","city",NA,"February",2020,6256,6080,176,0.0281329923273657
+46,"SD","South Dakota","City of Vermillion","city",NA,"February",2020,5943,5776,167,0.0281002860508161
+46,"SD","South Dakota","City of Watertown","city",NA,"February",2020,12097,11672,425,0.0351326775233529
+46,"SD","South Dakota","City of Yankton","city",NA,"February",2020,7401,7152,249,0.0336441021483583
+46,"SD","South Dakota","City of Aberdeen","city",NA,"March",2020,15086,14602,484,0.0320827257059525
+46,"SD","South Dakota","City of Brandon","city",NA,"March",2020,5781,5632,149,0.0257740875281093
+46,"SD","South Dakota","City of Brookings","city",NA,"March",2020,13688,13294,394,0.0287843366452367
+46,"SD","South Dakota","City of Huron","city",NA,"March",2020,6835,6618,217,0.0317483540599854
+46,"SD","South Dakota","City of Mitchell","city",NA,"March",2020,8800,8508,292,0.0331818181818182
+46,"SD","South Dakota","City of Pierre","city",NA,"March",2020,7976,7750,226,0.0283350050150451
+46,"SD","South Dakota","City of Rapid","city",NA,"March",2020,36875,35594,1281,0.0347389830508475
+46,"SD","South Dakota","City of Sioux Falls","city",NA,"March",2020,106818,103515,3303,0.0309217547604336
+46,"SD","South Dakota","City of Spearfish","city",NA,"March",2020,6383,6210,173,0.02710324298919
+46,"SD","South Dakota","City of Vermillion","city",NA,"March",2020,5949,5770,179,0.0300890906034628
+46,"SD","South Dakota","City of Watertown","city",NA,"March",2020,12226,11817,409,0.0334532962538852
+46,"SD","South Dakota","City of Yankton","city",NA,"March",2020,7328,7100,228,0.0311135371179039
+46,"SD","South Dakota","City of Aberdeen","city",NA,"April",2020,15512,13717,1795,0.115716864363074
+46,"SD","South Dakota","City of Brandon","city",NA,"April",2020,5687,5223,464,0.0815895902936522
+46,"SD","South Dakota","City of Brookings","city",NA,"April",2020,13467,12244,1223,0.0908145837974308
+46,"SD","South Dakota","City of Huron","city",NA,"April",2020,6797,6265,532,0.07826982492276
+46,"SD","South Dakota","City of Mitchell","city",NA,"April",2020,8768,7984,784,0.0894160583941606
+46,"SD","South Dakota","City of Pierre","city",NA,"April",2020,7941,7283,658,0.0828611006170508
+46,"SD","South Dakota","City of Rapid","city",NA,"April",2020,37726,32301,5425,0.143800031808302
+46,"SD","South Dakota","City of Sioux Falls","city",NA,"April",2020,108638,95985,12653,0.116469375356689
+46,"SD","South Dakota","City of Spearfish","city",NA,"April",2020,6846,5559,1287,0.187992988606486
+46,"SD","South Dakota","City of Vermillion","city",NA,"April",2020,5922,5375,547,0.0923674434312732
+46,"SD","South Dakota","City of Watertown","city",NA,"April",2020,12729,10937,1792,0.140780894021526
+46,"SD","South Dakota","City of Yankton","city",NA,"April",2020,7788,6750,1038,0.133281972265023
+46,"SD","South Dakota","City of Aberdeen","city",NA,"May",2020,15367,13793,1574,0.102427279234724
+46,"SD","South Dakota","City of Brandon","city",NA,"May",2020,5795,5344,451,0.0778257118205349
+46,"SD","South Dakota","City of Brookings","city",NA,"May",2020,13216,12072,1144,0.0865617433414044
+46,"SD","South Dakota","City of Huron","city",NA,"May",2020,6841,6366,475,0.0694342932319836
+46,"SD","South Dakota","City of Mitchell","city",NA,"May",2020,8778,8066,712,0.0811118705855548
+46,"SD","South Dakota","City of Pierre","city",NA,"May",2020,8081,7503,578,0.07152580126222
+46,"SD","South Dakota","City of Rapid","city",NA,"May",2020,37227,33075,4152,0.111531952615037
+46,"SD","South Dakota","City of Sioux Falls","city",NA,"May",2020,109532,98194,11338,0.103513128583428
+46,"SD","South Dakota","City of Spearfish","city",NA,"May",2020,6428,5636,792,0.12321095208463
+46,"SD","South Dakota","City of Vermillion","city",NA,"May",2020,5452,4858,594,0.108950843727073
+46,"SD","South Dakota","City of Watertown","city",NA,"May",2020,12162,10965,1197,0.0984213122841638
+46,"SD","South Dakota","City of Yankton","city",NA,"May",2020,7495,6813,682,0.0909939959973316
+46,"SD","South Dakota",NA,"county","46003","January",2020,1477,1431,46,0.031144211238998
+46,"SD","South Dakota",NA,"county","46005","January",2020,9483,9151,332,0.0350100179268164
+46,"SD","South Dakota",NA,"county","46007","January",2020,1083,1020,63,0.0581717451523546
+46,"SD","South Dakota",NA,"county","46009","January",2020,2836,2728,108,0.0380818053596615
+46,"SD","South Dakota",NA,"county","46011","January",2020,19069,18351,718,0.0376527348051812
+46,"SD","South Dakota",NA,"county","46013","January",2020,20616,19886,730,0.0354093907644548
+46,"SD","South Dakota",NA,"county","46015","January",2020,2373,2287,86,0.0362410450906026
+46,"SD","South Dakota",NA,"county","46017","January",2020,665,624,41,0.0616541353383459
+46,"SD","South Dakota",NA,"county","46019","January",2020,4978,4776,202,0.0405785456006428
+46,"SD","South Dakota",NA,"county","46021","January",2020,763,731,32,0.0419397116644823
+46,"SD","South Dakota",NA,"county","46023","January",2020,3661,3517,144,0.0393335154329418
+46,"SD","South Dakota",NA,"county","46025","January",2020,1902,1807,95,0.0499474237644585
+46,"SD","South Dakota",NA,"county","46027","January",2020,7614,7355,259,0.0340162857893354
+46,"SD","South Dakota",NA,"county","46029","January",2020,15505,14963,542,0.0349564656562399
+46,"SD","South Dakota",NA,"county","46031","January",2020,1352,1281,71,0.0525147928994083
+46,"SD","South Dakota",NA,"county","46033","January",2020,3984,3764,220,0.0552208835341365
+46,"SD","South Dakota",NA,"county","46035","January",2020,10984,10608,376,0.034231609613984
+46,"SD","South Dakota",NA,"county","46037","January",2020,2746,2570,176,0.0640932265112892
+46,"SD","South Dakota",NA,"county","46039","January",2020,2121,1950,171,0.0806223479490806
+46,"SD","South Dakota",NA,"county","46041","January",2020,2177,2026,151,0.069361506660542
+46,"SD","South Dakota",NA,"county","46003","February",2020,1470,1428,42,0.0285714285714286
+46,"SD","South Dakota",NA,"county","46005","February",2020,9505,9191,314,0.033035244608101
+46,"SD","South Dakota",NA,"county","46007","February",2020,1072,1012,60,0.0559701492537313
+46,"SD","South Dakota",NA,"county","46009","February",2020,2824,2722,102,0.0361189801699717
+46,"SD","South Dakota",NA,"county","46011","February",2020,19473,18870,603,0.0309659528578031
+46,"SD","South Dakota",NA,"county","46013","February",2020,20731,20040,691,0.0333317254353384
+46,"SD","South Dakota",NA,"county","46015","February",2020,2357,2278,79,0.0335171828595672
+46,"SD","South Dakota",NA,"county","46017","February",2020,665,621,44,0.0661654135338346
+46,"SD","South Dakota",NA,"county","46019","February",2020,4969,4780,189,0.0380358220970014
+46,"SD","South Dakota",NA,"county","46021","February",2020,768,736,32,0.0416666666666667
+46,"SD","South Dakota",NA,"county","46023","February",2020,3634,3507,127,0.03494771601541
+46,"SD","South Dakota",NA,"county","46025","February",2020,1887,1797,90,0.0476947535771065
+46,"SD","South Dakota",NA,"county","46027","February",2020,7825,7614,211,0.0269648562300319
+46,"SD","South Dakota",NA,"county","46029","February",2020,15519,14996,523,0.0337006250402732
+46,"SD","South Dakota",NA,"county","46031","February",2020,1346,1274,72,0.0534918276374443
+46,"SD","South Dakota",NA,"county","46033","February",2020,3996,3785,211,0.0528028028028028
+46,"SD","South Dakota",NA,"county","46035","February",2020,10982,10617,365,0.0332362046985977
+46,"SD","South Dakota",NA,"county","46037","February",2020,2748,2574,174,0.0633187772925764
+46,"SD","South Dakota",NA,"county","46039","February",2020,2119,1957,162,0.0764511562057574
+46,"SD","South Dakota",NA,"county","46041","February",2020,2169,2030,139,0.0640848317196865
+46,"SD","South Dakota",NA,"county","46003","March",2020,1506,1466,40,0.0265604249667995
+46,"SD","South Dakota",NA,"county","46005","March",2020,9522,9221,301,0.0316110060911573
+46,"SD","South Dakota",NA,"county","46007","March",2020,1077,1027,50,0.0464252553389044
+46,"SD","South Dakota",NA,"county","46009","March",2020,2901,2814,87,0.0299896587383661
+46,"SD","South Dakota",NA,"county","46011","March",2020,19542,18959,583,0.0298331798178283
+46,"SD","South Dakota",NA,"county","46013","March",2020,20842,20196,646,0.0309951060358891
+46,"SD","South Dakota",NA,"county","46015","March",2020,2419,2344,75,0.0310045473336089
+46,"SD","South Dakota",NA,"county","46017","March",2020,646,614,32,0.0495356037151703
+46,"SD","South Dakota",NA,"county","46019","March",2020,5073,4894,179,0.0352848413167751
+46,"SD","South Dakota",NA,"county","46021","March",2020,802,765,37,0.0461346633416459
+46,"SD","South Dakota",NA,"county","46023","March",2020,3749,3622,127,0.0338757001867165
+46,"SD","South Dakota",NA,"county","46025","March",2020,1929,1835,94,0.048729911871436
+46,"SD","South Dakota",NA,"county","46027","March",2020,7825,7606,219,0.0279872204472843
+46,"SD","South Dakota",NA,"county","46029","March",2020,15680,15182,498,0.0317602040816327
+46,"SD","South Dakota",NA,"county","46031","March",2020,1380,1313,67,0.0485507246376812
+46,"SD","South Dakota",NA,"county","46033","March",2020,4047,3847,200,0.0494193229552755
+46,"SD","South Dakota",NA,"county","46035","March",2020,11066,10704,362,0.0327128140249413
+46,"SD","South Dakota",NA,"county","46037","March",2020,2763,2599,164,0.0593557727108216
+46,"SD","South Dakota",NA,"county","46039","March",2020,2173,2031,142,0.0653474459272895
+46,"SD","South Dakota",NA,"county","46041","March",2020,2232,2092,140,0.0627240143369176
+46,"SD","South Dakota",NA,"county","46003","April",2020,1478,1394,84,0.0568335588633288
+46,"SD","South Dakota",NA,"county","46005","April",2020,9436,8729,707,0.0749258160237389
+46,"SD","South Dakota",NA,"county","46007","April",2020,1033,965,68,0.0658276863504356
+46,"SD","South Dakota",NA,"county","46009","April",2020,2823,2578,245,0.0867871059156925
+46,"SD","South Dakota",NA,"county","46011","April",2020,19124,17461,1663,0.0869587952311232
+46,"SD","South Dakota",NA,"county","46013","April",2020,21143,18971,2172,0.102729035614624
+46,"SD","South Dakota",NA,"county","46015","April",2020,2513,2228,285,0.113410266613609
+46,"SD","South Dakota",NA,"county","46017","April",2020,693,592,101,0.145743145743146
+46,"SD","South Dakota",NA,"county","46019","April",2020,5215,4556,659,0.126366251198466
+46,"SD","South Dakota",NA,"county","46021","April",2020,745,696,49,0.0657718120805369
+46,"SD","South Dakota",NA,"county","46023","April",2020,3798,3359,439,0.115587151132175
+46,"SD","South Dakota",NA,"county","46025","April",2020,1860,1687,173,0.093010752688172
+46,"SD","South Dakota",NA,"county","46027","April",2020,7748,7085,663,0.0855704697986577
+46,"SD","South Dakota",NA,"county","46029","April",2020,16172,14051,2121,0.131152609448429
+46,"SD","South Dakota",NA,"county","46031","April",2020,1283,1203,80,0.0623538581449727
+46,"SD","South Dakota",NA,"county","46033","April",2020,4042,3502,540,0.133597229094508
+46,"SD","South Dakota",NA,"county","46035","April",2020,10993,10045,948,0.0862366960793232
+46,"SD","South Dakota",NA,"county","46037","April",2020,2776,2405,371,0.13364553314121
+46,"SD","South Dakota",NA,"county","46039","April",2020,2193,1929,264,0.120383036935705
+46,"SD","South Dakota",NA,"county","46041","April",2020,2121,1929,192,0.0905233380480905
+46,"SD","South Dakota",NA,"county","46003","May",2020,1494,1401,93,0.0622489959839357
+46,"SD","South Dakota",NA,"county","46005","May",2020,9454,8870,584,0.0617727945843029
+46,"SD","South Dakota",NA,"county","46007","May",2020,1029,955,74,0.0719144800777454
+46,"SD","South Dakota",NA,"county","46009","May",2020,2787,2582,205,0.0735557947613922
+46,"SD","South Dakota",NA,"county","46011","May",2020,18775,17216,1559,0.0830359520639148
+46,"SD","South Dakota",NA,"county","46013","May",2020,20971,19076,1895,0.0903628820752468
+46,"SD","South Dakota",NA,"county","46015","May",2020,2482,2239,243,0.0979049153908139
+46,"SD","South Dakota",NA,"county","46017","May",2020,715,601,114,0.159440559440559
+46,"SD","South Dakota",NA,"county","46019","May",2020,5074,4560,514,0.101300748916043
+46,"SD","South Dakota",NA,"county","46021","May",2020,735,692,43,0.0585034013605442
+46,"SD","South Dakota",NA,"county","46023","May",2020,3898,3437,461,0.118265777321703
+46,"SD","South Dakota",NA,"county","46025","May",2020,1877,1722,155,0.0825785828449654
+46,"SD","South Dakota",NA,"county","46027","May",2020,7125,6404,721,0.10119298245614
+46,"SD","South Dakota",NA,"county","46029","May",2020,15520,14088,1432,0.0922680412371134
+46,"SD","South Dakota",NA,"county","46031","May",2020,1281,1188,93,0.0725995316159251
+46,"SD","South Dakota",NA,"county","46033","May",2020,3969,3529,440,0.110859158478206
+46,"SD","South Dakota",NA,"county","46035","May",2020,10997,10149,848,0.0771119396198963
+46,"SD","South Dakota",NA,"county","46037","May",2020,2758,2515,243,0.0881073241479333
+46,"SD","South Dakota",NA,"county","46039","May",2020,2142,1967,175,0.0816993464052288
+46,"SD","South Dakota",NA,"county","46041","May",2020,2069,1894,175,0.0845819236346061
+46,"SD","South Dakota",NA,"county","46043","January",2020,1574,1518,56,0.0355781448538755
+46,"SD","South Dakota",NA,"county","46045","January",2020,2013,1944,69,0.0342771982116244
+46,"SD","South Dakota",NA,"county","46047","January",2020,2868,2721,147,0.051255230125523
+46,"SD","South Dakota",NA,"county","46049","January",2020,1028,989,39,0.0379377431906615
+46,"SD","South Dakota",NA,"county","46051","January",2020,4428,4196,232,0.0523938572719061
+46,"SD","South Dakota",NA,"county","46053","January",2020,1984,1899,85,0.0428427419354839
+46,"SD","South Dakota",NA,"county","46055","January",2020,1036,1002,34,0.0328185328185328
+46,"SD","South Dakota",NA,"county","46057","January",2020,3285,3160,125,0.0380517503805175
+46,"SD","South Dakota",NA,"county","46059","January",2020,1756,1703,53,0.0301822323462415
+46,"SD","South Dakota",NA,"county","46061","January",2020,1745,1635,110,0.0630372492836676
+46,"SD","South Dakota",NA,"county","46063","January",2020,717,697,20,0.0278940027894003
+46,"SD","South Dakota",NA,"county","46065","January",2020,9984,9664,320,0.032051282051282
+46,"SD","South Dakota",NA,"county","46067","January",2020,3622,3475,147,0.0405853119823302
+46,"SD","South Dakota",NA,"county","46069","January",2020,687,660,27,0.0393013100436681
+46,"SD","South Dakota",NA,"county","46071","January",2020,1134,1059,75,0.0661375661375661
+46,"SD","South Dakota",NA,"county","46073","January",2020,1084,1059,25,0.0230627306273063
+46,"SD","South Dakota",NA,"county","46075","January",2020,506,487,19,0.0375494071146245
+46,"SD","South Dakota",NA,"county","46077","January",2020,2598,2503,95,0.0365665896843726
+46,"SD","South Dakota",NA,"county","46079","January",2020,6585,6336,249,0.0378132118451025
+46,"SD","South Dakota",NA,"county","46043","February",2020,1566,1506,60,0.0383141762452107
+46,"SD","South Dakota",NA,"county","46045","February",2020,2013,1951,62,0.0307998012916046
+46,"SD","South Dakota",NA,"county","46047","February",2020,2882,2745,137,0.0475364330326162
+46,"SD","South Dakota",NA,"county","46049","February",2020,1021,982,39,0.0381978452497551
+46,"SD","South Dakota",NA,"county","46051","February",2020,4423,4185,238,0.0538096314718517
+46,"SD","South Dakota",NA,"county","46053","February",2020,1978,1904,74,0.0374115267947422
+46,"SD","South Dakota",NA,"county","46055","February",2020,1029,996,33,0.032069970845481
+46,"SD","South Dakota",NA,"county","46057","February",2020,3282,3167,115,0.0350396099939062
+46,"SD","South Dakota",NA,"county","46059","February",2020,1741,1693,48,0.0275703618609994
+46,"SD","South Dakota",NA,"county","46061","February",2020,1736,1628,108,0.0622119815668203
+46,"SD","South Dakota",NA,"county","46063","February",2020,706,688,18,0.0254957507082153
+46,"SD","South Dakota",NA,"county","46065","February",2020,9926,9611,315,0.0317348377997179
+46,"SD","South Dakota",NA,"county","46067","February",2020,3598,3446,152,0.0422456920511395
+46,"SD","South Dakota",NA,"county","46069","February",2020,683,658,25,0.0366032210834553
+46,"SD","South Dakota",NA,"county","46071","February",2020,1116,1047,69,0.0618279569892473
+46,"SD","South Dakota",NA,"county","46073","February",2020,1089,1063,26,0.0238751147842057
+46,"SD","South Dakota",NA,"county","46075","February",2020,502,483,19,0.0378486055776892
+46,"SD","South Dakota",NA,"county","46077","February",2020,2615,2516,99,0.0378585086042065
+46,"SD","South Dakota",NA,"county","46079","February",2020,6738,6507,231,0.0342831700801425
+46,"SD","South Dakota",NA,"county","46043","March",2020,1584,1534,50,0.0315656565656566
+46,"SD","South Dakota",NA,"county","46045","March",2020,2067,2007,60,0.0290275761973875
+46,"SD","South Dakota",NA,"county","46047","March",2020,2979,2835,144,0.0483383685800604
+46,"SD","South Dakota",NA,"county","46049","March",2020,1077,1040,37,0.0343546889507892
+46,"SD","South Dakota",NA,"county","46051","March",2020,4504,4294,210,0.0466252220248668
+46,"SD","South Dakota",NA,"county","46053","March",2020,2015,1945,70,0.0347394540942928
+46,"SD","South Dakota",NA,"county","46055","March",2020,1070,1038,32,0.0299065420560748
+46,"SD","South Dakota",NA,"county","46057","March",2020,3359,3247,112,0.0333432569217029
+46,"SD","South Dakota",NA,"county","46059","March",2020,1781,1736,45,0.0252667040988209
+46,"SD","South Dakota",NA,"county","46061","March",2020,1766,1666,100,0.0566251415628539
+46,"SD","South Dakota",NA,"county","46063","March",2020,739,721,18,0.0243572395128552
+46,"SD","South Dakota",NA,"county","46065","March",2020,9874,9590,284,0.0287624063196273
+46,"SD","South Dakota",NA,"county","46067","March",2020,3737,3592,145,0.0388011774150388
+46,"SD","South Dakota",NA,"county","46069","March",2020,705,685,20,0.0283687943262411
+46,"SD","South Dakota",NA,"county","46071","March",2020,1172,1110,62,0.052901023890785
+46,"SD","South Dakota",NA,"county","46073","March",2020,1159,1132,27,0.0232959447799827
+46,"SD","South Dakota",NA,"county","46075","March",2020,520,503,17,0.0326923076923077
+46,"SD","South Dakota",NA,"county","46077","March",2020,2691,2599,92,0.0341880341880342
+46,"SD","South Dakota",NA,"county","46079","March",2020,6732,6518,214,0.0317884729649436
+46,"SD","South Dakota",NA,"county","46043","April",2020,1492,1429,63,0.0422252010723861
+46,"SD","South Dakota",NA,"county","46045","April",2020,1959,1868,91,0.0464522715671261
+46,"SD","South Dakota",NA,"county","46047","April",2020,2982,2670,312,0.104627766599598
+46,"SD","South Dakota",NA,"county","46049","April",2020,1004,949,55,0.0547808764940239
+46,"SD","South Dakota",NA,"county","46051","April",2020,4407,4016,391,0.0887224869525755
+46,"SD","South Dakota",NA,"county","46053","April",2020,1990,1847,143,0.0718592964824121
+46,"SD","South Dakota",NA,"county","46055","April",2020,1000,956,44,0.044
+46,"SD","South Dakota",NA,"county","46057","April",2020,3176,2937,239,0.0752518891687657
+46,"SD","South Dakota",NA,"county","46059","April",2020,1688,1606,82,0.0485781990521327
+46,"SD","South Dakota",NA,"county","46061","April",2020,1704,1548,156,0.0915492957746479
+46,"SD","South Dakota",NA,"county","46063","April",2020,704,655,49,0.0696022727272727
+46,"SD","South Dakota",NA,"county","46065","April",2020,9768,9012,756,0.0773955773955774
+46,"SD","South Dakota",NA,"county","46067","April",2020,3509,3264,245,0.0698204616699915
+46,"SD","South Dakota",NA,"county","46069","April",2020,644,617,27,0.0419254658385093
+46,"SD","South Dakota",NA,"county","46071","April",2020,1172,1107,65,0.0554607508532423
+46,"SD","South Dakota",NA,"county","46073","April",2020,1058,1010,48,0.0453686200378072
+46,"SD","South Dakota",NA,"county","46075","April",2020,508,478,30,0.0590551181102362
+46,"SD","South Dakota",NA,"county","46077","April",2020,2625,2446,179,0.0681904761904762
+46,"SD","South Dakota",NA,"county","46079","April",2020,6624,6151,473,0.0714070048309179
+46,"SD","South Dakota",NA,"county","46043","May",2020,1507,1444,63,0.0418049104180491
+46,"SD","South Dakota",NA,"county","46045","May",2020,1942,1859,83,0.0427394438722966
+46,"SD","South Dakota",NA,"county","46047","May",2020,3085,2756,329,0.106645056726094
+46,"SD","South Dakota",NA,"county","46049","May",2020,995,942,53,0.0532663316582915
+46,"SD","South Dakota",NA,"county","46051","May",2020,4329,4053,276,0.0637560637560638
+46,"SD","South Dakota",NA,"county","46053","May",2020,2008,1871,137,0.0682270916334661
+46,"SD","South Dakota",NA,"county","46055","May",2020,985,949,36,0.0365482233502538
+46,"SD","South Dakota",NA,"county","46057","May",2020,3195,2992,203,0.0635367762128325
+46,"SD","South Dakota",NA,"county","46059","May",2020,1711,1637,74,0.043249561659848
+46,"SD","South Dakota",NA,"county","46061","May",2020,1696,1554,142,0.0837264150943396
+46,"SD","South Dakota",NA,"county","46063","May",2020,688,648,40,0.0581395348837209
+46,"SD","South Dakota",NA,"county","46065","May",2020,9957,9284,673,0.067590639750929
+46,"SD","South Dakota",NA,"county","46067","May",2020,3478,3252,226,0.0649798734905118
+46,"SD","South Dakota",NA,"county","46069","May",2020,633,603,30,0.0473933649289099
+46,"SD","South Dakota",NA,"county","46071","May",2020,1248,1187,61,0.0488782051282051
+46,"SD","South Dakota",NA,"county","46073","May",2020,1052,1007,45,0.0427756653992395
+46,"SD","South Dakota",NA,"county","46075","May",2020,537,499,38,0.0707635009310987
+46,"SD","South Dakota",NA,"county","46077","May",2020,2612,2450,162,0.0620214395099541
+46,"SD","South Dakota",NA,"county","46079","May",2020,6530,6140,390,0.0597243491577335
+46,"SD","South Dakota",NA,"county","46081","January",2020,13270,12835,435,0.0327807083647325
+46,"SD","South Dakota",NA,"county","46083","January",2020,34643,33635,1008,0.0290967872297434
+46,"SD","South Dakota",NA,"county","46085","January",2020,1618,1532,86,0.0531520395550062
+46,"SD","South Dakota",NA,"county","46091","January",2020,2322,2205,117,0.0503875968992248
+46,"SD","South Dakota",NA,"county","46087","January",2020,3073,2966,107,0.0348193947282786
+46,"SD","South Dakota",NA,"county","46089","January",2020,1008,955,53,0.0525793650793651
+46,"SD","South Dakota",NA,"county","46093","January",2020,14010,13458,552,0.0394004282655246
+46,"SD","South Dakota",NA,"county","46095","January",2020,739,688,51,0.0690121786197564
+46,"SD","South Dakota",NA,"county","46097","January",2020,1168,1131,37,0.0316780821917808
+46,"SD","South Dakota",NA,"county","46099","January",2020,113605,109661,3944,0.0347167818317856
+46,"SD","South Dakota",NA,"county","46101","January",2020,3955,3806,149,0.0376738305941846
+46,"SD","South Dakota",NA,"county",NA,"January",2020,3550,3225,325,0.0915492957746479
+46,"SD","South Dakota",NA,"county","46103","January",2020,56372,54234,2138,0.0379266302419641
+46,"SD","South Dakota",NA,"county","46105","January",2020,1393,1351,42,0.0301507537688442
+46,"SD","South Dakota",NA,"county","46107","January",2020,986,950,36,0.0365111561866126
+46,"SD","South Dakota",NA,"county","46109","January",2020,4873,4570,303,0.0621793556330802
+46,"SD","South Dakota",NA,"county","46111","January",2020,1144,1102,42,0.0367132867132867
+46,"SD","South Dakota",NA,"county","46115","January",2020,3137,2993,144,0.0459037296780363
+46,"SD","South Dakota",NA,"county","46117","January",2020,1847,1771,76,0.0411478072550081
+46,"SD","South Dakota",NA,"county","46119","January",2020,786,762,24,0.0305343511450382
+46,"SD","South Dakota",NA,"county","46081","February",2020,13399,12997,402,0.0300022389730577
+46,"SD","South Dakota",NA,"county","46083","February",2020,34894,33933,961,0.0275405513841921
+46,"SD","South Dakota",NA,"county","46085","February",2020,1602,1519,83,0.0518102372034956
+46,"SD","South Dakota",NA,"county","46091","February",2020,2327,2198,129,0.055436183927804
+46,"SD","South Dakota",NA,"county","46087","February",2020,3090,2984,106,0.0343042071197411
+46,"SD","South Dakota",NA,"county","46089","February",2020,989,938,51,0.051567239635996
+46,"SD","South Dakota",NA,"county","46093","February",2020,14086,13568,518,0.0367741019451938
+46,"SD","South Dakota",NA,"county","46095","February",2020,727,683,44,0.0605226960110041
+46,"SD","South Dakota",NA,"county","46097","February",2020,1159,1124,35,0.0301984469370147
+46,"SD","South Dakota",NA,"county","46099","February",2020,114408,110654,3754,0.0328123907419062
+46,"SD","South Dakota",NA,"county","46101","February",2020,3979,3822,157,0.0394571500376979
+46,"SD","South Dakota",NA,"county",NA,"February",2020,3543,3250,293,0.08269827829523
+46,"SD","South Dakota",NA,"county","46103","February",2020,56748,54656,2092,0.0368647353210686
+46,"SD","South Dakota",NA,"county","46105","February",2020,1397,1351,46,0.0329277022190408
+46,"SD","South Dakota",NA,"county","46107","February",2020,983,950,33,0.0335707019328586
+46,"SD","South Dakota",NA,"county","46109","February",2020,4874,4566,308,0.0631924497332786
+46,"SD","South Dakota",NA,"county","46111","February",2020,1142,1100,42,0.0367775831873905
+46,"SD","South Dakota",NA,"county","46115","February",2020,3145,2995,150,0.0476947535771065
+46,"SD","South Dakota",NA,"county","46117","February",2020,1834,1756,78,0.0425299890948746
+46,"SD","South Dakota",NA,"county","46119","February",2020,775,754,21,0.0270967741935484
+46,"SD","South Dakota",NA,"county","46081","March",2020,13665,13276,389,0.0284668862056348
+46,"SD","South Dakota",NA,"county","46083","March",2020,34646,33758,888,0.0256306644345668
+46,"SD","South Dakota",NA,"county","46085","March",2020,1648,1570,78,0.0473300970873786
+46,"SD","South Dakota",NA,"county","46091","March",2020,2388,2271,117,0.0489949748743719
+46,"SD","South Dakota",NA,"county","46087","March",2020,3120,3020,100,0.032051282051282
+46,"SD","South Dakota",NA,"county","46089","March",2020,1013,965,48,0.0473840078973346
+46,"SD","South Dakota",NA,"county","46093","March",2020,14028,13545,483,0.0344311377245509
+46,"SD","South Dakota",NA,"county","46095","March",2020,759,717,42,0.0553359683794466
+46,"SD","South Dakota",NA,"county","46097","March",2020,1184,1152,32,0.027027027027027
+46,"SD","South Dakota",NA,"county","46099","March",2020,113477,109947,3530,0.0311076253337681
+46,"SD","South Dakota",NA,"county","46101","March",2020,4092,3945,147,0.0359237536656892
+46,"SD","South Dakota",NA,"county",NA,"March",2020,3521,3252,269,0.0763987503550128
+46,"SD","South Dakota",NA,"county","46103","March",2020,56328,54369,1959,0.0347784405624201
+46,"SD","South Dakota",NA,"county","46105","March",2020,1450,1410,40,0.0275862068965517
+46,"SD","South Dakota",NA,"county","46107","March",2020,1014,981,33,0.0325443786982249
+46,"SD","South Dakota",NA,"county","46109","March",2020,4969,4683,286,0.0575568524854095
+46,"SD","South Dakota",NA,"county","46111","March",2020,1198,1153,45,0.0375626043405676
+46,"SD","South Dakota",NA,"county","46115","March",2020,3222,3082,140,0.0434512725015518
+46,"SD","South Dakota",NA,"county","46117","March",2020,1850,1782,68,0.0367567567567568
+46,"SD","South Dakota",NA,"county","46119","March",2020,810,787,23,0.0283950617283951
+46,"SD","South Dakota",NA,"county","46081","April",2020,15217,11884,3333,0.219031346520339
+46,"SD","South Dakota",NA,"county","46083","April",2020,34415,31299,3116,0.0905419148627052
+46,"SD","South Dakota",NA,"county","46085","April",2020,1633,1468,165,0.101041028781384
+46,"SD","South Dakota",NA,"county","46091","April",2020,2353,2076,277,0.117722056948576
+46,"SD","South Dakota",NA,"county","46087","April",2020,3030,2792,238,0.0785478547854785
+46,"SD","South Dakota",NA,"county","46089","April",2020,988,895,93,0.0941295546558704
+46,"SD","South Dakota",NA,"county","46093","April",2020,14189,12329,1860,0.131087462118543
+46,"SD","South Dakota",NA,"county","46095","April",2020,720,659,61,0.0847222222222222
+46,"SD","South Dakota",NA,"county","46097","April",2020,1141,1054,87,0.0762489044697634
+46,"SD","South Dakota",NA,"county","46099","April",2020,114719,101951,12768,0.111298041300918
+46,"SD","South Dakota",NA,"county","46101","April",2020,4076,3591,485,0.118989205103042
+46,"SD","South Dakota",NA,"county",NA,"April",2020,3375,3020,355,0.105185185185185
+46,"SD","South Dakota",NA,"county","46103","April",2020,57388,49339,8049,0.140255802606817
+46,"SD","South Dakota",NA,"county","46105","April",2020,1366,1299,67,0.0490483162518302
+46,"SD","South Dakota",NA,"county","46107","April",2020,985,932,53,0.0538071065989848
+46,"SD","South Dakota",NA,"county","46109","April",2020,5159,4258,901,0.174646249273115
+46,"SD","South Dakota",NA,"county","46111","April",2020,1129,1042,87,0.0770593445527015
+46,"SD","South Dakota",NA,"county","46115","April",2020,3113,2868,245,0.0787022165114038
+46,"SD","South Dakota",NA,"county","46117","April",2020,1825,1660,165,0.0904109589041096
+46,"SD","South Dakota",NA,"county","46119","April",2020,766,722,44,0.0574412532637076
+46,"SD","South Dakota",NA,"county","46081","May",2020,14026,12049,1977,0.140952516754599
+46,"SD","South Dakota",NA,"county","46083","May",2020,34829,31997,2832,0.0813115507192282
+46,"SD","South Dakota",NA,"county","46085","May",2020,1672,1507,165,0.0986842105263158
+46,"SD","South Dakota",NA,"county","46091","May",2020,2362,2185,177,0.0749364944961897
+46,"SD","South Dakota",NA,"county","46087","May",2020,3062,2822,240,0.0783801436969301
+46,"SD","South Dakota",NA,"county","46089","May",2020,970,884,86,0.088659793814433
+46,"SD","South Dakota",NA,"county","46093","May",2020,14010,12575,1435,0.102426837972877
+46,"SD","South Dakota",NA,"county","46095","May",2020,725,654,71,0.0979310344827586
+46,"SD","South Dakota",NA,"county","46097","May",2020,1133,1064,69,0.0609002647837599
+46,"SD","South Dakota",NA,"county","46099","May",2020,115856,104310,11546,0.0996581963817152
+46,"SD","South Dakota",NA,"county","46101","May",2020,4121,3673,448,0.108711477796651
+46,"SD","South Dakota",NA,"county",NA,"May",2020,3373,3014,359,0.106433442039727
+46,"SD","South Dakota",NA,"county","46103","May",2020,56785,50521,6264,0.110310821519768
+46,"SD","South Dakota",NA,"county","46105","May",2020,1384,1305,79,0.0570809248554913
+46,"SD","South Dakota",NA,"county","46107","May",2020,996,948,48,0.0481927710843374
+46,"SD","South Dakota",NA,"county","46109","May",2020,4781,4305,476,0.0995607613469985
+46,"SD","South Dakota",NA,"county","46111","May",2020,1114,1031,83,0.0745062836624776
+46,"SD","South Dakota",NA,"county","46115","May",2020,3094,2902,192,0.0620555914673562
+46,"SD","South Dakota",NA,"county","46117","May",2020,1843,1693,150,0.0813890396093326
+46,"SD","South Dakota",NA,"county","46119","May",2020,760,724,36,0.0473684210526316
+46,"SD","South Dakota",NA,"county","46121","January",2020,3149,2929,220,0.0698634487138774
+46,"SD","South Dakota",NA,"county","46123","January",2020,3005,2908,97,0.032279534109817
+46,"SD","South Dakota",NA,"county","46125","January",2020,4708,4511,197,0.0418436703483432
+46,"SD","South Dakota",NA,"county","46127","January",2020,8541,8217,324,0.0379346680716544
+46,"SD","South Dakota",NA,"county","46129","January",2020,2109,1958,151,0.0715979137031769
+46,"SD","South Dakota",NA,"county","46135","January",2020,11875,11497,378,0.0318315789473684
+46,"SD","South Dakota",NA,"county","46137","January",2020,908,871,37,0.0407488986784141
+46,"SD","South Dakota",NA,"county","46121","February",2020,3138,2939,199,0.0634161886551944
+46,"SD","South Dakota",NA,"county","46123","February",2020,2967,2877,90,0.0303336703741153
+46,"SD","South Dakota",NA,"county","46125","February",2020,4726,4544,182,0.0385103681760474
+46,"SD","South Dakota",NA,"county","46127","February",2020,8587,8268,319,0.0371491789914988
+46,"SD","South Dakota",NA,"county","46129","February",2020,2105,1953,152,0.072209026128266
+46,"SD","South Dakota",NA,"county","46135","February",2020,11964,11590,374,0.0312604480106988
+46,"SD","South Dakota",NA,"county","46137","February",2020,902,869,33,0.0365853658536585
+46,"SD","South Dakota",NA,"county","46121","March",2020,3177,2992,185,0.0582310355681461
+46,"SD","South Dakota",NA,"county","46123","March",2020,3098,3015,83,0.026791478373144
+46,"SD","South Dakota",NA,"county","46125","March",2020,4771,4606,165,0.0345839446656885
+46,"SD","South Dakota",NA,"county","46127","March",2020,8503,8232,271,0.0318711043161237
+46,"SD","South Dakota",NA,"county","46129","March",2020,2158,2016,142,0.0658016682113068
+46,"SD","South Dakota",NA,"county","46135","March",2020,11852,11505,347,0.0292777590280121
+46,"SD","South Dakota",NA,"county","46137","March",2020,936,903,33,0.0352564102564103
+46,"SD","South Dakota",NA,"county","46121","April",2020,3090,2816,274,0.0886731391585761
+46,"SD","South Dakota",NA,"county","46123","April",2020,2920,2762,158,0.0541095890410959
+46,"SD","South Dakota",NA,"county","46125","April",2020,4657,4283,374,0.0803092119390165
+46,"SD","South Dakota",NA,"county","46127","April",2020,8763,7689,1074,0.122560766860664
+46,"SD","South Dakota",NA,"county","46129","April",2020,2077,1843,234,0.112662493981704
+46,"SD","South Dakota",NA,"county","46135","April",2020,12408,10939,1469,0.118391360412637
+46,"SD","South Dakota",NA,"county","46137","April",2020,872,826,46,0.0527522935779817
+46,"SD","South Dakota",NA,"county","46121","May",2020,3069,2798,271,0.0883023786249593
+46,"SD","South Dakota",NA,"county","46123","May",2020,2919,2747,172,0.0589242891401165
+46,"SD","South Dakota",NA,"county","46125","May",2020,4686,4312,374,0.07981220657277
+46,"SD","South Dakota",NA,"county","46127","May",2020,8712,7816,896,0.102846648301194
+46,"SD","South Dakota",NA,"county","46129","May",2020,2071,1881,190,0.0917431192660551
+46,"SD","South Dakota",NA,"county","46135","May",2020,12040,11040,1000,0.0830564784053156
+46,"SD","South Dakota",NA,"county","46137","May",2020,864,809,55,0.0636574074074074
+46,"SD","South Dakota",NA,"state",NA,"January",2020,461820,444256,17564,0.038032133731757
+46,"SD","South Dakota",NA,"state",NA,"February",2020,464194,447445,16749,0.0360818967931511
+46,"SD","South Dakota",NA,"state",NA,"March",2020,465585,449860,15725,0.0337747135324377
+46,"SD","South Dakota",NA,"state",NA,"April",2020,467575,416227,51348,0.109817676308614
+46,"SD","South Dakota",NA,"state",NA,"May",2020,464600,421779,42821,0.0921674558760224

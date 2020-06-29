@@ -39,7 +39,8 @@ output <- raw %>%
   select(
     state_fips, state_short, state, area, area_type, fips, period, year, 
     labor_force, employment, unemployment
-  )
+  ) %>%
+  filter(!str_detect(area, ",.*part"))
 
 write.csv(output, file="AZ_compiled.csv", row.names = FALSE)
 

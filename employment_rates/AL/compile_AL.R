@@ -33,11 +33,15 @@ output <- raw %>%
 
     # work on FIPS
 
-    area = str_remove(area_name, "( County| City)"),
+    area = area_name,
+    area = case_when(
+      area_type == "city" ~ str_replace(area, "City", "city"),
+      TRUE ~ area
+    ),
     polyname = case_when(
-      area == "DeKalb" ~ "alabama,de kalb",
-      area == "St. Clair" ~ "alabama,st clair",
-      areadesc == "county" ~ paste("alabama,", tolower(area), sep = "")
+      area == "DeKalb County" ~ "alabama,de kalb",
+      area == "St. Clair County" ~ "alabama,st clair",
+      area_type == "county" ~ paste("alabama,", tolower(str_remove(area, " County")), sep = "")
     )
   ) %>%
   filter(year >= 2019) %>%

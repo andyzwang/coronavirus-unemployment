@@ -26,7 +26,19 @@ output <- Reduce(rbind, lapply(filenames, read.csv)) %>%
     ),
     area_type = str_to_lower(area_type),
     period = month(mdy(paste(period, "-1-2020", sep = "")), abbr = F, label = T),
-    unemployment_rate = as.numeric(unemployment) / as.numeric(labor_force)
+    unemployment_rate = as.numeric(unemployment) / as.numeric(labor_force),
+    area = case_when(
+      area_type == "city" ~ str_remove(area, " city"),
+      TRUE ~ as.character(area)
+    ),
+    area = case_when(
+      area_type == "city" ~ str_remove(area, " town"),
+      TRUE ~ as.character(area)
+    ),
+    area = case_when(
+      area_type == "city" ~ str_remove(area, " village"),
+      TRUE ~ as.character(area)
+    )
   )
 
 # save

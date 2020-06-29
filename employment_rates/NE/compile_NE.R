@@ -24,7 +24,8 @@ output <- raw %>%
     ),
     polyname = case_when(
       area_type == "county" ~ paste("nebraska,", tolower(str_remove(str_remove(area, "[[:punct:]]"), " County")), sep = "")
-    )
+    ),
+    area = str_remove_all(area, " (City|Town|Village)")
   ) %>%
 
   # Join with FIPS
