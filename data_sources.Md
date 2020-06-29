@@ -351,3 +351,6 @@ No data
 * [Wyoming Department of Workforce Services](https://doe.state.wy.us/lmi/UI/weekly_county.htm)
   * Format: Excel / Tableau, Updated: Weekly, Level: County
   * Data: Claims, Industry, Demographics
+* [Wyoming Department of Workforce](https://doe.state.wy.us/lmi/news.htm)
+  * Format: Image, Updated: Monthly, Level: County
+  * Data: Unemployment
