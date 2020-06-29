@@ -290,39 +290,62 @@ No data
 * [TN Department of Labor and Workforce Development](https://www.tn.gov/workforce/covid-19/news.weekly-unemployment-claims-data.html)
   * Format: PDF, Updated: Weekly, Level: WDA
   * Data: Unemployment Claims
+* [Jobs4TN](https://www.jobs4tn.gov/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmizGZkm52zV+sR+lKAe/bUj0=)
+  * Format: Excel, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Texas
 * [Texas Workforce Commission](https://www.twc.texas.gov/files/agency/weekly-claims-by-county-twc.xlsx)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims
+* [Texas LMI](https://texaslmi.com/LMIbyCategory/LAUS)
+  * Format: Excel, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Utah
 * [Utah Department of Workforce Services](https://jobs.utah.gov/wi/data/misstats/lmi/)
   * Format: Tableau, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries, Demographics, Unemployment
+* [Utah Department of Workforce Services](https://jobs.utah.gov/wi/update/une/)
+  * Format: Tableau, Updated: Monthly, Level: County
+  * Data: Unemployment
 
 ## Vermont
 * [Vermont Department of Labor](http://www.vtlmi.info/lmipub.htm)
   * Format: PDF, Updated: Weekly, Level: Workforce Centers (roughly counties)
   * Data: Continuing Claims
+* [VDOL](http://www.vtlmi.info/detftp.htm#laus)
+  * Format: Excel, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Virginia
 * [Virginia Employment Commission](https://www.vec.virginia.gov/node/11972)
   * Format: Excel, Updated: weekly, Level: County / City
   * Data: Initial / Continuing Claims, Industries
+* [Virginia Employment Commission](https://virginiaworks.com/local-area-unemployment-statistics-laus/lausparmperiodtype/03/lausparmareatype/01/lausparmarea/--all--?LAUSParmYear=2020,2019&LAUSParmPeriod=01,02,03,04,05,06,07,08,09,10,11,12&LAUSParmAdjusted=%5BSelectAdjusted%5D&page89556=1&size89556=48&page89557=1&size89557=48#Unadjusted-2685)
+  * Format: Table, Updated Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Washington
 * [Employment Security Department](https://esd.wa.gov/labormarketinfo/unemployment-insurance-data)
   * Format: Excel, Updated: weekly, Level: County
   * Data: Initial / Continuing Claims, Industries, Demographics
+* [Employment Security Department](https://esd.wa.gov/labormarketinfo/labor-force)
+  * Format: Excel, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## West Virginia
-No data
+* [Workforce West Virginia](http://lmi.workforcewv.org/table2.html)
+  * Format: Tableau, Updated: Monthly, Level: County
+  * Data: Unemployment
 
 ## Wisconsin
 * [Department of Workforce Development](https://dwd.wisconsin.gov/uistats/)
   * Format: Excel, Updated: weekly, Level: County
   * Data: Initial / Continuing Claims
+* [Job Center of Wisconsin](https://jobcenterofwisconsin.com/wisconomy/query)
+  * Format: Excel, Updated: Monthly, Level: County, City
+  * Data: Unemployment
 
 ## Wyoming
 * [Wyoming Department of Workforce Services](https://doe.state.wy.us/lmi/UI/weekly_county.htm)
