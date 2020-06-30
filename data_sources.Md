@@ -257,7 +257,7 @@ No data
   * Format: CSV, Updated:  Monthly, Level: County
   * Data: Unemployment
 
-## Pennslyvania
+## Pennsylvania
 * [Center for Workforce Information and Analysis](https://www.workstats.dli.pa.gov/Products/UCActivity/Pages/default.aspx)
   * Format: Excel, Updated: Weekly, Level: County
   * Data: Unemployment Claims, Industries
