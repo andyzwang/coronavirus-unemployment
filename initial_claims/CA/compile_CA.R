@@ -12,7 +12,7 @@ library(tabulizer)
 
 raw <- extract_tables("CA_data.pdf", output = "data.frame")[[1]] %>%
   remove_empty("cols") %>%
-  select(County, January.2020, February.2020, March.2020, April.2020)
+  select(County, January.2020, February.2020, March.2020, April.2020, May.2020)
 
 # import FIPS codes
 
