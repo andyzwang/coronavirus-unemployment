@@ -10,7 +10,7 @@ library(readxl)
 # processing
 # NOTE: range is manually set
 
-raw <- read_excel("AZ_data.xlsx", range = "A4:S22")
+raw <- read_excel("AZ_data.xlsx", range = "A4:S23")
 
 # import FIPS codes
 
