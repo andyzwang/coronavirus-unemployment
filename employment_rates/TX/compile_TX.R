@@ -32,6 +32,10 @@ output <- raw %>%
         ), " County")),
         sep = ""
       )
+    ),
+    area = case_when(
+      area_type == "county" ~ paste(trimws(area), "County", sep = " "),
+      TRUE ~ as.character(area)
     )
   ) %>%
 

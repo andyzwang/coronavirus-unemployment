@@ -26,6 +26,14 @@ output <- raw %>%
                                     ), " County")),
                                     sep = ""
       )
+    ),
+    area = case_when(
+      area_type == "city" ~ str_remove(area, " village"),
+      TRUE ~ as.character(area)
+    ),
+    area = case_when(
+      area_type == "county" ~ paste(trimws(area),"County"),
+      TRUE ~ area
     )
   ) %>%
   

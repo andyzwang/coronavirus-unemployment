@@ -1,49 +1,49 @@
 "state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
-"56","WY","Wyoming","Albany","county",56001,"May",2020,21260,20215,1045
-"56","WY","Wyoming","Big Horn","county",56003,"May",2020,5117,4819,298
-"56","WY","Wyoming","Campbell","county",56005,"May",2020,23636,21335,2301
-"56","WY","Wyoming","Carbon","county",56007,"May",2020,7633,7100,533
-"56","WY","Wyoming","Converse","county",56009,"May",2020,8926,8278,648
-"56","WY","Wyoming","Crook","county",56011,"May",2020,3597,3410,187
-"56","WY","Wyoming","Fremont","county",56013,"May",2020,18895,17295,1600
-"56","WY","Wyoming","Goshen","county",56015,"May",2020,6337,6005,332
-"56","WY","Wyoming","Hot Springs","county",56017,"May",2020,2171,2023,148
-"56","WY","Wyoming","Johnson","county",56019,"May",2020,4078,3746,332
-"56","WY","Wyoming","Laramie","county",56021,"May",2020,49998,46076,3922
-"56","WY","Wyoming","Lincoln","county",56023,"May",2020,8796,8116,680
-"56","WY","Wyoming","Natrona","county",56025,"May",2020,39251,34675,4576
-"56","WY","Wyoming","Niobrara","county",56027,"May",2020,1187,1133,54
-"56","WY","Wyoming","Park","county",56029,"May",2020,14821,13584,1237
-"56","WY","Wyoming","Platte","county",56031,"May",2020,4648,4347,301
-"56","WY","Wyoming","Sheridan","county",56033,"May",2020,15766,14560,1206
-"56","WY","Wyoming","Sublette","county",56035,"May",2020,4001,3609,392
-"56","WY","Wyoming","Sweetwater","county",56037,"May",2020,21157,19097,2060
-"56","WY","Wyoming","Teton","county",56039,"May",2020,15045,12786,2259
-"56","WY","Wyoming","Uinta","county",56041,"May",2020,8960,8159,801
-"56","WY","Wyoming","Washakie","county",56043,"May",2020,3795,3525,270
-"56","WY","Wyoming","Weston","county",56045,"May",2020,3730,3542,188
+"56","WY","Wyoming","Albany County","county",56001,"May",2020,21260,20215,1045
+"56","WY","Wyoming","Big Horn County","county",56003,"May",2020,5117,4819,298
+"56","WY","Wyoming","Campbell County","county",56005,"May",2020,23636,21335,2301
+"56","WY","Wyoming","Carbon County","county",56007,"May",2020,7633,7100,533
+"56","WY","Wyoming","Converse County","county",56009,"May",2020,8926,8278,648
+"56","WY","Wyoming","Crook County","county",56011,"May",2020,3597,3410,187
+"56","WY","Wyoming","Fremont County","county",56013,"May",2020,18895,17295,1600
+"56","WY","Wyoming","Goshen County","county",56015,"May",2020,6337,6005,332
+"56","WY","Wyoming","Hot Springs County","county",56017,"May",2020,2171,2023,148
+"56","WY","Wyoming","Johnson County","county",56019,"May",2020,4078,3746,332
+"56","WY","Wyoming","Laramie County","county",56021,"May",2020,49998,46076,3922
+"56","WY","Wyoming","Lincoln County","county",56023,"May",2020,8796,8116,680
+"56","WY","Wyoming","Natrona County","county",56025,"May",2020,39251,34675,4576
+"56","WY","Wyoming","Niobrara County","county",56027,"May",2020,1187,1133,54
+"56","WY","Wyoming","Park County","county",56029,"May",2020,14821,13584,1237
+"56","WY","Wyoming","Platte County","county",56031,"May",2020,4648,4347,301
+"56","WY","Wyoming","Sheridan County","county",56033,"May",2020,15766,14560,1206
+"56","WY","Wyoming","Sublette County","county",56035,"May",2020,4001,3609,392
+"56","WY","Wyoming","Sweetwater County","county",56037,"May",2020,21157,19097,2060
+"56","WY","Wyoming","Teton County","county",56039,"May",2020,15045,12786,2259
+"56","WY","Wyoming","Uinta County","county",56041,"May",2020,8960,8159,801
+"56","WY","Wyoming","Washakie County","county",56043,"May",2020,3795,3525,270
+"56","WY","Wyoming","Weston County","county",56045,"May",2020,3730,3542,188
 "56","WY","Wyoming","Wyoming","state",NA,"May",2020,292808,267434,25374
-"56","WY","Wyoming","Albany","county",56001,"April",2020,21182,20029,1153
-"56","WY","Wyoming","Big Horn","county",56003,"April",2020,5104,4758,346
-"56","WY","Wyoming","Campbell","county",56005,"April",2020,23527,21129,2398
-"56","WY","Wyoming","Carbon","county",56007,"April",2020,7520,7011,509
-"56","WY","Wyoming","Converse","county",56009,"April",2020,8766,8209,557
-"56","WY","Wyoming","Crook","county",56011,"April",2020,3553,3350,3
-"56","WY","Wyoming","Fremont","county",56013,"April",2020,18885,17129,1756
-"56","WY","Wyoming","Goshen","county",56015,"April",2020,6300,5911,389
-"56","WY","Wyoming","Hot Springs","county",56017,"April",2020,2161,2003,158
-"56","WY","Wyoming","Johnson","county",56019,"April",2020,4095,3698,397
-"56","WY","Wyoming","Laramie","county",56021,"April",2020,50162,45626,4536
-"56","WY","Wyoming","Lincoln","county",56023,"April",2020,8827,8040,787
-"56","WY","Wyoming","Natrona","county",56025,"April",2020,40233,35152,5081
-"56","WY","Wyoming","Niobrara","county",56027,"April",2020,1170,1116,54
-"56","WY","Wyoming","Park","county",56029,"April",2020,14827,13425,1402
-"56","WY","Wyoming","Platte","county",56031,"April",2020,4608,4285,323
-"56","WY","Wyoming","Sheridan","county",56033,"April",2020,15752,14396,1356
-"56","WY","Wyoming","Sublette","county",56035,"April",2020,4008,3552,456
-"56","WY","Wyoming","Sweetwater","county",56037,"April",2020,21150,18921,2229
-"56","WY","Wyoming","Teton","county",56039,"April",2020,15485,12665,2820
-"56","WY","Wyoming","Uinta","county",56041,"April",2020,8918,8081,837
-"56","WY","Wyoming","Washakie","county",56043,"April",2020,3765,3487,278
-"56","WY","Wyoming","Weston","county",56045,"April",2020,3715,3503,212
+"56","WY","Wyoming","Albany County","county",56001,"April",2020,21182,20029,1153
+"56","WY","Wyoming","Big Horn County","county",56003,"April",2020,5104,4758,346
+"56","WY","Wyoming","Campbell County","county",56005,"April",2020,23527,21129,2398
+"56","WY","Wyoming","Carbon County","county",56007,"April",2020,7520,7011,509
+"56","WY","Wyoming","Converse County","county",56009,"April",2020,8766,8209,557
+"56","WY","Wyoming","Crook County","county",56011,"April",2020,3553,3350,3
+"56","WY","Wyoming","Fremont County","county",56013,"April",2020,18885,17129,1756
+"56","WY","Wyoming","Goshen County","county",56015,"April",2020,6300,5911,389
+"56","WY","Wyoming","Hot Springs County","county",56017,"April",2020,2161,2003,158
+"56","WY","Wyoming","Johnson County","county",56019,"April",2020,4095,3698,397
+"56","WY","Wyoming","Laramie County","county",56021,"April",2020,50162,45626,4536
+"56","WY","Wyoming","Lincoln County","county",56023,"April",2020,8827,8040,787
+"56","WY","Wyoming","Natrona County","county",56025,"April",2020,40233,35152,5081
+"56","WY","Wyoming","Niobrara County","county",56027,"April",2020,1170,1116,54
+"56","WY","Wyoming","Park County","county",56029,"April",2020,14827,13425,1402
+"56","WY","Wyoming","Platte County","county",56031,"April",2020,4608,4285,323
+"56","WY","Wyoming","Sheridan County","county",56033,"April",2020,15752,14396,1356
+"56","WY","Wyoming","Sublette County","county",56035,"April",2020,4008,3552,456
+"56","WY","Wyoming","Sweetwater County","county",56037,"April",2020,21150,18921,2229
+"56","WY","Wyoming","Teton County","county",56039,"April",2020,15485,12665,2820
+"56","WY","Wyoming","Uinta County","county",56041,"April",2020,8918,8081,837
+"56","WY","Wyoming","Washakie County","county",56043,"April",2020,3765,3487,278
+"56","WY","Wyoming","Weston County","county",56045,"April",2020,3715,3503,212
 "56","WY","Wyoming","Wyoming","state",NA,"April",2020,293713,265476,28237
