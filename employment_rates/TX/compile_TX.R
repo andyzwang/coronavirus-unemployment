@@ -13,6 +13,7 @@ raw <- read_excel("TX_data.xlsx")
 
 output <- raw %>%
   clean_names("snake") %>%
+  filter(adjustment == "Not Adjusted") %>%
   mutate(
     state_fips = "48",
     state_short = "TX",
