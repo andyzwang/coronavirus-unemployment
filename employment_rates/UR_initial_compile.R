@@ -46,5 +46,10 @@ output <- Reduce(rbind, lapply(filenames, read.csv)) %>%
 
  write.csv(output, file = "unemployment_rates.csv", row.names = F)
 
+ output1 <- output %>%
+   filter(area_type == "state") %>%
+   select(-area)
+ 
+ write.csv(output1, file = "state_unemployment_rates.csv", row.names = F)
 
 # voila ;)
