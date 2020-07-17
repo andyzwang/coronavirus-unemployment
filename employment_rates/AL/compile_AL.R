@@ -16,6 +16,8 @@ data(county.fips)
 
 output <- raw %>%
   filter(areadesc == "County" | areadesc == "Major City" | areadesc == "State") %>%
+  filter(adjusted_tooltip == "not adjusted") %>%
+  filter(period != 0) %>%
   mutate(
     # dates
     period = month(mdy(datefield), label = T, abbr = F),
@@ -61,4 +63,3 @@ output <- raw %>%
   )
 
 write.csv(output, file="AL_compiled.csv", row.names = FALSE)
-
