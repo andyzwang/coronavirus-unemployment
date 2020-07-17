@@ -45,6 +45,10 @@ output <- raw %>%
     
     # work on FIPS
     polyname = paste("connecticut,", tolower(str_remove(area, " County")), sep = ""),
+    
+    area = case_when(
+      str_detect(area, "Washington") ~ "Washington (CT)",
+      TRUE ~ area)
   ) %>% # Join with FIPS
   
   left_join(county.fips, by = "polyname") %>%
