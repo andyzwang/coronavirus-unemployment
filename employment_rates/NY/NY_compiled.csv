@@ -1,21 +1,21 @@
 "state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
-"36","NY","New York","New York","state",NA,"January",2020,5499300,5250900,248300
-"36","NY","New York","New York","state",NA,"February",2020,5485800,5248700,237100
-"36","NY","New York","New York","state",NA,"March",2020,5455000,5215200,239800
-"36","NY","New York","New York","state",NA,"April",2020,5308600,4491000,817500
-"36","NY","New York","New York","state",NA,"May",2020,5407900,4782300,625600
-"36","NY","New York","New York","state",NA,"January",2019,5421300,5171100,250100
-"36","NY","New York","New York","state",NA,"February",2019,5423100,5177200,245900
-"36","NY","New York","New York","state",NA,"March",2019,5424800,5199100,225600
-"36","NY","New York","New York","state",NA,"April",2019,5386700,5195200,191500
-"36","NY","New York","New York","state",NA,"May",2019,5404700,5214600,190100
-"36","NY","New York","New York","state",NA,"June",2019,5484100,5279000,205100
-"36","NY","New York","New York","state",NA,"July",2019,5514700,5288800,225800
-"36","NY","New York","New York","state",NA,"August",2019,5479000,5254500,224500
-"36","NY","New York","New York","state",NA,"September",2019,5449800,5249500,200300
-"36","NY","New York","New York","state",NA,"October",2019,5470300,5266800,203400
-"36","NY","New York","New York","state",NA,"November",2019,5445700,5240300,205400
-"36","NY","New York","New York","state",NA,"December",2019,5438300,5212300,225900
+"36","NY","New York","State of New York","state",NA,"January",2020,5499300,5250900,248300
+"36","NY","New York","State of New York","state",NA,"February",2020,5485800,5248700,237100
+"36","NY","New York","State of New York","state",NA,"March",2020,5455000,5215200,239800
+"36","NY","New York","State of New York","state",NA,"April",2020,5308600,4491000,817500
+"36","NY","New York","State of New York","state",NA,"May",2020,5407900,4782300,625600
+"36","NY","New York","State of New York","state",NA,"January",2019,5421300,5171100,250100
+"36","NY","New York","State of New York","state",NA,"February",2019,5423100,5177200,245900
+"36","NY","New York","State of New York","state",NA,"March",2019,5424800,5199100,225600
+"36","NY","New York","State of New York","state",NA,"April",2019,5386700,5195200,191500
+"36","NY","New York","State of New York","state",NA,"May",2019,5404700,5214600,190100
+"36","NY","New York","State of New York","state",NA,"June",2019,5484100,5279000,205100
+"36","NY","New York","State of New York","state",NA,"July",2019,5514700,5288800,225800
+"36","NY","New York","State of New York","state",NA,"August",2019,5479000,5254500,224500
+"36","NY","New York","State of New York","state",NA,"September",2019,5449800,5249500,200300
+"36","NY","New York","State of New York","state",NA,"October",2019,5470300,5266800,203400
+"36","NY","New York","State of New York","state",NA,"November",2019,5445700,5240300,205400
+"36","NY","New York","State of New York","state",NA,"December",2019,5438300,5212300,225900
 "36","NY","New York","New York","city",NA,"January",2020,4028500,3885600,142800
 "36","NY","New York","New York","city",NA,"February",2020,4080800,3942200,138600
 "36","NY","New York","New York","city",NA,"March",2020,3976700,3815700,161000

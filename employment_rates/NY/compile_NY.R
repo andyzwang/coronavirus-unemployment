@@ -47,7 +47,7 @@ output <- raw %>%
       )
     ),
     area = case_when(
-      area == "BALANCE OF STATE" ~ "New York",
+      area == "BALANCE OF STATE" ~ "State of New York",
       TRUE ~ area
     ),
     area = str_remove(area, " City"),
