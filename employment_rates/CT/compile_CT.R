@@ -52,7 +52,9 @@ output <- raw %>%
   # pad zeros
   
   mutate(
-    fips = str_pad(fips, 5, pad = "0")
+    fips = str_pad(fips, 5, pad = "0"),
+    area = str_remove(area, " town"),
+    area = str_remove(area, " city/town")
   ) %>%
   select(
     state_fips, state_short, state, area, area_type, fips, period, year, 
