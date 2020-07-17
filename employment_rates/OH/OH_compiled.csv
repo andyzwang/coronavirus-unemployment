@@ -8,7 +8,7 @@
 "39","OH","Ohio","Mason","city",NA,"March",2019,17300,16700,500
 "39","OH","Ohio","Shaker Heights","city",NA,"March",2019,14100,13600,400
 "39","OH","Ohio","Beavercreek","city",NA,"March",2019,23700,22900,700
-"39","OH","Ohio","Delaware","city",NA,"March",2019,21300,20600,700
+"39","OH","Ohio","Delaware (OH)","city",NA,"March",2019,21300,20600,700
 "39","OH","Ohio","Fairfield","city",NA,"March",2019,24200,23500,800
 "39","OH","Ohio","Findlay","city",NA,"March",2019,22000,21300,700
 "39","OH","Ohio","Westlake","city",NA,"March",2019,17100,16500,500
@@ -73,7 +73,7 @@
 "39","OH","Ohio","Grove","city",NA,"March",2020,22500,21600,900
 "39","OH","Ohio","Westerville","city",NA,"March",2020,22600,21800,900
 "39","OH","Ohio","Wooster","city",NA,"March",2020,14200,13700,500
-"39","OH","Ohio","Delaware","city",NA,"March",2020,21500,20700,800
+"39","OH","Ohio","Delaware (OH)","city",NA,"March",2020,21500,20700,800
 "39","OH","Ohio","Findlay","city",NA,"March",2020,21800,20900,800
 "39","OH","Ohio","Bowling Green","city",NA,"March",2020,16700,16000,700
 "39","OH","Ohio","Columbus","city",NA,"March",2020,474100,454600,19500
@@ -169,7 +169,7 @@
 "39","OH","Ohio","Findlay","city",NA,"January",2019,21700,20800,900
 "39","OH","Ohio","North Royalton","city",NA,"January",2019,17500,16800,700
 "39","OH","Ohio","Wooster","city",NA,"January",2019,13900,13400,600
-"39","OH","Ohio","Delaware","city",NA,"January",2019,21300,20400,900
+"39","OH","Ohio","Delaware (OH)","city",NA,"January",2019,21300,20400,900
 "39","OH","Ohio","Fairfield","city",NA,"January",2019,24100,23100,1000
 "39","OH","Ohio","Grove","city",NA,"January",2019,22300,21400,900
 "39","OH","Ohio","Columbus","city",NA,"January",2019,469600,449700,19900
@@ -233,7 +233,7 @@
 "39","OH","Ohio","North Olmsted","city",NA,"January",2020,17200,16600,700
 "39","OH","Ohio","Wooster","city",NA,"January",2020,14100,13600,500
 "39","OH","Ohio","Cleveland Heights","city",NA,"January",2020,22600,21700,900
-"39","OH","Ohio","Delaware","city",NA,"January",2020,21700,20800,900
+"39","OH","Ohio","Delaware (OH)","city",NA,"January",2020,21700,20800,900
 "39","OH","Ohio","Findlay","city",NA,"January",2020,21800,20900,900
 "39","OH","Ohio","Mentor","city",NA,"January",2020,26600,25500,1100
 "39","OH","Ohio","Columbus","city",NA,"January",2020,478300,458700,19600
@@ -465,7 +465,7 @@
 "39","OH","Ohio","Gahanna","city",NA,"April",2019,20100,19600,500
 "39","OH","Ohio","Westerville","city",NA,"April",2019,22300,21700,600
 "39","OH","Ohio","Brunswick","city",NA,"April",2019,20300,19700,600
-"39","OH","Ohio","Delaware","city",NA,"April",2019,21200,20600,600
+"39","OH","Ohio","Delaware (OH)","city",NA,"April",2019,21200,20600,600
 "39","OH","Ohio","Findlay","city",NA,"April",2019,22000,21400,600
 "39","OH","Ohio","Lakewood","city",NA,"April",2019,30000,29200,800
 "39","OH","Ohio","Mason","city",NA,"April",2019,17200,16700,500
@@ -535,7 +535,7 @@
 "39","OH","Ohio","Gahanna","city",NA,"April",2020,19500,17100,2400
 "39","OH","Ohio","Bowling Green","city",NA,"April",2020,15400,13400,2000
 "39","OH","Ohio","Wooster","city",NA,"April",2020,14200,12300,1900
-"39","OH","Ohio","Delaware","city",NA,"April",2020,20900,18000,3000
+"39","OH","Ohio","Delaware (OH)","city",NA,"April",2020,20900,18000,3000
 "39","OH","Ohio","Stow","city",NA,"April",2020,17600,15100,2500
 "39","OH","Ohio","Columbus","city",NA,"April",2020,463400,395500,67900
 "39","OH","Ohio","Green","city",NA,"April",2020,13100,11200,2000
@@ -772,7 +772,7 @@
 "39","OH","Ohio","Westerville","city",NA,"February",2019,22300,21600,700
 "39","OH","Ohio","Mason","city",NA,"February",2019,17100,16600,600
 "39","OH","Ohio","Beavercreek","city",NA,"February",2019,23500,22800,800
-"39","OH","Ohio","Delaware","city",NA,"February",2019,21200,20500,700
+"39","OH","Ohio","Delaware (OH)","city",NA,"February",2019,21200,20500,700
 "39","OH","Ohio","Fairfield","city",NA,"February",2019,24100,23300,800
 "39","OH","Ohio","Findlay","city",NA,"February",2019,22000,21200,800
 "39","OH","Ohio","Shaker Heights","city",NA,"February",2019,14100,13700,500
@@ -841,7 +841,7 @@
 "39","OH","Ohio","Grove","city",NA,"February",2020,22900,22100,800
 "39","OH","Ohio","Westerville","city",NA,"February",2020,23100,22300,800
 "39","OH","Ohio","Bowling Green","city",NA,"February",2020,16900,16300,600
-"39","OH","Ohio","Delaware","city",NA,"February",2020,21900,21100,800
+"39","OH","Ohio","Delaware (OH)","city",NA,"February",2020,21900,21100,800
 "39","OH","Ohio","Reynoldsburg","city",NA,"February",2020,21500,20700,800
 "39","OH","Ohio","Columbus","city",NA,"February",2020,482600,464700,17900
 "39","OH","Ohio","Shaker Heights","city",NA,"February",2020,14100,13500,500
@@ -1072,7 +1072,7 @@
 "39","OH","Ohio","Dublin","city",NA,"May",2019,26300,25600,700
 "39","OH","Ohio","Gahanna","city",NA,"May",2019,20300,19700,600
 "39","OH","Ohio","Beavercreek","city",NA,"May",2019,23700,23000,700
-"39","OH","Ohio","Delaware","city",NA,"May",2019,21400,20800,600
+"39","OH","Ohio","Delaware (OH)","city",NA,"May",2019,21400,20800,600
 "39","OH","Ohio","Fairfield","city",NA,"May",2019,24300,23600,700
 "39","OH","Ohio","Lakewood","city",NA,"May",2019,29900,29000,900
 "39","OH","Ohio","Mason","city",NA,"May",2019,17300,16800,500
@@ -1143,7 +1143,7 @@
 "39","OH","Ohio","Mason","city",NA,"May",2020,16900,15200,1700
 "39","OH","Ohio","Bowling Green","city",NA,"May",2020,16000,14400,1700
 "39","OH","Ohio","Gahanna","city",NA,"May",2020,20000,17900,2100
-"39","OH","Ohio","Delaware","city",NA,"May",2020,21100,18800,2200
+"39","OH","Ohio","Delaware (OH)","city",NA,"May",2020,21100,18800,2200
 "39","OH","Ohio","Stow","city",NA,"May",2020,17800,15800,1900
 "39","OH","Ohio","Wooster","city",NA,"May",2020,14400,12800,1600
 "39","OH","Ohio","Green","city",NA,"May",2020,13200,11700,1500
@@ -1388,7 +1388,7 @@
 "39","OH","Ohio","Brunswick","city",NA,"June",2019,20400,19700,800
 "39","OH","Ohio","Mason","city",NA,"June",2019,17600,17000,700
 "39","OH","Ohio","Troy","city",NA,"June",2019,13900,13400,500
-"39","OH","Ohio","Delaware","city",NA,"June",2019,21700,20900,800
+"39","OH","Ohio","Delaware (OH)","city",NA,"June",2019,21700,20900,800
 "39","OH","Ohio","Kettering","city",NA,"June",2019,29200,28100,1100
 "39","OH","Ohio","North Ridgeville","city",NA,"June",2019,18400,17700,700
 "39","OH","Ohio","North Royalton","city",NA,"June",2019,17800,17100,700
@@ -1706,7 +1706,7 @@
 "39","OH","Ohio","Fairfield","city",NA,"July",2019,24700,23700,900
 "39","OH","Ohio","Findlay","city",NA,"July",2019,22000,21200,800
 "39","OH","Ohio","Westlake","city",NA,"July",2019,17600,17000,700
-"39","OH","Ohio","Delaware","city",NA,"July",2019,21900,21100,900
+"39","OH","Ohio","Delaware (OH)","city",NA,"July",2019,21900,21100,900
 "39","OH","Ohio","Kettering","city",NA,"July",2019,29500,28300,1200
 "39","OH","Ohio","Mason","city",NA,"July",2019,17600,16900,700
 "39","OH","Ohio","Mentor","city",NA,"July",2019,27600,26500,1100
@@ -1863,7 +1863,7 @@
 "39","OH","Ohio","Fairfield","city",NA,"August",2019,24600,23700,900
 "39","OH","Ohio","Findlay","city",NA,"August",2019,21900,21100,800
 "39","OH","Ohio","Westerville","city",NA,"August",2019,23000,22200,800
-"39","OH","Ohio","Delaware","city",NA,"August",2019,21900,21100,800
+"39","OH","Ohio","Delaware (OH)","city",NA,"August",2019,21900,21100,800
 "39","OH","Ohio","Mason","city",NA,"August",2019,17600,16900,600
 "39","OH","Ohio","Medina","city",NA,"August",2019,13400,12900,500
 "39","OH","Ohio","North Olmsted","city",NA,"August",2019,17600,17000,600
@@ -2018,7 +2018,7 @@
 "39","OH","Ohio","Findlay","city",NA,"September",2019,21800,21100,700
 "39","OH","Ohio","North Olmsted","city",NA,"September",2019,17600,17000,600
 "39","OH","Ohio","Cleveland Heights","city",NA,"September",2019,23000,22300,800
-"39","OH","Ohio","Delaware","city",NA,"September",2019,21600,20900,700
+"39","OH","Ohio","Delaware (OH)","city",NA,"September",2019,21600,20900,700
 "39","OH","Ohio","Mason","city",NA,"September",2019,17500,16900,600
 "39","OH","Ohio","North Royalton","city",NA,"September",2019,17800,17200,600
 "39","OH","Ohio","Troy","city",NA,"September",2019,13900,13400,500
@@ -2175,7 +2175,7 @@
 "39","OH","Ohio","Parma","city",NA,"October",2019,42100,40700,1400
 "39","OH","Ohio","South Euclid","city",NA,"October",2019,12300,11900,400
 "39","OH","Ohio","Stow","city",NA,"October",2019,18800,18200,600
-"39","OH","Ohio","Delaware","city",NA,"October",2019,21800,21100,700
+"39","OH","Ohio","Delaware (OH)","city",NA,"October",2019,21800,21100,700
 "39","OH","Ohio","Medina","city",NA,"October",2019,13300,12900,400
 "39","OH","Ohio","Westerville","city",NA,"October",2019,23000,22200,800
 "39","OH","Ohio","Wooster","city",NA,"October",2019,14200,13700,500
@@ -2320,7 +2320,7 @@
 "39","OH","Ohio","Hilliard","city",NA,"November",2019,20100,19600,600
 "39","OH","Ohio","Westlake","city",NA,"November",2019,17200,16700,500
 "39","OH","Ohio","Brunswick","city",NA,"November",2019,20300,19700,600
-"39","OH","Ohio","Delaware","city",NA,"November",2019,21800,21100,700
+"39","OH","Ohio","Delaware (OH)","city",NA,"November",2019,21800,21100,700
 "39","OH","Ohio","Gahanna","city",NA,"November",2019,20700,20100,600
 "39","OH","Ohio","North Olmsted","city",NA,"November",2019,17500,17000,500
 "39","OH","Ohio","North Royalton","city",NA,"November",2019,17700,17100,500
@@ -2475,7 +2475,7 @@
 "39","OH","Ohio","Gahanna","city",NA,"December",2019,20600,20000,600
 "39","OH","Ohio","Mentor","city",NA,"December",2019,26500,25800,800
 "39","OH","Ohio","Westlake","city",NA,"December",2019,17000,16500,500
-"39","OH","Ohio","Delaware","city",NA,"December",2019,21700,21000,700
+"39","OH","Ohio","Delaware (OH)","city",NA,"December",2019,21700,21000,700
 "39","OH","Ohio","North Olmsted","city",NA,"December",2019,17200,16700,500
 "39","OH","Ohio","Westerville","city",NA,"December",2019,22900,22200,700
 "39","OH","Ohio","Wooster","city",NA,"December",2019,14100,13700,400

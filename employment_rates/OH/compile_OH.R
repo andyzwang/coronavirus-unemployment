@@ -41,6 +41,12 @@ output <- raw %>%
   select(
     state_fips, state_short, state, area, area_type, fips, period, year, 
     labor_force, employment, unemployment
+  ) %>%
+  mutate(
+    area = case_when(
+      area == "Delaware" ~ "Delaware (OH)",
+      TRUE ~ area
+    )
   )
 
 write.csv(output, file = "OH_compiled.csv", row.names = FALSE)
