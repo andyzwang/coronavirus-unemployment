@@ -41,7 +41,11 @@ output <- raw %>%
       )
     ),
     area =str_remove(area, " borough"),
-    area = str_remove(area, "ship")
+    area = str_remove(area, "ship"),
+    area = case_when(
+      area == "Washington town" ~ "Washington (NJ)",
+      TRUE ~ area
+    )
   ) %>%
 
   # Join with FIPS
