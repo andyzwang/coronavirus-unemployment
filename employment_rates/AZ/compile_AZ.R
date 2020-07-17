@@ -17,6 +17,7 @@ output <- raw %>%
   filter(areatype != 0) %>%
   filter(areatype == 1 | areatype == 4 | areatype == 20) %>%
   filter(period!="Annual Average") %>%
+  filter(seasonally_adjusted == "No") %>%
   mutate(
     # set basics
     
@@ -44,3 +45,5 @@ output <- raw %>%
 
 write.csv(output, file="AZ_compiled.csv", row.names = FALSE)
 
+state <- raw %>%
+  filter(areatype == 1)
