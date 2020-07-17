@@ -34,6 +34,10 @@ output <- raw %>%
     # work on FIPS
     polyname = case_when(
       area_type == "county" ~ paste("delaware,", str_to_lower(area), sep = "")
+    ),
+    area = case_when(
+      area_type == "county" ~ paste(trimws(area), "County", sep = " "),
+      TRUE ~ as.character(area)
     )
   ) %>% # Join with FIPS
   

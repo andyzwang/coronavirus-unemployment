@@ -16,57 +16,57 @@
 "10","DE","Delaware","Delaware","state",NA,"March",2020,477155,453071,24084
 "10","DE","Delaware","Delaware","state",NA,"April",2020,462965,394505,68460
 "10","DE","Delaware","Delaware","state",NA,"May",2020,470988,397964,73024
-"10","DE","Delaware","Kent","county","10001","January",2019,79294,76090,3204
-"10","DE","Delaware","Kent","county","10001","February",2019,79061,75826,3235
-"10","DE","Delaware","Kent","county","10001","March",2019,79490,76375,3115
-"10","DE","Delaware","Kent","county","10001","April",2019,79157,76232,2925
-"10","DE","Delaware","Kent","county","10001","May",2019,78676,75742,2934
-"10","DE","Delaware","Kent","county","10001","June",2019,79134,75389,3745
-"10","DE","Delaware","Kent","county","10001","July",2019,79191,75275,3916
-"10","DE","Delaware","Kent","county","10001","August",2019,78973,75120,3853
-"10","DE","Delaware","Kent","county","10001","September",2019,78818,75393,3425
-"10","DE","Delaware","Kent","county","10001","October",2019,80257,76861,3396
-"10","DE","Delaware","Kent","county","10001","November",2019,80546,77516,3030
-"10","DE","Delaware","Kent","county","10001","December",2019,80327,77341,2986
-"10","DE","Delaware","Kent","county","10001","January",2020,80865,77207,3658
-"10","DE","Delaware","Kent","county","10001","February",2020,80309,76804,3505
-"10","DE","Delaware","Kent","county","10001","March",2020,78164,73760,4404
-"10","DE","Delaware","Kent","county","10001","April",2020,77949,65615,12334
-"10","DE","Delaware","Kent","county","10001","May",2020,79197,65765,13432
-"10","DE","Delaware","New Castle","county","10003","January",2019,300932,290053,10879
-"10","DE","Delaware","New Castle","county","10003","February",2019,301679,291042,10637
-"10","DE","Delaware","New Castle","county","10003","March",2019,302554,292146,10408
-"10","DE","Delaware","New Castle","county","10003","April",2019,302106,292119,9987
-"10","DE","Delaware","New Castle","county","10003","May",2019,298507,288526,9981
-"10","DE","Delaware","New Castle","county","10003","June",2019,298263,286113,12150
-"10","DE","Delaware","New Castle","county","10003","July",2019,299148,286785,12363
-"10","DE","Delaware","New Castle","county","10003","August",2019,298079,285618,12461
-"10","DE","Delaware","New Castle","county","10003","September",2019,297006,285272,11734
-"10","DE","Delaware","New Castle","county","10003","October",2019,300235,288693,11542
-"10","DE","Delaware","New Castle","county","10003","November",2019,301843,291497,10346
-"10","DE","Delaware","New Castle","county","10003","December",2019,301422,291335,10087
-"10","DE","Delaware","New Castle","county","10003","January",2020,299783,287848,11935
-"10","DE","Delaware","New Castle","county","10003","February",2020,302963,291572,11391
-"10","DE","Delaware","New Castle","county","10003","March",2020,295841,281765,14076
-"10","DE","Delaware","New Castle","county","10003","April",2020,285481,245241,40240
-"10","DE","Delaware","New Castle","county","10003","May",2020,288634,245544,43090
-"10","DE","Delaware","Sussex","county","10005","January",2019,103155,98357,4798
-"10","DE","Delaware","Sussex","county","10005","February",2019,102602,97960,4642
-"10","DE","Delaware","Sussex","county","10005","March",2019,104065,99719,4346
-"10","DE","Delaware","Sussex","county","10005","April",2019,104849,100878,3971
-"10","DE","Delaware","Sussex","county","10005","May",2019,107694,104351,3343
-"10","DE","Delaware","Sussex","county","10005","June",2019,113355,109350,4005
-"10","DE","Delaware","Sussex","county","10005","July",2019,114601,110637,3964
-"10","DE","Delaware","Sussex","county","10005","August",2019,113772,109852,3920
-"10","DE","Delaware","Sussex","county","10005","September",2019,108531,104781,3750
-"10","DE","Delaware","Sussex","county","10005","October",2019,107283,103471,3812
-"10","DE","Delaware","Sussex","county","10005","November",2019,106019,102105,3914
-"10","DE","Delaware","Sussex","county","10005","December",2019,106540,102313,4227
-"10","DE","Delaware","Sussex","county","10005","January",2020,105892,100843,5049
-"10","DE","Delaware","Sussex","county","10005","February",2020,105116,100249,4867
-"10","DE","Delaware","Sussex","county","10005","March",2020,103150,97545,5605
-"10","DE","Delaware","Sussex","county","10005","April",2020,99535,83649,15886
-"10","DE","Delaware","Sussex","county","10005","May",2020,103157,86655,16502
+"10","DE","Delaware","Kent County","county","10001","January",2019,79294,76090,3204
+"10","DE","Delaware","Kent County","county","10001","February",2019,79061,75826,3235
+"10","DE","Delaware","Kent County","county","10001","March",2019,79490,76375,3115
+"10","DE","Delaware","Kent County","county","10001","April",2019,79157,76232,2925
+"10","DE","Delaware","Kent County","county","10001","May",2019,78676,75742,2934
+"10","DE","Delaware","Kent County","county","10001","June",2019,79134,75389,3745
+"10","DE","Delaware","Kent County","county","10001","July",2019,79191,75275,3916
+"10","DE","Delaware","Kent County","county","10001","August",2019,78973,75120,3853
+"10","DE","Delaware","Kent County","county","10001","September",2019,78818,75393,3425
+"10","DE","Delaware","Kent County","county","10001","October",2019,80257,76861,3396
+"10","DE","Delaware","Kent County","county","10001","November",2019,80546,77516,3030
+"10","DE","Delaware","Kent County","county","10001","December",2019,80327,77341,2986
+"10","DE","Delaware","Kent County","county","10001","January",2020,80865,77207,3658
+"10","DE","Delaware","Kent County","county","10001","February",2020,80309,76804,3505
+"10","DE","Delaware","Kent County","county","10001","March",2020,78164,73760,4404
+"10","DE","Delaware","Kent County","county","10001","April",2020,77949,65615,12334
+"10","DE","Delaware","Kent County","county","10001","May",2020,79197,65765,13432
+"10","DE","Delaware","New Castle County","county","10003","January",2019,300932,290053,10879
+"10","DE","Delaware","New Castle County","county","10003","February",2019,301679,291042,10637
+"10","DE","Delaware","New Castle County","county","10003","March",2019,302554,292146,10408
+"10","DE","Delaware","New Castle County","county","10003","April",2019,302106,292119,9987
+"10","DE","Delaware","New Castle County","county","10003","May",2019,298507,288526,9981
+"10","DE","Delaware","New Castle County","county","10003","June",2019,298263,286113,12150
+"10","DE","Delaware","New Castle County","county","10003","July",2019,299148,286785,12363
+"10","DE","Delaware","New Castle County","county","10003","August",2019,298079,285618,12461
+"10","DE","Delaware","New Castle County","county","10003","September",2019,297006,285272,11734
+"10","DE","Delaware","New Castle County","county","10003","October",2019,300235,288693,11542
+"10","DE","Delaware","New Castle County","county","10003","November",2019,301843,291497,10346
+"10","DE","Delaware","New Castle County","county","10003","December",2019,301422,291335,10087
+"10","DE","Delaware","New Castle County","county","10003","January",2020,299783,287848,11935
+"10","DE","Delaware","New Castle County","county","10003","February",2020,302963,291572,11391
+"10","DE","Delaware","New Castle County","county","10003","March",2020,295841,281765,14076
+"10","DE","Delaware","New Castle County","county","10003","April",2020,285481,245241,40240
+"10","DE","Delaware","New Castle County","county","10003","May",2020,288634,245544,43090
+"10","DE","Delaware","Sussex County","county","10005","January",2019,103155,98357,4798
+"10","DE","Delaware","Sussex County","county","10005","February",2019,102602,97960,4642
+"10","DE","Delaware","Sussex County","county","10005","March",2019,104065,99719,4346
+"10","DE","Delaware","Sussex County","county","10005","April",2019,104849,100878,3971
+"10","DE","Delaware","Sussex County","county","10005","May",2019,107694,104351,3343
+"10","DE","Delaware","Sussex County","county","10005","June",2019,113355,109350,4005
+"10","DE","Delaware","Sussex County","county","10005","July",2019,114601,110637,3964
+"10","DE","Delaware","Sussex County","county","10005","August",2019,113772,109852,3920
+"10","DE","Delaware","Sussex County","county","10005","September",2019,108531,104781,3750
+"10","DE","Delaware","Sussex County","county","10005","October",2019,107283,103471,3812
+"10","DE","Delaware","Sussex County","county","10005","November",2019,106019,102105,3914
+"10","DE","Delaware","Sussex County","county","10005","December",2019,106540,102313,4227
+"10","DE","Delaware","Sussex County","county","10005","January",2020,105892,100843,5049
+"10","DE","Delaware","Sussex County","county","10005","February",2020,105116,100249,4867
+"10","DE","Delaware","Sussex County","county","10005","March",2020,103150,97545,5605
+"10","DE","Delaware","Sussex County","county","10005","April",2020,99535,83649,15886
+"10","DE","Delaware","Sussex County","county","10005","May",2020,103157,86655,16502
 "10","DE","Delaware","Dover","city",NA,"January",2019,15871,15058,813
 "10","DE","Delaware","Dover","city",NA,"February",2019,15826,15006,820
 "10","DE","Delaware","Dover","city",NA,"March",2019,15869,15115,754
