@@ -8,14 +8,8 @@ library(stringr)
 
 # import
 
-raw_city_county <- read_csv("ME_data.csv") %>%
+raw <- read_csv("ME_data.csv") %>%
   clean_names("snake")
-
-raw_state <- read_csv("ME_state_data.csv") %>%
-  clean_names("snake") %>%
-  select(-type, -employment_population_ratio_sa_only, -participation_rate_sa_only)
-
-raw <- rbind(raw_city_county, raw_state)
 
 output <- raw %>%
   filter(year >= 2019) %>%
