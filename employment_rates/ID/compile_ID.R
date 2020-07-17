@@ -32,6 +32,13 @@ output <- raw %>%
     area = str_to_title(str_remove(area, "\\(.*\\)")),
     polyname = case_when(
       area_type == "county" ~ paste("idaho,", tolower(trimws(area)), sep = "")
+    ),
+    area = case_when(
+      str_detect(area, "Washington") ~ "Washington (ID)",
+      TRUE ~ area),
+    area = case_when(
+      area_type == "county" ~ paste(trimws(area), "County", sep = " "),
+      TRUE ~ as.character(area)
     )
   ) %>%
 
