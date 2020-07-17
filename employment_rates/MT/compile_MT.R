@@ -25,6 +25,10 @@ output <- raw %>%
     area = area_2, 
     polyname = case_when(
       area_type == "county" ~ paste("montana,", tolower(str_remove(str_remove(area, "[[:punct:]]"), " County")), sep = "")
+    ),
+    area = case_when(
+      area_type =="county" ~ paste(area, "County", sep=" "),
+      TRUE ~ area
     )
   ) %>%
 
