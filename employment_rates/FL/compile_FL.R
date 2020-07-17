@@ -83,7 +83,9 @@ output_cities <- raw_cities %>%
 
     # work on FIPS
     fips = NA,
-    area = str_to_title(city)
+    area = str_to_title(city),
+    area = str_remove(area, " City")
+    
   ) %>%
   select(
     state_fips, state_short, state, area, area_type, fips, period, year, 

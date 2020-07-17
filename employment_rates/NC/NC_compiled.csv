@@ -79,22 +79,22 @@
 "37","NC","North Carolina","Anson County","county",37007,"February","2020",11099,10606,493
 "37","NC","North Carolina","Anson County","county",37007,"March","2020",10728,10190,538
 "37","NC","North Carolina","Anson County","county",37007,"April","2020",10052,9226,826
-"37","NC","North Carolina","Apex Town","city",NA,"January","2019",29139,28158,981
-"37","NC","North Carolina","Apex Town","city",NA,"February","2019",29368,28425,943
-"37","NC","North Carolina","Apex Town","city",NA,"March","2019",29561,28620,941
-"37","NC","North Carolina","Apex Town","city",NA,"April","2019",29389,28575,814
-"37","NC","North Carolina","Apex Town","city",NA,"May","2019",29485,28623,862
-"37","NC","North Carolina","Apex Town","city",NA,"June","2019",29657,28729,928
-"37","NC","North Carolina","Apex Town","city",NA,"July","2019",30019,29040,979
-"37","NC","North Carolina","Apex Town","city",NA,"August","2019",29788,28823,965
-"37","NC","North Carolina","Apex Town","city",NA,"September","2019",29834,29031,803
-"37","NC","North Carolina","Apex Town","city",NA,"October","2019",30041,29239,802
-"37","NC","North Carolina","Apex Town","city",NA,"November","2019",29820,29018,802
-"37","NC","North Carolina","Apex Town","city",NA,"December","2019",29588,28853,735
-"37","NC","North Carolina","Apex Town","city",NA,"January","2020",29843,28903,940
-"37","NC","North Carolina","Apex Town","city",NA,"February","2020",30177,29301,876
-"37","NC","North Carolina","Apex Town","city",NA,"March","2020",29332,28315,1017
-"37","NC","North Carolina","Apex Town","city",NA,"April","2020",26120,23743,2377
+"37","NC","North Carolina","Apex","city",NA,"January","2019",29139,28158,981
+"37","NC","North Carolina","Apex","city",NA,"February","2019",29368,28425,943
+"37","NC","North Carolina","Apex","city",NA,"March","2019",29561,28620,941
+"37","NC","North Carolina","Apex","city",NA,"April","2019",29389,28575,814
+"37","NC","North Carolina","Apex","city",NA,"May","2019",29485,28623,862
+"37","NC","North Carolina","Apex","city",NA,"June","2019",29657,28729,928
+"37","NC","North Carolina","Apex","city",NA,"July","2019",30019,29040,979
+"37","NC","North Carolina","Apex","city",NA,"August","2019",29788,28823,965
+"37","NC","North Carolina","Apex","city",NA,"September","2019",29834,29031,803
+"37","NC","North Carolina","Apex","city",NA,"October","2019",30041,29239,802
+"37","NC","North Carolina","Apex","city",NA,"November","2019",29820,29018,802
+"37","NC","North Carolina","Apex","city",NA,"December","2019",29588,28853,735
+"37","NC","North Carolina","Apex","city",NA,"January","2020",29843,28903,940
+"37","NC","North Carolina","Apex","city",NA,"February","2020",30177,29301,876
+"37","NC","North Carolina","Apex","city",NA,"March","2020",29332,28315,1017
+"37","NC","North Carolina","Apex","city",NA,"April","2020",26120,23743,2377
 "37","NC","North Carolina","Ashe County","county",37009,"January","2019",12625,12019,606
 "37","NC","North Carolina","Ashe County","county",37009,"February","2019",12856,12275,581
 "37","NC","North Carolina","Ashe County","county",37009,"March","2019",12693,12147,546
@@ -111,38 +111,38 @@
 "37","NC","North Carolina","Ashe County","county",37009,"February","2020",13044,12540,504
 "37","NC","North Carolina","Ashe County","county",37009,"March","2020",12562,12001,561
 "37","NC","North Carolina","Ashe County","county",37009,"April","2020",12827,11456,1371
-"37","NC","North Carolina","Asheboro City","city",NA,"January","2019",10989,10460,529
-"37","NC","North Carolina","Asheboro City","city",NA,"February","2019",11058,10585,473
-"37","NC","North Carolina","Asheboro City","city",NA,"March","2019",11064,10633,431
-"37","NC","North Carolina","Asheboro City","city",NA,"April","2019",11025,10638,387
-"37","NC","North Carolina","Asheboro City","city",NA,"May","2019",11072,10640,432
-"37","NC","North Carolina","Asheboro City","city",NA,"June","2019",11017,10525,492
-"37","NC","North Carolina","Asheboro City","city",NA,"July","2019",11052,10522,530
-"37","NC","North Carolina","Asheboro City","city",NA,"August","2019",10964,10485,479
-"37","NC","North Carolina","Asheboro City","city",NA,"September","2019",11022,10649,373
-"37","NC","North Carolina","Asheboro City","city",NA,"October","2019",11091,10708,383
-"37","NC","North Carolina","Asheboro City","city",NA,"November","2019",11067,10709,358
-"37","NC","North Carolina","Asheboro City","city",NA,"December","2019",11013,10656,357
-"37","NC","North Carolina","Asheboro City","city",NA,"January","2020",11026,10549,477
-"37","NC","North Carolina","Asheboro City","city",NA,"February","2020",11071,10646,425
-"37","NC","North Carolina","Asheboro City","city",NA,"March","2020",10794,10285,509
-"37","NC","North Carolina","Asheboro City","city",NA,"April","2020",10010,8398,1612
-"37","NC","North Carolina","Asheville City","city",NA,"January","2019",51256,49492,1764
-"37","NC","North Carolina","Asheville City","city",NA,"February","2019",52004,50265,1739
-"37","NC","North Carolina","Asheville City","city",NA,"March","2019",52011,50364,1647
-"37","NC","North Carolina","Asheville City","city",NA,"April","2019",51872,50492,1380
-"37","NC","North Carolina","Asheville City","city",NA,"May","2019",52051,50477,1574
-"37","NC","North Carolina","Asheville City","city",NA,"June","2019",52421,50729,1692
-"37","NC","North Carolina","Asheville City","city",NA,"July","2019",52580,50878,1702
-"37","NC","North Carolina","Asheville City","city",NA,"August","2019",51951,50270,1681
-"37","NC","North Carolina","Asheville City","city",NA,"September","2019",52484,51110,1374
-"37","NC","North Carolina","Asheville City","city",NA,"October","2019",52916,51491,1425
-"37","NC","North Carolina","Asheville City","city",NA,"November","2019",52610,51215,1395
-"37","NC","North Carolina","Asheville City","city",NA,"December","2019",52104,50729,1375
-"37","NC","North Carolina","Asheville City","city",NA,"January","2020",52027,50351,1676
-"37","NC","North Carolina","Asheville City","city",NA,"February","2020",52392,50856,1536
-"37","NC","North Carolina","Asheville City","city",NA,"March","2020",50666,48933,1733
-"37","NC","North Carolina","Asheville City","city",NA,"April","2020",50155,39855,10300
+"37","NC","North Carolina","Asheboro","city",NA,"January","2019",10989,10460,529
+"37","NC","North Carolina","Asheboro","city",NA,"February","2019",11058,10585,473
+"37","NC","North Carolina","Asheboro","city",NA,"March","2019",11064,10633,431
+"37","NC","North Carolina","Asheboro","city",NA,"April","2019",11025,10638,387
+"37","NC","North Carolina","Asheboro","city",NA,"May","2019",11072,10640,432
+"37","NC","North Carolina","Asheboro","city",NA,"June","2019",11017,10525,492
+"37","NC","North Carolina","Asheboro","city",NA,"July","2019",11052,10522,530
+"37","NC","North Carolina","Asheboro","city",NA,"August","2019",10964,10485,479
+"37","NC","North Carolina","Asheboro","city",NA,"September","2019",11022,10649,373
+"37","NC","North Carolina","Asheboro","city",NA,"October","2019",11091,10708,383
+"37","NC","North Carolina","Asheboro","city",NA,"November","2019",11067,10709,358
+"37","NC","North Carolina","Asheboro","city",NA,"December","2019",11013,10656,357
+"37","NC","North Carolina","Asheboro","city",NA,"January","2020",11026,10549,477
+"37","NC","North Carolina","Asheboro","city",NA,"February","2020",11071,10646,425
+"37","NC","North Carolina","Asheboro","city",NA,"March","2020",10794,10285,509
+"37","NC","North Carolina","Asheboro","city",NA,"April","2020",10010,8398,1612
+"37","NC","North Carolina","Asheville","city",NA,"January","2019",51256,49492,1764
+"37","NC","North Carolina","Asheville","city",NA,"February","2019",52004,50265,1739
+"37","NC","North Carolina","Asheville","city",NA,"March","2019",52011,50364,1647
+"37","NC","North Carolina","Asheville","city",NA,"April","2019",51872,50492,1380
+"37","NC","North Carolina","Asheville","city",NA,"May","2019",52051,50477,1574
+"37","NC","North Carolina","Asheville","city",NA,"June","2019",52421,50729,1692
+"37","NC","North Carolina","Asheville","city",NA,"July","2019",52580,50878,1702
+"37","NC","North Carolina","Asheville","city",NA,"August","2019",51951,50270,1681
+"37","NC","North Carolina","Asheville","city",NA,"September","2019",52484,51110,1374
+"37","NC","North Carolina","Asheville","city",NA,"October","2019",52916,51491,1425
+"37","NC","North Carolina","Asheville","city",NA,"November","2019",52610,51215,1395
+"37","NC","North Carolina","Asheville","city",NA,"December","2019",52104,50729,1375
+"37","NC","North Carolina","Asheville","city",NA,"January","2020",52027,50351,1676
+"37","NC","North Carolina","Asheville","city",NA,"February","2020",52392,50856,1536
+"37","NC","North Carolina","Asheville","city",NA,"March","2020",50666,48933,1733
+"37","NC","North Carolina","Asheville","city",NA,"April","2020",50155,39855,10300
 "37","NC","North Carolina","Avery County","county",37011,"January","2019",7306,6981,325
 "37","NC","North Carolina","Avery County","county",37011,"February","2019",7434,7108,326
 "37","NC","North Carolina","Avery County","county",37011,"March","2019",7233,6919,314
@@ -255,22 +255,22 @@
 "37","NC","North Carolina","Burke County","county",37023,"February","2020",41626,40167,1459
 "37","NC","North Carolina","Burke County","county",37023,"March","2020",40394,38733,1661
 "37","NC","North Carolina","Burke County","county",37023,"April","2020",37190,31422,5768
-"37","NC","North Carolina","Burlington City","city",NA,"January","2019",25854,24728,1126
-"37","NC","North Carolina","Burlington City","city",NA,"February","2019",26111,25052,1059
-"37","NC","North Carolina","Burlington City","city",NA,"March","2019",26222,25167,1055
-"37","NC","North Carolina","Burlington City","city",NA,"April","2019",26044,25086,958
-"37","NC","North Carolina","Burlington City","city",NA,"May","2019",26130,25114,1016
-"37","NC","North Carolina","Burlington City","city",NA,"June","2019",26158,25028,1130
-"37","NC","North Carolina","Burlington City","city",NA,"July","2019",26493,25262,1231
-"37","NC","North Carolina","Burlington City","city",NA,"August","2019",26227,25082,1145
-"37","NC","North Carolina","Burlington City","city",NA,"September","2019",26296,25365,931
-"37","NC","North Carolina","Burlington City","city",NA,"October","2019",26472,25527,945
-"37","NC","North Carolina","Burlington City","city",NA,"November","2019",26306,25400,906
-"37","NC","North Carolina","Burlington City","city",NA,"December","2019",26218,25361,857
-"37","NC","North Carolina","Burlington City","city",NA,"January","2020",26176,25131,1045
-"37","NC","North Carolina","Burlington City","city",NA,"February","2020",26422,25450,972
-"37","NC","North Carolina","Burlington City","city",NA,"March","2020",25781,24667,1114
-"37","NC","North Carolina","Burlington City","city",NA,"April","2020",23575,20300,3275
+"37","NC","North Carolina","Burlington","city",NA,"January","2019",25854,24728,1126
+"37","NC","North Carolina","Burlington","city",NA,"February","2019",26111,25052,1059
+"37","NC","North Carolina","Burlington","city",NA,"March","2019",26222,25167,1055
+"37","NC","North Carolina","Burlington","city",NA,"April","2019",26044,25086,958
+"37","NC","North Carolina","Burlington","city",NA,"May","2019",26130,25114,1016
+"37","NC","North Carolina","Burlington","city",NA,"June","2019",26158,25028,1130
+"37","NC","North Carolina","Burlington","city",NA,"July","2019",26493,25262,1231
+"37","NC","North Carolina","Burlington","city",NA,"August","2019",26227,25082,1145
+"37","NC","North Carolina","Burlington","city",NA,"September","2019",26296,25365,931
+"37","NC","North Carolina","Burlington","city",NA,"October","2019",26472,25527,945
+"37","NC","North Carolina","Burlington","city",NA,"November","2019",26306,25400,906
+"37","NC","North Carolina","Burlington","city",NA,"December","2019",26218,25361,857
+"37","NC","North Carolina","Burlington","city",NA,"January","2020",26176,25131,1045
+"37","NC","North Carolina","Burlington","city",NA,"February","2020",26422,25450,972
+"37","NC","North Carolina","Burlington","city",NA,"March","2020",25781,24667,1114
+"37","NC","North Carolina","Burlington","city",NA,"April","2020",23575,20300,3275
 "37","NC","North Carolina","Cabarrus County","county",37025,"January","2019",108122,103646,4476
 "37","NC","North Carolina","Cabarrus County","county",37025,"February","2019",108783,104613,4170
 "37","NC","North Carolina","Cabarrus County","county",37025,"March","2019",109553,105505,4048
@@ -335,22 +335,22 @@
 "37","NC","North Carolina","Carteret County","county",37031,"February","2020",31816,30490,1326
 "37","NC","North Carolina","Carteret County","county",37031,"March","2020",31105,29645,1460
 "37","NC","North Carolina","Carteret County","county",37031,"April","2020",31149,27647,3502
-"37","NC","North Carolina","Cary Town","city",NA,"January","2019",93484,90197,3287
-"37","NC","North Carolina","Cary Town","city",NA,"February","2019",94056,91057,2999
-"37","NC","North Carolina","Cary Town","city",NA,"March","2019",94671,91672,2999
-"37","NC","North Carolina","Cary Town","city",NA,"April","2019",94139,91531,2608
-"37","NC","North Carolina","Cary Town","city",NA,"May","2019",94624,91684,2940
-"37","NC","North Carolina","Cary Town","city",NA,"June","2019",95191,92020,3171
-"37","NC","North Carolina","Cary Town","city",NA,"July","2019",96182,93017,3165
-"37","NC","North Carolina","Cary Town","city",NA,"August","2019",95396,92320,3076
-"37","NC","North Carolina","Cary Town","city",NA,"September","2019",95564,92990,2574
-"37","NC","North Carolina","Cary Town","city",NA,"October","2019",96335,93654,2681
-"37","NC","North Carolina","Cary Town","city",NA,"November","2019",95620,92953,2667
-"37","NC","North Carolina","Cary Town","city",NA,"December","2019",94890,92422,2468
-"37","NC","North Carolina","Cary Town","city",NA,"January","2020",95591,92583,3008
-"37","NC","North Carolina","Cary Town","city",NA,"February","2020",96613,93860,2753
-"37","NC","North Carolina","Cary Town","city",NA,"March","2020",93831,90696,3135
-"37","NC","North Carolina","Cary Town","city",NA,"April","2020",83570,76067,7503
+"37","NC","North Carolina","Cary","city",NA,"January","2019",93484,90197,3287
+"37","NC","North Carolina","Cary","city",NA,"February","2019",94056,91057,2999
+"37","NC","North Carolina","Cary","city",NA,"March","2019",94671,91672,2999
+"37","NC","North Carolina","Cary","city",NA,"April","2019",94139,91531,2608
+"37","NC","North Carolina","Cary","city",NA,"May","2019",94624,91684,2940
+"37","NC","North Carolina","Cary","city",NA,"June","2019",95191,92020,3171
+"37","NC","North Carolina","Cary","city",NA,"July","2019",96182,93017,3165
+"37","NC","North Carolina","Cary","city",NA,"August","2019",95396,92320,3076
+"37","NC","North Carolina","Cary","city",NA,"September","2019",95564,92990,2574
+"37","NC","North Carolina","Cary","city",NA,"October","2019",96335,93654,2681
+"37","NC","North Carolina","Cary","city",NA,"November","2019",95620,92953,2667
+"37","NC","North Carolina","Cary","city",NA,"December","2019",94890,92422,2468
+"37","NC","North Carolina","Cary","city",NA,"January","2020",95591,92583,3008
+"37","NC","North Carolina","Cary","city",NA,"February","2020",96613,93860,2753
+"37","NC","North Carolina","Cary","city",NA,"March","2020",93831,90696,3135
+"37","NC","North Carolina","Cary","city",NA,"April","2020",83570,76067,7503
 "37","NC","North Carolina","Caswell County","county",37033,"January","2019",9886,9382,504
 "37","NC","North Carolina","Caswell County","county",37033,"February","2019",9966,9486,480
 "37","NC","North Carolina","Caswell County","county",37033,"March","2019",9975,9516,459
@@ -383,38 +383,38 @@
 "37","NC","North Carolina","Catawba County","county",37035,"February","2020",80010,77273,2737
 "37","NC","North Carolina","Catawba County","county",37035,"March","2020",77841,74739,3102
 "37","NC","North Carolina","Catawba County","county",37035,"April","2020",74490,60492,13998
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"January","2019",30876,29541,1335
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"February","2019",31203,29940,1263
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"March","2019",31155,29883,1272
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"April","2019",30952,29923,1029
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"May","2019",31128,29900,1228
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"June","2019",31117,29768,1349
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"July","2019",31473,30052,1421
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"August","2019",31279,29943,1336
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"September","2019",31271,30235,1036
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"October","2019",31441,30370,1071
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"November","2019",31336,30346,990
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"December","2019",31014,30090,924
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"January","2020",31307,30192,1115
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"February","2020",31673,30624,1049
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"March","2020",30647,29445,1202
-"37","NC","North Carolina","Chapel Hill Town","city",NA,"April","2020",27504,25492,2012
-"37","NC","North Carolina","Charlotte City","city",NA,"January","2019",490086,469424,20662
-"37","NC","North Carolina","Charlotte City","city",NA,"February","2019",493106,473620,19486
-"37","NC","North Carolina","Charlotte City","city",NA,"March","2019",496424,477616,18808
-"37","NC","North Carolina","Charlotte City","city",NA,"April","2019",494103,477073,17030
-"37","NC","North Carolina","Charlotte City","city",NA,"May","2019",496095,477820,18275
-"37","NC","North Carolina","Charlotte City","city",NA,"June","2019",501623,481869,19754
-"37","NC","North Carolina","Charlotte City","city",NA,"July","2019",504032,483246,20786
-"37","NC","North Carolina","Charlotte City","city",NA,"August","2019",501150,481668,19482
-"37","NC","North Carolina","Charlotte City","city",NA,"September","2019",501590,484969,16621
-"37","NC","North Carolina","Charlotte City","city",NA,"October","2019",505344,488421,16923
-"37","NC","North Carolina","Charlotte City","city",NA,"November","2019",502010,485029,16981
-"37","NC","North Carolina","Charlotte City","city",NA,"December","2019",499499,483932,15567
-"37","NC","North Carolina","Charlotte City","city",NA,"January","2020",501366,482488,18878
-"37","NC","North Carolina","Charlotte City","city",NA,"February","2020",504934,487412,17522
-"37","NC","North Carolina","Charlotte City","city",NA,"March","2020",490351,470502,19849
-"37","NC","North Carolina","Charlotte City","city",NA,"April","2020",457152,397899,59253
+"37","NC","North Carolina","Chapel Hill","city",NA,"January","2019",30876,29541,1335
+"37","NC","North Carolina","Chapel Hill","city",NA,"February","2019",31203,29940,1263
+"37","NC","North Carolina","Chapel Hill","city",NA,"March","2019",31155,29883,1272
+"37","NC","North Carolina","Chapel Hill","city",NA,"April","2019",30952,29923,1029
+"37","NC","North Carolina","Chapel Hill","city",NA,"May","2019",31128,29900,1228
+"37","NC","North Carolina","Chapel Hill","city",NA,"June","2019",31117,29768,1349
+"37","NC","North Carolina","Chapel Hill","city",NA,"July","2019",31473,30052,1421
+"37","NC","North Carolina","Chapel Hill","city",NA,"August","2019",31279,29943,1336
+"37","NC","North Carolina","Chapel Hill","city",NA,"September","2019",31271,30235,1036
+"37","NC","North Carolina","Chapel Hill","city",NA,"October","2019",31441,30370,1071
+"37","NC","North Carolina","Chapel Hill","city",NA,"November","2019",31336,30346,990
+"37","NC","North Carolina","Chapel Hill","city",NA,"December","2019",31014,30090,924
+"37","NC","North Carolina","Chapel Hill","city",NA,"January","2020",31307,30192,1115
+"37","NC","North Carolina","Chapel Hill","city",NA,"February","2020",31673,30624,1049
+"37","NC","North Carolina","Chapel Hill","city",NA,"March","2020",30647,29445,1202
+"37","NC","North Carolina","Chapel Hill","city",NA,"April","2020",27504,25492,2012
+"37","NC","North Carolina","Charlotte","city",NA,"January","2019",490086,469424,20662
+"37","NC","North Carolina","Charlotte","city",NA,"February","2019",493106,473620,19486
+"37","NC","North Carolina","Charlotte","city",NA,"March","2019",496424,477616,18808
+"37","NC","North Carolina","Charlotte","city",NA,"April","2019",494103,477073,17030
+"37","NC","North Carolina","Charlotte","city",NA,"May","2019",496095,477820,18275
+"37","NC","North Carolina","Charlotte","city",NA,"June","2019",501623,481869,19754
+"37","NC","North Carolina","Charlotte","city",NA,"July","2019",504032,483246,20786
+"37","NC","North Carolina","Charlotte","city",NA,"August","2019",501150,481668,19482
+"37","NC","North Carolina","Charlotte","city",NA,"September","2019",501590,484969,16621
+"37","NC","North Carolina","Charlotte","city",NA,"October","2019",505344,488421,16923
+"37","NC","North Carolina","Charlotte","city",NA,"November","2019",502010,485029,16981
+"37","NC","North Carolina","Charlotte","city",NA,"December","2019",499499,483932,15567
+"37","NC","North Carolina","Charlotte","city",NA,"January","2020",501366,482488,18878
+"37","NC","North Carolina","Charlotte","city",NA,"February","2020",504934,487412,17522
+"37","NC","North Carolina","Charlotte","city",NA,"March","2020",490351,470502,19849
+"37","NC","North Carolina","Charlotte","city",NA,"April","2020",457152,397899,59253
 "37","NC","North Carolina","Chatham County","county",37037,"January","2019",35506,34142,1364
 "37","NC","North Carolina","Chatham County","county",37037,"February","2019",36073,34774,1299
 "37","NC","North Carolina","Chatham County","county",37037,"March","2019",35719,34446,1273
@@ -511,38 +511,38 @@
 "37","NC","North Carolina","Columbus County","county",37047,"February","2020",23266,22118,1148
 "37","NC","North Carolina","Columbus County","county",37047,"March","2020",22986,21747,1239
 "37","NC","North Carolina","Columbus County","county",37047,"April","2020",22407,19950,2457
-"37","NC","North Carolina","Concord City","city",NA,"January","2019",48576,46495,2081
-"37","NC","North Carolina","Concord City","city",NA,"February","2019",48814,46928,1886
-"37","NC","North Carolina","Concord City","city",NA,"March","2019",49129,47328,1801
-"37","NC","North Carolina","Concord City","city",NA,"April","2019",48873,47257,1616
-"37","NC","North Carolina","Concord City","city",NA,"May","2019",49117,47349,1768
-"37","NC","North Carolina","Concord City","city",NA,"June","2019",49540,47662,1878
-"37","NC","North Carolina","Concord City","city",NA,"July","2019",49831,47875,1956
-"37","NC","North Carolina","Concord City","city",NA,"August","2019",49560,47628,1932
-"37","NC","North Carolina","Concord City","city",NA,"September","2019",49634,47955,1679
-"37","NC","North Carolina","Concord City","city",NA,"October","2019",49959,48286,1673
-"37","NC","North Carolina","Concord City","city",NA,"November","2019",49606,47972,1634
-"37","NC","North Carolina","Concord City","city",NA,"December","2019",49442,47927,1515
-"37","NC","North Carolina","Concord City","city",NA,"January","2020",49691,47796,1895
-"37","NC","North Carolina","Concord City","city",NA,"February","2020",50010,48255,1755
-"37","NC","North Carolina","Concord City","city",NA,"March","2020",48552,46595,1957
-"37","NC","North Carolina","Concord City","city",NA,"April","2020",45255,39418,5837
-"37","NC","North Carolina","Cornelius Town","city",NA,"January","2019",17768,17151,617
-"37","NC","North Carolina","Cornelius Town","city",NA,"February","2019",17901,17305,596
-"37","NC","North Carolina","Cornelius Town","city",NA,"March","2019",18033,17451,582
-"37","NC","North Carolina","Cornelius Town","city",NA,"April","2019",17949,17431,518
-"37","NC","North Carolina","Cornelius Town","city",NA,"May","2019",18040,17458,582
-"37","NC","North Carolina","Cornelius Town","city",NA,"June","2019",18201,17606,595
-"37","NC","North Carolina","Cornelius Town","city",NA,"July","2019",18244,17656,588
-"37","NC","North Carolina","Cornelius Town","city",NA,"August","2019",18169,17599,570
-"37","NC","North Carolina","Cornelius Town","city",NA,"September","2019",18206,17719,487
-"37","NC","North Carolina","Cornelius Town","city",NA,"October","2019",18347,17846,501
-"37","NC","North Carolina","Cornelius Town","city",NA,"November","2019",18257,17722,535
-"37","NC","North Carolina","Cornelius Town","city",NA,"December","2019",18191,17681,510
-"37","NC","North Carolina","Cornelius Town","city",NA,"January","2020",18224,17629,595
-"37","NC","North Carolina","Cornelius Town","city",NA,"February","2020",18339,17809,530
-"37","NC","North Carolina","Cornelius Town","city",NA,"March","2020",17763,17191,572
-"37","NC","North Carolina","Cornelius Town","city",NA,"April","2020",16482,14538,1944
+"37","NC","North Carolina","Concord","city",NA,"January","2019",48576,46495,2081
+"37","NC","North Carolina","Concord","city",NA,"February","2019",48814,46928,1886
+"37","NC","North Carolina","Concord","city",NA,"March","2019",49129,47328,1801
+"37","NC","North Carolina","Concord","city",NA,"April","2019",48873,47257,1616
+"37","NC","North Carolina","Concord","city",NA,"May","2019",49117,47349,1768
+"37","NC","North Carolina","Concord","city",NA,"June","2019",49540,47662,1878
+"37","NC","North Carolina","Concord","city",NA,"July","2019",49831,47875,1956
+"37","NC","North Carolina","Concord","city",NA,"August","2019",49560,47628,1932
+"37","NC","North Carolina","Concord","city",NA,"September","2019",49634,47955,1679
+"37","NC","North Carolina","Concord","city",NA,"October","2019",49959,48286,1673
+"37","NC","North Carolina","Concord","city",NA,"November","2019",49606,47972,1634
+"37","NC","North Carolina","Concord","city",NA,"December","2019",49442,47927,1515
+"37","NC","North Carolina","Concord","city",NA,"January","2020",49691,47796,1895
+"37","NC","North Carolina","Concord","city",NA,"February","2020",50010,48255,1755
+"37","NC","North Carolina","Concord","city",NA,"March","2020",48552,46595,1957
+"37","NC","North Carolina","Concord","city",NA,"April","2020",45255,39418,5837
+"37","NC","North Carolina","Cornelius","city",NA,"January","2019",17768,17151,617
+"37","NC","North Carolina","Cornelius","city",NA,"February","2019",17901,17305,596
+"37","NC","North Carolina","Cornelius","city",NA,"March","2019",18033,17451,582
+"37","NC","North Carolina","Cornelius","city",NA,"April","2019",17949,17431,518
+"37","NC","North Carolina","Cornelius","city",NA,"May","2019",18040,17458,582
+"37","NC","North Carolina","Cornelius","city",NA,"June","2019",18201,17606,595
+"37","NC","North Carolina","Cornelius","city",NA,"July","2019",18244,17656,588
+"37","NC","North Carolina","Cornelius","city",NA,"August","2019",18169,17599,570
+"37","NC","North Carolina","Cornelius","city",NA,"September","2019",18206,17719,487
+"37","NC","North Carolina","Cornelius","city",NA,"October","2019",18347,17846,501
+"37","NC","North Carolina","Cornelius","city",NA,"November","2019",18257,17722,535
+"37","NC","North Carolina","Cornelius","city",NA,"December","2019",18191,17681,510
+"37","NC","North Carolina","Cornelius","city",NA,"January","2020",18224,17629,595
+"37","NC","North Carolina","Cornelius","city",NA,"February","2020",18339,17809,530
+"37","NC","North Carolina","Cornelius","city",NA,"March","2020",17763,17191,572
+"37","NC","North Carolina","Cornelius","city",NA,"April","2020",16482,14538,1944
 "37","NC","North Carolina","Craven County","county",37049,"January","2019",41712,39666,2046
 "37","NC","North Carolina","Craven County","county",37049,"February","2019",41991,40098,1893
 "37","NC","North Carolina","Craven County","county",37049,"March","2019",42118,40311,1807
@@ -655,22 +655,22 @@
 "37","NC","North Carolina","Duplin County","county",37061,"February","2020",26191,25201,990
 "37","NC","North Carolina","Duplin County","county",37061,"March","2020",24978,23868,1110
 "37","NC","North Carolina","Duplin County","county",37061,"April","2020",24767,22986,1781
-"37","NC","North Carolina","Durham City","city",NA,"January","2019",149604,143692,5912
-"37","NC","North Carolina","Durham City","city",NA,"February","2019",150851,145334,5517
-"37","NC","North Carolina","Durham City","city",NA,"March","2019",151006,145636,5370
-"37","NC","North Carolina","Durham City","city",NA,"April","2019",150329,145588,4741
-"37","NC","North Carolina","Durham City","city",NA,"May","2019",150700,145436,5264
-"37","NC","North Carolina","Durham City","city",NA,"June","2019",150256,144587,5669
-"37","NC","North Carolina","Durham City","city",NA,"July","2019",151753,145950,5803
-"37","NC","North Carolina","Durham City","city",NA,"August","2019",151271,145666,5605
-"37","NC","North Carolina","Durham City","city",NA,"September","2019",151378,146788,4590
-"37","NC","North Carolina","Durham City","city",NA,"October","2019",152249,147510,4739
-"37","NC","North Carolina","Durham City","city",NA,"November","2019",151632,147033,4599
-"37","NC","North Carolina","Durham City","city",NA,"December","2019",150280,145981,4299
-"37","NC","North Carolina","Durham City","city",NA,"January","2020",151940,146703,5237
-"37","NC","North Carolina","Durham City","city",NA,"February","2020",153338,148571,4767
-"37","NC","North Carolina","Durham City","city",NA,"March","2020",148826,143331,5495
-"37","NC","North Carolina","Durham City","city",NA,"April","2020",137894,124048,13846
+"37","NC","North Carolina","Durham","city",NA,"January","2019",149604,143692,5912
+"37","NC","North Carolina","Durham","city",NA,"February","2019",150851,145334,5517
+"37","NC","North Carolina","Durham","city",NA,"March","2019",151006,145636,5370
+"37","NC","North Carolina","Durham","city",NA,"April","2019",150329,145588,4741
+"37","NC","North Carolina","Durham","city",NA,"May","2019",150700,145436,5264
+"37","NC","North Carolina","Durham","city",NA,"June","2019",150256,144587,5669
+"37","NC","North Carolina","Durham","city",NA,"July","2019",151753,145950,5803
+"37","NC","North Carolina","Durham","city",NA,"August","2019",151271,145666,5605
+"37","NC","North Carolina","Durham","city",NA,"September","2019",151378,146788,4590
+"37","NC","North Carolina","Durham","city",NA,"October","2019",152249,147510,4739
+"37","NC","North Carolina","Durham","city",NA,"November","2019",151632,147033,4599
+"37","NC","North Carolina","Durham","city",NA,"December","2019",150280,145981,4299
+"37","NC","North Carolina","Durham","city",NA,"January","2020",151940,146703,5237
+"37","NC","North Carolina","Durham","city",NA,"February","2020",153338,148571,4767
+"37","NC","North Carolina","Durham","city",NA,"March","2020",148826,143331,5495
+"37","NC","North Carolina","Durham","city",NA,"April","2020",137894,124048,13846
 "37","NC","North Carolina","Durham County","county",37063,"January","2019",170785,164091,6694
 "37","NC","North Carolina","Durham County","county",37063,"February","2019",172263,165966,6297
 "37","NC","North Carolina","Durham County","county",37063,"March","2019",172441,166311,6130
@@ -703,22 +703,22 @@
 "37","NC","North Carolina","Edgecombe County","county",37065,"February","2020",21477,20340,1137
 "37","NC","North Carolina","Edgecombe County","county",37065,"March","2020",20806,19506,1300
 "37","NC","North Carolina","Edgecombe County","county",37065,"April","2020",19751,17141,2610
-"37","NC","North Carolina","Fayetteville City","city",NA,"January","2019",77182,72395,4787
-"37","NC","North Carolina","Fayetteville City","city",NA,"February","2019",77599,73067,4532
-"37","NC","North Carolina","Fayetteville City","city",NA,"March","2019",77802,73526,4276
-"37","NC","North Carolina","Fayetteville City","city",NA,"April","2019",77460,73607,3853
-"37","NC","North Carolina","Fayetteville City","city",NA,"May","2019",77710,73571,4139
-"37","NC","North Carolina","Fayetteville City","city",NA,"June","2019",77840,73351,4489
-"37","NC","North Carolina","Fayetteville City","city",NA,"July","2019",77368,72587,4781
-"37","NC","North Carolina","Fayetteville City","city",NA,"August","2019",76547,72047,4500
-"37","NC","North Carolina","Fayetteville City","city",NA,"September","2019",77223,73460,3763
-"37","NC","North Carolina","Fayetteville City","city",NA,"October","2019",77382,73478,3904
-"37","NC","North Carolina","Fayetteville City","city",NA,"November","2019",77288,73395,3893
-"37","NC","North Carolina","Fayetteville City","city",NA,"December","2019",76883,73263,3620
-"37","NC","North Carolina","Fayetteville City","city",NA,"January","2020",76893,72463,4430
-"37","NC","North Carolina","Fayetteville City","city",NA,"February","2020",77242,73209,4033
-"37","NC","North Carolina","Fayetteville City","city",NA,"March","2020",75573,71023,4550
-"37","NC","North Carolina","Fayetteville City","city",NA,"April","2020",71794,60573,11221
+"37","NC","North Carolina","Fayetteville","city",NA,"January","2019",77182,72395,4787
+"37","NC","North Carolina","Fayetteville","city",NA,"February","2019",77599,73067,4532
+"37","NC","North Carolina","Fayetteville","city",NA,"March","2019",77802,73526,4276
+"37","NC","North Carolina","Fayetteville","city",NA,"April","2019",77460,73607,3853
+"37","NC","North Carolina","Fayetteville","city",NA,"May","2019",77710,73571,4139
+"37","NC","North Carolina","Fayetteville","city",NA,"June","2019",77840,73351,4489
+"37","NC","North Carolina","Fayetteville","city",NA,"July","2019",77368,72587,4781
+"37","NC","North Carolina","Fayetteville","city",NA,"August","2019",76547,72047,4500
+"37","NC","North Carolina","Fayetteville","city",NA,"September","2019",77223,73460,3763
+"37","NC","North Carolina","Fayetteville","city",NA,"October","2019",77382,73478,3904
+"37","NC","North Carolina","Fayetteville","city",NA,"November","2019",77288,73395,3893
+"37","NC","North Carolina","Fayetteville","city",NA,"December","2019",76883,73263,3620
+"37","NC","North Carolina","Fayetteville","city",NA,"January","2020",76893,72463,4430
+"37","NC","North Carolina","Fayetteville","city",NA,"February","2020",77242,73209,4033
+"37","NC","North Carolina","Fayetteville","city",NA,"March","2020",75573,71023,4550
+"37","NC","North Carolina","Fayetteville","city",NA,"April","2020",71794,60573,11221
 "37","NC","North Carolina","Forsyth County","county",37067,"January","2019",188529,180461,8068
 "37","NC","North Carolina","Forsyth County","county",37067,"February","2019",189532,182017,7515
 "37","NC","North Carolina","Forsyth County","county",37067,"March","2019",190382,183093,7289
@@ -767,22 +767,22 @@
 "37","NC","North Carolina","Fuquay-Varina","city",NA,"February","2020",15004,14562,442
 "37","NC","North Carolina","Fuquay-Varina","city",NA,"March","2020",14620,14072,548
 "37","NC","North Carolina","Fuquay-Varina","city",NA,"April","2020",13316,11800,1516
-"37","NC","North Carolina","Garner Town","city",NA,"January","2019",17116,16491,625
-"37","NC","North Carolina","Garner Town","city",NA,"February","2019",17252,16647,605
-"37","NC","North Carolina","Garner Town","city",NA,"March","2019",17354,16762,592
-"37","NC","North Carolina","Garner Town","city",NA,"April","2019",17276,16735,541
-"37","NC","North Carolina","Garner Town","city",NA,"May","2019",17333,16763,570
-"37","NC","North Carolina","Garner Town","city",NA,"June","2019",17479,16826,653
-"37","NC","North Carolina","Garner Town","city",NA,"July","2019",17684,17008,676
-"37","NC","North Carolina","Garner Town","city",NA,"August","2019",17514,16881,633
-"37","NC","North Carolina","Garner Town","city",NA,"September","2019",17484,17003,481
-"37","NC","North Carolina","Garner Town","city",NA,"October","2019",17628,17124,504
-"37","NC","North Carolina","Garner Town","city",NA,"November","2019",17477,16995,482
-"37","NC","North Carolina","Garner Town","city",NA,"December","2019",17387,16898,489
-"37","NC","North Carolina","Garner Town","city",NA,"January","2020",17546,16927,619
-"37","NC","North Carolina","Garner Town","city",NA,"February","2020",17728,17161,567
-"37","NC","North Carolina","Garner Town","city",NA,"March","2020",17196,16583,613
-"37","NC","North Carolina","Garner Town","city",NA,"April","2020",15813,13906,1907
+"37","NC","North Carolina","Garner","city",NA,"January","2019",17116,16491,625
+"37","NC","North Carolina","Garner","city",NA,"February","2019",17252,16647,605
+"37","NC","North Carolina","Garner","city",NA,"March","2019",17354,16762,592
+"37","NC","North Carolina","Garner","city",NA,"April","2019",17276,16735,541
+"37","NC","North Carolina","Garner","city",NA,"May","2019",17333,16763,570
+"37","NC","North Carolina","Garner","city",NA,"June","2019",17479,16826,653
+"37","NC","North Carolina","Garner","city",NA,"July","2019",17684,17008,676
+"37","NC","North Carolina","Garner","city",NA,"August","2019",17514,16881,633
+"37","NC","North Carolina","Garner","city",NA,"September","2019",17484,17003,481
+"37","NC","North Carolina","Garner","city",NA,"October","2019",17628,17124,504
+"37","NC","North Carolina","Garner","city",NA,"November","2019",17477,16995,482
+"37","NC","North Carolina","Garner","city",NA,"December","2019",17387,16898,489
+"37","NC","North Carolina","Garner","city",NA,"January","2020",17546,16927,619
+"37","NC","North Carolina","Garner","city",NA,"February","2020",17728,17161,567
+"37","NC","North Carolina","Garner","city",NA,"March","2020",17196,16583,613
+"37","NC","North Carolina","Garner","city",NA,"April","2020",15813,13906,1907
 "37","NC","North Carolina","Gaston County","county",37071,"January","2019",110043,105212,4831
 "37","NC","North Carolina","Gaston County","county",37071,"February","2019",110659,106123,4536
 "37","NC","North Carolina","Gaston County","county",37071,"March","2019",111526,107106,4420
@@ -799,22 +799,22 @@
 "37","NC","North Carolina","Gaston County","county",37071,"February","2020",113505,109177,4328
 "37","NC","North Carolina","Gaston County","county",37071,"March","2020",110369,105467,4902
 "37","NC","North Carolina","Gaston County","county",37071,"April","2020",103559,89187,14372
-"37","NC","North Carolina","Gastonia City","city",NA,"January","2019",36835,35080,1755
-"37","NC","North Carolina","Gastonia City","city",NA,"February","2019",37002,35383,1619
-"37","NC","North Carolina","Gastonia City","city",NA,"March","2019",37257,35711,1546
-"37","NC","North Carolina","Gastonia City","city",NA,"April","2019",37061,35655,1406
-"37","NC","North Carolina","Gastonia City","city",NA,"May","2019",37241,35714,1527
-"37","NC","North Carolina","Gastonia City","city",NA,"June","2019",37641,35987,1654
-"37","NC","North Carolina","Gastonia City","city",NA,"July","2019",37824,36107,1717
-"37","NC","North Carolina","Gastonia City","city",NA,"August","2019",37653,35977,1676
-"37","NC","North Carolina","Gastonia City","city",NA,"September","2019",37638,36210,1428
-"37","NC","North Carolina","Gastonia City","city",NA,"October","2019",37901,36469,1432
-"37","NC","North Carolina","Gastonia City","city",NA,"November","2019",37691,36204,1487
-"37","NC","North Carolina","Gastonia City","city",NA,"December","2019",37534,36147,1387
-"37","NC","North Carolina","Gastonia City","city",NA,"January","2020",37681,36052,1629
-"37","NC","North Carolina","Gastonia City","city",NA,"February","2020",37877,36402,1475
-"37","NC","North Carolina","Gastonia City","city",NA,"March","2020",36914,35165,1749
-"37","NC","North Carolina","Gastonia City","city",NA,"April","2020",34846,29737,5109
+"37","NC","North Carolina","Gastonia","city",NA,"January","2019",36835,35080,1755
+"37","NC","North Carolina","Gastonia","city",NA,"February","2019",37002,35383,1619
+"37","NC","North Carolina","Gastonia","city",NA,"March","2019",37257,35711,1546
+"37","NC","North Carolina","Gastonia","city",NA,"April","2019",37061,35655,1406
+"37","NC","North Carolina","Gastonia","city",NA,"May","2019",37241,35714,1527
+"37","NC","North Carolina","Gastonia","city",NA,"June","2019",37641,35987,1654
+"37","NC","North Carolina","Gastonia","city",NA,"July","2019",37824,36107,1717
+"37","NC","North Carolina","Gastonia","city",NA,"August","2019",37653,35977,1676
+"37","NC","North Carolina","Gastonia","city",NA,"September","2019",37638,36210,1428
+"37","NC","North Carolina","Gastonia","city",NA,"October","2019",37901,36469,1432
+"37","NC","North Carolina","Gastonia","city",NA,"November","2019",37691,36204,1487
+"37","NC","North Carolina","Gastonia","city",NA,"December","2019",37534,36147,1387
+"37","NC","North Carolina","Gastonia","city",NA,"January","2020",37681,36052,1629
+"37","NC","North Carolina","Gastonia","city",NA,"February","2020",37877,36402,1475
+"37","NC","North Carolina","Gastonia","city",NA,"March","2020",36914,35165,1749
+"37","NC","North Carolina","Gastonia","city",NA,"April","2020",34846,29737,5109
 "37","NC","North Carolina","Gates County","county",37073,"January","2019",5288,5038,250
 "37","NC","North Carolina","Gates County","county",37073,"February","2019",5342,5109,233
 "37","NC","North Carolina","Gates County","county",37073,"March","2019",5357,5130,227
@@ -831,22 +831,22 @@
 "37","NC","North Carolina","Gates County","county",37073,"February","2020",5357,5146,211
 "37","NC","North Carolina","Gates County","county",37073,"March","2020",5237,4994,243
 "37","NC","North Carolina","Gates County","county",37073,"April","2020",4809,4461,348
-"37","NC","North Carolina","Goldsboro City","city",NA,"January","2019",11791,11028,763
-"37","NC","North Carolina","Goldsboro City","city",NA,"February","2019",11913,11216,697
-"37","NC","North Carolina","Goldsboro City","city",NA,"March","2019",11819,11154,665
-"37","NC","North Carolina","Goldsboro City","city",NA,"April","2019",11749,11126,623
-"37","NC","North Carolina","Goldsboro City","city",NA,"May","2019",11784,11152,632
-"37","NC","North Carolina","Goldsboro City","city",NA,"June","2019",11692,11012,680
-"37","NC","North Carolina","Goldsboro City","city",NA,"July","2019",11736,11005,731
-"37","NC","North Carolina","Goldsboro City","city",NA,"August","2019",11404,10740,664
-"37","NC","North Carolina","Goldsboro City","city",NA,"September","2019",11514,10949,565
-"37","NC","North Carolina","Goldsboro City","city",NA,"October","2019",11469,10895,574
-"37","NC","North Carolina","Goldsboro City","city",NA,"November","2019",11573,11029,544
-"37","NC","North Carolina","Goldsboro City","city",NA,"December","2019",11616,11068,548
-"37","NC","North Carolina","Goldsboro City","city",NA,"January","2020",11761,11053,708
-"37","NC","North Carolina","Goldsboro City","city",NA,"February","2020",11772,11108,664
-"37","NC","North Carolina","Goldsboro City","city",NA,"March","2020",11369,10667,702
-"37","NC","North Carolina","Goldsboro City","city",NA,"April","2020",10404,9123,1281
+"37","NC","North Carolina","Goldsboro","city",NA,"January","2019",11791,11028,763
+"37","NC","North Carolina","Goldsboro","city",NA,"February","2019",11913,11216,697
+"37","NC","North Carolina","Goldsboro","city",NA,"March","2019",11819,11154,665
+"37","NC","North Carolina","Goldsboro","city",NA,"April","2019",11749,11126,623
+"37","NC","North Carolina","Goldsboro","city",NA,"May","2019",11784,11152,632
+"37","NC","North Carolina","Goldsboro","city",NA,"June","2019",11692,11012,680
+"37","NC","North Carolina","Goldsboro","city",NA,"July","2019",11736,11005,731
+"37","NC","North Carolina","Goldsboro","city",NA,"August","2019",11404,10740,664
+"37","NC","North Carolina","Goldsboro","city",NA,"September","2019",11514,10949,565
+"37","NC","North Carolina","Goldsboro","city",NA,"October","2019",11469,10895,574
+"37","NC","North Carolina","Goldsboro","city",NA,"November","2019",11573,11029,544
+"37","NC","North Carolina","Goldsboro","city",NA,"December","2019",11616,11068,548
+"37","NC","North Carolina","Goldsboro","city",NA,"January","2020",11761,11053,708
+"37","NC","North Carolina","Goldsboro","city",NA,"February","2020",11772,11108,664
+"37","NC","North Carolina","Goldsboro","city",NA,"March","2020",11369,10667,702
+"37","NC","North Carolina","Goldsboro","city",NA,"April","2020",10404,9123,1281
 "37","NC","North Carolina","Graham County","county",37075,"January","2019",3206,2990,216
 "37","NC","North Carolina","Graham County","county",37075,"February","2019",3200,2986,214
 "37","NC","North Carolina","Graham County","county",37075,"March","2019",3264,3074,190
@@ -895,38 +895,38 @@
 "37","NC","North Carolina","Greene County","county",37079,"February","2020",9708,9366,342
 "37","NC","North Carolina","Greene County","county",37079,"March","2020",9495,9115,380
 "37","NC","North Carolina","Greene County","county",37079,"April","2020",9184,8471,713
-"37","NC","North Carolina","Greensboro City","city",NA,"January","2019",146608,139534,7074
-"37","NC","North Carolina","Greensboro City","city",NA,"February","2019",147485,140911,6574
-"37","NC","North Carolina","Greensboro City","city",NA,"March","2019",148217,141884,6333
-"37","NC","North Carolina","Greensboro City","city",NA,"April","2019",147440,141920,5520
-"37","NC","North Carolina","Greensboro City","city",NA,"May","2019",148033,141804,6229
-"37","NC","North Carolina","Greensboro City","city",NA,"June","2019",147456,140686,6770
-"37","NC","North Carolina","Greensboro City","city",NA,"July","2019",147404,140137,7267
-"37","NC","North Carolina","Greensboro City","city",NA,"August","2019",147215,140354,6861
-"37","NC","North Carolina","Greensboro City","city",NA,"September","2019",148022,142379,5643
-"37","NC","North Carolina","Greensboro City","city",NA,"October","2019",149112,143281,5831
-"37","NC","North Carolina","Greensboro City","city",NA,"November","2019",148537,142937,5600
-"37","NC","North Carolina","Greensboro City","city",NA,"December","2019",147165,141957,5208
-"37","NC","North Carolina","Greensboro City","city",NA,"January","2020",146962,140549,6413
-"37","NC","North Carolina","Greensboro City","city",NA,"February","2020",147767,141880,5887
-"37","NC","North Carolina","Greensboro City","city",NA,"March","2020",143834,137271,6563
-"37","NC","North Carolina","Greensboro City","city",NA,"April","2020",132097,111877,20220
-"37","NC","North Carolina","Greenville City","city",NA,"January","2019",48739,46296,2443
-"37","NC","North Carolina","Greenville City","city",NA,"February","2019",48816,46563,2253
-"37","NC","North Carolina","Greenville City","city",NA,"March","2019",49057,46834,2223
-"37","NC","North Carolina","Greenville City","city",NA,"April","2019",48502,46611,1891
-"37","NC","North Carolina","Greenville City","city",NA,"May","2019",48871,46590,2281
-"37","NC","North Carolina","Greenville City","city",NA,"June","2019",48042,45462,2580
-"37","NC","North Carolina","Greenville City","city",NA,"July","2019",48184,45494,2690
-"37","NC","North Carolina","Greenville City","city",NA,"August","2019",47530,45081,2449
-"37","NC","North Carolina","Greenville City","city",NA,"September","2019",48806,46857,1949
-"37","NC","North Carolina","Greenville City","city",NA,"October","2019",48941,46952,1989
-"37","NC","North Carolina","Greenville City","city",NA,"November","2019",48848,46873,1975
-"37","NC","North Carolina","Greenville City","city",NA,"December","2019",48441,46636,1805
-"37","NC","North Carolina","Greenville City","city",NA,"January","2020",48300,46197,2103
-"37","NC","North Carolina","Greenville City","city",NA,"February","2020",48622,46735,1887
-"37","NC","North Carolina","Greenville City","city",NA,"March","2020",47596,45429,2167
-"37","NC","North Carolina","Greenville City","city",NA,"April","2020",44032,39448,4584
+"37","NC","North Carolina","Greensboro","city",NA,"January","2019",146608,139534,7074
+"37","NC","North Carolina","Greensboro","city",NA,"February","2019",147485,140911,6574
+"37","NC","North Carolina","Greensboro","city",NA,"March","2019",148217,141884,6333
+"37","NC","North Carolina","Greensboro","city",NA,"April","2019",147440,141920,5520
+"37","NC","North Carolina","Greensboro","city",NA,"May","2019",148033,141804,6229
+"37","NC","North Carolina","Greensboro","city",NA,"June","2019",147456,140686,6770
+"37","NC","North Carolina","Greensboro","city",NA,"July","2019",147404,140137,7267
+"37","NC","North Carolina","Greensboro","city",NA,"August","2019",147215,140354,6861
+"37","NC","North Carolina","Greensboro","city",NA,"September","2019",148022,142379,5643
+"37","NC","North Carolina","Greensboro","city",NA,"October","2019",149112,143281,5831
+"37","NC","North Carolina","Greensboro","city",NA,"November","2019",148537,142937,5600
+"37","NC","North Carolina","Greensboro","city",NA,"December","2019",147165,141957,5208
+"37","NC","North Carolina","Greensboro","city",NA,"January","2020",146962,140549,6413
+"37","NC","North Carolina","Greensboro","city",NA,"February","2020",147767,141880,5887
+"37","NC","North Carolina","Greensboro","city",NA,"March","2020",143834,137271,6563
+"37","NC","North Carolina","Greensboro","city",NA,"April","2020",132097,111877,20220
+"37","NC","North Carolina","Greenville","city",NA,"January","2019",48739,46296,2443
+"37","NC","North Carolina","Greenville","city",NA,"February","2019",48816,46563,2253
+"37","NC","North Carolina","Greenville","city",NA,"March","2019",49057,46834,2223
+"37","NC","North Carolina","Greenville","city",NA,"April","2019",48502,46611,1891
+"37","NC","North Carolina","Greenville","city",NA,"May","2019",48871,46590,2281
+"37","NC","North Carolina","Greenville","city",NA,"June","2019",48042,45462,2580
+"37","NC","North Carolina","Greenville","city",NA,"July","2019",48184,45494,2690
+"37","NC","North Carolina","Greenville","city",NA,"August","2019",47530,45081,2449
+"37","NC","North Carolina","Greenville","city",NA,"September","2019",48806,46857,1949
+"37","NC","North Carolina","Greenville","city",NA,"October","2019",48941,46952,1989
+"37","NC","North Carolina","Greenville","city",NA,"November","2019",48848,46873,1975
+"37","NC","North Carolina","Greenville","city",NA,"December","2019",48441,46636,1805
+"37","NC","North Carolina","Greenville","city",NA,"January","2020",48300,46197,2103
+"37","NC","North Carolina","Greenville","city",NA,"February","2020",48622,46735,1887
+"37","NC","North Carolina","Greenville","city",NA,"March","2020",47596,45429,2167
+"37","NC","North Carolina","Greenville","city",NA,"April","2020",44032,39448,4584
 "37","NC","North Carolina","Guilford County","county",37081,"January","2019",263324,251000,12324
 "37","NC","North Carolina","Guilford County","county",37081,"February","2019",265002,253477,11525
 "37","NC","North Carolina","Guilford County","county",37081,"March","2019",266341,255226,11115
@@ -1023,38 +1023,38 @@
 "37","NC","North Carolina","Hertford County","county",37091,"February","2020",9254,8784,470
 "37","NC","North Carolina","Hertford County","county",37091,"March","2020",9063,8550,513
 "37","NC","North Carolina","Hertford County","county",37091,"April","2020",8918,8305,613
-"37","NC","North Carolina","Hickory City","city",NA,"January","2019",20434,19619,815
-"37","NC","North Carolina","Hickory City","city",NA,"February","2019",20593,19781,812
-"37","NC","North Carolina","Hickory City","city",NA,"March","2019",20655,19909,746
-"37","NC","North Carolina","Hickory City","city",NA,"April","2019",20557,19901,656
-"37","NC","North Carolina","Hickory City","city",NA,"May","2019",20640,19887,753
-"37","NC","North Carolina","Hickory City","city",NA,"June","2019",20768,19936,832
-"37","NC","North Carolina","Hickory City","city",NA,"July","2019",20728,19856,872
-"37","NC","North Carolina","Hickory City","city",NA,"August","2019",20561,19727,834
-"37","NC","North Carolina","Hickory City","city",NA,"September","2019",20675,19984,691
-"37","NC","North Carolina","Hickory City","city",NA,"October","2019",20774,20070,704
-"37","NC","North Carolina","Hickory City","city",NA,"November","2019",20700,20011,689
-"37","NC","North Carolina","Hickory City","city",NA,"December","2019",20547,19901,646
-"37","NC","North Carolina","Hickory City","city",NA,"January","2020",20645,19868,777
-"37","NC","North Carolina","Hickory City","city",NA,"February","2020",20743,20034,709
-"37","NC","North Carolina","Hickory City","city",NA,"March","2020",20187,19377,810
-"37","NC","North Carolina","Hickory City","city",NA,"April","2020",18979,15683,3296
-"37","NC","North Carolina","High Point City","city",NA,"January","2019",53998,51428,2570
-"37","NC","North Carolina","High Point City","city",NA,"February","2019",54447,51936,2511
-"37","NC","North Carolina","High Point City","city",NA,"March","2019",54720,52286,2434
-"37","NC","North Carolina","High Point City","city",NA,"April","2019",54426,52298,2128
-"37","NC","North Carolina","High Point City","city",NA,"May","2019",54569,52256,2313
-"37","NC","North Carolina","High Point City","city",NA,"June","2019",54404,51866,2538
-"37","NC","North Carolina","High Point City","city",NA,"July","2019",54291,51675,2616
-"37","NC","North Carolina","High Point City","city",NA,"August","2019",54197,51724,2473
-"37","NC","North Carolina","High Point City","city",NA,"September","2019",54577,52476,2101
-"37","NC","North Carolina","High Point City","city",NA,"October","2019",54830,52807,2023
-"37","NC","North Carolina","High Point City","city",NA,"November","2019",54751,52655,2096
-"37","NC","North Carolina","High Point City","city",NA,"December","2019",54220,52301,1919
-"37","NC","North Carolina","High Point City","city",NA,"January","2020",54341,51811,2530
-"37","NC","North Carolina","High Point City","city",NA,"February","2020",54573,52299,2274
-"37","NC","North Carolina","High Point City","city",NA,"March","2020",53237,50591,2646
-"37","NC","North Carolina","High Point City","city",NA,"April","2020",49531,41331,8200
+"37","NC","North Carolina","Hickory","city",NA,"January","2019",20434,19619,815
+"37","NC","North Carolina","Hickory","city",NA,"February","2019",20593,19781,812
+"37","NC","North Carolina","Hickory","city",NA,"March","2019",20655,19909,746
+"37","NC","North Carolina","Hickory","city",NA,"April","2019",20557,19901,656
+"37","NC","North Carolina","Hickory","city",NA,"May","2019",20640,19887,753
+"37","NC","North Carolina","Hickory","city",NA,"June","2019",20768,19936,832
+"37","NC","North Carolina","Hickory","city",NA,"July","2019",20728,19856,872
+"37","NC","North Carolina","Hickory","city",NA,"August","2019",20561,19727,834
+"37","NC","North Carolina","Hickory","city",NA,"September","2019",20675,19984,691
+"37","NC","North Carolina","Hickory","city",NA,"October","2019",20774,20070,704
+"37","NC","North Carolina","Hickory","city",NA,"November","2019",20700,20011,689
+"37","NC","North Carolina","Hickory","city",NA,"December","2019",20547,19901,646
+"37","NC","North Carolina","Hickory","city",NA,"January","2020",20645,19868,777
+"37","NC","North Carolina","Hickory","city",NA,"February","2020",20743,20034,709
+"37","NC","North Carolina","Hickory","city",NA,"March","2020",20187,19377,810
+"37","NC","North Carolina","Hickory","city",NA,"April","2020",18979,15683,3296
+"37","NC","North Carolina","High Point","city",NA,"January","2019",53998,51428,2570
+"37","NC","North Carolina","High Point","city",NA,"February","2019",54447,51936,2511
+"37","NC","North Carolina","High Point","city",NA,"March","2019",54720,52286,2434
+"37","NC","North Carolina","High Point","city",NA,"April","2019",54426,52298,2128
+"37","NC","North Carolina","High Point","city",NA,"May","2019",54569,52256,2313
+"37","NC","North Carolina","High Point","city",NA,"June","2019",54404,51866,2538
+"37","NC","North Carolina","High Point","city",NA,"July","2019",54291,51675,2616
+"37","NC","North Carolina","High Point","city",NA,"August","2019",54197,51724,2473
+"37","NC","North Carolina","High Point","city",NA,"September","2019",54577,52476,2101
+"37","NC","North Carolina","High Point","city",NA,"October","2019",54830,52807,2023
+"37","NC","North Carolina","High Point","city",NA,"November","2019",54751,52655,2096
+"37","NC","North Carolina","High Point","city",NA,"December","2019",54220,52301,1919
+"37","NC","North Carolina","High Point","city",NA,"January","2020",54341,51811,2530
+"37","NC","North Carolina","High Point","city",NA,"February","2020",54573,52299,2274
+"37","NC","North Carolina","High Point","city",NA,"March","2020",53237,50591,2646
+"37","NC","North Carolina","High Point","city",NA,"April","2020",49531,41331,8200
 "37","NC","North Carolina","Hoke County","county",37093,"January","2019",20257,19105,1152
 "37","NC","North Carolina","Hoke County","county",37093,"February","2019",20397,19334,1063
 "37","NC","North Carolina","Hoke County","county",37093,"March","2019",20402,19384,1018
@@ -1071,38 +1071,38 @@
 "37","NC","North Carolina","Hoke County","county",37093,"February","2020",20345,19362,983
 "37","NC","North Carolina","Hoke County","county",37093,"March","2020",19802,18732,1070
 "37","NC","North Carolina","Hoke County","county",37093,"April","2020",18408,15995,2413
-"37","NC","North Carolina","Holly Springs Town","city",NA,"January","2019",18695,18018,677
-"37","NC","North Carolina","Holly Springs Town","city",NA,"February","2019",18810,18188,622
-"37","NC","North Carolina","Holly Springs Town","city",NA,"March","2019",18929,18313,616
-"37","NC","North Carolina","Holly Springs Town","city",NA,"April","2019",18830,18284,546
-"37","NC","North Carolina","Holly Springs Town","city",NA,"May","2019",18902,18315,587
-"37","NC","North Carolina","Holly Springs Town","city",NA,"June","2019",19033,18383,650
-"37","NC","North Carolina","Holly Springs Town","city",NA,"July","2019",19250,18582,668
-"37","NC","North Carolina","Holly Springs Town","city",NA,"August","2019",19079,18443,636
-"37","NC","North Carolina","Holly Springs Town","city",NA,"September","2019",19100,18576,524
-"37","NC","North Carolina","Holly Springs Town","city",NA,"October","2019",19197,18710,487
-"37","NC","North Carolina","Holly Springs Town","city",NA,"November","2019",19087,18568,519
-"37","NC","North Carolina","Holly Springs Town","city",NA,"December","2019",18957,18462,495
-"37","NC","North Carolina","Holly Springs Town","city",NA,"January","2020",19170,18494,676
-"37","NC","North Carolina","Holly Springs Town","city",NA,"February","2020",19331,18749,582
-"37","NC","North Carolina","Holly Springs Town","city",NA,"March","2020",18748,18118,630
-"37","NC","North Carolina","Holly Springs Town","city",NA,"April","2020",16982,15193,1789
-"37","NC","North Carolina","Huntersville Town","city",NA,"January","2019",33680,32507,1173
-"37","NC","North Carolina","Huntersville Town","city",NA,"February","2019",33907,32798,1109
-"37","NC","North Carolina","Huntersville Town","city",NA,"March","2019",34158,33074,1084
-"37","NC","North Carolina","Huntersville Town","city",NA,"April","2019",33983,33037,946
-"37","NC","North Carolina","Huntersville Town","city",NA,"May","2019",34106,33089,1017
-"37","NC","North Carolina","Huntersville Town","city",NA,"June","2019",34504,33369,1135
-"37","NC","North Carolina","Huntersville Town","city",NA,"July","2019",34658,33464,1194
-"37","NC","North Carolina","Huntersville Town","city",NA,"August","2019",34453,33355,1098
-"37","NC","North Carolina","Huntersville Town","city",NA,"September","2019",34578,33584,994
-"37","NC","North Carolina","Huntersville Town","city",NA,"October","2019",34899,33823,1076
-"37","NC","North Carolina","Huntersville Town","city",NA,"November","2019",34579,33588,991
-"37","NC","North Carolina","Huntersville Town","city",NA,"December","2019",34467,33512,955
-"37","NC","North Carolina","Huntersville Town","city",NA,"January","2020",34532,33412,1120
-"37","NC","North Carolina","Huntersville Town","city",NA,"February","2020",34789,33753,1036
-"37","NC","North Carolina","Huntersville Town","city",NA,"March","2020",33809,32582,1227
-"37","NC","North Carolina","Huntersville Town","city",NA,"April","2020",30960,27554,3406
+"37","NC","North Carolina","Holly Springs","city",NA,"January","2019",18695,18018,677
+"37","NC","North Carolina","Holly Springs","city",NA,"February","2019",18810,18188,622
+"37","NC","North Carolina","Holly Springs","city",NA,"March","2019",18929,18313,616
+"37","NC","North Carolina","Holly Springs","city",NA,"April","2019",18830,18284,546
+"37","NC","North Carolina","Holly Springs","city",NA,"May","2019",18902,18315,587
+"37","NC","North Carolina","Holly Springs","city",NA,"June","2019",19033,18383,650
+"37","NC","North Carolina","Holly Springs","city",NA,"July","2019",19250,18582,668
+"37","NC","North Carolina","Holly Springs","city",NA,"August","2019",19079,18443,636
+"37","NC","North Carolina","Holly Springs","city",NA,"September","2019",19100,18576,524
+"37","NC","North Carolina","Holly Springs","city",NA,"October","2019",19197,18710,487
+"37","NC","North Carolina","Holly Springs","city",NA,"November","2019",19087,18568,519
+"37","NC","North Carolina","Holly Springs","city",NA,"December","2019",18957,18462,495
+"37","NC","North Carolina","Holly Springs","city",NA,"January","2020",19170,18494,676
+"37","NC","North Carolina","Holly Springs","city",NA,"February","2020",19331,18749,582
+"37","NC","North Carolina","Holly Springs","city",NA,"March","2020",18748,18118,630
+"37","NC","North Carolina","Holly Springs","city",NA,"April","2020",16982,15193,1789
+"37","NC","North Carolina","Huntersville","city",NA,"January","2019",33680,32507,1173
+"37","NC","North Carolina","Huntersville","city",NA,"February","2019",33907,32798,1109
+"37","NC","North Carolina","Huntersville","city",NA,"March","2019",34158,33074,1084
+"37","NC","North Carolina","Huntersville","city",NA,"April","2019",33983,33037,946
+"37","NC","North Carolina","Huntersville","city",NA,"May","2019",34106,33089,1017
+"37","NC","North Carolina","Huntersville","city",NA,"June","2019",34504,33369,1135
+"37","NC","North Carolina","Huntersville","city",NA,"July","2019",34658,33464,1194
+"37","NC","North Carolina","Huntersville","city",NA,"August","2019",34453,33355,1098
+"37","NC","North Carolina","Huntersville","city",NA,"September","2019",34578,33584,994
+"37","NC","North Carolina","Huntersville","city",NA,"October","2019",34899,33823,1076
+"37","NC","North Carolina","Huntersville","city",NA,"November","2019",34579,33588,991
+"37","NC","North Carolina","Huntersville","city",NA,"December","2019",34467,33512,955
+"37","NC","North Carolina","Huntersville","city",NA,"January","2020",34532,33412,1120
+"37","NC","North Carolina","Huntersville","city",NA,"February","2020",34789,33753,1036
+"37","NC","North Carolina","Huntersville","city",NA,"March","2020",33809,32582,1227
+"37","NC","North Carolina","Huntersville","city",NA,"April","2020",30960,27554,3406
 "37","NC","North Carolina","Hyde County","county",37095,"January","2019",1846,1611,235
 "37","NC","North Carolina","Hyde County","county",37095,"February","2019",1882,1651,231
 "37","NC","North Carolina","Hyde County","county",37095,"March","2019",1810,1605,205
@@ -1119,22 +1119,22 @@
 "37","NC","North Carolina","Hyde County","county",37095,"February","2020",1814,1573,241
 "37","NC","North Carolina","Hyde County","county",37095,"March","2020",1844,1614,230
 "37","NC","North Carolina","Hyde County","county",37095,"April","2020",1803,1537,266
-"37","NC","North Carolina","Indian Trail Town","city",NA,"January","2019",21128,20267,861
-"37","NC","North Carolina","Indian Trail Town","city",NA,"February","2019",21262,20500,762
-"37","NC","North Carolina","Indian Trail Town","city",NA,"March","2019",21356,20600,756
-"37","NC","North Carolina","Indian Trail Town","city",NA,"April","2019",21257,20594,663
-"37","NC","North Carolina","Indian Trail Town","city",NA,"May","2019",21340,20644,696
-"37","NC","North Carolina","Indian Trail Town","city",NA,"June","2019",21527,20774,753
-"37","NC","North Carolina","Indian Trail Town","city",NA,"July","2019",21675,20894,781
-"37","NC","North Carolina","Indian Trail Town","city",NA,"August","2019",21515,20729,786
-"37","NC","North Carolina","Indian Trail Town","city",NA,"September","2019",21558,20910,648
-"37","NC","North Carolina","Indian Trail Town","city",NA,"October","2019",21722,21041,681
-"37","NC","North Carolina","Indian Trail Town","city",NA,"November","2019",21589,20959,630
-"37","NC","North Carolina","Indian Trail Town","city",NA,"December","2019",21511,20932,579
-"37","NC","North Carolina","Indian Trail Town","city",NA,"January","2020",21577,20853,724
-"37","NC","North Carolina","Indian Trail Town","city",NA,"February","2020",21767,21075,692
-"37","NC","North Carolina","Indian Trail Town","city",NA,"March","2020",21043,20293,750
-"37","NC","North Carolina","Indian Trail Town","city",NA,"April","2020",19409,17184,2225
+"37","NC","North Carolina","Indian Trail","city",NA,"January","2019",21128,20267,861
+"37","NC","North Carolina","Indian Trail","city",NA,"February","2019",21262,20500,762
+"37","NC","North Carolina","Indian Trail","city",NA,"March","2019",21356,20600,756
+"37","NC","North Carolina","Indian Trail","city",NA,"April","2019",21257,20594,663
+"37","NC","North Carolina","Indian Trail","city",NA,"May","2019",21340,20644,696
+"37","NC","North Carolina","Indian Trail","city",NA,"June","2019",21527,20774,753
+"37","NC","North Carolina","Indian Trail","city",NA,"July","2019",21675,20894,781
+"37","NC","North Carolina","Indian Trail","city",NA,"August","2019",21515,20729,786
+"37","NC","North Carolina","Indian Trail","city",NA,"September","2019",21558,20910,648
+"37","NC","North Carolina","Indian Trail","city",NA,"October","2019",21722,21041,681
+"37","NC","North Carolina","Indian Trail","city",NA,"November","2019",21589,20959,630
+"37","NC","North Carolina","Indian Trail","city",NA,"December","2019",21511,20932,579
+"37","NC","North Carolina","Indian Trail","city",NA,"January","2020",21577,20853,724
+"37","NC","North Carolina","Indian Trail","city",NA,"February","2020",21767,21075,692
+"37","NC","North Carolina","Indian Trail","city",NA,"March","2020",21043,20293,750
+"37","NC","North Carolina","Indian Trail","city",NA,"April","2020",19409,17184,2225
 "37","NC","North Carolina","Iredell County","county",37097,"January","2019",88637,85019,3618
 "37","NC","North Carolina","Iredell County","county",37097,"February","2019",89260,85861,3399
 "37","NC","North Carolina","Iredell County","county",37097,"March","2019",89837,86510,3327
@@ -1167,22 +1167,22 @@
 "37","NC","North Carolina","Jackson County","county",37099,"February","2020",19682,18865,817
 "37","NC","North Carolina","Jackson County","county",37099,"March","2020",20247,19337,910
 "37","NC","North Carolina","Jackson County","county",37099,"April","2020",21231,18777,2454
-"37","NC","North Carolina","Jacksonville City","city",NA,"January","2019",19609,18361,1248
-"37","NC","North Carolina","Jacksonville City","city",NA,"February","2019",19866,18660,1206
-"37","NC","North Carolina","Jacksonville City","city",NA,"March","2019",19948,18727,1221
-"37","NC","North Carolina","Jacksonville City","city",NA,"April","2019",19799,18769,1030
-"37","NC","North Carolina","Jacksonville City","city",NA,"May","2019",19935,18788,1147
-"37","NC","North Carolina","Jacksonville City","city",NA,"June","2019",19843,18623,1220
-"37","NC","North Carolina","Jacksonville City","city",NA,"July","2019",19293,18041,1252
-"37","NC","North Carolina","Jacksonville City","city",NA,"August","2019",19794,18579,1215
-"37","NC","North Carolina","Jacksonville City","city",NA,"September","2019",19700,18729,971
-"37","NC","North Carolina","Jacksonville City","city",NA,"October","2019",19900,18851,1049
-"37","NC","North Carolina","Jacksonville City","city",NA,"November","2019",19878,18903,975
-"37","NC","North Carolina","Jacksonville City","city",NA,"December","2019",19893,18960,933
-"37","NC","North Carolina","Jacksonville City","city",NA,"January","2020",19982,18852,1130
-"37","NC","North Carolina","Jacksonville City","city",NA,"February","2020",20112,19093,1019
-"37","NC","North Carolina","Jacksonville City","city",NA,"March","2020",19526,18380,1146
-"37","NC","North Carolina","Jacksonville City","city",NA,"April","2020",18586,16319,2267
+"37","NC","North Carolina","Jacksonville","city",NA,"January","2019",19609,18361,1248
+"37","NC","North Carolina","Jacksonville","city",NA,"February","2019",19866,18660,1206
+"37","NC","North Carolina","Jacksonville","city",NA,"March","2019",19948,18727,1221
+"37","NC","North Carolina","Jacksonville","city",NA,"April","2019",19799,18769,1030
+"37","NC","North Carolina","Jacksonville","city",NA,"May","2019",19935,18788,1147
+"37","NC","North Carolina","Jacksonville","city",NA,"June","2019",19843,18623,1220
+"37","NC","North Carolina","Jacksonville","city",NA,"July","2019",19293,18041,1252
+"37","NC","North Carolina","Jacksonville","city",NA,"August","2019",19794,18579,1215
+"37","NC","North Carolina","Jacksonville","city",NA,"September","2019",19700,18729,971
+"37","NC","North Carolina","Jacksonville","city",NA,"October","2019",19900,18851,1049
+"37","NC","North Carolina","Jacksonville","city",NA,"November","2019",19878,18903,975
+"37","NC","North Carolina","Jacksonville","city",NA,"December","2019",19893,18960,933
+"37","NC","North Carolina","Jacksonville","city",NA,"January","2020",19982,18852,1130
+"37","NC","North Carolina","Jacksonville","city",NA,"February","2020",20112,19093,1019
+"37","NC","North Carolina","Jacksonville","city",NA,"March","2020",19526,18380,1146
+"37","NC","North Carolina","Jacksonville","city",NA,"April","2020",18586,16319,2267
 "37","NC","North Carolina","Johnston County","county",37101,"January","2019",98498,94394,4104
 "37","NC","North Carolina","Johnston County","county",37101,"February","2019",99420,95543,3877
 "37","NC","North Carolina","Johnston County","county",37101,"March","2019",99661,95903,3758
@@ -1215,38 +1215,38 @@
 "37","NC","North Carolina","Jones County","county",37103,"February","2020",4481,4321,160
 "37","NC","North Carolina","Jones County","county",37103,"March","2020",4305,4128,177
 "37","NC","North Carolina","Jones County","county",37103,"April","2020",4083,3741,342
-"37","NC","North Carolina","Kannapolis City","city",NA,"January","2019",23568,22534,1034
-"37","NC","North Carolina","Kannapolis City","city",NA,"February","2019",23750,22751,999
-"37","NC","North Carolina","Kannapolis City","city",NA,"March","2019",23888,22933,955
-"37","NC","North Carolina","Kannapolis City","city",NA,"April","2019",23737,22902,835
-"37","NC","North Carolina","Kannapolis City","city",NA,"May","2019",23846,22949,897
-"37","NC","North Carolina","Kannapolis City","city",NA,"June","2019",24106,23101,1005
-"37","NC","North Carolina","Kannapolis City","city",NA,"July","2019",24299,23207,1092
-"37","NC","North Carolina","Kannapolis City","city",NA,"August","2019",24091,23078,1013
-"37","NC","North Carolina","Kannapolis City","city",NA,"September","2019",24116,23243,873
-"37","NC","North Carolina","Kannapolis City","city",NA,"October","2019",24289,23402,887
-"37","NC","North Carolina","Kannapolis City","city",NA,"November","2019",24113,23259,854
-"37","NC","North Carolina","Kannapolis City","city",NA,"December","2019",24035,23236,799
-"37","NC","North Carolina","Kannapolis City","city",NA,"January","2020",24152,23168,984
-"37","NC","North Carolina","Kannapolis City","city",NA,"February","2020",24253,23394,859
-"37","NC","North Carolina","Kannapolis City","city",NA,"March","2020",23577,22580,997
-"37","NC","North Carolina","Kannapolis City","city",NA,"April","2020",22253,19104,3149
-"37","NC","North Carolina","Kinston City","city",NA,"January","2019",8975,8509,466
-"37","NC","North Carolina","Kinston City","city",NA,"February","2019",9074,8622,452
-"37","NC","North Carolina","Kinston City","city",NA,"March","2019",9043,8580,463
-"37","NC","North Carolina","Kinston City","city",NA,"April","2019",9040,8634,406
-"37","NC","North Carolina","Kinston City","city",NA,"May","2019",9124,8672,452
-"37","NC","North Carolina","Kinston City","city",NA,"June","2019",9053,8586,467
-"37","NC","North Carolina","Kinston City","city",NA,"July","2019",9138,8653,485
-"37","NC","North Carolina","Kinston City","city",NA,"August","2019",8911,8432,479
-"37","NC","North Carolina","Kinston City","city",NA,"September","2019",8945,8562,383
-"37","NC","North Carolina","Kinston City","city",NA,"October","2019",8913,8526,387
-"37","NC","North Carolina","Kinston City","city",NA,"November","2019",9001,8568,433
-"37","NC","North Carolina","Kinston City","city",NA,"December","2019",9016,8622,394
-"37","NC","North Carolina","Kinston City","city",NA,"January","2020",9017,8545,472
-"37","NC","North Carolina","Kinston City","city",NA,"February","2020",9049,8629,420
-"37","NC","North Carolina","Kinston City","city",NA,"March","2020",8879,8414,465
-"37","NC","North Carolina","Kinston City","city",NA,"April","2020",8810,8106,704
+"37","NC","North Carolina","Kannapolis","city",NA,"January","2019",23568,22534,1034
+"37","NC","North Carolina","Kannapolis","city",NA,"February","2019",23750,22751,999
+"37","NC","North Carolina","Kannapolis","city",NA,"March","2019",23888,22933,955
+"37","NC","North Carolina","Kannapolis","city",NA,"April","2019",23737,22902,835
+"37","NC","North Carolina","Kannapolis","city",NA,"May","2019",23846,22949,897
+"37","NC","North Carolina","Kannapolis","city",NA,"June","2019",24106,23101,1005
+"37","NC","North Carolina","Kannapolis","city",NA,"July","2019",24299,23207,1092
+"37","NC","North Carolina","Kannapolis","city",NA,"August","2019",24091,23078,1013
+"37","NC","North Carolina","Kannapolis","city",NA,"September","2019",24116,23243,873
+"37","NC","North Carolina","Kannapolis","city",NA,"October","2019",24289,23402,887
+"37","NC","North Carolina","Kannapolis","city",NA,"November","2019",24113,23259,854
+"37","NC","North Carolina","Kannapolis","city",NA,"December","2019",24035,23236,799
+"37","NC","North Carolina","Kannapolis","city",NA,"January","2020",24152,23168,984
+"37","NC","North Carolina","Kannapolis","city",NA,"February","2020",24253,23394,859
+"37","NC","North Carolina","Kannapolis","city",NA,"March","2020",23577,22580,997
+"37","NC","North Carolina","Kannapolis","city",NA,"April","2020",22253,19104,3149
+"37","NC","North Carolina","Kinston","city",NA,"January","2019",8975,8509,466
+"37","NC","North Carolina","Kinston","city",NA,"February","2019",9074,8622,452
+"37","NC","North Carolina","Kinston","city",NA,"March","2019",9043,8580,463
+"37","NC","North Carolina","Kinston","city",NA,"April","2019",9040,8634,406
+"37","NC","North Carolina","Kinston","city",NA,"May","2019",9124,8672,452
+"37","NC","North Carolina","Kinston","city",NA,"June","2019",9053,8586,467
+"37","NC","North Carolina","Kinston","city",NA,"July","2019",9138,8653,485
+"37","NC","North Carolina","Kinston","city",NA,"August","2019",8911,8432,479
+"37","NC","North Carolina","Kinston","city",NA,"September","2019",8945,8562,383
+"37","NC","North Carolina","Kinston","city",NA,"October","2019",8913,8526,387
+"37","NC","North Carolina","Kinston","city",NA,"November","2019",9001,8568,433
+"37","NC","North Carolina","Kinston","city",NA,"December","2019",9016,8622,394
+"37","NC","North Carolina","Kinston","city",NA,"January","2020",9017,8545,472
+"37","NC","North Carolina","Kinston","city",NA,"February","2020",9049,8629,420
+"37","NC","North Carolina","Kinston","city",NA,"March","2020",8879,8414,465
+"37","NC","North Carolina","Kinston","city",NA,"April","2020",8810,8106,704
 "37","NC","North Carolina","Lee County","county",37105,"January","2019",26149,24768,1381
 "37","NC","North Carolina","Lee County","county",37105,"February","2019",26343,25065,1278
 "37","NC","North Carolina","Lee County","county",37105,"March","2019",26608,25372,1236
@@ -1343,22 +1343,22 @@
 "37","NC","North Carolina","Martin County","county",37117,"February","2020",9102,8685,417
 "37","NC","North Carolina","Martin County","county",37117,"March","2020",8996,8515,481
 "37","NC","North Carolina","Martin County","county",37117,"April","2020",8604,7881,723
-"37","NC","North Carolina","Matthews Town","city",NA,"January","2019",18089,17379,710
-"37","NC","North Carolina","Matthews Town","city",NA,"February","2019",18202,17534,668
-"37","NC","North Carolina","Matthews Town","city",NA,"March","2019",18285,17682,603
-"37","NC","North Carolina","Matthews Town","city",NA,"April","2019",18194,17662,532
-"37","NC","North Carolina","Matthews Town","city",NA,"May","2019",18287,17689,598
-"37","NC","North Carolina","Matthews Town","city",NA,"June","2019",18472,17839,633
-"37","NC","North Carolina","Matthews Town","city",NA,"July","2019",18559,17890,669
-"37","NC","North Carolina","Matthews Town","city",NA,"August","2019",18486,17832,654
-"37","NC","North Carolina","Matthews Town","city",NA,"September","2019",18486,17954,532
-"37","NC","North Carolina","Matthews Town","city",NA,"October","2019",18643,18082,561
-"37","NC","North Carolina","Matthews Town","city",NA,"November","2019",18502,17956,546
-"37","NC","North Carolina","Matthews Town","city",NA,"December","2019",18429,17916,513
-"37","NC","North Carolina","Matthews Town","city",NA,"January","2020",18482,17862,620
-"37","NC","North Carolina","Matthews Town","city",NA,"February","2020",18614,18044,570
-"37","NC","North Carolina","Matthews Town","city",NA,"March","2020",18070,17418,652
-"37","NC","North Carolina","Matthews Town","city",NA,"April","2020",16486,14731,1755
+"37","NC","North Carolina","Matthews","city",NA,"January","2019",18089,17379,710
+"37","NC","North Carolina","Matthews","city",NA,"February","2019",18202,17534,668
+"37","NC","North Carolina","Matthews","city",NA,"March","2019",18285,17682,603
+"37","NC","North Carolina","Matthews","city",NA,"April","2019",18194,17662,532
+"37","NC","North Carolina","Matthews","city",NA,"May","2019",18287,17689,598
+"37","NC","North Carolina","Matthews","city",NA,"June","2019",18472,17839,633
+"37","NC","North Carolina","Matthews","city",NA,"July","2019",18559,17890,669
+"37","NC","North Carolina","Matthews","city",NA,"August","2019",18486,17832,654
+"37","NC","North Carolina","Matthews","city",NA,"September","2019",18486,17954,532
+"37","NC","North Carolina","Matthews","city",NA,"October","2019",18643,18082,561
+"37","NC","North Carolina","Matthews","city",NA,"November","2019",18502,17956,546
+"37","NC","North Carolina","Matthews","city",NA,"December","2019",18429,17916,513
+"37","NC","North Carolina","Matthews","city",NA,"January","2020",18482,17862,620
+"37","NC","North Carolina","Matthews","city",NA,"February","2020",18614,18044,570
+"37","NC","North Carolina","Matthews","city",NA,"March","2020",18070,17418,652
+"37","NC","North Carolina","Matthews","city",NA,"April","2020",16486,14731,1755
 "37","NC","North Carolina","McDowell County","county",37111,"January","2019",20599,19718,881
 "37","NC","North Carolina","McDowell County","county",37111,"February","2019",21181,20353,828
 "37","NC","North Carolina","McDowell County","county",37111,"March","2019",21272,20466,806
@@ -1391,22 +1391,22 @@
 "37","NC","North Carolina","Mecklenburg County","county",37119,"February","2020",634601,612810,21791
 "37","NC","North Carolina","Mecklenburg County","county",37119,"March","2020",616239,591550,24689
 "37","NC","North Carolina","Mecklenburg County","county",37119,"April","2020",573840,500268,73572
-"37","NC","North Carolina","Mint Hill Town","city",NA,"January","2019",14564,13968,596
-"37","NC","North Carolina","Mint Hill Town","city",NA,"February","2019",14638,14093,545
-"37","NC","North Carolina","Mint Hill Town","city",NA,"March","2019",14755,14211,544
-"37","NC","North Carolina","Mint Hill Town","city",NA,"April","2019",14698,14195,503
-"37","NC","North Carolina","Mint Hill Town","city",NA,"May","2019",14725,14217,508
-"37","NC","North Carolina","Mint Hill Town","city",NA,"June","2019",14899,14338,561
-"37","NC","North Carolina","Mint Hill Town","city",NA,"July","2019",14940,14379,561
-"37","NC","North Carolina","Mint Hill Town","city",NA,"August","2019",14920,14332,588
-"37","NC","North Carolina","Mint Hill Town","city",NA,"September","2019",14899,14430,469
-"37","NC","North Carolina","Mint Hill Town","city",NA,"October","2019",15018,14533,485
-"37","NC","North Carolina","Mint Hill Town","city",NA,"November","2019",14890,14432,458
-"37","NC","North Carolina","Mint Hill Town","city",NA,"December","2019",14828,14399,429
-"37","NC","North Carolina","Mint Hill Town","city",NA,"January","2020",14889,14356,533
-"37","NC","North Carolina","Mint Hill Town","city",NA,"February","2020",15000,14503,497
-"37","NC","North Carolina","Mint Hill Town","city",NA,"March","2020",14600,14000,600
-"37","NC","North Carolina","Mint Hill Town","city",NA,"April","2020",13376,11839,1537
+"37","NC","North Carolina","Mint Hill","city",NA,"January","2019",14564,13968,596
+"37","NC","North Carolina","Mint Hill","city",NA,"February","2019",14638,14093,545
+"37","NC","North Carolina","Mint Hill","city",NA,"March","2019",14755,14211,544
+"37","NC","North Carolina","Mint Hill","city",NA,"April","2019",14698,14195,503
+"37","NC","North Carolina","Mint Hill","city",NA,"May","2019",14725,14217,508
+"37","NC","North Carolina","Mint Hill","city",NA,"June","2019",14899,14338,561
+"37","NC","North Carolina","Mint Hill","city",NA,"July","2019",14940,14379,561
+"37","NC","North Carolina","Mint Hill","city",NA,"August","2019",14920,14332,588
+"37","NC","North Carolina","Mint Hill","city",NA,"September","2019",14899,14430,469
+"37","NC","North Carolina","Mint Hill","city",NA,"October","2019",15018,14533,485
+"37","NC","North Carolina","Mint Hill","city",NA,"November","2019",14890,14432,458
+"37","NC","North Carolina","Mint Hill","city",NA,"December","2019",14828,14399,429
+"37","NC","North Carolina","Mint Hill","city",NA,"January","2020",14889,14356,533
+"37","NC","North Carolina","Mint Hill","city",NA,"February","2020",15000,14503,497
+"37","NC","North Carolina","Mint Hill","city",NA,"March","2020",14600,14000,600
+"37","NC","North Carolina","Mint Hill","city",NA,"April","2020",13376,11839,1537
 "37","NC","North Carolina","Mitchell County","county",37121,"January","2019",6016,5666,350
 "37","NC","North Carolina","Mitchell County","county",37121,"February","2019",6118,5801,317
 "37","NC","North Carolina","Mitchell County","county",37121,"March","2019",6123,5821,302
@@ -1423,22 +1423,22 @@
 "37","NC","North Carolina","Mitchell County","county",37121,"February","2020",6007,5708,299
 "37","NC","North Carolina","Mitchell County","county",37121,"March","2020",5927,5611,316
 "37","NC","North Carolina","Mitchell County","county",37121,"April","2020",6128,5350,778
-"37","NC","North Carolina","Monroe  City","city",NA,"January","2019",17186,16484,702
-"37","NC","North Carolina","Monroe  City","city",NA,"February","2019",17415,16673,742
-"37","NC","North Carolina","Monroe  City","city",NA,"March","2019",17453,16754,699
-"37","NC","North Carolina","Monroe  City","city",NA,"April","2019",17335,16749,586
-"37","NC","North Carolina","Monroe  City","city",NA,"May","2019",17450,16790,660
-"37","NC","North Carolina","Monroe  City","city",NA,"June","2019",17645,16896,749
-"37","NC","North Carolina","Monroe  City","city",NA,"July","2019",17758,16994,764
-"37","NC","North Carolina","Monroe  City","city",NA,"August","2019",17575,16859,716
-"37","NC","North Carolina","Monroe  City","city",NA,"September","2019",17599,17007,592
-"37","NC","North Carolina","Monroe  City","city",NA,"October","2019",17707,17113,594
-"37","NC","North Carolina","Monroe  City","city",NA,"November","2019",17610,17046,564
-"37","NC","North Carolina","Monroe  City","city",NA,"December","2019",17594,17024,570
-"37","NC","North Carolina","Monroe  City","city",NA,"January","2020",17636,16960,676
-"37","NC","North Carolina","Monroe  City","city",NA,"February","2020",17813,17140,673
-"37","NC","North Carolina","Monroe  City","city",NA,"March","2020",17286,16505,781
-"37","NC","North Carolina","Monroe  City","city",NA,"April","2020",15757,13976,1781
+"37","NC","North Carolina","Monroe ","city",NA,"January","2019",17186,16484,702
+"37","NC","North Carolina","Monroe ","city",NA,"February","2019",17415,16673,742
+"37","NC","North Carolina","Monroe ","city",NA,"March","2019",17453,16754,699
+"37","NC","North Carolina","Monroe ","city",NA,"April","2019",17335,16749,586
+"37","NC","North Carolina","Monroe ","city",NA,"May","2019",17450,16790,660
+"37","NC","North Carolina","Monroe ","city",NA,"June","2019",17645,16896,749
+"37","NC","North Carolina","Monroe ","city",NA,"July","2019",17758,16994,764
+"37","NC","North Carolina","Monroe ","city",NA,"August","2019",17575,16859,716
+"37","NC","North Carolina","Monroe ","city",NA,"September","2019",17599,17007,592
+"37","NC","North Carolina","Monroe ","city",NA,"October","2019",17707,17113,594
+"37","NC","North Carolina","Monroe ","city",NA,"November","2019",17610,17046,564
+"37","NC","North Carolina","Monroe ","city",NA,"December","2019",17594,17024,570
+"37","NC","North Carolina","Monroe ","city",NA,"January","2020",17636,16960,676
+"37","NC","North Carolina","Monroe ","city",NA,"February","2020",17813,17140,673
+"37","NC","North Carolina","Monroe ","city",NA,"March","2020",17286,16505,781
+"37","NC","North Carolina","Monroe ","city",NA,"April","2020",15757,13976,1781
 "37","NC","North Carolina","Montgomery County","county",37123,"January","2019",11486,10980,506
 "37","NC","North Carolina","Montgomery County","county",37123,"February","2019",11665,11180,485
 "37","NC","North Carolina","Montgomery County","county",37123,"March","2019",11623,11145,478
@@ -1471,22 +1471,22 @@
 "37","NC","North Carolina","Moore County","county",37125,"February","2020",43031,41489,1542
 "37","NC","North Carolina","Moore County","county",37125,"March","2020",41880,40164,1716
 "37","NC","North Carolina","Moore County","county",37125,"April","2020",40936,35721,5215
-"37","NC","North Carolina","Mooresville Town","city",NA,"January","2019",20664,19755,909
-"37","NC","North Carolina","Mooresville Town","city",NA,"February","2019",20785,19950,835
-"37","NC","North Carolina","Mooresville Town","city",NA,"March","2019",20906,20101,805
-"37","NC","North Carolina","Mooresville Town","city",NA,"April","2019",20803,20077,726
-"37","NC","North Carolina","Mooresville Town","city",NA,"May","2019",20871,20119,752
-"37","NC","North Carolina","Mooresville Town","city",NA,"June","2019",21048,20250,798
-"37","NC","North Carolina","Mooresville Town","city",NA,"July","2019",21174,20348,826
-"37","NC","North Carolina","Mooresville Town","city",NA,"August","2019",21056,20227,829
-"37","NC","North Carolina","Mooresville Town","city",NA,"September","2019",21096,20376,720
-"37","NC","North Carolina","Mooresville Town","city",NA,"October","2019",21259,20513,746
-"37","NC","North Carolina","Mooresville Town","city",NA,"November","2019",21132,20394,738
-"37","NC","North Carolina","Mooresville Town","city",NA,"December","2019",21081,20374,707
-"37","NC","North Carolina","Mooresville Town","city",NA,"January","2020",21142,20312,830
-"37","NC","North Carolina","Mooresville Town","city",NA,"February","2020",21314,20513,801
-"37","NC","North Carolina","Mooresville Town","city",NA,"March","2020",20662,19793,869
-"37","NC","North Carolina","Mooresville Town","city",NA,"April","2020",20014,16748,3266
+"37","NC","North Carolina","Mooresville","city",NA,"January","2019",20664,19755,909
+"37","NC","North Carolina","Mooresville","city",NA,"February","2019",20785,19950,835
+"37","NC","North Carolina","Mooresville","city",NA,"March","2019",20906,20101,805
+"37","NC","North Carolina","Mooresville","city",NA,"April","2019",20803,20077,726
+"37","NC","North Carolina","Mooresville","city",NA,"May","2019",20871,20119,752
+"37","NC","North Carolina","Mooresville","city",NA,"June","2019",21048,20250,798
+"37","NC","North Carolina","Mooresville","city",NA,"July","2019",21174,20348,826
+"37","NC","North Carolina","Mooresville","city",NA,"August","2019",21056,20227,829
+"37","NC","North Carolina","Mooresville","city",NA,"September","2019",21096,20376,720
+"37","NC","North Carolina","Mooresville","city",NA,"October","2019",21259,20513,746
+"37","NC","North Carolina","Mooresville","city",NA,"November","2019",21132,20394,738
+"37","NC","North Carolina","Mooresville","city",NA,"December","2019",21081,20374,707
+"37","NC","North Carolina","Mooresville","city",NA,"January","2020",21142,20312,830
+"37","NC","North Carolina","Mooresville","city",NA,"February","2020",21314,20513,801
+"37","NC","North Carolina","Mooresville","city",NA,"March","2020",20662,19793,869
+"37","NC","North Carolina","Mooresville","city",NA,"April","2020",20014,16748,3266
 "37","NC","North Carolina","Nash County","county",37127,"January","2019",44043,41691,2352
 "37","NC","North Carolina","Nash County","county",37127,"February","2019",44370,42137,2233
 "37","NC","North Carolina","Nash County","county",37127,"March","2019",43998,41882,2116
@@ -1503,22 +1503,22 @@
 "37","NC","North Carolina","Nash County","county",37127,"February","2020",43782,41824,1958
 "37","NC","North Carolina","Nash County","county",37127,"March","2020",42279,40101,2178
 "37","NC","North Carolina","Nash County","county",37127,"April","2020",40163,35222,4941
-"37","NC","North Carolina","New Bern City","city",NA,"January","2019",12625,12010,615
-"37","NC","North Carolina","New Bern City","city",NA,"February","2019",12666,12141,525
-"37","NC","North Carolina","New Bern City","city",NA,"March","2019",12716,12205,511
-"37","NC","North Carolina","New Bern City","city",NA,"April","2019",12663,12185,478
-"37","NC","North Carolina","New Bern City","city",NA,"May","2019",12724,12220,504
-"37","NC","North Carolina","New Bern City","city",NA,"June","2019",12947,12380,567
-"37","NC","North Carolina","New Bern City","city",NA,"July","2019",13010,12422,588
-"37","NC","North Carolina","New Bern City","city",NA,"August","2019",12745,12184,561
-"37","NC","North Carolina","New Bern City","city",NA,"September","2019",12782,12309,473
-"37","NC","North Carolina","New Bern City","city",NA,"October","2019",12784,12299,485
-"37","NC","North Carolina","New Bern City","city",NA,"November","2019",12719,12289,430
-"37","NC","North Carolina","New Bern City","city",NA,"December","2019",12677,12254,423
-"37","NC","North Carolina","New Bern City","city",NA,"January","2020",12699,12174,525
-"37","NC","North Carolina","New Bern City","city",NA,"February","2020",12791,12306,485
-"37","NC","North Carolina","New Bern City","city",NA,"March","2020",12397,11846,551
-"37","NC","North Carolina","New Bern City","city",NA,"April","2020",12087,10725,1362
+"37","NC","North Carolina","New Bern","city",NA,"January","2019",12625,12010,615
+"37","NC","North Carolina","New Bern","city",NA,"February","2019",12666,12141,525
+"37","NC","North Carolina","New Bern","city",NA,"March","2019",12716,12205,511
+"37","NC","North Carolina","New Bern","city",NA,"April","2019",12663,12185,478
+"37","NC","North Carolina","New Bern","city",NA,"May","2019",12724,12220,504
+"37","NC","North Carolina","New Bern","city",NA,"June","2019",12947,12380,567
+"37","NC","North Carolina","New Bern","city",NA,"July","2019",13010,12422,588
+"37","NC","North Carolina","New Bern","city",NA,"August","2019",12745,12184,561
+"37","NC","North Carolina","New Bern","city",NA,"September","2019",12782,12309,473
+"37","NC","North Carolina","New Bern","city",NA,"October","2019",12784,12299,485
+"37","NC","North Carolina","New Bern","city",NA,"November","2019",12719,12289,430
+"37","NC","North Carolina","New Bern","city",NA,"December","2019",12677,12254,423
+"37","NC","North Carolina","New Bern","city",NA,"January","2020",12699,12174,525
+"37","NC","North Carolina","New Bern","city",NA,"February","2020",12791,12306,485
+"37","NC","North Carolina","New Bern","city",NA,"March","2020",12397,11846,551
+"37","NC","North Carolina","New Bern","city",NA,"April","2020",12087,10725,1362
 "37","NC","North Carolina","New Hanover County","county",37129,"January","2019",121716,116382,5334
 "37","NC","North Carolina","New Hanover County","county",37129,"February","2019",123369,118417,4952
 "37","NC","North Carolina","New Hanover County","county",37129,"March","2019",123469,118741,4728
@@ -1712,22 +1712,22 @@
 "37","NC","North Carolina","Polk County","county",37149,"February","2020",9044,8725,319
 "37","NC","North Carolina","Polk County","county",37149,"March","2020",8779,8418,361
 "37","NC","North Carolina","Polk County","county",37149,"April","2020",8601,7695,906
-"37","NC","North Carolina","Raleigh City","city",NA,"January","2019",256867,246334,10533
-"37","NC","North Carolina","Raleigh City","city",NA,"February","2019",258588,248669,9919
-"37","NC","North Carolina","Raleigh City","city",NA,"March","2019",260102,250372,9730
-"37","NC","North Carolina","Raleigh City","city",NA,"April","2019",258481,249978,8503
-"37","NC","North Carolina","Raleigh City","city",NA,"May","2019",259886,250397,9489
-"37","NC","North Carolina","Raleigh City","city",NA,"June","2019",261465,251320,10145
-"37","NC","North Carolina","Raleigh City","city",NA,"July","2019",264532,254036,10496
-"37","NC","North Carolina","Raleigh City","city",NA,"August","2019",262162,252145,10017
-"37","NC","North Carolina","Raleigh City","city",NA,"September","2019",262164,253964,8200
-"37","NC","North Carolina","Raleigh City","city",NA,"October","2019",264297,255783,8514
-"37","NC","North Carolina","Raleigh City","city",NA,"November","2019",262052,253851,8201
-"37","NC","North Carolina","Raleigh City","city",NA,"December","2019",260153,252404,7749
-"37","NC","North Carolina","Raleigh City","city",NA,"January","2020",262186,252847,9339
-"37","NC","North Carolina","Raleigh City","city",NA,"February","2020",264981,256329,8652
-"37","NC","North Carolina","Raleigh City","city",NA,"March","2020",257633,247704,9929
-"37","NC","North Carolina","Raleigh City","city",NA,"April","2020",236986,207734,29252
+"37","NC","North Carolina","Raleigh","city",NA,"January","2019",256867,246334,10533
+"37","NC","North Carolina","Raleigh","city",NA,"February","2019",258588,248669,9919
+"37","NC","North Carolina","Raleigh","city",NA,"March","2019",260102,250372,9730
+"37","NC","North Carolina","Raleigh","city",NA,"April","2019",258481,249978,8503
+"37","NC","North Carolina","Raleigh","city",NA,"May","2019",259886,250397,9489
+"37","NC","North Carolina","Raleigh","city",NA,"June","2019",261465,251320,10145
+"37","NC","North Carolina","Raleigh","city",NA,"July","2019",264532,254036,10496
+"37","NC","North Carolina","Raleigh","city",NA,"August","2019",262162,252145,10017
+"37","NC","North Carolina","Raleigh","city",NA,"September","2019",262164,253964,8200
+"37","NC","North Carolina","Raleigh","city",NA,"October","2019",264297,255783,8514
+"37","NC","North Carolina","Raleigh","city",NA,"November","2019",262052,253851,8201
+"37","NC","North Carolina","Raleigh","city",NA,"December","2019",260153,252404,7749
+"37","NC","North Carolina","Raleigh","city",NA,"January","2020",262186,252847,9339
+"37","NC","North Carolina","Raleigh","city",NA,"February","2020",264981,256329,8652
+"37","NC","North Carolina","Raleigh","city",NA,"March","2020",257633,247704,9929
+"37","NC","North Carolina","Raleigh","city",NA,"April","2020",236986,207734,29252
 "37","NC","North Carolina","Randolph County","county",37151,"January","2019",66493,63593,2900
 "37","NC","North Carolina","Randolph County","county",37151,"February","2019",67092,64353,2739
 "37","NC","North Carolina","Randolph County","county",37151,"March","2019",67256,64646,2610
@@ -1792,22 +1792,22 @@
 "37","NC","North Carolina","Rockingham County","county",37157,"February","2020",40690,38962,1728
 "37","NC","North Carolina","Rockingham County","county",37157,"March","2020",39546,37619,1927
 "37","NC","North Carolina","Rockingham County","county",37157,"April","2020",36495,30715,5780
-"37","NC","North Carolina","Rocky Mount City","city",NA,"January","2019",23436,21761,1675
-"37","NC","North Carolina","Rocky Mount City","city",NA,"February","2019",23543,21999,1544
-"37","NC","North Carolina","Rocky Mount City","city",NA,"March","2019",23278,21864,1414
-"37","NC","North Carolina","Rocky Mount City","city",NA,"April","2019",22905,21548,1357
-"37","NC","North Carolina","Rocky Mount City","city",NA,"May","2019",23076,21593,1483
-"37","NC","North Carolina","Rocky Mount City","city",NA,"June","2019",22887,21315,1572
-"37","NC","North Carolina","Rocky Mount City","city",NA,"July","2019",23221,21536,1685
-"37","NC","North Carolina","Rocky Mount City","city",NA,"August","2019",22622,21093,1529
-"37","NC","North Carolina","Rocky Mount City","city",NA,"September","2019",22907,21558,1349
-"37","NC","North Carolina","Rocky Mount City","city",NA,"October","2019",23152,21844,1308
-"37","NC","North Carolina","Rocky Mount City","city",NA,"November","2019",23230,21921,1309
-"37","NC","North Carolina","Rocky Mount City","city",NA,"December","2019",23052,21921,1131
-"37","NC","North Carolina","Rocky Mount City","city",NA,"January","2020",23073,21686,1387
-"37","NC","North Carolina","Rocky Mount City","city",NA,"February","2020",23144,21828,1316
-"37","NC","North Carolina","Rocky Mount City","city",NA,"March","2020",22519,20930,1589
-"37","NC","North Carolina","Rocky Mount City","city",NA,"April","2020",21832,18386,3446
+"37","NC","North Carolina","Rocky Mount","city",NA,"January","2019",23436,21761,1675
+"37","NC","North Carolina","Rocky Mount","city",NA,"February","2019",23543,21999,1544
+"37","NC","North Carolina","Rocky Mount","city",NA,"March","2019",23278,21864,1414
+"37","NC","North Carolina","Rocky Mount","city",NA,"April","2019",22905,21548,1357
+"37","NC","North Carolina","Rocky Mount","city",NA,"May","2019",23076,21593,1483
+"37","NC","North Carolina","Rocky Mount","city",NA,"June","2019",22887,21315,1572
+"37","NC","North Carolina","Rocky Mount","city",NA,"July","2019",23221,21536,1685
+"37","NC","North Carolina","Rocky Mount","city",NA,"August","2019",22622,21093,1529
+"37","NC","North Carolina","Rocky Mount","city",NA,"September","2019",22907,21558,1349
+"37","NC","North Carolina","Rocky Mount","city",NA,"October","2019",23152,21844,1308
+"37","NC","North Carolina","Rocky Mount","city",NA,"November","2019",23230,21921,1309
+"37","NC","North Carolina","Rocky Mount","city",NA,"December","2019",23052,21921,1131
+"37","NC","North Carolina","Rocky Mount","city",NA,"January","2020",23073,21686,1387
+"37","NC","North Carolina","Rocky Mount","city",NA,"February","2020",23144,21828,1316
+"37","NC","North Carolina","Rocky Mount","city",NA,"March","2020",22519,20930,1589
+"37","NC","North Carolina","Rocky Mount","city",NA,"April","2020",21832,18386,3446
 "37","NC","North Carolina","Rowan County","county",37159,"January","2019",65620,62628,2992
 "37","NC","North Carolina","Rowan County","county",37159,"February","2019",66136,63317,2819
 "37","NC","North Carolina","Rowan County","county",37159,"March","2019",66398,63673,2725
@@ -1840,22 +1840,22 @@
 "37","NC","North Carolina","Rutherford County","county",37161,"February","2020",25678,24427,1251
 "37","NC","North Carolina","Rutherford County","county",37161,"March","2020",24872,23456,1416
 "37","NC","North Carolina","Rutherford County","county",37161,"April","2020",25642,22031,3611
-"37","NC","North Carolina","Salisbury City","city",NA,"January","2019",13731,12990,741
-"37","NC","North Carolina","Salisbury City","city",NA,"February","2019",13855,13132,723
-"37","NC","North Carolina","Salisbury City","city",NA,"March","2019",13878,13206,672
-"37","NC","North Carolina","Salisbury City","city",NA,"April","2019",13785,13200,585
-"37","NC","North Carolina","Salisbury City","city",NA,"May","2019",13907,13230,677
-"37","NC","North Carolina","Salisbury City","city",NA,"June","2019",14045,13317,728
-"37","NC","North Carolina","Salisbury City","city",NA,"July","2019",14107,13388,719
-"37","NC","North Carolina","Salisbury City","city",NA,"August","2019",14018,13292,726
-"37","NC","North Carolina","Salisbury City","city",NA,"September","2019",14005,13403,602
-"37","NC","North Carolina","Salisbury City","city",NA,"October","2019",14131,13489,642
-"37","NC","North Carolina","Salisbury City","city",NA,"November","2019",14147,13429,718
-"37","NC","North Carolina","Salisbury City","city",NA,"December","2019",14112,13410,702
-"37","NC","North Carolina","Salisbury City","city",NA,"January","2020",14157,13362,795
-"37","NC","North Carolina","Salisbury City","city",NA,"February","2020",14245,13502,743
-"37","NC","North Carolina","Salisbury City","city",NA,"March","2020",13806,13009,797
-"37","NC","North Carolina","Salisbury City","city",NA,"April","2020",12989,11013,1976
+"37","NC","North Carolina","Salisbury","city",NA,"January","2019",13731,12990,741
+"37","NC","North Carolina","Salisbury","city",NA,"February","2019",13855,13132,723
+"37","NC","North Carolina","Salisbury","city",NA,"March","2019",13878,13206,672
+"37","NC","North Carolina","Salisbury","city",NA,"April","2019",13785,13200,585
+"37","NC","North Carolina","Salisbury","city",NA,"May","2019",13907,13230,677
+"37","NC","North Carolina","Salisbury","city",NA,"June","2019",14045,13317,728
+"37","NC","North Carolina","Salisbury","city",NA,"July","2019",14107,13388,719
+"37","NC","North Carolina","Salisbury","city",NA,"August","2019",14018,13292,726
+"37","NC","North Carolina","Salisbury","city",NA,"September","2019",14005,13403,602
+"37","NC","North Carolina","Salisbury","city",NA,"October","2019",14131,13489,642
+"37","NC","North Carolina","Salisbury","city",NA,"November","2019",14147,13429,718
+"37","NC","North Carolina","Salisbury","city",NA,"December","2019",14112,13410,702
+"37","NC","North Carolina","Salisbury","city",NA,"January","2020",14157,13362,795
+"37","NC","North Carolina","Salisbury","city",NA,"February","2020",14245,13502,743
+"37","NC","North Carolina","Salisbury","city",NA,"March","2020",13806,13009,797
+"37","NC","North Carolina","Salisbury","city",NA,"April","2020",12989,11013,1976
 "37","NC","North Carolina","Sampson County","county",37163,"January","2019",29479,28188,1291
 "37","NC","North Carolina","Sampson County","county",37163,"February","2019",30220,28989,1231
 "37","NC","North Carolina","Sampson County","county",37163,"March","2019",29758,28581,1177
@@ -1872,22 +1872,22 @@
 "37","NC","North Carolina","Sampson County","county",37163,"February","2020",30190,29060,1130
 "37","NC","North Carolina","Sampson County","county",37163,"March","2020",29077,27824,1253
 "37","NC","North Carolina","Sampson County","county",37163,"April","2020",28538,26472,2066
-"37","NC","North Carolina","Sanford City","city",NA,"January","2019",12355,11648,707
-"37","NC","North Carolina","Sanford City","city",NA,"February","2019",12470,11788,682
-"37","NC","North Carolina","Sanford City","city",NA,"March","2019",12586,11932,654
-"37","NC","North Carolina","Sanford City","city",NA,"April","2019",12377,11799,578
-"37","NC","North Carolina","Sanford City","city",NA,"May","2019",12409,11782,627
-"37","NC","North Carolina","Sanford City","city",NA,"June","2019",12336,11699,637
-"37","NC","North Carolina","Sanford City","city",NA,"July","2019",12205,11570,635
-"37","NC","North Carolina","Sanford City","city",NA,"August","2019",12183,11581,602
-"37","NC","North Carolina","Sanford City","city",NA,"September","2019",12277,11777,500
-"37","NC","North Carolina","Sanford City","city",NA,"October","2019",12384,11865,519
-"37","NC","North Carolina","Sanford City","city",NA,"November","2019",12305,11794,511
-"37","NC","North Carolina","Sanford City","city",NA,"December","2019",12325,11821,504
-"37","NC","North Carolina","Sanford City","city",NA,"January","2020",12262,11681,581
-"37","NC","North Carolina","Sanford City","city",NA,"February","2020",12314,11777,537
-"37","NC","North Carolina","Sanford City","city",NA,"March","2020",12192,11618,574
-"37","NC","North Carolina","Sanford City","city",NA,"April","2020",12179,10476,1703
+"37","NC","North Carolina","Sanford","city",NA,"January","2019",12355,11648,707
+"37","NC","North Carolina","Sanford","city",NA,"February","2019",12470,11788,682
+"37","NC","North Carolina","Sanford","city",NA,"March","2019",12586,11932,654
+"37","NC","North Carolina","Sanford","city",NA,"April","2019",12377,11799,578
+"37","NC","North Carolina","Sanford","city",NA,"May","2019",12409,11782,627
+"37","NC","North Carolina","Sanford","city",NA,"June","2019",12336,11699,637
+"37","NC","North Carolina","Sanford","city",NA,"July","2019",12205,11570,635
+"37","NC","North Carolina","Sanford","city",NA,"August","2019",12183,11581,602
+"37","NC","North Carolina","Sanford","city",NA,"September","2019",12277,11777,500
+"37","NC","North Carolina","Sanford","city",NA,"October","2019",12384,11865,519
+"37","NC","North Carolina","Sanford","city",NA,"November","2019",12305,11794,511
+"37","NC","North Carolina","Sanford","city",NA,"December","2019",12325,11821,504
+"37","NC","North Carolina","Sanford","city",NA,"January","2020",12262,11681,581
+"37","NC","North Carolina","Sanford","city",NA,"February","2020",12314,11777,537
+"37","NC","North Carolina","Sanford","city",NA,"March","2020",12192,11618,574
+"37","NC","North Carolina","Sanford","city",NA,"April","2020",12179,10476,1703
 "37","NC","North Carolina","Scotland County","county",37165,"January","2019",11739,10833,906
 "37","NC","North Carolina","Scotland County","county",37165,"February","2019",11912,11015,897
 "37","NC","North Carolina","Scotland County","county",37165,"March","2019",11674,10908,766
@@ -1920,22 +1920,22 @@
 "37","NC","North Carolina","Stanly County","county",37167,"February","2020",30741,29613,1128
 "37","NC","North Carolina","Stanly County","county",37167,"March","2020",29893,28597,1296
 "37","NC","North Carolina","Stanly County","county",37167,"April","2020",29158,26257,2901
-"37","NC","North Carolina","Statesville City","city",NA,"January","2019",11706,11112,594
-"37","NC","North Carolina","Statesville City","city",NA,"February","2019",11756,11222,534
-"37","NC","North Carolina","Statesville City","city",NA,"March","2019",11820,11307,513
-"37","NC","North Carolina","Statesville City","city",NA,"April","2019",11733,11293,440
-"37","NC","North Carolina","Statesville City","city",NA,"May","2019",11832,11317,515
-"37","NC","North Carolina","Statesville City","city",NA,"June","2019",11927,11391,536
-"37","NC","North Carolina","Statesville City","city",NA,"July","2019",11992,11446,546
-"37","NC","North Carolina","Statesville City","city",NA,"August","2019",11914,11378,536
-"37","NC","North Carolina","Statesville City","city",NA,"September","2019",11933,11462,471
-"37","NC","North Carolina","Statesville City","city",NA,"October","2019",12011,11539,472
-"37","NC","North Carolina","Statesville City","city",NA,"November","2019",12018,11472,546
-"37","NC","North Carolina","Statesville City","city",NA,"December","2019",11981,11460,521
-"37","NC","North Carolina","Statesville City","city",NA,"January","2020",12034,11426,608
-"37","NC","North Carolina","Statesville City","city",NA,"February","2020",12082,11539,543
-"37","NC","North Carolina","Statesville City","city",NA,"March","2020",11728,11134,594
-"37","NC","North Carolina","Statesville City","city",NA,"April","2020",11323,9421,1902
+"37","NC","North Carolina","Statesville","city",NA,"January","2019",11706,11112,594
+"37","NC","North Carolina","Statesville","city",NA,"February","2019",11756,11222,534
+"37","NC","North Carolina","Statesville","city",NA,"March","2019",11820,11307,513
+"37","NC","North Carolina","Statesville","city",NA,"April","2019",11733,11293,440
+"37","NC","North Carolina","Statesville","city",NA,"May","2019",11832,11317,515
+"37","NC","North Carolina","Statesville","city",NA,"June","2019",11927,11391,536
+"37","NC","North Carolina","Statesville","city",NA,"July","2019",11992,11446,546
+"37","NC","North Carolina","Statesville","city",NA,"August","2019",11914,11378,536
+"37","NC","North Carolina","Statesville","city",NA,"September","2019",11933,11462,471
+"37","NC","North Carolina","Statesville","city",NA,"October","2019",12011,11539,472
+"37","NC","North Carolina","Statesville","city",NA,"November","2019",12018,11472,546
+"37","NC","North Carolina","Statesville","city",NA,"December","2019",11981,11460,521
+"37","NC","North Carolina","Statesville","city",NA,"January","2020",12034,11426,608
+"37","NC","North Carolina","Statesville","city",NA,"February","2020",12082,11539,543
+"37","NC","North Carolina","Statesville","city",NA,"March","2020",11728,11134,594
+"37","NC","North Carolina","Statesville","city",NA,"April","2020",11323,9421,1902
 "37","NC","North Carolina","Stokes County","county",37169,"January","2019",21768,20872,896
 "37","NC","North Carolina","Stokes County","county",37169,"February","2019",21962,21116,846
 "37","NC","North Carolina","Stokes County","county",37169,"March","2019",21955,21135,820
@@ -1984,22 +1984,22 @@
 "37","NC","North Carolina","Swain County","county",37173,"February","2020",6729,6407,322
 "37","NC","North Carolina","Swain County","county",37173,"March","2020",6893,6545,348
 "37","NC","North Carolina","Swain County","county",37173,"April","2020",7369,6284,1085
-"37","NC","North Carolina","Thomasville City","city",NA,"January","2019",12209,11614,595
-"37","NC","North Carolina","Thomasville City","city",NA,"February","2019",12314,11729,585
-"37","NC","North Carolina","Thomasville City","city",NA,"March","2019",12335,11776,559
-"37","NC","North Carolina","Thomasville City","city",NA,"April","2019",12256,11776,480
-"37","NC","North Carolina","Thomasville City","city",NA,"May","2019",12248,11768,480
-"37","NC","North Carolina","Thomasville City","city",NA,"June","2019",12276,11755,521
-"37","NC","North Carolina","Thomasville City","city",NA,"July","2019",12258,11756,502
-"37","NC","North Carolina","Thomasville City","city",NA,"August","2019",12170,11657,513
-"37","NC","North Carolina","Thomasville City","city",NA,"September","2019",12313,11848,465
-"37","NC","North Carolina","Thomasville City","city",NA,"October","2019",12428,11916,512
-"37","NC","North Carolina","Thomasville City","city",NA,"November","2019",12260,11791,469
-"37","NC","North Carolina","Thomasville City","city",NA,"December","2019",12198,11741,457
-"37","NC","North Carolina","Thomasville City","city",NA,"January","2020",12308,11730,578
-"37","NC","North Carolina","Thomasville City","city",NA,"February","2020",12390,11834,556
-"37","NC","North Carolina","Thomasville City","city",NA,"March","2020",12051,11411,640
-"37","NC","North Carolina","Thomasville City","city",NA,"April","2020",11654,9671,1983
+"37","NC","North Carolina","Thomasville","city",NA,"January","2019",12209,11614,595
+"37","NC","North Carolina","Thomasville","city",NA,"February","2019",12314,11729,585
+"37","NC","North Carolina","Thomasville","city",NA,"March","2019",12335,11776,559
+"37","NC","North Carolina","Thomasville","city",NA,"April","2019",12256,11776,480
+"37","NC","North Carolina","Thomasville","city",NA,"May","2019",12248,11768,480
+"37","NC","North Carolina","Thomasville","city",NA,"June","2019",12276,11755,521
+"37","NC","North Carolina","Thomasville","city",NA,"July","2019",12258,11756,502
+"37","NC","North Carolina","Thomasville","city",NA,"August","2019",12170,11657,513
+"37","NC","North Carolina","Thomasville","city",NA,"September","2019",12313,11848,465
+"37","NC","North Carolina","Thomasville","city",NA,"October","2019",12428,11916,512
+"37","NC","North Carolina","Thomasville","city",NA,"November","2019",12260,11791,469
+"37","NC","North Carolina","Thomasville","city",NA,"December","2019",12198,11741,457
+"37","NC","North Carolina","Thomasville","city",NA,"January","2020",12308,11730,578
+"37","NC","North Carolina","Thomasville","city",NA,"February","2020",12390,11834,556
+"37","NC","North Carolina","Thomasville","city",NA,"March","2020",12051,11411,640
+"37","NC","North Carolina","Thomasville","city",NA,"April","2020",11654,9671,1983
 "37","NC","North Carolina","Transylvania County","county",37175,"January","2019",14152,13514,638
 "37","NC","North Carolina","Transylvania County","county",37175,"February","2019",14460,13854,606
 "37","NC","North Carolina","Transylvania County","county",37175,"March","2019",14381,13794,587
@@ -2080,22 +2080,22 @@
 "37","NC","North Carolina","Wake County","county",37183,"February","2020",610600,591633,18967
 "37","NC","North Carolina","Wake County","county",37183,"March","2020",593306,571732,21574
 "37","NC","North Carolina","Wake County","county",37183,"April","2020",538607,479413,59194
-"37","NC","North Carolina","Wake Forest Town","city",NA,"January","2019",22782,21959,823
-"37","NC","North Carolina","Wake Forest Town","city",NA,"February","2019",22974,22167,807
-"37","NC","North Carolina","Wake Forest Town","city",NA,"March","2019",23127,22319,808
-"37","NC","North Carolina","Wake Forest Town","city",NA,"April","2019",23014,22283,731
-"37","NC","North Carolina","Wake Forest Town","city",NA,"May","2019",23079,22322,757
-"37","NC","North Carolina","Wake Forest Town","city",NA,"June","2019",23234,22404,830
-"37","NC","North Carolina","Wake Forest Town","city",NA,"July","2019",23479,22647,832
-"37","NC","North Carolina","Wake Forest Town","city",NA,"August","2019",23287,22476,811
-"37","NC","North Carolina","Wake Forest Town","city",NA,"September","2019",23328,22639,689
-"37","NC","North Carolina","Wake Forest Town","city",NA,"October","2019",23562,22800,762
-"37","NC","North Carolina","Wake Forest Town","city",NA,"November","2019",23360,22629,731
-"37","NC","North Carolina","Wake Forest Town","city",NA,"December","2019",23143,22501,642
-"37","NC","North Carolina","Wake Forest Town","city",NA,"January","2020",23328,22540,788
-"37","NC","North Carolina","Wake Forest Town","city",NA,"February","2020",23557,22850,707
-"37","NC","North Carolina","Wake Forest Town","city",NA,"March","2020",22879,22081,798
-"37","NC","North Carolina","Wake Forest Town","city",NA,"April","2020",20806,18516,2290
+"37","NC","North Carolina","Wake Forest","city",NA,"January","2019",22782,21959,823
+"37","NC","North Carolina","Wake Forest","city",NA,"February","2019",22974,22167,807
+"37","NC","North Carolina","Wake Forest","city",NA,"March","2019",23127,22319,808
+"37","NC","North Carolina","Wake Forest","city",NA,"April","2019",23014,22283,731
+"37","NC","North Carolina","Wake Forest","city",NA,"May","2019",23079,22322,757
+"37","NC","North Carolina","Wake Forest","city",NA,"June","2019",23234,22404,830
+"37","NC","North Carolina","Wake Forest","city",NA,"July","2019",23479,22647,832
+"37","NC","North Carolina","Wake Forest","city",NA,"August","2019",23287,22476,811
+"37","NC","North Carolina","Wake Forest","city",NA,"September","2019",23328,22639,689
+"37","NC","North Carolina","Wake Forest","city",NA,"October","2019",23562,22800,762
+"37","NC","North Carolina","Wake Forest","city",NA,"November","2019",23360,22629,731
+"37","NC","North Carolina","Wake Forest","city",NA,"December","2019",23143,22501,642
+"37","NC","North Carolina","Wake Forest","city",NA,"January","2020",23328,22540,788
+"37","NC","North Carolina","Wake Forest","city",NA,"February","2020",23557,22850,707
+"37","NC","North Carolina","Wake Forest","city",NA,"March","2020",22879,22081,798
+"37","NC","North Carolina","Wake Forest","city",NA,"April","2020",20806,18516,2290
 "37","NC","North Carolina","Warren County","county",37185,"January","2019",6479,6063,416
 "37","NC","North Carolina","Warren County","county",37185,"February","2019",6645,6258,387
 "37","NC","North Carolina","Warren County","county",37185,"March","2019",6524,6151,373
@@ -2176,38 +2176,38 @@
 "37","NC","North Carolina","Wilkes County","county",37193,"February","2020",29313,28140,1173
 "37","NC","North Carolina","Wilkes County","county",37193,"March","2020",28687,27345,1342
 "37","NC","North Carolina","Wilkes County","county",37193,"April","2020",28381,25095,3286
-"37","NC","North Carolina","Wilmington City","city",NA,"January","2019",63882,60911,2971
-"37","NC","North Carolina","Wilmington City","city",NA,"February","2019",64678,61976,2702
-"37","NC","North Carolina","Wilmington City","city",NA,"March","2019",64731,62145,2586
-"37","NC","North Carolina","Wilmington City","city",NA,"April","2019",64995,62804,2191
-"37","NC","North Carolina","Wilmington City","city",NA,"May","2019",65714,63281,2433
-"37","NC","North Carolina","Wilmington City","city",NA,"June","2019",66099,63444,2655
-"37","NC","North Carolina","Wilmington City","city",NA,"July","2019",66758,64043,2715
-"37","NC","North Carolina","Wilmington City","city",NA,"August","2019",66103,63559,2544
-"37","NC","North Carolina","Wilmington City","city",NA,"September","2019",65877,63805,2072
-"37","NC","North Carolina","Wilmington City","city",NA,"October","2019",66220,64038,2182
-"37","NC","North Carolina","Wilmington City","city",NA,"November","2019",66211,64130,2081
-"37","NC","North Carolina","Wilmington City","city",NA,"December","2019",65719,63743,1976
-"37","NC","North Carolina","Wilmington City","city",NA,"January","2020",65371,62970,2401
-"37","NC","North Carolina","Wilmington City","city",NA,"February","2020",66042,63758,2284
-"37","NC","North Carolina","Wilmington City","city",NA,"March","2020",63670,61070,2600
-"37","NC","North Carolina","Wilmington City","city",NA,"April","2020",59053,49871,9182
-"37","NC","North Carolina","Wilson City","city",NA,"January","2019",20485,19045,1440
-"37","NC","North Carolina","Wilson City","city",NA,"February","2019",20665,19319,1346
-"37","NC","North Carolina","Wilson City","city",NA,"March","2019",20597,19290,1307
-"37","NC","North Carolina","Wilson City","city",NA,"April","2019",20453,19158,1295
-"37","NC","North Carolina","Wilson City","city",NA,"May","2019",20647,19220,1427
-"37","NC","North Carolina","Wilson City","city",NA,"June","2019",20507,19010,1497
-"37","NC","North Carolina","Wilson City","city",NA,"July","2019",20729,19120,1609
-"37","NC","North Carolina","Wilson City","city",NA,"August","2019",20307,18847,1460
-"37","NC","North Carolina","Wilson City","city",NA,"September","2019",20539,19265,1274
-"37","NC","North Carolina","Wilson City","city",NA,"October","2019",20425,19232,1193
-"37","NC","North Carolina","Wilson City","city",NA,"November","2019",20377,19232,1145
-"37","NC","North Carolina","Wilson City","city",NA,"December","2019",20455,19366,1089
-"37","NC","North Carolina","Wilson City","city",NA,"January","2020",20506,19147,1359
-"37","NC","North Carolina","Wilson City","city",NA,"February","2020",20576,19332,1244
-"37","NC","North Carolina","Wilson City","city",NA,"March","2020",19928,18580,1348
-"37","NC","North Carolina","Wilson City","city",NA,"April","2020",20704,17721,2983
+"37","NC","North Carolina","Wilmington","city",NA,"January","2019",63882,60911,2971
+"37","NC","North Carolina","Wilmington","city",NA,"February","2019",64678,61976,2702
+"37","NC","North Carolina","Wilmington","city",NA,"March","2019",64731,62145,2586
+"37","NC","North Carolina","Wilmington","city",NA,"April","2019",64995,62804,2191
+"37","NC","North Carolina","Wilmington","city",NA,"May","2019",65714,63281,2433
+"37","NC","North Carolina","Wilmington","city",NA,"June","2019",66099,63444,2655
+"37","NC","North Carolina","Wilmington","city",NA,"July","2019",66758,64043,2715
+"37","NC","North Carolina","Wilmington","city",NA,"August","2019",66103,63559,2544
+"37","NC","North Carolina","Wilmington","city",NA,"September","2019",65877,63805,2072
+"37","NC","North Carolina","Wilmington","city",NA,"October","2019",66220,64038,2182
+"37","NC","North Carolina","Wilmington","city",NA,"November","2019",66211,64130,2081
+"37","NC","North Carolina","Wilmington","city",NA,"December","2019",65719,63743,1976
+"37","NC","North Carolina","Wilmington","city",NA,"January","2020",65371,62970,2401
+"37","NC","North Carolina","Wilmington","city",NA,"February","2020",66042,63758,2284
+"37","NC","North Carolina","Wilmington","city",NA,"March","2020",63670,61070,2600
+"37","NC","North Carolina","Wilmington","city",NA,"April","2020",59053,49871,9182
+"37","NC","North Carolina","Wilson","city",NA,"January","2019",20485,19045,1440
+"37","NC","North Carolina","Wilson","city",NA,"February","2019",20665,19319,1346
+"37","NC","North Carolina","Wilson","city",NA,"March","2019",20597,19290,1307
+"37","NC","North Carolina","Wilson","city",NA,"April","2019",20453,19158,1295
+"37","NC","North Carolina","Wilson","city",NA,"May","2019",20647,19220,1427
+"37","NC","North Carolina","Wilson","city",NA,"June","2019",20507,19010,1497
+"37","NC","North Carolina","Wilson","city",NA,"July","2019",20729,19120,1609
+"37","NC","North Carolina","Wilson","city",NA,"August","2019",20307,18847,1460
+"37","NC","North Carolina","Wilson","city",NA,"September","2019",20539,19265,1274
+"37","NC","North Carolina","Wilson","city",NA,"October","2019",20425,19232,1193
+"37","NC","North Carolina","Wilson","city",NA,"November","2019",20377,19232,1145
+"37","NC","North Carolina","Wilson","city",NA,"December","2019",20455,19366,1089
+"37","NC","North Carolina","Wilson","city",NA,"January","2020",20506,19147,1359
+"37","NC","North Carolina","Wilson","city",NA,"February","2020",20576,19332,1244
+"37","NC","North Carolina","Wilson","city",NA,"March","2020",19928,18580,1348
+"37","NC","North Carolina","Wilson","city",NA,"April","2020",20704,17721,2983
 "37","NC","North Carolina","Wilson County","county",37195,"January","2019",34993,32777,2216
 "37","NC","North Carolina","Wilson County","county",37195,"February","2019",35301,33250,2051
 "37","NC","North Carolina","Wilson County","county",37195,"March","2019",35166,33199,1967
@@ -2224,22 +2224,22 @@
 "37","NC","North Carolina","Wilson County","county",37195,"February","2020",35138,33272,1866
 "37","NC","North Carolina","Wilson County","county",37195,"March","2020",34068,31977,2091
 "37","NC","North Carolina","Wilson County","county",37195,"April","2020",35062,30499,4563
-"37","NC","North Carolina","Winston-Salem City","city",NA,"January","2019",119356,113858,5498
-"37","NC","North Carolina","Winston-Salem City","city",NA,"February","2019",119890,114840,5050
-"37","NC","North Carolina","Winston-Salem City","city",NA,"March","2019",120384,115519,4865
-"37","NC","North Carolina","Winston-Salem City","city",NA,"April","2019",119728,115452,4276
-"37","NC","North Carolina","Winston-Salem City","city",NA,"May","2019",120163,115334,4829
-"37","NC","North Carolina","Winston-Salem City","city",NA,"June","2019",120549,115293,5256
-"37","NC","North Carolina","Winston-Salem City","city",NA,"July","2019",120634,115153,5481
-"37","NC","North Carolina","Winston-Salem City","city",NA,"August","2019",119612,114409,5203
-"37","NC","North Carolina","Winston-Salem City","city",NA,"September","2019",120412,116179,4233
-"37","NC","North Carolina","Winston-Salem City","city",NA,"October","2019",121200,116880,4320
-"37","NC","North Carolina","Winston-Salem City","city",NA,"November","2019",119707,115454,4253
-"37","NC","North Carolina","Winston-Salem City","city",NA,"December","2019",118986,114945,4041
-"37","NC","North Carolina","Winston-Salem City","city",NA,"January","2020",119909,114915,4994
-"37","NC","North Carolina","Winston-Salem City","city",NA,"February","2020",120367,115881,4486
-"37","NC","North Carolina","Winston-Salem City","city",NA,"March","2020",116966,111904,5062
-"37","NC","North Carolina","Winston-Salem City","city",NA,"April","2020",108681,94815,13866
+"37","NC","North Carolina","Winston-Salem","city",NA,"January","2019",119356,113858,5498
+"37","NC","North Carolina","Winston-Salem","city",NA,"February","2019",119890,114840,5050
+"37","NC","North Carolina","Winston-Salem","city",NA,"March","2019",120384,115519,4865
+"37","NC","North Carolina","Winston-Salem","city",NA,"April","2019",119728,115452,4276
+"37","NC","North Carolina","Winston-Salem","city",NA,"May","2019",120163,115334,4829
+"37","NC","North Carolina","Winston-Salem","city",NA,"June","2019",120549,115293,5256
+"37","NC","North Carolina","Winston-Salem","city",NA,"July","2019",120634,115153,5481
+"37","NC","North Carolina","Winston-Salem","city",NA,"August","2019",119612,114409,5203
+"37","NC","North Carolina","Winston-Salem","city",NA,"September","2019",120412,116179,4233
+"37","NC","North Carolina","Winston-Salem","city",NA,"October","2019",121200,116880,4320
+"37","NC","North Carolina","Winston-Salem","city",NA,"November","2019",119707,115454,4253
+"37","NC","North Carolina","Winston-Salem","city",NA,"December","2019",118986,114945,4041
+"37","NC","North Carolina","Winston-Salem","city",NA,"January","2020",119909,114915,4994
+"37","NC","North Carolina","Winston-Salem","city",NA,"February","2020",120367,115881,4486
+"37","NC","North Carolina","Winston-Salem","city",NA,"March","2020",116966,111904,5062
+"37","NC","North Carolina","Winston-Salem","city",NA,"April","2020",108681,94815,13866
 "37","NC","North Carolina","Yadkin County","county",37197,"January","2019",17812,17113,699
 "37","NC","North Carolina","Yadkin County","county",37197,"February","2019",17993,17333,660
 "37","NC","North Carolina","Yadkin County","county",37197,"March","2019",17995,17360,635

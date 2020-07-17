@@ -7,38 +7,38 @@
 "34","NJ","New Jersey","Atlantic City city","city",NA,"February",2020,14700,13500,1200
 "34","NJ","New Jersey","Atlantic City city","city",NA,"March",2020,14700,13500,1200
 "34","NJ","New Jersey","Atlantic City city","city",NA,"April",2020,17200,9800,7400
-"34","NJ","New Jersey","Egg Harbor township","city",NA,"January",2020,20100,18900,1200
-"34","NJ","New Jersey","Egg Harbor township","city",NA,"February",2020,20400,19200,1200
-"34","NJ","New Jersey","Egg Harbor township","city",NA,"March",2020,20200,19200,1000
-"34","NJ","New Jersey","Egg Harbor township","city",NA,"April",2020,21500,13900,7600
-"34","NJ","New Jersey","Galloway township","city",NA,"January",2020,16800,15900,900
-"34","NJ","New Jersey","Galloway township","city",NA,"February",2020,17000,16100,900
-"34","NJ","New Jersey","Galloway township","city",NA,"March",2020,16800,16100,800
-"34","NJ","New Jersey","Galloway township","city",NA,"April",2020,17300,11700,5600
+"34","NJ","New Jersey","Egg Harbor town","city",NA,"January",2020,20100,18900,1200
+"34","NJ","New Jersey","Egg Harbor town","city",NA,"February",2020,20400,19200,1200
+"34","NJ","New Jersey","Egg Harbor town","city",NA,"March",2020,20200,19200,1000
+"34","NJ","New Jersey","Egg Harbor town","city",NA,"April",2020,21500,13900,7600
+"34","NJ","New Jersey","Galloway town","city",NA,"January",2020,16800,15900,900
+"34","NJ","New Jersey","Galloway town","city",NA,"February",2020,17000,16100,900
+"34","NJ","New Jersey","Galloway town","city",NA,"March",2020,16800,16100,800
+"34","NJ","New Jersey","Galloway town","city",NA,"April",2020,17300,11700,5600
 "34","NJ","New Jersey","Bergen County","county",34003,"January",2020,490100,473000,17200
 "34","NJ","New Jersey","Bergen County","county",34003,"February",2020,494000,477300,16700
 "34","NJ","New Jersey","Bergen County","county",34003,"March",2020,494800,480000,14800
 "34","NJ","New Jersey","Bergen County","county",34003,"April",2020,476900,402400,74400
-"34","NJ","New Jersey","Bergenfield borough","city",NA,"January",2020,15000,14500,500
-"34","NJ","New Jersey","Bergenfield borough","city",NA,"February",2020,15100,14700,500
-"34","NJ","New Jersey","Bergenfield borough","city",NA,"March",2020,15200,14700,400
-"34","NJ","New Jersey","Bergenfield borough","city",NA,"April",2020,14400,12400,2100
-"34","NJ","New Jersey","Cliffside Park borough","city",NA,"January",2020,13500,13100,400
-"34","NJ","New Jersey","Cliffside Park borough","city",NA,"February",2020,13600,13200,400
-"34","NJ","New Jersey","Cliffside Park borough","city",NA,"March",2020,13600,13300,400
-"34","NJ","New Jersey","Cliffside Park borough","city",NA,"April",2020,13000,11100,1900
+"34","NJ","New Jersey","Bergenfield","city",NA,"January",2020,15000,14500,500
+"34","NJ","New Jersey","Bergenfield","city",NA,"February",2020,15100,14700,500
+"34","NJ","New Jersey","Bergenfield","city",NA,"March",2020,15200,14700,400
+"34","NJ","New Jersey","Bergenfield","city",NA,"April",2020,14400,12400,2100
+"34","NJ","New Jersey","Cliffside Park","city",NA,"January",2020,13500,13100,400
+"34","NJ","New Jersey","Cliffside Park","city",NA,"February",2020,13600,13200,400
+"34","NJ","New Jersey","Cliffside Park","city",NA,"March",2020,13600,13300,400
+"34","NJ","New Jersey","Cliffside Park","city",NA,"April",2020,13000,11100,1900
 "34","NJ","New Jersey","Englewood city","city",NA,"January",2020,15400,14800,600
 "34","NJ","New Jersey","Englewood city","city",NA,"February",2020,15500,14900,600
 "34","NJ","New Jersey","Englewood city","city",NA,"March",2020,15500,15000,500
 "34","NJ","New Jersey","Englewood city","city",NA,"April",2020,14800,12600,2200
-"34","NJ","New Jersey","Fair Lawn borough","city",NA,"January",2020,18400,17800,600
-"34","NJ","New Jersey","Fair Lawn borough","city",NA,"February",2020,18500,17900,600
-"34","NJ","New Jersey","Fair Lawn borough","city",NA,"March",2020,18600,18000,500
-"34","NJ","New Jersey","Fair Lawn borough","city",NA,"April",2020,17800,15100,2700
-"34","NJ","New Jersey","Fort Lee borough","city",NA,"January",2020,20000,19400,600
-"34","NJ","New Jersey","Fort Lee borough","city",NA,"February",2020,20200,19600,600
-"34","NJ","New Jersey","Fort Lee borough","city",NA,"March",2020,20200,19700,500
-"34","NJ","New Jersey","Fort Lee borough","city",NA,"April",2020,19100,16500,2600
+"34","NJ","New Jersey","Fair Lawn","city",NA,"January",2020,18400,17800,600
+"34","NJ","New Jersey","Fair Lawn","city",NA,"February",2020,18500,17900,600
+"34","NJ","New Jersey","Fair Lawn","city",NA,"March",2020,18600,18000,500
+"34","NJ","New Jersey","Fair Lawn","city",NA,"April",2020,17800,15100,2700
+"34","NJ","New Jersey","Fort Lee","city",NA,"January",2020,20000,19400,600
+"34","NJ","New Jersey","Fort Lee","city",NA,"February",2020,20200,19600,600
+"34","NJ","New Jersey","Fort Lee","city",NA,"March",2020,20200,19700,500
+"34","NJ","New Jersey","Fort Lee","city",NA,"April",2020,19100,16500,2600
 "34","NJ","New Jersey","Garfield city","city",NA,"January",2020,16300,15300,1000
 "34","NJ","New Jersey","Garfield city","city",NA,"February",2020,16400,15500,900
 "34","NJ","New Jersey","Garfield city","city",NA,"March",2020,16400,15600,900
@@ -47,42 +47,42 @@
 "34","NJ","New Jersey","Hackensack city","city",NA,"February",2020,24800,23700,1100
 "34","NJ","New Jersey","Hackensack city","city",NA,"March",2020,24900,23900,1000
 "34","NJ","New Jersey","Hackensack city","city",NA,"April",2020,24300,20000,4300
-"34","NJ","New Jersey","Mahwah township","city",NA,"January",2020,14600,14200,400
-"34","NJ","New Jersey","Mahwah township","city",NA,"February",2020,14700,14300,400
-"34","NJ","New Jersey","Mahwah township","city",NA,"March",2020,14800,14400,400
-"34","NJ","New Jersey","Mahwah township","city",NA,"April",2020,13800,12100,1800
-"34","NJ","New Jersey","Paramus borough","city",NA,"January",2020,12800,12400,400
-"34","NJ","New Jersey","Paramus borough","city",NA,"February",2020,13000,12600,400
-"34","NJ","New Jersey","Paramus borough","city",NA,"March",2020,13000,12600,400
-"34","NJ","New Jersey","Paramus borough","city",NA,"April",2020,12500,10600,1900
+"34","NJ","New Jersey","Mahwah town","city",NA,"January",2020,14600,14200,400
+"34","NJ","New Jersey","Mahwah town","city",NA,"February",2020,14700,14300,400
+"34","NJ","New Jersey","Mahwah town","city",NA,"March",2020,14800,14400,400
+"34","NJ","New Jersey","Mahwah town","city",NA,"April",2020,13800,12100,1800
+"34","NJ","New Jersey","Paramus","city",NA,"January",2020,12800,12400,400
+"34","NJ","New Jersey","Paramus","city",NA,"February",2020,13000,12600,400
+"34","NJ","New Jersey","Paramus","city",NA,"March",2020,13000,12600,400
+"34","NJ","New Jersey","Paramus","city",NA,"April",2020,12500,10600,1900
 "34","NJ","New Jersey","Ridgewood village","city",NA,"January",2020,12000,11700,300
 "34","NJ","New Jersey","Ridgewood village","city",NA,"February",2020,12100,11800,300
 "34","NJ","New Jersey","Ridgewood village","city",NA,"March",2020,12100,11900,200
 "34","NJ","New Jersey","Ridgewood village","city",NA,"April",2020,10900,9900,1000
-"34","NJ","New Jersey","Teaneck township","city",NA,"January",2020,20500,19800,700
-"34","NJ","New Jersey","Teaneck township","city",NA,"February",2020,20600,19900,700
-"34","NJ","New Jersey","Teaneck township","city",NA,"March",2020,20600,20000,600
-"34","NJ","New Jersey","Teaneck township","city",NA,"April",2020,19200,16800,2400
+"34","NJ","New Jersey","Teaneck town","city",NA,"January",2020,20500,19800,700
+"34","NJ","New Jersey","Teaneck town","city",NA,"February",2020,20600,19900,700
+"34","NJ","New Jersey","Teaneck town","city",NA,"March",2020,20600,20000,600
+"34","NJ","New Jersey","Teaneck town","city",NA,"April",2020,19200,16800,2400
 "34","NJ","New Jersey","Burlington County","county",34005,"January",2020,233400,224400,9000
 "34","NJ","New Jersey","Burlington County","county",34005,"February",2020,235300,226500,8800
 "34","NJ","New Jersey","Burlington County","county",34005,"March",2020,236900,229300,7600
 "34","NJ","New Jersey","Burlington County","county",34005,"April",2020,230000,199700,30300
-"34","NJ","New Jersey","Evesham township","city",NA,"January",2020,26100,25400,800
-"34","NJ","New Jersey","Evesham township","city",NA,"February",2020,26300,25600,700
-"34","NJ","New Jersey","Evesham township","city",NA,"March",2020,26500,25900,600
-"34","NJ","New Jersey","Evesham township","city",NA,"April",2020,25900,22600,3300
-"34","NJ","New Jersey","Mount Laurel township","city",NA,"January",2020,22600,22000,700
-"34","NJ","New Jersey","Mount Laurel township","city",NA,"February",2020,22800,22200,700
-"34","NJ","New Jersey","Mount Laurel township","city",NA,"March",2020,23000,22400,600
-"34","NJ","New Jersey","Mount Laurel township","city",NA,"April",2020,22300,19500,2800
-"34","NJ","New Jersey","Pemberton township","city",NA,"January",2020,12000,11300,700
-"34","NJ","New Jersey","Pemberton township","city",NA,"February",2020,12100,11400,700
-"34","NJ","New Jersey","Pemberton township","city",NA,"March",2020,12100,11500,600
-"34","NJ","New Jersey","Pemberton township","city",NA,"April",2020,11900,10000,1800
-"34","NJ","New Jersey","Willingboro township","city",NA,"January",2020,15800,15000,800
-"34","NJ","New Jersey","Willingboro township","city",NA,"February",2020,15900,15100,800
-"34","NJ","New Jersey","Willingboro township","city",NA,"March",2020,16000,15300,700
-"34","NJ","New Jersey","Willingboro township","city",NA,"April",2020,15500,13300,2100
+"34","NJ","New Jersey","Evesham town","city",NA,"January",2020,26100,25400,800
+"34","NJ","New Jersey","Evesham town","city",NA,"February",2020,26300,25600,700
+"34","NJ","New Jersey","Evesham town","city",NA,"March",2020,26500,25900,600
+"34","NJ","New Jersey","Evesham town","city",NA,"April",2020,25900,22600,3300
+"34","NJ","New Jersey","Mount Laurel town","city",NA,"January",2020,22600,22000,700
+"34","NJ","New Jersey","Mount Laurel town","city",NA,"February",2020,22800,22200,700
+"34","NJ","New Jersey","Mount Laurel town","city",NA,"March",2020,23000,22400,600
+"34","NJ","New Jersey","Mount Laurel town","city",NA,"April",2020,22300,19500,2800
+"34","NJ","New Jersey","Pemberton town","city",NA,"January",2020,12000,11300,700
+"34","NJ","New Jersey","Pemberton town","city",NA,"February",2020,12100,11400,700
+"34","NJ","New Jersey","Pemberton town","city",NA,"March",2020,12100,11500,600
+"34","NJ","New Jersey","Pemberton town","city",NA,"April",2020,11900,10000,1800
+"34","NJ","New Jersey","Willingboro town","city",NA,"January",2020,15800,15000,800
+"34","NJ","New Jersey","Willingboro town","city",NA,"February",2020,15900,15100,800
+"34","NJ","New Jersey","Willingboro town","city",NA,"March",2020,16000,15300,700
+"34","NJ","New Jersey","Willingboro town","city",NA,"April",2020,15500,13300,2100
 "34","NJ","New Jersey","Camden County","county",34007,"January",2020,257100,244700,12400
 "34","NJ","New Jersey","Camden County","county",34007,"February",2020,258600,246800,11800
 "34","NJ","New Jersey","Camden County","county",34007,"March",2020,260300,249900,10300
@@ -91,26 +91,26 @@
 "34","NJ","New Jersey","Camden city","city",NA,"February",2020,26100,23900,2200
 "34","NJ","New Jersey","Camden city","city",NA,"March",2020,26200,24200,2000
 "34","NJ","New Jersey","Camden city","city",NA,"April",2020,26200,21000,5200
-"34","NJ","New Jersey","Cherry Hill township","city",NA,"January",2020,37600,36500,1100
-"34","NJ","New Jersey","Cherry Hill township","city",NA,"February",2020,37800,36800,1000
-"34","NJ","New Jersey","Cherry Hill township","city",NA,"March",2020,38200,37300,900
-"34","NJ","New Jersey","Cherry Hill township","city",NA,"April",2020,37100,32400,4700
-"34","NJ","New Jersey","Gloucester township","city",NA,"January",2020,35700,34100,1600
-"34","NJ","New Jersey","Gloucester township","city",NA,"February",2020,35800,34400,1500
-"34","NJ","New Jersey","Gloucester township","city",NA,"March",2020,36100,34800,1300
-"34","NJ","New Jersey","Gloucester township","city",NA,"April",2020,36200,30300,6000
-"34","NJ","New Jersey","Pennsauken township","city",NA,"January",2020,18800,17900,900
-"34","NJ","New Jersey","Pennsauken township","city",NA,"February",2020,18900,18100,800
-"34","NJ","New Jersey","Pennsauken township","city",NA,"March",2020,19000,18300,700
-"34","NJ","New Jersey","Pennsauken township","city",NA,"April",2020,19000,15900,3100
-"34","NJ","New Jersey","Voorhees township","city",NA,"January",2020,15000,14500,500
-"34","NJ","New Jersey","Voorhees township","city",NA,"February",2020,15100,14600,500
-"34","NJ","New Jersey","Voorhees township","city",NA,"March",2020,15200,14800,400
-"34","NJ","New Jersey","Voorhees township","city",NA,"April",2020,14600,12900,1700
-"34","NJ","New Jersey","Winslow township","city",NA,"January",2020,19900,18800,1100
-"34","NJ","New Jersey","Winslow township","city",NA,"February",2020,20000,19000,1100
-"34","NJ","New Jersey","Winslow township","city",NA,"March",2020,20200,19200,900
-"34","NJ","New Jersey","Winslow township","city",NA,"April",2020,20100,16700,3300
+"34","NJ","New Jersey","Cherry Hill town","city",NA,"January",2020,37600,36500,1100
+"34","NJ","New Jersey","Cherry Hill town","city",NA,"February",2020,37800,36800,1000
+"34","NJ","New Jersey","Cherry Hill town","city",NA,"March",2020,38200,37300,900
+"34","NJ","New Jersey","Cherry Hill town","city",NA,"April",2020,37100,32400,4700
+"34","NJ","New Jersey","Gloucester town","city",NA,"January",2020,35700,34100,1600
+"34","NJ","New Jersey","Gloucester town","city",NA,"February",2020,35800,34400,1500
+"34","NJ","New Jersey","Gloucester town","city",NA,"March",2020,36100,34800,1300
+"34","NJ","New Jersey","Gloucester town","city",NA,"April",2020,36200,30300,6000
+"34","NJ","New Jersey","Pennsauken town","city",NA,"January",2020,18800,17900,900
+"34","NJ","New Jersey","Pennsauken town","city",NA,"February",2020,18900,18100,800
+"34","NJ","New Jersey","Pennsauken town","city",NA,"March",2020,19000,18300,700
+"34","NJ","New Jersey","Pennsauken town","city",NA,"April",2020,19000,15900,3100
+"34","NJ","New Jersey","Voorhees town","city",NA,"January",2020,15000,14500,500
+"34","NJ","New Jersey","Voorhees town","city",NA,"February",2020,15100,14600,500
+"34","NJ","New Jersey","Voorhees town","city",NA,"March",2020,15200,14800,400
+"34","NJ","New Jersey","Voorhees town","city",NA,"April",2020,14600,12900,1700
+"34","NJ","New Jersey","Winslow town","city",NA,"January",2020,19900,18800,1100
+"34","NJ","New Jersey","Winslow town","city",NA,"February",2020,20000,19000,1100
+"34","NJ","New Jersey","Winslow town","city",NA,"March",2020,20200,19200,900
+"34","NJ","New Jersey","Winslow town","city",NA,"April",2020,20100,16700,3300
 "34","NJ","New Jersey","Cape May County","county",34009,"January",2020,41700,36000,5700
 "34","NJ","New Jersey","Cape May County","county",34009,"February",2020,41900,36800,5100
 "34","NJ","New Jersey","Cape May County","county",34009,"March",2020,41400,36900,4500
@@ -135,66 +135,66 @@
 "34","NJ","New Jersey","Essex County","county",34013,"February",2020,375800,357000,18800
 "34","NJ","New Jersey","Essex County","county",34013,"March",2020,373800,356600,17200
 "34","NJ","New Jersey","Essex County","county",34013,"April",2020,365600,304300,61300
-"34","NJ","New Jersey","Belleville township","city",NA,"January",2020,19600,18700,1000
-"34","NJ","New Jersey","Belleville township","city",NA,"February",2020,19700,18700,1000
-"34","NJ","New Jersey","Belleville township","city",NA,"March",2020,19500,18700,800
-"34","NJ","New Jersey","Belleville township","city",NA,"April",2020,20000,16000,4000
-"34","NJ","New Jersey","Bloomfield township","city",NA,"January",2020,27300,26200,1100
-"34","NJ","New Jersey","Bloomfield township","city",NA,"February",2020,27400,26200,1200
-"34","NJ","New Jersey","Bloomfield township","city",NA,"March",2020,27200,26200,1000
-"34","NJ","New Jersey","Bloomfield township","city",NA,"April",2020,27000,22400,4700
-"34","NJ","New Jersey","City of Orange township","city",NA,"January",2020,14300,13300,1000
-"34","NJ","New Jersey","City of Orange township","city",NA,"February",2020,14200,13300,900
-"34","NJ","New Jersey","City of Orange township","city",NA,"March",2020,14200,13300,900
-"34","NJ","New Jersey","City of Orange township","city",NA,"April",2020,14000,11300,2600
+"34","NJ","New Jersey","Belleville town","city",NA,"January",2020,19600,18700,1000
+"34","NJ","New Jersey","Belleville town","city",NA,"February",2020,19700,18700,1000
+"34","NJ","New Jersey","Belleville town","city",NA,"March",2020,19500,18700,800
+"34","NJ","New Jersey","Belleville town","city",NA,"April",2020,20000,16000,4000
+"34","NJ","New Jersey","Bloomfield town","city",NA,"January",2020,27300,26200,1100
+"34","NJ","New Jersey","Bloomfield town","city",NA,"February",2020,27400,26200,1200
+"34","NJ","New Jersey","Bloomfield town","city",NA,"March",2020,27200,26200,1000
+"34","NJ","New Jersey","Bloomfield town","city",NA,"April",2020,27000,22400,4700
+"34","NJ","New Jersey","City of Orange town","city",NA,"January",2020,14300,13300,1000
+"34","NJ","New Jersey","City of Orange town","city",NA,"February",2020,14200,13300,900
+"34","NJ","New Jersey","City of Orange town","city",NA,"March",2020,14200,13300,900
+"34","NJ","New Jersey","City of Orange town","city",NA,"April",2020,14000,11300,2600
 "34","NJ","New Jersey","East Orange city","city",NA,"January",2020,29800,27800,2100
 "34","NJ","New Jersey","East Orange city","city",NA,"February",2020,29800,27900,1900
 "34","NJ","New Jersey","East Orange city","city",NA,"March",2020,29700,27800,1900
 "34","NJ","New Jersey","East Orange city","city",NA,"April",2020,29400,23800,5700
-"34","NJ","New Jersey","Irvington township","city",NA,"January",2020,25100,23400,1600
-"34","NJ","New Jersey","Irvington township","city",NA,"February",2020,25000,23500,1500
-"34","NJ","New Jersey","Irvington township","city",NA,"March",2020,25000,23500,1500
-"34","NJ","New Jersey","Irvington township","city",NA,"April",2020,24700,20000,4700
-"34","NJ","New Jersey","Livingston township","city",NA,"January",2020,14500,14000,400
-"34","NJ","New Jersey","Livingston township","city",NA,"February",2020,14500,14100,400
-"34","NJ","New Jersey","Livingston township","city",NA,"March",2020,14400,14100,300
-"34","NJ","New Jersey","Livingston township","city",NA,"April",2020,13500,12000,1500
-"34","NJ","New Jersey","Maplewood township","city",NA,"January",2020,12800,12400,400
-"34","NJ","New Jersey","Maplewood township","city",NA,"February",2020,12800,12500,400
-"34","NJ","New Jersey","Maplewood township","city",NA,"March",2020,12800,12400,300
-"34","NJ","New Jersey","Maplewood township","city",NA,"April",2020,11800,10600,1200
-"34","NJ","New Jersey","Montclair township","city",NA,"January",2020,20000,19400,600
-"34","NJ","New Jersey","Montclair township","city",NA,"February",2020,20000,19500,600
-"34","NJ","New Jersey","Montclair township","city",NA,"March",2020,19900,19400,500
-"34","NJ","New Jersey","Montclair township","city",NA,"April",2020,18600,16600,2000
+"34","NJ","New Jersey","Irvington town","city",NA,"January",2020,25100,23400,1600
+"34","NJ","New Jersey","Irvington town","city",NA,"February",2020,25000,23500,1500
+"34","NJ","New Jersey","Irvington town","city",NA,"March",2020,25000,23500,1500
+"34","NJ","New Jersey","Irvington town","city",NA,"April",2020,24700,20000,4700
+"34","NJ","New Jersey","Livingston town","city",NA,"January",2020,14500,14000,400
+"34","NJ","New Jersey","Livingston town","city",NA,"February",2020,14500,14100,400
+"34","NJ","New Jersey","Livingston town","city",NA,"March",2020,14400,14100,300
+"34","NJ","New Jersey","Livingston town","city",NA,"April",2020,13500,12000,1500
+"34","NJ","New Jersey","Maplewood town","city",NA,"January",2020,12800,12400,400
+"34","NJ","New Jersey","Maplewood town","city",NA,"February",2020,12800,12500,400
+"34","NJ","New Jersey","Maplewood town","city",NA,"March",2020,12800,12400,300
+"34","NJ","New Jersey","Maplewood town","city",NA,"April",2020,11800,10600,1200
+"34","NJ","New Jersey","Montclair town","city",NA,"January",2020,20000,19400,600
+"34","NJ","New Jersey","Montclair town","city",NA,"February",2020,20000,19500,600
+"34","NJ","New Jersey","Montclair town","city",NA,"March",2020,19900,19400,500
+"34","NJ","New Jersey","Montclair town","city",NA,"April",2020,18600,16600,2000
 "34","NJ","New Jersey","Newark city","city",NA,"January",2020,118100,109700,8400
 "34","NJ","New Jersey","Newark city","city",NA,"February",2020,118000,110100,7900
 "34","NJ","New Jersey","Newark city","city",NA,"March",2020,117300,109900,7300
 "34","NJ","New Jersey","Newark city","city",NA,"April",2020,116700,93800,22900
-"34","NJ","New Jersey","Nutley township","city",NA,"January",2020,14900,14300,500
-"34","NJ","New Jersey","Nutley township","city",NA,"February",2020,14900,14400,600
-"34","NJ","New Jersey","Nutley township","city",NA,"March",2020,14900,14400,500
-"34","NJ","New Jersey","Nutley township","city",NA,"April",2020,14800,12300,2500
-"34","NJ","New Jersey","West Orange township","city",NA,"January",2020,24100,23100,1000
-"34","NJ","New Jersey","West Orange township","city",NA,"February",2020,24100,23200,900
-"34","NJ","New Jersey","West Orange township","city",NA,"March",2020,24000,23200,800
-"34","NJ","New Jersey","West Orange township","city",NA,"April",2020,23000,19800,3200
+"34","NJ","New Jersey","Nutley town","city",NA,"January",2020,14900,14300,500
+"34","NJ","New Jersey","Nutley town","city",NA,"February",2020,14900,14400,600
+"34","NJ","New Jersey","Nutley town","city",NA,"March",2020,14900,14400,500
+"34","NJ","New Jersey","Nutley town","city",NA,"April",2020,14800,12300,2500
+"34","NJ","New Jersey","West Orange town","city",NA,"January",2020,24100,23100,1000
+"34","NJ","New Jersey","West Orange town","city",NA,"February",2020,24100,23200,900
+"34","NJ","New Jersey","West Orange town","city",NA,"March",2020,24000,23200,800
+"34","NJ","New Jersey","West Orange town","city",NA,"April",2020,23000,19800,3200
 "34","NJ","New Jersey","Gloucester County","county",34015,"January",2020,152200,145300,7000
 "34","NJ","New Jersey","Gloucester County","county",34015,"February",2020,153200,146500,6600
 "34","NJ","New Jersey","Gloucester County","county",34015,"March",2020,154100,148400,5700
 "34","NJ","New Jersey","Gloucester County","county",34015,"April",2020,152800,129100,23700
-"34","NJ","New Jersey","Deptford township","city",NA,"January",2020,15800,15000,800
-"34","NJ","New Jersey","Deptford township","city",NA,"February",2020,16000,15200,800
-"34","NJ","New Jersey","Deptford township","city",NA,"March",2020,16100,15400,700
-"34","NJ","New Jersey","Deptford township","city",NA,"April",2020,16200,13400,2800
-"34","NJ","New Jersey","Monroe township","city",NA,"January",2020,37000,35400,1600
-"34","NJ","New Jersey","Monroe township","city",NA,"February",2020,37300,35600,1600
-"34","NJ","New Jersey","Monroe township","city",NA,"March",2020,37100,35700,1400
-"34","NJ","New Jersey","Monroe township","city",NA,"April",2020,36800,30700,6000
-"34","NJ","New Jersey","Washington township","city",NA,"January",2020,25500,24500,1000
-"34","NJ","New Jersey","Washington township","city",NA,"February",2020,25600,24700,900
-"34","NJ","New Jersey","Washington township","city",NA,"March",2020,25800,25000,800
-"34","NJ","New Jersey","Washington township","city",NA,"April",2020,25700,21700,3900
+"34","NJ","New Jersey","Deptford town","city",NA,"January",2020,15800,15000,800
+"34","NJ","New Jersey","Deptford town","city",NA,"February",2020,16000,15200,800
+"34","NJ","New Jersey","Deptford town","city",NA,"March",2020,16100,15400,700
+"34","NJ","New Jersey","Deptford town","city",NA,"April",2020,16200,13400,2800
+"34","NJ","New Jersey","Monroe town","city",NA,"January",2020,37000,35400,1600
+"34","NJ","New Jersey","Monroe town","city",NA,"February",2020,37300,35600,1600
+"34","NJ","New Jersey","Monroe town","city",NA,"March",2020,37100,35700,1400
+"34","NJ","New Jersey","Monroe town","city",NA,"April",2020,36800,30700,6000
+"34","NJ","New Jersey","Washington town","city",NA,"January",2020,25500,24500,1000
+"34","NJ","New Jersey","Washington town","city",NA,"February",2020,25600,24700,900
+"34","NJ","New Jersey","Washington town","city",NA,"March",2020,25800,25000,800
+"34","NJ","New Jersey","Washington town","city",NA,"April",2020,25700,21700,3900
 "34","NJ","New Jersey","Hudson County","county",34017,"January",2020,367400,353300,14100
 "34","NJ","New Jersey","Hudson County","county",34017,"February",2020,369800,356300,13400
 "34","NJ","New Jersey","Hudson County","county",34017,"March",2020,370900,358600,12300
@@ -215,10 +215,10 @@
 "34","NJ","New Jersey","Kearny town","city",NA,"February",2020,20900,19900,1000
 "34","NJ","New Jersey","Kearny town","city",NA,"March",2020,20900,20100,800
 "34","NJ","New Jersey","Kearny town","city",NA,"April",2020,21300,16800,4500
-"34","NJ","New Jersey","North Bergen township","city",NA,"January",2020,32200,31000,1300
-"34","NJ","New Jersey","North Bergen township","city",NA,"February",2020,32400,31200,1200
-"34","NJ","New Jersey","North Bergen township","city",NA,"March",2020,32500,31400,1100
-"34","NJ","New Jersey","North Bergen township","city",NA,"April",2020,32600,26300,6300
+"34","NJ","New Jersey","North Bergen town","city",NA,"January",2020,32200,31000,1300
+"34","NJ","New Jersey","North Bergen town","city",NA,"February",2020,32400,31200,1200
+"34","NJ","New Jersey","North Bergen town","city",NA,"March",2020,32500,31400,1100
+"34","NJ","New Jersey","North Bergen town","city",NA,"April",2020,32600,26300,6300
 "34","NJ","New Jersey","Union City city","city",NA,"January",2020,35000,33400,1600
 "34","NJ","New Jersey","Union City city","city",NA,"February",2020,35200,33700,1600
 "34","NJ","New Jersey","Union City city","city",NA,"March",2020,35400,33900,1500
@@ -235,22 +235,22 @@
 "34","NJ","New Jersey","Mercer County","county",34021,"February",2020,207300,199800,7500
 "34","NJ","New Jersey","Mercer County","county",34021,"March",2020,208300,201800,6500
 "34","NJ","New Jersey","Mercer County","county",34021,"April",2020,204200,182700,21500
-"34","NJ","New Jersey","East Windsor township","city",NA,"January",2020,16600,16100,500
-"34","NJ","New Jersey","East Windsor township","city",NA,"February",2020,16700,16200,400
-"34","NJ","New Jersey","East Windsor township","city",NA,"March",2020,16800,16400,400
-"34","NJ","New Jersey","East Windsor township","city",NA,"April",2020,16500,14800,1600
-"34","NJ","New Jersey","Ewing township","city",NA,"January",2020,20000,19300,700
-"34","NJ","New Jersey","Ewing township","city",NA,"February",2020,20100,19400,700
-"34","NJ","New Jersey","Ewing township","city",NA,"March",2020,20200,19600,600
-"34","NJ","New Jersey","Ewing township","city",NA,"April",2020,19900,17700,2100
-"34","NJ","New Jersey","Hamilton township","city",NA,"January",2020,64200,61500,2700
-"34","NJ","New Jersey","Hamilton township","city",NA,"February",2020,64600,61900,2700
-"34","NJ","New Jersey","Hamilton township","city",NA,"March",2020,64800,62400,2300
-"34","NJ","New Jersey","Hamilton township","city",NA,"April",2020,65200,54400,10800
-"34","NJ","New Jersey","Lawrence township","city",NA,"January",2020,19500,19000,600
-"34","NJ","New Jersey","Lawrence township","city",NA,"February",2020,19600,19100,500
-"34","NJ","New Jersey","Lawrence township","city",NA,"March",2020,19800,19300,400
-"34","NJ","New Jersey","Lawrence township","city",NA,"April",2020,19200,17500,1700
+"34","NJ","New Jersey","East Windsor town","city",NA,"January",2020,16600,16100,500
+"34","NJ","New Jersey","East Windsor town","city",NA,"February",2020,16700,16200,400
+"34","NJ","New Jersey","East Windsor town","city",NA,"March",2020,16800,16400,400
+"34","NJ","New Jersey","East Windsor town","city",NA,"April",2020,16500,14800,1600
+"34","NJ","New Jersey","Ewing town","city",NA,"January",2020,20000,19300,700
+"34","NJ","New Jersey","Ewing town","city",NA,"February",2020,20100,19400,700
+"34","NJ","New Jersey","Ewing town","city",NA,"March",2020,20200,19600,600
+"34","NJ","New Jersey","Ewing town","city",NA,"April",2020,19900,17700,2100
+"34","NJ","New Jersey","Hamilton town","city",NA,"January",2020,64200,61500,2700
+"34","NJ","New Jersey","Hamilton town","city",NA,"February",2020,64600,61900,2700
+"34","NJ","New Jersey","Hamilton town","city",NA,"March",2020,64800,62400,2300
+"34","NJ","New Jersey","Hamilton town","city",NA,"April",2020,65200,54400,10800
+"34","NJ","New Jersey","Lawrence town","city",NA,"January",2020,19500,19000,600
+"34","NJ","New Jersey","Lawrence town","city",NA,"February",2020,19600,19100,500
+"34","NJ","New Jersey","Lawrence town","city",NA,"March",2020,19800,19300,400
+"34","NJ","New Jersey","Lawrence town","city",NA,"April",2020,19200,17500,1700
 "34","NJ","New Jersey","Princeton","city",NA,"January",2020,17300,16900,400
 "34","NJ","New Jersey","Princeton","city",NA,"February",2020,17400,17000,400
 "34","NJ","New Jersey","Princeton","city",NA,"March",2020,17500,17200,300
@@ -259,150 +259,150 @@
 "34","NJ","New Jersey","Trenton city","city",NA,"February",2020,40600,38100,2500
 "34","NJ","New Jersey","Trenton city","city",NA,"March",2020,40700,38400,2200
 "34","NJ","New Jersey","Trenton city","city",NA,"April",2020,40200,34800,5400
-"34","NJ","New Jersey","West Windsor township","city",NA,"January",2020,15200,14900,300
-"34","NJ","New Jersey","West Windsor township","city",NA,"February",2020,15300,15000,300
-"34","NJ","New Jersey","West Windsor township","city",NA,"March",2020,15400,15100,200
-"34","NJ","New Jersey","West Windsor township","city",NA,"April",2020,14500,13700,800
+"34","NJ","New Jersey","West Windsor town","city",NA,"January",2020,15200,14900,300
+"34","NJ","New Jersey","West Windsor town","city",NA,"February",2020,15300,15000,300
+"34","NJ","New Jersey","West Windsor town","city",NA,"March",2020,15400,15100,200
+"34","NJ","New Jersey","West Windsor town","city",NA,"April",2020,14500,13700,800
 "34","NJ","New Jersey","Middlesex County","county",34023,"January",2020,444900,428500,16400
 "34","NJ","New Jersey","Middlesex County","county",34023,"February",2020,447300,431400,15900
 "34","NJ","New Jersey","Middlesex County","county",34023,"March",2020,441100,427200,13900
 "34","NJ","New Jersey","Middlesex County","county",34023,"April",2020,424700,364300,60400
-"34","NJ","New Jersey","East Brunswick township","city",NA,"January",2020,26500,25700,800
-"34","NJ","New Jersey","East Brunswick township","city",NA,"February",2020,26600,25900,800
-"34","NJ","New Jersey","East Brunswick township","city",NA,"March",2020,26300,25600,700
-"34","NJ","New Jersey","East Brunswick township","city",NA,"April",2020,25100,21800,3200
-"34","NJ","New Jersey","Edison township","city",NA,"January",2020,55400,53800,1500
-"34","NJ","New Jersey","Edison township","city",NA,"February",2020,55700,54200,1500
-"34","NJ","New Jersey","Edison township","city",NA,"March",2020,55000,53700,1300
-"34","NJ","New Jersey","Edison township","city",NA,"April",2020,51900,45800,6100
+"34","NJ","New Jersey","East Brunswick town","city",NA,"January",2020,26500,25700,800
+"34","NJ","New Jersey","East Brunswick town","city",NA,"February",2020,26600,25900,800
+"34","NJ","New Jersey","East Brunswick town","city",NA,"March",2020,26300,25600,700
+"34","NJ","New Jersey","East Brunswick town","city",NA,"April",2020,25100,21800,3200
+"34","NJ","New Jersey","Edison town","city",NA,"January",2020,55400,53800,1500
+"34","NJ","New Jersey","Edison town","city",NA,"February",2020,55700,54200,1500
+"34","NJ","New Jersey","Edison town","city",NA,"March",2020,55000,53700,1300
+"34","NJ","New Jersey","Edison town","city",NA,"April",2020,51900,45800,6100
 "34","NJ","New Jersey","New Brunswick city","city",NA,"January",2020,27200,26200,1000
 "34","NJ","New Jersey","New Brunswick city","city",NA,"February",2020,27400,26400,900
 "34","NJ","New Jersey","New Brunswick city","city",NA,"March",2020,27000,26200,800
 "34","NJ","New Jersey","New Brunswick city","city",NA,"April",2020,25000,22300,2700
-"34","NJ","New Jersey","North Brunswick township","city",NA,"January",2020,24200,23300,800
-"34","NJ","New Jersey","North Brunswick township","city",NA,"February",2020,24300,23500,800
-"34","NJ","New Jersey","North Brunswick township","city",NA,"March",2020,23900,23300,700
-"34","NJ","New Jersey","North Brunswick township","city",NA,"April",2020,22900,19800,3100
-"34","NJ","New Jersey","Old Bridge township","city",NA,"January",2020,37200,36000,1300
-"34","NJ","New Jersey","Old Bridge township","city",NA,"February",2020,37400,36200,1200
-"34","NJ","New Jersey","Old Bridge township","city",NA,"March",2020,36900,35800,1100
-"34","NJ","New Jersey","Old Bridge township","city",NA,"April",2020,36200,30600,5600
+"34","NJ","New Jersey","North Brunswick town","city",NA,"January",2020,24200,23300,800
+"34","NJ","New Jersey","North Brunswick town","city",NA,"February",2020,24300,23500,800
+"34","NJ","New Jersey","North Brunswick town","city",NA,"March",2020,23900,23300,700
+"34","NJ","New Jersey","North Brunswick town","city",NA,"April",2020,22900,19800,3100
+"34","NJ","New Jersey","Old Bridge town","city",NA,"January",2020,37200,36000,1300
+"34","NJ","New Jersey","Old Bridge town","city",NA,"February",2020,37400,36200,1200
+"34","NJ","New Jersey","Old Bridge town","city",NA,"March",2020,36900,35800,1100
+"34","NJ","New Jersey","Old Bridge town","city",NA,"April",2020,36200,30600,5600
 "34","NJ","New Jersey","Perth Amboy city","city",NA,"January",2020,25300,23500,1700
 "34","NJ","New Jersey","Perth Amboy city","city",NA,"February",2020,25300,23700,1700
 "34","NJ","New Jersey","Perth Amboy city","city",NA,"March",2020,25000,23500,1500
 "34","NJ","New Jersey","Perth Amboy city","city",NA,"April",2020,26100,20000,6100
-"34","NJ","New Jersey","Piscataway township","city",NA,"January",2020,30300,29100,1200
-"34","NJ","New Jersey","Piscataway township","city",NA,"February",2020,30400,29300,1100
-"34","NJ","New Jersey","Piscataway township","city",NA,"March",2020,30000,29000,1000
-"34","NJ","New Jersey","Piscataway township","city",NA,"April",2020,28600,24800,3800
-"34","NJ","New Jersey","Sayreville borough","city",NA,"January",2020,24300,23500,900
-"34","NJ","New Jersey","Sayreville borough","city",NA,"February",2020,24500,23600,900
-"34","NJ","New Jersey","Sayreville borough","city",NA,"March",2020,24100,23400,700
-"34","NJ","New Jersey","Sayreville borough","city",NA,"April",2020,23600,19900,3700
-"34","NJ","New Jersey","South Brunswick township","city",NA,"January",2020,25600,24900,700
-"34","NJ","New Jersey","South Brunswick township","city",NA,"February",2020,25800,25100,700
-"34","NJ","New Jersey","South Brunswick township","city",NA,"March",2020,25400,24800,600
-"34","NJ","New Jersey","South Brunswick township","city",NA,"April",2020,23700,21200,2500
-"34","NJ","New Jersey","Woodbridge township","city",NA,"January",2020,53800,51800,1900
-"34","NJ","New Jersey","Woodbridge township","city",NA,"February",2020,54100,52200,1900
-"34","NJ","New Jersey","Woodbridge township","city",NA,"March",2020,53300,51700,1700
-"34","NJ","New Jersey","Woodbridge township","city",NA,"April",2020,52200,44100,8100
+"34","NJ","New Jersey","Piscataway town","city",NA,"January",2020,30300,29100,1200
+"34","NJ","New Jersey","Piscataway town","city",NA,"February",2020,30400,29300,1100
+"34","NJ","New Jersey","Piscataway town","city",NA,"March",2020,30000,29000,1000
+"34","NJ","New Jersey","Piscataway town","city",NA,"April",2020,28600,24800,3800
+"34","NJ","New Jersey","Sayreville","city",NA,"January",2020,24300,23500,900
+"34","NJ","New Jersey","Sayreville","city",NA,"February",2020,24500,23600,900
+"34","NJ","New Jersey","Sayreville","city",NA,"March",2020,24100,23400,700
+"34","NJ","New Jersey","Sayreville","city",NA,"April",2020,23600,19900,3700
+"34","NJ","New Jersey","South Brunswick town","city",NA,"January",2020,25600,24900,700
+"34","NJ","New Jersey","South Brunswick town","city",NA,"February",2020,25800,25100,700
+"34","NJ","New Jersey","South Brunswick town","city",NA,"March",2020,25400,24800,600
+"34","NJ","New Jersey","South Brunswick town","city",NA,"April",2020,23700,21200,2500
+"34","NJ","New Jersey","Woodbridge town","city",NA,"January",2020,53800,51800,1900
+"34","NJ","New Jersey","Woodbridge town","city",NA,"February",2020,54100,52200,1900
+"34","NJ","New Jersey","Woodbridge town","city",NA,"March",2020,53300,51700,1700
+"34","NJ","New Jersey","Woodbridge town","city",NA,"April",2020,52200,44100,8100
 "34","NJ","New Jersey","Monmouth County","county",34025,"January",2020,333200,320000,13100
 "34","NJ","New Jersey","Monmouth County","county",34025,"February",2020,335300,322700,12600
 "34","NJ","New Jersey","Monmouth County","county",34025,"March",2020,330100,319200,10900
 "34","NJ","New Jersey","Monmouth County","county",34025,"April",2020,322400,272500,49900
-"34","NJ","New Jersey","Freehold township","city",NA,"January",2020,18500,17800,600
-"34","NJ","New Jersey","Freehold township","city",NA,"February",2020,18600,18000,600
-"34","NJ","New Jersey","Freehold township","city",NA,"March",2020,18300,17800,500
-"34","NJ","New Jersey","Freehold township","city",NA,"April",2020,18000,15200,2800
-"34","NJ","New Jersey","Howell township","city",NA,"January",2020,28600,27500,1100
-"34","NJ","New Jersey","Howell township","city",NA,"February",2020,28800,27800,1000
-"34","NJ","New Jersey","Howell township","city",NA,"March",2020,28400,27500,900
-"34","NJ","New Jersey","Howell township","city",NA,"April",2020,28200,23500,4800
+"34","NJ","New Jersey","Freehold town","city",NA,"January",2020,18500,17800,600
+"34","NJ","New Jersey","Freehold town","city",NA,"February",2020,18600,18000,600
+"34","NJ","New Jersey","Freehold town","city",NA,"March",2020,18300,17800,500
+"34","NJ","New Jersey","Freehold town","city",NA,"April",2020,18000,15200,2800
+"34","NJ","New Jersey","Howell town","city",NA,"January",2020,28600,27500,1100
+"34","NJ","New Jersey","Howell town","city",NA,"February",2020,28800,27800,1000
+"34","NJ","New Jersey","Howell town","city",NA,"March",2020,28400,27500,900
+"34","NJ","New Jersey","Howell town","city",NA,"April",2020,28200,23500,4800
 "34","NJ","New Jersey","Long Branch city","city",NA,"January",2020,16500,15700,900
 "34","NJ","New Jersey","Long Branch city","city",NA,"February",2020,16600,15800,800
 "34","NJ","New Jersey","Long Branch city","city",NA,"March",2020,16300,15600,700
 "34","NJ","New Jersey","Long Branch city","city",NA,"April",2020,15600,13300,2300
-"34","NJ","New Jersey","Manalapan township","city",NA,"January",2020,21100,20400,700
-"34","NJ","New Jersey","Manalapan township","city",NA,"February",2020,21300,20600,600
-"34","NJ","New Jersey","Manalapan township","city",NA,"March",2020,20900,20400,600
-"34","NJ","New Jersey","Manalapan township","city",NA,"April",2020,20600,17400,3200
-"34","NJ","New Jersey","Marlboro township","city",NA,"January",2020,20200,19600,600
-"34","NJ","New Jersey","Marlboro township","city",NA,"February",2020,20400,19800,600
-"34","NJ","New Jersey","Marlboro township","city",NA,"March",2020,20100,19600,500
-"34","NJ","New Jersey","Marlboro township","city",NA,"April",2020,19200,16700,2500
-"34","NJ","New Jersey","Middletown township","city",NA,"January",2020,34800,33500,1300
-"34","NJ","New Jersey","Middletown township","city",NA,"February",2020,35000,33800,1300
-"34","NJ","New Jersey","Middletown township","city",NA,"March",2020,34500,33400,1100
-"34","NJ","New Jersey","Middletown township","city",NA,"April",2020,33700,28500,5200
-"34","NJ","New Jersey","Neptune township","city",NA,"January",2020,15300,14500,800
-"34","NJ","New Jersey","Neptune township","city",NA,"February",2020,15400,14600,800
-"34","NJ","New Jersey","Neptune township","city",NA,"March",2020,15200,14500,700
-"34","NJ","New Jersey","Neptune township","city",NA,"April",2020,15100,12300,2700
-"34","NJ","New Jersey","Ocean township","city",NA,"January",2020,15000,14400,600
-"34","NJ","New Jersey","Ocean township","city",NA,"February",2020,15100,14500,600
-"34","NJ","New Jersey","Ocean township","city",NA,"March",2020,14900,14400,500
-"34","NJ","New Jersey","Ocean township","city",NA,"April",2020,14600,12300,2300
-"34","NJ","New Jersey","Wall township","city",NA,"January",2020,13700,13100,600
-"34","NJ","New Jersey","Wall township","city",NA,"February",2020,13800,13200,500
-"34","NJ","New Jersey","Wall township","city",NA,"March",2020,13600,13100,500
-"34","NJ","New Jersey","Wall township","city",NA,"April",2020,13100,11200,1900
+"34","NJ","New Jersey","Manalapan town","city",NA,"January",2020,21100,20400,700
+"34","NJ","New Jersey","Manalapan town","city",NA,"February",2020,21300,20600,600
+"34","NJ","New Jersey","Manalapan town","city",NA,"March",2020,20900,20400,600
+"34","NJ","New Jersey","Manalapan town","city",NA,"April",2020,20600,17400,3200
+"34","NJ","New Jersey","Marlboro town","city",NA,"January",2020,20200,19600,600
+"34","NJ","New Jersey","Marlboro town","city",NA,"February",2020,20400,19800,600
+"34","NJ","New Jersey","Marlboro town","city",NA,"March",2020,20100,19600,500
+"34","NJ","New Jersey","Marlboro town","city",NA,"April",2020,19200,16700,2500
+"34","NJ","New Jersey","Middletown town","city",NA,"January",2020,34800,33500,1300
+"34","NJ","New Jersey","Middletown town","city",NA,"February",2020,35000,33800,1300
+"34","NJ","New Jersey","Middletown town","city",NA,"March",2020,34500,33400,1100
+"34","NJ","New Jersey","Middletown town","city",NA,"April",2020,33700,28500,5200
+"34","NJ","New Jersey","Neptune town","city",NA,"January",2020,15300,14500,800
+"34","NJ","New Jersey","Neptune town","city",NA,"February",2020,15400,14600,800
+"34","NJ","New Jersey","Neptune town","city",NA,"March",2020,15200,14500,700
+"34","NJ","New Jersey","Neptune town","city",NA,"April",2020,15100,12300,2700
+"34","NJ","New Jersey","Ocean town","city",NA,"January",2020,15000,14400,600
+"34","NJ","New Jersey","Ocean town","city",NA,"February",2020,15100,14500,600
+"34","NJ","New Jersey","Ocean town","city",NA,"March",2020,14900,14400,500
+"34","NJ","New Jersey","Ocean town","city",NA,"April",2020,14600,12300,2300
+"34","NJ","New Jersey","Wall town","city",NA,"January",2020,13700,13100,600
+"34","NJ","New Jersey","Wall town","city",NA,"February",2020,13800,13200,500
+"34","NJ","New Jersey","Wall town","city",NA,"March",2020,13600,13100,500
+"34","NJ","New Jersey","Wall town","city",NA,"April",2020,13100,11200,1900
 "34","NJ","New Jersey","Morris County","county",34027,"January",2020,260700,251800,8800
 "34","NJ","New Jersey","Morris County","county",34027,"February",2020,261300,252700,8600
 "34","NJ","New Jersey","Morris County","county",34027,"March",2020,259900,252400,7500
 "34","NJ","New Jersey","Morris County","county",34027,"April",2020,247700,215500,32300
-"34","NJ","New Jersey","Mount Olive township","city",NA,"January",2020,15600,15000,600
-"34","NJ","New Jersey","Mount Olive township","city",NA,"February",2020,15700,15100,600
-"34","NJ","New Jersey","Mount Olive township","city",NA,"March",2020,15600,15100,500
-"34","NJ","New Jersey","Mount Olive township","city",NA,"April",2020,15200,12900,2300
-"34","NJ","New Jersey","Parsippany-Troy Hills township","city",NA,"January",2020,28000,27100,900
-"34","NJ","New Jersey","Parsippany-Troy Hills township","city",NA,"February",2020,28100,27200,900
-"34","NJ","New Jersey","Parsippany-Troy Hills township","city",NA,"March",2020,27900,27100,800
-"34","NJ","New Jersey","Parsippany-Troy Hills township","city",NA,"April",2020,26700,23200,3600
-"34","NJ","New Jersey","Randolph township","city",NA,"January",2020,13700,13300,400
-"34","NJ","New Jersey","Randolph township","city",NA,"February",2020,13800,13400,400
-"34","NJ","New Jersey","Randolph township","city",NA,"March",2020,13700,13400,400
-"34","NJ","New Jersey","Randolph township","city",NA,"April",2020,13000,11400,1600
-"34","NJ","New Jersey","Rockaway Township","city",NA,"January",2020,14300,13800,400
-"34","NJ","New Jersey","Rockaway Township","city",NA,"February",2020,14300,13900,500
-"34","NJ","New Jersey","Rockaway Township","city",NA,"March",2020,14200,13900,400
-"34","NJ","New Jersey","Rockaway Township","city",NA,"April",2020,13600,11800,1800
+"34","NJ","New Jersey","Mount Olive town","city",NA,"January",2020,15600,15000,600
+"34","NJ","New Jersey","Mount Olive town","city",NA,"February",2020,15700,15100,600
+"34","NJ","New Jersey","Mount Olive town","city",NA,"March",2020,15600,15100,500
+"34","NJ","New Jersey","Mount Olive town","city",NA,"April",2020,15200,12900,2300
+"34","NJ","New Jersey","Parsippany-Troy Hills town","city",NA,"January",2020,28000,27100,900
+"34","NJ","New Jersey","Parsippany-Troy Hills town","city",NA,"February",2020,28100,27200,900
+"34","NJ","New Jersey","Parsippany-Troy Hills town","city",NA,"March",2020,27900,27100,800
+"34","NJ","New Jersey","Parsippany-Troy Hills town","city",NA,"April",2020,26700,23200,3600
+"34","NJ","New Jersey","Randolph town","city",NA,"January",2020,13700,13300,400
+"34","NJ","New Jersey","Randolph town","city",NA,"February",2020,13800,13400,400
+"34","NJ","New Jersey","Randolph town","city",NA,"March",2020,13700,13400,400
+"34","NJ","New Jersey","Randolph town","city",NA,"April",2020,13000,11400,1600
+"34","NJ","New Jersey","Rockaway Town","city",NA,"January",2020,14300,13800,400
+"34","NJ","New Jersey","Rockaway Town","city",NA,"February",2020,14300,13900,500
+"34","NJ","New Jersey","Rockaway Town","city",NA,"March",2020,14200,13900,400
+"34","NJ","New Jersey","Rockaway Town","city",NA,"April",2020,13600,11800,1800
 "34","NJ","New Jersey","Ocean County","county",34029,"January",2020,280100,266500,13500
 "34","NJ","New Jersey","Ocean County","county",34029,"February",2020,281700,268700,12900
 "34","NJ","New Jersey","Ocean County","county",34029,"March",2020,276800,265800,11000
 "34","NJ","New Jersey","Ocean County","county",34029,"April",2020,274100,226700,47400
-"34","NJ","New Jersey","Berkeley township","city",NA,"January",2020,16300,15200,1100
-"34","NJ","New Jersey","Berkeley township","city",NA,"February",2020,16400,15300,1000
-"34","NJ","New Jersey","Berkeley township","city",NA,"March",2020,16100,15200,900
-"34","NJ","New Jersey","Berkeley township","city",NA,"April",2020,16600,12900,3700
-"34","NJ","New Jersey","Brick township","city",NA,"January",2020,40600,38700,1800
-"34","NJ","New Jersey","Brick township","city",NA,"February",2020,40800,39000,1800
-"34","NJ","New Jersey","Brick township","city",NA,"March",2020,40100,38600,1500
-"34","NJ","New Jersey","Brick township","city",NA,"April",2020,40200,32900,7300
-"34","NJ","New Jersey","Toms River township","city",NA,"January",2020,50600,48400,2200
-"34","NJ","New Jersey","Toms River township","city",NA,"February",2020,50900,48800,2100
-"34","NJ","New Jersey","Toms River township","city",NA,"March",2020,50100,48300,1800
-"34","NJ","New Jersey","Toms River township","city",NA,"April",2020,50100,41200,8900
-"34","NJ","New Jersey","Jackson township","city",NA,"January",2020,30600,29300,1300
-"34","NJ","New Jersey","Jackson township","city",NA,"February",2020,30800,29500,1200
-"34","NJ","New Jersey","Jackson township","city",NA,"March",2020,30200,29200,1100
-"34","NJ","New Jersey","Jackson township","city",NA,"April",2020,29500,24900,4600
-"34","NJ","New Jersey","Lacey township","city",NA,"January",2020,16000,15200,800
-"34","NJ","New Jersey","Lacey township","city",NA,"February",2020,16100,15300,800
-"34","NJ","New Jersey","Lacey township","city",NA,"March",2020,15800,15100,700
-"34","NJ","New Jersey","Lacey township","city",NA,"April",2020,15500,12900,2600
-"34","NJ","New Jersey","Lakewood township","city",NA,"January",2020,32700,31700,1100
-"34","NJ","New Jersey","Lakewood township","city",NA,"February",2020,33000,31900,1100
-"34","NJ","New Jersey","Lakewood township","city",NA,"March",2020,32500,31600,900
-"34","NJ","New Jersey","Lakewood township","city",NA,"April",2020,30800,26900,3900
-"34","NJ","New Jersey","Manchester township","city",NA,"January",2020,14600,13700,1000
-"34","NJ","New Jersey","Manchester township","city",NA,"February",2020,14700,13800,900
-"34","NJ","New Jersey","Manchester township","city",NA,"March",2020,14400,13600,800
-"34","NJ","New Jersey","Manchester township","city",NA,"April",2020,14500,11600,2900
-"34","NJ","New Jersey","Stafford Township","city",NA,"January",2020,13700,13000,700
-"34","NJ","New Jersey","Stafford Township","city",NA,"February",2020,13700,13100,700
-"34","NJ","New Jersey","Stafford Township","city",NA,"March",2020,13500,12900,600
-"34","NJ","New Jersey","Stafford Township","city",NA,"April",2020,13500,11000,2400
+"34","NJ","New Jersey","Berkeley town","city",NA,"January",2020,16300,15200,1100
+"34","NJ","New Jersey","Berkeley town","city",NA,"February",2020,16400,15300,1000
+"34","NJ","New Jersey","Berkeley town","city",NA,"March",2020,16100,15200,900
+"34","NJ","New Jersey","Berkeley town","city",NA,"April",2020,16600,12900,3700
+"34","NJ","New Jersey","Brick town","city",NA,"January",2020,40600,38700,1800
+"34","NJ","New Jersey","Brick town","city",NA,"February",2020,40800,39000,1800
+"34","NJ","New Jersey","Brick town","city",NA,"March",2020,40100,38600,1500
+"34","NJ","New Jersey","Brick town","city",NA,"April",2020,40200,32900,7300
+"34","NJ","New Jersey","Toms River town","city",NA,"January",2020,50600,48400,2200
+"34","NJ","New Jersey","Toms River town","city",NA,"February",2020,50900,48800,2100
+"34","NJ","New Jersey","Toms River town","city",NA,"March",2020,50100,48300,1800
+"34","NJ","New Jersey","Toms River town","city",NA,"April",2020,50100,41200,8900
+"34","NJ","New Jersey","Jackson town","city",NA,"January",2020,30600,29300,1300
+"34","NJ","New Jersey","Jackson town","city",NA,"February",2020,30800,29500,1200
+"34","NJ","New Jersey","Jackson town","city",NA,"March",2020,30200,29200,1100
+"34","NJ","New Jersey","Jackson town","city",NA,"April",2020,29500,24900,4600
+"34","NJ","New Jersey","Lacey town","city",NA,"January",2020,16000,15200,800
+"34","NJ","New Jersey","Lacey town","city",NA,"February",2020,16100,15300,800
+"34","NJ","New Jersey","Lacey town","city",NA,"March",2020,15800,15100,700
+"34","NJ","New Jersey","Lacey town","city",NA,"April",2020,15500,12900,2600
+"34","NJ","New Jersey","Lakewood town","city",NA,"January",2020,32700,31700,1100
+"34","NJ","New Jersey","Lakewood town","city",NA,"February",2020,33000,31900,1100
+"34","NJ","New Jersey","Lakewood town","city",NA,"March",2020,32500,31600,900
+"34","NJ","New Jersey","Lakewood town","city",NA,"April",2020,30800,26900,3900
+"34","NJ","New Jersey","Manchester town","city",NA,"January",2020,14600,13700,1000
+"34","NJ","New Jersey","Manchester town","city",NA,"February",2020,14700,13800,900
+"34","NJ","New Jersey","Manchester town","city",NA,"March",2020,14400,13600,800
+"34","NJ","New Jersey","Manchester town","city",NA,"April",2020,14500,11600,2900
+"34","NJ","New Jersey","Stafford Town","city",NA,"January",2020,13700,13000,700
+"34","NJ","New Jersey","Stafford Town","city",NA,"February",2020,13700,13100,700
+"34","NJ","New Jersey","Stafford Town","city",NA,"March",2020,13500,12900,600
+"34","NJ","New Jersey","Stafford Town","city",NA,"April",2020,13500,11000,2400
 "34","NJ","New Jersey","Passaic County","county",34031,"January",2020,247600,234300,13300
 "34","NJ","New Jersey","Passaic County","county",34031,"February",2020,248800,236300,12600
 "34","NJ","New Jersey","Passaic County","county",34031,"March",2020,249200,237800,11400
@@ -419,14 +419,14 @@
 "34","NJ","New Jersey","Paterson city","city",NA,"February",2020,62200,57400,4800
 "34","NJ","New Jersey","Paterson city","city",NA,"March",2020,62300,57700,4500
 "34","NJ","New Jersey","Paterson city","city",NA,"April",2020,66000,48400,17600
-"34","NJ","New Jersey","Wayne township","city",NA,"January",2020,28500,27600,1000
-"34","NJ","New Jersey","Wayne township","city",NA,"February",2020,28700,27800,900
-"34","NJ","New Jersey","Wayne township","city",NA,"March",2020,28800,28000,700
-"34","NJ","New Jersey","Wayne township","city",NA,"April",2020,27200,23500,3700
-"34","NJ","New Jersey","West Milford township","city",NA,"January",2020,15400,14800,600
-"34","NJ","New Jersey","West Milford township","city",NA,"February",2020,15500,14900,600
-"34","NJ","New Jersey","West Milford township","city",NA,"March",2020,15500,15000,500
-"34","NJ","New Jersey","West Milford township","city",NA,"April",2020,14700,12600,2100
+"34","NJ","New Jersey","Wayne town","city",NA,"January",2020,28500,27600,1000
+"34","NJ","New Jersey","Wayne town","city",NA,"February",2020,28700,27800,900
+"34","NJ","New Jersey","Wayne town","city",NA,"March",2020,28800,28000,700
+"34","NJ","New Jersey","Wayne town","city",NA,"April",2020,27200,23500,3700
+"34","NJ","New Jersey","West Milford town","city",NA,"January",2020,15400,14800,600
+"34","NJ","New Jersey","West Milford town","city",NA,"February",2020,15500,14900,600
+"34","NJ","New Jersey","West Milford town","city",NA,"March",2020,15500,15000,500
+"34","NJ","New Jersey","West Milford town","city",NA,"April",2020,14700,12600,2100
 "34","NJ","New Jersey","Salem County","county",34033,"January",2020,29400,27500,1800
 "34","NJ","New Jersey","Salem County","county",34033,"February",2020,29800,28100,1700
 "34","NJ","New Jersey","Salem County","county",34033,"March",2020,29900,28400,1500
@@ -435,30 +435,30 @@
 "34","NJ","New Jersey","Somerset County","county",34035,"February",2020,174400,168300,6100
 "34","NJ","New Jersey","Somerset County","county",34035,"March",2020,173500,168200,5300
 "34","NJ","New Jersey","Somerset County","county",34035,"April",2020,163800,143600,20200
-"34","NJ","New Jersey","Bernards Township","city",NA,"January",2020,13000,12600,400
-"34","NJ","New Jersey","Bernards Township","city",NA,"February",2020,13000,12600,400
-"34","NJ","New Jersey","Bernards Township","city",NA,"March",2020,12900,12600,300
-"34","NJ","New Jersey","Bernards Township","city",NA,"April",2020,11800,10800,1100
-"34","NJ","New Jersey","Bridgewater township","city",NA,"January",2020,23000,22200,800
-"34","NJ","New Jersey","Bridgewater township","city",NA,"February",2020,23100,22300,800
-"34","NJ","New Jersey","Bridgewater township","city",NA,"March",2020,22900,22300,700
-"34","NJ","New Jersey","Bridgewater township","city",NA,"April",2020,21700,19000,2700
-"34","NJ","New Jersey","Franklin township","city",NA,"January",2020,34500,33200,1300
-"34","NJ","New Jersey","Franklin township","city",NA,"February",2020,34600,33300,1300
-"34","NJ","New Jersey","Franklin township","city",NA,"March",2020,34400,33300,1100
-"34","NJ","New Jersey","Franklin township","city",NA,"April",2020,32500,28400,4000
-"34","NJ","New Jersey","Hillsborough township","city",NA,"January",2020,22100,21300,700
-"34","NJ","New Jersey","Hillsborough township","city",NA,"February",2020,22100,21400,700
-"34","NJ","New Jersey","Hillsborough township","city",NA,"March",2020,22000,21400,600
-"34","NJ","New Jersey","Hillsborough township","city",NA,"April",2020,20700,18300,2500
+"34","NJ","New Jersey","Bernards Town","city",NA,"January",2020,13000,12600,400
+"34","NJ","New Jersey","Bernards Town","city",NA,"February",2020,13000,12600,400
+"34","NJ","New Jersey","Bernards Town","city",NA,"March",2020,12900,12600,300
+"34","NJ","New Jersey","Bernards Town","city",NA,"April",2020,11800,10800,1100
+"34","NJ","New Jersey","Bridgewater town","city",NA,"January",2020,23000,22200,800
+"34","NJ","New Jersey","Bridgewater town","city",NA,"February",2020,23100,22300,800
+"34","NJ","New Jersey","Bridgewater town","city",NA,"March",2020,22900,22300,700
+"34","NJ","New Jersey","Bridgewater town","city",NA,"April",2020,21700,19000,2700
+"34","NJ","New Jersey","Franklin town","city",NA,"January",2020,34500,33200,1300
+"34","NJ","New Jersey","Franklin town","city",NA,"February",2020,34600,33300,1300
+"34","NJ","New Jersey","Franklin town","city",NA,"March",2020,34400,33300,1100
+"34","NJ","New Jersey","Franklin town","city",NA,"April",2020,32500,28400,4000
+"34","NJ","New Jersey","Hillsborough town","city",NA,"January",2020,22100,21300,700
+"34","NJ","New Jersey","Hillsborough town","city",NA,"February",2020,22100,21400,700
+"34","NJ","New Jersey","Hillsborough town","city",NA,"March",2020,22000,21400,600
+"34","NJ","New Jersey","Hillsborough town","city",NA,"April",2020,20700,18300,2500
 "34","NJ","New Jersey","Sussex County","county",34037,"January",2020,75400,71900,3500
 "34","NJ","New Jersey","Sussex County","county",34037,"February",2020,75600,72200,3300
 "34","NJ","New Jersey","Sussex County","county",34037,"March",2020,75000,72100,2900
 "34","NJ","New Jersey","Sussex County","county",34037,"April",2020,74300,61800,12500
-"34","NJ","New Jersey","Vernon township","city",NA,"January",2020,12300,11700,600
-"34","NJ","New Jersey","Vernon township","city",NA,"February",2020,12300,11800,600
-"34","NJ","New Jersey","Vernon township","city",NA,"March",2020,12300,11700,500
-"34","NJ","New Jersey","Vernon township","city",NA,"April",2020,12300,10100,2300
+"34","NJ","New Jersey","Vernon town","city",NA,"January",2020,12300,11700,600
+"34","NJ","New Jersey","Vernon town","city",NA,"February",2020,12300,11800,600
+"34","NJ","New Jersey","Vernon town","city",NA,"March",2020,12300,11700,500
+"34","NJ","New Jersey","Vernon town","city",NA,"April",2020,12300,10100,2300
 "34","NJ","New Jersey","Union County","county",34039,"January",2020,281700,268900,12800
 "34","NJ","New Jersey","Union County","county",34039,"February",2020,281800,269700,12200
 "34","NJ","New Jersey","Union County","county",34039,"March",2020,280300,269500,10900
@@ -479,10 +479,10 @@
 "34","NJ","New Jersey","Rahway city","city",NA,"February",2020,15100,14500,600
 "34","NJ","New Jersey","Rahway city","city",NA,"March",2020,15000,14500,600
 "34","NJ","New Jersey","Rahway city","city",NA,"April",2020,14700,12300,2400
-"34","NJ","New Jersey","Union township","city",NA,"January",2020,29800,28600,1300
-"34","NJ","New Jersey","Union township","city",NA,"February",2020,29800,28600,1200
-"34","NJ","New Jersey","Union township","city",NA,"March",2020,29600,28600,1000
-"34","NJ","New Jersey","Union township","city",NA,"April",2020,29000,24400,4600
+"34","NJ","New Jersey","Union town","city",NA,"January",2020,29800,28600,1300
+"34","NJ","New Jersey","Union town","city",NA,"February",2020,29800,28600,1200
+"34","NJ","New Jersey","Union town","city",NA,"March",2020,29600,28600,1000
+"34","NJ","New Jersey","Union town","city",NA,"April",2020,29000,24400,4600
 "34","NJ","New Jersey","Westfield town","city",NA,"January",2020,14100,13700,400
 "34","NJ","New Jersey","Westfield town","city",NA,"February",2020,14100,13800,300
 "34","NJ","New Jersey","Westfield town","city",NA,"March",2020,14100,13800,300

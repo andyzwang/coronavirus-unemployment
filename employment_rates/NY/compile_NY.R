@@ -49,7 +49,10 @@ output <- raw %>%
     area = case_when(
       area == "BALANCE OF STATE" ~ "New York",
       TRUE ~ area
-    )
+    ),
+    area = str_remove(area, " City"),
+    area = str_remove(area, " Town"),
+    area = str_remove(area, " Town Ny"),
   ) %>%
 
   # Join with FIPS
@@ -65,6 +68,7 @@ output <- raw %>%
     labor_force, employment, unemployment
   ) %>%
   filter(year >= 2019) %>%
-  filter(!is.na(period))
+  filter(!is.na(period)) %>%
+  filter(area != "New York State")
 
 write.csv(output, file = "NY_compiled.csv", row.names = FALSE)

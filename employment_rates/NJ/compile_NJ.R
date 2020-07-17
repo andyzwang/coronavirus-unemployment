@@ -39,7 +39,9 @@ output <- raw %>%
         ), " County")),
         sep = ""
       )
-    )
+    ),
+    area =str_remove(area, " borough"),
+    area = str_remove(area, "ship")
   ) %>%
 
   # Join with FIPS
