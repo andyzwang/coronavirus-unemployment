@@ -16,16 +16,11 @@ raw <- read_csv("MA_data.csv") %>%
 
 data(county.fips)
 
-# import regions
-
-towns <- read_csv("MA_towns.csv")
 
 # Converting the individual town claims to county claims.
 
 output <- raw %>%
-  clean_names("snake") %>%
-  mutate(town = str_remove(area_name, "( City| Town|, County/Town)$")) %>%
-  left_join(towns) %>%
+  clean_names("snake")  %>%
   mutate(
     
     # make claims numeric
@@ -42,6 +37,8 @@ output <- raw %>%
     month = month(date),
     year = year(date),
     week = week(date),
+    
+    county = str_remove(county_name, " County"),
     
     polyname = case_when(
       TRUE ~ paste("massachusetts,", tolower(county), sep = "")
