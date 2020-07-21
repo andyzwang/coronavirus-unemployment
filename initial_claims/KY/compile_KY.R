@@ -18,7 +18,7 @@ output <- raw %>%
     
     # date info
     
-    date = ceiling_date(dmy(paste("1-", date)), "month") -1,
+    date = ceiling_date(dym(paste("1-", date)), "month") -1,
     week = NA,
     month = month(date),
     year = year(date),
