@@ -10,7 +10,7 @@ library(readxl)
 # processing
 # NOTE: range is manually set
 
-raw_regular <- read_excel("CO_regular_UI_data.xlsx", range = "A2:BO17", na = "***") 
+raw_regular <- read_excel("CO_regular_UI_data.xlsx", range = "A2:BO20", na = "***") 
 
 # import FIPS codes
 
@@ -66,7 +66,7 @@ output_regular <- raw_regular %>%
     metric = "regular"
   )
 
-raw_pua <- read_excel("CO_pua_ui_data.xlsx", range = "A2:BO10", na = "***") 
+raw_pua <- read_excel("CO_pua_ui_data.xlsx", range = "A2:BO13", na = "***") 
 
 output_pua <- raw_pua %>%
   
