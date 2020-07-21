@@ -1,0 +1,801 @@
+"state","state_fips","state_short","county","county_fips","date","week","month","year","claims"
+"Connecticut","09","CT","Fairfield","NA",2020-01-05,1,1,2020,1698
+"Connecticut","09","CT","Fairfield","NA",2019-01-06,1,1,2019,1646
+"Connecticut","09","CT","Hartford","NA",2020-01-05,1,1,2020,1917
+"Connecticut","09","CT","Hartford","NA",2019-01-06,1,1,2019,1916
+"Connecticut","09","CT","Litchfield","NA",2020-01-05,1,1,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-01-06,1,1,2019,529
+"Connecticut","09","CT","Middlesex","NA",2020-01-05,1,1,2020,401
+"Connecticut","09","CT","Middlesex","NA",2019-01-06,1,1,2019,385
+"Connecticut","09","CT","New Haven","NA",2020-01-05,1,1,2020,1796
+"Connecticut","09","CT","New Haven","NA",2019-01-06,1,1,2019,1695
+"Connecticut","09","CT","New London","NA",2020-01-05,1,1,2020,595
+"Connecticut","09","CT","New London","NA",2019-01-06,1,1,2019,572
+"Connecticut","09","CT","Out of State","NA",2020-01-05,1,1,2020,521
+"Connecticut","09","CT","Out of State","NA",2019-01-06,1,1,2019,570
+"Connecticut","09","CT","Tolland","NA",2020-01-05,1,1,2020,245
+"Connecticut","09","CT","Tolland","NA",2019-01-06,1,1,2019,261
+"Connecticut","09","CT","unknown","NA",2020-01-05,1,1,2020,89
+"Connecticut","09","CT","unknown","NA",2019-01-06,1,1,2019,100
+"Connecticut","09","CT","Windham","NA",2020-01-05,1,1,2020,200
+"Connecticut","09","CT","Windham","NA",2019-01-06,1,1,2019,220
+"Connecticut","09","CT","Fairfield","NA",2020-01-12,2,1,2020,696
+"Connecticut","09","CT","Fairfield","NA",2019-01-13,2,1,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-01-12,2,1,2020,827
+"Connecticut","09","CT","Hartford","NA",2019-01-13,2,1,2019,699
+"Connecticut","09","CT","Litchfield","NA",2020-01-12,2,1,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-01-13,2,1,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-01-12,2,1,2020,141
+"Connecticut","09","CT","Middlesex","NA",2019-01-13,2,1,2019,116
+"Connecticut","09","CT","New Haven","NA",2020-01-12,2,1,2020,857
+"Connecticut","09","CT","New Haven","NA",2019-01-13,2,1,2019,723
+"Connecticut","09","CT","New London","NA",2020-01-12,2,1,2020,NA
+"Connecticut","09","CT","New London","NA",2019-01-13,2,1,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-01-12,2,1,2020,224
+"Connecticut","09","CT","Out of State","NA",2019-01-13,2,1,2019,201
+"Connecticut","09","CT","Tolland","NA",2020-01-12,2,1,2020,122
+"Connecticut","09","CT","Tolland","NA",2019-01-13,2,1,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-01-12,2,1,2020,44
+"Connecticut","09","CT","unknown","NA",2019-01-13,2,1,2019,31
+"Connecticut","09","CT","Windham","NA",2020-01-12,2,1,2020,115
+"Connecticut","09","CT","Windham","NA",2019-01-13,2,1,2019,117
+"Connecticut","09","CT","Fairfield","NA",2020-01-19,3,1,2020,NA
+"Connecticut","09","CT","Fairfield","NA",2019-01-20,3,1,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-01-19,3,1,2020,698
+"Connecticut","09","CT","Hartford","NA",2019-01-20,3,1,2019,689
+"Connecticut","09","CT","Litchfield","NA",2020-01-19,3,1,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-01-20,3,1,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-01-19,3,1,2020,130
+"Connecticut","09","CT","Middlesex","NA",2019-01-20,3,1,2019,116
+"Connecticut","09","CT","New Haven","NA",2020-01-19,3,1,2020,691
+"Connecticut","09","CT","New Haven","NA",2019-01-20,3,1,2019,768
+"Connecticut","09","CT","New London","NA",2020-01-19,3,1,2020,NA
+"Connecticut","09","CT","New London","NA",2019-01-20,3,1,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-01-19,3,1,2020,159
+"Connecticut","09","CT","Out of State","NA",2019-01-20,3,1,2019,183
+"Connecticut","09","CT","Tolland","NA",2020-01-19,3,1,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-01-20,3,1,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-01-19,3,1,2020,28
+"Connecticut","09","CT","unknown","NA",2019-01-20,3,1,2019,40
+"Connecticut","09","CT","Windham","NA",2020-01-19,3,1,2020,104
+"Connecticut","09","CT","Windham","NA",2019-01-20,3,1,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-01-26,4,1,2020,523
+"Connecticut","09","CT","Fairfield","NA",2019-01-27,4,1,2019,564
+"Connecticut","09","CT","Hartford","NA",2020-01-26,4,1,2020,NA
+"Connecticut","09","CT","Hartford","NA",2019-01-27,4,1,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-01-26,4,1,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-01-27,4,1,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-01-26,4,1,2020,121
+"Connecticut","09","CT","Middlesex","NA",2019-01-27,4,1,2019,115
+"Connecticut","09","CT","New Haven","NA",2020-01-26,4,1,2020,639
+"Connecticut","09","CT","New Haven","NA",2019-01-27,4,1,2019,NA
+"Connecticut","09","CT","New London","NA",2020-01-26,4,1,2020,188
+"Connecticut","09","CT","New London","NA",2019-01-27,4,1,2019,203
+"Connecticut","09","CT","Out of State","NA",2020-01-26,4,1,2020,145
+"Connecticut","09","CT","Out of State","NA",2019-01-27,4,1,2019,181
+"Connecticut","09","CT","Tolland","NA",2020-01-26,4,1,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-01-27,4,1,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-01-26,4,1,2020,44
+"Connecticut","09","CT","unknown","NA",2019-01-27,4,1,2019,44
+"Connecticut","09","CT","Windham","NA",2020-01-26,4,1,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-01-27,4,1,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-02-02,5,2,2020,NA
+"Connecticut","09","CT","Fairfield","NA",2019-02-03,5,2,2019,555
+"Connecticut","09","CT","Hartford","NA",2020-02-02,5,2,2020,692
+"Connecticut","09","CT","Hartford","NA",2019-02-03,5,2,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-02-02,5,2,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-02-03,5,2,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-02-02,5,2,2020,111
+"Connecticut","09","CT","Middlesex","NA",2019-02-03,5,2,2019,108
+"Connecticut","09","CT","New Haven","NA",2020-02-02,5,2,2020,680
+"Connecticut","09","CT","New Haven","NA",2019-02-03,5,2,2019,667
+"Connecticut","09","CT","New London","NA",2020-02-02,5,2,2020,NA
+"Connecticut","09","CT","New London","NA",2019-02-03,5,2,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-02-02,5,2,2020,179
+"Connecticut","09","CT","Out of State","NA",2019-02-03,5,2,2019,202
+"Connecticut","09","CT","Tolland","NA",2020-02-02,5,2,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-02-03,5,2,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-02-02,5,2,2020,20
+"Connecticut","09","CT","unknown","NA",2019-02-03,5,2,2019,25
+"Connecticut","09","CT","Windham","NA",2020-02-02,5,2,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-02-03,5,2,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-02-10,6,2,2019,433
+"Connecticut","09","CT","Fairfield","NA",2020-02-09,6,2,2020,NA
+"Connecticut","09","CT","Hartford","NA",2019-02-10,6,2,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-02-09,6,2,2020,581
+"Connecticut","09","CT","Litchfield","NA",2019-02-10,6,2,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-02-09,6,2,2020,NA
+"Connecticut","09","CT","Middlesex","NA",2019-02-10,6,2,2019,94
+"Connecticut","09","CT","Middlesex","NA",2020-02-09,6,2,2020,98
+"Connecticut","09","CT","New Haven","NA",2019-02-10,6,2,2019,562
+"Connecticut","09","CT","New Haven","NA",2020-02-09,6,2,2020,613
+"Connecticut","09","CT","New London","NA",2019-02-10,6,2,2019,NA
+"Connecticut","09","CT","New London","NA",2020-02-09,6,2,2020,NA
+"Connecticut","09","CT","Out of State","NA",2019-02-10,6,2,2019,152
+"Connecticut","09","CT","Out of State","NA",2020-02-09,6,2,2020,157
+"Connecticut","09","CT","Tolland","NA",2019-02-10,6,2,2019,NA
+"Connecticut","09","CT","Tolland","NA",2020-02-09,6,2,2020,90
+"Connecticut","09","CT","unknown","NA",2019-02-10,6,2,2019,41
+"Connecticut","09","CT","unknown","NA",2020-02-09,6,2,2020,29
+"Connecticut","09","CT","Windham","NA",2019-02-10,6,2,2019,NA
+"Connecticut","09","CT","Windham","NA",2020-02-09,6,2,2020,NA
+"Connecticut","09","CT","Fairfield","NA",2020-02-16,7,2,2020,335
+"Connecticut","09","CT","Fairfield","NA",2019-02-17,7,2,2019,409
+"Connecticut","09","CT","Hartford","NA",2020-02-16,7,2,2020,NA
+"Connecticut","09","CT","Hartford","NA",2019-02-17,7,2,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-02-16,7,2,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-02-17,7,2,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-02-16,7,2,2020,NA
+"Connecticut","09","CT","Middlesex","NA",2019-02-17,7,2,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-02-16,7,2,2020,NA
+"Connecticut","09","CT","New Haven","NA",2019-02-17,7,2,2019,582
+"Connecticut","09","CT","New London","NA",2020-02-16,7,2,2020,NA
+"Connecticut","09","CT","New London","NA",2019-02-17,7,2,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-02-16,7,2,2020,98
+"Connecticut","09","CT","Out of State","NA",2019-02-17,7,2,2019,143
+"Connecticut","09","CT","Tolland","NA",2020-02-16,7,2,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-02-17,7,2,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-02-16,7,2,2020,23
+"Connecticut","09","CT","unknown","NA",2019-02-17,7,2,2019,24
+"Connecticut","09","CT","Windham","NA",2020-02-16,7,2,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-02-17,7,2,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-02-23,8,2,2020,NA
+"Connecticut","09","CT","Fairfield","NA",2019-02-24,8,2,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-02-23,8,2,2020,NA
+"Connecticut","09","CT","Hartford","NA",2019-02-24,8,2,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-02-23,8,2,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-02-24,8,2,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-02-23,8,2,2020,85
+"Connecticut","09","CT","Middlesex","NA",2019-02-24,8,2,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-02-23,8,2,2020,543
+"Connecticut","09","CT","New Haven","NA",2019-02-24,8,2,2019,511
+"Connecticut","09","CT","New London","NA",2020-02-23,8,2,2020,NA
+"Connecticut","09","CT","New London","NA",2019-02-24,8,2,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-02-23,8,2,2020,111
+"Connecticut","09","CT","Out of State","NA",2019-02-24,8,2,2019,134
+"Connecticut","09","CT","Tolland","NA",2020-02-23,8,2,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-02-24,8,2,2019,51
+"Connecticut","09","CT","unknown","NA",2020-02-23,8,2,2020,26
+"Connecticut","09","CT","unknown","NA",2019-02-24,8,2,2019,27
+"Connecticut","09","CT","Windham","NA",2020-02-23,8,2,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-02-24,8,2,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-03-01,9,3,2020,NA
+"Connecticut","09","CT","Fairfield","NA",2019-03-03,9,3,2019,427
+"Connecticut","09","CT","Hartford","NA",2020-03-01,9,3,2020,NA
+"Connecticut","09","CT","Hartford","NA",2019-03-03,9,3,2019,643
+"Connecticut","09","CT","Litchfield","NA",2020-03-01,9,3,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-03-03,9,3,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-03-01,9,3,2020,NA
+"Connecticut","09","CT","Middlesex","NA",2019-03-03,9,3,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-03-01,9,3,2020,609
+"Connecticut","09","CT","New Haven","NA",2019-03-03,9,3,2019,678
+"Connecticut","09","CT","New London","NA",2020-03-01,9,3,2020,167
+"Connecticut","09","CT","New London","NA",2019-03-03,9,3,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-03-01,9,3,2020,128
+"Connecticut","09","CT","Out of State","NA",2019-03-03,9,3,2019,137
+"Connecticut","09","CT","Tolland","NA",2020-03-01,9,3,2020,97
+"Connecticut","09","CT","Tolland","NA",2019-03-03,9,3,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-03-01,9,3,2020,22
+"Connecticut","09","CT","unknown","NA",2019-03-03,9,3,2019,24
+"Connecticut","09","CT","Windham","NA",2020-03-01,9,3,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-03-03,9,3,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-03-10,10,3,2019,351
+"Connecticut","09","CT","Fairfield","NA",2020-03-08,10,3,2020,1385
+"Connecticut","09","CT","Hartford","NA",2019-03-10,10,3,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-03-08,10,3,2020,1331
+"Connecticut","09","CT","Litchfield","NA",2019-03-10,10,3,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-03-08,10,3,2020,316
+"Connecticut","09","CT","Middlesex","NA",2019-03-10,10,3,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-03-08,10,3,2020,259
+"Connecticut","09","CT","New Haven","NA",2019-03-10,10,3,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-03-08,10,3,2020,1375
+"Connecticut","09","CT","New London","NA",2019-03-10,10,3,2019,NA
+"Connecticut","09","CT","New London","NA",2020-03-08,10,3,2020,870
+"Connecticut","09","CT","Out of State","NA",2019-03-10,10,3,2019,130
+"Connecticut","09","CT","Out of State","NA",2020-03-08,10,3,2020,285
+"Connecticut","09","CT","Tolland","NA",2019-03-10,10,3,2019,NA
+"Connecticut","09","CT","Tolland","NA",2020-03-08,10,3,2020,NA
+"Connecticut","09","CT","unknown","NA",2019-03-10,10,3,2019,29
+"Connecticut","09","CT","unknown","NA",2020-03-08,10,3,2020,65
+"Connecticut","09","CT","Windham","NA",2019-03-10,10,3,2019,72
+"Connecticut","09","CT","Windham","NA",2020-03-08,10,3,2020,205
+"Connecticut","09","CT","Fairfield","NA",2020-03-15,11,3,2020,14607
+"Connecticut","09","CT","Fairfield","NA",2019-03-17,11,3,2019,316
+"Connecticut","09","CT","Hartford","NA",2020-03-15,11,3,2020,17918
+"Connecticut","09","CT","Hartford","NA",2019-03-17,11,3,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-03-15,11,3,2020,3632
+"Connecticut","09","CT","Litchfield","NA",2019-03-17,11,3,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-03-15,11,3,2020,3541
+"Connecticut","09","CT","Middlesex","NA",2019-03-17,11,3,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-03-15,11,3,2020,17182
+"Connecticut","09","CT","New Haven","NA",2019-03-17,11,3,2019,462
+"Connecticut","09","CT","New London","NA",2020-03-15,11,3,2020,12806
+"Connecticut","09","CT","New London","NA",2019-03-17,11,3,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-03-15,11,3,2020,3061
+"Connecticut","09","CT","Out of State","NA",2019-03-17,11,3,2019,119
+"Connecticut","09","CT","Tolland","NA",2020-03-15,11,3,2020,2641
+"Connecticut","09","CT","Tolland","NA",2019-03-17,11,3,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-03-15,11,3,2020,862
+"Connecticut","09","CT","unknown","NA",2019-03-17,11,3,2019,17
+"Connecticut","09","CT","Windham","NA",2020-03-15,11,3,2020,2286
+"Connecticut","09","CT","Windham","NA",2019-03-17,11,3,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-03-22,12,3,2020,15938
+"Connecticut","09","CT","Fairfield","NA",2019-03-24,12,3,2019,335
+"Connecticut","09","CT","Hartford","NA",2020-03-22,12,3,2020,17001
+"Connecticut","09","CT","Hartford","NA",2019-03-24,12,3,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-03-22,12,3,2020,3873
+"Connecticut","09","CT","Litchfield","NA",2019-03-24,12,3,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-03-22,12,3,2020,3056
+"Connecticut","09","CT","Middlesex","NA",2019-03-24,12,3,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-03-22,12,3,2020,16846
+"Connecticut","09","CT","New Haven","NA",2019-03-24,12,3,2019,384
+"Connecticut","09","CT","New London","NA",2020-03-22,12,3,2020,6235
+"Connecticut","09","CT","New London","NA",2019-03-24,12,3,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-03-22,12,3,2020,3072
+"Connecticut","09","CT","Out of State","NA",2019-03-24,12,3,2019,111
+"Connecticut","09","CT","Tolland","NA",2020-03-22,12,3,2020,2660
+"Connecticut","09","CT","Tolland","NA",2019-03-24,12,3,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-03-22,12,3,2020,806
+"Connecticut","09","CT","unknown","NA",2019-03-24,12,3,2019,20
+"Connecticut","09","CT","Windham","NA",2020-03-22,12,3,2020,1885
+"Connecticut","09","CT","Windham","NA",2019-03-24,12,3,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-03-29,13,3,2020,14859
+"Connecticut","09","CT","Fairfield","NA",2019-03-31,13,3,2019,346
+"Connecticut","09","CT","Hartford","NA",2020-03-29,13,3,2020,14010
+"Connecticut","09","CT","Hartford","NA",2019-03-31,13,3,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-03-29,13,3,2020,3048
+"Connecticut","09","CT","Litchfield","NA",2019-03-31,13,3,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-03-29,13,3,2020,2567
+"Connecticut","09","CT","Middlesex","NA",2019-03-31,13,3,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-03-29,13,3,2020,13588
+"Connecticut","09","CT","New Haven","NA",2019-03-31,13,3,2019,434
+"Connecticut","09","CT","New London","NA",2020-03-29,13,3,2020,4555
+"Connecticut","09","CT","New London","NA",2019-03-31,13,3,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-03-29,13,3,2020,3002
+"Connecticut","09","CT","Out of State","NA",2019-03-31,13,3,2019,118
+"Connecticut","09","CT","Tolland","NA",2020-03-29,13,3,2020,2030
+"Connecticut","09","CT","Tolland","NA",2019-03-31,13,3,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-03-29,13,3,2020,670
+"Connecticut","09","CT","unknown","NA",2019-03-31,13,3,2019,18
+"Connecticut","09","CT","Windham","NA",2020-03-29,13,3,2020,1545
+"Connecticut","09","CT","Windham","NA",2019-03-31,13,3,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-04-05,14,4,2020,9710
+"Connecticut","09","CT","Fairfield","NA",2019-04-07,14,4,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-04-05,14,4,2020,10207
+"Connecticut","09","CT","Hartford","NA",2019-04-07,14,4,2019,1019
+"Connecticut","09","CT","Litchfield","NA",2020-04-05,14,4,2020,1862
+"Connecticut","09","CT","Litchfield","NA",2019-04-07,14,4,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-04-05,14,4,2020,1616
+"Connecticut","09","CT","Middlesex","NA",2019-04-07,14,4,2019,142
+"Connecticut","09","CT","New Haven","NA",2020-04-05,14,4,2020,9066
+"Connecticut","09","CT","New Haven","NA",2019-04-07,14,4,2019,918
+"Connecticut","09","CT","New London","NA",2020-04-05,14,4,2020,2777
+"Connecticut","09","CT","New London","NA",2019-04-07,14,4,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-04-05,14,4,2020,2798
+"Connecticut","09","CT","Out of State","NA",2019-04-07,14,4,2019,177
+"Connecticut","09","CT","Tolland","NA",2020-04-05,14,4,2020,1343
+"Connecticut","09","CT","Tolland","NA",2019-04-07,14,4,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-04-05,14,4,2020,466
+"Connecticut","09","CT","unknown","NA",2019-04-07,14,4,2019,44
+"Connecticut","09","CT","Windham","NA",2020-04-05,14,4,2020,961
+"Connecticut","09","CT","Windham","NA",2019-04-07,14,4,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-04-12,15,4,2020,6400
+"Connecticut","09","CT","Fairfield","NA",2019-04-14,15,4,2019,1155
+"Connecticut","09","CT","Hartford","NA",2020-04-12,15,4,2020,7037
+"Connecticut","09","CT","Hartford","NA",2019-04-14,15,4,2019,1232
+"Connecticut","09","CT","Litchfield","NA",2020-04-12,15,4,2020,1355
+"Connecticut","09","CT","Litchfield","NA",2019-04-14,15,4,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-04-12,15,4,2020,1174
+"Connecticut","09","CT","Middlesex","NA",2019-04-14,15,4,2019,238
+"Connecticut","09","CT","New Haven","NA",2020-04-12,15,4,2020,6273
+"Connecticut","09","CT","New Haven","NA",2019-04-14,15,4,2019,1657
+"Connecticut","09","CT","New London","NA",2020-04-12,15,4,2020,1875
+"Connecticut","09","CT","New London","NA",2019-04-14,15,4,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-04-12,15,4,2020,1802
+"Connecticut","09","CT","Out of State","NA",2019-04-14,15,4,2019,232
+"Connecticut","09","CT","Tolland","NA",2020-04-12,15,4,2020,900
+"Connecticut","09","CT","Tolland","NA",2019-04-14,15,4,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-04-12,15,4,2020,300
+"Connecticut","09","CT","unknown","NA",2019-04-14,15,4,2019,79
+"Connecticut","09","CT","Windham","NA",2020-04-12,15,4,2020,693
+"Connecticut","09","CT","Windham","NA",2019-04-14,15,4,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-04-19,16,4,2020,4784
+"Connecticut","09","CT","Fairfield","NA",2019-04-21,16,4,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-04-19,16,4,2020,5111
+"Connecticut","09","CT","Hartford","NA",2019-04-21,16,4,2019,539
+"Connecticut","09","CT","Litchfield","NA",2020-04-19,16,4,2020,971
+"Connecticut","09","CT","Litchfield","NA",2019-04-21,16,4,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-04-19,16,4,2020,814
+"Connecticut","09","CT","Middlesex","NA",2019-04-21,16,4,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-04-19,16,4,2020,4716
+"Connecticut","09","CT","New Haven","NA",2019-04-21,16,4,2019,538
+"Connecticut","09","CT","New London","NA",2020-04-19,16,4,2020,1395
+"Connecticut","09","CT","New London","NA",2019-04-21,16,4,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-04-19,16,4,2020,1340
+"Connecticut","09","CT","Out of State","NA",2019-04-21,16,4,2019,118
+"Connecticut","09","CT","Tolland","NA",2020-04-19,16,4,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-04-21,16,4,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-04-19,16,4,2020,240
+"Connecticut","09","CT","unknown","NA",2019-04-21,16,4,2019,24
+"Connecticut","09","CT","Windham","NA",2020-04-19,16,4,2020,540
+"Connecticut","09","CT","Windham","NA",2019-04-21,16,4,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-04-26,17,4,2020,6808
+"Connecticut","09","CT","Fairfield","NA",2019-04-28,17,4,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-04-26,17,4,2020,6950
+"Connecticut","09","CT","Hartford","NA",2019-04-28,17,4,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-04-26,17,4,2020,1368
+"Connecticut","09","CT","Litchfield","NA",2019-04-28,17,4,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-04-26,17,4,2020,1267
+"Connecticut","09","CT","Middlesex","NA",2019-04-28,17,4,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-04-26,17,4,2020,6415
+"Connecticut","09","CT","New Haven","NA",2019-04-28,17,4,2019,NA
+"Connecticut","09","CT","New London","NA",2020-04-26,17,4,2020,1831
+"Connecticut","09","CT","New London","NA",2019-04-28,17,4,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-04-26,17,4,2020,1252
+"Connecticut","09","CT","Out of State","NA",2019-04-28,17,4,2019,135
+"Connecticut","09","CT","Tolland","NA",2020-04-26,17,4,2020,904
+"Connecticut","09","CT","Tolland","NA",2019-04-28,17,4,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-04-26,17,4,2020,351
+"Connecticut","09","CT","unknown","NA",2019-04-28,17,4,2019,38
+"Connecticut","09","CT","Windham","NA",2020-04-26,17,4,2020,709
+"Connecticut","09","CT","Windham","NA",2019-04-28,17,4,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-05-03,18,5,2020,5032
+"Connecticut","09","CT","Fairfield","NA",2019-05-05,18,5,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-05-03,18,5,2020,5361
+"Connecticut","09","CT","Hartford","NA",2019-05-05,18,5,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-05-03,18,5,2020,990
+"Connecticut","09","CT","Litchfield","NA",2019-05-05,18,5,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-05-03,18,5,2020,878
+"Connecticut","09","CT","Middlesex","NA",2019-05-05,18,5,2019,61
+"Connecticut","09","CT","New Haven","NA",2020-05-03,18,5,2020,4845
+"Connecticut","09","CT","New Haven","NA",2019-05-05,18,5,2019,NA
+"Connecticut","09","CT","New London","NA",2020-05-03,18,5,2020,1398
+"Connecticut","09","CT","New London","NA",2019-05-05,18,5,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-05-03,18,5,2020,986
+"Connecticut","09","CT","Out of State","NA",2019-05-05,18,5,2019,139
+"Connecticut","09","CT","Tolland","NA",2020-05-03,18,5,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-05-05,18,5,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-05-03,18,5,2020,257
+"Connecticut","09","CT","unknown","NA",2019-05-05,18,5,2019,18
+"Connecticut","09","CT","Windham","NA",2020-05-03,18,5,2020,539
+"Connecticut","09","CT","Windham","NA",2019-05-05,18,5,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-05-10,19,5,2020,4116
+"Connecticut","09","CT","Fairfield","NA",2019-05-12,19,5,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-05-10,19,5,2020,4607
+"Connecticut","09","CT","Hartford","NA",2019-05-12,19,5,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-05-10,19,5,2020,761
+"Connecticut","09","CT","Litchfield","NA",2019-05-12,19,5,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-05-10,19,5,2020,745
+"Connecticut","09","CT","Middlesex","NA",2019-05-12,19,5,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-05-10,19,5,2020,4121
+"Connecticut","09","CT","New Haven","NA",2019-05-12,19,5,2019,NA
+"Connecticut","09","CT","New London","NA",2020-05-10,19,5,2020,1065
+"Connecticut","09","CT","New London","NA",2019-05-12,19,5,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-05-10,19,5,2020,911
+"Connecticut","09","CT","Out of State","NA",2019-05-12,19,5,2019,142
+"Connecticut","09","CT","Tolland","NA",2020-05-10,19,5,2020,551
+"Connecticut","09","CT","Tolland","NA",2019-05-12,19,5,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-05-10,19,5,2020,225
+"Connecticut","09","CT","unknown","NA",2019-05-12,19,5,2019,25
+"Connecticut","09","CT","Windham","NA",2020-05-10,19,5,2020,491
+"Connecticut","09","CT","Windham","NA",2019-05-12,19,5,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-05-17,20,5,2020,3479
+"Connecticut","09","CT","Fairfield","NA",2019-05-19,20,5,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-05-17,20,5,2020,4274
+"Connecticut","09","CT","Hartford","NA",2019-05-19,20,5,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-05-17,20,5,2020,678
+"Connecticut","09","CT","Litchfield","NA",2019-05-19,20,5,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-05-17,20,5,2020,564
+"Connecticut","09","CT","Middlesex","NA",2019-05-19,20,5,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-05-17,20,5,2020,3656
+"Connecticut","09","CT","New Haven","NA",2019-05-19,20,5,2019,NA
+"Connecticut","09","CT","New London","NA",2020-05-17,20,5,2020,979
+"Connecticut","09","CT","New London","NA",2019-05-19,20,5,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-05-17,20,5,2020,1039
+"Connecticut","09","CT","Out of State","NA",2019-05-19,20,5,2019,164
+"Connecticut","09","CT","Tolland","NA",2020-05-17,20,5,2020,614
+"Connecticut","09","CT","Tolland","NA",2019-05-19,20,5,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-05-17,20,5,2020,203
+"Connecticut","09","CT","unknown","NA",2019-05-19,20,5,2019,20
+"Connecticut","09","CT","Windham","NA",2020-05-17,20,5,2020,420
+"Connecticut","09","CT","Windham","NA",2019-05-19,20,5,2019,107
+"Connecticut","09","CT","Fairfield","NA",2020-05-24,21,5,2020,2757
+"Connecticut","09","CT","Fairfield","NA",2019-05-26,21,5,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-05-24,21,5,2020,3227
+"Connecticut","09","CT","Hartford","NA",2019-05-26,21,5,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-05-24,21,5,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-05-26,21,5,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-05-24,21,5,2020,703
+"Connecticut","09","CT","Middlesex","NA",2019-05-26,21,5,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-05-24,21,5,2020,3172
+"Connecticut","09","CT","New Haven","NA",2019-05-26,21,5,2019,511
+"Connecticut","09","CT","New London","NA",2020-05-24,21,5,2020,843
+"Connecticut","09","CT","New London","NA",2019-05-26,21,5,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-05-24,21,5,2020,677
+"Connecticut","09","CT","Out of State","NA",2019-05-26,21,5,2019,138
+"Connecticut","09","CT","Tolland","NA",2020-05-24,21,5,2020,357
+"Connecticut","09","CT","Tolland","NA",2019-05-26,21,5,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-05-24,21,5,2020,165
+"Connecticut","09","CT","unknown","NA",2019-05-26,21,5,2019,16
+"Connecticut","09","CT","Windham","NA",2020-05-24,21,5,2020,289
+"Connecticut","09","CT","Windham","NA",2019-05-26,21,5,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-06-02,22,6,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-05-31,22,5,2020,2772
+"Connecticut","09","CT","Hartford","NA",2019-06-02,22,6,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-05-31,22,5,2020,3151
+"Connecticut","09","CT","Litchfield","NA",2019-06-02,22,6,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-05-31,22,5,2020,NA
+"Connecticut","09","CT","Middlesex","NA",2019-06-02,22,6,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-05-31,22,5,2020,444
+"Connecticut","09","CT","New Haven","NA",2019-06-02,22,6,2019,622
+"Connecticut","09","CT","New Haven","NA",2020-05-31,22,5,2020,2923
+"Connecticut","09","CT","New London","NA",2019-06-02,22,6,2019,NA
+"Connecticut","09","CT","New London","NA",2020-05-31,22,5,2020,669
+"Connecticut","09","CT","Out of State","NA",2019-06-02,22,6,2019,194
+"Connecticut","09","CT","Out of State","NA",2020-05-31,22,5,2020,717
+"Connecticut","09","CT","Tolland","NA",2019-06-02,22,6,2019,NA
+"Connecticut","09","CT","Tolland","NA",2020-05-31,22,5,2020,NA
+"Connecticut","09","CT","unknown","NA",2019-06-02,22,6,2019,16
+"Connecticut","09","CT","unknown","NA",2020-05-31,22,5,2020,150
+"Connecticut","09","CT","Windham","NA",2019-06-02,22,6,2019,NA
+"Connecticut","09","CT","Windham","NA",2020-05-31,22,5,2020,NA
+"Connecticut","09","CT","Fairfield","NA",2020-06-07,23,6,2020,2202
+"Connecticut","09","CT","Fairfield","NA",2019-06-09,23,6,2019,430
+"Connecticut","09","CT","Hartford","NA",2020-06-07,23,6,2020,2593
+"Connecticut","09","CT","Hartford","NA",2019-06-09,23,6,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-06-07,23,6,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-06-09,23,6,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-06-07,23,6,2020,339
+"Connecticut","09","CT","Middlesex","NA",2019-06-09,23,6,2019,88
+"Connecticut","09","CT","New Haven","NA",2020-06-07,23,6,2020,2487
+"Connecticut","09","CT","New Haven","NA",2019-06-09,23,6,2019,601
+"Connecticut","09","CT","New London","NA",2020-06-07,23,6,2020,513
+"Connecticut","09","CT","New London","NA",2019-06-09,23,6,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-06-07,23,6,2020,498
+"Connecticut","09","CT","Out of State","NA",2019-06-09,23,6,2019,148
+"Connecticut","09","CT","Tolland","NA",2020-06-07,23,6,2020,259
+"Connecticut","09","CT","Tolland","NA",2019-06-09,23,6,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-06-07,23,6,2020,136
+"Connecticut","09","CT","unknown","NA",2019-06-09,23,6,2019,17
+"Connecticut","09","CT","Windham","NA",2020-06-07,23,6,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-06-09,23,6,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-06-14,24,6,2020,2187
+"Connecticut","09","CT","Fairfield","NA",2019-06-16,24,6,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-06-14,24,6,2020,2647
+"Connecticut","09","CT","Hartford","NA",2019-06-16,24,6,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-06-14,24,6,2020,407
+"Connecticut","09","CT","Litchfield","NA",2019-06-16,24,6,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-06-14,24,6,2020,349
+"Connecticut","09","CT","Middlesex","NA",2019-06-16,24,6,2019,122
+"Connecticut","09","CT","New Haven","NA",2020-06-14,24,6,2020,2487
+"Connecticut","09","CT","New Haven","NA",2019-06-16,24,6,2019,898
+"Connecticut","09","CT","New London","NA",2020-06-14,24,6,2020,506
+"Connecticut","09","CT","New London","NA",2019-06-16,24,6,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-06-14,24,6,2020,497
+"Connecticut","09","CT","Out of State","NA",2019-06-16,24,6,2019,194
+"Connecticut","09","CT","Tolland","NA",2020-06-14,24,6,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-06-16,24,6,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-06-14,24,6,2020,128
+"Connecticut","09","CT","unknown","NA",2019-06-16,24,6,2019,41
+"Connecticut","09","CT","Windham","NA",2020-06-14,24,6,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-06-16,24,6,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-06-21,25,6,2020,2104
+"Connecticut","09","CT","Fairfield","NA",2019-06-23,25,6,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-06-21,25,6,2020,2663
+"Connecticut","09","CT","Hartford","NA",2019-06-23,25,6,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-06-21,25,6,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-06-23,25,6,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-06-21,25,6,2020,341
+"Connecticut","09","CT","Middlesex","NA",2019-06-23,25,6,2019,154
+"Connecticut","09","CT","New Haven","NA",2020-06-21,25,6,2020,2476
+"Connecticut","09","CT","New Haven","NA",2019-06-23,25,6,2019,1076
+"Connecticut","09","CT","New London","NA",2020-06-21,25,6,2020,607
+"Connecticut","09","CT","New London","NA",2019-06-23,25,6,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-06-21,25,6,2020,472
+"Connecticut","09","CT","Out of State","NA",2019-06-23,25,6,2019,167
+"Connecticut","09","CT","Tolland","NA",2020-06-21,25,6,2020,345
+"Connecticut","09","CT","Tolland","NA",2019-06-23,25,6,2019,131
+"Connecticut","09","CT","unknown","NA",2020-06-21,25,6,2020,188
+"Connecticut","09","CT","unknown","NA",2019-06-23,25,6,2019,49
+"Connecticut","09","CT","Windham","NA",2020-06-21,25,6,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-06-23,25,6,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-06-28,26,6,2020,1901
+"Connecticut","09","CT","Fairfield","NA",2019-06-30,26,6,2019,454
+"Connecticut","09","CT","Hartford","NA",2020-06-28,26,6,2020,2056
+"Connecticut","09","CT","Hartford","NA",2019-06-30,26,6,2019,545
+"Connecticut","09","CT","Litchfield","NA",2020-06-28,26,6,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-06-30,26,6,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-06-28,26,6,2020,269
+"Connecticut","09","CT","Middlesex","NA",2019-06-30,26,6,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-06-28,26,6,2020,2178
+"Connecticut","09","CT","New Haven","NA",2019-06-30,26,6,2019,621
+"Connecticut","09","CT","New London","NA",2020-06-28,26,6,2020,444
+"Connecticut","09","CT","New London","NA",2019-06-30,26,6,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-06-28,26,6,2020,438
+"Connecticut","09","CT","Out of State","NA",2019-06-30,26,6,2019,191
+"Connecticut","09","CT","Tolland","NA",2020-06-28,26,6,2020,250
+"Connecticut","09","CT","Tolland","NA",2019-06-30,26,6,2019,66
+"Connecticut","09","CT","unknown","NA",2020-06-28,26,6,2020,98
+"Connecticut","09","CT","unknown","NA",2019-06-30,26,6,2019,22
+"Connecticut","09","CT","Windham","NA",2020-06-28,26,6,2020,206
+"Connecticut","09","CT","Windham","NA",2019-06-30,26,6,2019,80
+"Connecticut","09","CT","Fairfield","NA",2020-07-05,27,7,2020,11151
+"Connecticut","09","CT","Fairfield","NA",2019-07-07,27,7,2019,1059
+"Connecticut","09","CT","Hartford","NA",2020-07-05,27,7,2020,9208
+"Connecticut","09","CT","Hartford","NA",2019-07-07,27,7,2019,1272
+"Connecticut","09","CT","Litchfield","NA",2020-07-05,27,7,2020,2508
+"Connecticut","09","CT","Litchfield","NA",2019-07-07,27,7,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-07-05,27,7,2020,1915
+"Connecticut","09","CT","Middlesex","NA",2019-07-07,27,7,2019,152
+"Connecticut","09","CT","New Haven","NA",2020-07-05,27,7,2020,9517
+"Connecticut","09","CT","New Haven","NA",2019-07-07,27,7,2019,1242
+"Connecticut","09","CT","New London","NA",2020-07-05,27,7,2020,2648
+"Connecticut","09","CT","New London","NA",2019-07-07,27,7,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-07-05,27,7,2020,817
+"Connecticut","09","CT","Out of State","NA",2019-07-07,27,7,2019,253
+"Connecticut","09","CT","Tolland","NA",2020-07-05,27,7,2020,1444
+"Connecticut","09","CT","Tolland","NA",2019-07-07,27,7,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-07-05,27,7,2020,456
+"Connecticut","09","CT","unknown","NA",2019-07-07,27,7,2019,44
+"Connecticut","09","CT","Windham","NA",2020-07-05,27,7,2020,1016
+"Connecticut","09","CT","Windham","NA",2019-07-07,27,7,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2020-07-12,28,7,2020,NA
+"Connecticut","09","CT","Fairfield","NA",2019-07-14,28,7,2019,NA
+"Connecticut","09","CT","Hartford","NA",2020-07-12,28,7,2020,NA
+"Connecticut","09","CT","Hartford","NA",2019-07-14,28,7,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2020-07-12,28,7,2020,NA
+"Connecticut","09","CT","Litchfield","NA",2019-07-14,28,7,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2020-07-12,28,7,2020,NA
+"Connecticut","09","CT","Middlesex","NA",2019-07-14,28,7,2019,NA
+"Connecticut","09","CT","New Haven","NA",2020-07-12,28,7,2020,NA
+"Connecticut","09","CT","New Haven","NA",2019-07-14,28,7,2019,NA
+"Connecticut","09","CT","New London","NA",2020-07-12,28,7,2020,NA
+"Connecticut","09","CT","New London","NA",2019-07-14,28,7,2019,NA
+"Connecticut","09","CT","Out of State","NA",2020-07-12,28,7,2020,82
+"Connecticut","09","CT","Out of State","NA",2019-07-14,28,7,2019,160
+"Connecticut","09","CT","Tolland","NA",2020-07-12,28,7,2020,NA
+"Connecticut","09","CT","Tolland","NA",2019-07-14,28,7,2019,NA
+"Connecticut","09","CT","unknown","NA",2020-07-12,28,7,2020,14
+"Connecticut","09","CT","unknown","NA",2019-07-14,28,7,2019,31
+"Connecticut","09","CT","Windham","NA",2020-07-12,28,7,2020,NA
+"Connecticut","09","CT","Windham","NA",2019-07-14,28,7,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-07-21,29,7,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-07-21,29,7,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-07-21,29,7,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-07-21,29,7,2019,92
+"Connecticut","09","CT","New Haven","NA",2019-07-21,29,7,2019,605
+"Connecticut","09","CT","New London","NA",2019-07-21,29,7,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-07-21,29,7,2019,161
+"Connecticut","09","CT","Tolland","NA",2019-07-21,29,7,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-07-21,29,7,2019,19
+"Connecticut","09","CT","Windham","NA",2019-07-21,29,7,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-07-28,30,7,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-07-28,30,7,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-07-28,30,7,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-07-28,30,7,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-07-28,30,7,2019,730
+"Connecticut","09","CT","New London","NA",2019-07-28,30,7,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-07-28,30,7,2019,182
+"Connecticut","09","CT","Tolland","NA",2019-07-28,30,7,2019,84
+"Connecticut","09","CT","unknown","NA",2019-07-28,30,7,2019,30
+"Connecticut","09","CT","Windham","NA",2019-07-28,30,7,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-08-04,31,8,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-08-04,31,8,2019,821
+"Connecticut","09","CT","Litchfield","NA",2019-08-04,31,8,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-08-04,31,8,2019,108
+"Connecticut","09","CT","New Haven","NA",2019-08-04,31,8,2019,720
+"Connecticut","09","CT","New London","NA",2019-08-04,31,8,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-08-04,31,8,2019,210
+"Connecticut","09","CT","Tolland","NA",2019-08-04,31,8,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-08-04,31,8,2019,26
+"Connecticut","09","CT","Windham","NA",2019-08-04,31,8,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-08-11,32,8,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-08-11,32,8,2019,768
+"Connecticut","09","CT","Litchfield","NA",2019-08-11,32,8,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-08-11,32,8,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-08-11,32,8,2019,NA
+"Connecticut","09","CT","New London","NA",2019-08-11,32,8,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-08-11,32,8,2019,158
+"Connecticut","09","CT","Tolland","NA",2019-08-11,32,8,2019,82
+"Connecticut","09","CT","unknown","NA",2019-08-11,32,8,2019,17
+"Connecticut","09","CT","Windham","NA",2019-08-11,32,8,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-08-18,33,8,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-08-18,33,8,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-08-18,33,8,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-08-18,33,8,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-08-18,33,8,2019,594
+"Connecticut","09","CT","New London","NA",2019-08-18,33,8,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-08-18,33,8,2019,154
+"Connecticut","09","CT","Tolland","NA",2019-08-18,33,8,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-08-18,33,8,2019,21
+"Connecticut","09","CT","Windham","NA",2019-08-18,33,8,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-08-25,34,8,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-08-25,34,8,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-08-25,34,8,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-08-25,34,8,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-08-25,34,8,2019,NA
+"Connecticut","09","CT","New London","NA",2019-08-25,34,8,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-08-25,34,8,2019,156
+"Connecticut","09","CT","Tolland","NA",2019-08-25,34,8,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-08-25,34,8,2019,24
+"Connecticut","09","CT","Windham","NA",2019-08-25,34,8,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-09-01,35,9,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-09-01,35,9,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-09-01,35,9,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-09-01,35,9,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-09-01,35,9,2019,NA
+"Connecticut","09","CT","New London","NA",2019-09-01,35,9,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-09-01,35,9,2019,139
+"Connecticut","09","CT","Tolland","NA",2019-09-01,35,9,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-09-01,35,9,2019,13
+"Connecticut","09","CT","Windham","NA",2019-09-01,35,9,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-09-08,36,9,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-09-08,36,9,2019,688
+"Connecticut","09","CT","Litchfield","NA",2019-09-08,36,9,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-09-08,36,9,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-09-08,36,9,2019,NA
+"Connecticut","09","CT","New London","NA",2019-09-08,36,9,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-09-08,36,9,2019,127
+"Connecticut","09","CT","Tolland","NA",2019-09-08,36,9,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-09-08,36,9,2019,28
+"Connecticut","09","CT","Windham","NA",2019-09-08,36,9,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-09-15,37,9,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-09-15,37,9,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-09-15,37,9,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-09-15,37,9,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-09-15,37,9,2019,593
+"Connecticut","09","CT","New London","NA",2019-09-15,37,9,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-09-15,37,9,2019,153
+"Connecticut","09","CT","Tolland","NA",2019-09-15,37,9,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-09-15,37,9,2019,22
+"Connecticut","09","CT","Windham","NA",2019-09-15,37,9,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-09-22,38,9,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-09-22,38,9,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-09-22,38,9,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-09-22,38,9,2019,99
+"Connecticut","09","CT","New Haven","NA",2019-09-22,38,9,2019,NA
+"Connecticut","09","CT","New London","NA",2019-09-22,38,9,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-09-22,38,9,2019,131
+"Connecticut","09","CT","Tolland","NA",2019-09-22,38,9,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-09-22,38,9,2019,19
+"Connecticut","09","CT","Windham","NA",2019-09-22,38,9,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-09-29,39,9,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-09-29,39,9,2019,704
+"Connecticut","09","CT","Litchfield","NA",2019-09-29,39,9,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-09-29,39,9,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-09-29,39,9,2019,619
+"Connecticut","09","CT","New London","NA",2019-09-29,39,9,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-09-29,39,9,2019,191
+"Connecticut","09","CT","Tolland","NA",2019-09-29,39,9,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-09-29,39,9,2019,30
+"Connecticut","09","CT","Windham","NA",2019-09-29,39,9,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-10-06,40,10,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-10-06,40,10,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-10-06,40,10,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-10-06,40,10,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-10-06,40,10,2019,858
+"Connecticut","09","CT","New London","NA",2019-10-06,40,10,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-10-06,40,10,2019,211
+"Connecticut","09","CT","Tolland","NA",2019-10-06,40,10,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-10-06,40,10,2019,22
+"Connecticut","09","CT","Windham","NA",2019-10-06,40,10,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-10-13,41,10,2019,440
+"Connecticut","09","CT","Hartford","NA",2019-10-13,41,10,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-10-13,41,10,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-10-13,41,10,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-10-13,41,10,2019,571
+"Connecticut","09","CT","New London","NA",2019-10-13,41,10,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-10-13,41,10,2019,154
+"Connecticut","09","CT","Tolland","NA",2019-10-13,41,10,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-10-13,41,10,2019,26
+"Connecticut","09","CT","Windham","NA",2019-10-13,41,10,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-10-20,42,10,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-10-20,42,10,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-10-20,42,10,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-10-20,42,10,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-10-20,42,10,2019,651
+"Connecticut","09","CT","New London","NA",2019-10-20,42,10,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-10-20,42,10,2019,164
+"Connecticut","09","CT","Tolland","NA",2019-10-20,42,10,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-10-20,42,10,2019,14
+"Connecticut","09","CT","Windham","NA",2019-10-20,42,10,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-10-27,43,10,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-10-27,43,10,2019,628
+"Connecticut","09","CT","Litchfield","NA",2019-10-27,43,10,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-10-27,43,10,2019,111
+"Connecticut","09","CT","New Haven","NA",2019-10-27,43,10,2019,604
+"Connecticut","09","CT","New London","NA",2019-10-27,43,10,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-10-27,43,10,2019,183
+"Connecticut","09","CT","Tolland","NA",2019-10-27,43,10,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-10-27,43,10,2019,19
+"Connecticut","09","CT","Windham","NA",2019-10-27,43,10,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-11-03,44,11,2019,592
+"Connecticut","09","CT","Hartford","NA",2019-11-03,44,11,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-11-03,44,11,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-11-03,44,11,2019,117
+"Connecticut","09","CT","New Haven","NA",2019-11-03,44,11,2019,NA
+"Connecticut","09","CT","New London","NA",2019-11-03,44,11,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-11-03,44,11,2019,218
+"Connecticut","09","CT","Tolland","NA",2019-11-03,44,11,2019,90
+"Connecticut","09","CT","unknown","NA",2019-11-03,44,11,2019,22
+"Connecticut","09","CT","Windham","NA",2019-11-03,44,11,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-11-10,45,11,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-11-10,45,11,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-11-10,45,11,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-11-10,45,11,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-11-10,45,11,2019,648
+"Connecticut","09","CT","New London","NA",2019-11-10,45,11,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-11-10,45,11,2019,222
+"Connecticut","09","CT","Tolland","NA",2019-11-10,45,11,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-11-10,45,11,2019,19
+"Connecticut","09","CT","Windham","NA",2019-11-10,45,11,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-11-17,46,11,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-11-17,46,11,2019,769
+"Connecticut","09","CT","Litchfield","NA",2019-11-17,46,11,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-11-17,46,11,2019,NA
+"Connecticut","09","CT","New Haven","NA",2019-11-17,46,11,2019,NA
+"Connecticut","09","CT","New London","NA",2019-11-17,46,11,2019,234
+"Connecticut","09","CT","Out of State","NA",2019-11-17,46,11,2019,259
+"Connecticut","09","CT","Tolland","NA",2019-11-17,46,11,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-11-17,46,11,2019,23
+"Connecticut","09","CT","Windham","NA",2019-11-17,46,11,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-11-24,47,11,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-11-24,47,11,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-11-24,47,11,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-11-24,47,11,2019,101
+"Connecticut","09","CT","New Haven","NA",2019-11-24,47,11,2019,679
+"Connecticut","09","CT","New London","NA",2019-11-24,47,11,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-11-24,47,11,2019,187
+"Connecticut","09","CT","Tolland","NA",2019-11-24,47,11,2019,93
+"Connecticut","09","CT","unknown","NA",2019-11-24,47,11,2019,27
+"Connecticut","09","CT","Windham","NA",2019-11-24,47,11,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-12-01,48,12,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-12-01,48,12,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-12-01,48,12,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-12-01,48,12,2019,137
+"Connecticut","09","CT","New Haven","NA",2019-12-01,48,12,2019,801
+"Connecticut","09","CT","New London","NA",2019-12-01,48,12,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-12-01,48,12,2019,235
+"Connecticut","09","CT","Tolland","NA",2019-12-01,48,12,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-12-01,48,12,2019,39
+"Connecticut","09","CT","Windham","NA",2019-12-01,48,12,2019,126
+"Connecticut","09","CT","Fairfield","NA",2019-12-08,49,12,2019,NA
+"Connecticut","09","CT","Hartford","NA",2019-12-08,49,12,2019,948
+"Connecticut","09","CT","Litchfield","NA",2019-12-08,49,12,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-12-08,49,12,2019,125
+"Connecticut","09","CT","New Haven","NA",2019-12-08,49,12,2019,NA
+"Connecticut","09","CT","New London","NA",2019-12-08,49,12,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-12-08,49,12,2019,241
+"Connecticut","09","CT","Tolland","NA",2019-12-08,49,12,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-12-08,49,12,2019,34
+"Connecticut","09","CT","Windham","NA",2019-12-08,49,12,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-12-15,50,12,2019,917
+"Connecticut","09","CT","Hartford","NA",2019-12-15,50,12,2019,NA
+"Connecticut","09","CT","Litchfield","NA",2019-12-15,50,12,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-12-15,50,12,2019,212
+"Connecticut","09","CT","New Haven","NA",2019-12-15,50,12,2019,1128
+"Connecticut","09","CT","New London","NA",2019-12-15,50,12,2019,NA
+"Connecticut","09","CT","Out of State","NA",2019-12-15,50,12,2019,242
+"Connecticut","09","CT","Tolland","NA",2019-12-15,50,12,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-12-15,50,12,2019,56
+"Connecticut","09","CT","Windham","NA",2019-12-15,50,12,2019,NA
+"Connecticut","09","CT","Fairfield","NA",2019-12-22,51,12,2019,1547
+"Connecticut","09","CT","Hartford","NA",2019-12-22,51,12,2019,2076
+"Connecticut","09","CT","Litchfield","NA",2019-12-22,51,12,2019,567
+"Connecticut","09","CT","Middlesex","NA",2019-12-22,51,12,2019,351
+"Connecticut","09","CT","New Haven","NA",2019-12-22,51,12,2019,2276
+"Connecticut","09","CT","New London","NA",2019-12-22,51,12,2019,734
+"Connecticut","09","CT","Out of State","NA",2019-12-22,51,12,2019,314
+"Connecticut","09","CT","Tolland","NA",2019-12-22,51,12,2019,296
+"Connecticut","09","CT","unknown","NA",2019-12-22,51,12,2019,101
+"Connecticut","09","CT","Windham","NA",2019-12-22,51,12,2019,342
+"Connecticut","09","CT","Fairfield","NA",2019-12-29,52,12,2019,669
+"Connecticut","09","CT","Hartford","NA",2019-12-29,52,12,2019,755
+"Connecticut","09","CT","Litchfield","NA",2019-12-29,52,12,2019,NA
+"Connecticut","09","CT","Middlesex","NA",2019-12-29,52,12,2019,141
+"Connecticut","09","CT","New Haven","NA",2019-12-29,52,12,2019,877
+"Connecticut","09","CT","New London","NA",2019-12-29,52,12,2019,296
+"Connecticut","09","CT","Out of State","NA",2019-12-29,52,12,2019,181
+"Connecticut","09","CT","Tolland","NA",2019-12-29,52,12,2019,NA
+"Connecticut","09","CT","unknown","NA",2019-12-29,52,12,2019,38
+"Connecticut","09","CT","Windham","NA",2019-12-29,52,12,2019,NA
