@@ -212,6 +212,9 @@
 * [New Jersey Department of Labor](https://nj.gov/labor/lpa/employ/uirate/lfest_index.html)
   * Format: Excel, Updated:  Monthly, Level: County, City
   * Data: Unemployment
+* [New Jersey Department of Labor](https://nj.gov/labor/lpa/employ/uirate/lfest_index.html)
+  * Format: Web Table, Updated: Weekly, Level: County
+  * Data: UI Claims
 
 ## New Mexico
 * [New Mexico Department of Workforce Solutions - *April*](https://www.jobs.state.nm.us/admin/gsipub/htmlarea/uploads/lmr_Apr_20.pdf)
