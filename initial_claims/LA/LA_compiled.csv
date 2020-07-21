@@ -1,0 +1,1153 @@
+"state","state_fips","state_short","county","county_fips","date","week","month","year","claims"
+"Louisiana",22,"LA","Jefferson",22051,2020-03-28,13,3,2020,13240
+"Louisiana",22,"LA","Orleans",22071,2020-03-28,13,3,2020,12896
+"Louisiana",22,"LA","Plaquemines",22075,2020-03-28,13,3,2020,431
+"Louisiana",22,"LA","St. Bernard",22087,2020-03-28,13,3,2020,1308
+"Louisiana",22,"LA","St. Charles",22089,2020-03-28,13,3,2020,1179
+"Louisiana",22,"LA","St. James",22093,2020-03-28,13,3,2020,336
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-03-28,13,3,2020,1030
+"Louisiana",22,"LA","St. Tammany",22103,2020-03-28,13,3,2020,5807
+"Louisiana",22,"LA","Ascension",22005,2020-03-28,13,3,2020,2759
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-03-28,13,3,2020,9777
+"Louisiana",22,"LA","East Feliciana",22037,2020-03-28,13,3,2020,256
+"Louisiana",22,"LA","Iberville",22047,2020-03-28,13,3,2020,611
+"Louisiana",22,"LA","Livingston",22063,2020-03-28,13,3,2020,3217
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-03-28,13,3,2020,365
+"Louisiana",22,"LA","St. Helena",22091,2020-03-28,13,3,2020,125
+"Louisiana",22,"LA","Tangipahoa",22105,2020-03-28,13,3,2020,3110
+"Louisiana",22,"LA","Washington",22117,2020-03-28,13,3,2020,567
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-03-28,13,3,2020,594
+"Louisiana",22,"LA","West Feliciana",22125,2020-03-28,13,3,2020,139
+"Louisiana",22,"LA","Assumption",22007,2020-03-28,13,3,2020,442
+"Louisiana",22,"LA","Lafourche",22057,2020-03-28,13,3,2020,1421
+"Louisiana",22,"LA","Terrebonne",22109,2020-03-28,13,3,2020,2138
+"Louisiana",22,"LA","Acadia",22001,2020-03-28,13,3,2020,802
+"Louisiana",22,"LA","Evangeline",22039,2020-03-28,13,3,2020,250
+"Louisiana",22,"LA","Iberia",22045,2020-03-28,13,3,2020,1214
+"Louisiana",22,"LA","Lafayette",22055,2020-03-28,13,3,2020,5265
+"Louisiana",22,"LA","St. Landry",22097,2020-03-28,13,3,2020,1291
+"Louisiana",22,"LA","St. Martin",22099,2020-03-28,13,3,2020,867
+"Louisiana",22,"LA","St. Mary",22101,2020-03-28,13,3,2020,793
+"Louisiana",22,"LA","Vermilion",22113,2020-03-28,13,3,2020,924
+"Louisiana",22,"LA","Allen",22003,2020-03-28,13,3,2020,204
+"Louisiana",22,"LA","Beauregard",22011,2020-03-28,13,3,2020,378
+"Louisiana",22,"LA","Calcasieu",22019,2020-03-28,13,3,2020,4389
+"Louisiana",22,"LA","Cameron",22023,2020-03-28,13,3,2020,47
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-03-28,13,3,2020,409
+"Louisiana",22,"LA","Vernon",22115,2020-03-28,13,3,2020,479
+"Louisiana",22,"LA","Avoyelles",22009,2020-03-28,13,3,2020,608
+"Louisiana",22,"LA","Catahoula",22025,2020-03-28,13,3,2020,85
+"Louisiana",22,"LA","Concordia",22029,2020-03-28,13,3,2020,158
+"Louisiana",22,"LA","Grant",22043,2020-03-28,13,3,2020,210
+"Louisiana",22,"LA","La Salle",22059,2020-03-28,13,3,2020,328
+"Louisiana",22,"LA","Rapides",22079,2020-03-28,13,3,2020,1907
+"Louisiana",22,"LA","Winn",22127,2020-03-28,13,3,2020,70
+"Louisiana",22,"LA","Bienville",22013,2020-03-28,13,3,2020,116
+"Louisiana",22,"LA","Bossier",22015,2020-03-28,13,3,2020,1994
+"Louisiana",22,"LA","Caddo",22017,2020-03-28,13,3,2020,4275
+"Louisiana",22,"LA","Claiborne",22027,2020-03-28,13,3,2020,66
+"Louisiana",22,"LA","De Soto",22031,2020-03-28,13,3,2020,286
+"Louisiana",22,"LA","Lincoln",22061,2020-03-28,13,3,2020,604
+"Louisiana",22,"LA","Natchitoches",22069,2020-03-28,13,3,2020,459
+"Louisiana",22,"LA","Red River",22081,2020-03-28,13,3,2020,47
+"Louisiana",22,"LA","Sabine",22085,2020-03-28,13,3,2020,125
+"Louisiana",22,"LA","Webster",22119,2020-03-28,13,3,2020,456
+"Louisiana",22,"LA","Caldwell",22021,2020-03-28,13,3,2020,78
+"Louisiana",22,"LA","East Carroll",22035,2020-03-28,13,3,2020,38
+"Louisiana",22,"LA","Franklin",22041,2020-03-28,13,3,2020,132
+"Louisiana",22,"LA","Jackson",22049,2020-03-28,13,3,2020,108
+"Louisiana",22,"LA","Madison",22065,2020-03-28,13,3,2020,54
+"Louisiana",22,"LA","Morehouse",22067,2020-03-28,13,3,2020,315
+"Louisiana",22,"LA","Ouachita",22073,2020-03-28,13,3,2020,2777
+"Louisiana",22,"LA","Richland",22083,2020-03-28,13,3,2020,204
+"Louisiana",22,"LA","Tensas",22107,2020-03-28,13,3,2020,22
+"Louisiana",22,"LA","Union",22111,2020-03-28,13,3,2020,224
+"Louisiana",22,"LA","West Carroll",22123,2020-03-28,13,3,2020,90
+"Louisiana",22,"LA","Jefferson",22051,2020-03-14,11,3,2020,248
+"Louisiana",22,"LA","Orleans",22071,2020-03-14,11,3,2020,305
+"Louisiana",22,"LA","Plaquemines",22075,2020-03-14,11,3,2020,3
+"Louisiana",22,"LA","St. Bernard",22087,2020-03-14,11,3,2020,35
+"Louisiana",22,"LA","St. Charles",22089,2020-03-14,11,3,2020,18
+"Louisiana",22,"LA","St. James",22093,2020-03-14,11,3,2020,10
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-03-14,11,3,2020,31
+"Louisiana",22,"LA","St. Tammany",22103,2020-03-14,11,3,2020,79
+"Louisiana",22,"LA","Ascension",22005,2020-03-14,11,3,2020,48
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-03-14,11,3,2020,156
+"Louisiana",22,"LA","East Feliciana",22037,2020-03-14,11,3,2020,11
+"Louisiana",22,"LA","Iberville",22047,2020-03-14,11,3,2020,18
+"Louisiana",22,"LA","Livingston",22063,2020-03-14,11,3,2020,53
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-03-14,11,3,2020,4
+"Louisiana",22,"LA","St. Helena",22091,2020-03-14,11,3,2020,6
+"Louisiana",22,"LA","Tangipahoa",22105,2020-03-14,11,3,2020,56
+"Louisiana",22,"LA","Washington",22117,2020-03-14,11,3,2020,18
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-03-14,11,3,2020,13
+"Louisiana",22,"LA","West Feliciana",22125,2020-03-14,11,3,2020,5
+"Louisiana",22,"LA","Assumption",22007,2020-03-14,11,3,2020,10
+"Louisiana",22,"LA","Lafourche",22057,2020-03-14,11,3,2020,25
+"Louisiana",22,"LA","Terrebonne",22109,2020-03-14,11,3,2020,28
+"Louisiana",22,"LA","Acadia",22001,2020-03-14,11,3,2020,25
+"Louisiana",22,"LA","Evangeline",22039,2020-03-14,11,3,2020,10
+"Louisiana",22,"LA","Iberia",22045,2020-03-14,11,3,2020,30
+"Louisiana",22,"LA","Lafayette",22055,2020-03-14,11,3,2020,82
+"Louisiana",22,"LA","St. Landry",22097,2020-03-14,11,3,2020,37
+"Louisiana",22,"LA","St. Martin",22099,2020-03-14,11,3,2020,12
+"Louisiana",22,"LA","St. Mary",22101,2020-03-14,11,3,2020,22
+"Louisiana",22,"LA","Vermilion",22113,2020-03-14,11,3,2020,14
+"Louisiana",22,"LA","Allen",22003,2020-03-14,11,3,2020,8
+"Louisiana",22,"LA","Beauregard",22011,2020-03-14,11,3,2020,14
+"Louisiana",22,"LA","Calcasieu",22019,2020-03-14,11,3,2020,123
+"Louisiana",22,"LA","Cameron",22023,2020-03-14,11,3,2020,1
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-03-14,11,3,2020,7
+"Louisiana",22,"LA","Vernon",22115,2020-03-14,11,3,2020,18
+"Louisiana",22,"LA","Avoyelles",22009,2020-03-14,11,3,2020,14
+"Louisiana",22,"LA","Catahoula",22025,2020-03-14,11,3,2020,3
+"Louisiana",22,"LA","Concordia",22029,2020-03-14,11,3,2020,6
+"Louisiana",22,"LA","Grant",22043,2020-03-14,11,3,2020,5
+"Louisiana",22,"LA","La Salle",22059,2020-03-14,11,3,2020,10
+"Louisiana",22,"LA","Rapides",22079,2020-03-14,11,3,2020,35
+"Louisiana",22,"LA","Winn",22127,2020-03-14,11,3,2020,2
+"Louisiana",22,"LA","Bienville",22013,2020-03-14,11,3,2020,2
+"Louisiana",22,"LA","Bossier",22015,2020-03-14,11,3,2020,34
+"Louisiana",22,"LA","Caddo",22017,2020-03-14,11,3,2020,88
+"Louisiana",22,"LA","Claiborne",22027,2020-03-14,11,3,2020,7
+"Louisiana",22,"LA","De Soto",22031,2020-03-14,11,3,2020,9
+"Louisiana",22,"LA","Lincoln",22061,2020-03-14,11,3,2020,12
+"Louisiana",22,"LA","Natchitoches",22069,2020-03-14,11,3,2020,12
+"Louisiana",22,"LA","Red River",22081,2020-03-14,11,3,2020,2
+"Louisiana",22,"LA","Sabine",22085,2020-03-14,11,3,2020,9
+"Louisiana",22,"LA","Webster",22119,2020-03-14,11,3,2020,11
+"Louisiana",22,"LA","Caldwell",22021,2020-03-14,11,3,2020,4
+"Louisiana",22,"LA","East Carroll",22035,2020-03-14,11,3,2020,2
+"Louisiana",22,"LA","Franklin",22041,2020-03-14,11,3,2020,3
+"Louisiana",22,"LA","Jackson",22049,2020-03-14,11,3,2020,3
+"Louisiana",22,"LA","Madison",22065,2020-03-14,11,3,2020,4
+"Louisiana",22,"LA","Morehouse",22067,2020-03-14,11,3,2020,6
+"Louisiana",22,"LA","Ouachita",22073,2020-03-14,11,3,2020,51
+"Louisiana",22,"LA","Richland",22083,2020-03-14,11,3,2020,6
+"Louisiana",22,"LA","Tensas",22107,2020-03-14,11,3,2020,3
+"Louisiana",22,"LA","Union",22111,2020-03-14,11,3,2020,2
+"Louisiana",22,"LA","West Carroll",22123,2020-03-14,11,3,2020,3
+"Louisiana",22,"LA","Jefferson",22051,2020-03-21,12,3,2020,10542
+"Louisiana",22,"LA","Orleans",22071,2020-03-21,12,3,2020,13786
+"Louisiana",22,"LA","Plaquemines",22075,2020-03-21,12,3,2020,283
+"Louisiana",22,"LA","St. Bernard",22087,2020-03-21,12,3,2020,1145
+"Louisiana",22,"LA","St. Charles",22089,2020-03-21,12,3,2020,884
+"Louisiana",22,"LA","St. James",22093,2020-03-21,12,3,2020,190
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-03-21,12,3,2020,596
+"Louisiana",22,"LA","St. Tammany",22103,2020-03-21,12,3,2020,4682
+"Louisiana",22,"LA","Ascension",22005,2020-03-21,12,3,2020,1533
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-03-21,12,3,2020,7510
+"Louisiana",22,"LA","East Feliciana",22037,2020-03-21,12,3,2020,142
+"Louisiana",22,"LA","Iberville",22047,2020-03-21,12,3,2020,351
+"Louisiana",22,"LA","Livingston",22063,2020-03-21,12,3,2020,2139
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-03-21,12,3,2020,226
+"Louisiana",22,"LA","St. Helena",22091,2020-03-21,12,3,2020,52
+"Louisiana",22,"LA","Tangipahoa",22105,2020-03-21,12,3,2020,2121
+"Louisiana",22,"LA","Washington",22117,2020-03-21,12,3,2020,291
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-03-21,12,3,2020,322
+"Louisiana",22,"LA","West Feliciana",22125,2020-03-21,12,3,2020,99
+"Louisiana",22,"LA","Assumption",22007,2020-03-21,12,3,2020,134
+"Louisiana",22,"LA","Lafourche",22057,2020-03-21,12,3,2020,760
+"Louisiana",22,"LA","Terrebonne",22109,2020-03-21,12,3,2020,1217
+"Louisiana",22,"LA","Acadia",22001,2020-03-21,12,3,2020,537
+"Louisiana",22,"LA","Evangeline",22039,2020-03-21,12,3,2020,135
+"Louisiana",22,"LA","Iberia",22045,2020-03-21,12,3,2020,616
+"Louisiana",22,"LA","Lafayette",22055,2020-03-21,12,3,2020,3808
+"Louisiana",22,"LA","St. Landry",22097,2020-03-21,12,3,2020,642
+"Louisiana",22,"LA","St. Martin",22099,2020-03-21,12,3,2020,492
+"Louisiana",22,"LA","St. Mary",22101,2020-03-21,12,3,2020,373
+"Louisiana",22,"LA","Vermilion",22113,2020-03-21,12,3,2020,519
+"Louisiana",22,"LA","Allen",22003,2020-03-21,12,3,2020,98
+"Louisiana",22,"LA","Beauregard",22011,2020-03-21,12,3,2020,231
+"Louisiana",22,"LA","Calcasieu",22019,2020-03-21,12,3,2020,3040
+"Louisiana",22,"LA","Cameron",22023,2020-03-21,12,3,2020,21
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-03-21,12,3,2020,202
+"Louisiana",22,"LA","Vernon",22115,2020-03-21,12,3,2020,234
+"Louisiana",22,"LA","Avoyelles",22009,2020-03-21,12,3,2020,699
+"Louisiana",22,"LA","Catahoula",22025,2020-03-21,12,3,2020,22
+"Louisiana",22,"LA","Concordia",22029,2020-03-21,12,3,2020,70
+"Louisiana",22,"LA","Grant",22043,2020-03-21,12,3,2020,116
+"Louisiana",22,"LA","La Salle",22059,2020-03-21,12,3,2020,189
+"Louisiana",22,"LA","Rapides",22079,2020-03-21,12,3,2020,969
+"Louisiana",22,"LA","Winn",22127,2020-03-21,12,3,2020,21
+"Louisiana",22,"LA","Bienville",22013,2020-03-21,12,3,2020,62
+"Louisiana",22,"LA","Bossier",22015,2020-03-21,12,3,2020,1346
+"Louisiana",22,"LA","Caddo",22017,2020-03-21,12,3,2020,2857
+"Louisiana",22,"LA","Claiborne",22027,2020-03-21,12,3,2020,31
+"Louisiana",22,"LA","De Soto",22031,2020-03-21,12,3,2020,161
+"Louisiana",22,"LA","Lincoln",22061,2020-03-21,12,3,2020,322
+"Louisiana",22,"LA","Natchitoches",22069,2020-03-21,12,3,2020,303
+"Louisiana",22,"LA","Red River",22081,2020-03-21,12,3,2020,27
+"Louisiana",22,"LA","Sabine",22085,2020-03-21,12,3,2020,93
+"Louisiana",22,"LA","Webster",22119,2020-03-21,12,3,2020,264
+"Louisiana",22,"LA","Caldwell",22021,2020-03-21,12,3,2020,38
+"Louisiana",22,"LA","East Carroll",22035,2020-03-21,12,3,2020,21
+"Louisiana",22,"LA","Franklin",22041,2020-03-21,12,3,2020,92
+"Louisiana",22,"LA","Jackson",22049,2020-03-21,12,3,2020,47
+"Louisiana",22,"LA","Madison",22065,2020-03-21,12,3,2020,28
+"Louisiana",22,"LA","Morehouse",22067,2020-03-21,12,3,2020,130
+"Louisiana",22,"LA","Ouachita",22073,2020-03-21,12,3,2020,1512
+"Louisiana",22,"LA","Richland",22083,2020-03-21,12,3,2020,112
+"Louisiana",22,"LA","Tensas",22107,2020-03-21,12,3,2020,7
+"Louisiana",22,"LA","Union",22111,2020-03-21,12,3,2020,86
+"Louisiana",22,"LA","West Carroll",22123,2020-03-21,12,3,2020,38
+"Louisiana",22,"LA","Jefferson",22051,2020-04-04,14,4,2020,12760
+"Louisiana",22,"LA","Orleans",22071,2020-04-04,14,4,2020,11701
+"Louisiana",22,"LA","Plaquemines",22075,2020-04-04,14,4,2020,506
+"Louisiana",22,"LA","St. Bernard",22087,2020-04-04,14,4,2020,1111
+"Louisiana",22,"LA","St. Charles",22089,2020-04-04,14,4,2020,1242
+"Louisiana",22,"LA","St. James",22093,2020-04-04,14,4,2020,403
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-04-04,14,4,2020,1091
+"Louisiana",22,"LA","St. Tammany",22103,2020-04-04,14,4,2020,5947
+"Louisiana",22,"LA","Ascension",22005,2020-04-04,14,4,2020,3091
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-04-04,14,4,2020,10271
+"Louisiana",22,"LA","East Feliciana",22037,2020-04-04,14,4,2020,297
+"Louisiana",22,"LA","Iberville",22047,2020-04-04,14,4,2020,630
+"Louisiana",22,"LA","Livingston",22063,2020-04-04,14,4,2020,3330
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-04-04,14,4,2020,401
+"Louisiana",22,"LA","St. Helena",22091,2020-04-04,14,4,2020,144
+"Louisiana",22,"LA","Tangipahoa",22105,2020-04-04,14,4,2020,3242
+"Louisiana",22,"LA","Washington",22117,2020-04-04,14,4,2020,588
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-04-04,14,4,2020,564
+"Louisiana",22,"LA","West Feliciana",22125,2020-04-04,14,4,2020,141
+"Louisiana",22,"LA","Assumption",22007,2020-04-04,14,4,2020,481
+"Louisiana",22,"LA","Lafourche",22057,2020-04-04,14,4,2020,1648
+"Louisiana",22,"LA","Terrebonne",22109,2020-04-04,14,4,2020,2310
+"Louisiana",22,"LA","Acadia",22001,2020-04-04,14,4,2020,964
+"Louisiana",22,"LA","Evangeline",22039,2020-04-04,14,4,2020,379
+"Louisiana",22,"LA","Iberia",22045,2020-04-04,14,4,2020,1475
+"Louisiana",22,"LA","Lafayette",22055,2020-04-04,14,4,2020,5536
+"Louisiana",22,"LA","St. Landry",22097,2020-04-04,14,4,2020,1394
+"Louisiana",22,"LA","St. Martin",22099,2020-04-04,14,4,2020,976
+"Louisiana",22,"LA","St. Mary",22101,2020-04-04,14,4,2020,1017
+"Louisiana",22,"LA","Vermilion",22113,2020-04-04,14,4,2020,1143
+"Louisiana",22,"LA","Allen",22003,2020-04-04,14,4,2020,420
+"Louisiana",22,"LA","Beauregard",22011,2020-04-04,14,4,2020,539
+"Louisiana",22,"LA","Calcasieu",22019,2020-04-04,14,4,2020,5634
+"Louisiana",22,"LA","Cameron",22023,2020-04-04,14,4,2020,67
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-04-04,14,4,2020,518
+"Louisiana",22,"LA","Vernon",22115,2020-04-04,14,4,2020,523
+"Louisiana",22,"LA","Avoyelles",22009,2020-04-04,14,4,2020,466
+"Louisiana",22,"LA","Catahoula",22025,2020-04-04,14,4,2020,96
+"Louisiana",22,"LA","Concordia",22029,2020-04-04,14,4,2020,175
+"Louisiana",22,"LA","Grant",22043,2020-04-04,14,4,2020,209
+"Louisiana",22,"LA","La Salle",22059,2020-04-04,14,4,2020,343
+"Louisiana",22,"LA","Rapides",22079,2020-04-04,14,4,2020,1830
+"Louisiana",22,"LA","Winn",22127,2020-04-04,14,4,2020,96
+"Louisiana",22,"LA","Bienville",22013,2020-04-04,14,4,2020,133
+"Louisiana",22,"LA","Bossier",22015,2020-04-04,14,4,2020,2567
+"Louisiana",22,"LA","Caddo",22017,2020-04-04,14,4,2020,5343
+"Louisiana",22,"LA","Claiborne",22027,2020-04-04,14,4,2020,77
+"Louisiana",22,"LA","De Soto",22031,2020-04-04,14,4,2020,330
+"Louisiana",22,"LA","Lincoln",22061,2020-04-04,14,4,2020,658
+"Louisiana",22,"LA","Natchitoches",22069,2020-04-04,14,4,2020,477
+"Louisiana",22,"LA","Red River",22081,2020-04-04,14,4,2020,65
+"Louisiana",22,"LA","Sabine",22085,2020-04-04,14,4,2020,199
+"Louisiana",22,"LA","Webster",22119,2020-04-04,14,4,2020,550
+"Louisiana",22,"LA","Caldwell",22021,2020-04-04,14,4,2020,102
+"Louisiana",22,"LA","East Carroll",22035,2020-04-04,14,4,2020,39
+"Louisiana",22,"LA","Franklin",22041,2020-04-04,14,4,2020,169
+"Louisiana",22,"LA","Jackson",22049,2020-04-04,14,4,2020,140
+"Louisiana",22,"LA","Madison",22065,2020-04-04,14,4,2020,65
+"Louisiana",22,"LA","Morehouse",22067,2020-04-04,14,4,2020,344
+"Louisiana",22,"LA","Ouachita",22073,2020-04-04,14,4,2020,2935
+"Louisiana",22,"LA","Richland",22083,2020-04-04,14,4,2020,231
+"Louisiana",22,"LA","Tensas",22107,2020-04-04,14,4,2020,23
+"Louisiana",22,"LA","Union",22111,2020-04-04,14,4,2020,254
+"Louisiana",22,"LA","West Carroll",22123,2020-04-04,14,4,2020,101
+"Louisiana",22,"LA","Jefferson",22051,2020-04-11,15,4,2020,10266
+"Louisiana",22,"LA","Orleans",22071,2020-04-11,15,4,2020,9653
+"Louisiana",22,"LA","Plaquemines",22075,2020-04-11,15,4,2020,341
+"Louisiana",22,"LA","St. Bernard",22087,2020-04-11,15,4,2020,956
+"Louisiana",22,"LA","St. Charles",22089,2020-04-11,15,4,2020,949
+"Louisiana",22,"LA","St. James",22093,2020-04-11,15,4,2020,326
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-04-11,15,4,2020,997
+"Louisiana",22,"LA","St. Tammany",22103,2020-04-11,15,4,2020,4530
+"Louisiana",22,"LA","Ascension",22005,2020-04-11,15,4,2020,2189
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-04-11,15,4,2020,8349
+"Louisiana",22,"LA","East Feliciana",22037,2020-04-11,15,4,2020,263
+"Louisiana",22,"LA","Iberville",22047,2020-04-11,15,4,2020,490
+"Louisiana",22,"LA","Livingston",22063,2020-04-11,15,4,2020,2274
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-04-11,15,4,2020,257
+"Louisiana",22,"LA","St. Helena",22091,2020-04-11,15,4,2020,107
+"Louisiana",22,"LA","Tangipahoa",22105,2020-04-11,15,4,2020,2651
+"Louisiana",22,"LA","Washington",22117,2020-04-11,15,4,2020,503
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-04-11,15,4,2020,407
+"Louisiana",22,"LA","West Feliciana",22125,2020-04-11,15,4,2020,112
+"Louisiana",22,"LA","Assumption",22007,2020-04-11,15,4,2020,330
+"Louisiana",22,"LA","Lafourche",22057,2020-04-11,15,4,2020,1202
+"Louisiana",22,"LA","Terrebonne",22109,2020-04-11,15,4,2020,1811
+"Louisiana",22,"LA","Acadia",22001,2020-04-11,15,4,2020,665
+"Louisiana",22,"LA","Evangeline",22039,2020-04-11,15,4,2020,298
+"Louisiana",22,"LA","Iberia",22045,2020-04-11,15,4,2020,1017
+"Louisiana",22,"LA","Lafayette",22055,2020-04-11,15,4,2020,4091
+"Louisiana",22,"LA","St. Landry",22097,2020-04-11,15,4,2020,1071
+"Louisiana",22,"LA","St. Martin",22099,2020-04-11,15,4,2020,704
+"Louisiana",22,"LA","St. Mary",22101,2020-04-11,15,4,2020,764
+"Louisiana",22,"LA","Vermilion",22113,2020-04-11,15,4,2020,722
+"Louisiana",22,"LA","Allen",22003,2020-04-11,15,4,2020,431
+"Louisiana",22,"LA","Beauregard",22011,2020-04-11,15,4,2020,413
+"Louisiana",22,"LA","Calcasieu",22019,2020-04-11,15,4,2020,3724
+"Louisiana",22,"LA","Cameron",22023,2020-04-11,15,4,2020,52
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-04-11,15,4,2020,417
+"Louisiana",22,"LA","Vernon",22115,2020-04-11,15,4,2020,393
+"Louisiana",22,"LA","Avoyelles",22009,2020-04-11,15,4,2020,412
+"Louisiana",22,"LA","Catahoula",22025,2020-04-11,15,4,2020,83
+"Louisiana",22,"LA","Concordia",22029,2020-04-11,15,4,2020,133
+"Louisiana",22,"LA","Grant",22043,2020-04-11,15,4,2020,172
+"Louisiana",22,"LA","La Salle",22059,2020-04-11,15,4,2020,294
+"Louisiana",22,"LA","Rapides",22079,2020-04-11,15,4,2020,1371
+"Louisiana",22,"LA","Winn",22127,2020-04-11,15,4,2020,117
+"Louisiana",22,"LA","Bienville",22013,2020-04-11,15,4,2020,115
+"Louisiana",22,"LA","Bossier",22015,2020-04-11,15,4,2020,1725
+"Louisiana",22,"LA","Caddo",22017,2020-04-11,15,4,2020,4050
+"Louisiana",22,"LA","Claiborne",22027,2020-04-11,15,4,2020,76
+"Louisiana",22,"LA","De Soto",22031,2020-04-11,15,4,2020,271
+"Louisiana",22,"LA","Lincoln",22061,2020-04-11,15,4,2020,553
+"Louisiana",22,"LA","Natchitoches",22069,2020-04-11,15,4,2020,423
+"Louisiana",22,"LA","Red River",22081,2020-04-11,15,4,2020,65
+"Louisiana",22,"LA","Sabine",22085,2020-04-11,15,4,2020,150
+"Louisiana",22,"LA","Webster",22119,2020-04-11,15,4,2020,387
+"Louisiana",22,"LA","Caldwell",22021,2020-04-11,15,4,2020,94
+"Louisiana",22,"LA","East Carroll",22035,2020-04-11,15,4,2020,26
+"Louisiana",22,"LA","Franklin",22041,2020-04-11,15,4,2020,194
+"Louisiana",22,"LA","Jackson",22049,2020-04-11,15,4,2020,122
+"Louisiana",22,"LA","Madison",22065,2020-04-11,15,4,2020,68
+"Louisiana",22,"LA","Morehouse",22067,2020-04-11,15,4,2020,307
+"Louisiana",22,"LA","Ouachita",22073,2020-04-11,15,4,2020,2236
+"Louisiana",22,"LA","Richland",22083,2020-04-11,15,4,2020,215
+"Louisiana",22,"LA","Tensas",22107,2020-04-11,15,4,2020,19
+"Louisiana",22,"LA","Union",22111,2020-04-11,15,4,2020,200
+"Louisiana",22,"LA","West Carroll",22123,2020-04-11,15,4,2020,76
+"Louisiana",22,"LA","Jefferson",22051,2020-04-18,16,4,2020,12041
+"Louisiana",22,"LA","Orleans",22071,2020-04-18,16,4,2020,10881
+"Louisiana",22,"LA","Plaquemines",22075,2020-04-18,16,4,2020,557
+"Louisiana",22,"LA","St. Bernard",22087,2020-04-18,16,4,2020,1201
+"Louisiana",22,"LA","St. Charles",22089,2020-04-18,16,4,2020,1114
+"Louisiana",22,"LA","St. James",22093,2020-04-18,16,4,2020,380
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-04-18,16,4,2020,1198
+"Louisiana",22,"LA","St. Tammany",22103,2020-04-18,16,4,2020,5317
+"Louisiana",22,"LA","Ascension",22005,2020-04-18,16,4,2020,2325
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-04-18,16,4,2020,9577
+"Louisiana",22,"LA","East Feliciana",22037,2020-04-18,16,4,2020,227
+"Louisiana",22,"LA","Iberville",22047,2020-04-18,16,4,2020,581
+"Louisiana",22,"LA","Livingston",22063,2020-04-18,16,4,2020,2402
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-04-18,16,4,2020,330
+"Louisiana",22,"LA","St. Helena",22091,2020-04-18,16,4,2020,129
+"Louisiana",22,"LA","Tangipahoa",22105,2020-04-18,16,4,2020,3160
+"Louisiana",22,"LA","Washington",22117,2020-04-18,16,4,2020,662
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-04-18,16,4,2020,519
+"Louisiana",22,"LA","West Feliciana",22125,2020-04-18,16,4,2020,134
+"Louisiana",22,"LA","Assumption",22007,2020-04-18,16,4,2020,393
+"Louisiana",22,"LA","Lafourche",22057,2020-04-18,16,4,2020,1564
+"Louisiana",22,"LA","Terrebonne",22109,2020-04-18,16,4,2020,2127
+"Louisiana",22,"LA","Acadia",22001,2020-04-18,16,4,2020,915
+"Louisiana",22,"LA","Evangeline",22039,2020-04-18,16,4,2020,386
+"Louisiana",22,"LA","Iberia",22045,2020-04-18,16,4,2020,1175
+"Louisiana",22,"LA","Lafayette",22055,2020-04-18,16,4,2020,4988
+"Louisiana",22,"LA","St. Landry",22097,2020-04-18,16,4,2020,1437
+"Louisiana",22,"LA","St. Martin",22099,2020-04-18,16,4,2020,909
+"Louisiana",22,"LA","St. Mary",22101,2020-04-18,16,4,2020,903
+"Louisiana",22,"LA","Vermilion",22113,2020-04-18,16,4,2020,883
+"Louisiana",22,"LA","Allen",22003,2020-04-18,16,4,2020,683
+"Louisiana",22,"LA","Beauregard",22011,2020-04-18,16,4,2020,435
+"Louisiana",22,"LA","Calcasieu",22019,2020-04-18,16,4,2020,4284
+"Louisiana",22,"LA","Cameron",22023,2020-04-18,16,4,2020,53
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-04-18,16,4,2020,561
+"Louisiana",22,"LA","Vernon",22115,2020-04-18,16,4,2020,368
+"Louisiana",22,"LA","Avoyelles",22009,2020-04-18,16,4,2020,491
+"Louisiana",22,"LA","Catahoula",22025,2020-04-18,16,4,2020,135
+"Louisiana",22,"LA","Concordia",22029,2020-04-18,16,4,2020,190
+"Louisiana",22,"LA","Grant",22043,2020-04-18,16,4,2020,177
+"Louisiana",22,"LA","Jefferson",22051,2020-04-25,17,4,2020,7868
+"Louisiana",22,"LA","Orleans",22071,2020-04-25,17,4,2020,7651
+"Louisiana",22,"LA","Plaquemines",22075,2020-04-25,17,4,2020,355
+"Louisiana",22,"LA","St. Bernard",22087,2020-04-25,17,4,2020,762
+"Louisiana",22,"LA","St. Charles",22089,2020-04-25,17,4,2020,724
+"Louisiana",22,"LA","St. James",22093,2020-04-25,17,4,2020,307
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-04-25,17,4,2020,790
+"Louisiana",22,"LA","St. Tammany",22103,2020-04-25,17,4,2020,3496
+"Louisiana",22,"LA","Ascension",22005,2020-04-25,17,4,2020,1616
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-04-25,17,4,2020,6978
+"Louisiana",22,"LA","East Feliciana",22037,2020-04-25,17,4,2020,210
+"Louisiana",22,"LA","Iberville",22047,2020-04-25,17,4,2020,442
+"Louisiana",22,"LA","Livingston",22063,2020-04-25,17,4,2020,1762
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-04-25,17,4,2020,259
+"Louisiana",22,"LA","St. Helena",22091,2020-04-25,17,4,2020,100
+"Louisiana",22,"LA","Tangipahoa",22105,2020-04-25,17,4,2020,2407
+"Louisiana",22,"LA","Washington",22117,2020-04-25,17,4,2020,607
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-04-25,17,4,2020,373
+"Louisiana",22,"LA","West Feliciana",22125,2020-04-25,17,4,2020,102
+"Louisiana",22,"LA","Assumption",22007,2020-04-25,17,4,2020,266
+"Louisiana",22,"LA","Lafourche",22057,2020-04-25,17,4,2020,1172
+"Louisiana",22,"LA","Terrebonne",22109,2020-04-25,17,4,2020,1600
+"Louisiana",22,"LA","Acadia",22001,2020-04-25,17,4,2020,727
+"Louisiana",22,"LA","Evangeline",22039,2020-04-25,17,4,2020,268
+"Louisiana",22,"LA","Iberia",22045,2020-04-25,17,4,2020,958
+"Louisiana",22,"LA","Lafayette",22055,2020-04-25,17,4,2020,3474
+"Louisiana",22,"LA","St. Landry",22097,2020-04-25,17,4,2020,1093
+"Louisiana",22,"LA","St. Martin",22099,2020-04-25,17,4,2020,667
+"Louisiana",22,"LA","St. Mary",22101,2020-04-25,17,4,2020,676
+"Louisiana",22,"LA","Vermilion",22113,2020-04-25,17,4,2020,667
+"Louisiana",22,"LA","Allen",22003,2020-04-25,17,4,2020,233
+"Louisiana",22,"LA","Beauregard",22011,2020-04-25,17,4,2020,267
+"Louisiana",22,"LA","Calcasieu",22019,2020-04-25,17,4,2020,3002
+"Louisiana",22,"LA","Cameron",22023,2020-04-25,17,4,2020,39
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-04-25,17,4,2020,358
+"Louisiana",22,"LA","Vernon",22115,2020-04-25,17,4,2020,390
+"Louisiana",22,"LA","La Salle",22059,2020-04-18,16,4,2020,339
+"Louisiana",22,"LA","Rapides",22079,2020-04-18,16,4,2020,1541
+"Louisiana",22,"LA","Winn",22127,2020-04-18,16,4,2020,126
+"Louisiana",22,"LA","Avoyelles",22009,2020-04-25,17,4,2020,359
+"Louisiana",22,"LA","Catahoula",22025,2020-04-25,17,4,2020,88
+"Louisiana",22,"LA","Concordia",22029,2020-04-25,17,4,2020,177
+"Louisiana",22,"LA","Grant",22043,2020-04-25,17,4,2020,141
+"Louisiana",22,"LA","La Salle",22059,2020-04-25,17,4,2020,243
+"Louisiana",22,"LA","Rapides",22079,2020-04-25,17,4,2020,1125
+"Louisiana",22,"LA","Winn",22127,2020-04-25,17,4,2020,62
+"Louisiana",22,"LA","Bienville",22013,2020-04-18,16,4,2020,135
+"Louisiana",22,"LA","Bossier",22015,2020-04-18,16,4,2020,1805
+"Louisiana",22,"LA","Caddo",22017,2020-04-18,16,4,2020,4310
+"Louisiana",22,"LA","Claiborne",22027,2020-04-18,16,4,2020,100
+"Louisiana",22,"LA","De Soto",22031,2020-04-18,16,4,2020,326
+"Louisiana",22,"LA","Lincoln",22061,2020-04-18,16,4,2020,669
+"Louisiana",22,"LA","Natchitoches",22069,2020-04-18,16,4,2020,485
+"Louisiana",22,"LA","Red River",22081,2020-04-18,16,4,2020,76
+"Louisiana",22,"LA","Sabine",22085,2020-04-18,16,4,2020,245
+"Louisiana",22,"LA","Webster",22119,2020-04-18,16,4,2020,458
+"Louisiana",22,"LA","Bienville",22013,2020-04-25,17,4,2020,105
+"Louisiana",22,"LA","Bossier",22015,2020-04-25,17,4,2020,1302
+"Louisiana",22,"LA","Caddo",22017,2020-04-25,17,4,2020,3428
+"Louisiana",22,"LA","Claiborne",22027,2020-04-25,17,4,2020,82
+"Louisiana",22,"LA","De Soto",22031,2020-04-25,17,4,2020,264
+"Louisiana",22,"LA","Lincoln",22061,2020-04-25,17,4,2020,478
+"Louisiana",22,"LA","Natchitoches",22069,2020-04-25,17,4,2020,371
+"Louisiana",22,"LA","Red River",22081,2020-04-25,17,4,2020,52
+"Louisiana",22,"LA","Sabine",22085,2020-04-25,17,4,2020,194
+"Louisiana",22,"LA","Webster",22119,2020-04-25,17,4,2020,384
+"Louisiana",22,"LA","Caldwell",22021,2020-04-18,16,4,2020,84
+"Louisiana",22,"LA","East Carroll",22035,2020-04-18,16,4,2020,55
+"Louisiana",22,"LA","Franklin",22041,2020-04-18,16,4,2020,224
+"Louisiana",22,"LA","Jackson",22049,2020-04-18,16,4,2020,123
+"Louisiana",22,"LA","Madison",22065,2020-04-18,16,4,2020,89
+"Louisiana",22,"LA","Morehouse",22067,2020-04-18,16,4,2020,329
+"Louisiana",22,"LA","Ouachita",22073,2020-04-18,16,4,2020,2312
+"Louisiana",22,"LA","Richland",22083,2020-04-18,16,4,2020,245
+"Louisiana",22,"LA","Tensas",22107,2020-04-18,16,4,2020,33
+"Louisiana",22,"LA","Union",22111,2020-04-18,16,4,2020,227
+"Louisiana",22,"LA","West Carroll",22123,2020-04-18,16,4,2020,94
+"Louisiana",22,"LA","Caldwell",22021,2020-04-25,17,4,2020,74
+"Louisiana",22,"LA","East Carroll",22035,2020-04-25,17,4,2020,50
+"Louisiana",22,"LA","Franklin",22041,2020-04-25,17,4,2020,197
+"Louisiana",22,"LA","Jackson",22049,2020-04-25,17,4,2020,115
+"Louisiana",22,"LA","Madison",22065,2020-04-25,17,4,2020,89
+"Louisiana",22,"LA","Morehouse",22067,2020-04-25,17,4,2020,281
+"Louisiana",22,"LA","Ouachita",22073,2020-04-25,17,4,2020,1759
+"Louisiana",22,"LA","Richland",22083,2020-04-25,17,4,2020,165
+"Louisiana",22,"LA","Tensas",22107,2020-04-25,17,4,2020,32
+"Louisiana",22,"LA","Union",22111,2020-04-25,17,4,2020,177
+"Louisiana",22,"LA","West Carroll",22123,2020-04-25,17,4,2020,96
+"Louisiana",22,"LA","Jefferson",22051,2020-05-02,18,5,2020,5701
+"Louisiana",22,"LA","Orleans",22071,2020-05-02,18,5,2020,5800
+"Louisiana",22,"LA","Plaquemines",22075,2020-05-02,18,5,2020,288
+"Louisiana",22,"LA","St. Bernard",22087,2020-05-02,18,5,2020,617
+"Louisiana",22,"LA","St. Charles",22089,2020-05-02,18,5,2020,525
+"Louisiana",22,"LA","St. James",22093,2020-05-02,18,5,2020,286
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-05-02,18,5,2020,664
+"Louisiana",22,"LA","St. Tammany",22103,2020-05-02,18,5,2020,2522
+"Louisiana",22,"LA","Jefferson",22051,2020-05-09,19,5,2020,4257
+"Louisiana",22,"LA","Orleans",22071,2020-05-09,19,5,2020,4179
+"Louisiana",22,"LA","Plaquemines",22075,2020-05-09,19,5,2020,196
+"Louisiana",22,"LA","St. Bernard",22087,2020-05-09,19,5,2020,437
+"Louisiana",22,"LA","St. Charles",22089,2020-05-09,19,5,2020,386
+"Louisiana",22,"LA","St. James",22093,2020-05-09,19,5,2020,186
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-05-09,19,5,2020,467
+"Louisiana",22,"LA","St. Tammany",22103,2020-05-09,19,5,2020,1904
+"Louisiana",22,"LA","Jefferson",22051,2020-05-16,20,5,2020,2673
+"Louisiana",22,"LA","Orleans",22071,2020-05-16,20,5,2020,3021
+"Louisiana",22,"LA","Plaquemines",22075,2020-05-16,20,5,2020,105
+"Louisiana",22,"LA","St. Bernard",22087,2020-05-16,20,5,2020,322
+"Louisiana",22,"LA","St. Charles",22089,2020-05-16,20,5,2020,261
+"Louisiana",22,"LA","St. James",22093,2020-05-16,20,5,2020,138
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-05-16,20,5,2020,364
+"Louisiana",22,"LA","St. Tammany",22103,2020-05-16,20,5,2020,1311
+"Louisiana",22,"LA","Jefferson",22051,2020-05-23,21,5,2020,2161
+"Louisiana",22,"LA","Orleans",22071,2020-05-23,21,5,2020,2513
+"Louisiana",22,"LA","Plaquemines",22075,2020-05-23,21,5,2020,107
+"Louisiana",22,"LA","St. Bernard",22087,2020-05-23,21,5,2020,251
+"Louisiana",22,"LA","St. Charles",22089,2020-05-23,21,5,2020,234
+"Louisiana",22,"LA","St. James",22093,2020-05-23,21,5,2020,93
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-05-23,21,5,2020,289
+"Louisiana",22,"LA","St. Tammany",22103,2020-05-23,21,5,2020,1021
+"Louisiana",22,"LA","Jefferson",22051,2020-05-30,22,5,2020,1634
+"Louisiana",22,"LA","Orleans",22071,2020-05-30,22,5,2020,2118
+"Louisiana",22,"LA","Plaquemines",22075,2020-05-30,22,5,2020,73
+"Louisiana",22,"LA","St. Bernard",22087,2020-05-30,22,5,2020,202
+"Louisiana",22,"LA","St. Charles",22089,2020-05-30,22,5,2020,165
+"Louisiana",22,"LA","St. James",22093,2020-05-30,22,5,2020,103
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-05-30,22,5,2020,196
+"Louisiana",22,"LA","St. Tammany",22103,2020-05-30,22,5,2020,744
+"Louisiana",22,"LA","Ascension",22005,2020-05-02,18,5,2020,1206
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-05-02,18,5,2020,5564
+"Louisiana",22,"LA","East Feliciana",22037,2020-05-02,18,5,2020,157
+"Louisiana",22,"LA","Iberville",22047,2020-05-02,18,5,2020,358
+"Louisiana",22,"LA","Livingston",22063,2020-05-02,18,5,2020,1317
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-05-02,18,5,2020,181
+"Louisiana",22,"LA","St. Helena",22091,2020-05-02,18,5,2020,95
+"Louisiana",22,"LA","Tangipahoa",22105,2020-05-02,18,5,2020,1860
+"Louisiana",22,"LA","Washington",22117,2020-05-02,18,5,2020,510
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-05-02,18,5,2020,243
+"Louisiana",22,"LA","West Feliciana",22125,2020-05-02,18,5,2020,76
+"Louisiana",22,"LA","Ascension",22005,2020-05-09,19,5,2020,915
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-05-09,19,5,2020,4361
+"Louisiana",22,"LA","East Feliciana",22037,2020-05-09,19,5,2020,129
+"Louisiana",22,"LA","Iberville",22047,2020-05-09,19,5,2020,305
+"Louisiana",22,"LA","Livingston",22063,2020-05-09,19,5,2020,1051
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-05-09,19,5,2020,161
+"Louisiana",22,"LA","St. Helena",22091,2020-05-09,19,5,2020,87
+"Louisiana",22,"LA","Tangipahoa",22105,2020-05-09,19,5,2020,1489
+"Louisiana",22,"LA","Washington",22117,2020-05-09,19,5,2020,466
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-05-09,19,5,2020,223
+"Louisiana",22,"LA","West Feliciana",22125,2020-05-09,19,5,2020,53
+"Louisiana",22,"LA","Ascension",22005,2020-05-16,20,5,2020,684
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-05-16,20,5,2020,3088
+"Louisiana",22,"LA","East Feliciana",22037,2020-05-16,20,5,2020,114
+"Louisiana",22,"LA","Iberville",22047,2020-05-16,20,5,2020,201
+"Louisiana",22,"LA","Livingston",22063,2020-05-16,20,5,2020,775
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-05-16,20,5,2020,148
+"Louisiana",22,"LA","St. Helena",22091,2020-05-16,20,5,2020,72
+"Louisiana",22,"LA","Tangipahoa",22105,2020-05-16,20,5,2020,1022
+"Louisiana",22,"LA","Washington",22117,2020-05-16,20,5,2020,374
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-05-16,20,5,2020,160
+"Louisiana",22,"LA","West Feliciana",22125,2020-05-16,20,5,2020,49
+"Louisiana",22,"LA","Ascension",22005,2020-05-23,21,5,2020,524
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-05-23,21,5,2020,2523
+"Louisiana",22,"LA","East Feliciana",22037,2020-05-23,21,5,2020,73
+"Louisiana",22,"LA","Iberville",22047,2020-05-23,21,5,2020,175
+"Louisiana",22,"LA","Livingston",22063,2020-05-23,21,5,2020,627
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-05-23,21,5,2020,92
+"Louisiana",22,"LA","St. Helena",22091,2020-05-23,21,5,2020,59
+"Louisiana",22,"LA","Tangipahoa",22105,2020-05-23,21,5,2020,923
+"Louisiana",22,"LA","Washington",22117,2020-05-23,21,5,2020,262
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-05-23,21,5,2020,171
+"Louisiana",22,"LA","West Feliciana",22125,2020-05-23,21,5,2020,34
+"Louisiana",22,"LA","Ascension",22005,2020-05-30,22,5,2020,447
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-05-30,22,5,2020,2177
+"Louisiana",22,"LA","East Feliciana",22037,2020-05-30,22,5,2020,77
+"Louisiana",22,"LA","Iberville",22047,2020-05-30,22,5,2020,145
+"Louisiana",22,"LA","Livingston",22063,2020-05-30,22,5,2020,542
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-05-30,22,5,2020,93
+"Louisiana",22,"LA","St. Helena",22091,2020-05-30,22,5,2020,65
+"Louisiana",22,"LA","Tangipahoa",22105,2020-05-30,22,5,2020,721
+"Louisiana",22,"LA","Washington",22117,2020-05-30,22,5,2020,217
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-05-30,22,5,2020,104
+"Louisiana",22,"LA","West Feliciana",22125,2020-05-30,22,5,2020,29
+"Louisiana",22,"LA","Assumption",22007,2020-05-02,18,5,2020,225
+"Louisiana",22,"LA","Lafourche",22057,2020-05-02,18,5,2020,889
+"Louisiana",22,"LA","Terrebonne",22109,2020-05-02,18,5,2020,1246
+"Louisiana",22,"LA","Assumption",22007,2020-05-09,19,5,2020,115
+"Louisiana",22,"LA","Lafourche",22057,2020-05-09,19,5,2020,703
+"Louisiana",22,"LA","Terrebonne",22109,2020-05-09,19,5,2020,974
+"Louisiana",22,"LA","Assumption",22007,2020-05-16,20,5,2020,110
+"Louisiana",22,"LA","Lafourche",22057,2020-05-16,20,5,2020,456
+"Louisiana",22,"LA","Terrebonne",22109,2020-05-16,20,5,2020,663
+"Louisiana",22,"LA","Assumption",22007,2020-05-23,21,5,2020,90
+"Louisiana",22,"LA","Lafourche",22057,2020-05-23,21,5,2020,393
+"Louisiana",22,"LA","Terrebonne",22109,2020-05-23,21,5,2020,556
+"Louisiana",22,"LA","Assumption",22007,2020-05-30,22,5,2020,95
+"Louisiana",22,"LA","Lafourche",22057,2020-05-30,22,5,2020,334
+"Louisiana",22,"LA","Terrebonne",22109,2020-05-30,22,5,2020,477
+"Louisiana",22,"LA","Acadia",22001,2020-05-02,18,5,2020,623
+"Louisiana",22,"LA","Evangeline",22039,2020-05-02,18,5,2020,288
+"Louisiana",22,"LA","Iberia",22045,2020-05-02,18,5,2020,832
+"Louisiana",22,"LA","Lafayette",22055,2020-05-02,18,5,2020,2802
+"Louisiana",22,"LA","St. Landry",22097,2020-05-02,18,5,2020,845
+"Louisiana",22,"LA","St. Martin",22099,2020-05-02,18,5,2020,508
+"Louisiana",22,"LA","St. Mary",22101,2020-05-02,18,5,2020,516
+"Louisiana",22,"LA","Vermilion",22113,2020-05-02,18,5,2020,525
+"Louisiana",22,"LA","Acadia",22001,2020-05-09,19,5,2020,434
+"Louisiana",22,"LA","Evangeline",22039,2020-05-09,19,5,2020,178
+"Louisiana",22,"LA","Iberia",22045,2020-05-09,19,5,2020,586
+"Louisiana",22,"LA","Lafayette",22055,2020-05-09,19,5,2020,2174
+"Louisiana",22,"LA","St. Landry",22097,2020-05-09,19,5,2020,702
+"Louisiana",22,"LA","St. Martin",22099,2020-05-09,19,5,2020,444
+"Louisiana",22,"LA","St. Mary",22101,2020-05-09,19,5,2020,451
+"Louisiana",22,"LA","Vermilion",22113,2020-05-09,19,5,2020,406
+"Louisiana",22,"LA","Acadia",22001,2020-05-16,20,5,2020,309
+"Louisiana",22,"LA","Evangeline",22039,2020-05-16,20,5,2020,140
+"Louisiana",22,"LA","Iberia",22045,2020-05-16,20,5,2020,479
+"Louisiana",22,"LA","Lafayette",22055,2020-05-16,20,5,2020,1397
+"Louisiana",22,"LA","St. Landry",22097,2020-05-16,20,5,2020,511
+"Louisiana",22,"LA","St. Martin",22099,2020-05-16,20,5,2020,313
+"Louisiana",22,"LA","St. Mary",22101,2020-05-16,20,5,2020,349
+"Louisiana",22,"LA","Vermilion",22113,2020-05-16,20,5,2020,288
+"Louisiana",22,"LA","Acadia",22001,2020-05-23,21,5,2020,268
+"Louisiana",22,"LA","Evangeline",22039,2020-05-23,21,5,2020,110
+"Louisiana",22,"LA","Iberia",22045,2020-05-23,21,5,2020,383
+"Louisiana",22,"LA","Lafayette",22055,2020-05-23,21,5,2020,1081
+"Louisiana",22,"LA","St. Landry",22097,2020-05-23,21,5,2020,397
+"Louisiana",22,"LA","St. Martin",22099,2020-05-23,21,5,2020,225
+"Louisiana",22,"LA","St. Mary",22101,2020-05-23,21,5,2020,246
+"Louisiana",22,"LA","Vermilion",22113,2020-05-23,21,5,2020,221
+"Louisiana",22,"LA","Acadia",22001,2020-05-30,22,5,2020,244
+"Louisiana",22,"LA","Evangeline",22039,2020-05-30,22,5,2020,113
+"Louisiana",22,"LA","Iberia",22045,2020-05-30,22,5,2020,310
+"Louisiana",22,"LA","Lafayette",22055,2020-05-30,22,5,2020,913
+"Louisiana",22,"LA","St. Landry",22097,2020-05-30,22,5,2020,329
+"Louisiana",22,"LA","St. Martin",22099,2020-05-30,22,5,2020,193
+"Louisiana",22,"LA","St. Mary",22101,2020-05-30,22,5,2020,227
+"Louisiana",22,"LA","Vermilion",22113,2020-05-30,22,5,2020,205
+"Louisiana",22,"LA","Allen",22003,2020-05-02,18,5,2020,181
+"Louisiana",22,"LA","Beauregard",22011,2020-05-02,18,5,2020,255
+"Louisiana",22,"LA","Calcasieu",22019,2020-05-02,18,5,2020,2432
+"Louisiana",22,"LA","Cameron",22023,2020-05-02,18,5,2020,43
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-05-02,18,5,2020,277
+"Louisiana",22,"LA","Vernon",22115,2020-05-02,18,5,2020,266
+"Louisiana",22,"LA","Allen",22003,2020-05-09,19,5,2020,119
+"Louisiana",22,"LA","Beauregard",22011,2020-05-09,19,5,2020,195
+"Louisiana",22,"LA","Calcasieu",22019,2020-05-09,19,5,2020,1788
+"Louisiana",22,"LA","Cameron",22023,2020-05-09,19,5,2020,44
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-05-09,19,5,2020,210
+"Louisiana",22,"LA","Vernon",22115,2020-05-09,19,5,2020,204
+"Louisiana",22,"LA","Allen",22003,2020-05-16,20,5,2020,113
+"Louisiana",22,"LA","Beauregard",22011,2020-05-16,20,5,2020,153
+"Louisiana",22,"LA","Calcasieu",22019,2020-05-16,20,5,2020,1305
+"Louisiana",22,"LA","Cameron",22023,2020-05-16,20,5,2020,20
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-05-16,20,5,2020,126
+"Louisiana",22,"LA","Vernon",22115,2020-05-16,20,5,2020,160
+"Louisiana",22,"LA","Allen",22003,2020-05-23,21,5,2020,88
+"Louisiana",22,"LA","Beauregard",22011,2020-05-23,21,5,2020,98
+"Louisiana",22,"LA","Calcasieu",22019,2020-05-23,21,5,2020,1010
+"Louisiana",22,"LA","Cameron",22023,2020-05-23,21,5,2020,14
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-05-23,21,5,2020,117
+"Louisiana",22,"LA","Vernon",22115,2020-05-23,21,5,2020,127
+"Louisiana",22,"LA","Allen",22003,2020-05-30,22,5,2020,98
+"Louisiana",22,"LA","Beauregard",22011,2020-05-30,22,5,2020,107
+"Louisiana",22,"LA","Calcasieu",22019,2020-05-30,22,5,2020,932
+"Louisiana",22,"LA","Cameron",22023,2020-05-30,22,5,2020,14
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-05-30,22,5,2020,153
+"Louisiana",22,"LA","Vernon",22115,2020-05-30,22,5,2020,114
+"Louisiana",22,"LA","Avoyelles",22009,2020-05-02,18,5,2020,290
+"Louisiana",22,"LA","Catahoula",22025,2020-05-02,18,5,2020,69
+"Louisiana",22,"LA","Concordia",22029,2020-05-02,18,5,2020,125
+"Louisiana",22,"LA","Grant",22043,2020-05-02,18,5,2020,115
+"Louisiana",22,"LA","La Salle",22059,2020-05-02,18,5,2020,178
+"Louisiana",22,"LA","Rapides",22079,2020-05-02,18,5,2020,955
+"Louisiana",22,"LA","Winn",22127,2020-05-02,18,5,2020,60
+"Louisiana",22,"LA","Avoyelles",22009,2020-05-09,19,5,2020,234
+"Louisiana",22,"LA","Catahoula",22025,2020-05-09,19,5,2020,52
+"Louisiana",22,"LA","Concordia",22029,2020-05-09,19,5,2020,127
+"Louisiana",22,"LA","Grant",22043,2020-05-09,19,5,2020,98
+"Louisiana",22,"LA","La Salle",22059,2020-05-09,19,5,2020,142
+"Louisiana",22,"LA","Rapides",22079,2020-05-09,19,5,2020,841
+"Louisiana",22,"LA","Winn",22127,2020-05-09,19,5,2020,72
+"Louisiana",22,"LA","Avoyelles",22009,2020-05-16,20,5,2020,159
+"Louisiana",22,"LA","Catahoula",22025,2020-05-16,20,5,2020,41
+"Louisiana",22,"LA","Concordia",22029,2020-05-16,20,5,2020,92
+"Louisiana",22,"LA","Grant",22043,2020-05-16,20,5,2020,78
+"Louisiana",22,"LA","La Salle",22059,2020-05-16,20,5,2020,124
+"Louisiana",22,"LA","Rapides",22079,2020-05-16,20,5,2020,617
+"Louisiana",22,"LA","Winn",22127,2020-05-16,20,5,2020,52
+"Louisiana",22,"LA","Avoyelles",22009,2020-05-23,21,5,2020,157
+"Louisiana",22,"LA","Catahoula",22025,2020-05-23,21,5,2020,48
+"Louisiana",22,"LA","Concordia",22029,2020-05-23,21,5,2020,99
+"Louisiana",22,"LA","Grant",22043,2020-05-23,21,5,2020,73
+"Louisiana",22,"LA","La Salle",22059,2020-05-23,21,5,2020,97
+"Louisiana",22,"LA","Rapides",22079,2020-05-23,21,5,2020,525
+"Louisiana",22,"LA","Winn",22127,2020-05-23,21,5,2020,48
+"Louisiana",22,"LA","Avoyelles",22009,2020-05-30,22,5,2020,119
+"Louisiana",22,"LA","Catahoula",22025,2020-05-30,22,5,2020,48
+"Louisiana",22,"LA","Concordia",22029,2020-05-30,22,5,2020,80
+"Louisiana",22,"LA","Grant",22043,2020-05-30,22,5,2020,67
+"Louisiana",22,"LA","La Salle",22059,2020-05-30,22,5,2020,71
+"Louisiana",22,"LA","Rapides",22079,2020-05-30,22,5,2020,489
+"Louisiana",22,"LA","Winn",22127,2020-05-30,22,5,2020,52
+"Louisiana",22,"LA","Bienville",22013,2020-05-02,18,5,2020,100
+"Louisiana",22,"LA","Bossier",22015,2020-05-02,18,5,2020,1110
+"Louisiana",22,"LA","Caddo",22017,2020-05-02,18,5,2020,2833
+"Louisiana",22,"LA","Claiborne",22027,2020-05-02,18,5,2020,77
+"Louisiana",22,"LA","De Soto",22031,2020-05-02,18,5,2020,208
+"Louisiana",22,"LA","Lincoln",22061,2020-05-02,18,5,2020,464
+"Louisiana",22,"LA","Natchitoches",22069,2020-05-02,18,5,2020,259
+"Louisiana",22,"LA","Red River",22081,2020-05-02,18,5,2020,50
+"Louisiana",22,"LA","Sabine",22085,2020-05-02,18,5,2020,131
+"Louisiana",22,"LA","Webster",22119,2020-05-02,18,5,2020,308
+"Louisiana",22,"LA","Bienville",22013,2020-05-09,19,5,2020,82
+"Louisiana",22,"LA","Bossier",22015,2020-05-09,19,5,2020,732
+"Louisiana",22,"LA","Caddo",22017,2020-05-09,19,5,2020,2217
+"Louisiana",22,"LA","Claiborne",22027,2020-05-09,19,5,2020,51
+"Louisiana",22,"LA","De Soto",22031,2020-05-09,19,5,2020,155
+"Louisiana",22,"LA","Lincoln",22061,2020-05-09,19,5,2020,311
+"Louisiana",22,"LA","Natchitoches",22069,2020-05-09,19,5,2020,226
+"Louisiana",22,"LA","Red River",22081,2020-05-09,19,5,2020,39
+"Louisiana",22,"LA","Sabine",22085,2020-05-09,19,5,2020,102
+"Louisiana",22,"LA","Webster",22119,2020-05-09,19,5,2020,220
+"Louisiana",22,"LA","Bienville",22013,2020-05-16,20,5,2020,71
+"Louisiana",22,"LA","Bossier",22015,2020-05-16,20,5,2020,559
+"Louisiana",22,"LA","Caddo",22017,2020-05-16,20,5,2020,1649
+"Louisiana",22,"LA","Claiborne",22027,2020-05-16,20,5,2020,58
+"Louisiana",22,"LA","De Soto",22031,2020-05-16,20,5,2020,111
+"Louisiana",22,"LA","Lincoln",22061,2020-05-16,20,5,2020,251
+"Louisiana",22,"LA","Natchitoches",22069,2020-05-16,20,5,2020,173
+"Louisiana",22,"LA","Red River",22081,2020-05-16,20,5,2020,37
+"Louisiana",22,"LA","Sabine",22085,2020-05-16,20,5,2020,94
+"Louisiana",22,"LA","Webster",22119,2020-05-16,20,5,2020,186
+"Louisiana",22,"LA","Bienville",22013,2020-05-23,21,5,2020,60
+"Louisiana",22,"LA","Bossier",22015,2020-05-23,21,5,2020,453
+"Louisiana",22,"LA","Caddo",22017,2020-05-23,21,5,2020,1514
+"Louisiana",22,"LA","Claiborne",22027,2020-05-23,21,5,2020,51
+"Louisiana",22,"LA","De Soto",22031,2020-05-23,21,5,2020,121
+"Louisiana",22,"LA","Lincoln",22061,2020-05-23,21,5,2020,163
+"Louisiana",22,"LA","Natchitoches",22069,2020-05-23,21,5,2020,258
+"Louisiana",22,"LA","Red River",22081,2020-05-23,21,5,2020,41
+"Louisiana",22,"LA","Sabine",22085,2020-05-23,21,5,2020,125
+"Louisiana",22,"LA","Webster",22119,2020-05-23,21,5,2020,137
+"Louisiana",22,"LA","Bienville",22013,2020-05-30,22,5,2020,37
+"Louisiana",22,"LA","Bossier",22015,2020-05-30,22,5,2020,375
+"Louisiana",22,"LA","Caddo",22017,2020-05-30,22,5,2020,1121
+"Louisiana",22,"LA","Claiborne",22027,2020-05-30,22,5,2020,48
+"Louisiana",22,"LA","De Soto",22031,2020-05-30,22,5,2020,97
+"Louisiana",22,"LA","Lincoln",22061,2020-05-30,22,5,2020,171
+"Louisiana",22,"LA","Natchitoches",22069,2020-05-30,22,5,2020,179
+"Louisiana",22,"LA","Red River",22081,2020-05-30,22,5,2020,26
+"Louisiana",22,"LA","Sabine",22085,2020-05-30,22,5,2020,110
+"Louisiana",22,"LA","Webster",22119,2020-05-30,22,5,2020,107
+"Louisiana",22,"LA","Caldwell",22021,2020-05-02,18,5,2020,66
+"Louisiana",22,"LA","East Carroll",22035,2020-05-02,18,5,2020,45
+"Louisiana",22,"LA","Franklin",22041,2020-05-02,18,5,2020,169
+"Louisiana",22,"LA","Jackson",22049,2020-05-02,18,5,2020,93
+"Louisiana",22,"LA","Madison",22065,2020-05-02,18,5,2020,85
+"Louisiana",22,"LA","Morehouse",22067,2020-05-02,18,5,2020,251
+"Louisiana",22,"LA","Ouachita",22073,2020-05-02,18,5,2020,1473
+"Louisiana",22,"LA","Richland",22083,2020-05-02,18,5,2020,150
+"Louisiana",22,"LA","Tensas",22107,2020-05-02,18,5,2020,29
+"Louisiana",22,"LA","Union",22111,2020-05-02,18,5,2020,163
+"Louisiana",22,"LA","West Carroll",22123,2020-05-02,18,5,2020,69
+"Louisiana",22,"LA","Caldwell",22021,2020-05-09,19,5,2020,70
+"Louisiana",22,"LA","East Carroll",22035,2020-05-09,19,5,2020,62
+"Louisiana",22,"LA","Franklin",22041,2020-05-09,19,5,2020,121
+"Louisiana",22,"LA","Jackson",22049,2020-05-09,19,5,2020,74
+"Louisiana",22,"LA","Madison",22065,2020-05-09,19,5,2020,61
+"Louisiana",22,"LA","Morehouse",22067,2020-05-09,19,5,2020,208
+"Louisiana",22,"LA","Ouachita",22073,2020-05-09,19,5,2020,1248
+"Louisiana",22,"LA","Richland",22083,2020-05-09,19,5,2020,125
+"Louisiana",22,"LA","Tensas",22107,2020-05-09,19,5,2020,26
+"Louisiana",22,"LA","Union",22111,2020-05-09,19,5,2020,139
+"Louisiana",22,"LA","West Carroll",22123,2020-05-09,19,5,2020,45
+"Louisiana",22,"LA","Caldwell",22021,2020-05-16,20,5,2020,41
+"Louisiana",22,"LA","East Carroll",22035,2020-05-16,20,5,2020,40
+"Louisiana",22,"LA","Franklin",22041,2020-05-16,20,5,2020,85
+"Louisiana",22,"LA","Jackson",22049,2020-05-16,20,5,2020,68
+"Louisiana",22,"LA","Madison",22065,2020-05-16,20,5,2020,50
+"Louisiana",22,"LA","Morehouse",22067,2020-05-16,20,5,2020,186
+"Louisiana",22,"LA","Ouachita",22073,2020-05-16,20,5,2020,915
+"Louisiana",22,"LA","Richland",22083,2020-05-16,20,5,2020,111
+"Louisiana",22,"LA","Tensas",22107,2020-05-16,20,5,2020,21
+"Louisiana",22,"LA","Union",22111,2020-05-16,20,5,2020,137
+"Louisiana",22,"LA","West Carroll",22123,2020-05-16,20,5,2020,39
+"Louisiana",22,"LA","Caldwell",22021,2020-05-23,21,5,2020,36
+"Louisiana",22,"LA","East Carroll",22035,2020-05-23,21,5,2020,34
+"Louisiana",22,"LA","Franklin",22041,2020-05-23,21,5,2020,107
+"Louisiana",22,"LA","Jackson",22049,2020-05-23,21,5,2020,42
+"Louisiana",22,"LA","Madison",22065,2020-05-23,21,5,2020,51
+"Louisiana",22,"LA","Morehouse",22067,2020-05-23,21,5,2020,148
+"Louisiana",22,"LA","Ouachita",22073,2020-05-23,21,5,2020,745
+"Louisiana",22,"LA","Richland",22083,2020-05-23,21,5,2020,105
+"Louisiana",22,"LA","Tensas",22107,2020-05-23,21,5,2020,14
+"Louisiana",22,"LA","Union",22111,2020-05-23,21,5,2020,110
+"Louisiana",22,"LA","West Carroll",22123,2020-05-23,21,5,2020,40
+"Louisiana",22,"LA","Caldwell",22021,2020-05-30,22,5,2020,37
+"Louisiana",22,"LA","East Carroll",22035,2020-05-30,22,5,2020,32
+"Louisiana",22,"LA","Franklin",22041,2020-05-30,22,5,2020,75
+"Louisiana",22,"LA","Jackson",22049,2020-05-30,22,5,2020,38
+"Louisiana",22,"LA","Madison",22065,2020-05-30,22,5,2020,44
+"Louisiana",22,"LA","Morehouse",22067,2020-05-30,22,5,2020,135
+"Louisiana",22,"LA","Ouachita",22073,2020-05-30,22,5,2020,673
+"Louisiana",22,"LA","Richland",22083,2020-05-30,22,5,2020,90
+"Louisiana",22,"LA","Tensas",22107,2020-05-30,22,5,2020,16
+"Louisiana",22,"LA","Union",22111,2020-05-30,22,5,2020,78
+"Louisiana",22,"LA","West Carroll",22123,2020-05-30,22,5,2020,36
+"Louisiana",22,"LA","Jefferson",22051,2020-06-06,23,6,2020,1833
+"Louisiana",22,"LA","Orleans",22071,2020-06-06,23,6,2020,2224
+"Louisiana",22,"LA","Plaquemines",22075,2020-06-06,23,6,2020,84
+"Louisiana",22,"LA","St. Bernard",22087,2020-06-06,23,6,2020,187
+"Louisiana",22,"LA","St. Charles",22089,2020-06-06,23,6,2020,165
+"Louisiana",22,"LA","St. James",22093,2020-06-06,23,6,2020,98
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-06-06,23,6,2020,233
+"Louisiana",22,"LA","St. Tammany",22103,2020-06-06,23,6,2020,795
+"Louisiana",22,"LA","Jefferson",22051,2020-06-13,24,6,2020,1926
+"Louisiana",22,"LA","Orleans",22071,2020-06-13,24,6,2020,2407
+"Louisiana",22,"LA","Plaquemines",22075,2020-06-13,24,6,2020,89
+"Louisiana",22,"LA","St. Bernard",22087,2020-06-13,24,6,2020,195
+"Louisiana",22,"LA","St. Charles",22089,2020-06-13,24,6,2020,189
+"Louisiana",22,"LA","St. James",22093,2020-06-13,24,6,2020,91
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-06-13,24,6,2020,249
+"Louisiana",22,"LA","St. Tammany",22103,2020-06-13,24,6,2020,862
+"Louisiana",22,"LA","Jefferson",22051,2020-06-20,25,6,2020,1461
+"Louisiana",22,"LA","Orleans",22071,2020-06-20,25,6,2020,1589
+"Louisiana",22,"LA","Plaquemines",22075,2020-06-20,25,6,2020,74
+"Louisiana",22,"LA","St. Bernard",22087,2020-06-20,25,6,2020,140
+"Louisiana",22,"LA","St. Charles",22089,2020-06-20,25,6,2020,143
+"Louisiana",22,"LA","St. James",22093,2020-06-20,25,6,2020,79
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-06-20,25,6,2020,185
+"Louisiana",22,"LA","St. Tammany",22103,2020-06-20,25,6,2020,581
+"Louisiana",22,"LA","Jefferson",22051,2020-06-27,26,6,2020,1432
+"Louisiana",22,"LA","Orleans",22071,2020-06-27,26,6,2020,1666
+"Louisiana",22,"LA","Plaquemines",22075,2020-06-27,26,6,2020,62
+"Louisiana",22,"LA","St. Bernard",22087,2020-06-27,26,6,2020,164
+"Louisiana",22,"LA","St. Charles",22089,2020-06-27,26,6,2020,158
+"Louisiana",22,"LA","St. James",22093,2020-06-27,26,6,2020,78
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-06-27,26,6,2020,190
+"Louisiana",22,"LA","St. Tammany",22103,2020-06-27,26,6,2020,678
+"Louisiana",22,"LA","Ascension",22005,2020-06-06,23,6,2020,476
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-06-06,23,6,2020,2515
+"Louisiana",22,"LA","East Feliciana",22037,2020-06-06,23,6,2020,85
+"Louisiana",22,"LA","Iberville",22047,2020-06-06,23,6,2020,173
+"Louisiana",22,"LA","Livingston",22063,2020-06-06,23,6,2020,584
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-06-06,23,6,2020,100
+"Louisiana",22,"LA","St. Helena",22091,2020-06-06,23,6,2020,43
+"Louisiana",22,"LA","Tangipahoa",22105,2020-06-06,23,6,2020,733
+"Louisiana",22,"LA","Washington",22117,2020-06-06,23,6,2020,189
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-06-06,23,6,2020,137
+"Louisiana",22,"LA","West Feliciana",22125,2020-06-06,23,6,2020,32
+"Louisiana",22,"LA","Ascension",22005,2020-06-13,24,6,2020,487
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-06-13,24,6,2020,2543
+"Louisiana",22,"LA","East Feliciana",22037,2020-06-13,24,6,2020,101
+"Louisiana",22,"LA","Iberville",22047,2020-06-13,24,6,2020,146
+"Louisiana",22,"LA","Livingston",22063,2020-06-13,24,6,2020,596
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-06-13,24,6,2020,104
+"Louisiana",22,"LA","St. Helena",22091,2020-06-13,24,6,2020,48
+"Louisiana",22,"LA","Tangipahoa",22105,2020-06-13,24,6,2020,760
+"Louisiana",22,"LA","Washington",22117,2020-06-13,24,6,2020,231
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-06-13,24,6,2020,123
+"Louisiana",22,"LA","West Feliciana",22125,2020-06-13,24,6,2020,38
+"Louisiana",22,"LA","Ascension",22005,2020-06-20,25,6,2020,379
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-06-20,25,6,2020,1791
+"Louisiana",22,"LA","East Feliciana",22037,2020-06-20,25,6,2020,61
+"Louisiana",22,"LA","Iberville",22047,2020-06-20,25,6,2020,114
+"Louisiana",22,"LA","Livingston",22063,2020-06-20,25,6,2020,389
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-06-20,25,6,2020,64
+"Louisiana",22,"LA","St. Helena",22091,2020-06-20,25,6,2020,33
+"Louisiana",22,"LA","Tangipahoa",22105,2020-06-20,25,6,2020,572
+"Louisiana",22,"LA","Washington",22117,2020-06-20,25,6,2020,178
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-06-20,25,6,2020,85
+"Louisiana",22,"LA","West Feliciana",22125,2020-06-20,25,6,2020,23
+"Louisiana",22,"LA","Ascension",22005,2020-06-27,26,6,2020,418
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-06-27,26,6,2020,1920
+"Louisiana",22,"LA","East Feliciana",22037,2020-06-27,26,6,2020,49
+"Louisiana",22,"LA","Iberville",22047,2020-06-27,26,6,2020,154
+"Louisiana",22,"LA","Livingston",22063,2020-06-27,26,6,2020,486
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-06-27,26,6,2020,70
+"Louisiana",22,"LA","St. Helena",22091,2020-06-27,26,6,2020,25
+"Louisiana",22,"LA","Tangipahoa",22105,2020-06-27,26,6,2020,669
+"Louisiana",22,"LA","Washington",22117,2020-06-27,26,6,2020,174
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-06-27,26,6,2020,87
+"Louisiana",22,"LA","West Feliciana",22125,2020-06-27,26,6,2020,17
+"Louisiana",22,"LA","Assumption",22007,2020-06-06,23,6,2020,85
+"Louisiana",22,"LA","Lafourche",22057,2020-06-06,23,6,2020,387
+"Louisiana",22,"LA","Terrebonne",22109,2020-06-06,23,6,2020,544
+"Louisiana",22,"LA","Assumption",22007,2020-06-13,24,6,2020,82
+"Louisiana",22,"LA","Lafourche",22057,2020-06-13,24,6,2020,363
+"Louisiana",22,"LA","Terrebonne",22109,2020-06-13,24,6,2020,595
+"Louisiana",22,"LA","Assumption",22007,2020-06-20,25,6,2020,68
+"Louisiana",22,"LA","Lafourche",22057,2020-06-20,25,6,2020,263
+"Louisiana",22,"LA","Terrebonne",22109,2020-06-20,25,6,2020,458
+"Louisiana",22,"LA","Assumption",22007,2020-06-27,26,6,2020,69
+"Louisiana",22,"LA","Lafourche",22057,2020-06-27,26,6,2020,305
+"Louisiana",22,"LA","Terrebonne",22109,2020-06-27,26,6,2020,486
+"Louisiana",22,"LA","Acadia",22001,2020-06-06,23,6,2020,243
+"Louisiana",22,"LA","Evangeline",22039,2020-06-06,23,6,2020,149
+"Louisiana",22,"LA","Iberia",22045,2020-06-06,23,6,2020,381
+"Louisiana",22,"LA","Lafayette",22055,2020-06-06,23,6,2020,1026
+"Louisiana",22,"LA","St. Landry",22097,2020-06-06,23,6,2020,393
+"Louisiana",22,"LA","St. Martin",22099,2020-06-06,23,6,2020,233
+"Louisiana",22,"LA","St. Mary",22101,2020-06-06,23,6,2020,271
+"Louisiana",22,"LA","Vermilion",22113,2020-06-06,23,6,2020,226
+"Louisiana",22,"LA","Acadia",22001,2020-06-13,24,6,2020,315
+"Louisiana",22,"LA","Evangeline",22039,2020-06-13,24,6,2020,147
+"Louisiana",22,"LA","Iberia",22045,2020-06-13,24,6,2020,418
+"Louisiana",22,"LA","Lafayette",22055,2020-06-13,24,6,2020,1237
+"Louisiana",22,"LA","St. Landry",22097,2020-06-13,24,6,2020,438
+"Louisiana",22,"LA","St. Martin",22099,2020-06-13,24,6,2020,221
+"Louisiana",22,"LA","St. Mary",22101,2020-06-13,24,6,2020,302
+"Louisiana",22,"LA","Vermilion",22113,2020-06-13,24,6,2020,260
+"Louisiana",22,"LA","Acadia",22001,2020-06-20,25,6,2020,201
+"Louisiana",22,"LA","Evangeline",22039,2020-06-20,25,6,2020,121
+"Louisiana",22,"LA","Iberia",22045,2020-06-20,25,6,2020,344
+"Louisiana",22,"LA","Lafayette",22055,2020-06-20,25,6,2020,902
+"Louisiana",22,"LA","St. Landry",22097,2020-06-20,25,6,2020,283
+"Louisiana",22,"LA","St. Martin",22099,2020-06-20,25,6,2020,184
+"Louisiana",22,"LA","St. Mary",22101,2020-06-20,25,6,2020,214
+"Louisiana",22,"LA","Vermilion",22113,2020-06-20,25,6,2020,217
+"Louisiana",22,"LA","Acadia",22001,2020-06-27,26,6,2020,247
+"Louisiana",22,"LA","Evangeline",22039,2020-06-27,26,6,2020,105
+"Louisiana",22,"LA","Iberia",22045,2020-06-27,26,6,2020,362
+"Louisiana",22,"LA","Lafayette",22055,2020-06-27,26,6,2020,1042
+"Louisiana",22,"LA","St. Landry",22097,2020-06-27,26,6,2020,387
+"Louisiana",22,"LA","St. Martin",22099,2020-06-27,26,6,2020,223
+"Louisiana",22,"LA","St. Mary",22101,2020-06-27,26,6,2020,201
+"Louisiana",22,"LA","Vermilion",22113,2020-06-27,26,6,2020,204
+"Louisiana",22,"LA","Allen",22003,2020-06-06,23,6,2020,90
+"Louisiana",22,"LA","Beauregard",22011,2020-06-06,23,6,2020,124
+"Louisiana",22,"LA","Calcasieu",22019,2020-06-06,23,6,2020,1010
+"Louisiana",22,"LA","Cameron",22023,2020-06-06,23,6,2020,11
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-06-06,23,6,2020,107
+"Louisiana",22,"LA","Vernon",22115,2020-06-06,23,6,2020,139
+"Louisiana",22,"LA","Allen",22003,2020-06-13,24,6,2020,96
+"Louisiana",22,"LA","Beauregard",22011,2020-06-13,24,6,2020,116
+"Louisiana",22,"LA","Calcasieu",22019,2020-06-13,24,6,2020,995
+"Louisiana",22,"LA","Cameron",22023,2020-06-13,24,6,2020,17
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-06-13,24,6,2020,123
+"Louisiana",22,"LA","Vernon",22115,2020-06-13,24,6,2020,142
+"Louisiana",22,"LA","Allen",22003,2020-06-20,25,6,2020,73
+"Louisiana",22,"LA","Beauregard",22011,2020-06-20,25,6,2020,103
+"Louisiana",22,"LA","Calcasieu",22019,2020-06-20,25,6,2020,834
+"Louisiana",22,"LA","Cameron",22023,2020-06-20,25,6,2020,10
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-06-20,25,6,2020,107
+"Louisiana",22,"LA","Vernon",22115,2020-06-20,25,6,2020,116
+"Louisiana",22,"LA","Allen",22003,2020-06-27,26,6,2020,83
+"Louisiana",22,"LA","Beauregard",22011,2020-06-27,26,6,2020,128
+"Louisiana",22,"LA","Calcasieu",22019,2020-06-27,26,6,2020,1041
+"Louisiana",22,"LA","Cameron",22023,2020-06-27,26,6,2020,9
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-06-27,26,6,2020,131
+"Louisiana",22,"LA","Vernon",22115,2020-06-27,26,6,2020,158
+"Louisiana",22,"LA","Avoyelles",22009,2020-06-06,23,6,2020,175
+"Louisiana",22,"LA","Catahoula",22025,2020-06-06,23,6,2020,53
+"Louisiana",22,"LA","Concordia",22029,2020-06-06,23,6,2020,114
+"Louisiana",22,"LA","Grant",22043,2020-06-06,23,6,2020,77
+"Louisiana",22,"LA","La Salle",22059,2020-06-06,23,6,2020,108
+"Louisiana",22,"LA","Rapides",22079,2020-06-06,23,6,2020,518
+"Louisiana",22,"LA","Winn",22127,2020-06-06,23,6,2020,73
+"Louisiana",22,"LA","Avoyelles",22009,2020-06-13,24,6,2020,153
+"Louisiana",22,"LA","Catahoula",22025,2020-06-13,24,6,2020,44
+"Louisiana",22,"LA","Concordia",22029,2020-06-13,24,6,2020,122
+"Louisiana",22,"LA","Grant",22043,2020-06-13,24,6,2020,60
+"Louisiana",22,"LA","La Salle",22059,2020-06-13,24,6,2020,99
+"Louisiana",22,"LA","Rapides",22079,2020-06-13,24,6,2020,509
+"Louisiana",22,"LA","Winn",22127,2020-06-13,24,6,2020,62
+"Louisiana",22,"LA","Avoyelles",22009,2020-06-20,25,6,2020,122
+"Louisiana",22,"LA","Catahoula",22025,2020-06-20,25,6,2020,35
+"Louisiana",22,"LA","Concordia",22029,2020-06-20,25,6,2020,93
+"Louisiana",22,"LA","Grant",22043,2020-06-20,25,6,2020,55
+"Louisiana",22,"LA","La Salle",22059,2020-06-20,25,6,2020,74
+"Louisiana",22,"LA","Rapides",22079,2020-06-20,25,6,2020,410
+"Louisiana",22,"LA","Winn",22127,2020-06-20,25,6,2020,39
+"Louisiana",22,"LA","Avoyelles",22009,2020-06-27,26,6,2020,160
+"Louisiana",22,"LA","Catahoula",22025,2020-06-27,26,6,2020,35
+"Louisiana",22,"LA","Concordia",22029,2020-06-27,26,6,2020,97
+"Louisiana",22,"LA","Grant",22043,2020-06-27,26,6,2020,56
+"Louisiana",22,"LA","La Salle",22059,2020-06-27,26,6,2020,65
+"Louisiana",22,"LA","Rapides",22079,2020-06-27,26,6,2020,495
+"Louisiana",22,"LA","Winn",22127,2020-06-27,26,6,2020,38
+"Louisiana",22,"LA","Bienville",22013,2020-06-06,23,6,2020,58
+"Louisiana",22,"LA","Bossier",22015,2020-06-06,23,6,2020,402
+"Louisiana",22,"LA","Caddo",22017,2020-06-06,23,6,2020,1299
+"Louisiana",22,"LA","Claiborne",22027,2020-06-06,23,6,2020,48
+"Louisiana",22,"LA","De Soto",22031,2020-06-06,23,6,2020,103
+"Louisiana",22,"LA","Lincoln",22061,2020-06-06,23,6,2020,241
+"Louisiana",22,"LA","Natchitoches",22069,2020-06-06,23,6,2020,158
+"Louisiana",22,"LA","Red River",22081,2020-06-06,23,6,2020,32
+"Louisiana",22,"LA","Sabine",22085,2020-06-06,23,6,2020,70
+"Louisiana",22,"LA","Webster",22119,2020-06-06,23,6,2020,141
+"Louisiana",22,"LA","Bienville",22013,2020-06-13,24,6,2020,64
+"Louisiana",22,"LA","Bossier",22015,2020-06-13,24,6,2020,443
+"Louisiana",22,"LA","Caddo",22017,2020-06-13,24,6,2020,1378
+"Louisiana",22,"LA","Claiborne",22027,2020-06-13,24,6,2020,36
+"Louisiana",22,"LA","De Soto",22031,2020-06-13,24,6,2020,117
+"Louisiana",22,"LA","Lincoln",22061,2020-06-13,24,6,2020,200
+"Louisiana",22,"LA","Natchitoches",22069,2020-06-13,24,6,2020,163
+"Louisiana",22,"LA","Red River",22081,2020-06-13,24,6,2020,27
+"Louisiana",22,"LA","Sabine",22085,2020-06-13,24,6,2020,62
+"Louisiana",22,"LA","Webster",22119,2020-06-13,24,6,2020,142
+"Louisiana",22,"LA","Bienville",22013,2020-06-20,25,6,2020,46
+"Louisiana",22,"LA","Bossier",22015,2020-06-20,25,6,2020,333
+"Louisiana",22,"LA","Caddo",22017,2020-06-20,25,6,2020,967
+"Louisiana",22,"LA","Claiborne",22027,2020-06-20,25,6,2020,31
+"Louisiana",22,"LA","De Soto",22031,2020-06-20,25,6,2020,87
+"Louisiana",22,"LA","Lincoln",22061,2020-06-20,25,6,2020,137
+"Louisiana",22,"LA","Natchitoches",22069,2020-06-20,25,6,2020,143
+"Louisiana",22,"LA","Red River",22081,2020-06-20,25,6,2020,32
+"Louisiana",22,"LA","Sabine",22085,2020-06-20,25,6,2020,48
+"Louisiana",22,"LA","Webster",22119,2020-06-20,25,6,2020,143
+"Louisiana",22,"LA","Bienville",22013,2020-06-27,26,6,2020,39
+"Louisiana",22,"LA","Bossier",22015,2020-06-27,26,6,2020,386
+"Louisiana",22,"LA","Caddo",22017,2020-06-27,26,6,2020,1112
+"Louisiana",22,"LA","Claiborne",22027,2020-06-27,26,6,2020,32
+"Louisiana",22,"LA","De Soto",22031,2020-06-27,26,6,2020,91
+"Louisiana",22,"LA","Lincoln",22061,2020-06-27,26,6,2020,182
+"Louisiana",22,"LA","Natchitoches",22069,2020-06-27,26,6,2020,121
+"Louisiana",22,"LA","Red River",22081,2020-06-27,26,6,2020,23
+"Louisiana",22,"LA","Sabine",22085,2020-06-27,26,6,2020,48
+"Louisiana",22,"LA","Webster",22119,2020-06-27,26,6,2020,128
+"Louisiana",22,"LA","Caldwell",22021,2020-06-06,23,6,2020,34
+"Louisiana",22,"LA","East Carroll",22035,2020-06-06,23,6,2020,44
+"Louisiana",22,"LA","Franklin",22041,2020-06-06,23,6,2020,71
+"Louisiana",22,"LA","Jackson",22049,2020-06-06,23,6,2020,52
+"Louisiana",22,"LA","Madison",22065,2020-06-06,23,6,2020,46
+"Louisiana",22,"LA","Morehouse",22067,2020-06-06,23,6,2020,170
+"Louisiana",22,"LA","Ouachita",22073,2020-06-06,23,6,2020,738
+"Louisiana",22,"LA","Richland",22083,2020-06-06,23,6,2020,89
+"Louisiana",22,"LA","Tensas",22107,2020-06-06,23,6,2020,28
+"Louisiana",22,"LA","Union",22111,2020-06-06,23,6,2020,81
+"Louisiana",22,"LA","West Carroll",22123,2020-06-06,23,6,2020,34
+"Louisiana",22,"LA","Caldwell",22021,2020-06-13,24,6,2020,40
+"Louisiana",22,"LA","East Carroll",22035,2020-06-13,24,6,2020,42
+"Louisiana",22,"LA","Franklin",22041,2020-06-13,24,6,2020,91
+"Louisiana",22,"LA","Jackson",22049,2020-06-13,24,6,2020,38
+"Louisiana",22,"LA","Madison",22065,2020-06-13,24,6,2020,55
+"Louisiana",22,"LA","Morehouse",22067,2020-06-13,24,6,2020,151
+"Louisiana",22,"LA","Ouachita",22073,2020-06-13,24,6,2020,831
+"Louisiana",22,"LA","Richland",22083,2020-06-13,24,6,2020,100
+"Louisiana",22,"LA","Tensas",22107,2020-06-13,24,6,2020,16
+"Louisiana",22,"LA","Union",22111,2020-06-13,24,6,2020,83
+"Louisiana",22,"LA","West Carroll",22123,2020-06-13,24,6,2020,44
+"Louisiana",22,"LA","Caldwell",22021,2020-06-20,25,6,2020,30
+"Louisiana",22,"LA","East Carroll",22035,2020-06-20,25,6,2020,36
+"Louisiana",22,"LA","Franklin",22041,2020-06-20,25,6,2020,55
+"Louisiana",22,"LA","Jackson",22049,2020-06-20,25,6,2020,49
+"Louisiana",22,"LA","Madison",22065,2020-06-20,25,6,2020,35
+"Louisiana",22,"LA","Morehouse",22067,2020-06-20,25,6,2020,128
+"Louisiana",22,"LA","Ouachita",22073,2020-06-20,25,6,2020,589
+"Louisiana",22,"LA","Richland",22083,2020-06-20,25,6,2020,73
+"Louisiana",22,"LA","Tensas",22107,2020-06-20,25,6,2020,11
+"Louisiana",22,"LA","Union",22111,2020-06-20,25,6,2020,80
+"Louisiana",22,"LA","West Carroll",22123,2020-06-20,25,6,2020,26
+"Louisiana",22,"LA","Caldwell",22021,2020-06-27,26,6,2020,32
+"Louisiana",22,"LA","East Carroll",22035,2020-06-27,26,6,2020,32
+"Louisiana",22,"LA","Franklin",22041,2020-06-27,26,6,2020,93
+"Louisiana",22,"LA","Jackson",22049,2020-06-27,26,6,2020,32
+"Louisiana",22,"LA","Madison",22065,2020-06-27,26,6,2020,44
+"Louisiana",22,"LA","Morehouse",22067,2020-06-27,26,6,2020,123
+"Louisiana",22,"LA","Ouachita",22073,2020-06-27,26,6,2020,649
+"Louisiana",22,"LA","Richland",22083,2020-06-27,26,6,2020,84
+"Louisiana",22,"LA","Tensas",22107,2020-06-27,26,6,2020,15
+"Louisiana",22,"LA","Union",22111,2020-06-27,26,6,2020,77
+"Louisiana",22,"LA","West Carroll",22123,2020-06-27,26,6,2020,21
+"Louisiana",22,"LA","Jefferson",22051,2020-07-04,27,7,2020,2498
+"Louisiana",22,"LA","Orleans",22071,2020-07-04,27,7,2020,2827
+"Louisiana",22,"LA","Plaquemines",22075,2020-07-04,27,7,2020,116
+"Louisiana",22,"LA","St. Bernard",22087,2020-07-04,27,7,2020,283
+"Louisiana",22,"LA","St. Charles",22089,2020-07-04,27,7,2020,211
+"Louisiana",22,"LA","St. James",22093,2020-07-04,27,7,2020,107
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-07-04,27,7,2020,278
+"Louisiana",22,"LA","St. Tammany",22103,2020-07-04,27,7,2020,1176
+"Louisiana",22,"LA","Jefferson",22051,2020-07-11,28,7,2020,1967
+"Louisiana",22,"LA","Orleans",22071,2020-07-11,28,7,2020,2194
+"Louisiana",22,"LA","Plaquemines",22075,2020-07-11,28,7,2020,90
+"Louisiana",22,"LA","St. Bernard",22087,2020-07-11,28,7,2020,186
+"Louisiana",22,"LA","St. Charles",22089,2020-07-11,28,7,2020,194
+"Louisiana",22,"LA","St. James",22093,2020-07-11,28,7,2020,87
+"Louisiana",22,"LA","St. John the Baptist",22095,2020-07-11,28,7,2020,205
+"Louisiana",22,"LA","St. Tammany",22103,2020-07-11,28,7,2020,830
+"Louisiana",22,"LA","Ascension",22005,2020-07-04,27,7,2020,533
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-07-04,27,7,2020,2784
+"Louisiana",22,"LA","East Feliciana",22037,2020-07-04,27,7,2020,91
+"Louisiana",22,"LA","Iberville",22047,2020-07-04,27,7,2020,165
+"Louisiana",22,"LA","Livingston",22063,2020-07-04,27,7,2020,740
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-07-04,27,7,2020,109
+"Louisiana",22,"LA","St. Helena",22091,2020-07-04,27,7,2020,43
+"Louisiana",22,"LA","Tangipahoa",22105,2020-07-04,27,7,2020,1030
+"Louisiana",22,"LA","Washington",22117,2020-07-04,27,7,2020,275
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-07-04,27,7,2020,153
+"Louisiana",22,"LA","West Feliciana",22125,2020-07-04,27,7,2020,27
+"Louisiana",22,"LA","Ascension",22005,2020-07-11,28,7,2020,488
+"Louisiana",22,"LA","East Baton Rouge",22033,2020-07-11,28,7,2020,2296
+"Louisiana",22,"LA","East Feliciana",22037,2020-07-11,28,7,2020,75
+"Louisiana",22,"LA","Iberville",22047,2020-07-11,28,7,2020,145
+"Louisiana",22,"LA","Livingston",22063,2020-07-11,28,7,2020,616
+"Louisiana",22,"LA","Pointe Coupee",22077,2020-07-11,28,7,2020,107
+"Louisiana",22,"LA","St. Helena",22091,2020-07-11,28,7,2020,41
+"Louisiana",22,"LA","Tangipahoa",22105,2020-07-11,28,7,2020,751
+"Louisiana",22,"LA","Washington",22117,2020-07-11,28,7,2020,223
+"Louisiana",22,"LA","West Baton Rouge",22121,2020-07-11,28,7,2020,127
+"Louisiana",22,"LA","West Feliciana",22125,2020-07-11,28,7,2020,24
+"Louisiana",22,"LA","Assumption",22007,2020-07-04,27,7,2020,101
+"Louisiana",22,"LA","Lafourche",22057,2020-07-04,27,7,2020,416
+"Louisiana",22,"LA","Terrebonne",22109,2020-07-04,27,7,2020,680
+"Louisiana",22,"LA","Assumption",22007,2020-07-11,28,7,2020,92
+"Louisiana",22,"LA","Lafourche",22057,2020-07-11,28,7,2020,375
+"Louisiana",22,"LA","Terrebonne",22109,2020-07-11,28,7,2020,654
+"Louisiana",22,"LA","Acadia",22001,2020-07-04,27,7,2020,318
+"Louisiana",22,"LA","Evangeline",22039,2020-07-04,27,7,2020,155
+"Louisiana",22,"LA","Iberia",22045,2020-07-04,27,7,2020,516
+"Louisiana",22,"LA","Lafayette",22055,2020-07-04,27,7,2020,1417
+"Louisiana",22,"LA","St. Landry",22097,2020-07-04,27,7,2020,504
+"Louisiana",22,"LA","St. Martin",22099,2020-07-04,27,7,2020,306
+"Louisiana",22,"LA","St. Mary",22101,2020-07-04,27,7,2020,279
+"Louisiana",22,"LA","Vermilion",22113,2020-07-04,27,7,2020,310
+"Louisiana",22,"LA","Acadia",22001,2020-07-11,28,7,2020,259
+"Louisiana",22,"LA","Evangeline",22039,2020-07-11,28,7,2020,122
+"Louisiana",22,"LA","Iberia",22045,2020-07-11,28,7,2020,410
+"Louisiana",22,"LA","Lafayette",22055,2020-07-11,28,7,2020,1173
+"Louisiana",22,"LA","St. Landry",22097,2020-07-11,28,7,2020,384
+"Louisiana",22,"LA","St. Martin",22099,2020-07-11,28,7,2020,269
+"Louisiana",22,"LA","St. Mary",22101,2020-07-11,28,7,2020,264
+"Louisiana",22,"LA","Vermilion",22113,2020-07-11,28,7,2020,267
+"Louisiana",22,"LA","Allen",22003,2020-07-04,27,7,2020,132
+"Louisiana",22,"LA","Beauregard",22011,2020-07-04,27,7,2020,162
+"Louisiana",22,"LA","Calcasieu",22019,2020-07-04,27,7,2020,1370
+"Louisiana",22,"LA","Cameron",22023,2020-07-04,27,7,2020,21
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-07-04,27,7,2020,139
+"Louisiana",22,"LA","Vernon",22115,2020-07-04,27,7,2020,181
+"Louisiana",22,"LA","Allen",22003,2020-07-11,28,7,2020,103
+"Louisiana",22,"LA","Beauregard",22011,2020-07-11,28,7,2020,160
+"Louisiana",22,"LA","Calcasieu",22019,2020-07-11,28,7,2020,1171
+"Louisiana",22,"LA","Cameron",22023,2020-07-11,28,7,2020,17
+"Louisiana",22,"LA","Jefferson Davis",22053,2020-07-11,28,7,2020,124
+"Louisiana",22,"LA","Vernon",22115,2020-07-11,28,7,2020,158
+"Louisiana",22,"LA","Avoyelles",22009,2020-07-04,27,7,2020,191
+"Louisiana",22,"LA","Catahoula",22025,2020-07-04,27,7,2020,57
+"Louisiana",22,"LA","Concordia",22029,2020-07-04,27,7,2020,140
+"Louisiana",22,"LA","Grant",22043,2020-07-04,27,7,2020,85
+"Louisiana",22,"LA","La Salle",22059,2020-07-04,27,7,2020,128
+"Louisiana",22,"LA","Rapides",22079,2020-07-04,27,7,2020,562
+"Louisiana",22,"LA","Winn",22127,2020-07-04,27,7,2020,53
+"Louisiana",22,"LA","Avoyelles",22009,2020-07-11,28,7,2020,170
+"Louisiana",22,"LA","Catahoula",22025,2020-07-11,28,7,2020,43
+"Louisiana",22,"LA","Concordia",22029,2020-07-11,28,7,2020,96
+"Louisiana",22,"LA","Grant",22043,2020-07-11,28,7,2020,73
+"Louisiana",22,"LA","La Salle",22059,2020-07-11,28,7,2020,106
+"Louisiana",22,"LA","Rapides",22079,2020-07-11,28,7,2020,533
+"Louisiana",22,"LA","Winn",22127,2020-07-11,28,7,2020,53
+"Louisiana",22,"LA","Bienville",22013,2020-07-04,27,7,2020,71
+"Louisiana",22,"LA","Bossier",22015,2020-07-04,27,7,2020,524
+"Louisiana",22,"LA","Caddo",22017,2020-07-04,27,7,2020,1437
+"Louisiana",22,"LA","Claiborne",22027,2020-07-04,27,7,2020,40
+"Louisiana",22,"LA","De Soto",22031,2020-07-04,27,7,2020,115
+"Louisiana",22,"LA","Lincoln",22061,2020-07-04,27,7,2020,206
+"Louisiana",22,"LA","Natchitoches",22069,2020-07-04,27,7,2020,172
+"Louisiana",22,"LA","Red River",22081,2020-07-04,27,7,2020,44
+"Louisiana",22,"LA","Sabine",22085,2020-07-04,27,7,2020,76
+"Louisiana",22,"LA","Webster",22119,2020-07-04,27,7,2020,153
+"Louisiana",22,"LA","Bienville",22013,2020-07-11,28,7,2020,54
+"Louisiana",22,"LA","Bossier",22015,2020-07-11,28,7,2020,392
+"Louisiana",22,"LA","Caddo",22017,2020-07-11,28,7,2020,1231
+"Louisiana",22,"LA","Claiborne",22027,2020-07-11,28,7,2020,34
+"Louisiana",22,"LA","De Soto",22031,2020-07-11,28,7,2020,114
+"Louisiana",22,"LA","Lincoln",22061,2020-07-11,28,7,2020,175
+"Louisiana",22,"LA","Natchitoches",22069,2020-07-11,28,7,2020,134
+"Louisiana",22,"LA","Red River",22081,2020-07-11,28,7,2020,25
+"Louisiana",22,"LA","Sabine",22085,2020-07-11,28,7,2020,72
+"Louisiana",22,"LA","Webster",22119,2020-07-11,28,7,2020,153
+"Louisiana",22,"LA","Caldwell",22021,2020-07-04,27,7,2020,49
+"Louisiana",22,"LA","East Carroll",22035,2020-07-04,27,7,2020,33
+"Louisiana",22,"LA","Franklin",22041,2020-07-04,27,7,2020,81
+"Louisiana",22,"LA","Jackson",22049,2020-07-04,27,7,2020,52
+"Louisiana",22,"LA","Madison",22065,2020-07-04,27,7,2020,36
+"Louisiana",22,"LA","Morehouse",22067,2020-07-04,27,7,2020,128
+"Louisiana",22,"LA","Ouachita",22073,2020-07-04,27,7,2020,780
+"Louisiana",22,"LA","Richland",22083,2020-07-04,27,7,2020,90
+"Louisiana",22,"LA","Tensas",22107,2020-07-04,27,7,2020,22
+"Louisiana",22,"LA","Union",22111,2020-07-04,27,7,2020,91
+"Louisiana",22,"LA","West Carroll",22123,2020-07-04,27,7,2020,36
+"Louisiana",22,"LA","Caldwell",22021,2020-07-11,28,7,2020,34
+"Louisiana",22,"LA","East Carroll",22035,2020-07-11,28,7,2020,28
+"Louisiana",22,"LA","Franklin",22041,2020-07-11,28,7,2020,75
+"Louisiana",22,"LA","Jackson",22049,2020-07-11,28,7,2020,45
+"Louisiana",22,"LA","Madison",22065,2020-07-11,28,7,2020,33
+"Louisiana",22,"LA","Morehouse",22067,2020-07-11,28,7,2020,126
+"Louisiana",22,"LA","Ouachita",22073,2020-07-11,28,7,2020,679
+"Louisiana",22,"LA","Richland",22083,2020-07-11,28,7,2020,92
+"Louisiana",22,"LA","Tensas",22107,2020-07-11,28,7,2020,9
+"Louisiana",22,"LA","Union",22111,2020-07-11,28,7,2020,68
+"Louisiana",22,"LA","West Carroll",22123,2020-07-11,28,7,2020,24
