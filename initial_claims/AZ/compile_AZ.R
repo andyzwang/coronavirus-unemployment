@@ -18,10 +18,6 @@ data(county.fips)
 
 output <- raw %>%
 
-  # remove unnecessary columns
-
-  select(-"Arizona") %>%
-
   # pivot long
 
   pivot_longer(
