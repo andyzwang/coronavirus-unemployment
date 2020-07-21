@@ -116,6 +116,9 @@
   * Data: Unemployment
 
 ## Louisiana
+* [Louisiana Workforce Commission](https://public.tableau.com/profile/louisiana.workforce.commission.lmi#!/vizhome/LWCUIDashboard/DashboardMain)
+  * Format: Tableau, Updated: Weekly, Level: Parish
+  * Data: UI Claims
 * [Louisiana Works](https://www.louisianaworks.net/hire/vosnet/analyzer/results.aspx?enc=HofuwY22SoLTS/uC+bpmi7ntbB42L7XyypLjx+HEeK0=)
   * Format: CSV, Updated: Monthly, Level: City, County
   * Data: Unemployment
