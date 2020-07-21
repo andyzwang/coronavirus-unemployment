@@ -5,54 +5,20 @@ library(janitor)
 library(lubridate)
 library(maps)
 library(stringr)
-library(tabulizer)
 
-# processing in the data
-# NOTE: pages manually set
 
-apr_1 <- extract_tables("MS_April_data.pdf", output = "data.frame", pages = 22)[[1]]
-apr_2 <- extract_tables("MS_April_data.pdf", output = "data.frame", pages = 23)[[1]]
-
-# clean up first half
-
-apr_1 <- apr_1 %>%
-  mutate(
-    April.2020 = str_extract(April.2020, "^.* "),
-    March.2020 = str_extract(March.2020, "^.* "),
-  ) %>%
-  slice(3:n()) %>%
-  rename(county = X) %>%
-  select(-April.2019)
-
-# clean up second half
-
-apr_2 <- apr_2 %>%
-  rename(
-    April.2020 = Initial.Claims,
-    March.2020 = Initial.Claims.1,
-    county = X
-  ) %>%
-  slice(2:n()) %>%
-  select(county, April.2020, March.2020)
-
-# combine
-
-apr_data <- rbind(apr_1, apr_2)
+raw <- read_csv("MS_data.csv")
 
 # import FIPS codes
 
 data(county.fips)
 
-output <- apr_data %>%
-  pivot_longer(
-    cols = ends_with("2020"), names_to = "month",
-    values_to = "claims"
-  ) %>%
+output <- raw %>%
+  pivot_longer(cols = !starts_with("county"), names_to = "month", values_to = "claims") %>%
 
   # make claims numeric
 
   mutate(
-    claims = str_remove(claims, ","),
     claims = as.integer(claims),
 
     # set general info
@@ -62,7 +28,7 @@ output <- apr_data %>%
 
     # modify dates
     date = ceiling_date(
-      myd(paste0(month, ".01")),
+      ymd(paste0("2020-", month, "-01")),
       unit = "month"
     ) - 1,
     month = month(date),
