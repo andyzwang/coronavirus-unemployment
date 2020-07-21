@@ -449,129 +449,57 @@
 "Nevada",32,"NV","Washoe",32031,2020-06-20,25,6,2020,1298
 "Nevada",32,"NV","White Pine",32033,2020-06-20,25,6,2020,12
 "Nevada",32,"NV","Unknown",NA,2020-06-20,25,6,2020,1274
-"Nevada",32,"NV","Carson City",32510,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Carson City",32510,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Carson City",32510,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Carson City",32510,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Carson City",32510,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Carson City",32510,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Carson City",32510,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Churchill",32001,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Churchill",32001,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Churchill",32001,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Churchill",32001,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Churchill",32001,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Churchill",32001,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Churchill",32001,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Clark",32003,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Clark",32003,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Clark",32003,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Clark",32003,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Clark",32003,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Clark",32003,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Clark",32003,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Douglas",32005,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Douglas",32005,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Douglas",32005,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Douglas",32005,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Douglas",32005,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Douglas",32005,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Douglas",32005,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Elko",32007,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Elko",32007,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Elko",32007,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Elko",32007,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Elko",32007,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Elko",32007,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Elko",32007,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Esmeralda",32009,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Esmeralda",32009,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Esmeralda",32009,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Esmeralda",32009,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Esmeralda",32009,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Esmeralda",32009,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Esmeralda",32009,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Eureka",32011,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Eureka",32011,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Eureka",32011,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Eureka",32011,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Eureka",32011,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Eureka",32011,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Eureka",32011,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Humboldt",32013,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Humboldt",32013,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Humboldt",32013,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Humboldt",32013,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Humboldt",32013,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Humboldt",32013,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Humboldt",32013,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lander",32015,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lander",32015,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lander",32015,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lander",32015,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lander",32015,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lander",32015,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lander",32015,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lincoln",32017,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lincoln",32017,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lincoln",32017,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lincoln",32017,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lincoln",32017,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lincoln",32017,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lincoln",32017,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lyon",32019,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lyon",32019,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lyon",32019,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lyon",32019,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lyon",32019,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lyon",32019,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Lyon",32019,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Mineral",32021,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Mineral",32021,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Mineral",32021,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Mineral",32021,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Mineral",32021,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Mineral",32021,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Mineral",32021,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Nye",32023,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Nye",32023,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Nye",32023,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Nye",32023,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Nye",32023,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Nye",32023,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Nye",32023,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Pershing",32027,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Pershing",32027,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Pershing",32027,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Pershing",32027,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Pershing",32027,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Pershing",32027,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Pershing",32027,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Storey",32029,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Storey",32029,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Storey",32029,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Storey",32029,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Storey",32029,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Storey",32029,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Storey",32029,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Washoe",32031,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Washoe",32031,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Washoe",32031,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Washoe",32031,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Washoe",32031,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Washoe",32031,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Washoe",32031,NA,NA,NA,NA,NA
-"Nevada",32,"NV","White Pine",32033,NA,NA,NA,NA,NA
-"Nevada",32,"NV","White Pine",32033,NA,NA,NA,NA,NA
-"Nevada",32,"NV","White Pine",32033,NA,NA,NA,NA,NA
-"Nevada",32,"NV","White Pine",32033,NA,NA,NA,NA,NA
-"Nevada",32,"NV","White Pine",32033,NA,NA,NA,NA,NA
-"Nevada",32,"NV","White Pine",32033,NA,NA,NA,NA,NA
-"Nevada",32,"NV","White Pine",32033,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Unknown",NA,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Unknown",NA,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Unknown",NA,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Unknown",NA,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Unknown",NA,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Unknown",NA,NA,NA,NA,NA,NA
-"Nevada",32,"NV","Unknown",NA,NA,NA,NA,NA,NA
+"Nevada",32,"NV","Carson City",32510,2020-06-27,26,6,2020,153
+"Nevada",32,"NV","Churchill",32001,2020-06-27,26,6,2020,45
+"Nevada",32,"NV","Clark",32003,2020-06-27,26,6,2020,10979
+"Nevada",32,"NV","Douglas",32005,2020-06-27,26,6,2020,95
+"Nevada",32,"NV","Elko",32007,2020-06-27,26,6,2020,88
+"Nevada",32,"NV","Esmeralda",32009,2020-06-27,26,6,2020,0
+"Nevada",32,"NV","Eureka",32011,2020-06-27,26,6,2020,1
+"Nevada",32,"NV","Humboldt",32013,2020-06-27,26,6,2020,22
+"Nevada",32,"NV","Lander",32015,2020-06-27,26,6,2020,8
+"Nevada",32,"NV","Lincoln",32017,2020-06-27,26,6,2020,7
+"Nevada",32,"NV","Lyon",32019,2020-06-27,26,6,2020,125
+"Nevada",32,"NV","Mineral",32021,2020-06-27,26,6,2020,13
+"Nevada",32,"NV","Nye",32023,2020-06-27,26,6,2020,91
+"Nevada",32,"NV","Pershing",32027,2020-06-27,26,6,2020,4
+"Nevada",32,"NV","Storey",32029,2020-06-27,26,6,2020,4
+"Nevada",32,"NV","Washoe",32031,2020-06-27,26,6,2020,1412
+"Nevada",32,"NV","White Pine",32033,2020-06-27,26,6,2020,16
+"Nevada",32,"NV","Unknown",NA,2020-06-27,26,6,2020,1513
+"Nevada",32,"NV","Carson City",32510,2020-07-04,27,7,2020,163
+"Nevada",32,"NV","Churchill",32001,2020-07-04,27,7,2020,32
+"Nevada",32,"NV","Clark",32003,2020-07-04,27,7,2020,11386
+"Nevada",32,"NV","Douglas",32005,2020-07-04,27,7,2020,94
+"Nevada",32,"NV","Elko",32007,2020-07-04,27,7,2020,102
+"Nevada",32,"NV","Esmeralda",32009,2020-07-04,27,7,2020,0
+"Nevada",32,"NV","Eureka",32011,2020-07-04,27,7,2020,4
+"Nevada",32,"NV","Humboldt",32013,2020-07-04,27,7,2020,30
+"Nevada",32,"NV","Lander",32015,2020-07-04,27,7,2020,9
+"Nevada",32,"NV","Lincoln",32017,2020-07-04,27,7,2020,7
+"Nevada",32,"NV","Lyon",32019,2020-07-04,27,7,2020,109
+"Nevada",32,"NV","Mineral",32021,2020-07-04,27,7,2020,15
+"Nevada",32,"NV","Nye",32023,2020-07-04,27,7,2020,126
+"Nevada",32,"NV","Pershing",32027,2020-07-04,27,7,2020,12
+"Nevada",32,"NV","Storey",32029,2020-07-04,27,7,2020,0
+"Nevada",32,"NV","Washoe",32031,2020-07-04,27,7,2020,1378
+"Nevada",32,"NV","White Pine",32033,2020-07-04,27,7,2020,20
+"Nevada",32,"NV","Unknown",NA,2020-07-04,27,7,2020,2684
+"Nevada",32,"NV","Carson City",32510,2020-07-11,28,7,2020,151
+"Nevada",32,"NV","Churchill",32001,2020-07-11,28,7,2020,44
+"Nevada",32,"NV","Clark",32003,2020-07-11,28,7,2020,12290
+"Nevada",32,"NV","Douglas",32005,2020-07-11,28,7,2020,99
+"Nevada",32,"NV","Elko",32007,2020-07-11,28,7,2020,104
+"Nevada",32,"NV","Esmeralda",32009,2020-07-11,28,7,2020,0
+"Nevada",32,"NV","Eureka",32011,2020-07-11,28,7,2020,3
+"Nevada",32,"NV","Humboldt",32013,2020-07-11,28,7,2020,25
+"Nevada",32,"NV","Lander",32015,2020-07-11,28,7,2020,8
+"Nevada",32,"NV","Lincoln",32017,2020-07-11,28,7,2020,4
+"Nevada",32,"NV","Lyon",32019,2020-07-11,28,7,2020,141
+"Nevada",32,"NV","Mineral",32021,2020-07-11,28,7,2020,5
+"Nevada",32,"NV","Nye",32023,2020-07-11,28,7,2020,126
+"Nevada",32,"NV","Pershing",32027,2020-07-11,28,7,2020,4
+"Nevada",32,"NV","Storey",32029,2020-07-11,28,7,2020,1
+"Nevada",32,"NV","Washoe",32031,2020-07-11,28,7,2020,1346
+"Nevada",32,"NV","White Pine",32033,2020-07-11,28,7,2020,8
+"Nevada",32,"NV","Unknown",NA,2020-07-11,28,7,2020,3833
