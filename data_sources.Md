@@ -146,6 +146,9 @@
 * [Mass.gov](https://lmi.dua.eol.mass.gov/LMI/LaborForceAndUnemployment#)
   * Format: CSV, Updated: Montly, Level: County, City
   * Data: Unemployment
+* [MA Economic Data](https://public.tableau.com/profile/maeconomicresearch#!/vizhome/InitialClaimsbyCounty_15943981899640/GenderRaceEthnicitybyCounty)
+  * Format: Tableau, Updated: Weekly, Level: County
+  * Data: UI claims, demographics, industries
 
 ## Michigan
 * [Upjohn Institute](https://www.upjohn.org/research-highlights/initial-claims-unemployment-insurance-level-remain-near-historical-highs)
