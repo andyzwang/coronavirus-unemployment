@@ -9,7 +9,8 @@ library(tabulizer)
 
 # processing
 
-raw <- read_csv("NY_gathered.csv") 
+raw <- read_csv("NY_gathered.csv")  %>%
+  remove_empty("cols")
 
 
 # import FIPS codes
