@@ -24,7 +24,7 @@ output <- raw %>%
   # clean up datetime format
   
   mutate(
-    date = ceiling_date(mdy(str_remove(date, " 0:00")), "week") -1
+    date = ceiling_date(mdy(str_remove(week_date, " 0:00")), "week") -1
   ) %>%
   
   # group by date and county
