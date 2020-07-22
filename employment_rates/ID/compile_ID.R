@@ -18,7 +18,7 @@ data(county.fips)
 output <- raw %>%
   mutate(
     # dates
-    period = month(dmy(paste("1-",date,sep="")), label = T, abbr = F),
+    period = month(dym(paste("1-",date,sep="")), label = T, abbr = F),
     year = 2020,
     
     # set general info

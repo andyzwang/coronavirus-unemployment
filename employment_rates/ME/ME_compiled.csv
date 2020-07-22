@@ -10,65 +10,6 @@
 "23","ME","Maine","Auburn","city",NA,"Jan",2019,11947,11500,447
 "23","ME","Maine","Bangor","city",NA,"Jan",2019,16498,15887,611
 "23","ME","Maine","Lewiston","city",NA,"Jan",2019,17019,16382,637
-"23","ME","Maine","Portland","city",NA,"Jun",2019,39129,38261,868
-"23","ME","Maine","Windham","city",NA,"Jun",2019,10714,10477,237
-"23","ME","Maine","Saco","city",NA,"Jun",2019,11940,11671,269
-"23","ME","Maine","Biddeford","city",NA,"Jun",2019,12552,12251,301
-"23","ME","Maine","Gorham","city",NA,"Jun",2019,10759,10505,254
-"23","ME","Maine","Scarborough","city",NA,"Jun",2019,11392,11120,272
-"23","ME","Maine","South Portland","city",NA,"Jun",2019,15028,14674,354
-"23","ME","Maine","Auburn","city",NA,"Jun",2019,11934,11606,328
-"23","ME","Maine","Brunswick","city",NA,"Jun",2019,10972,10675,297
-"23","ME","Maine","Maine","state",NA,"Jan",2019,685064,657261,27803
-"23","ME","Maine","Maine","state",NA,"Jan",2020,685269,657181,28088
-"23","ME","Maine","Maine","state",NA,"Feb",2019,684088,656960,27128
-"23","ME","Maine","Maine","state",NA,"Feb",2020,687867,658408,29459
-"23","ME","Maine","Maine","state",NA,"Mar",2019,685242,658765,26477
-"23","ME","Maine","Maine","state",NA,"Mar",2020,688274,663217,25057
-"23","ME","Maine","Maine","state",NA,"Apr",2019,685039,662063,22976
-"23","ME","Maine","Maine","state",NA,"Apr",2020,652223,581759,70464
-"23","ME","Maine","Maine","state",NA,"May",2019,688088,667444,20644
-"23","ME","Maine","Maine","state",NA,"May",2020,662567,600057,62510
-"23","ME","Maine","Maine","state",NA,"Jun",2019,701100,681752,19348
-"23","ME","Maine","Maine","state",NA,"Jun",2020,678778,635399,43379
-"23","ME","Maine","Maine","state",NA,"Jul",2019,708797,689906,18891
-"23","ME","Maine","Maine","state",NA,"Aug",2019,708364,692083,16281
-"23","ME","Maine","Maine","state",NA,"Sep",2019,692599,676574,16025
-"23","ME","Maine","Maine","state",NA,"Oct",2019,695929,679180,16749
-"23","ME","Maine","Maine","state",NA,"Nov",2019,689655,670139,19516
-"23","ME","Maine","Maine","state",NA,"Dec",2019,688899,668979,19920
-"23","ME","Maine","Gorham","city",NA,"Mar",2019,10370,10099,271
-"23","ME","Maine","Portland","city",NA,"Mar",2019,37842,36781,1061
-"23","ME","Maine","South Portland","city",NA,"Mar",2019,14516,14106,410
-"23","ME","Maine","Windham","city",NA,"Mar",2019,10375,10072,303
-"23","ME","Maine","Brunswick","city",NA,"Mar",2019,10779,10454,325
-"23","ME","Maine","Scarborough","city",NA,"Mar",2019,11015,10689,326
-"23","ME","Maine","Saco","city",NA,"Mar",2019,11579,11219,360
-"23","ME","Maine","Biddeford","city",NA,"Mar",2019,12186,11777,409
-"23","ME","Maine","Bangor","city",NA,"Mar",2019,16779,16184,595
-"23","ME","Maine","Auburn","city",NA,"Mar",2019,11926,11472,454
-"23","ME","Maine","Lewiston","city",NA,"Mar",2019,17001,16341,660
-"23","ME","Maine","Portland","city",NA,"Jul",2019,39370,38535,835
-"23","ME","Maine","Gorham","city",NA,"Jul",2019,10820,10581,239
-"23","ME","Maine","Scarborough","city",NA,"Jul",2019,11457,11200,257
-"23","ME","Maine","Biddeford","city",NA,"Jul",2019,12629,12339,290
-"23","ME","Maine","Saco","city",NA,"Jul",2019,12026,11754,272
-"23","ME","Maine","South Portland","city",NA,"Jul",2019,15120,14779,341
-"23","ME","Maine","Windham","city",NA,"Jul",2019,10798,10552,246
-"23","ME","Maine","Brunswick","city",NA,"Jul",2019,11064,10792,272
-"23","ME","Maine","Bangor","city",NA,"Jul",2019,16720,16283,437
-"23","ME","Maine","Gorham","city",NA,"Apr",2019,10435,10193,242
-"23","ME","Maine","South Portland","city",NA,"Apr",2019,14591,14237,354
-"23","ME","Maine","Windham","city",NA,"Apr",2019,10417,10165,252
-"23","ME","Maine","Portland","city",NA,"Apr",2019,38077,37122,955
-"23","ME","Maine","Scarborough","city",NA,"Apr",2019,11070,10789,281
-"23","ME","Maine","Saco","city",NA,"Apr",2019,11629,11323,306
-"23","ME","Maine","Brunswick","city",NA,"Apr",2019,10779,10488,291
-"23","ME","Maine","Biddeford","city",NA,"Apr",2019,12233,11887,346
-"23","ME","Maine","Bangor","city",NA,"Apr",2019,17034,16511,523
-"23","ME","Maine","Auburn","city",NA,"Apr",2019,11966,11570,396
-"23","ME","Maine","Lewiston","city",NA,"Apr",2019,17052,16482,570
-"23","ME","Maine","Sanford","city",NA,"Apr",2019,10396,10005,391
 "23","ME","Maine","Sanford","city",NA,"Jan",2019,10330,9781,549
 "23","ME","Maine","Scarborough","city",NA,"Jan",2020,11029,10739,290
 "23","ME","Maine","Portland","city",NA,"Jan",2020,37993,36952,1041
@@ -81,56 +22,6 @@
 "23","ME","Maine","Biddeford","city",NA,"Jan",2020,12265,11832,433
 "23","ME","Maine","Lewiston","city",NA,"Jan",2020,17065,16444,621
 "23","ME","Maine","Bangor","city",NA,"Jan",2020,16835,16197,638
-"23","ME","Maine","Bangor","city",NA,"Jun",2019,16789,16323,466
-"23","ME","Maine","Sanford","city",NA,"Jun",2019,10700,10388,312
-"23","ME","Maine","Lewiston","city",NA,"Jun",2019,17059,16532,527
-"23","ME","Maine","Gorham","city",NA,"Jun",2020,10047,9516,531
-"23","ME","Maine","Brunswick","city",NA,"Jun",2020,11015,10399,616
-"23","ME","Maine","Gorham","city",NA,"Dec",2019,10500,10288,212
-"23","ME","Maine","Scarborough","city",NA,"Dec",2019,11115,10890,225
-"23","ME","Maine","Portland","city",NA,"Dec",2019,38296,37469,827
-"23","ME","Maine","South Portland","city",NA,"Dec",2019,14694,14370,324
-"23","ME","Maine","Windham","city",NA,"Dec",2019,10503,10260,243
-"23","ME","Maine","Brunswick","city",NA,"Dec",2019,10733,10478,255
-"23","ME","Maine","Saco","city",NA,"Dec",2019,11706,11429,277
-"23","ME","Maine","Auburn","city",NA,"Dec",2019,11951,11647,304
-"23","ME","Maine","Biddeford","city",NA,"Dec",2019,12316,11998,318
-"23","ME","Maine","Lewiston","city",NA,"Dec",2019,17044,16591,453
-"23","ME","Maine","Bangor","city",NA,"Dec",2019,17121,16648,473
-"23","ME","Maine","South Portland","city",NA,"Nov",2019,14802,14470,332
-"23","ME","Maine","Gorham","city",NA,"Nov",2019,10606,10360,246
-"23","ME","Maine","Portland","city",NA,"Nov",2019,38609,37731,878
-"23","ME","Maine","Saco","city",NA,"Nov",2019,11785,11509,276
-"23","ME","Maine","Scarborough","city",NA,"Nov",2019,11228,10966,262
-"23","ME","Maine","Windham","city",NA,"Nov",2019,10575,10332,243
-"23","ME","Maine","Brunswick","city",NA,"Nov",2019,10773,10511,262
-"23","ME","Maine","Biddeford","city",NA,"Nov",2019,12394,12082,312
-"23","ME","Maine","Auburn","city",NA,"Nov",2019,12000,11684,316
-"23","ME","Maine","Sanford","city",NA,"Jul",2019,10858,10562,296
-"23","ME","Maine","Auburn","city",NA,"Jul",2019,11780,11455,325
-"23","ME","Maine","Lewiston","city",NA,"Jul",2019,16857,16317,540
-"23","ME","Maine","Gorham","city",NA,"Aug",2019,10781,10576,205
-"23","ME","Maine","Portland","city",NA,"Aug",2019,39260,38519,741
-"23","ME","Maine","Scarborough","city",NA,"Aug",2019,11414,11195,219
-"23","ME","Maine","Biddeford","city",NA,"Aug",2019,12586,12334,252
-"23","ME","Maine","Saco","city",NA,"Aug",2019,11985,11750,235
-"23","ME","Maine","South Portland","city",NA,"Aug",2019,15080,14773,307
-"23","ME","Maine","Windham","city",NA,"Aug",2019,10762,10548,214
-"23","ME","Maine","Brunswick","city",NA,"Aug",2019,10997,10760,237
-"23","ME","Maine","Brunswick","city",NA,"Apr",2020,10565,9515,1050
-"23","ME","Maine","Lewiston","city",NA,"Apr",2020,16247,14596,1651
-"23","ME","Maine","Sanford","city",NA,"Mar",2019,10321,9833,488
-"23","ME","Maine","Gorham","city",NA,"Mar",2020,10439,10189,250
-"23","ME","Maine","Scarborough","city",NA,"Mar",2020,11047,10785,262
-"23","ME","Maine","Portland","city",NA,"Mar",2020,38061,37110,951
-"23","ME","Maine","South Portland","city",NA,"Mar",2020,14615,14232,383
-"23","ME","Maine","Windham","city",NA,"Mar",2020,10430,10162,268
-"23","ME","Maine","Brunswick","city",NA,"Mar",2020,10794,10503,291
-"23","ME","Maine","Saco","city",NA,"Mar",2020,11643,11320,323
-"23","ME","Maine","Auburn","city",NA,"Mar",2020,12010,11646,364
-"23","ME","Maine","Biddeford","city",NA,"Mar",2020,12257,11883,374
-"23","ME","Maine","Lewiston","city",NA,"Mar",2020,17155,16589,566
-"23","ME","Maine","Bangor","city",NA,"Mar",2020,17182,16583,599
 "23","ME","Maine","Sanford","city",NA,"Jan",2020,10387,9808,579
 "23","ME","Maine","Gorham","city",NA,"Feb",2019,10331,10054,277
 "23","ME","Maine","Portland","city",NA,"Feb",2019,37614,36616,998
@@ -155,6 +46,45 @@
 "23","ME","Maine","Biddeford","city",NA,"Feb",2020,12222,11775,447
 "23","ME","Maine","Lewiston","city",NA,"Feb",2020,17036,16393,643
 "23","ME","Maine","Bangor","city",NA,"Feb",2020,16985,16323,662
+"23","ME","Maine","Sanford","city",NA,"Feb",2020,10354,9761,593
+"23","ME","Maine","Gorham","city",NA,"Apr",2019,10435,10193,242
+"23","ME","Maine","South Portland","city",NA,"Apr",2019,14591,14237,354
+"23","ME","Maine","Windham","city",NA,"Apr",2019,10417,10165,252
+"23","ME","Maine","Portland","city",NA,"Apr",2019,38077,37122,955
+"23","ME","Maine","Scarborough","city",NA,"Apr",2019,11070,10789,281
+"23","ME","Maine","Saco","city",NA,"Apr",2019,11629,11323,306
+"23","ME","Maine","Brunswick","city",NA,"Apr",2019,10779,10488,291
+"23","ME","Maine","Biddeford","city",NA,"Apr",2019,12233,11887,346
+"23","ME","Maine","Bangor","city",NA,"Apr",2019,17034,16511,523
+"23","ME","Maine","Auburn","city",NA,"Apr",2019,11966,11570,396
+"23","ME","Maine","Lewiston","city",NA,"Apr",2019,17052,16482,570
+"23","ME","Maine","Sanford","city",NA,"Apr",2019,10396,10005,391
+"23","ME","Maine","Brunswick","city",NA,"Apr",2020,10565,9515,1050
+"23","ME","Maine","Lewiston","city",NA,"Apr",2020,16247,14596,1651
+"23","ME","Maine","Bangor","city",NA,"Apr",2020,16397,14612,1785
+"23","ME","Maine","Saco","city",NA,"Apr",2020,10884,9694,1190
+"23","ME","Maine","Auburn","city",NA,"Apr",2020,11518,10247,1271
+"23","ME","Maine","Scarborough","city",NA,"Apr",2020,10373,9236,1137
+"23","ME","Maine","Biddeford","city",NA,"Apr",2020,11441,10176,1265
+"23","ME","Maine","South Portland","city",NA,"Apr",2020,13813,12188,1625
+"23","ME","Maine","Portland","city",NA,"Apr",2020,36619,31779,4840
+"23","ME","Maine","Portland","city",NA,"Jun",2019,39129,38261,868
+"23","ME","Maine","Windham","city",NA,"Jun",2019,10714,10477,237
+"23","ME","Maine","Saco","city",NA,"Jun",2019,11940,11671,269
+"23","ME","Maine","Biddeford","city",NA,"Jun",2019,12552,12251,301
+"23","ME","Maine","Gorham","city",NA,"Jun",2019,10759,10505,254
+"23","ME","Maine","Scarborough","city",NA,"Jun",2019,11392,11120,272
+"23","ME","Maine","South Portland","city",NA,"Jun",2019,15028,14674,354
+"23","ME","Maine","Auburn","city",NA,"Jun",2019,11934,11606,328
+"23","ME","Maine","Brunswick","city",NA,"Jun",2019,10972,10675,297
+"23","ME","Maine","Bangor","city",NA,"Jun",2019,16789,16323,466
+"23","ME","Maine","Sanford","city",NA,"Jun",2019,10700,10388,312
+"23","ME","Maine","Lewiston","city",NA,"Jun",2019,17059,16532,527
+"23","ME","Maine","Gorham","city",NA,"Jun",2020,10047,9516,531
+"23","ME","Maine","Brunswick","city",NA,"Jun",2020,11015,10399,616
+"23","ME","Maine","Windham","city",NA,"Jun",2020,10080,9490,590
+"23","ME","Maine","Scarborough","city",NA,"Jun",2020,10711,10073,638
+"23","ME","Maine","Saco","city",NA,"Jun",2020,11308,10572,736
 "23","ME","Maine","Portland","city",NA,"Sep",2019,38751,38018,733
 "23","ME","Maine","Saco","city",NA,"Sep",2019,11822,11597,225
 "23","ME","Maine","Biddeford","city",NA,"Sep",2019,12421,12174,247
@@ -165,20 +95,6 @@
 "23","ME","Maine","Brunswick","city",NA,"Sep",2019,10872,10626,246
 "23","ME","Maine","Auburn","city",NA,"Sep",2019,11868,11585,283
 "23","ME","Maine","Bangor","city",NA,"Sep",2019,16979,16566,413
-"23","ME","Maine","Sanford","city",NA,"Mar",2020,10407,9942,465
-"23","ME","Maine","Gorham","city",NA,"May",2019,10499,10272,227
-"23","ME","Maine","Portland","city",NA,"May",2019,38310,37410,900
-"23","ME","Maine","Saco","city",NA,"May",2019,11685,11411,274
-"23","ME","Maine","Scarborough","city",NA,"May",2019,11141,10872,269
-"23","ME","Maine","Windham","city",NA,"May",2019,10494,10244,250
-"23","ME","Maine","Biddeford","city",NA,"May",2019,12288,11979,309
-"23","ME","Maine","Brunswick","city",NA,"May",2019,10808,10538,270
-"23","ME","Maine","South Portland","city",NA,"May",2019,14713,14347,366
-"23","ME","Maine","Bangor","city",NA,"May",2019,16791,16317,474
-"23","ME","Maine","Auburn","city",NA,"May",2019,11881,11517,364
-"23","ME","Maine","Sanford","city",NA,"May",2019,10451,10126,325
-"23","ME","Maine","Lewiston","city",NA,"May",2019,16943,16406,537
-"23","ME","Maine","Brunswick","city",NA,"May",2020,10818,9892,926
 "23","ME","Maine","Sanford","city",NA,"Sep",2019,10526,10263,263
 "23","ME","Maine","Lewiston","city",NA,"Sep",2019,16940,16503,437
 "23","ME","Maine","Portland","city",NA,"Oct",2019,38967,38201,766
@@ -189,32 +105,33 @@
 "23","ME","Maine","Biddeford","city",NA,"Oct",2019,12533,12232,301
 "23","ME","Maine","Auburn","city",NA,"Oct",2019,12072,11770,302
 "23","ME","Maine","Brunswick","city",NA,"Oct",2019,10935,10657,278
-"23","ME","Maine","Windham","city",NA,"Jun",2020,10080,9490,590
-"23","ME","Maine","Scarborough","city",NA,"Jun",2020,10711,10073,638
-"23","ME","Maine","Saco","city",NA,"Jun",2020,11308,10572,736
-"23","ME","Maine","Bangor","city",NA,"Jun",2020,16303,15188,1115
-"23","ME","Maine","Auburn","city",NA,"Jun",2020,11663,10829,834
-"23","ME","Maine","Biddeford","city",NA,"Jun",2020,11974,11098,876
-"23","ME","Maine","Lewiston","city",NA,"Jun",2020,16669,15425,1244
-"23","ME","Maine","Sanford","city",NA,"Jun",2020,10395,9602,793
-"23","ME","Maine","South Portland","city",NA,"Jun",2020,14396,13292,1104
-"23","ME","Maine","Portland","city",NA,"Jun",2020,37970,34658,3312
 "23","ME","Maine","Gorham","city",NA,"Oct",2019,10756,10489,267
 "23","ME","Maine","Bangor","city",NA,"Oct",2019,17281,16838,443
 "23","ME","Maine","Lewiston","city",NA,"Oct",2019,17223,16767,456
 "23","ME","Maine","Sanford","city",NA,"Oct",2019,10526,10250,276
+"23","ME","Maine","South Portland","city",NA,"Nov",2019,14802,14470,332
+"23","ME","Maine","Gorham","city",NA,"Nov",2019,10606,10360,246
+"23","ME","Maine","Portland","city",NA,"Nov",2019,38609,37731,878
+"23","ME","Maine","Saco","city",NA,"Nov",2019,11785,11509,276
+"23","ME","Maine","Scarborough","city",NA,"Nov",2019,11228,10966,262
+"23","ME","Maine","Windham","city",NA,"Nov",2019,10575,10332,243
+"23","ME","Maine","Brunswick","city",NA,"Nov",2019,10773,10511,262
+"23","ME","Maine","Biddeford","city",NA,"Nov",2019,12394,12082,312
+"23","ME","Maine","Auburn","city",NA,"Nov",2019,12000,11684,316
 "23","ME","Maine","Lewiston","city",NA,"Nov",2019,17134,16643,491
 "23","ME","Maine","Bangor","city",NA,"Nov",2019,17195,16686,509
 "23","ME","Maine","Sanford","city",NA,"Nov",2019,10403,10036,367
-"23","ME","Maine","Lewiston","city",NA,"May",2020,16612,15004,1608
-"23","ME","Maine","Auburn","city",NA,"May",2020,11706,10533,1173
-"23","ME","Maine","Saco","city",NA,"May",2020,11005,9891,1114
-"23","ME","Maine","Sanford","city",NA,"May",2020,10056,9026,1030
-"23","ME","Maine","Scarborough","city",NA,"May",2020,10508,9424,1084
-"23","ME","Maine","Bangor","city",NA,"May",2020,16272,14578,1694
-"23","ME","Maine","Biddeford","city",NA,"May",2020,11598,10383,1215
-"23","ME","Maine","South Portland","city",NA,"May",2020,14026,12436,1590
-"23","ME","Maine","Portland","city",NA,"May",2020,37038,32425,4613
+"23","ME","Maine","Gorham","city",NA,"Dec",2019,10500,10288,212
+"23","ME","Maine","Scarborough","city",NA,"Dec",2019,11115,10890,225
+"23","ME","Maine","Portland","city",NA,"Dec",2019,38296,37469,827
+"23","ME","Maine","South Portland","city",NA,"Dec",2019,14694,14370,324
+"23","ME","Maine","Windham","city",NA,"Dec",2019,10503,10260,243
+"23","ME","Maine","Brunswick","city",NA,"Dec",2019,10733,10478,255
+"23","ME","Maine","Saco","city",NA,"Dec",2019,11706,11429,277
+"23","ME","Maine","Auburn","city",NA,"Dec",2019,11951,11647,304
+"23","ME","Maine","Biddeford","city",NA,"Dec",2019,12316,11998,318
+"23","ME","Maine","Lewiston","city",NA,"Dec",2019,17044,16591,453
+"23","ME","Maine","Bangor","city",NA,"Dec",2019,17121,16648,473
 "23","ME","Maine","Sanford","city",NA,"Dec",2019,10388,10013,375
 "23","ME","Maine","Cumberland County","county",23005,"Jan",2019,162386,157603,4783
 "23","ME","Maine","Sagadahoc County","county",23023,"Jan",2019,19259,18683,576
@@ -486,15 +403,98 @@
 "23","ME","Maine","Washington County","county",23029,"Dec",2019,13823,13261,562
 "23","ME","Maine","Aroostook County","county",23003,"Dec",2019,30000,28709,1291
 "23","ME","Maine","Somerset County","county",23025,"Dec",2019,22068,21068,1000
+"23","ME","Maine","Maine","state",NA,"Jan",2019,685064,657261,27803
+"23","ME","Maine","Maine","state",NA,"Jan",2020,685269,657181,28088
+"23","ME","Maine","Maine","state",NA,"Feb",2019,684088,656960,27128
+"23","ME","Maine","Maine","state",NA,"Feb",2020,687867,658408,29459
+"23","ME","Maine","Maine","state",NA,"Mar",2019,685242,658765,26477
+"23","ME","Maine","Maine","state",NA,"Mar",2020,688274,663217,25057
+"23","ME","Maine","Maine","state",NA,"Apr",2019,685039,662063,22976
+"23","ME","Maine","Maine","state",NA,"Apr",2020,652223,581759,70464
+"23","ME","Maine","Maine","state",NA,"May",2019,688088,667444,20644
+"23","ME","Maine","Maine","state",NA,"May",2020,662567,600057,62510
+"23","ME","Maine","Maine","state",NA,"Jun",2019,701100,681752,19348
+"23","ME","Maine","Maine","state",NA,"Jun",2020,678778,635399,43379
+"23","ME","Maine","Maine","state",NA,"Jul",2019,708797,689906,18891
+"23","ME","Maine","Maine","state",NA,"Aug",2019,708364,692083,16281
+"23","ME","Maine","Maine","state",NA,"Sep",2019,692599,676574,16025
+"23","ME","Maine","Maine","state",NA,"Oct",2019,695929,679180,16749
+"23","ME","Maine","Maine","state",NA,"Nov",2019,689655,670139,19516
+"23","ME","Maine","Maine","state",NA,"Dec",2019,688899,668979,19920
+"23","ME","Maine","Gorham","city",NA,"Mar",2019,10370,10099,271
+"23","ME","Maine","Portland","city",NA,"Mar",2019,37842,36781,1061
+"23","ME","Maine","South Portland","city",NA,"Mar",2019,14516,14106,410
+"23","ME","Maine","Windham","city",NA,"Mar",2019,10375,10072,303
+"23","ME","Maine","Brunswick","city",NA,"Mar",2019,10779,10454,325
+"23","ME","Maine","Scarborough","city",NA,"Mar",2019,11015,10689,326
+"23","ME","Maine","Saco","city",NA,"Mar",2019,11579,11219,360
+"23","ME","Maine","Biddeford","city",NA,"Mar",2019,12186,11777,409
+"23","ME","Maine","Bangor","city",NA,"Mar",2019,16779,16184,595
+"23","ME","Maine","Auburn","city",NA,"Mar",2019,11926,11472,454
+"23","ME","Maine","Lewiston","city",NA,"Mar",2019,17001,16341,660
+"23","ME","Maine","Sanford","city",NA,"Mar",2019,10321,9833,488
+"23","ME","Maine","Gorham","city",NA,"Mar",2020,10439,10189,250
+"23","ME","Maine","Scarborough","city",NA,"Mar",2020,11047,10785,262
+"23","ME","Maine","Portland","city",NA,"Mar",2020,38061,37110,951
+"23","ME","Maine","South Portland","city",NA,"Mar",2020,14615,14232,383
+"23","ME","Maine","Windham","city",NA,"Mar",2020,10430,10162,268
+"23","ME","Maine","Brunswick","city",NA,"Mar",2020,10794,10503,291
+"23","ME","Maine","Saco","city",NA,"Mar",2020,11643,11320,323
+"23","ME","Maine","Auburn","city",NA,"Mar",2020,12010,11646,364
+"23","ME","Maine","Biddeford","city",NA,"Mar",2020,12257,11883,374
+"23","ME","Maine","Lewiston","city",NA,"Mar",2020,17155,16589,566
+"23","ME","Maine","Bangor","city",NA,"Mar",2020,17182,16583,599
+"23","ME","Maine","Sanford","city",NA,"Mar",2020,10407,9942,465
+"23","ME","Maine","Gorham","city",NA,"May",2019,10499,10272,227
+"23","ME","Maine","Portland","city",NA,"May",2019,38310,37410,900
+"23","ME","Maine","Saco","city",NA,"May",2019,11685,11411,274
+"23","ME","Maine","Scarborough","city",NA,"May",2019,11141,10872,269
+"23","ME","Maine","Windham","city",NA,"May",2019,10494,10244,250
+"23","ME","Maine","Biddeford","city",NA,"May",2019,12288,11979,309
+"23","ME","Maine","Brunswick","city",NA,"May",2019,10808,10538,270
+"23","ME","Maine","South Portland","city",NA,"May",2019,14713,14347,366
+"23","ME","Maine","Bangor","city",NA,"May",2019,16791,16317,474
+"23","ME","Maine","Auburn","city",NA,"May",2019,11881,11517,364
+"23","ME","Maine","Sanford","city",NA,"May",2019,10451,10126,325
+"23","ME","Maine","Lewiston","city",NA,"May",2019,16943,16406,537
+"23","ME","Maine","Bangor","city",NA,"Jun",2020,16303,15188,1115
+"23","ME","Maine","Auburn","city",NA,"Jun",2020,11663,10829,834
+"23","ME","Maine","Biddeford","city",NA,"Jun",2020,11974,11098,876
+"23","ME","Maine","Lewiston","city",NA,"Jun",2020,16669,15425,1244
+"23","ME","Maine","Sanford","city",NA,"Jun",2020,10395,9602,793
+"23","ME","Maine","South Portland","city",NA,"Jun",2020,14396,13292,1104
+"23","ME","Maine","Portland","city",NA,"Jun",2020,37970,34658,3312
+"23","ME","Maine","Portland","city",NA,"Jul",2019,39370,38535,835
+"23","ME","Maine","Gorham","city",NA,"Jul",2019,10820,10581,239
+"23","ME","Maine","Scarborough","city",NA,"Jul",2019,11457,11200,257
+"23","ME","Maine","Biddeford","city",NA,"Jul",2019,12629,12339,290
+"23","ME","Maine","Saco","city",NA,"Jul",2019,12026,11754,272
+"23","ME","Maine","South Portland","city",NA,"Jul",2019,15120,14779,341
+"23","ME","Maine","Windham","city",NA,"Jul",2019,10798,10552,246
+"23","ME","Maine","Brunswick","city",NA,"Jul",2019,11064,10792,272
+"23","ME","Maine","Bangor","city",NA,"Jul",2019,16720,16283,437
+"23","ME","Maine","Sanford","city",NA,"Jul",2019,10858,10562,296
+"23","ME","Maine","Auburn","city",NA,"Jul",2019,11780,11455,325
+"23","ME","Maine","Lewiston","city",NA,"Jul",2019,16857,16317,540
+"23","ME","Maine","Gorham","city",NA,"Aug",2019,10781,10576,205
+"23","ME","Maine","Portland","city",NA,"Aug",2019,39260,38519,741
+"23","ME","Maine","Scarborough","city",NA,"Aug",2019,11414,11195,219
+"23","ME","Maine","Biddeford","city",NA,"Aug",2019,12586,12334,252
+"23","ME","Maine","Saco","city",NA,"Aug",2019,11985,11750,235
+"23","ME","Maine","South Portland","city",NA,"Aug",2019,15080,14773,307
+"23","ME","Maine","Windham","city",NA,"Aug",2019,10762,10548,214
+"23","ME","Maine","Brunswick","city",NA,"Aug",2019,10997,10760,237
 "23","ME","Maine","Bangor","city",NA,"Aug",2019,16773,16378,395
 "23","ME","Maine","Auburn","city",NA,"Aug",2019,11768,11477,291
 "23","ME","Maine","Sanford","city",NA,"Aug",2019,10774,10507,267
 "23","ME","Maine","Lewiston","city",NA,"Aug",2019,16821,16350,471
-"23","ME","Maine","Bangor","city",NA,"Apr",2020,16397,14612,1785
-"23","ME","Maine","Saco","city",NA,"Apr",2020,10884,9694,1190
-"23","ME","Maine","Auburn","city",NA,"Apr",2020,11518,10247,1271
-"23","ME","Maine","Scarborough","city",NA,"Apr",2020,10373,9236,1137
-"23","ME","Maine","Biddeford","city",NA,"Apr",2020,11441,10176,1265
-"23","ME","Maine","South Portland","city",NA,"Apr",2020,13813,12188,1625
-"23","ME","Maine","Portland","city",NA,"Apr",2020,36619,31779,4840
-"23","ME","Maine","Sanford","city",NA,"Feb",2020,10354,9761,593
+"23","ME","Maine","Brunswick","city",NA,"May",2020,10818,9892,926
+"23","ME","Maine","Lewiston","city",NA,"May",2020,16612,15004,1608
+"23","ME","Maine","Auburn","city",NA,"May",2020,11706,10533,1173
+"23","ME","Maine","Saco","city",NA,"May",2020,11005,9891,1114
+"23","ME","Maine","Sanford","city",NA,"May",2020,10056,9026,1030
+"23","ME","Maine","Scarborough","city",NA,"May",2020,10508,9424,1084
+"23","ME","Maine","Bangor","city",NA,"May",2020,16272,14578,1694
+"23","ME","Maine","Biddeford","city",NA,"May",2020,11598,10383,1215
+"23","ME","Maine","South Portland","city",NA,"May",2020,14026,12436,1590
+"23","ME","Maine","Portland","city",NA,"May",2020,37038,32425,4613

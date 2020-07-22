@@ -413,3 +413,26 @@
 "25","MA","Massachusetts","Worcester","city",NA,"November",2019,95027,92391,2636
 "25","MA","Massachusetts","Worcester","city",NA,"December",2019,95186,92528,2658
 "25","MA","Massachusetts","Worcester","city",NA,"Annual",2019,94361,91132,3229
+"25","MA","Massachusetts","Boston","city",NA,"June",2020,393491,319001,74490
+"25","MA","Massachusetts","Brockton","city",NA,"June",2020,52243,39084,13159
+"25","MA","Massachusetts","Cambridge","city",NA,"June",2020,65664,59074,6590
+"25","MA","Massachusetts","Lowell","city",NA,"June",2020,57548,45761,11787
+"25","MA","Massachusetts","Lynn","city",NA,"June",2020,51435,38565,12870
+"25","MA","Massachusetts","New Bedford","city",NA,"June",2020,49863,37843,12020
+"25","MA","Massachusetts","Springfield","city",NA,"June",2020,66881,49980,16901
+"25","MA","Massachusetts","Worcester","city",NA,"June",2020,96420,77015,19405
+"25","MA","Massachusetts","Barnstable County","county",25001,"June",2020,112887,92013,20874
+"25","MA","Massachusetts","Berkshire County","county",25003,"June",2020,63772,53435,10337
+"25","MA","Massachusetts","Bristol County","county",25005,"June",2020,304218,245511,58707
+"25","MA","Massachusetts","Dukes County","county",25007,"June",2020,11009,9502,1507
+"25","MA","Massachusetts","Essex County","county",25009,"June",2020,424677,341754,82923
+"25","MA","Massachusetts","Franklin County","county",25011,"June",2020,39481,33903,5578
+"25","MA","Massachusetts","Hampden County","county",25013,"June",2020,223241,179211,44030
+"25","MA","Massachusetts","Hampshire County","county",25015,"June",2020,83870,71809,12061
+"25","MA","Massachusetts","Middlesex County","county",25017,"June",2020,877013,748045,128968
+"25","MA","Massachusetts","Nantucket County","county",25019,"June",2020,9062,7821,1241
+"25","MA","Massachusetts","Norfolk County","county",25021,"June",2020,380918,316546,64372
+"25","MA","Massachusetts","Plymouth County","county",25023,"June",2020,280926,228539,52387
+"25","MA","Massachusetts","Suffolk County","county",25025,"June",2020,459453,368277,91176
+"25","MA","Massachusetts","Worcester County","county",25027,"June",2020,442826,368386,74440
+"25","MA","Massachusetts","Massachusetts","state",NA,"June",2020,3713400,3064800,648600

@@ -9,19 +9,19 @@ library(stringr)
 # import
 
 lf <- read_csv("MN_laborforce_data.csv") %>%
-  pivot_longer(cols = !contains("Year/Month"), names_to = "area", values_to = "value") %>%
+  pivot_longer(cols = !contains("Year-Month"), names_to = "area", values_to = "value") %>%
   mutate(
     metric = "labor_force"
   )
 
 unemployment <- read_csv("MN_unemployment_data.csv") %>%
-  pivot_longer(cols = !contains("Year/Month"), names_to = "area", values_to = "value") %>%
+  pivot_longer(cols = !contains("Year-Month"), names_to = "area", values_to = "value") %>%
   mutate(
     metric = "unemployment"
   )
 
 employment <- read_csv("MN_employment_data.csv") %>%
-  pivot_longer(cols = !contains("Year/Month"), names_to = "area", values_to = "value") %>%
+  pivot_longer(cols = !contains("Year-Month"), names_to = "area", values_to = "value") %>%
   mutate(
     metric = "employment"
   )

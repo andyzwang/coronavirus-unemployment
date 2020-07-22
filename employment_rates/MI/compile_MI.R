@@ -12,13 +12,16 @@ raw <- read_csv("MI_data.csv")
 
 output <- raw %>%
   clean_names("snake") %>%
-  select(-area) %>%
   mutate(
-    state_fips = stfips,
+    state_fips = 26,
     state_short = "MI",
     state = "Michigan",
-    area_type = str_to_lower(area_type),
-    area = str_remove(area_2, ", MI"),
+    area_type = case_when(
+      str_detect(area, "County") ~ "county",
+      area == "Michigan" ~ "state",
+      TRUE ~ "city"
+    ),
+    area = str_remove(area, ", MI"),
     polyname = case_when(
       area_type == "county" ~ paste("michigan,", tolower(str_remove(str_remove(area, "[[:punct:]]"), " County")), sep = "")
     ),

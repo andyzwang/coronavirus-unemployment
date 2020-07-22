@@ -1,0 +1,1009 @@
+"state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
+"18","IN","Indiana","Adams County","county","18001","January",2020,16917,16413,504
+"18","IN","Indiana","Adams County","county","18001","February",2020,16925,16406,519
+"18","IN","Indiana","Adams County","county","18001","March",2020,16288,15858,430
+"18","IN","Indiana","Adams County","county","18001","April",2020,16874,13465,3409
+"18","IN","Indiana","Adams County","county","18001","May",2020,16835,15197,1638
+"18","IN","Indiana","Adams County","county","18001","June",2020,17102,15749,1353
+"18","IN","Indiana","Allen County","county","18003","January",2020,186225,179876,6349
+"18","IN","Indiana","Allen County","county","18003","February",2020,187748,181348,6400
+"18","IN","Indiana","Allen County","county","18003","March",2020,180077,174567,5510
+"18","IN","Indiana","Allen County","county","18003","April",2020,184380,147853,36527
+"18","IN","Indiana","Allen County","county","18003","May",2020,190202,163635,26567
+"18","IN","Indiana","Allen County","county","18003","June",2020,189587,166826,22761
+"18","IN","Indiana","Bartholomew County","county","18005","January",2020,45195,43941,1254
+"18","IN","Indiana","Bartholomew County","county","18005","February",2020,45236,44108,1128
+"18","IN","Indiana","Bartholomew County","county","18005","March",2020,43594,42562,1032
+"18","IN","Indiana","Bartholomew County","county","18005","April",2020,44242,36642,7600
+"18","IN","Indiana","Bartholomew County","county","18005","May",2020,45662,39880,5782
+"18","IN","Indiana","Bartholomew County","county","18005","June",2020,45608,40765,4843
+"18","IN","Indiana","Benton County","county","18007","January",2020,4556,4408,148
+"18","IN","Indiana","Benton County","county","18007","February",2020,4660,4526,134
+"18","IN","Indiana","Benton County","county","18007","March",2020,4417,4297,120
+"18","IN","Indiana","Benton County","county","18007","April",2020,3944,3509,435
+"18","IN","Indiana","Benton County","county","18007","May",2020,4243,3860,383
+"18","IN","Indiana","Benton County","county","18007","June",2020,4302,3969,333
+"18","IN","Indiana","Blackford County","county","18009","January",2020,4824,4600,224
+"18","IN","Indiana","Blackford County","county","18009","February",2020,4816,4609,207
+"18","IN","Indiana","Blackford County","county","18009","March",2020,4696,4500,196
+"18","IN","Indiana","Blackford County","county","18009","April",2020,4908,3820,1088
+"18","IN","Indiana","Blackford County","county","18009","May",2020,5027,4211,816
+"18","IN","Indiana","Blackford County","county","18009","June",2020,5009,4352,657
+"18","IN","Indiana","Boone County","county","18011","January",2020,36390,35421,969
+"18","IN","Indiana","Boone County","county","18011","February",2020,36326,35469,857
+"18","IN","Indiana","Boone County","county","18011","March",2020,35084,34271,813
+"18","IN","Indiana","Boone County","county","18011","April",2020,32213,29258,2955
+"18","IN","Indiana","Boone County","county","18011","May",2020,34492,32166,2326
+"18","IN","Indiana","Boone County","county","18011","June",2020,36153,33564,2589
+"18","IN","Indiana","Brown County","county","18013","January",2020,7785,7509,276
+"18","IN","Indiana","Brown County","county","18013","February",2020,7746,7492,254
+"18","IN","Indiana","Brown County","county","18013","March",2020,7466,7234,232
+"18","IN","Indiana","Brown County","county","18013","April",2020,7355,6169,1186
+"18","IN","Indiana","Brown County","county","18013","May",2020,7756,6784,972
+"18","IN","Indiana","Brown County","county","18013","June",2020,8005,7127,878
+"18","IN","Indiana","Carroll County","county","18015","January",2020,10366,10013,353
+"18","IN","Indiana","Carroll County","county","18015","February",2020,10634,10293,341
+"18","IN","Indiana","Carroll County","county","18015","March",2020,10120,9799,321
+"18","IN","Indiana","Carroll County","county","18015","April",2020,9354,7932,1422
+"18","IN","Indiana","Carroll County","county","18015","May",2020,9890,8627,1263
+"18","IN","Indiana","Carroll County","county","18015","June",2020,9760,8899,861
+"18","IN","Indiana","Cass County","county","18017","January",2020,17707,16983,724
+"18","IN","Indiana","Cass County","county","18017","February",2020,17807,17123,684
+"18","IN","Indiana","Cass County","county","18017","March",2020,17007,16368,639
+"18","IN","Indiana","Cass County","county","18017","April",2020,16831,13887,2944
+"18","IN","Indiana","Cass County","county","18017","May",2020,18000,15707,2293
+"18","IN","Indiana","Cass County","county","18017","June",2020,18278,16314,1964
+"18","IN","Indiana","Clark County","county","18019","January",2020,62053,59922,2131
+"18","IN","Indiana","Clark County","county","18019","February",2020,62203,60231,1972
+"18","IN","Indiana","Clark County","county","18019","March",2020,59999,58167,1832
+"18","IN","Indiana","Clark County","county","18019","April",2020,56908,46519,10389
+"18","IN","Indiana","Clark County","county","18019","May",2020,58517,50952,7565
+"18","IN","Indiana","Clark County","county","18019","June",2020,61929,54662,7267
+"18","IN","Indiana","Clay County","county","18021","January",2020,12010,11537,473
+"18","IN","Indiana","Clay County","county","18021","February",2020,12096,11638,458
+"18","IN","Indiana","Clay County","county","18021","March",2020,11649,11227,422
+"18","IN","Indiana","Clay County","county","18021","April",2020,10953,9410,1543
+"18","IN","Indiana","Clay County","county","18021","May",2020,11701,10475,1226
+"18","IN","Indiana","Clay County","county","18021","June",2020,11849,10689,1160
+"18","IN","Indiana","Clinton County","county","18023","January",2020,17016,16514,502
+"18","IN","Indiana","Clinton County","county","18023","February",2020,17130,16675,455
+"18","IN","Indiana","Clinton County","county","18023","March",2020,16682,16263,419
+"18","IN","Indiana","Clinton County","county","18023","April",2020,15761,13628,2133
+"18","IN","Indiana","Clinton County","county","18023","May",2020,17143,15191,1952
+"18","IN","Indiana","Clinton County","county","18023","June",2020,17404,15795,1609
+"18","IN","Indiana","Crawford County","county","18025","January",2020,4901,4601,300
+"18","IN","Indiana","Crawford County","county","18025","February",2020,4889,4613,276
+"18","IN","Indiana","Crawford County","county","18025","March",2020,4704,4494,210
+"18","IN","Indiana","Crawford County","county","18025","April",2020,4444,3717,727
+"18","IN","Indiana","Crawford County","county","18025","May",2020,4665,4163,502
+"18","IN","Indiana","Crawford County","county","18025","June",2020,4924,4398,526
+"18","IN","Indiana","Daviess County","county","18027","January",2020,16749,16245,504
+"18","IN","Indiana","Daviess County","county","18027","February",2020,16705,16244,461
+"18","IN","Indiana","Daviess County","county","18027","March",2020,16234,15818,416
+"18","IN","Indiana","Daviess County","county","18027","April",2020,14592,13373,1219
+"18","IN","Indiana","Daviess County","county","18027","May",2020,16069,15161,908
+"18","IN","Indiana","Daviess County","county","18027","June",2020,16745,15784,961
+"18","IN","Indiana","Dearborn County","county","18029","January",2020,25884,24853,1031
+"18","IN","Indiana","Dearborn County","county","18029","February",2020,25886,24881,1005
+"18","IN","Indiana","Dearborn County","county","18029","March",2020,24773,23885,888
+"18","IN","Indiana","Dearborn County","county","18029","April",2020,24242,19829,4413
+"18","IN","Indiana","Dearborn County","county","18029","May",2020,24999,22134,2865
+"18","IN","Indiana","Dearborn County","county","18029","June",2020,26036,23079,2957
+"18","IN","Indiana","Decatur County","county","18031","January",2020,14805,14319,486
+"18","IN","Indiana","Decatur County","county","18031","February",2020,14797,14331,466
+"18","IN","Indiana","Decatur County","county","18031","March",2020,14691,14278,413
+"18","IN","Indiana","Decatur County","county","18031","April",2020,16017,12131,3886
+"18","IN","Indiana","Decatur County","county","18031","May",2020,16277,13607,2670
+"18","IN","Indiana","Decatur County","county","18031","June",2020,15782,14082,1700
+"18","IN","Indiana","Dekalb County","county","18033","January",2020,22750,22054,696
+"18","IN","Indiana","Dekalb County","county","18033","February",2020,22819,22154,665
+"18","IN","Indiana","Dekalb County","county","18033","March",2020,21909,21299,610
+"18","IN","Indiana","Dekalb County","county","18033","April",2020,22869,17994,4875
+"18","IN","Indiana","Dekalb County","county","18033","May",2020,23434,20117,3317
+"18","IN","Indiana","Dekalb County","county","18033","June",2020,23086,20780,2306
+"18","IN","Indiana","Delaware County","county","18035","January",2020,54379,52115,2264
+"18","IN","Indiana","Delaware County","county","18035","February",2020,54905,52728,2177
+"18","IN","Indiana","Delaware County","county","18035","March",2020,52957,50960,1997
+"18","IN","Indiana","Delaware County","county","18035","April",2020,52748,44174,8574
+"18","IN","Indiana","Delaware County","county","18035","May",2020,52374,46095,6279
+"18","IN","Indiana","Delaware County","county","18035","June",2020,52819,46805,6014
+"18","IN","Indiana","Dubois County","county","18037","January",2020,22959,22345,614
+"18","IN","Indiana","Dubois County","county","18037","February",2020,22932,22373,559
+"18","IN","Indiana","Dubois County","county","18037","March",2020,22288,21787,501
+"18","IN","Indiana","Dubois County","county","18037","April",2020,20556,18378,2178
+"18","IN","Indiana","Dubois County","county","18037","May",2020,22049,20799,1250
+"18","IN","Indiana","Dubois County","county","18037","June",2020,23337,21675,1662
+"18","IN","Indiana","Elkhart County","county","18039","January",2020,111926,108538,3388
+"18","IN","Indiana","Elkhart County","county","18039","February",2020,112571,109482,3089
+"18","IN","Indiana","Elkhart County","county","18039","March",2020,108468,105585,2883
+"18","IN","Indiana","Elkhart County","county","18039","April",2020,114091,81412,32679
+"18","IN","Indiana","Elkhart County","county","18039","May",2020,108353,95554,12799
+"18","IN","Indiana","Elkhart County","county","18039","June",2020,110293,98297,11996
+"18","IN","Indiana","Fayette County","county","18041","January",2020,8546,8115,431
+"18","IN","Indiana","Fayette County","county","18041","February",2020,8498,8116,382
+"18","IN","Indiana","Fayette County","county","18041","March",2020,8216,7841,375
+"18","IN","Indiana","Fayette County","county","18041","April",2020,8761,6551,2210
+"18","IN","Indiana","Fayette County","county","18041","May",2020,8967,7304,1663
+"18","IN","Indiana","Fayette County","county","18041","June",2020,8889,7505,1384
+"18","IN","Indiana","Floyd County","county","18043","January",2020,41909,40511,1398
+"18","IN","Indiana","Floyd County","county","18043","February",2020,42027,40719,1308
+"18","IN","Indiana","Floyd County","county","18043","March",2020,40508,39316,1192
+"18","IN","Indiana","Floyd County","county","18043","April",2020,37707,31459,6248
+"18","IN","Indiana","Floyd County","county","18043","May",2020,38972,34479,4493
+"18","IN","Indiana","Floyd County","county","18043","June",2020,41424,36977,4447
+"18","IN","Indiana","Fountain County","county","18045","January",2020,7905,7601,304
+"18","IN","Indiana","Fountain County","county","18045","February",2020,7902,7625,277
+"18","IN","Indiana","Fountain County","county","18045","March",2020,7588,7335,253
+"18","IN","Indiana","Fountain County","county","18045","April",2020,7630,6231,1399
+"18","IN","Indiana","Fountain County","county","18045","May",2020,8120,7006,1114
+"18","IN","Indiana","Fountain County","county","18045","June",2020,8019,7219,800
+"18","IN","Indiana","Franklin County","county","18047","January",2020,11161,10730,431
+"18","IN","Indiana","Franklin County","county","18047","February",2020,11186,10748,438
+"18","IN","Indiana","Franklin County","county","18047","March",2020,10886,10498,388
+"18","IN","Indiana","Franklin County","county","18047","April",2020,10819,8882,1937
+"18","IN","Indiana","Franklin County","county","18047","May",2020,11248,10149,1099
+"18","IN","Indiana","Franklin County","county","18047","June",2020,11496,10528,968
+"18","IN","Indiana","Fulton County","county","18049","January",2020,9555,9153,402
+"18","IN","Indiana","Fulton County","county","18049","February",2020,9528,9160,368
+"18","IN","Indiana","Fulton County","county","18049","March",2020,9141,8805,336
+"18","IN","Indiana","Fulton County","county","18049","April",2020,9155,7584,1571
+"18","IN","Indiana","Fulton County","county","18049","May",2020,9713,8680,1033
+"18","IN","Indiana","Fulton County","county","18049","June",2020,10153,9085,1068
+"18","IN","Indiana","Gibson County","county","18051","January",2020,19652,19091,561
+"18","IN","Indiana","Gibson County","county","18051","February",2020,19782,19263,519
+"18","IN","Indiana","Gibson County","county","18051","March",2020,19350,18870,480
+"18","IN","Indiana","Gibson County","county","18051","April",2020,19795,16068,3727
+"18","IN","Indiana","Gibson County","county","18051","May",2020,20557,17870,2687
+"18","IN","Indiana","Gibson County","county","18051","June",2020,20213,18385,1828
+"18","IN","Indiana","Grant County","county","18053","January",2020,30661,29410,1251
+"18","IN","Indiana","Grant County","county","18053","February",2020,32177,31012,1165
+"18","IN","Indiana","Grant County","county","18053","March",2020,31282,30177,1105
+"18","IN","Indiana","Grant County","county","18053","April",2020,29806,25313,4493
+"18","IN","Indiana","Grant County","county","18053","May",2020,31474,28161,3313
+"18","IN","Indiana","Grant County","county","18053","June",2020,31186,28009,3177
+"18","IN","Indiana","Greene County","county","18055","January",2020,13699,13061,638
+"18","IN","Indiana","Greene County","county","18055","February",2020,13756,13135,621
+"18","IN","Indiana","Greene County","county","18055","March",2020,13161,12602,559
+"18","IN","Indiana","Greene County","county","18055","April",2020,12411,10821,1590
+"18","IN","Indiana","Greene County","county","18055","May",2020,13328,12136,1192
+"18","IN","Indiana","Greene County","county","18055","June",2020,13599,12353,1246
+"18","IN","Indiana","Hamilton County","county","18057","January",2020,184725,179840,4885
+"18","IN","Indiana","Hamilton County","county","18057","February",2020,184920,180514,4406
+"18","IN","Indiana","Hamilton County","county","18057","March",2020,178797,174723,4074
+"18","IN","Indiana","Hamilton County","county","18057","April",2020,165810,148841,16969
+"18","IN","Indiana","Hamilton County","county","18057","May",2020,176109,162882,13227
+"18","IN","Indiana","Hamilton County","county","18057","June",2020,183860,169499,14361
+"18","IN","Indiana","Hancock County","county","18059","January",2020,40457,39212,1245
+"18","IN","Indiana","Hancock County","county","18059","February",2020,40452,39318,1134
+"18","IN","Indiana","Hancock County","county","18059","March",2020,39091,38023,1068
+"18","IN","Indiana","Hancock County","county","18059","April",2020,37753,32432,5321
+"18","IN","Indiana","Hancock County","county","18059","May",2020,39513,35583,3930
+"18","IN","Indiana","Hancock County","county","18059","June",2020,40833,37063,3770
+"18","IN","Indiana","Harrison County","county","18061","January",2020,20448,19729,719
+"18","IN","Indiana","Harrison County","county","18061","February",2020,20502,19812,690
+"18","IN","Indiana","Harrison County","county","18061","March",2020,19736,19119,617
+"18","IN","Indiana","Harrison County","county","18061","April",2020,18394,15315,3079
+"18","IN","Indiana","Harrison County","county","18061","May",2020,19029,16812,2217
+"18","IN","Indiana","Harrison County","county","18061","June",2020,20104,18048,2056
+"18","IN","Indiana","Hendricks County","county","18063","January",2020,90451,87898,2553
+"18","IN","Indiana","Hendricks County","county","18063","February",2020,90613,88293,2320
+"18","IN","Indiana","Hendricks County","county","18063","March",2020,87649,85487,2162
+"18","IN","Indiana","Hendricks County","county","18063","April",2020,81566,72810,8756
+"18","IN","Indiana","Hendricks County","county","18063","May",2020,86633,79622,7011
+"18","IN","Indiana","Hendricks County","county","18063","June",2020,90517,82764,7753
+"18","IN","Indiana","Henry County","county","18065","January",2020,22040,21229,811
+"18","IN","Indiana","Henry County","county","18065","February",2020,22074,21322,752
+"18","IN","Indiana","Henry County","county","18065","March",2020,21442,20755,687
+"18","IN","Indiana","Henry County","county","18065","April",2020,21237,17585,3652
+"18","IN","Indiana","Henry County","county","18065","May",2020,22354,19557,2797
+"18","IN","Indiana","Henry County","county","18065","June",2020,22619,20333,2286
+"18","IN","Indiana","Howard County","county","18067","January",2020,37113,35559,1554
+"18","IN","Indiana","Howard County","county","18067","February",2020,37021,35596,1425
+"18","IN","Indiana","Howard County","county","18067","March",2020,35710,34323,1387
+"18","IN","Indiana","Howard County","county","18067","April",2020,40783,27131,13652
+"18","IN","Indiana","Howard County","county","18067","May",2020,41547,32225,9322
+"18","IN","Indiana","Howard County","county","18067","June",2020,39549,32911,6638
+"18","IN","Indiana","Huntington County","county","18069","January",2020,18088,17447,641
+"18","IN","Indiana","Huntington County","county","18069","February",2020,18231,17634,597
+"18","IN","Indiana","Huntington County","county","18069","March",2020,17579,17018,561
+"18","IN","Indiana","Huntington County","county","18069","April",2020,17941,14429,3512
+"18","IN","Indiana","Huntington County","county","18069","May",2020,18629,16111,2518
+"18","IN","Indiana","Huntington County","county","18069","June",2020,18268,16425,1843
+"18","IN","Indiana","Jackson County","county","18071","January",2020,22973,22323,650
+"18","IN","Indiana","Jackson County","county","18071","February",2020,22990,22418,572
+"18","IN","Indiana","Jackson County","county","18071","March",2020,22092,21548,544
+"18","IN","Indiana","Jackson County","county","18071","April",2020,23435,18268,5167
+"18","IN","Indiana","Jackson County","county","18071","May",2020,24445,20409,4036
+"18","IN","Indiana","Jackson County","county","18071","June",2020,23871,21176,2695
+"18","IN","Indiana","Jasper County","county","18073","January",2020,16285,15495,790
+"18","IN","Indiana","Jasper County","county","18073","February",2020,16326,15568,758
+"18","IN","Indiana","Jasper County","county","18073","March",2020,15696,15014,682
+"18","IN","Indiana","Jasper County","county","18073","April",2020,15359,12881,2478
+"18","IN","Indiana","Jasper County","county","18073","May",2020,16179,14278,1901
+"18","IN","Indiana","Jasper County","county","18073","June",2020,16379,14653,1726
+"18","IN","Indiana","Jay County","county","18075","January",2020,9329,9003,326
+"18","IN","Indiana","Jay County","county","18075","February",2020,9306,9011,295
+"18","IN","Indiana","Jay County","county","18075","March",2020,8855,8577,278
+"18","IN","Indiana","Jay County","county","18075","April",2020,9083,7279,1804
+"18","IN","Indiana","Jay County","county","18075","May",2020,9591,8224,1367
+"18","IN","Indiana","Jay County","county","18075","June",2020,9330,8451,879
+"18","IN","Indiana","Jefferson County","county","18077","January",2020,14997,14427,570
+"18","IN","Indiana","Jefferson County","county","18077","February",2020,15036,14526,510
+"18","IN","Indiana","Jefferson County","county","18077","March",2020,14636,14160,476
+"18","IN","Indiana","Jefferson County","county","18077","April",2020,15222,11903,3319
+"18","IN","Indiana","Jefferson County","county","18077","May",2020,15639,13363,2276
+"18","IN","Indiana","Jefferson County","county","18077","June",2020,15321,13732,1589
+"18","IN","Indiana","Jennings County","county","18079","January",2020,13601,13075,526
+"18","IN","Indiana","Jennings County","county","18079","February",2020,13658,13175,483
+"18","IN","Indiana","Jennings County","county","18079","March",2020,13213,12768,445
+"18","IN","Indiana","Jennings County","county","18079","April",2020,14063,10875,3188
+"18","IN","Indiana","Jennings County","county","18079","May",2020,14310,12087,2223
+"18","IN","Indiana","Jennings County","county","18079","June",2020,13928,12471,1457
+"18","IN","Indiana","Johnson County","county","18081","January",2020,83411,80968,2443
+"18","IN","Indiana","Johnson County","county","18081","February",2020,83466,81260,2206
+"18","IN","Indiana","Johnson County","county","18081","March",2020,80675,78623,2052
+"18","IN","Indiana","Johnson County","county","18081","April",2020,77511,67028,10483
+"18","IN","Indiana","Johnson County","county","18081","May",2020,81468,73444,8024
+"18","IN","Indiana","Johnson County","county","18081","June",2020,84272,76405,7867
+"18","IN","Indiana","Knox County","county","18083","January",2020,18274,17651,623
+"18","IN","Indiana","Knox County","county","18083","February",2020,18484,17895,589
+"18","IN","Indiana","Knox County","county","18083","March",2020,17720,17204,516
+"18","IN","Indiana","Knox County","county","18083","April",2020,17198,14432,2766
+"18","IN","Indiana","Knox County","county","18083","May",2020,18177,16122,2055
+"18","IN","Indiana","Knox County","county","18083","June",2020,18514,16791,1723
+"18","IN","Indiana","Kosciusko County","county","18085","January",2020,41858,40566,1292
+"18","IN","Indiana","Kosciusko County","county","18085","February",2020,42028,40831,1197
+"18","IN","Indiana","Kosciusko County","county","18085","March",2020,40980,39874,1106
+"18","IN","Indiana","Kosciusko County","county","18085","April",2020,42016,34260,7756
+"18","IN","Indiana","Kosciusko County","county","18085","May",2020,41486,37811,3675
+"18","IN","Indiana","Kosciusko County","county","18085","June",2020,42901,39040,3861
+"18","IN","Indiana","Lagrange County","county","18087","January",2020,19642,19104,538
+"18","IN","Indiana","Lagrange County","county","18087","February",2020,19687,19204,483
+"18","IN","Indiana","Lagrange County","county","18087","March",2020,18714,18265,449
+"18","IN","Indiana","Lagrange County","county","18087","April",2020,21346,15270,6076
+"18","IN","Indiana","Lagrange County","county","18087","May",2020,19663,17664,1999
+"18","IN","Indiana","Lagrange County","county","18087","June",2020,20027,18448,1579
+"18","IN","Indiana","Lake County","county","18089","January",2020,230994,218654,12340
+"18","IN","Indiana","Lake County","county","18089","February",2020,232192,220245,11947
+"18","IN","Indiana","Lake County","county","18089","March",2020,224502,213299,11203
+"18","IN","Indiana","Lake County","county","18089","April",2020,227905,181594,46311
+"18","IN","Indiana","Lake County","county","18089","May",2020,236937,198764,38173
+"18","IN","Indiana","Lake County","county","18089","June",2020,242180,204014,38166
+"18","IN","Indiana","Laporte County","county","18091","January",2020,47539,45262,2277
+"18","IN","Indiana","Laporte County","county","18091","February",2020,47772,45523,2249
+"18","IN","Indiana","Laporte County","county","18091","March",2020,46104,44110,1994
+"18","IN","Indiana","Laporte County","county","18091","April",2020,47989,37928,10061
+"18","IN","Indiana","Laporte County","county","18091","May",2020,49631,42183,7448
+"18","IN","Indiana","Laporte County","county","18091","June",2020,51798,43710,8088
+"18","IN","Indiana","Lawrence County","county","18093","January",2020,21292,20397,895
+"18","IN","Indiana","Lawrence County","county","18093","February",2020,21342,20550,792
+"18","IN","Indiana","Lawrence County","county","18093","March",2020,20641,19932,709
+"18","IN","Indiana","Lawrence County","county","18093","April",2020,20401,16859,3542
+"18","IN","Indiana","Lawrence County","county","18093","May",2020,21190,18777,2413
+"18","IN","Indiana","Lawrence County","county","18093","June",2020,21377,19248,2129
+"18","IN","Indiana","Madison County","county","18095","January",2020,59676,57103,2573
+"18","IN","Indiana","Madison County","county","18095","February",2020,59703,57278,2425
+"18","IN","Indiana","Madison County","county","18095","March",2020,57621,55395,2226
+"18","IN","Indiana","Madison County","county","18095","April",2020,57941,47254,10687
+"18","IN","Indiana","Madison County","county","18095","May",2020,60051,51836,8215
+"18","IN","Indiana","Madison County","county","18095","June",2020,61378,53955,7423
+"18","IN","Indiana","Marion County","county","18097","January",2020,493512,476853,16659
+"18","IN","Indiana","Marion County","county","18097","February",2020,494260,478724,15536
+"18","IN","Indiana","Marion County","county","18097","March",2020,478180,463519,14661
+"18","IN","Indiana","Marion County","county","18097","April",2020,459340,394608,64732
+"18","IN","Indiana","Marion County","county","18097","May",2020,486707,431380,55327
+"18","IN","Indiana","Marion County","county","18097","June",2020,512150,448968,63182
+"18","IN","Indiana","Marshall County","county","18099","January",2020,22762,21956,806
+"18","IN","Indiana","Marshall County","county","18099","February",2020,22783,22031,752
+"18","IN","Indiana","Marshall County","county","18099","March",2020,22122,21459,663
+"18","IN","Indiana","Marshall County","county","18099","April",2020,22121,18040,4081
+"18","IN","Indiana","Marshall County","county","18099","May",2020,22650,20387,2263
+"18","IN","Indiana","Marshall County","county","18099","June",2020,24139,21413,2726
+"18","IN","Indiana","Martin County","county","18101","January",2020,5380,5223,157
+"18","IN","Indiana","Martin County","county","18101","February",2020,5363,5231,132
+"18","IN","Indiana","Martin County","county","18101","March",2020,5194,5063,131
+"18","IN","Indiana","Martin County","county","18101","April",2020,4691,4281,410
+"18","IN","Indiana","Martin County","county","18101","May",2020,5167,4863,304
+"18","IN","Indiana","Martin County","county","18101","June",2020,5455,5094,361
+"18","IN","Indiana","Miami County","county","18103","January",2020,15051,14401,650
+"18","IN","Indiana","Miami County","county","18103","February",2020,15122,14490,632
+"18","IN","Indiana","Miami County","county","18103","March",2020,14675,14071,604
+"18","IN","Indiana","Miami County","county","18103","April",2020,15219,11724,3495
+"18","IN","Indiana","Miami County","county","18103","May",2020,15720,13420,2300
+"18","IN","Indiana","Miami County","county","18103","June",2020,15786,13829,1957
+"18","IN","Indiana","Monroe County","county","18105","January",2020,71425,68947,2478
+"18","IN","Indiana","Monroe County","county","18105","February",2020,72352,70036,2316
+"18","IN","Indiana","Monroe County","county","18105","March",2020,68913,66784,2129
+"18","IN","Indiana","Monroe County","county","18105","April",2020,65651,59012,6639
+"18","IN","Indiana","Monroe County","county","18105","May",2020,70513,64996,5517
+"18","IN","Indiana","Monroe County","county","18105","June",2020,70328,64019,6309
+"18","IN","Indiana","Montgomery County","county","18107","January",2020,18662,18046,616
+"18","IN","Indiana","Montgomery County","county","18107","February",2020,18657,18100,557
+"18","IN","Indiana","Montgomery County","county","18107","March",2020,18176,17656,520
+"18","IN","Indiana","Montgomery County","county","18107","April",2020,16869,14880,1989
+"18","IN","Indiana","Montgomery County","county","18107","May",2020,18347,16648,1699
+"18","IN","Indiana","Montgomery County","county","18107","June",2020,18722,17110,1612
+"18","IN","Indiana","Morgan County","county","18109","January",2020,36615,35326,1289
+"18","IN","Indiana","Morgan County","county","18109","February",2020,36593,35387,1206
+"18","IN","Indiana","Morgan County","county","18109","March",2020,35247,34214,1033
+"18","IN","Indiana","Morgan County","county","18109","April",2020,33068,29176,3892
+"18","IN","Indiana","Morgan County","county","18109","May",2020,34998,32020,2978
+"18","IN","Indiana","Morgan County","county","18109","June",2020,36521,33412,3109
+"18","IN","Indiana","Newton County","county","18111","January",2020,6930,6596,334
+"18","IN","Indiana","Newton County","county","18111","February",2020,6950,6604,346
+"18","IN","Indiana","Newton County","county","18111","March",2020,6666,6358,308
+"18","IN","Indiana","Newton County","county","18111","April",2020,6470,5462,1008
+"18","IN","Indiana","Newton County","county","18111","May",2020,6856,6079,777
+"18","IN","Indiana","Newton County","county","18111","June",2020,6998,6271,727
+"18","IN","Indiana","Noble County","county","18113","January",2020,23218,22415,803
+"18","IN","Indiana","Noble County","county","18113","February",2020,23270,22564,706
+"18","IN","Indiana","Noble County","county","18113","March",2020,22418,21736,682
+"18","IN","Indiana","Noble County","county","18113","April",2020,25675,18457,7218
+"18","IN","Indiana","Noble County","county","18113","May",2020,24759,20764,3995
+"18","IN","Indiana","Noble County","county","18113","June",2020,24351,21431,2920
+"18","IN","Indiana","Ohio County","county","18115","January",2020,3208,3078,130
+"18","IN","Indiana","Ohio County","county","18115","February",2020,3188,3081,107
+"18","IN","Indiana","Ohio County","county","18115","March",2020,3063,2960,103
+"18","IN","Indiana","Ohio County","county","18115","April",2020,2981,2453,528
+"18","IN","Indiana","Ohio County","county","18115","May",2020,3189,2732,457
+"18","IN","Indiana","Ohio County","county","18115","June",2020,3335,2849,486
+"18","IN","Indiana","Orange County","county","18117","January",2020,8814,8476,338
+"18","IN","Indiana","Orange County","county","18117","February",2020,8839,8506,333
+"18","IN","Indiana","Orange County","county","18117","March",2020,8497,8204,293
+"18","IN","Indiana","Orange County","county","18117","April",2020,9165,6833,2332
+"18","IN","Indiana","Orange County","county","18117","May",2020,9438,7697,1741
+"18","IN","Indiana","Orange County","county","18117","June",2020,9926,7916,2010
+"18","IN","Indiana","Owen County","county","18119","January",2020,9526,9113,413
+"18","IN","Indiana","Owen County","county","18119","February",2020,9615,9227,388
+"18","IN","Indiana","Owen County","county","18119","March",2020,9127,8781,346
+"18","IN","Indiana","Owen County","county","18119","April",2020,8833,7777,1056
+"18","IN","Indiana","Owen County","county","18119","May",2020,9460,8625,835
+"18","IN","Indiana","Owen County","county","18119","June",2020,9416,8534,882
+"18","IN","Indiana","Parke County","county","18121","January",2020,6851,6556,295
+"18","IN","Indiana","Parke County","county","18121","February",2020,6818,6556,262
+"18","IN","Indiana","Parke County","county","18121","March",2020,6535,6305,230
+"18","IN","Indiana","Parke County","county","18121","April",2020,6163,5427,736
+"18","IN","Indiana","Parke County","county","18121","May",2020,6823,6223,600
+"18","IN","Indiana","Parke County","county","18121","June",2020,7094,6495,599
+"18","IN","Indiana","Perry County","county","18123","January",2020,9195,8861,334
+"18","IN","Indiana","Perry County","county","18123","February",2020,9231,8913,318
+"18","IN","Indiana","Perry County","county","18123","March",2020,8787,8522,265
+"18","IN","Indiana","Perry County","county","18123","April",2020,8694,7168,1526
+"18","IN","Indiana","Perry County","county","18123","May",2020,9118,8049,1069
+"18","IN","Indiana","Perry County","county","18123","June",2020,9378,8392,986
+"18","IN","Indiana","Pike County","county","18125","January",2020,6177,5927,250
+"18","IN","Indiana","Pike County","county","18125","February",2020,6186,5953,233
+"18","IN","Indiana","Pike County","county","18125","March",2020,5898,5700,198
+"18","IN","Indiana","Pike County","county","18125","April",2020,5686,4836,850
+"18","IN","Indiana","Pike County","county","18125","May",2020,6041,5453,588
+"18","IN","Indiana","Pike County","county","18125","June",2020,6203,5637,566
+"18","IN","Indiana","Porter County","county","18127","January",2020,87134,83349,3785
+"18","IN","Indiana","Porter County","county","18127","February",2020,87518,83920,3598
+"18","IN","Indiana","Porter County","county","18127","March",2020,84555,81253,3302
+"18","IN","Indiana","Porter County","county","18127","April",2020,84271,69192,15079
+"18","IN","Indiana","Porter County","county","18127","May",2020,87695,75783,11912
+"18","IN","Indiana","Porter County","county","18127","June",2020,89845,77833,12012
+"18","IN","Indiana","Posey County","county","18129","January",2020,13546,13134,412
+"18","IN","Indiana","Posey County","county","18129","February",2020,13592,13213,379
+"18","IN","Indiana","Posey County","county","18129","March",2020,13042,12705,337
+"18","IN","Indiana","Posey County","county","18129","April",2020,12693,11256,1437
+"18","IN","Indiana","Posey County","county","18129","May",2020,13414,12415,999
+"18","IN","Indiana","Posey County","county","18129","June",2020,13779,12743,1036
+"18","IN","Indiana","Pulaski County","county","18131","January",2020,6410,6150,260
+"18","IN","Indiana","Pulaski County","county","18131","February",2020,6396,6152,244
+"18","IN","Indiana","Pulaski County","county","18131","March",2020,6103,5890,213
+"18","IN","Indiana","Pulaski County","county","18131","April",2020,5985,5037,948
+"18","IN","Indiana","Pulaski County","county","18131","May",2020,6359,5763,596
+"18","IN","Indiana","Pulaski County","county","18131","June",2020,6721,6020,701
+"18","IN","Indiana","Putnam County","county","18133","January",2020,16834,16206,628
+"18","IN","Indiana","Putnam County","county","18133","February",2020,16807,16233,574
+"18","IN","Indiana","Putnam County","county","18133","March",2020,16214,15683,531
+"18","IN","Indiana","Putnam County","county","18133","April",2020,15620,13399,2221
+"18","IN","Indiana","Putnam County","county","18133","May",2020,16626,14744,1882
+"18","IN","Indiana","Putnam County","county","18133","June",2020,17077,15367,1710
+"18","IN","Indiana","Randolph County","county","18135","January",2020,10917,10427,490
+"18","IN","Indiana","Randolph County","county","18135","February",2020,10987,10523,464
+"18","IN","Indiana","Randolph County","county","18135","March",2020,10693,10278,415
+"18","IN","Indiana","Randolph County","county","18135","April",2020,10702,8838,1864
+"18","IN","Indiana","Randolph County","county","18135","May",2020,11193,9949,1244
+"18","IN","Indiana","Randolph County","county","18135","June",2020,11284,10181,1103
+"18","IN","Indiana","Ripley County","county","18137","January",2020,14163,13636,527
+"18","IN","Indiana","Ripley County","county","18137","February",2020,14207,13680,527
+"18","IN","Indiana","Ripley County","county","18137","March",2020,13866,13416,450
+"18","IN","Indiana","Ripley County","county","18137","April",2020,13736,11266,2470
+"18","IN","Indiana","Ripley County","county","18137","May",2020,14292,12645,1647
+"18","IN","Indiana","Ripley County","county","18137","June",2020,14521,13070,1451
+"18","IN","Indiana","Rush County","county","18139","January",2020,8763,8497,266
+"18","IN","Indiana","Rush County","county","18139","February",2020,8751,8510,241
+"18","IN","Indiana","Rush County","county","18139","March",2020,8457,8225,232
+"18","IN","Indiana","Rush County","county","18139","April",2020,8673,7072,1601
+"18","IN","Indiana","Rush County","county","18139","May",2020,9176,7992,1184
+"18","IN","Indiana","Rush County","county","18139","June",2020,9122,8225,897
+"18","IN","Indiana","St. Joseph County","county","18141","January",2020,135921,130498,5423
+"18","IN","Indiana","St. Joseph County","county","18141","February",2020,137099,132156,4943
+"18","IN","Indiana","St. Joseph County","county","18141","March",2020,132105,127395,4710
+"18","IN","Indiana","St. Joseph County","county","18141","April",2020,129593,103114,26479
+"18","IN","Indiana","St. Joseph County","county","18141","May",2020,130872,113711,17161
+"18","IN","Indiana","St. Joseph County","county","18141","June",2020,135569,117388,18181
+"18","IN","Indiana","Scott County","county","18143","January",2020,10604,10224,380
+"18","IN","Indiana","Scott County","county","18143","February",2020,10624,10280,344
+"18","IN","Indiana","Scott County","county","18143","March",2020,10257,9924,333
+"18","IN","Indiana","Scott County","county","18143","April",2020,10450,7944,2506
+"18","IN","Indiana","Scott County","county","18143","May",2020,10624,8710,1914
+"18","IN","Indiana","Scott County","county","18143","June",2020,10707,9335,1372
+"18","IN","Indiana","Shelby County","county","18145","January",2020,23272,22523,749
+"18","IN","Indiana","Shelby County","county","18145","February",2020,23264,22579,685
+"18","IN","Indiana","Shelby County","county","18145","March",2020,22531,21828,703
+"18","IN","Indiana","Shelby County","county","18145","April",2020,23102,18629,4473
+"18","IN","Indiana","Shelby County","county","18145","May",2020,23914,20457,3457
+"18","IN","Indiana","Shelby County","county","18145","June",2020,24298,21309,2989
+"18","IN","Indiana","Spencer County","county","18147","January",2020,10169,9772,397
+"18","IN","Indiana","Spencer County","county","18147","February",2020,10255,9839,416
+"18","IN","Indiana","Spencer County","county","18147","March",2020,10122,9802,320
+"18","IN","Indiana","Spencer County","county","18147","April",2020,10150,8828,1322
+"18","IN","Indiana","Spencer County","county","18147","May",2020,11115,10217,898
+"18","IN","Indiana","Spencer County","county","18147","June",2020,11586,10682,904
+"18","IN","Indiana","Starke County","county","18149","January",2020,9662,9169,493
+"18","IN","Indiana","Starke County","county","18149","February",2020,9655,9186,469
+"18","IN","Indiana","Starke County","county","18149","March",2020,9390,8951,439
+"18","IN","Indiana","Starke County","county","18149","April",2020,9500,7653,1847
+"18","IN","Indiana","Starke County","county","18149","May",2020,9865,8643,1222
+"18","IN","Indiana","Starke County","county","18149","June",2020,10303,9003,1300
+"18","IN","Indiana","Steuben County","county","18151","January",2020,20826,20221,605
+"18","IN","Indiana","Steuben County","county","18151","February",2020,20945,20418,527
+"18","IN","Indiana","Steuben County","county","18151","March",2020,20016,19533,483
+"18","IN","Indiana","Steuben County","county","18151","April",2020,20527,16508,4019
+"18","IN","Indiana","Steuben County","county","18151","May",2020,20784,18355,2429
+"18","IN","Indiana","Steuben County","county","18151","June",2020,21257,19353,1904
+"18","IN","Indiana","Sullivan County","county","18153","January",2020,8333,7934,399
+"18","IN","Indiana","Sullivan County","county","18153","February",2020,8410,8007,403
+"18","IN","Indiana","Sullivan County","county","18153","March",2020,8056,7714,342
+"18","IN","Indiana","Sullivan County","county","18153","April",2020,7691,6490,1201
+"18","IN","Indiana","Sullivan County","county","18153","May",2020,8138,7260,878
+"18","IN","Indiana","Sullivan County","county","18153","June",2020,8233,7385,848
+"18","IN","Indiana","Switzerland County","county","18155","January",2020,4931,4748,183
+"18","IN","Indiana","Switzerland County","county","18155","February",2020,4919,4742,177
+"18","IN","Indiana","Switzerland County","county","18155","March",2020,4703,4544,159
+"18","IN","Indiana","Switzerland County","county","18155","April",2020,4751,3841,910
+"18","IN","Indiana","Switzerland County","county","18155","May",2020,5088,4311,777
+"18","IN","Indiana","Switzerland County","county","18155","June",2020,5298,4496,802
+"18","IN","Indiana","Tippecanoe County","county","18157","January",2020,101370,98217,3153
+"18","IN","Indiana","Tippecanoe County","county","18157","February",2020,104764,101833,2931
+"18","IN","Indiana","Tippecanoe County","county","18157","March",2020,100229,97473,2756
+"18","IN","Indiana","Tippecanoe County","county","18157","April",2020,88927,77733,11194
+"18","IN","Indiana","Tippecanoe County","county","18157","May",2020,93634,82691,10943
+"18","IN","Indiana","Tippecanoe County","county","18157","June",2020,94194,84840,9354
+"18","IN","Indiana","Tipton County","county","18159","January",2020,9069,8802,267
+"18","IN","Indiana","Tipton County","county","18159","February",2020,9079,8822,257
+"18","IN","Indiana","Tipton County","county","18159","March",2020,8823,8588,235
+"18","IN","Indiana","Tipton County","county","18159","April",2020,8986,7254,1732
+"18","IN","Indiana","Tipton County","county","18159","May",2020,9435,8291,1144
+"18","IN","Indiana","Tipton County","county","18159","June",2020,9376,8468,908
+"18","IN","Indiana","Union County","county","18161","January",2020,3540,3413,127
+"18","IN","Indiana","Union County","county","18161","February",2020,3530,3414,116
+"18","IN","Indiana","Union County","county","18161","March",2020,3374,3270,104
+"18","IN","Indiana","Union County","county","18161","April",2020,3245,2730,515
+"18","IN","Indiana","Union County","county","18161","May",2020,3380,3067,313
+"18","IN","Indiana","Union County","county","18161","June",2020,3491,3195,296
+"18","IN","Indiana","Vanderburgh County","county","18163","January",2020,94529,91401,3128
+"18","IN","Indiana","Vanderburgh County","county","18163","February",2020,95187,92264,2923
+"18","IN","Indiana","Vanderburgh County","county","18163","March",2020,91647,88984,2663
+"18","IN","Indiana","Vanderburgh County","county","18163","April",2020,93185,78573,14612
+"18","IN","Indiana","Vanderburgh County","county","18163","May",2020,97362,85915,11447
+"18","IN","Indiana","Vanderburgh County","county","18163","June",2020,98764,87906,10858
+"18","IN","Indiana","Vermillion County","county","18165","January",2020,6964,6561,403
+"18","IN","Indiana","Vermillion County","county","18165","February",2020,6994,6610,384
+"18","IN","Indiana","Vermillion County","county","18165","March",2020,6694,6367,327
+"18","IN","Indiana","Vermillion County","county","18165","April",2020,6439,5353,1086
+"18","IN","Indiana","Vermillion County","county","18165","May",2020,6810,5986,824
+"18","IN","Indiana","Vermillion County","county","18165","June",2020,6834,6111,723
+"18","IN","Indiana","Vigo County","county","18167","January",2020,48161,45958,2203
+"18","IN","Indiana","Vigo County","county","18167","February",2020,48495,46441,2054
+"18","IN","Indiana","Vigo County","county","18167","March",2020,46683,44880,1803
+"18","IN","Indiana","Vigo County","county","18167","April",2020,45255,37494,7761
+"18","IN","Indiana","Vigo County","county","18167","May",2020,47205,41531,5674
+"18","IN","Indiana","Vigo County","county","18167","June",2020,48094,42319,5775
+"18","IN","Indiana","Wabash County","county","18169","January",2020,14820,14296,524
+"18","IN","Indiana","Wabash County","county","18169","February",2020,15103,14613,490
+"18","IN","Indiana","Wabash County","county","18169","March",2020,14486,14046,440
+"18","IN","Indiana","Wabash County","county","18169","April",2020,14273,11911,2362
+"18","IN","Indiana","Wabash County","county","18169","May",2020,14910,13401,1509
+"18","IN","Indiana","Wabash County","county","18169","June",2020,14920,13493,1427
+"18","IN","Indiana","Warren County","county","18171","January",2020,4164,4028,136
+"18","IN","Indiana","Warren County","county","18171","February",2020,4197,4072,125
+"18","IN","Indiana","Warren County","county","18171","March",2020,3997,3877,120
+"18","IN","Indiana","Warren County","county","18171","April",2020,3733,3250,483
+"18","IN","Indiana","Warren County","county","18171","May",2020,4047,3644,403
+"18","IN","Indiana","Warren County","county","18171","June",2020,4071,3732,339
+"18","IN","Indiana","Warrick County","county","18173","January",2020,33074,32015,1059
+"18","IN","Indiana","Warrick County","county","18173","February",2020,33238,32265,973
+"18","IN","Indiana","Warrick County","county","18173","March",2020,31944,31101,843
+"18","IN","Indiana","Warrick County","county","18173","April",2020,31583,27457,4126
+"18","IN","Indiana","Warrick County","county","18173","May",2020,33092,30060,3032
+"18","IN","Indiana","Warrick County","county","18173","June",2020,33621,30838,2783
+"18","IN","Indiana","Washington County","county","18175","January",2020,13693,13175,518
+"18","IN","Indiana","Washington County","county","18175","February",2020,13678,13173,505
+"18","IN","Indiana","Washington County","county","18175","March",2020,13111,12655,456
+"18","IN","Indiana","Washington County","county","18175","April",2020,12637,10253,2384
+"18","IN","Indiana","Washington County","county","18175","May",2020,13172,11418,1754
+"18","IN","Indiana","Washington County","county","18175","June",2020,13717,12256,1461
+"18","IN","Indiana","Wayne County","county","18177","January",2020,30578,29403,1175
+"18","IN","Indiana","Wayne County","county","18177","February",2020,30943,29844,1099
+"18","IN","Indiana","Wayne County","county","18177","March",2020,30076,29025,1051
+"18","IN","Indiana","Wayne County","county","18177","April",2020,28758,24514,4244
+"18","IN","Indiana","Wayne County","county","18177","May",2020,30577,27450,3127
+"18","IN","Indiana","Wayne County","county","18177","June",2020,31419,28176,3243
+"18","IN","Indiana","Wells County","county","18179","January",2020,14393,13935,458
+"18","IN","Indiana","Wells County","county","18179","February",2020,14440,14012,428
+"18","IN","Indiana","Wells County","county","18179","March",2020,13835,13447,388
+"18","IN","Indiana","Wells County","county","18179","April",2020,13685,11456,2229
+"18","IN","Indiana","Wells County","county","18179","May",2020,14262,12797,1465
+"18","IN","Indiana","Wells County","county","18179","June",2020,14268,13064,1204
+"18","IN","Indiana","White County","county","18181","January",2020,13298,12896,402
+"18","IN","Indiana","White County","county","18181","February",2020,13434,13059,375
+"18","IN","Indiana","White County","county","18181","March",2020,13114,12763,351
+"18","IN","Indiana","White County","county","18181","April",2020,12203,10763,1440
+"18","IN","Indiana","White County","county","18181","May",2020,13464,12222,1242
+"18","IN","Indiana","White County","county","18181","June",2020,13901,12754,1147
+"18","IN","Indiana","Whitley County","county","18183","January",2020,17750,17193,557
+"18","IN","Indiana","Whitley County","county","18183","February",2020,17852,17331,521
+"18","IN","Indiana","Whitley County","county","18183","March",2020,17145,16665,480
+"18","IN","Indiana","Whitley County","county","18183","April",2020,17087,14150,2937
+"18","IN","Indiana","Whitley County","county","18183","May",2020,17668,15716,1952
+"18","IN","Indiana","Whitley County","county","18183","June",2020,17579,16006,1573
+"18","IN","Indiana","Indiana","state",NA,"January",2020,3375889,3254377,121512
+"18","IN","Indiana","Indiana","state",NA,"February",2020,3393079,3279070,114009
+"18","IN","Indiana","Indiana","state",NA,"March",2020,3273454,3168493,104961
+"18","IN","Indiana","Indiana","state",NA,"April",2020,3220384,2672473,547911
+"18","IN","Indiana","Indiana","state",NA,"May",2020,3350607,2952335,398272
+"18","IN","Indiana","Indiana","state",NA,"June",2020,3433664,3049729,383935
+"18","IN","Indiana","Anderson","city",NA,"January",2020,23643,22493,1150
+"18","IN","Indiana","Anderson","city",NA,"February",2020,23653,22562,1091
+"18","IN","Indiana","Anderson","city",NA,"March",2020,22812,21820,992
+"18","IN","Indiana","Anderson","city",NA,"April",2020,23505,18613,4892
+"18","IN","Indiana","Anderson","city",NA,"May",2020,24325,20418,3907
+"18","IN","Indiana","Anderson","city",NA,"June",2020,25090,21253,3837
+"18","IN","Indiana","Auburn","city",NA,"January",2020,7008,6791,217
+"18","IN","Indiana","Auburn","city",NA,"February",2020,7013,6822,191
+"18","IN","Indiana","Auburn","city",NA,"March",2020,6753,6559,194
+"18","IN","Indiana","Auburn","city",NA,"April",2020,7260,5541,1719
+"18","IN","Indiana","Auburn","city",NA,"May",2020,7382,6195,1187
+"18","IN","Indiana","Auburn","city",NA,"June",2020,7207,6399,808
+"18","IN","Indiana","Bedford","city",NA,"January",2020,5683,5443,240
+"18","IN","Indiana","Bedford","city",NA,"February",2020,5693,5484,209
+"18","IN","Indiana","Bedford","city",NA,"March",2020,5512,5319,193
+"18","IN","Indiana","Bedford","city",NA,"April",2020,5645,4499,1146
+"18","IN","Indiana","Bedford","city",NA,"May",2020,5818,5011,807
+"18","IN","Indiana","Bedford","city",NA,"June",2020,5823,5137,686
+"18","IN","Indiana","Beech Grove","city",NA,"January",2020,6921,6653,268
+"18","IN","Indiana","Beech Grove","city",NA,"February",2020,6941,6679,262
+"18","IN","Indiana","Beech Grove","city",NA,"March",2020,6714,6467,247
+"18","IN","Indiana","Beech Grove","city",NA,"April",2020,6654,5505,1149
+"18","IN","Indiana","Beech Grove","city",NA,"May",2020,6903,6019,884
+"18","IN","Indiana","Beech Grove","city",NA,"June",2020,7234,6264,970
+"18","IN","Indiana","Bloomington","city",NA,"January",2020,39133,37677,1456
+"18","IN","Indiana","Bloomington","city",NA,"February",2020,39644,38272,1372
+"18","IN","Indiana","Bloomington","city",NA,"March",2020,37761,36495,1266
+"18","IN","Indiana","Bloomington","city",NA,"April",2020,35744,32247,3497
+"18","IN","Indiana","Bloomington","city",NA,"May",2020,38660,35517,3143
+"18","IN","Indiana","Bloomington","city",NA,"June",2020,38725,34984,3741
+"18","IN","Indiana","Brownsburg","city",NA,"January",2020,15394,14999,395
+"18","IN","Indiana","Brownsburg","city",NA,"February",2020,15420,15066,354
+"18","IN","Indiana","Brownsburg","city",NA,"March",2020,14925,14587,338
+"18","IN","Indiana","Brownsburg","city",NA,"April",2020,13927,12424,1503
+"18","IN","Indiana","Brownsburg","city",NA,"May",2020,14773,13587,1186
+"18","IN","Indiana","Brownsburg","city",NA,"June",2020,15437,14123,1314
+"18","IN","Indiana","Carmel","city",NA,"January",2020,51445,50055,1390
+"18","IN","Indiana","Carmel","city",NA,"February",2020,51495,50243,1252
+"18","IN","Indiana","Carmel","city",NA,"March",2020,49817,48631,1186
+"18","IN","Indiana","Carmel","city",NA,"April",2020,45449,41427,4022
+"18","IN","Indiana","Carmel","city",NA,"May",2020,48717,45335,3382
+"18","IN","Indiana","Carmel","city",NA,"June",2020,51055,47177,3878
+"18","IN","Indiana","Chesterton","city",NA,"January",2020,7062,6742,320
+"18","IN","Indiana","Chesterton","city",NA,"February",2020,7059,6788,271
+"18","IN","Indiana","Chesterton","city",NA,"March",2020,6817,6573,244
+"18","IN","Indiana","Chesterton","city",NA,"April",2020,6765,5597,1168
+"18","IN","Indiana","Chesterton","city",NA,"May",2020,7014,6130,884
+"18","IN","Indiana","Chesterton","city",NA,"June",2020,7271,6296,975
+"18","IN","Indiana","Clarksville","city",NA,"January",2020,11411,11002,409
+"18","IN","Indiana","Clarksville","city",NA,"February",2020,11441,11059,382
+"18","IN","Indiana","Clarksville","city",NA,"March",2020,11042,10680,362
+"18","IN","Indiana","Clarksville","city",NA,"April",2020,10663,8541,2122
+"18","IN","Indiana","Clarksville","city",NA,"May",2020,10935,9355,1580
+"18","IN","Indiana","Clarksville","city",NA,"June",2020,11633,10036,1597
+"18","IN","Indiana","Columbus","city",NA,"January",2020,25830,25161,669
+"18","IN","Indiana","Columbus","city",NA,"February",2020,25873,25257,616
+"18","IN","Indiana","Columbus","city",NA,"March",2020,24941,24372,569
+"18","IN","Indiana","Columbus","city",NA,"April",2020,25274,20982,4292
+"18","IN","Indiana","Columbus","city",NA,"May",2020,26153,22836,3317
+"18","IN","Indiana","Columbus","city",NA,"June",2020,26228,23343,2885
+"18","IN","Indiana","Connersville","city",NA,"January",2020,4359,4099,260
+"18","IN","Indiana","Connersville","city",NA,"February",2020,4328,4100,228
+"18","IN","Indiana","Connersville","city",NA,"March",2020,4189,3961,228
+"18","IN","Indiana","Connersville","city",NA,"April",2020,4675,3309,1366
+"18","IN","Indiana","Connersville","city",NA,"May",2020,4705,3690,1015
+"18","IN","Indiana","Connersville","city",NA,"June",2020,4672,3791,881
+"18","IN","Indiana","Crawfordsville","city",NA,"January",2020,7244,6985,259
+"18","IN","Indiana","Crawfordsville","city",NA,"February",2020,7241,7006,235
+"18","IN","Indiana","Crawfordsville","city",NA,"March",2020,7056,6834,222
+"18","IN","Indiana","Crawfordsville","city",NA,"April",2020,6668,5760,908
+"18","IN","Indiana","Crawfordsville","city",NA,"May",2020,7227,6444,783
+"18","IN","Indiana","Crawfordsville","city",NA,"June",2020,7429,6623,806
+"18","IN","Indiana","Crown Point","city",NA,"January",2020,15602,14901,701
+"18","IN","Indiana","Crown Point","city",NA,"February",2020,15674,15009,665
+"18","IN","Indiana","Crown Point","city",NA,"March",2020,15177,14536,641
+"18","IN","Indiana","Crown Point","city",NA,"April",2020,15634,12375,3259
+"18","IN","Indiana","Crown Point","city",NA,"May",2020,15987,13545,2442
+"18","IN","Indiana","Crown Point","city",NA,"June",2020,16203,13903,2300
+"18","IN","Indiana","Dyer","city",NA,"January",2020,8846,8486,360
+"18","IN","Indiana","Dyer","city",NA,"February",2020,8904,8548,356
+"18","IN","Indiana","Dyer","city",NA,"March",2020,8585,8278,307
+"18","IN","Indiana","Dyer","city",NA,"April",2020,8382,7048,1334
+"18","IN","Indiana","Dyer","city",NA,"May",2020,8761,7714,1047
+"18","IN","Indiana","Dyer","city",NA,"June",2020,8919,7918,1001
+"18","IN","Indiana","East Chicago","city",NA,"January",2020,9932,9221,711
+"18","IN","Indiana","East Chicago","city",NA,"February",2020,9950,9288,662
+"18","IN","Indiana","East Chicago","city",NA,"March",2020,9667,8995,672
+"18","IN","Indiana","East Chicago","city",NA,"April",2020,9790,7658,2132
+"18","IN","Indiana","East Chicago","city",NA,"May",2020,10312,8382,1930
+"18","IN","Indiana","East Chicago","city",NA,"June",2020,10880,8604,2276
+"18","IN","Indiana","Elkhart","city",NA,"January",2020,26087,25133,954
+"18","IN","Indiana","Elkhart","city",NA,"February",2020,26267,25351,916
+"18","IN","Indiana","Elkhart","city",NA,"March",2020,25284,24449,835
+"18","IN","Indiana","Elkhart","city",NA,"April",2020,27400,18851,8549
+"18","IN","Indiana","Elkhart","city",NA,"May",2020,26058,22126,3932
+"18","IN","Indiana","Elkhart","city",NA,"June",2020,26542,22761,3781
+"18","IN","Indiana","Evansville","city",NA,"January",2020,59461,57330,2131
+"18","IN","Indiana","Evansville","city",NA,"February",2020,59838,57871,1967
+"18","IN","Indiana","Evansville","city",NA,"March",2020,57607,55814,1793
+"18","IN","Indiana","Evansville","city",NA,"April",2020,59775,49284,10491
+"18","IN","Indiana","Evansville","city",NA,"May",2020,62433,53889,8544
+"18","IN","Indiana","Evansville","city",NA,"June",2020,63285,55138,8147
+"18","IN","Indiana","Fishers","city",NA,"January",2020,52665,51365,1300
+"18","IN","Indiana","Fishers","city",NA,"February",2020,52712,51557,1155
+"18","IN","Indiana","Fishers","city",NA,"March",2020,51000,49903,1097
+"18","IN","Indiana","Fishers","city",NA,"April",2020,46983,42511,4472
+"18","IN","Indiana","Fishers","city",NA,"May",2020,50101,46521,3580
+"18","IN","Indiana","Fishers","city",NA,"June",2020,52312,48411,3901
+"18","IN","Indiana","Fort Wayne","city",NA,"January",2020,129394,124765,4629
+"18","IN","Indiana","Fort Wayne","city",NA,"February",2020,130366,125786,4580
+"18","IN","Indiana","Fort Wayne","city",NA,"March",2020,125122,121083,4039
+"18","IN","Indiana","Fort Wayne","city",NA,"April",2020,129158,102553,26605
+"18","IN","Indiana","Fort Wayne","city",NA,"May",2020,133409,113500,19909
+"18","IN","Indiana","Fort Wayne","city",NA,"June",2020,133346,115713,17633
+"18","IN","Indiana","Frankfort","city",NA,"January",2020,8033,7795,238
+"18","IN","Indiana","Frankfort","city",NA,"February",2020,8080,7871,209
+"18","IN","Indiana","Frankfort","city",NA,"March",2020,7871,7676,195
+"18","IN","Indiana","Frankfort","city",NA,"April",2020,7407,6433,974
+"18","IN","Indiana","Frankfort","city",NA,"May",2020,8088,7170,918
+"18","IN","Indiana","Frankfort","city",NA,"June",2020,8316,7455,861
+"18","IN","Indiana","Franklin","city",NA,"January",2020,12408,12003,405
+"18","IN","Indiana","Franklin","city",NA,"February",2020,12429,12046,383
+"18","IN","Indiana","Franklin","city",NA,"March",2020,12017,11655,362
+"18","IN","Indiana","Franklin","city",NA,"April",2020,11905,9936,1969
+"18","IN","Indiana","Franklin","city",NA,"May",2020,12450,10887,1563
+"18","IN","Indiana","Franklin","city",NA,"June",2020,12741,11326,1415
+"18","IN","Indiana","Gary","city",NA,"January",2020,26547,24752,1795
+"18","IN","Indiana","Gary","city",NA,"February",2020,26671,24932,1739
+"18","IN","Indiana","Gary","city",NA,"March",2020,25761,24146,1615
+"18","IN","Indiana","Gary","city",NA,"April",2020,26741,20557,6184
+"18","IN","Indiana","Gary","city",NA,"May",2020,28134,22501,5633
+"18","IN","Indiana","Gary","city",NA,"June",2020,29559,23095,6464
+"18","IN","Indiana","Goshen","city",NA,"January",2020,17516,16990,526
+"18","IN","Indiana","Goshen","city",NA,"February",2020,17591,17138,453
+"18","IN","Indiana","Goshen","city",NA,"March",2020,16949,16528,421
+"18","IN","Indiana","Goshen","city",NA,"April",2020,18402,12744,5658
+"18","IN","Indiana","Goshen","city",NA,"May",2020,17120,14957,2163
+"18","IN","Indiana","Goshen","city",NA,"June",2020,17448,15387,2061
+"18","IN","Indiana","Greencastle","city",NA,"January",2020,4674,4497,177
+"18","IN","Indiana","Greencastle","city",NA,"February",2020,4665,4504,161
+"18","IN","Indiana","Greencastle","city",NA,"March",2020,4500,4352,148
+"18","IN","Indiana","Greencastle","city",NA,"April",2020,4422,3718,704
+"18","IN","Indiana","Greencastle","city",NA,"May",2020,4717,4091,626
+"18","IN","Indiana","Greencastle","city",NA,"June",2020,4797,4264,533
+"18","IN","Indiana","Greenfield","city",NA,"January",2020,11280,10923,357
+"18","IN","Indiana","Greenfield","city",NA,"February",2020,11282,10953,329
+"18","IN","Indiana","Greenfield","city",NA,"March",2020,10908,10592,316
+"18","IN","Indiana","Greenfield","city",NA,"April",2020,10938,9034,1904
+"18","IN","Indiana","Greenfield","city",NA,"May",2020,11326,9912,1414
+"18","IN","Indiana","Greenfield","city",NA,"June",2020,11521,10324,1197
+"18","IN","Indiana","Greensburg","city",NA,"January",2020,6425,6233,192
+"18","IN","Indiana","Greensburg","city",NA,"February",2020,6419,6238,181
+"18","IN","Indiana","Greensburg","city",NA,"March",2020,6381,6215,166
+"18","IN","Indiana","Greensburg","city",NA,"April",2020,7487,5281,2206
+"18","IN","Indiana","Greensburg","city",NA,"May",2020,7450,5923,1527
+"18","IN","Indiana","Greensburg","city",NA,"June",2020,7099,6130,969
+"18","IN","Indiana","Greenwood","city",NA,"January",2020,31113,30188,925
+"18","IN","Indiana","Greenwood","city",NA,"February",2020,31124,30297,827
+"18","IN","Indiana","Greenwood","city",NA,"March",2020,30073,29314,759
+"18","IN","Indiana","Greenwood","city",NA,"April",2020,29239,24991,4248
+"18","IN","Indiana","Greenwood","city",NA,"May",2020,30696,27383,3313
+"18","IN","Indiana","Greenwood","city",NA,"June",2020,31830,28487,3343
+"18","IN","Indiana","Griffith","city",NA,"January",2020,8873,8395,478
+"18","IN","Indiana","Griffith","city",NA,"February",2020,8891,8456,435
+"18","IN","Indiana","Griffith","city",NA,"March",2020,8596,8190,406
+"18","IN","Indiana","Griffith","city",NA,"April",2020,8711,6972,1739
+"18","IN","Indiana","Griffith","city",NA,"May",2020,9046,7632,1414
+"18","IN","Indiana","Griffith","city",NA,"June",2020,9165,7833,1332
+"18","IN","Indiana","Hammond","city",NA,"January",2020,34406,32409,1997
+"18","IN","Indiana","Hammond","city",NA,"February",2020,34618,32645,1973
+"18","IN","Indiana","Hammond","city",NA,"March",2020,33424,31616,1808
+"18","IN","Indiana","Hammond","city",NA,"April",2020,33194,26916,6278
+"18","IN","Indiana","Hammond","city",NA,"May",2020,35120,29461,5659
+"18","IN","Indiana","Hammond","city",NA,"June",2020,36149,30239,5910
+"18","IN","Indiana","Highland","city",NA,"January",2020,12544,11930,614
+"18","IN","Indiana","Highland","city",NA,"February",2020,12626,12017,609
+"18","IN","Indiana","Highland","city",NA,"March",2020,12178,11638,540
+"18","IN","Indiana","Highland","city",NA,"April",2020,12346,9908,2438
+"18","IN","Indiana","Highland","city",NA,"May",2020,12786,10845,1941
+"18","IN","Indiana","Highland","city",NA,"June",2020,12940,11132,1808
+"18","IN","Indiana","Hobart","city",NA,"January",2020,14903,14032,871
+"18","IN","Indiana","Hobart","city",NA,"February",2020,15009,14134,875
+"18","IN","Indiana","Hobart","city",NA,"March",2020,14492,13688,804
+"18","IN","Indiana","Hobart","city",NA,"April",2020,15561,11653,3908
+"18","IN","Indiana","Hobart","city",NA,"May",2020,15797,12755,3042
+"18","IN","Indiana","Hobart","city",NA,"June",2020,15907,13092,2815
+"18","IN","Indiana","Huntington","city",NA,"January",2020,7909,7617,292
+"18","IN","Indiana","Huntington","city",NA,"February",2020,7975,7699,276
+"18","IN","Indiana","Huntington","city",NA,"March",2020,7684,7430,254
+"18","IN","Indiana","Huntington","city",NA,"April",2020,8005,6300,1705
+"18","IN","Indiana","Huntington","city",NA,"May",2020,8311,7034,1277
+"18","IN","Indiana","Huntington","city",NA,"June",2020,8189,7171,1018
+"18","IN","Indiana","Indianapolis","city",NA,"January",2020,447083,431942,15141
+"18","IN","Indiana","Indianapolis","city",NA,"February",2020,447760,433637,14123
+"18","IN","Indiana","Indianapolis","city",NA,"March",2020,433193,419864,13329
+"18","IN","Indiana","Indianapolis","city",NA,"April",2020,415837,357443,58394
+"18","IN","Indiana","Indianapolis","city",NA,"May",2020,440744,390752,49992
+"18","IN","Indiana","Indianapolis","city",NA,"June",2020,464335,406683,57652
+"18","IN","Indiana","Jasper","city",NA,"January",2020,8524,8312,212
+"18","IN","Indiana","Jasper","city",NA,"February",2020,8521,8323,198
+"18","IN","Indiana","Jasper","city",NA,"March",2020,8280,8105,175
+"18","IN","Indiana","Jasper","city",NA,"April",2020,7659,6837,822
+"18","IN","Indiana","Jasper","city",NA,"May",2020,8245,7737,508
+"18","IN","Indiana","Jasper","city",NA,"June",2020,8719,8063,656
+"18","IN","Indiana","Jeffersonville","city",NA,"January",2020,25384,24596,788
+"18","IN","Indiana","Jeffersonville","city",NA,"February",2020,25436,24723,713
+"18","IN","Indiana","Jeffersonville","city",NA,"March",2020,24582,23876,706
+"18","IN","Indiana","Jeffersonville","city",NA,"April",2020,23321,19095,4226
+"18","IN","Indiana","Jeffersonville","city",NA,"May",2020,24080,20914,3166
+"18","IN","Indiana","Jeffersonville","city",NA,"June",2020,25620,22437,3183
+"18","IN","Indiana","Kendallville","city",NA,"January",2020,4701,4534,167
+"18","IN","Indiana","Kendallville","city",NA,"February",2020,4711,4564,147
+"18","IN","Indiana","Kendallville","city",NA,"March",2020,4547,4397,150
+"18","IN","Indiana","Kendallville","city",NA,"April",2020,5242,3733,1509
+"18","IN","Indiana","Kendallville","city",NA,"May",2020,5139,4200,939
+"18","IN","Indiana","Kendallville","city",NA,"June",2020,5062,4335,727
+"18","IN","Indiana","Kokomo","city",NA,"January",2020,25513,24376,1137
+"18","IN","Indiana","Kokomo","city",NA,"February",2020,25449,24401,1048
+"18","IN","Indiana","Kokomo","city",NA,"March",2020,24551,23529,1022
+"18","IN","Indiana","Kokomo","city",NA,"April",2020,28797,18598,10199
+"18","IN","Indiana","Kokomo","city",NA,"May",2020,29126,22090,7036
+"18","IN","Indiana","Kokomo","city",NA,"June",2020,27664,22561,5103
+"18","IN","Indiana","Lafayette","city",NA,"January",2020,39744,38583,1161
+"18","IN","Indiana","Lafayette","city",NA,"February",2020,41104,40003,1101
+"18","IN","Indiana","Lafayette","city",NA,"March",2020,39350,38291,1059
+"18","IN","Indiana","Lafayette","city",NA,"April",2020,36675,30536,6139
+"18","IN","Indiana","Lafayette","city",NA,"May",2020,38460,32484,5976
+"18","IN","Indiana","Lafayette","city",NA,"June",2020,38262,33328,4934
+"18","IN","Indiana","Lake Station","city",NA,"January",2020,4940,4562,378
+"18","IN","Indiana","Lake Station","city",NA,"February",2020,4976,4596,380
+"18","IN","Indiana","Lake Station","city",NA,"March",2020,4794,4451,343
+"18","IN","Indiana","Lake Station","city",NA,"April",2020,5151,3789,1362
+"18","IN","Indiana","Lake Station","city",NA,"May",2020,5275,4147,1128
+"18","IN","Indiana","Lake Station","city",NA,"June",2020,5391,4257,1134
+"18","IN","Indiana","La Porte","city",NA,"January",2020,9526,9057,469
+"18","IN","Indiana","La Porte","city",NA,"February",2020,9579,9109,470
+"18","IN","Indiana","La Porte","city",NA,"March",2020,9226,8826,400
+"18","IN","Indiana","La Porte","city",NA,"April",2020,9491,7589,1902
+"18","IN","Indiana","La Porte","city",NA,"May",2020,9838,8441,1397
+"18","IN","Indiana","La Porte","city",NA,"June",2020,10289,8746,1543
+"18","IN","Indiana","Lawrence","city",NA,"January",2020,27006,26166,840
+"18","IN","Indiana","Lawrence","city",NA,"February",2020,27044,26268,776
+"18","IN","Indiana","Lawrence","city",NA,"March",2020,26160,25434,726
+"18","IN","Indiana","Lawrence","city",NA,"April",2020,24624,21653,2971
+"18","IN","Indiana","Lawrence","city",NA,"May",2020,26241,23671,2570
+"18","IN","Indiana","Lawrence","city",NA,"June",2020,27566,24636,2930
+"18","IN","Indiana","Lebanon","city",NA,"January",2020,8822,8563,259
+"18","IN","Indiana","Lebanon","city",NA,"February",2020,8792,8575,217
+"18","IN","Indiana","Lebanon","city",NA,"March",2020,8495,8285,210
+"18","IN","Indiana","Lebanon","city",NA,"April",2020,7951,7073,878
+"18","IN","Indiana","Lebanon","city",NA,"May",2020,8484,7776,708
+"18","IN","Indiana","Lebanon","city",NA,"June",2020,8849,8114,735
+"18","IN","Indiana","Logansport","city",NA,"January",2020,7822,7485,337
+"18","IN","Indiana","Logansport","city",NA,"February",2020,7850,7546,304
+"18","IN","Indiana","Logansport","city",NA,"March",2020,7505,7214,291
+"18","IN","Indiana","Logansport","city",NA,"April",2020,7222,6120,1102
+"18","IN","Indiana","Logansport","city",NA,"May",2020,7862,6922,940
+"18","IN","Indiana","Logansport","city",NA,"June",2020,8140,7190,950
+"18","IN","Indiana","Madison","city",NA,"January",2020,5456,5255,201
+"18","IN","Indiana","Madison","city",NA,"February",2020,5470,5291,179
+"18","IN","Indiana","Madison","city",NA,"March",2020,5336,5157,179
+"18","IN","Indiana","Madison","city",NA,"April",2020,5663,4335,1328
+"18","IN","Indiana","Madison","city",NA,"May",2020,5719,4867,852
+"18","IN","Indiana","Madison","city",NA,"June",2020,5626,5001,625
+"18","IN","Indiana","Marion","city",NA,"January",2020,12061,11509,552
+"18","IN","Indiana","Marion","city",NA,"February",2020,12644,12136,508
+"18","IN","Indiana","Marion","city",NA,"March",2020,12311,11809,502
+"18","IN","Indiana","Marion","city",NA,"April",2020,11682,9906,1776
+"18","IN","Indiana","Marion","city",NA,"May",2020,12391,11020,1371
+"18","IN","Indiana","Marion","city",NA,"June",2020,12398,10961,1437
+"18","IN","Indiana","Martinsville","city",NA,"January",2020,5370,5123,247
+"18","IN","Indiana","Martinsville","city",NA,"February",2020,5359,5132,227
+"18","IN","Indiana","Martinsville","city",NA,"March",2020,5146,4962,184
+"18","IN","Indiana","Martinsville","city",NA,"April",2020,4965,4231,734
+"18","IN","Indiana","Martinsville","city",NA,"May",2020,5203,4643,560
+"18","IN","Indiana","Martinsville","city",NA,"June",2020,5411,4845,566
+"18","IN","Indiana","Merrillville","city",NA,"January",2020,17009,16054,955
+"18","IN","Indiana","Merrillville","city",NA,"February",2020,17079,16170,909
+"18","IN","Indiana","Merrillville","city",NA,"March",2020,16549,15661,888
+"18","IN","Indiana","Merrillville","city",NA,"April",2020,17141,13333,3808
+"18","IN","Indiana","Merrillville","city",NA,"May",2020,17775,14593,3182
+"18","IN","Indiana","Merrillville","city",NA,"June",2020,18204,14979,3225
+"18","IN","Indiana","Michigan City","city",NA,"January",2020,12541,11949,592
+"18","IN","Indiana","Michigan City","city",NA,"February",2020,12612,12018,594
+"18","IN","Indiana","Michigan City","city",NA,"March",2020,12184,11645,539
+"18","IN","Indiana","Michigan City","city",NA,"April",2020,13329,10013,3316
+"18","IN","Indiana","Michigan City","city",NA,"May",2020,13725,11136,2589
+"18","IN","Indiana","Michigan City","city",NA,"June",2020,14394,11539,2855
+"18","IN","Indiana","Mishawaka","city",NA,"January",2020,26480,25498,982
+"18","IN","Indiana","Mishawaka","city",NA,"February",2020,26731,25822,909
+"18","IN","Indiana","Mishawaka","city",NA,"March",2020,25748,24892,856
+"18","IN","Indiana","Mishawaka","city",NA,"April",2020,26323,20148,6175
+"18","IN","Indiana","Mishawaka","city",NA,"May",2020,25817,22218,3599
+"18","IN","Indiana","Mishawaka","city",NA,"June",2020,26510,22937,3573
+"18","IN","Indiana","Mooresville","city",NA,"January",2020,5458,5298,160
+"18","IN","Indiana","Mooresville","city",NA,"February",2020,5451,5308,143
+"18","IN","Indiana","Mooresville","city",NA,"March",2020,5256,5132,124
+"18","IN","Indiana","Mooresville","city",NA,"April",2020,4931,4376,555
+"18","IN","Indiana","Mooresville","city",NA,"May",2020,5246,4803,443
+"18","IN","Indiana","Mooresville","city",NA,"June",2020,5484,5011,473
+"18","IN","Indiana","Muncie","city",NA,"January",2020,31377,29999,1378
+"18","IN","Indiana","Muncie","city",NA,"February",2020,31701,30352,1349
+"18","IN","Indiana","Muncie","city",NA,"March",2020,30600,29334,1266
+"18","IN","Indiana","Muncie","city",NA,"April",2020,30306,25428,4878
+"18","IN","Indiana","Muncie","city",NA,"May",2020,30318,26533,3785
+"18","IN","Indiana","Muncie","city",NA,"June",2020,30777,26942,3835
+"18","IN","Indiana","Munster","city",NA,"January",2020,11730,11291,439
+"18","IN","Indiana","Munster","city",NA,"February",2020,11768,11373,395
+"18","IN","Indiana","Munster","city",NA,"March",2020,11408,11014,394
+"18","IN","Indiana","Munster","city",NA,"April",2020,10954,9377,1577
+"18","IN","Indiana","Munster","city",NA,"May",2020,11515,10264,1251
+"18","IN","Indiana","Munster","city",NA,"June",2020,11846,10535,1311
+"18","IN","Indiana","New Albany","city",NA,"January",2020,18805,18104,701
+"18","IN","Indiana","New Albany","city",NA,"February",2020,18866,18197,669
+"18","IN","Indiana","New Albany","city",NA,"March",2020,18169,17570,599
+"18","IN","Indiana","New Albany","city",NA,"April",2020,17617,14059,3558
+"18","IN","Indiana","New Albany","city",NA,"May",2020,18075,15408,2667
+"18","IN","Indiana","New Albany","city",NA,"June",2020,19201,16525,2676
+"18","IN","Indiana","New Castle","city",NA,"January",2020,7565,7287,278
+"18","IN","Indiana","New Castle","city",NA,"February",2020,7581,7319,262
+"18","IN","Indiana","New Castle","city",NA,"March",2020,7357,7124,233
+"18","IN","Indiana","New Castle","city",NA,"April",2020,7479,6036,1443
+"18","IN","Indiana","New Castle","city",NA,"May",2020,7944,6713,1231
+"18","IN","Indiana","New Castle","city",NA,"June",2020,7938,6979,959
+"18","IN","Indiana","New Haven","city",NA,"January",2020,8188,7923,265
+"18","IN","Indiana","New Haven","city",NA,"February",2020,8298,7988,310
+"18","IN","Indiana","New Haven","city",NA,"March",2020,7917,7690,227
+"18","IN","Indiana","New Haven","city",NA,"April",2020,8173,6513,1660
+"18","IN","Indiana","New Haven","city",NA,"May",2020,8357,7208,1149
+"18","IN","Indiana","New Haven","city",NA,"June",2020,8275,7349,926
+"18","IN","Indiana","Noblesville","city",NA,"January",2020,35796,34827,969
+"18","IN","Indiana","Noblesville","city",NA,"February",2020,35817,34957,860
+"18","IN","Indiana","Noblesville","city",NA,"March",2020,34619,33836,783
+"18","IN","Indiana","Noblesville","city",NA,"April",2020,33037,28824,4213
+"18","IN","Indiana","Noblesville","city",NA,"May",2020,34588,31543,3045
+"18","IN","Indiana","Noblesville","city",NA,"June",2020,35961,32824,3137
+"18","IN","Indiana","Peru","city",NA,"January",2020,4467,4255,212
+"18","IN","Indiana","Peru","city",NA,"February",2020,4488,4282,206
+"18","IN","Indiana","Peru","city",NA,"March",2020,4341,4158,183
+"18","IN","Indiana","Peru","city",NA,"April",2020,4506,3464,1042
+"18","IN","Indiana","Peru","city",NA,"May",2020,4674,3966,708
+"18","IN","Indiana","Peru","city",NA,"June",2020,4730,4086,644
+"18","IN","Indiana","Plainfield","city",NA,"January",2020,17000,16478,522
+"18","IN","Indiana","Plainfield","city",NA,"February",2020,17004,16552,452
+"18","IN","Indiana","Plainfield","city",NA,"March",2020,16459,16026,433
+"18","IN","Indiana","Plainfield","city",NA,"April",2020,15394,13649,1745
+"18","IN","Indiana","Plainfield","city",NA,"May",2020,16362,14926,1436
+"18","IN","Indiana","Plainfield","city",NA,"June",2020,17149,15515,1634
+"18","IN","Indiana","Plymouth","city",NA,"January",2020,4262,4086,176
+"18","IN","Indiana","Plymouth","city",NA,"February",2020,4271,4100,171
+"18","IN","Indiana","Plymouth","city",NA,"March",2020,4138,3993,145
+"18","IN","Indiana","Plymouth","city",NA,"April",2020,4275,3357,918
+"18","IN","Indiana","Plymouth","city",NA,"May",2020,4330,3794,536
+"18","IN","Indiana","Plymouth","city",NA,"June",2020,4726,3985,741
+"18","IN","Indiana","Portage","city",NA,"January",2020,18078,17177,901
+"18","IN","Indiana","Portage","city",NA,"February",2020,18175,17295,880
+"18","IN","Indiana","Portage","city",NA,"March",2020,17547,16745,802
+"18","IN","Indiana","Portage","city",NA,"April",2020,18144,14260,3884
+"18","IN","Indiana","Portage","city",NA,"May",2020,18900,15618,3282
+"18","IN","Indiana","Portage","city",NA,"June",2020,19270,16040,3230
+"18","IN","Indiana","Richmond","city",NA,"January",2020,14915,14298,617
+"18","IN","Indiana","Richmond","city",NA,"February",2020,15078,14513,565
+"18","IN","Indiana","Richmond","city",NA,"March",2020,14665,14115,550
+"18","IN","Indiana","Richmond","city",NA,"April",2020,14387,11921,2466
+"18","IN","Indiana","Richmond","city",NA,"May",2020,15202,13349,1853
+"18","IN","Indiana","Richmond","city",NA,"June",2020,15676,13702,1974
+"18","IN","Indiana","Schererville","city",NA,"January",2020,16103,15459,644
+"18","IN","Indiana","Schererville","city",NA,"February",2020,16174,15572,602
+"18","IN","Indiana","Schererville","city",NA,"March",2020,15643,15081,562
+"18","IN","Indiana","Schererville","city",NA,"April",2020,15570,12839,2731
+"18","IN","Indiana","Schererville","city",NA,"May",2020,16293,14053,2240
+"18","IN","Indiana","Schererville","city",NA,"June",2020,16470,14424,2046
+"18","IN","Indiana","Seymour","city",NA,"January",2020,10262,9970,292
+"18","IN","Indiana","Seymour","city",NA,"February",2020,10267,10013,254
+"18","IN","Indiana","Seymour","city",NA,"March",2020,9873,9624,249
+"18","IN","Indiana","Seymour","city",NA,"April",2020,10852,8159,2693
+"18","IN","Indiana","Seymour","city",NA,"May",2020,11273,9115,2158
+"18","IN","Indiana","Seymour","city",NA,"June",2020,10936,9458,1478
+"18","IN","Indiana","Shelbyville","city",NA,"January",2020,9365,9048,317
+"18","IN","Indiana","Shelbyville","city",NA,"February",2020,9357,9071,286
+"18","IN","Indiana","Shelbyville","city",NA,"March",2020,9093,8769,324
+"18","IN","Indiana","Shelbyville","city",NA,"April",2020,9907,7484,2423
+"18","IN","Indiana","Shelbyville","city",NA,"May",2020,10147,8218,1929
+"18","IN","Indiana","Shelbyville","city",NA,"June",2020,10201,8560,1641
+"18","IN","Indiana","South Bend","city",NA,"January",2020,47838,45808,2030
+"18","IN","Indiana","South Bend","city",NA,"February",2020,48281,46390,1891
+"18","IN","Indiana","South Bend","city",NA,"March",2020,46530,44718,1812
+"18","IN","Indiana","South Bend","city",NA,"April",2020,46540,36195,10345
+"18","IN","Indiana","South Bend","city",NA,"May",2020,47093,39915,7178
+"18","IN","Indiana","South Bend","city",NA,"June",2020,49173,41206,7967
+"18","IN","Indiana","Speedway","city",NA,"January",2020,6665,6448,217
+"18","IN","Indiana","Speedway","city",NA,"February",2020,6679,6473,206
+"18","IN","Indiana","Speedway","city",NA,"March",2020,6463,6268,195
+"18","IN","Indiana","Speedway","city",NA,"April",2020,6243,5336,907
+"18","IN","Indiana","Speedway","city",NA,"May",2020,6610,5833,777
+"18","IN","Indiana","Speedway","city",NA,"June",2020,6974,6071,903
+"18","IN","Indiana","Terre Haute","city",NA,"January",2020,25261,23987,1274
+"18","IN","Indiana","Terre Haute","city",NA,"February",2020,25444,24239,1205
+"18","IN","Indiana","Terre Haute","city",NA,"March",2020,24469,23424,1045
+"18","IN","Indiana","Terre Haute","city",NA,"April",2020,23841,19569,4272
+"18","IN","Indiana","Terre Haute","city",NA,"May",2020,24931,21676,3255
+"18","IN","Indiana","Terre Haute","city",NA,"June",2020,25559,22087,3472
+"18","IN","Indiana","Valparaiso","city",NA,"January",2020,16822,16162,660
+"18","IN","Indiana","Valparaiso","city",NA,"February",2020,16904,16272,632
+"18","IN","Indiana","Valparaiso","city",NA,"March",2020,16339,15755,584
+"18","IN","Indiana","Valparaiso","city",NA,"April",2020,16208,13417,2791
+"18","IN","Indiana","Valparaiso","city",NA,"May",2020,16828,14695,2133
+"18","IN","Indiana","Valparaiso","city",NA,"June",2020,17253,15092,2161
+"18","IN","Indiana","Vincennes","city",NA,"January",2020,7532,7223,309
+"18","IN","Indiana","Vincennes","city",NA,"February",2020,7608,7323,285
+"18","IN","Indiana","Vincennes","city",NA,"March",2020,7288,7040,248
+"18","IN","Indiana","Vincennes","city",NA,"April",2020,7474,5906,1568
+"18","IN","Indiana","Vincennes","city",NA,"May",2020,7702,6597,1105
+"18","IN","Indiana","Vincennes","city",NA,"June",2020,7818,6871,947
+"18","IN","Indiana","Wabash","city",NA,"January",2020,4630,4458,172
+"18","IN","Indiana","Wabash","city",NA,"February",2020,4723,4556,167
+"18","IN","Indiana","Wabash","city",NA,"March",2020,4527,4380,147
+"18","IN","Indiana","Wabash","city",NA,"April",2020,4619,3714,905
+"18","IN","Indiana","Wabash","city",NA,"May",2020,4755,4178,577
+"18","IN","Indiana","Wabash","city",NA,"June",2020,4743,4207,536
+"18","IN","Indiana","Warsaw","city",NA,"January",2020,7692,7440,252
+"18","IN","Indiana","Warsaw","city",NA,"February",2020,7716,7489,227
+"18","IN","Indiana","Warsaw","city",NA,"March",2020,7518,7313,205
+"18","IN","Indiana","Warsaw","city",NA,"April",2020,7460,6283,1177
+"18","IN","Indiana","Warsaw","city",NA,"May",2020,7705,6935,770
+"18","IN","Indiana","Warsaw","city",NA,"June",2020,8014,7160,854
+"18","IN","Indiana","Washington","city",NA,"January",2020,5942,5739,203
+"18","IN","Indiana","Washington","city",NA,"February",2020,5935,5739,196
+"18","IN","Indiana","Washington","city",NA,"March",2020,5762,5588,174
+"18","IN","Indiana","Washington","city",NA,"April",2020,5339,4725,614
+"18","IN","Indiana","Washington","city",NA,"May",2020,5834,5356,478
+"18","IN","Indiana","Washington","city",NA,"June",2020,6050,5576,474
+"18","IN","Indiana","Westfield","city",NA,"January",2020,23256,22682,574
+"18","IN","Indiana","Westfield","city",NA,"February",2020,23293,22767,526
+"18","IN","Indiana","Westfield","city",NA,"March",2020,22514,22036,478
+"18","IN","Indiana","Westfield","city",NA,"April",2020,20874,18772,2102
+"18","IN","Indiana","Westfield","city",NA,"May",2020,22202,20543,1659
+"18","IN","Indiana","Westfield","city",NA,"June",2020,23203,21378,1825
+"18","IN","Indiana","West Lafayette","city",NA,"January",2020,23189,22524,665
+"18","IN","Indiana","West Lafayette","city",NA,"February",2020,23923,23353,570
+"18","IN","Indiana","West Lafayette","city",NA,"March",2020,22887,22353,534
+"18","IN","Indiana","West Lafayette","city",NA,"April",2020,18734,17826,908
+"18","IN","Indiana","West Lafayette","city",NA,"May",2020,19866,18963,903
+"18","IN","Indiana","West Lafayette","city",NA,"June",2020,20678,19456,1222
+"18","IN","Indiana","Zionsville","city",NA,"January",2020,14417,14045,372
+"18","IN","Indiana","Zionsville","city",NA,"February",2020,14382,14064,318
+"18","IN","Indiana","Zionsville","city",NA,"March",2020,13889,13589,300
+"18","IN","Indiana","Zionsville","city",NA,"April",2020,12560,11601,959
+"18","IN","Indiana","Zionsville","city",NA,"May",2020,13494,12755,739
+"18","IN","Indiana","Zionsville","city",NA,"June",2020,14245,13309,936

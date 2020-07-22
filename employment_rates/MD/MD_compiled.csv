@@ -15,7 +15,8 @@
 "24","MD","Maryland","Maryland","state",NA,"February",2020,3272916,3156904,116012
 "24","MD","Maryland","Maryland","state",NA,"March",2020,3276247,3161530,114717
 "24","MD","Maryland","Maryland","state",NA,"April",2020,3089838,2787269,302569
-"24","MD","Maryland","Maryland","state",NA,"May",2020,3103222,2802977,300245
+"24","MD","Maryland","Maryland","state",NA,"May",2020,3106005,2803634,302371
+"24","MD","Maryland","Maryland","state",NA,"June",2020,3229628,2962328,267300
 "24","MD","Maryland","Allegany County","county",24001,"January",2019,32316,30364,1952
 "24","MD","Maryland","Allegany County","county",24001,"February",2019,32552,30672,1880
 "24","MD","Maryland","Allegany County","county",24001,"March",2019,32727,31006,1721
@@ -32,7 +33,8 @@
 "24","MD","Maryland","Allegany County","county",24001,"February",2020,32447,30695,1752
 "24","MD","Maryland","Allegany County","county",24001,"March",2020,32475,30742,1733
 "24","MD","Maryland","Allegany County","county",24001,"April",2020,30474,26189,4285
-"24","MD","Maryland","Allegany County","county",24001,"May",2020,NA,NA,NA
+"24","MD","Maryland","Allegany County","county",24001,"May",2020,30307,26776,3531
+"24","MD","Maryland","Allegany County","county",24001,"June",2020,NA,NA,NA
 "24","MD","Maryland","Anne Arundel County","county",24003,"January",2019,314464,303107,11357
 "24","MD","Maryland","Anne Arundel County","county",24003,"February",2019,314333,303736,10597
 "24","MD","Maryland","Anne Arundel County","county",24003,"March",2019,315309,305268,10041
@@ -49,7 +51,8 @@
 "24","MD","Maryland","Anne Arundel County","county",24003,"February",2020,319049,309354,9695
 "24","MD","Maryland","Anne Arundel County","county",24003,"March",2020,318746,309357,9389
 "24","MD","Maryland","Anne Arundel County","county",24003,"April",2020,292743,263486,29257
-"24","MD","Maryland","Anne Arundel County","county",24003,"May",2020,NA,NA,NA
+"24","MD","Maryland","Anne Arundel County","county",24003,"May",2020,300668,273118,27550
+"24","MD","Maryland","Anne Arundel County","county",24003,"June",2020,NA,NA,NA
 "24","MD","Maryland","Baltimore city","county",24510,"January",2019,287780,271110,16670
 "24","MD","Maryland","Baltimore city","county",24510,"February",2019,286855,271286,15569
 "24","MD","Maryland","Baltimore city","county",24510,"March",2019,287840,272923,14917
@@ -66,7 +69,8 @@
 "24","MD","Maryland","Baltimore city","county",24510,"February",2020,290560,276865,13695
 "24","MD","Maryland","Baltimore city","county",24510,"March",2020,291181,276898,14283
 "24","MD","Maryland","Baltimore city","county",24510,"April",2020,267613,235862,31751
-"24","MD","Maryland","Baltimore city","county",24510,"May",2020,NA,NA,NA
+"24","MD","Maryland","Baltimore city","county",24510,"May",2020,274545,244185,30360
+"24","MD","Maryland","Baltimore city","county",24510,"June",2020,NA,NA,NA
 "24","MD","Maryland","Baltimore County","county",24005,"January",2019,452711,433339,19372
 "24","MD","Maryland","Baltimore County","county",24005,"February",2019,452749,434180,18569
 "24","MD","Maryland","Baltimore County","county",24005,"March",2019,454048,436439,17609
@@ -83,7 +87,8 @@
 "24","MD","Maryland","Baltimore County","county",24005,"February",2020,458971,442375,16596
 "24","MD","Maryland","Baltimore County","county",24005,"March",2020,458919,442393,16526
 "24","MD","Maryland","Baltimore County","county",24005,"April",2020,422244,376767,45477
-"24","MD","Maryland","Baltimore County","county",24005,"May",2020,NA,NA,NA
+"24","MD","Maryland","Baltimore County","county",24005,"May",2020,433632,390494,43138
+"24","MD","Maryland","Baltimore County","county",24005,"June",2020,NA,NA,NA
 "24","MD","Maryland","Calvert County","county",24009,"January",2019,49767,47868,1899
 "24","MD","Maryland","Calvert County","county",24009,"February",2019,50069,48303,1766
 "24","MD","Maryland","Calvert County","county",24009,"March",2019,50248,48604,1644
@@ -100,7 +105,8 @@
 "24","MD","Maryland","Calvert County","county",24009,"February",2020,51007,49479,1528
 "24","MD","Maryland","Calvert County","county",24009,"March",2020,51201,49735,1466
 "24","MD","Maryland","Calvert County","county",24009,"April",2020,47388,43434,3954
-"24","MD","Maryland","Calvert County","county",24009,"May",2020,NA,NA,NA
+"24","MD","Maryland","Calvert County","county",24009,"May",2020,47788,44089,3699
+"24","MD","Maryland","Calvert County","county",24009,"June",2020,NA,NA,NA
 "24","MD","Maryland","Caroline County","county",24011,"January",2019,18429,17614,815
 "24","MD","Maryland","Caroline County","county",24011,"February",2019,18561,17722,839
 "24","MD","Maryland","Caroline County","county",24011,"March",2019,18503,17767,736
@@ -117,7 +123,8 @@
 "24","MD","Maryland","Caroline County","county",24011,"February",2020,18209,17519,690
 "24","MD","Maryland","Caroline County","county",24011,"March",2020,18214,17558,656
 "24","MD","Maryland","Caroline County","county",24011,"April",2020,16583,15057,1526
-"24","MD","Maryland","Caroline County","county",24011,"May",2020,NA,NA,NA
+"24","MD","Maryland","Caroline County","county",24011,"May",2020,16974,15597,1377
+"24","MD","Maryland","Caroline County","county",24011,"June",2020,NA,NA,NA
 "24","MD","Maryland","Carroll County","county",24013,"January",2019,96298,92891,3407
 "24","MD","Maryland","Carroll County","county",24013,"February",2019,96480,93128,3352
 "24","MD","Maryland","Carroll County","county",24013,"March",2019,96454,93439,3015
@@ -134,7 +141,8 @@
 "24","MD","Maryland","Carroll County","county",24013,"February",2020,97370,94403,2967
 "24","MD","Maryland","Carroll County","county",24013,"March",2020,97057,94356,2701
 "24","MD","Maryland","Carroll County","county",24013,"April",2020,88846,80514,8332
-"24","MD","Maryland","Carroll County","county",24013,"May",2020,NA,NA,NA
+"24","MD","Maryland","Carroll County","county",24013,"May",2020,90969,83509,7460
+"24","MD","Maryland","Carroll County","county",24013,"June",2020,NA,NA,NA
 "24","MD","Maryland","Cecil County","county",24015,"January",2019,53455,51024,2431
 "24","MD","Maryland","Cecil County","county",24015,"February",2019,53502,50987,2515
 "24","MD","Maryland","Cecil County","county",24015,"March",2019,53746,51397,2349
@@ -151,7 +159,8 @@
 "24","MD","Maryland","Cecil County","county",24015,"February",2020,54090,51871,2219
 "24","MD","Maryland","Cecil County","county",24015,"March",2020,54082,51957,2125
 "24","MD","Maryland","Cecil County","county",24015,"April",2020,48135,43529,4606
-"24","MD","Maryland","Cecil County","county",24015,"May",2020,NA,NA,NA
+"24","MD","Maryland","Cecil County","county",24015,"May",2020,48761,44585,4176
+"24","MD","Maryland","Cecil County","county",24015,"June",2020,NA,NA,NA
 "24","MD","Maryland","Charles County","county",24017,"January",2019,87072,83108,3964
 "24","MD","Maryland","Charles County","county",24017,"February",2019,87042,83687,3355
 "24","MD","Maryland","Charles County","county",24017,"March",2019,87524,84310,3214
@@ -168,7 +177,8 @@
 "24","MD","Maryland","Charles County","county",24017,"February",2020,89059,85922,3137
 "24","MD","Maryland","Charles County","county",24017,"March",2020,89557,86377,3180
 "24","MD","Maryland","Charles County","county",24017,"April",2020,83288,75506,7782
-"24","MD","Maryland","Charles County","county",24017,"May",2020,NA,NA,NA
+"24","MD","Maryland","Charles County","county",24017,"May",2020,84649,76478,8171
+"24","MD","Maryland","Charles County","county",24017,"June",2020,NA,NA,NA
 "24","MD","Maryland","Dorchester County","county",24019,"January",2019,15603,14699,904
 "24","MD","Maryland","Dorchester County","county",24019,"February",2019,15685,14775,910
 "24","MD","Maryland","Dorchester County","county",24019,"March",2019,15663,14839,824
@@ -185,7 +195,8 @@
 "24","MD","Maryland","Dorchester County","county",24019,"February",2020,15283,14534,749
 "24","MD","Maryland","Dorchester County","county",24019,"March",2020,15362,14561,801
 "24","MD","Maryland","Dorchester County","county",24019,"April",2020,14493,12943,1550
-"24","MD","Maryland","Dorchester County","county",24019,"May",2020,NA,NA,NA
+"24","MD","Maryland","Dorchester County","county",24019,"May",2020,14782,13357,1425
+"24","MD","Maryland","Dorchester County","county",24019,"June",2020,NA,NA,NA
 "24","MD","Maryland","Frederick County","county",24021,"January",2019,135366,130172,5194
 "24","MD","Maryland","Frederick County","county",24021,"February",2019,135106,130189,4917
 "24","MD","Maryland","Frederick County","county",24021,"March",2019,135174,130672,4502
@@ -202,7 +213,8 @@
 "24","MD","Maryland","Frederick County","county",24021,"February",2020,136219,131846,4373
 "24","MD","Maryland","Frederick County","county",24021,"March",2020,135947,131823,4124
 "24","MD","Maryland","Frederick County","county",24021,"April",2020,129770,117100,12670
-"24","MD","Maryland","Frederick County","county",24021,"May",2020,NA,NA,NA
+"24","MD","Maryland","Frederick County","county",24021,"May",2020,130294,118355,11939
+"24","MD","Maryland","Frederick County","county",24021,"June",2020,NA,NA,NA
 "24","MD","Maryland","Garrett County","county",24023,"January",2019,15812,14932,880
 "24","MD","Maryland","Garrett County","county",24023,"February",2019,15926,15016,910
 "24","MD","Maryland","Garrett County","county",24023,"March",2019,15954,15152,802
@@ -219,7 +231,8 @@
 "24","MD","Maryland","Garrett County","county",24023,"February",2020,15623,14775,848
 "24","MD","Maryland","Garrett County","county",24023,"March",2020,15729,14901,828
 "24","MD","Maryland","Garrett County","county",24023,"April",2020,14890,12926,1964
-"24","MD","Maryland","Garrett County","county",24023,"May",2020,NA,NA,NA
+"24","MD","Maryland","Garrett County","county",24023,"May",2020,14918,13362,1556
+"24","MD","Maryland","Garrett County","county",24023,"June",2020,NA,NA,NA
 "24","MD","Maryland","Harford County","county",24025,"January",2019,140619,135318,5301
 "24","MD","Maryland","Harford County","county",24025,"February",2019,140657,135382,5275
 "24","MD","Maryland","Harford County","county",24025,"March",2019,141096,136145,4951
@@ -236,7 +249,8 @@
 "24","MD","Maryland","Harford County","county",24025,"February",2020,142821,137987,4834
 "24","MD","Maryland","Harford County","county",24025,"March",2020,142684,137980,4704
 "24","MD","Maryland","Harford County","county",24025,"April",2020,131330,117617,13713
-"24","MD","Maryland","Harford County","county",24025,"May",2020,NA,NA,NA
+"24","MD","Maryland","Harford County","county",24025,"May",2020,134023,121758,12265
+"24","MD","Maryland","Harford County","county",24025,"June",2020,NA,NA,NA
 "24","MD","Maryland","Howard County","county",24027,"January",2019,186953,180832,6121
 "24","MD","Maryland","Howard County","county",24027,"February",2019,186931,181261,5670
 "24","MD","Maryland","Howard County","county",24027,"March",2019,187539,182176,5363
@@ -253,7 +267,8 @@
 "24","MD","Maryland","Howard County","county",24027,"February",2020,189709,184643,5066
 "24","MD","Maryland","Howard County","county",24027,"March",2020,189491,184655,4836
 "24","MD","Maryland","Howard County","county",24027,"April",2020,171159,157228,13931
-"24","MD","Maryland","Howard County","county",24027,"May",2020,NA,NA,NA
+"24","MD","Maryland","Howard County","county",24027,"May",2020,176950,163014,13936
+"24","MD","Maryland","Howard County","county",24027,"June",2020,NA,NA,NA
 "24","MD","Maryland","Kent County","county",24029,"January",2019,10559,9963,596
 "24","MD","Maryland","Kent County","county",24029,"February",2019,10662,10079,583
 "24","MD","Maryland","Kent County","county",24029,"March",2019,10565,10104,461
@@ -270,7 +285,8 @@
 "24","MD","Maryland","Kent County","county",24029,"February",2020,10306,9797,509
 "24","MD","Maryland","Kent County","county",24029,"March",2020,10285,9846,439
 "24","MD","Maryland","Kent County","county",24029,"April",2020,9509,8577,932
-"24","MD","Maryland","Kent County","county",24029,"May",2020,NA,NA,NA
+"24","MD","Maryland","Kent County","county",24029,"May",2020,9711,8869,842
+"24","MD","Maryland","Kent County","county",24029,"June",2020,NA,NA,NA
 "24","MD","Maryland","Montgomery County","county",24031,"January",2019,560471,540609,19862
 "24","MD","Maryland","Montgomery County","county",24031,"February",2019,561602,543221,18381
 "24","MD","Maryland","Montgomery County","county",24031,"March",2019,561776,544507,17269
@@ -287,7 +303,8 @@
 "24","MD","Maryland","Montgomery County","county",24031,"February",2020,566018,549538,16480
 "24","MD","Maryland","Montgomery County","county",24031,"March",2020,565509,549604,15905
 "24","MD","Maryland","Montgomery County","county",24031,"April",2020,531818,486541,45277
-"24","MD","Maryland","Montgomery County","county",24031,"May",2020,NA,NA,NA
+"24","MD","Maryland","Montgomery County","county",24031,"May",2020,542264,493760,48504
+"24","MD","Maryland","Montgomery County","county",24031,"June",2020,NA,NA,NA
 "24","MD","Maryland","Prince George's County","county",24033,"January",2019,508247,484282,23965
 "24","MD","Maryland","Prince George's County","county",24033,"February",2019,508998,488305,20693
 "24","MD","Maryland","Prince George's County","county",24033,"March",2019,510971,491563,19408
@@ -304,7 +321,8 @@
 "24","MD","Maryland","Prince George's County","county",24033,"February",2020,519266,500616,18650
 "24","MD","Maryland","Prince George's County","county",24033,"March",2020,522403,503225,19178
 "24","MD","Maryland","Prince George's County","county",24033,"April",2020,488684,439631,49053
-"24","MD","Maryland","Prince George's County","county",24033,"May",2020,NA,NA,NA
+"24","MD","Maryland","Prince George's County","county",24033,"May",2020,499754,445892,53862
+"24","MD","Maryland","Prince George's County","county",24033,"June",2020,NA,NA,NA
 "24","MD","Maryland","Queen Anne's County","county",24035,"January",2019,28369,27309,1060
 "24","MD","Maryland","Queen Anne's County","county",24035,"February",2019,28453,27427,1026
 "24","MD","Maryland","Queen Anne's County","county",24035,"March",2019,28388,27436,952
@@ -321,7 +339,8 @@
 "24","MD","Maryland","Queen Anne's County","county",24035,"February",2020,28526,27587,939
 "24","MD","Maryland","Queen Anne's County","county",24035,"March",2020,28410,27552,858
 "24","MD","Maryland","Queen Anne's County","county",24035,"April",2020,26235,23566,2669
-"24","MD","Maryland","Queen Anne's County","county",24035,"May",2020,NA,NA,NA
+"24","MD","Maryland","Queen Anne's County","county",24035,"May",2020,26954,24486,2468
+"24","MD","Maryland","Queen Anne's County","county",24035,"June",2020,NA,NA,NA
 "24","MD","Maryland","Somerset County","county",24039,"January",2019,9206,8490,716
 "24","MD","Maryland","Somerset County","county",24039,"February",2019,9198,8537,661
 "24","MD","Maryland","Somerset County","county",24039,"March",2019,9210,8613,597
@@ -338,7 +357,8 @@
 "24","MD","Maryland","Somerset County","county",24039,"February",2020,9257,8700,557
 "24","MD","Maryland","Somerset County","county",24039,"March",2020,9277,8731,546
 "24","MD","Maryland","Somerset County","county",24039,"April",2020,8316,7337,979
-"24","MD","Maryland","Somerset County","county",24039,"May",2020,NA,NA,NA
+"24","MD","Maryland","Somerset County","county",24039,"May",2020,8548,7634,914
+"24","MD","Maryland","Somerset County","county",24039,"June",2020,NA,NA,NA
 "24","MD","Maryland","St. Mary's County","county",24037,"January",2019,56991,54740,2251
 "24","MD","Maryland","St. Mary's County","county",24037,"February",2019,57097,54955,2142
 "24","MD","Maryland","St. Mary's County","county",24037,"March",2019,57357,55349,2008
@@ -355,7 +375,8 @@
 "24","MD","Maryland","St. Mary's County","county",24037,"February",2020,58016,56132,1884
 "24","MD","Maryland","St. Mary's County","county",24037,"March",2020,58117,56298,1819
 "24","MD","Maryland","St. Mary's County","county",24037,"April",2020,53645,49730,3915
-"24","MD","Maryland","St. Mary's County","county",24037,"May",2020,NA,NA,NA
+"24","MD","Maryland","St. Mary's County","county",24037,"May",2020,54006,50302,3704
+"24","MD","Maryland","St. Mary's County","county",24037,"June",2020,NA,NA,NA
 "24","MD","Maryland","Talbot County","county",24041,"January",2019,19202,18325,877
 "24","MD","Maryland","Talbot County","county",24041,"February",2019,19308,18442,866
 "24","MD","Maryland","Talbot County","county",24041,"March",2019,19291,18514,777
@@ -372,7 +393,8 @@
 "24","MD","Maryland","Talbot County","county",24041,"February",2020,18919,18182,737
 "24","MD","Maryland","Talbot County","county",24041,"March",2020,18971,18276,695
 "24","MD","Maryland","Talbot County","county",24041,"April",2020,17594,15733,1861
-"24","MD","Maryland","Talbot County","county",24041,"May",2020,NA,NA,NA
+"24","MD","Maryland","Talbot County","county",24041,"May",2020,17942,16329,1613
+"24","MD","Maryland","Talbot County","county",24041,"June",2020,NA,NA,NA
 "24","MD","Maryland","Washington County","county",24043,"January",2019,75204,71686,3518
 "24","MD","Maryland","Washington County","county",24043,"February",2019,74369,70825,3544
 "24","MD","Maryland","Washington County","county",24043,"March",2019,74792,71507,3285
@@ -389,7 +411,8 @@
 "24","MD","Maryland","Washington County","county",24043,"February",2020,75128,72004,3124
 "24","MD","Maryland","Washington County","county",24043,"March",2020,75220,72199,3021
 "24","MD","Maryland","Washington County","county",24043,"April",2020,69806,61388,8418
-"24","MD","Maryland","Washington County","county",24043,"May",2020,NA,NA,NA
+"24","MD","Maryland","Washington County","county",24043,"May",2020,71514,64165,7349
+"24","MD","Maryland","Washington County","county",24043,"June",2020,NA,NA,NA
 "24","MD","Maryland","Wicomico County","county",24045,"January",2019,49279,46312,2967
 "24","MD","Maryland","Wicomico County","county",24045,"February",2019,49628,46743,2885
 "24","MD","Maryland","Wicomico County","county",24045,"March",2019,49983,47430,2553
@@ -406,7 +429,8 @@
 "24","MD","Maryland","Wicomico County","county",24045,"February",2020,51050,48497,2553
 "24","MD","Maryland","Wicomico County","county",24045,"March",2020,51252,48795,2457
 "24","MD","Maryland","Wicomico County","county",24045,"April",2020,46835,40530,6305
-"24","MD","Maryland","Wicomico County","county",24045,"May",2020,NA,NA,NA
+"24","MD","Maryland","Wicomico County","county",24045,"May",2020,47928,42258,5670
+"24","MD","Maryland","Wicomico County","county",24045,"June",2020,NA,NA,NA
 "24","MD","Maryland","Worcester County","county",24047,"January",2019,25629,22597,3032
 "24","MD","Maryland","Worcester County","county",24047,"February",2019,25668,22860,2808
 "24","MD","Maryland","Worcester County","county",24047,"March",2019,25555,23137,2418
@@ -423,7 +447,8 @@
 "24","MD","Maryland","Worcester County","county",24047,"February",2020,26012,23582,2430
 "24","MD","Maryland","Worcester County","county",24047,"March",2020,26161,23712,2449
 "24","MD","Maryland","Worcester County","county",24047,"April",2020,25550,19723,5827
-"24","MD","Maryland","Worcester County","county",24047,"May",2020,NA,NA,NA
+"24","MD","Maryland","Worcester County","county",24047,"May",2020,25344,20607,4737
+"24","MD","Maryland","Worcester County","county",24047,"June",2020,NA,NA,NA
 "24","MD","Maryland","Annapolis","city",NA,"January",2019,22464,21673,791
 "24","MD","Maryland","Annapolis","city",NA,"February",2019,22457,21718,739
 "24","MD","Maryland","Annapolis","city",NA,"March",2019,22525,21827,698
@@ -440,7 +465,8 @@
 "24","MD","Maryland","Annapolis","city",NA,"February",2020,22821,22120,701
 "24","MD","Maryland","Annapolis","city",NA,"March",2020,22798,22120,678
 "24","MD","Maryland","Annapolis","city",NA,"April",2020,21080,18840,2240
-"24","MD","Maryland","Annapolis","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","Annapolis","city",NA,"May",2020,21662,19529,2133
+"24","MD","Maryland","Annapolis","city",NA,"June",2020,NA,NA,NA
 "24","MD","Maryland","Bowie","city",NA,"January",2019,34696,33286,1410
 "24","MD","Maryland","Bowie","city",NA,"February",2019,34725,33562,1163
 "24","MD","Maryland","Bowie","city",NA,"March",2019,34930,33786,1144
@@ -457,7 +483,8 @@
 "24","MD","Maryland","Bowie","city",NA,"February",2020,35583,34409,1174
 "24","MD","Maryland","Bowie","city",NA,"March",2020,35808,34588,1220
 "24","MD","Maryland","Bowie","city",NA,"April",2020,33618,30217,3401
-"24","MD","Maryland","Bowie","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","Bowie","city",NA,"May",2020,34210,30647,3563
+"24","MD","Maryland","Bowie","city",NA,"June",2020,NA,NA,NA
 "24","MD","Maryland","College Park","city",NA,"January",2019,14953,14155,798
 "24","MD","Maryland","College Park","city",NA,"February",2019,15054,14273,781
 "24","MD","Maryland","College Park","city",NA,"March",2019,15042,14368,674
@@ -474,7 +501,8 @@
 "24","MD","Maryland","College Park","city",NA,"February",2020,15321,14633,688
 "24","MD","Maryland","College Park","city",NA,"March",2020,15251,14709,542
 "24","MD","Maryland","College Park","city",NA,"April",2020,14002,12850,1152
-"24","MD","Maryland","College Park","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","College Park","city",NA,"May",2020,14221,13033,1188
+"24","MD","Maryland","College Park","city",NA,"June",2020,NA,NA,NA
 "24","MD","Maryland","Frederick","city",NA,"January",2019,38605,37126,1479
 "24","MD","Maryland","Frederick","city",NA,"February",2019,38550,37130,1420
 "24","MD","Maryland","Frederick","city",NA,"March",2019,38588,37268,1320
@@ -491,7 +519,8 @@
 "24","MD","Maryland","Frederick","city",NA,"February",2020,38877,37603,1274
 "24","MD","Maryland","Frederick","city",NA,"March",2020,38865,37596,1269
 "24","MD","Maryland","Frederick","city",NA,"April",2020,37450,33397,4053
-"24","MD","Maryland","Frederick","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","Frederick","city",NA,"May",2020,37631,33755,3876
+"24","MD","Maryland","Frederick","city",NA,"June",2020,NA,NA,NA
 "24","MD","Maryland","Gaithersburg","city",NA,"January",2019,36763,35349,1414
 "24","MD","Maryland","Gaithersburg","city",NA,"February",2019,36783,35520,1263
 "24","MD","Maryland","Gaithersburg","city",NA,"March",2019,36768,35604,1164
@@ -508,7 +537,8 @@
 "24","MD","Maryland","Gaithersburg","city",NA,"February",2020,37098,35933,1165
 "24","MD","Maryland","Gaithersburg","city",NA,"March",2020,37064,35937,1127
 "24","MD","Maryland","Gaithersburg","city",NA,"April",2020,35364,31814,3550
-"24","MD","Maryland","Gaithersburg","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","Gaithersburg","city",NA,"May",2020,35957,32286,3671
+"24","MD","Maryland","Gaithersburg","city",NA,"June",2020,NA,NA,NA
 "24","MD","Maryland","Hagerstown","city",NA,"January",2019,18994,17978,1016
 "24","MD","Maryland","Hagerstown","city",NA,"February",2019,18795,17762,1033
 "24","MD","Maryland","Hagerstown","city",NA,"March",2019,18931,17933,998
@@ -525,7 +555,8 @@
 "24","MD","Maryland","Hagerstown","city",NA,"February",2020,18981,18057,924
 "24","MD","Maryland","Hagerstown","city",NA,"March",2020,19021,18106,915
 "24","MD","Maryland","Hagerstown","city",NA,"April",2020,18064,15395,2669
-"24","MD","Maryland","Hagerstown","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","Hagerstown","city",NA,"May",2020,18544,16091,2453
+"24","MD","Maryland","Hagerstown","city",NA,"June",2020,NA,NA,NA
 "24","MD","Maryland","Laurel","city",NA,"January",2019,15772,15002,770
 "24","MD","Maryland","Laurel","city",NA,"February",2019,15808,15126,682
 "24","MD","Maryland","Laurel","city",NA,"March",2019,15888,15227,661
@@ -542,7 +573,8 @@
 "24","MD","Maryland","Laurel","city",NA,"February",2020,16150,15508,642
 "24","MD","Maryland","Laurel","city",NA,"March",2020,16280,15588,692
 "24","MD","Maryland","Laurel","city",NA,"April",2020,15741,13618,2123
-"24","MD","Maryland","Laurel","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","Laurel","city",NA,"May",2020,16030,13812,2218
+"24","MD","Maryland","Laurel","city",NA,"June",2020,NA,NA,NA
 "24","MD","Maryland","Rockville","city",NA,"January",2019,37876,36598,1278
 "24","MD","Maryland","Rockville","city",NA,"February",2019,37925,36775,1150
 "24","MD","Maryland","Rockville","city",NA,"March",2019,37979,36862,1117
@@ -559,7 +591,8 @@
 "24","MD","Maryland","Rockville","city",NA,"February",2020,38260,37202,1058
 "24","MD","Maryland","Rockville","city",NA,"March",2020,38235,37207,1028
 "24","MD","Maryland","Rockville","city",NA,"April",2020,35703,32938,2765
-"24","MD","Maryland","Rockville","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","Rockville","city",NA,"May",2020,36377,33426,2951
+"24","MD","Maryland","Rockville","city",NA,"June",2020,NA,NA,NA
 "24","MD","Maryland","Salisbury","city",NA,"January",2019,14731,13720,1011
 "24","MD","Maryland","Salisbury","city",NA,"February",2019,14812,13847,965
 "24","MD","Maryland","Salisbury","city",NA,"March",2019,14922,14051,871
@@ -576,4 +609,5 @@
 "24","MD","Maryland","Salisbury","city",NA,"February",2020,15199,14367,832
 "24","MD","Maryland","Salisbury","city",NA,"March",2020,15244,14455,789
 "24","MD","Maryland","Salisbury","city",NA,"April",2020,14051,12007,2044
-"24","MD","Maryland","Salisbury","city",NA,"May",2020,NA,NA,NA
+"24","MD","Maryland","Salisbury","city",NA,"May",2020,14399,12519,1880
+"24","MD","Maryland","Salisbury","city",NA,"June",2020,NA,NA,NA

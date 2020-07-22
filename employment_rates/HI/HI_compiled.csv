@@ -15,7 +15,7 @@
 "15","HI","Hawaii","Hawaii","state",NA,"February",2020,669100,651350,17750
 "15","HI","Hawaii","Hawaii","state",NA,"March",2020,667550,652500,15050
 "15","HI","Hawaii","Hawaii","state",NA,"April",2020,634100,484200,149900
-"15","HI","Hawaii","Hawaii","state",NA,"May",2020,631600,489750,141850
+"15","HI","Hawaii","Hawaii","state",NA,"May",2020,624650,478500,146150
 "15","HI","Hawaii","Hawaii County","county","15001","January",2019,90250,87050,3200
 "15","HI","Hawaii","Hawaii County","county","15001","February",2019,90800,87750,3050
 "15","HI","Hawaii","Hawaii County","county","15001","March",2019,90600,87500,3050
@@ -32,7 +32,7 @@
 "15","HI","Hawaii","Hawaii County","county","15001","February",2020,91800,88750,3050
 "15","HI","Hawaii","Hawaii County","county","15001","March",2020,91550,88900,2650
 "15","HI","Hawaii","Hawaii County","county","15001","April",2020,88800,69100,20750
-"15","HI","Hawaii","Hawaii County","county","15001","May",2020,88400,69700,18700
+"15","HI","Hawaii","Hawaii County","county","15001","May",2020,86550,67250,19350
 "15","HI","Hawaii","Honolulu County","county","15003","January",2019,453300,440950,12400
 "15","HI","Hawaii","Honolulu County","county","15003","February",2019,451400,440000,11400
 "15","HI","Hawaii","Honolulu County","county","15003","March",2019,452250,440650,11600
@@ -48,7 +48,7 @@
 "15","HI","Hawaii","Honolulu County","county","15003","February",2020,453650,442250,11400
 "15","HI","Hawaii","Honolulu County","county","15003","March",2020,453200,443550,9700
 "15","HI","Hawaii","Honolulu County","county","15003","April",2020,418300,332450,85850
-"15","HI","Hawaii","Honolulu County","county","15003","May",2020,421100,337450,83700
+"15","HI","Hawaii","Honolulu County","county","15003","May",2020,417400,330750,86700
 "15","HI","Hawaii","Kauai County","county","15007","January",2019,36450,35400,1050
 "15","HI","Hawaii","Kauai County","county","15007","February",2019,36100,35100,1000
 "15","HI","Hawaii","Kauai County","county","15007","March",2019,36050,35050,1000
@@ -65,7 +65,7 @@
 "15","HI","Hawaii","Kauai County","county","15007","February",2020,36550,35550,1000
 "15","HI","Hawaii","Kauai County","county","15007","March",2020,36500,35650,850
 "15","HI","Hawaii","Kauai County","county","15007","April",2020,37950,25400,12550
-"15","HI","Hawaii","Kauai County","county","15007","May",2020,36900,25850,11000
+"15","HI","Hawaii","Kauai County","county","15007","May",2020,35900,24600,11300
 "15","HI","Hawaii","Maui County","county","15009","January",2019,87650,85150,2450
 "15","HI","Hawaii","Maui County","county","15009","February",2019,86550,84200,2400
 "15","HI","Hawaii","Maui County","county","15009","March",2019,86600,84300,2300
@@ -82,4 +82,4 @@
 "15","HI","Hawaii","Maui County","county","15009","February",2020,87100,84800,2300
 "15","HI","Hawaii","Maui County","county","15009","March",2020,86250,84400,1850
 "15","HI","Hawaii","Maui County","county","15009","April",2020,89050,58250,30800
-"15","HI","Hawaii","Maui County","county","15009","May",2020,85200,56750,28400
+"15","HI","Hawaii","Maui County","county","15009","May",2020,84750,55950,28850
