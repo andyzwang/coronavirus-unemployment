@@ -10,7 +10,7 @@ library(readxl)
 # processing
 # NOTE: range is manually set
 
-raw <- read_excel("TX_data.xlsx", range = "A3:N257")
+raw <- read_excel("TX_data.xlsx", range = "A3:T257")
 
 # import FIPS codes
 

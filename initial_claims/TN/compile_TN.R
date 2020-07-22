@@ -8,38 +8,13 @@ library(stringr)
 
 # processing
 
-raw <- read_csv("TN_gathered.csv") %>%
+raw <- read_csv("TN_data.csv") %>%
   remove_empty("cols")
 
-# import regions
-regions <- read_csv("TN_regions.csv")
-
-# TN uses workforce development areas, so much of the work is just condensing it
-# down to county data so we can FIPs it.
 
 output <- raw %>%
-  mutate(
 
-    # get average of each county in the region
-    claims = as.numeric(str_remove(count, ",\\s*")),
-    claims = ceiling(case_when(
-      area == "East Tennessee" ~ claims / 16,
-      area == "Greater Memphis" ~ claims / 4,
-      area == "Northeast Tennessee" ~ claims / 8,
-      area == "Northern Middle Tennessee" ~ claims / 13,
-      area == "Northwest Tennessee" ~ claims / 9,
-      area == "Southeast Tennessee" ~ claims / 10,
-      area == "Southern Middle Tennessee" ~ claims / 13,
-      area == "Southwest Tennessee" ~ claims / 8,
-      area == "Upper Cumberland" ~ claims / 14
-    ))
-  ) %>%
-  left_join(regions, by = "area") %>%
-
-  # Join with FIPS codes
-
-  left_join(county.fips, by = "polyname") %>%
-  rename(county_fips = fips) %>%
+  clean_names("snake") %>%
   mutate(
 
     # set general info
@@ -48,13 +23,22 @@ output <- raw %>%
     state_short = "TN",
 
     # modify dates
-    date = mdy(date),
+    date = mdy(claims_week_ending),
     month = month(date),
     year = year(date),
     week = week(date),
-
-    county = str_to_title(str_remove(polyname, "tennessee,"))
+    county= str_remove(county, "\\?"),
+    
+    claims = total_initial_claims,
+    polyname = case_when(
+      county == "DeKalb" ~ "tennessee,de kalb",
+      TRUE ~ paste("tennessee,", str_to_lower(county), sep = ""))
   ) %>%
+  
+  # Join with FIPS codes
+  
+  left_join(county.fips, by = "polyname") %>%
+  rename(county_fips = fips) %>%
 
   # relevant columns
 
