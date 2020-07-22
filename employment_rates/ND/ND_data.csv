@@ -1,34 +1,34 @@
 Area,Time Period,Labor Force,Employed,Unemployed,Unemployment Rate,Preliminary
-Bismarck city,"January, 2020","37,498","36,434","1,064",2.8%,No
-Fargo city,"January, 2020","69,966","68,222","1,744",2.5%,No
-Grand Forks city,"January, 2020","31,063","30,425",638,2.1%,No
-Minot city,"January, 2020","22,646","21,999",647,2.9%,No
-West Fargo city,"January, 2020","21,380","20,847",533,2.5%,No
-Williston city,"January, 2020","18,224","17,827",397,2.2%,No
-Bismarck city,"February, 2020","37,578","36,505","1,073",2.9%,No
-Fargo city,"February, 2020","70,606","69,008","1,598",2.3%,No
-Grand Forks city,"February, 2020","30,865","30,200",665,2.2%,No
-Minot city,"February, 2020","22,701","22,044",657,2.9%,No
-West Fargo city,"February, 2020","21,576","21,087",489,2.3%,No
-Williston city,"February, 2020","18,237","17,843",394,2.2%,No
-Bismarck city,"March, 2020","37,498","36,489","1,009",2.7%,No
-Fargo city,"March, 2020","70,597","68,979","1,618",2.3%,No
-Grand Forks city,"March, 2020","30,838","30,150",688,2.2%,No
-Minot city,"March, 2020","22,996","22,364",632,2.7%,No
-West Fargo city,"March, 2020","21,537","21,078",459,2.1%,No
-Williston city,"March, 2020","17,802","17,403",399,2.2%,No
-Bismarck city,"April, 2020","37,512","33,815","3,697",9.9%,No
-Fargo city,"April, 2020","71,431","64,593","6,838",9.6%,No
-Grand Forks city,"April, 2020","31,004","28,065","2,939",9.5%,No
-Minot city,"April, 2020","23,517","21,002","2,515",10.7%,No
-West Fargo city,"April, 2020","21,633","19,738","1,895",8.8%,No
-Williston city,"April, 2020","18,482","16,309","2,173",11.8%,No
-Bismarck city,"May, 2020","37,187","34,169","3,018",8.1%,Yes
-Fargo city,"May, 2020","71,869","65,814","6,055",8.4%,Yes
-Grand Forks city,"May, 2020","30,814","28,079","2,735",8.9%,Yes
-Minot city,"May, 2020","23,507","21,000","2,507",10.7%,Yes
-West Fargo city,"May, 2020","21,616","20,111","1,505",7.0%,Yes
-Williston city,"May, 2020","19,405","16,327","3,078",15.9%,Yes
+Bismarck city,"January, 2020","37,498","36,434","1,064",2.80%,No
+Fargo city,"January, 2020","69,966","68,222","1,744",2.50%,No
+Grand Forks city,"January, 2020","31,063","30,425",638,2.10%,No
+Minot city,"January, 2020","22,646","21,999",647,2.90%,No
+West Fargo city,"January, 2020","21,380","20,847",533,2.50%,No
+Williston city,"January, 2020","18,224","17,827",397,2.20%,No
+Bismarck city,"February, 2020","37,578","36,505","1,073",2.90%,No
+Fargo city,"February, 2020","70,606","69,008","1,598",2.30%,No
+Grand Forks city,"February, 2020","30,865","30,200",665,2.20%,No
+Minot city,"February, 2020","22,701","22,044",657,2.90%,No
+West Fargo city,"February, 2020","21,576","21,087",489,2.30%,No
+Williston city,"February, 2020","18,237","17,843",394,2.20%,No
+Bismarck city,"March, 2020","37,498","36,489","1,009",2.70%,No
+Fargo city,"March, 2020","70,597","68,979","1,618",2.30%,No
+Grand Forks city,"March, 2020","30,838","30,150",688,2.20%,No
+Minot city,"March, 2020","22,996","22,364",632,2.70%,No
+West Fargo city,"March, 2020","21,537","21,078",459,2.10%,No
+Williston city,"March, 2020","17,802","17,403",399,2.20%,No
+Bismarck city,"April, 2020","37,512","33,815","3,697",9.90%,No
+Fargo city,"April, 2020","71,431","64,593","6,838",9.60%,No
+Grand Forks city,"April, 2020","31,004","28,065","2,939",9.50%,No
+Minot city,"April, 2020","23,517","21,002","2,515",10.70%,No
+West Fargo city,"April, 2020","21,633","19,738","1,895",8.80%,No
+Williston city,"April, 2020","18,482","16,309","2,173",11.80%,No
+Bismarck city,"May, 2020","37,187","34,169","3,018",8.10%,Yes
+Fargo city,"May, 2020","71,869","65,814","6,055",8.40%,Yes
+Grand Forks city,"May, 2020","30,814","28,079","2,735",8.90%,Yes
+Minot city,"May, 2020","23,507","21,000","2,507",10.70%,Yes
+West Fargo city,"May, 2020","21,616","20,111","1,505",7.00%,Yes
+Williston city,"May, 2020","19,405","16,327","3,078",15.90%,Yes
 Adams County,"January, 2020","1,046","1,018",28,2.70%,No
 Barnes County,"January, 2020","5,095","4,952",143,2.80%,No
 Benson County,"January, 2020","2,301","2,194",107,4.70%,No
@@ -299,3 +299,63 @@ North Dakota,"February, 2020","400,739","389,594","11,145",2.80%,No
 North Dakota,"March, 2020","402,720","391,913","10,807",2.70%,No
 North Dakota,"April, 2020","405,037","367,726","37,311",9.20%,No
 North Dakota,"May, 2020","403,634","368,779","34,855",8.60%,Yes
+North Dakota,"June, 2020","408,023","382,454","25,569",6.30%,
+Bismarck city,"June, 2020","38,316","36,330","1,986",5.20%,Yes
+Fargo city,"June, 2020","72,658","68,418","4,240",5.80%,Yes
+Grand Forks city,"June, 2020","31,307","29,376","1,931",6.20%,Yes
+Minot city,"June, 2020","23,232","21,449","1,783",7.70%,Yes
+West Fargo city,"June, 2020","22,008","20,907","1,101",5.00%,Yes
+Williston city,"June, 2020","19,295","16,756","2,539",13.20%,Yes
+Adams County,"June, 2020","1,027",987,40,3.90%,Yes
+Barnes County,"June, 2020","5,008","4,772",236,4.70%,Yes
+Benson County,"June, 2020","2,338","2,153",185,7.90%,Yes
+Billings County,"June, 2020",360,341,19,5.30%,Yes
+Bottineau County,"June, 2020","2,841","2,664",177,6.20%,Yes
+Bowman County,"June, 2020","1,580","1,526",54,3.40%,Yes
+Burke County,"June, 2020","1,038",975,63,6.10%,Yes
+Burleigh County,"June, 2020","50,014","47,540","2,474",4.90%,Yes
+Cass County,"June, 2020","105,612","99,836","5,776",5.50%,Yes
+Cavalier County,"June, 2020","1,825","1,759",66,3.60%,Yes
+Dickey County,"June, 2020","2,245","2,163",82,3.70%,Yes
+Divide County,"June, 2020","1,367","1,311",56,4.10%,Yes
+Dunn County,"June, 2020","3,366","3,181",185,5.50%,Yes
+Eddy County,"June, 2020","1,187","1,127",60,5.10%,Yes
+Emmons County,"June, 2020","1,379","1,315",64,4.60%,Yes
+Foster County,"June, 2020","1,441","1,390",51,3.50%,Yes
+Golden Valley County,"June, 2020",822,789,33,4.00%,Yes
+Grand Forks County,"June, 2020","37,466","35,240","2,226",5.90%,Yes
+Grant County,"June, 2020","1,172","1,140",32,2.70%,Yes
+Griggs County,"June, 2020","1,004",971,33,3.30%,Yes
+Hettinger County,"June, 2020","1,360","1,303",57,4.20%,Yes
+Kidder County,"June, 2020","1,231","1,170",61,5.00%,Yes
+LaMoure County,"June, 2020","1,993","1,937",56,2.80%,Yes
+Logan County,"June, 2020",858,830,28,3.30%,Yes
+McHenry County,"June, 2020","3,007","2,851",156,5.20%,Yes
+McIntosh County,"June, 2020","1,062","1,035",27,2.50%,Yes
+McKenzie County,"June, 2020","10,206","9,251",955,9.40%,Yes
+McLean County,"June, 2020","4,575","4,350",225,4.90%,Yes
+Mercer County,"June, 2020","3,436","3,214",222,6.50%,Yes
+Morton County,"June, 2020","16,458","15,527",931,5.70%,Yes
+Mountrail County,"June, 2020","7,430","6,964",466,6.30%,Yes
+Nelson County,"June, 2020","1,328","1,269",59,4.40%,Yes
+Oliver County,"June, 2020",860,820,40,4.70%,Yes
+Pembina County,"June, 2020","3,242","3,047",195,6.00%,Yes
+Pierce County,"June, 2020","1,625","1,547",78,4.80%,Yes
+Ramsey County,"June, 2020","5,432","5,134",298,5.50%,Yes
+Ransom County,"June, 2020","2,771","2,657",114,4.10%,Yes
+Renville County,"June, 2020","1,205","1,130",75,6.20%,Yes
+Richland County,"June, 2020","8,341","7,976",365,4.40%,Yes
+Rolette County,"June, 2020","4,701","3,979",722,15.40%,Yes
+Sargent County,"June, 2020","2,687","2,574",113,4.20%,Yes
+Sheridan County,"June, 2020",644,614,30,4.70%,Yes
+Sioux County,"June, 2020","1,233","1,177",56,4.50%,Yes
+Slope County,"June, 2020",389,371,18,4.60%,Yes
+Stark County,"June, 2020","19,066","17,249","1,817",9.50%,Yes
+Steele County,"June, 2020",969,935,34,3.50%,Yes
+Stutsman County,"June, 2020","10,081","9,679",402,4.00%,Yes
+Towner County,"June, 2020","1,065","1,034",31,2.90%,Yes
+Traill County,"June, 2020","4,310","4,114",196,4.50%,Yes
+Walsh County,"June, 2020","5,021","4,729",292,5.80%,Yes
+Ward County,"June, 2020","31,498","29,170","2,328",7.40%,Yes
+Wells County,"June, 2020","1,853","1,774",79,4.30%,Yes
+Williams County,"June, 2020","24,994","21,861","3,133",12.50%,Yes

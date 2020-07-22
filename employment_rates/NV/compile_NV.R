@@ -16,7 +16,11 @@ output <- raw %>%
     state_fips = "32",
     state_short = "NV",
     state = "Nevada",
-    area_type = str_to_lower(area_type),
+    area_type = case_when(
+      area == "Montana" ~ "state",
+      str_detect(area, "County") ~ "county",
+      TRUE ~ "city"
+    ),
     area = str_remove(area, ", Nevada"),
     polyname = case_when(
       area_type == "county" ~ paste("nevada,", tolower(str_remove(str_remove(area, "[[:punct:]]"), " County")), sep = "")

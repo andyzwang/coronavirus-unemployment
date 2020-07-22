@@ -524,3 +524,106 @@
 "31","NE","Nebraska","North Platte","city",NA,"May",2020,13001,12297,704
 "31","NE","Nebraska","Omaha","city",NA,"May",2020,247347,231163,16184
 "31","NE","Nebraska","Papillion","city",NA,"May",2020,10804,10206,598
+"31","NE","Nebraska","Nebraska","state",NA,"June",2020,1069792,996442,73350
+"31","NE","Nebraska","Fremont","city",NA,"June",2020,14931,14072,859
+"31","NE","Nebraska","Grand Island","city",NA,"June",2020,27098,24710,2388
+"31","NE","Nebraska","Hastings","city",NA,"June",2020,14042,13135,907
+"31","NE","Nebraska","Kearney","city",NA,"June",2020,20442,19075,1367
+"31","NE","Nebraska","Lincoln","city",NA,"June",2020,164638,152832,11806
+"31","NE","Nebraska","Norfolk","city",NA,"June",2020,14404,13528,876
+"31","NE","Nebraska","North Platte","city",NA,"June",2020,13158,12184,974
+"31","NE","Nebraska","Omaha","city",NA,"June",2020,252249,229219,23030
+"31","NE","Nebraska","Papillion","city",NA,"June",2020,10919,10119,800
+"31","NE","Nebraska","Adams County","county",31001,"June",2020,17787,16718,1069
+"31","NE","Nebraska","Antelope County","county",31003,"June",2020,3786,3663,123
+"31","NE","Nebraska","Arthur County","county",31005,"June",2020,236,222,14
+"31","NE","Nebraska","Banner County","county",31007,"June",2020,386,373,13
+"31","NE","Nebraska","Blaine County","county",31009,"June",2020,264,256,8
+"31","NE","Nebraska","Boone County","county",31011,"June",2020,3066,2969,97
+"31","NE","Nebraska","Box Butte County","county",31013,"June",2020,5765,5330,435
+"31","NE","Nebraska","Boyd County","county",31015,"June",2020,1140,1093,47
+"31","NE","Nebraska","Brown County","county",31017,"June",2020,1451,1399,52
+"31","NE","Nebraska","Buffalo County","county",31019,"June",2020,29226,27377,1849
+"31","NE","Nebraska","Burt County","county",31021,"June",2020,3664,3470,194
+"31","NE","Nebraska","Butler County","county",31023,"June",2020,4840,4583,257
+"31","NE","Nebraska","Cass County","county",31025,"June",2020,13738,12770,968
+"31","NE","Nebraska","Cedar County","county",31027,"June",2020,4771,4602,169
+"31","NE","Nebraska","Chase County","county",31029,"June",2020,2380,2318,62
+"31","NE","Nebraska","Cherry County","county",31031,"June",2020,3555,3433,122
+"31","NE","Nebraska","Cheyenne County","county",31033,"June",2020,4546,4247,299
+"31","NE","Nebraska","Clay County","county",31035,"June",2020,3462,3317,145
+"31","NE","Nebraska","Colfax County","county",31037,"June",2020,5847,5590,257
+"31","NE","Nebraska","Cuming County","county",31039,"June",2020,5017,4829,188
+"31","NE","Nebraska","Custer County","county",31041,"June",2020,6824,6472,352
+"31","NE","Nebraska","Dakota County","county",31043,"June",2020,10925,10113,812
+"31","NE","Nebraska","Dawes County","county",31045,"June",2020,5225,4973,252
+"31","NE","Nebraska","Dawson County","county",31047,"June",2020,13902,13116,786
+"31","NE","Nebraska","Deuel County","county",31049,"June",2020,1012,974,38
+"31","NE","Nebraska","Dixon County","county",31051,"June",2020,3024,2889,135
+"31","NE","Nebraska","Dodge County","county",31053,"June",2020,20793,19679,1114
+"31","NE","Nebraska","Douglas County","county",31055,"June",2020,308477,281691,26786
+"31","NE","Nebraska","Dundy County","county",31057,"June",2020,1211,1176,35
+"31","NE","Nebraska","Fillmore County","county",31059,"June",2020,3334,3195,139
+"31","NE","Nebraska","Franklin County","county",31061,"June",2020,1571,1487,84
+"31","NE","Nebraska","Frontier County","county",31063,"June",2020,1620,1543,77
+"31","NE","Nebraska","Furnas County","county",31065,"June",2020,2711,2590,121
+"31","NE","Nebraska","Gage County","county",31067,"June",2020,11479,10793,686
+"31","NE","Nebraska","Garden County","county",31069,"June",2020,1120,1064,56
+"31","NE","Nebraska","Garfield County","county",31071,"June",2020,1181,1141,40
+"31","NE","Nebraska","Gosper County","county",31073,"June",2020,1156,1105,51
+"31","NE","Nebraska","Grant County","county",31075,"June",2020,427,417,10
+"31","NE","Nebraska","Greeley County","county",31077,"June",2020,1316,1250,66
+"31","NE","Nebraska","Hall County","county",31079,"June",2020,32491,29755,2736
+"31","NE","Nebraska","Hamilton County","county",31081,"June",2020,4779,4493,286
+"31","NE","Nebraska","Harlan County","county",31083,"June",2020,1919,1839,80
+"31","NE","Nebraska","Hayes County","county",31085,"June",2020,638,619,19
+"31","NE","Nebraska","Hitchcock County","county",31087,"June",2020,1332,1266,66
+"31","NE","Nebraska","Holt County","county",31089,"June",2020,6014,5793,221
+"31","NE","Nebraska","Hooker County","county",31091,"June",2020,476,462,14
+"31","NE","Nebraska","Howard County","county",31093,"June",2020,3309,3153,156
+"31","NE","Nebraska","Jefferson County","county",31095,"June",2020,4342,4160,182
+"31","NE","Nebraska","Johnson County","county",31097,"June",2020,2123,2019,104
+"31","NE","Nebraska","Kearney County","county",31099,"June",2020,4045,3830,215
+"31","NE","Nebraska","Keith County","county",31101,"June",2020,4877,4667,210
+"31","NE","Nebraska","Keya Paha County","county",31103,"June",2020,600,587,13
+"31","NE","Nebraska","Kimball County","county",31105,"June",2020,2092,1983,109
+"31","NE","Nebraska","Knox County","county",31107,"June",2020,4865,4666,199
+"31","NE","Nebraska","Lancaster County","county",31109,"June",2020,182159,169428,12731
+"31","NE","Nebraska","Lincoln County","county",31111,"June",2020,19474,18224,1250
+"31","NE","Nebraska","Logan County","county",31113,"June",2020,485,464,21
+"31","NE","Nebraska","Loup County","county",31115,"June",2020,417,401,16
+"31","NE","Nebraska","Madison County","county",31119,"June",2020,20850,19708,1142
+"31","NE","Nebraska","McPherson County","county",31117,"June",2020,450,436,14
+"31","NE","Nebraska","Merrick County","county",31121,"June",2020,3992,3774,218
+"31","NE","Nebraska","Morrill County","county",31123,"June",2020,2764,2627,137
+"31","NE","Nebraska","Nance County","county",31125,"June",2020,2065,1971,94
+"31","NE","Nebraska","Nemaha County","county",31127,"June",2020,3681,3465,216
+"31","NE","Nebraska","Nuckolls County","county",31129,"June",2020,2474,2380,94
+"31","NE","Nebraska","Otoe County","county",31131,"June",2020,8740,8250,490
+"31","NE","Nebraska","Pawnee County","county",31133,"June",2020,1519,1450,69
+"31","NE","Nebraska","Perkins County","county",31135,"June",2020,1891,1844,47
+"31","NE","Nebraska","Phelps County","county",31137,"June",2020,5256,4998,258
+"31","NE","Nebraska","Pierce County","county",31139,"June",2020,4326,4147,179
+"31","NE","Nebraska","Platte County","county",31141,"June",2020,18525,17490,1035
+"31","NE","Nebraska","Polk County","county",31143,"June",2020,3103,2949,154
+"31","NE","Nebraska","Red Willow County","county",31145,"June",2020,6171,5821,350
+"31","NE","Nebraska","Richardson County","county",31147,"June",2020,4478,4267,211
+"31","NE","Nebraska","Rock County","county",31149,"June",2020,904,879,25
+"31","NE","Nebraska","Saline County","county",31151,"June",2020,7733,7292,441
+"31","NE","Nebraska","Sarpy County","county",31153,"June",2020,97888,91169,6719
+"31","NE","Nebraska","Saunders County","county",31155,"June",2020,11221,10583,638
+"31","NE","Nebraska","Scotts Bluff County","county",31157,"June",2020,18970,17794,1176
+"31","NE","Nebraska","Seward County","county",31159,"June",2020,9147,8552,595
+"31","NE","Nebraska","Sheridan County","county",31161,"June",2020,2731,2636,95
+"31","NE","Nebraska","Sherman County","county",31163,"June",2020,1716,1630,86
+"31","NE","Nebraska","Sioux County","county",31165,"June",2020,779,756,23
+"31","NE","Nebraska","Stanton County","county",31167,"June",2020,3677,3509,168
+"31","NE","Nebraska","Thayer County","county",31169,"June",2020,2874,2759,115
+"31","NE","Nebraska","Thomas County","county",31171,"June",2020,443,418,25
+"31","NE","Nebraska","Thurston County","county",31173,"June",2020,3270,2972,298
+"31","NE","Nebraska","Valley County","county",31175,"June",2020,2264,2171,93
+"31","NE","Nebraska","Washington County","county",31177,"June",2020,11299,10666,633
+"31","NE","Nebraska","Wayne County","county",31179,"June",2020,5721,5474,247
+"31","NE","Nebraska","Webster County","county",31181,"June",2020,1762,1665,97
+"31","NE","Nebraska","Wheeler County","county",31183,"June",2020,579,562,17
+"31","NE","Nebraska","York County","county",31185,"June",2020,7856,7339,517

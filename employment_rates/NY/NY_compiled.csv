@@ -3,7 +3,8 @@
 "36","NY","New York","State of New York","state",NA,"February",2020,5485800,5248700,237100
 "36","NY","New York","State of New York","state",NA,"March",2020,5455000,5215200,239800
 "36","NY","New York","State of New York","state",NA,"April",2020,5308600,4491000,817500
-"36","NY","New York","State of New York","state",NA,"May",2020,5407900,4782300,625600
+"36","NY","New York","State of New York","state",NA,"May",2020,5408000,4784700,623300
+"36","NY","New York","State of New York","state",NA,"June",2020,5463200,4806800,656400
 "36","NY","New York","State of New York","state",NA,"January",2019,5421300,5171100,250100
 "36","NY","New York","State of New York","state",NA,"February",2019,5423100,5177200,245900
 "36","NY","New York","State of New York","state",NA,"March",2019,5424800,5199100,225600
@@ -20,7 +21,8 @@
 "36","NY","New York","New York","city",NA,"February",2020,4080800,3942200,138600
 "36","NY","New York","New York","city",NA,"March",2020,3976700,3815700,161000
 "36","NY","New York","New York","city",NA,"April",2020,3731100,3184200,546900
-"36","NY","New York","New York","city",NA,"May",2020,3655500,2992000,663500
+"36","NY","New York","New York","city",NA,"May",2020,3656200,2994200,662000
+"36","NY","New York","New York","city",NA,"June",2020,3977900,3165500,812400
 "36","NY","New York","New York","city",NA,"January",2019,4094200,3891600,202600
 "36","NY","New York","New York","city",NA,"February",2019,4118900,3931100,187800
 "36","NY","New York","New York","city",NA,"March",2019,4104400,3929400,175000
@@ -37,7 +39,8 @@
 "36","NY","New York","Albany County","county",36001,"February",2020,160000,154100,5900
 "36","NY","New York","Albany County","county",36001,"March",2020,159500,153500,5900
 "36","NY","New York","Albany County","county",36001,"April",2020,154100,135700,18400
-"36","NY","New York","Albany County","county",36001,"May",2020,158700,144000,14800
+"36","NY","New York","Albany County","county",36001,"May",2020,158400,143700,14800
+"36","NY","New York","Albany County","county",36001,"June",2020,158700,142200,16500
 "36","NY","New York","Albany County","county",36001,"January",2019,156400,150000,6400
 "36","NY","New York","Albany County","county",36001,"February",2019,156700,150400,6300
 "36","NY","New York","Albany County","county",36001,"March",2019,156700,150800,5800
@@ -54,7 +57,8 @@
 "36","NY","New York","Allegany County","county",36003,"February",2020,20200,19000,1300
 "36","NY","New York","Allegany County","county",36003,"March",2020,20000,18700,1300
 "36","NY","New York","Allegany County","county",36003,"April",2020,19400,16800,2600
-"36","NY","New York","Allegany County","county",36003,"May",2020,18900,17000,1900
+"36","NY","New York","Allegany County","county",36003,"May",2020,19200,17300,1900
+"36","NY","New York","Allegany County","county",36003,"June",2020,19200,17200,2000
 "36","NY","New York","Allegany County","county",36003,"January",2019,19500,18100,1400
 "36","NY","New York","Allegany County","county",36003,"February",2019,19800,18500,1300
 "36","NY","New York","Allegany County","county",36003,"March",2019,19500,18300,1200
@@ -71,7 +75,8 @@
 "36","NY","New York","Bronx County","county",36005,"February",2020,598000,570200,27700
 "36","NY","New York","Bronx County","county",36005,"March",2020,583300,551400,31900
 "36","NY","New York","Bronx County","county",36005,"April",2020,553400,460400,93000
-"36","NY","New York","Bronx County","county",36005,"May",2020,551100,432300,118800
+"36","NY","New York","Bronx County","county",36005,"May",2020,551600,432600,119100
+"36","NY","New York","Bronx County","county",36005,"June",2020,607500,457700,149800
 "36","NY","New York","Bronx County","county",36005,"January",2019,604100,563500,40700
 "36","NY","New York","Bronx County","county",36005,"February",2019,606300,568900,37400
 "36","NY","New York","Bronx County","county",36005,"March",2019,602800,568100,34700
@@ -88,7 +93,8 @@
 "36","NY","New York","Broome County","county",36007,"February",2020,84300,79800,4600
 "36","NY","New York","Broome County","county",36007,"March",2020,84100,79600,4500
 "36","NY","New York","Broome County","county",36007,"April",2020,85000,72100,12900
-"36","NY","New York","Broome County","county",36007,"May",2020,86200,76900,9300
+"36","NY","New York","Broome County","county",36007,"May",2020,86600,77400,9200
+"36","NY","New York","Broome County","county",36007,"June",2020,86000,76300,9700
 "36","NY","New York","Broome County","county",36007,"January",2019,83200,78400,4800
 "36","NY","New York","Broome County","county",36007,"February",2019,83700,79100,4600
 "36","NY","New York","Broome County","county",36007,"March",2019,83900,79600,4300
@@ -105,7 +111,8 @@
 "36","NY","New York","Cattaraugus County","county",36009,"February",2020,35000,32900,2100
 "36","NY","New York","Cattaraugus County","county",36009,"March",2020,34600,32400,2200
 "36","NY","New York","Cattaraugus County","county",36009,"April",2020,35400,29200,6200
-"36","NY","New York","Cattaraugus County","county",36009,"May",2020,34600,30000,4600
+"36","NY","New York","Cattaraugus County","county",36009,"May",2020,34900,30300,4600
+"36","NY","New York","Cattaraugus County","county",36009,"June",2020,35100,30500,4500
 "36","NY","New York","Cattaraugus County","county",36009,"January",2019,34800,32600,2200
 "36","NY","New York","Cattaraugus County","county",36009,"February",2019,34400,32300,2100
 "36","NY","New York","Cattaraugus County","county",36009,"March",2019,33900,32000,1900
@@ -123,6 +130,7 @@
 "36","NY","New York","Cayuga County","county",36011,"March",2020,35200,33400,1800
 "36","NY","New York","Cayuga County","county",36011,"April",2020,35800,30400,5500
 "36","NY","New York","Cayuga County","county",36011,"May",2020,35700,31900,3800
+"36","NY","New York","Cayuga County","county",36011,"June",2020,36100,32200,3800
 "36","NY","New York","Cayuga County","county",36011,"January",2019,36500,34600,1900
 "36","NY","New York","Cayuga County","county",36011,"February",2019,36100,34200,1900
 "36","NY","New York","Cayuga County","county",36011,"March",2019,35400,33700,1700
@@ -139,7 +147,8 @@
 "36","NY","New York","Chautauqua County","county",36013,"February",2020,54600,51500,3100
 "36","NY","New York","Chautauqua County","county",36013,"March",2020,54500,51400,3200
 "36","NY","New York","Chautauqua County","county",36013,"April",2020,55500,46800,8700
-"36","NY","New York","Chautauqua County","county",36013,"May",2020,54700,48600,6100
+"36","NY","New York","Chautauqua County","county",36013,"May",2020,55300,49300,6000
+"36","NY","New York","Chautauqua County","county",36013,"June",2020,55500,49200,6200
 "36","NY","New York","Chautauqua County","county",36013,"January",2019,54600,51500,3100
 "36","NY","New York","Chautauqua County","county",36013,"February",2019,54600,51500,3100
 "36","NY","New York","Chautauqua County","county",36013,"March",2019,54100,51300,2900
@@ -156,7 +165,8 @@
 "36","NY","New York","Chemung County","county",36015,"February",2020,35400,33700,1700
 "36","NY","New York","Chemung County","county",36015,"March",2020,35300,33600,1700
 "36","NY","New York","Chemung County","county",36015,"April",2020,36700,30800,5900
-"36","NY","New York","Chemung County","county",36015,"May",2020,37500,33000,4600
+"36","NY","New York","Chemung County","county",36015,"May",2020,37600,33000,4500
+"36","NY","New York","Chemung County","county",36015,"June",2020,37700,33200,4500
 "36","NY","New York","Chemung County","county",36015,"January",2019,35400,33700,1700
 "36","NY","New York","Chemung County","county",36015,"February",2019,35200,33500,1700
 "36","NY","New York","Chemung County","county",36015,"March",2019,35100,33600,1500
@@ -174,6 +184,7 @@
 "36","NY","New York","Chenango County","county",36017,"March",2020,21900,20700,1200
 "36","NY","New York","Chenango County","county",36017,"April",2020,21700,19200,2600
 "36","NY","New York","Chenango County","county",36017,"May",2020,21900,20100,1800
+"36","NY","New York","Chenango County","county",36017,"June",2020,22100,20200,1900
 "36","NY","New York","Chenango County","county",36017,"January",2019,22600,21300,1300
 "36","NY","New York","Chenango County","county",36017,"February",2019,22300,21000,1300
 "36","NY","New York","Chenango County","county",36017,"March",2019,21800,20600,1100
@@ -190,7 +201,8 @@
 "36","NY","New York","Clinton County","county",36019,"February",2020,36500,34700,1800
 "36","NY","New York","Clinton County","county",36019,"March",2020,36200,34300,1900
 "36","NY","New York","Clinton County","county",36019,"April",2020,37500,31800,5700
-"36","NY","New York","Clinton County","county",36019,"May",2020,37500,33300,4200
+"36","NY","New York","Clinton County","county",36019,"May",2020,37900,33800,4100
+"36","NY","New York","Clinton County","county",36019,"June",2020,37600,33700,3900
 "36","NY","New York","Clinton County","county",36019,"January",2019,36500,34600,1900
 "36","NY","New York","Clinton County","county",36019,"February",2019,36500,34700,1800
 "36","NY","New York","Clinton County","county",36019,"March",2019,36100,34400,1700
@@ -207,7 +219,8 @@
 "36","NY","New York","Columbia County","county",36021,"February",2020,31000,29900,1200
 "36","NY","New York","Columbia County","county",36021,"March",2020,30500,29400,1200
 "36","NY","New York","Columbia County","county",36021,"April",2020,30400,27100,3300
-"36","NY","New York","Columbia County","county",36021,"May",2020,31000,28500,2500
+"36","NY","New York","Columbia County","county",36021,"May",2020,30800,28300,2500
+"36","NY","New York","Columbia County","county",36021,"June",2020,31100,28400,2700
 "36","NY","New York","Columbia County","county",36021,"January",2019,31300,30100,1200
 "36","NY","New York","Columbia County","county",36021,"February",2019,30900,29700,1200
 "36","NY","New York","Columbia County","county",36021,"March",2019,30600,29400,1100
@@ -225,6 +238,7 @@
 "36","NY","New York","Cortland County","county",36023,"March",2020,23200,21800,1300
 "36","NY","New York","Cortland County","county",36023,"April",2020,22600,19400,3200
 "36","NY","New York","Cortland County","county",36023,"May",2020,22500,20200,2300
+"36","NY","New York","Cortland County","county",36023,"June",2020,22400,20100,2300
 "36","NY","New York","Cortland County","county",36023,"January",2019,23200,21700,1500
 "36","NY","New York","Cortland County","county",36023,"February",2019,23500,22100,1500
 "36","NY","New York","Cortland County","county",36023,"March",2019,23200,21900,1300
@@ -242,6 +256,7 @@
 "36","NY","New York","Delaware County","county",36025,"March",2020,18700,17700,1000
 "36","NY","New York","Delaware County","county",36025,"April",2020,18600,16300,2300
 "36","NY","New York","Delaware County","county",36025,"May",2020,18900,17200,1700
+"36","NY","New York","Delaware County","county",36025,"June",2020,19400,17600,1800
 "36","NY","New York","Delaware County","county",36025,"January",2019,19200,18100,1100
 "36","NY","New York","Delaware County","county",36025,"February",2019,19100,18000,1100
 "36","NY","New York","Delaware County","county",36025,"March",2019,18800,17800,1000
@@ -258,7 +273,8 @@
 "36","NY","New York","Dutchess County","county",36027,"February",2020,145200,139600,5600
 "36","NY","New York","Dutchess County","county",36027,"March",2020,144700,139100,5600
 "36","NY","New York","Dutchess County","county",36027,"April",2020,140000,120100,19900
-"36","NY","New York","Dutchess County","county",36027,"May",2020,142200,127100,15100
+"36","NY","New York","Dutchess County","county",36027,"May",2020,142400,127300,15000
+"36","NY","New York","Dutchess County","county",36027,"June",2020,143400,126900,16400
 "36","NY","New York","Dutchess County","county",36027,"January",2019,143200,137500,5700
 "36","NY","New York","Dutchess County","county",36027,"February",2019,143300,137700,5700
 "36","NY","New York","Dutchess County","county",36027,"March",2019,143800,138500,5200
@@ -275,7 +291,8 @@
 "36","NY","New York","Erie County","county",36029,"February",2020,443700,422900,20800
 "36","NY","New York","Erie County","county",36029,"March",2020,442800,421700,21200
 "36","NY","New York","Erie County","county",36029,"April",2020,438100,356200,81800
-"36","NY","New York","Erie County","county",36029,"May",2020,441200,379900,61300
+"36","NY","New York","Erie County","county",36029,"May",2020,443600,382600,61000
+"36","NY","New York","Erie County","county",36029,"June",2020,448000,387600,60500
 "36","NY","New York","Erie County","county",36029,"January",2019,440600,418600,22000
 "36","NY","New York","Erie County","county",36029,"February",2019,439700,418600,21200
 "36","NY","New York","Erie County","county",36029,"March",2019,440800,421400,19400
@@ -293,6 +310,7 @@
 "36","NY","New York","Essex County","county",36031,"March",2020,17200,16100,1100
 "36","NY","New York","Essex County","county",36031,"April",2020,16500,13700,2800
 "36","NY","New York","Essex County","county",36031,"May",2020,16500,14600,1900
+"36","NY","New York","Essex County","county",36031,"June",2020,17000,15200,1800
 "36","NY","New York","Essex County","county",36031,"January",2019,17600,16500,1100
 "36","NY","New York","Essex County","county",36031,"February",2019,17300,16200,1100
 "36","NY","New York","Essex County","county",36031,"March",2019,17000,16000,1000
@@ -309,7 +327,8 @@
 "36","NY","New York","Franklin County","county",36033,"February",2020,19900,18800,1100
 "36","NY","New York","Franklin County","county",36033,"March",2020,19600,18500,1100
 "36","NY","New York","Franklin County","county",36033,"April",2020,20000,17100,2900
-"36","NY","New York","Franklin County","county",36033,"May",2020,20100,17900,2200
+"36","NY","New York","Franklin County","county",36033,"May",2020,20000,17800,2200
+"36","NY","New York","Franklin County","county",36033,"June",2020,20100,17900,2200
 "36","NY","New York","Franklin County","county",36033,"January",2019,19800,18600,1200
 "36","NY","New York","Franklin County","county",36033,"February",2019,19900,18700,1200
 "36","NY","New York","Franklin County","county",36033,"March",2019,19500,18400,1100
@@ -326,7 +345,8 @@
 "36","NY","New York","Fulton County","county",36035,"February",2020,22900,21600,1300
 "36","NY","New York","Fulton County","county",36035,"March",2020,22900,21500,1300
 "36","NY","New York","Fulton County","county",36035,"April",2020,22600,19200,3500
-"36","NY","New York","Fulton County","county",36035,"May",2020,22800,20200,2500
+"36","NY","New York","Fulton County","county",36035,"May",2020,22700,20200,2500
+"36","NY","New York","Fulton County","county",36035,"June",2020,22700,20100,2600
 "36","NY","New York","Fulton County","county",36035,"January",2019,22700,21400,1400
 "36","NY","New York","Fulton County","county",36035,"February",2019,22600,21200,1400
 "36","NY","New York","Fulton County","county",36035,"March",2019,22600,21300,1300
@@ -344,6 +364,7 @@
 "36","NY","New York","Genesee County","county",36037,"March",2020,29300,27800,1400
 "36","NY","New York","Genesee County","county",36037,"April",2020,29400,25200,4200
 "36","NY","New York","Genesee County","county",36037,"May",2020,29500,26500,3000
+"36","NY","New York","Genesee County","county",36037,"June",2020,29500,26700,2800
 "36","NY","New York","Genesee County","county",36037,"January",2019,30100,28500,1600
 "36","NY","New York","Genesee County","county",36037,"February",2019,29600,28100,1600
 "36","NY","New York","Genesee County","county",36037,"March",2019,29100,27700,1400
@@ -361,6 +382,7 @@
 "36","NY","New York","Greene County","county",36039,"March",2020,20600,19600,1000
 "36","NY","New York","Greene County","county",36039,"April",2020,20600,17500,3000
 "36","NY","New York","Greene County","county",36039,"May",2020,20800,18500,2300
+"36","NY","New York","Greene County","county",36039,"June",2020,20900,18500,2400
 "36","NY","New York","Greene County","county",36039,"January",2019,20800,19700,1100
 "36","NY","New York","Greene County","county",36039,"February",2019,20500,19500,1100
 "36","NY","New York","Greene County","county",36039,"March",2019,20300,19300,1000
@@ -378,6 +400,7 @@
 "36","NY","New York","Hamilton County","county",36041,"March",2020,2100,1900,200
 "36","NY","New York","Hamilton County","county",36041,"April",2020,2200,1900,300
 "36","NY","New York","Hamilton County","county",36041,"May",2020,2300,2100,200
+"36","NY","New York","Hamilton County","county",36041,"June",2020,2400,2200,200
 "36","NY","New York","Hamilton County","county",36041,"January",2019,2200,2000,200
 "36","NY","New York","Hamilton County","county",36041,"February",2019,2100,2000,200
 "36","NY","New York","Hamilton County","county",36041,"March",2019,2100,2000,200
@@ -394,7 +417,8 @@
 "36","NY","New York","Herkimer County","county",36043,"February",2020,28100,26500,1600
 "36","NY","New York","Herkimer County","county",36043,"March",2020,27900,26200,1600
 "36","NY","New York","Herkimer County","county",36043,"April",2020,27400,23400,4100
-"36","NY","New York","Herkimer County","county",36043,"May",2020,27400,24600,2800
+"36","NY","New York","Herkimer County","county",36043,"May",2020,27500,24700,2800
+"36","NY","New York","Herkimer County","county",36043,"June",2020,27700,25000,2700
 "36","NY","New York","Herkimer County","county",36043,"January",2019,28300,26600,1700
 "36","NY","New York","Herkimer County","county",36043,"February",2019,28200,26500,1700
 "36","NY","New York","Herkimer County","county",36043,"March",2019,27900,26300,1600
@@ -411,7 +435,8 @@
 "36","NY","New York","Jefferson County","county",36045,"February",2020,43800,40700,3100
 "36","NY","New York","Jefferson County","county",36045,"March",2020,43600,40500,3100
 "36","NY","New York","Jefferson County","county",36045,"April",2020,42600,35300,7300
-"36","NY","New York","Jefferson County","county",36045,"May",2020,42200,37200,5100
+"36","NY","New York","Jefferson County","county",36045,"May",2020,42500,37500,5000
+"36","NY","New York","Jefferson County","county",36045,"June",2020,43200,38300,4800
 "36","NY","New York","Jefferson County","county",36045,"January",2019,43800,40700,3100
 "36","NY","New York","Jefferson County","county",36045,"February",2019,43800,40700,3100
 "36","NY","New York","Jefferson County","county",36045,"March",2019,43500,40700,2800
@@ -428,7 +453,8 @@
 "36","NY","New York","Kings County","county",36047,"February",2020,1201300,1159600,41700
 "36","NY","New York","Kings County","county",36047,"March",2020,1171500,1122800,48800
 "36","NY","New York","Kings County","county",36047,"April",2020,1098000,936700,161200
-"36","NY","New York","Kings County","county",36047,"May",2020,1076400,880500,195900
+"36","NY","New York","Kings County","county",36047,"May",2020,1076800,881100,195700
+"36","NY","New York","Kings County","county",36047,"June",2020,1171500,931300,240200
 "36","NY","New York","Kings County","county",36047,"January",2019,1205100,1144400,60800
 "36","NY","New York","Kings County","county",36047,"February",2019,1212800,1156200,56600
 "36","NY","New York","Kings County","county",36047,"March",2019,1209000,1156000,53000
@@ -445,7 +471,8 @@
 "36","NY","New York","Lewis County","county",36049,"February",2020,11900,11000,900
 "36","NY","New York","Lewis County","county",36049,"March",2020,11600,10700,900
 "36","NY","New York","Lewis County","county",36049,"April",2020,11200,9600,1600
-"36","NY","New York","Lewis County","county",36049,"May",2020,11100,10000,1100
+"36","NY","New York","Lewis County","county",36049,"May",2020,11000,10000,1000
+"36","NY","New York","Lewis County","county",36049,"June",2020,11400,10300,1000
 "36","NY","New York","Lewis County","county",36049,"January",2019,12100,11200,900
 "36","NY","New York","Lewis County","county",36049,"February",2019,11700,10800,900
 "36","NY","New York","Lewis County","county",36049,"March",2019,11400,10600,900
@@ -462,7 +489,8 @@
 "36","NY","New York","Livingston County","county",36051,"February",2020,31100,29500,1500
 "36","NY","New York","Livingston County","county",36051,"March",2020,30600,29100,1500
 "36","NY","New York","Livingston County","county",36051,"April",2020,29400,25300,4100
-"36","NY","New York","Livingston County","county",36051,"May",2020,29400,26600,2800
+"36","NY","New York","Livingston County","county",36051,"May",2020,29500,26700,2800
+"36","NY","New York","Livingston County","county",36051,"June",2020,29800,27000,2800
 "36","NY","New York","Livingston County","county",36051,"January",2019,31200,29500,1600
 "36","NY","New York","Livingston County","county",36051,"February",2019,31100,29400,1700
 "36","NY","New York","Livingston County","county",36051,"March",2019,30600,29100,1500
@@ -480,6 +508,7 @@
 "36","NY","New York","Madison County","county",36053,"March",2020,32700,31000,1700
 "36","NY","New York","Madison County","county",36053,"April",2020,32000,26800,5200
 "36","NY","New York","Madison County","county",36053,"May",2020,32000,28400,3600
+"36","NY","New York","Madison County","county",36053,"June",2020,31900,28500,3400
 "36","NY","New York","Madison County","county",36053,"January",2019,33200,31300,1900
 "36","NY","New York","Madison County","county",36053,"February",2019,32900,31000,1800
 "36","NY","New York","Madison County","county",36053,"March",2019,32500,30800,1700
@@ -496,7 +525,8 @@
 "36","NY","New York","Monroe County","county",36055,"February",2020,364800,349000,15800
 "36","NY","New York","Monroe County","county",36055,"March",2020,363000,346900,16100
 "36","NY","New York","Monroe County","county",36055,"April",2020,352300,299300,53100
-"36","NY","New York","Monroe County","county",36055,"May",2020,357100,316200,40900
+"36","NY","New York","Monroe County","county",36055,"May",2020,358100,317300,40800
+"36","NY","New York","Monroe County","county",36055,"June",2020,361600,318400,43200
 "36","NY","New York","Monroe County","county",36055,"January",2019,358900,342400,16500
 "36","NY","New York","Monroe County","county",36055,"February",2019,361700,345300,16400
 "36","NY","New York","Monroe County","county",36055,"March",2019,361400,346200,15200
@@ -514,6 +544,7 @@
 "36","NY","New York","Montgomery County","county",36057,"March",2020,22200,20900,1400
 "36","NY","New York","Montgomery County","county",36057,"April",2020,21700,18500,3200
 "36","NY","New York","Montgomery County","county",36057,"May",2020,21900,19500,2400
+"36","NY","New York","Montgomery County","county",36057,"June",2020,22100,19500,2600
 "36","NY","New York","Montgomery County","county",36057,"January",2019,22700,21300,1400
 "36","NY","New York","Montgomery County","county",36057,"February",2019,22300,20800,1400
 "36","NY","New York","Montgomery County","county",36057,"March",2019,22000,20800,1300
@@ -530,7 +561,8 @@
 "36","NY","New York","Nassau County","county",36059,"February",2020,712000,687100,24900
 "36","NY","New York","Nassau County","county",36059,"March",2020,707400,682000,25300
 "36","NY","New York","Nassau County","county",36059,"April",2020,678000,572000,106000
-"36","NY","New York","Nassau County","county",36059,"May",2020,700800,616500,84300
+"36","NY","New York","Nassau County","county",36059,"May",2020,696400,612400,84000
+"36","NY","New York","Nassau County","county",36059,"June",2020,713100,620500,92600
 "36","NY","New York","Nassau County","county",36059,"January",2019,698400,672300,26100
 "36","NY","New York","Nassau County","county",36059,"February",2019,698800,672800,26000
 "36","NY","New York","Nassau County","county",36059,"March",2019,704300,680600,23800
@@ -547,7 +579,8 @@
 "36","NY","New York","New York County","county",36061,"February",2020,915100,887500,27600
 "36","NY","New York","New York County","county",36061,"March",2020,892100,859600,32500
 "36","NY","New York","New York County","county",36061,"April",2020,805900,717100,88900
-"36","NY","New York","New York County","county",36061,"May",2020,781500,674200,107300
+"36","NY","New York","New York County","county",36061,"May",2020,781700,674700,107000
+"36","NY","New York","New York County","county",36061,"June",2020,848900,712900,136000
 "36","NY","New York","New York County","county",36061,"January",2019,916100,875700,40500
 "36","NY","New York","New York County","county",36061,"February",2019,922200,884900,37300
 "36","NY","New York","New York County","county",36061,"March",2019,919600,884900,34700
@@ -564,7 +597,8 @@
 "36","NY","New York","Niagara County","county",36063,"February",2020,99700,93900,5800
 "36","NY","New York","Niagara County","county",36063,"March",2020,99300,93500,5900
 "36","NY","New York","Niagara County","county",36063,"April",2020,101300,79100,22200
-"36","NY","New York","Niagara County","county",36063,"May",2020,100300,84200,16000
+"36","NY","New York","Niagara County","county",36063,"May",2020,100800,84800,15900
+"36","NY","New York","Niagara County","county",36063,"June",2020,100800,86100,14700
 "36","NY","New York","Niagara County","county",36063,"January",2019,99500,93300,6200
 "36","NY","New York","Niagara County","county",36063,"February",2019,99000,93100,5900
 "36","NY","New York","Niagara County","county",36063,"March",2019,98900,93500,5400
@@ -581,7 +615,8 @@
 "36","NY","New York","Oneida County","county",36065,"February",2020,101300,96600,4600
 "36","NY","New York","Oneida County","county",36065,"March",2020,100800,96000,4700
 "36","NY","New York","Oneida County","county",36065,"April",2020,100500,85300,15200
-"36","NY","New York","Oneida County","county",36065,"May",2020,101500,89900,11600
+"36","NY","New York","Oneida County","county",36065,"May",2020,102000,90400,11500
+"36","NY","New York","Oneida County","county",36065,"June",2020,102300,91100,11300
 "36","NY","New York","Oneida County","county",36065,"January",2019,101500,96300,5200
 "36","NY","New York","Oneida County","county",36065,"February",2019,101500,96500,5000
 "36","NY","New York","Oneida County","county",36065,"March",2019,101000,96400,4600
@@ -598,7 +633,8 @@
 "36","NY","New York","Onondaga County","county",36067,"February",2020,222500,213000,9400
 "36","NY","New York","Onondaga County","county",36067,"March",2020,221600,212100,9500
 "36","NY","New York","Onondaga County","county",36067,"April",2020,217600,182600,35000
-"36","NY","New York","Onondaga County","county",36067,"May",2020,220300,194100,26200
+"36","NY","New York","Onondaga County","county",36067,"May",2020,220400,194300,26100
+"36","NY","New York","Onondaga County","county",36067,"June",2020,219800,193200,26600
 "36","NY","New York","Onondaga County","county",36067,"January",2019,218900,209100,9800
 "36","NY","New York","Onondaga County","county",36067,"February",2019,219500,209700,9800
 "36","NY","New York","Onondaga County","county",36067,"March",2019,219400,210300,9000
@@ -615,7 +651,8 @@
 "36","NY","New York","Ontario County","county",36069,"February",2020,56000,53500,2500
 "36","NY","New York","Ontario County","county",36069,"March",2020,55600,53000,2500
 "36","NY","New York","Ontario County","county",36069,"April",2020,53700,45900,7800
-"36","NY","New York","Ontario County","county",36069,"May",2020,53800,48400,5500
+"36","NY","New York","Ontario County","county",36069,"May",2020,54000,48500,5400
+"36","NY","New York","Ontario County","county",36069,"June",2020,54500,48900,5600
 "36","NY","New York","Ontario County","county",36069,"January",2019,55600,53000,2600
 "36","NY","New York","Ontario County","county",36069,"February",2019,55800,53100,2700
 "36","NY","New York","Ontario County","county",36069,"March",2019,55400,53000,2400
@@ -632,7 +669,8 @@
 "36","NY","New York","Orange County","county",36071,"February",2020,184800,177300,7500
 "36","NY","New York","Orange County","county",36071,"March",2020,183800,176300,7600
 "36","NY","New York","Orange County","county",36071,"April",2020,176800,149100,27800
-"36","NY","New York","Orange County","county",36071,"May",2020,180200,158800,21400
+"36","NY","New York","Orange County","county",36071,"May",2020,180600,159200,21400
+"36","NY","New York","Orange County","county",36071,"June",2020,182800,159600,23200
 "36","NY","New York","Orange County","county",36071,"January",2019,183800,176300,7500
 "36","NY","New York","Orange County","county",36071,"February",2019,183800,176300,7500
 "36","NY","New York","Orange County","county",36071,"March",2019,183800,176800,7000
@@ -649,7 +687,8 @@
 "36","NY","New York","Orleans County","county",36073,"February",2020,17700,16700,1000
 "36","NY","New York","Orleans County","county",36073,"March",2020,17300,16400,900
 "36","NY","New York","Orleans County","county",36073,"April",2020,17000,14300,2700
-"36","NY","New York","Orleans County","county",36073,"May",2020,16900,15000,2000
+"36","NY","New York","Orleans County","county",36073,"May",2020,17000,15000,1900
+"36","NY","New York","Orleans County","county",36073,"June",2020,17200,15300,1900
 "36","NY","New York","Orleans County","county",36073,"January",2019,17900,16900,1000
 "36","NY","New York","Orleans County","county",36073,"February",2019,17700,16700,1000
 "36","NY","New York","Orleans County","county",36073,"March",2019,17300,16500,900
@@ -667,6 +706,7 @@
 "36","NY","New York","Oswego County","county",36075,"March",2020,53300,50000,3300
 "36","NY","New York","Oswego County","county",36075,"April",2020,52000,43100,8900
 "36","NY","New York","Oswego County","county",36075,"May",2020,52200,45800,6400
+"36","NY","New York","Oswego County","county",36075,"June",2020,51800,45700,6100
 "36","NY","New York","Oswego County","county",36075,"January",2019,53300,49600,3700
 "36","NY","New York","Oswego County","county",36075,"February",2019,53100,49600,3500
 "36","NY","New York","Oswego County","county",36075,"March",2019,52800,49600,3100
@@ -683,7 +723,8 @@
 "36","NY","New York","Otsego County","county",36077,"February",2020,28200,26800,1400
 "36","NY","New York","Otsego County","county",36077,"March",2020,28000,26500,1400
 "36","NY","New York","Otsego County","county",36077,"April",2020,26700,23500,3200
-"36","NY","New York","Otsego County","county",36077,"May",2020,27000,24700,2300
+"36","NY","New York","Otsego County","county",36077,"May",2020,26900,24700,2300
+"36","NY","New York","Otsego County","county",36077,"June",2020,27200,24600,2500
 "36","NY","New York","Otsego County","county",36077,"January",2019,27800,26200,1600
 "36","NY","New York","Otsego County","county",36077,"February",2019,27900,26400,1500
 "36","NY","New York","Otsego County","county",36077,"March",2019,27800,26500,1300
@@ -700,7 +741,8 @@
 "36","NY","New York","Putnam County","county",36079,"February",2020,51700,49700,2000
 "36","NY","New York","Putnam County","county",36079,"March",2020,51700,49600,2100
 "36","NY","New York","Putnam County","county",36079,"April",2020,49900,42700,7200
-"36","NY","New York","Putnam County","county",36079,"May",2020,50700,45300,5400
+"36","NY","New York","Putnam County","county",36079,"May",2020,50700,45400,5300
+"36","NY","New York","Putnam County","county",36079,"June",2020,50800,45100,5700
 "36","NY","New York","Putnam County","county",36079,"January",2019,50700,48700,2000
 "36","NY","New York","Putnam County","county",36079,"February",2019,51000,48900,2100
 "36","NY","New York","Putnam County","county",36079,"March",2019,51200,49300,1900
@@ -717,7 +759,8 @@
 "36","NY","New York","Queens County","county",36081,"February",2020,1143500,1109400,34100
 "36","NY","New York","Queens County","county",36081,"March",2020,1113200,1073700,39500
 "36","NY","New York","Queens County","county",36081,"April",2020,1071600,896100,175500
-"36","NY","New York","Queens County","county",36081,"May",2020,1051100,841900,209200
+"36","NY","New York","Queens County","county",36081,"May",2020,1050600,842600,208100
+"36","NY","New York","Queens County","county",36081,"June",2020,1139000,890800,248100
 "36","NY","New York","Queens County","county",36081,"January",2019,1145200,1095400,49800
 "36","NY","New York","Queens County","county",36081,"February",2019,1152800,1106400,46500
 "36","NY","New York","Queens County","county",36081,"March",2019,1149000,1105700,43200
@@ -734,7 +777,8 @@
 "36","NY","New York","Rensselaer County","county",36083,"February",2020,82600,79300,3400
 "36","NY","New York","Rensselaer County","county",36083,"March",2020,82400,78900,3400
 "36","NY","New York","Rensselaer County","county",36083,"April",2020,79600,69800,9800
-"36","NY","New York","Rensselaer County","county",36083,"May",2020,81600,74000,7500
+"36","NY","New York","Rensselaer County","county",36083,"May",2020,81400,73900,7500
+"36","NY","New York","Rensselaer County","county",36083,"June",2020,81200,73100,8100
 "36","NY","New York","Rensselaer County","county",36083,"January",2019,80800,77300,3600
 "36","NY","New York","Rensselaer County","county",36083,"February",2019,80900,77400,3500
 "36","NY","New York","Rensselaer County","county",36083,"March",2019,80800,77600,3300
@@ -751,7 +795,8 @@
 "36","NY","New York","Richmond County","county",36085,"February",2020,222800,215400,7400
 "36","NY","New York","Richmond County","county",36085,"March",2020,216500,208200,8300
 "36","NY","New York","Richmond County","county",36085,"April",2020,202200,173900,28300
-"36","NY","New York","Richmond County","county",36085,"May",2020,195400,163100,32300
+"36","NY","New York","Richmond County","county",36085,"May",2020,195500,163200,32300
+"36","NY","New York","Richmond County","county",36085,"June",2020,211000,172700,38300
 "36","NY","New York","Richmond County","county",36085,"January",2019,223600,212700,10900
 "36","NY","New York","Richmond County","county",36085,"February",2019,224800,214800,10000
 "36","NY","New York","Richmond County","county",36085,"March",2019,223900,214600,9300
@@ -768,7 +813,8 @@
 "36","NY","New York","Rockland County","county",36087,"February",2020,155300,149600,5700
 "36","NY","New York","Rockland County","county",36087,"March",2020,155100,149300,5700
 "36","NY","New York","Rockland County","county",36087,"April",2020,146000,125900,20100
-"36","NY","New York","Rockland County","county",36087,"May",2020,151200,134600,16700
+"36","NY","New York","Rockland County","county",36087,"May",2020,151800,134900,16900
+"36","NY","New York","Rockland County","county",36087,"June",2020,153200,134600,18600
 "36","NY","New York","Rockland County","county",36087,"January",2019,153600,147700,5900
 "36","NY","New York","Rockland County","county",36087,"February",2019,154300,148300,6000
 "36","NY","New York","Rockland County","county",36087,"March",2019,155000,149500,5500
@@ -785,7 +831,8 @@
 "36","NY","New York","Saratoga County","county",36091,"February",2020,121100,116700,4400
 "36","NY","New York","Saratoga County","county",36091,"March",2020,120700,116200,4500
 "36","NY","New York","Saratoga County","county",36091,"April",2020,118400,102700,15600
-"36","NY","New York","Saratoga County","county",36091,"May",2020,120700,109000,11700
+"36","NY","New York","Saratoga County","county",36091,"May",2020,120400,108800,11600
+"36","NY","New York","Saratoga County","county",36091,"June",2020,120000,107700,12300
 "36","NY","New York","Saratoga County","county",36091,"January",2019,118600,113900,4800
 "36","NY","New York","Saratoga County","county",36091,"February",2019,118700,114000,4700
 "36","NY","New York","Saratoga County","county",36091,"March",2019,118600,114200,4400
@@ -802,7 +849,8 @@
 "36","NY","New York","Schenectady County","county",36093,"February",2020,77300,74300,3100
 "36","NY","New York","Schenectady County","county",36093,"March",2020,77100,74000,3100
 "36","NY","New York","Schenectady County","county",36093,"April",2020,75500,65400,10100
-"36","NY","New York","Schenectady County","county",36093,"May",2020,77700,69400,8300
+"36","NY","New York","Schenectady County","county",36093,"May",2020,77500,69300,8300
+"36","NY","New York","Schenectady County","county",36093,"June",2020,77600,68500,9100
 "36","NY","New York","Schenectady County","county",36093,"January",2019,75600,72300,3300
 "36","NY","New York","Schenectady County","county",36093,"February",2019,75800,72500,3300
 "36","NY","New York","Schenectady County","county",36093,"March",2019,75800,72700,3100
@@ -820,6 +868,7 @@
 "36","NY","New York","Schoharie County","county",36095,"March",2020,14800,13900,900
 "36","NY","New York","Schoharie County","county",36095,"April",2020,14000,12400,1700
 "36","NY","New York","Schoharie County","county",36095,"May",2020,14300,13100,1200
+"36","NY","New York","Schoharie County","county",36095,"June",2020,14400,13000,1300
 "36","NY","New York","Schoharie County","county",36095,"January",2019,15000,14000,1000
 "36","NY","New York","Schoharie County","county",36095,"February",2019,14800,13900,900
 "36","NY","New York","Schoharie County","county",36095,"March",2019,14500,13700,800
@@ -837,6 +886,7 @@
 "36","NY","New York","Schuyler County","county",36097,"March",2020,7900,7400,500
 "36","NY","New York","Schuyler County","county",36097,"April",2020,8300,6900,1400
 "36","NY","New York","Schuyler County","county",36097,"May",2020,8400,7400,1000
+"36","NY","New York","Schuyler County","county",36097,"June",2020,8400,7400,900
 "36","NY","New York","Schuyler County","county",36097,"January",2019,8100,7600,500
 "36","NY","New York","Schuyler County","county",36097,"February",2019,8100,7500,500
 "36","NY","New York","Schuyler County","county",36097,"March",2019,7900,7500,500
@@ -854,6 +904,7 @@
 "36","NY","New York","Seneca County","county",36099,"March",2020,16000,15200,800
 "36","NY","New York","Seneca County","county",36099,"April",2020,15900,13500,2400
 "36","NY","New York","Seneca County","county",36099,"May",2020,16100,14300,1800
+"36","NY","New York","Seneca County","county",36099,"June",2020,16100,14300,1800
 "36","NY","New York","Seneca County","county",36099,"January",2019,16100,15300,800
 "36","NY","New York","Seneca County","county",36099,"February",2019,15900,15200,700
 "36","NY","New York","Seneca County","county",36099,"March",2019,15800,15100,700
@@ -870,7 +921,8 @@
 "36","NY","New York","St. Lawrence County","county",36089,"February",2020,44000,41400,2700
 "36","NY","New York","St. Lawrence County","county",36089,"March",2020,43700,40900,2800
 "36","NY","New York","St. Lawrence County","county",36089,"April",2020,44600,38300,6200
-"36","NY","New York","St. Lawrence County","county",36089,"May",2020,44500,39900,4600
+"36","NY","New York","St. Lawrence County","county",36089,"May",2020,44700,40100,4600
+"36","NY","New York","St. Lawrence County","county",36089,"June",2020,44100,39400,4700
 "36","NY","New York","St. Lawrence County","county",36089,"January",2019,43400,40500,2900
 "36","NY","New York","St. Lawrence County","county",36089,"February",2019,43900,41100,2800
 "36","NY","New York","St. Lawrence County","county",36089,"March",2019,43300,40600,2700
@@ -887,7 +939,8 @@
 "36","NY","New York","Steuben County","county",36101,"February",2020,42800,40500,2300
 "36","NY","New York","Steuben County","county",36101,"March",2020,42100,39800,2200
 "36","NY","New York","Steuben County","county",36101,"April",2020,43000,36400,6600
-"36","NY","New York","Steuben County","county",36101,"May",2020,43000,38100,4900
+"36","NY","New York","Steuben County","county",36101,"May",2020,42900,38100,4800
+"36","NY","New York","Steuben County","county",36101,"June",2020,43200,38400,4800
 "36","NY","New York","Steuben County","county",36101,"January",2019,43400,40900,2500
 "36","NY","New York","Steuben County","county",36101,"February",2019,42800,40300,2500
 "36","NY","New York","Steuben County","county",36101,"March",2019,42200,40000,2200
@@ -904,7 +957,8 @@
 "36","NY","New York","Suffolk County","county",36103,"February",2020,783900,752500,31500
 "36","NY","New York","Suffolk County","county",36103,"March",2020,777500,745900,31600
 "36","NY","New York","Suffolk County","county",36103,"April",2020,749500,626200,123300
-"36","NY","New York","Suffolk County","county",36103,"May",2020,769600,674200,95400
+"36","NY","New York","Suffolk County","county",36103,"May",2020,764800,669700,95000
+"36","NY","New York","Suffolk County","county",36103,"June",2020,780000,679600,100400
 "36","NY","New York","Suffolk County","county",36103,"January",2019,771400,737600,33800
 "36","NY","New York","Suffolk County","county",36103,"February",2019,769800,737400,32400
 "36","NY","New York","Suffolk County","county",36103,"March",2019,774300,744800,29500
@@ -921,7 +975,8 @@
 "36","NY","New York","Sullivan County","county",36105,"February",2020,37000,35300,1700
 "36","NY","New York","Sullivan County","county",36105,"March",2020,36900,35200,1700
 "36","NY","New York","Sullivan County","county",36105,"April",2020,37100,32200,4900
-"36","NY","New York","Sullivan County","county",36105,"May",2020,38000,33900,4100
+"36","NY","New York","Sullivan County","county",36105,"May",2020,38300,34100,4100
+"36","NY","New York","Sullivan County","county",36105,"June",2020,38800,34000,4700
 "36","NY","New York","Sullivan County","county",36105,"January",2019,36000,34300,1700
 "36","NY","New York","Sullivan County","county",36105,"February",2019,35700,34000,1700
 "36","NY","New York","Sullivan County","county",36105,"March",2019,35600,34100,1600
@@ -938,7 +993,8 @@
 "36","NY","New York","Tioga County","county",36107,"February",2020,22900,21800,1200
 "36","NY","New York","Tioga County","county",36107,"March",2020,22800,21700,1200
 "36","NY","New York","Tioga County","county",36107,"April",2020,23100,19700,3500
-"36","NY","New York","Tioga County","county",36107,"May",2020,23400,21000,2400
+"36","NY","New York","Tioga County","county",36107,"May",2020,23500,21100,2400
+"36","NY","New York","Tioga County","county",36107,"June",2020,23200,20800,2400
 "36","NY","New York","Tioga County","county",36107,"January",2019,22700,21500,1100
 "36","NY","New York","Tioga County","county",36107,"February",2019,22800,21600,1200
 "36","NY","New York","Tioga County","county",36107,"March",2019,22800,21700,1100
@@ -955,7 +1011,8 @@
 "36","NY","New York","Tompkins County","county",36109,"February",2020,50400,48600,1800
 "36","NY","New York","Tompkins County","county",36109,"March",2020,49900,48100,1700
 "36","NY","New York","Tompkins County","county",36109,"April",2020,48400,43500,4900
-"36","NY","New York","Tompkins County","county",36109,"May",2020,49800,45900,3900
+"36","NY","New York","Tompkins County","county",36109,"May",2020,49500,45700,3900
+"36","NY","New York","Tompkins County","county",36109,"June",2020,49200,44800,4400
 "36","NY","New York","Tompkins County","county",36109,"January",2019,48700,46700,1900
 "36","NY","New York","Tompkins County","county",36109,"February",2019,51000,49100,1900
 "36","NY","New York","Tompkins County","county",36109,"March",2019,50800,49000,1800
@@ -972,7 +1029,8 @@
 "36","NY","New York","Ulster County","county",36111,"February",2020,88500,84900,3600
 "36","NY","New York","Ulster County","county",36111,"March",2020,88600,85000,3600
 "36","NY","New York","Ulster County","county",36111,"April",2020,87800,74700,13100
-"36","NY","New York","Ulster County","county",36111,"May",2020,89400,79600,9800
+"36","NY","New York","Ulster County","county",36111,"May",2020,90200,80400,9700
+"36","NY","New York","Ulster County","county",36111,"June",2020,90700,80500,10200
 "36","NY","New York","Ulster County","county",36111,"January",2019,87000,83100,3800
 "36","NY","New York","Ulster County","county",36111,"February",2019,87000,83200,3800
 "36","NY","New York","Ulster County","county",36111,"March",2019,87200,83700,3400
@@ -989,7 +1047,8 @@
 "36","NY","New York","Warren County","county",36113,"February",2020,31300,29600,1700
 "36","NY","New York","Warren County","county",36113,"March",2020,31100,29400,1800
 "36","NY","New York","Warren County","county",36113,"April",2020,30700,25300,5300
-"36","NY","New York","Warren County","county",36113,"May",2020,31300,27500,3800
+"36","NY","New York","Warren County","county",36113,"May",2020,31500,27700,3800
+"36","NY","New York","Warren County","county",36113,"June",2020,31300,27700,3700
 "36","NY","New York","Warren County","county",36113,"January",2019,30700,28800,1900
 "36","NY","New York","Warren County","county",36113,"February",2019,30700,28900,1800
 "36","NY","New York","Warren County","county",36113,"March",2019,30700,28900,1700
@@ -1006,7 +1065,8 @@
 "36","NY","New York","Washington County","county",36115,"February",2020,27700,26300,1300
 "36","NY","New York","Washington County","county",36115,"March",2020,27200,25900,1300
 "36","NY","New York","Washington County","county",36115,"April",2020,26200,22500,3700
-"36","NY","New York","Washington County","county",36115,"May",2020,26900,24200,2700
+"36","NY","New York","Washington County","county",36115,"May",2020,27100,24400,2700
+"36","NY","New York","Washington County","county",36115,"June",2020,27400,24700,2700
 "36","NY","New York","Washington County","county",36115,"January",2019,27700,26200,1500
 "36","NY","New York","Washington County","county",36115,"February",2019,27400,25900,1500
 "36","NY","New York","Washington County","county",36115,"March",2019,27000,25600,1400
@@ -1023,7 +1083,8 @@
 "36","NY","New York","Wayne County","county",36117,"February",2020,44300,42200,2200
 "36","NY","New York","Wayne County","county",36117,"March",2020,43600,41500,2200
 "36","NY","New York","Wayne County","county",36117,"April",2020,42100,36100,6000
-"36","NY","New York","Wayne County","county",36117,"May",2020,42200,37900,4300
+"36","NY","New York","Wayne County","county",36117,"May",2020,42300,38000,4200
+"36","NY","New York","Wayne County","county",36117,"June",2020,42800,38600,4200
 "36","NY","New York","Wayne County","county",36117,"January",2019,44400,42200,2100
 "36","NY","New York","Wayne County","county",36117,"February",2019,44200,42100,2100
 "36","NY","New York","Wayne County","county",36117,"March",2019,43600,41600,2000
@@ -1040,7 +1101,8 @@
 "36","NY","New York","Westchester County","county",36119,"February",2020,484900,466100,18800
 "36","NY","New York","Westchester County","county",36119,"March",2020,485200,465800,19300
 "36","NY","New York","Westchester County","county",36119,"April",2020,457100,392500,64600
-"36","NY","New York","Westchester County","county",36119,"May",2020,472700,419800,52900
+"36","NY","New York","Westchester County","county",36119,"May",2020,473600,420900,52700
+"36","NY","New York","Westchester County","county",36119,"June",2020,479800,419700,60100
 "36","NY","New York","Westchester County","county",36119,"January",2019,479300,459800,19500
 "36","NY","New York","Westchester County","county",36119,"February",2019,481400,461900,19500
 "36","NY","New York","Westchester County","county",36119,"March",2019,484100,466000,18100
@@ -1058,6 +1120,7 @@
 "36","NY","New York","Wyoming County","county",36121,"March",2020,17600,16500,1100
 "36","NY","New York","Wyoming County","county",36121,"April",2020,17900,15200,2800
 "36","NY","New York","Wyoming County","county",36121,"May",2020,17700,15900,1800
+"36","NY","New York","Wyoming County","county",36121,"June",2020,17900,16200,1600
 "36","NY","New York","Wyoming County","county",36121,"January",2019,18800,17600,1200
 "36","NY","New York","Wyoming County","county",36121,"February",2019,18200,17100,1100
 "36","NY","New York","Wyoming County","county",36121,"March",2019,17700,16700,1000
@@ -1074,7 +1137,8 @@
 "36","NY","New York","Yates County","county",36123,"February",2020,12000,11400,600
 "36","NY","New York","Yates County","county",36123,"March",2020,11600,11000,600
 "36","NY","New York","Yates County","county",36123,"April",2020,11200,9700,1500
-"36","NY","New York","Yates County","county",36123,"May",2020,11100,10100,1000
+"36","NY","New York","Yates County","county",36123,"May",2020,11100,10200,1000
+"36","NY","New York","Yates County","county",36123,"June",2020,11400,10400,1000
 "36","NY","New York","Yates County","county",36123,"January",2019,12300,11700,600
 "36","NY","New York","Yates County","county",36123,"February",2019,12000,11500,600
 "36","NY","New York","Yates County","county",36123,"March",2019,11600,11100,500
@@ -1091,7 +1155,8 @@
 "36","NY","New York","Albany","city",NA,"February",2020,47100,45200,1900
 "36","NY","New York","Albany","city",NA,"March",2020,47000,45000,2000
 "36","NY","New York","Albany","city",NA,"April",2020,46000,39800,6100
-"36","NY","New York","Albany","city",NA,"May",2020,47600,42200,5400
+"36","NY","New York","Albany","city",NA,"May",2020,47500,42100,5400
+"36","NY","New York","Albany","city",NA,"June",2020,48000,41700,6300
 "36","NY","New York","Albany","city",NA,"January",2019,46200,44000,2200
 "36","NY","New York","Albany","city",NA,"February",2019,46100,44100,2000
 "36","NY","New York","Albany","city",NA,"March",2019,46200,44200,1900
@@ -1108,7 +1173,8 @@
 "36","NY","New York","Amherst","city",NA,"February",2020,61800,59700,2200
 "36","NY","New York","Amherst","city",NA,"March",2020,61600,59500,2100
 "36","NY","New York","Amherst","city",NA,"April",2020,59100,50300,8800
-"36","NY","New York","Amherst","city",NA,"May",2020,60100,53600,6500
+"36","NY","New York","Amherst","city",NA,"May",2020,60500,54000,6500
+"36","NY","New York","Amherst","city",NA,"June",2020,61400,54700,6600
 "36","NY","New York","Amherst","city",NA,"January",2019,61400,59100,2300
 "36","NY","New York","Amherst","city",NA,"February",2019,61300,59100,2200
 "36","NY","New York","Amherst","city",NA,"March",2019,61500,59500,2000
@@ -1126,6 +1192,7 @@
 "36","NY","New York","Auburn","city",NA,"March",2020,11300,10600,600
 "36","NY","New York","Auburn","city",NA,"April",2020,11800,9700,2100
 "36","NY","New York","Auburn","city",NA,"May",2020,11700,10200,1500
+"36","NY","New York","Auburn","city",NA,"June",2020,11800,10300,1600
 "36","NY","New York","Auburn","city",NA,"January",2019,11700,11000,700
 "36","NY","New York","Auburn","city",NA,"February",2019,11500,10900,700
 "36","NY","New York","Auburn","city",NA,"March",2019,11300,10700,600
@@ -1142,7 +1209,8 @@
 "36","NY","New York","Babylon","city",NA,"February",2020,111900,107600,4300
 "36","NY","New York","Babylon","city",NA,"March",2020,111000,106600,4400
 "36","NY","New York","Babylon","city",NA,"April",2020,110400,89500,20900
-"36","NY","New York","Babylon","city",NA,"May",2020,112900,96400,16500
+"36","NY","New York","Babylon","city",NA,"May",2020,112200,95700,16500
+"36","NY","New York","Babylon","city",NA,"June",2020,114200,97100,17100
 "36","NY","New York","Babylon","city",NA,"January",2019,110000,105400,4500
 "36","NY","New York","Babylon","city",NA,"February",2019,110000,105400,4600
 "36","NY","New York","Babylon","city",NA,"March",2019,110600,106500,4100
@@ -1159,7 +1227,8 @@
 "36","NY","New York","Bethlehem","city",NA,"February",2020,18400,17800,500
 "36","NY","New York","Bethlehem","city",NA,"March",2020,18300,17800,500
 "36","NY","New York","Bethlehem","city",NA,"April",2020,17200,15700,1500
-"36","NY","New York","Bethlehem","city",NA,"May",2020,17800,16700,1100
+"36","NY","New York","Bethlehem","city",NA,"May",2020,17700,16600,1100
+"36","NY","New York","Bethlehem","city",NA,"June",2020,17700,16500,1300
 "36","NY","New York","Bethlehem","city",NA,"January",2019,17900,17400,600
 "36","NY","New York","Bethlehem","city",NA,"February",2019,18000,17400,600
 "36","NY","New York","Bethlehem","city",NA,"March",2019,18000,17500,500
@@ -1176,7 +1245,8 @@
 "36","NY","New York","Binghamton","city",NA,"February",2020,17900,16900,1000
 "36","NY","New York","Binghamton","city",NA,"March",2020,17800,16900,1000
 "36","NY","New York","Binghamton","city",NA,"April",2020,18300,15300,3000
-"36","NY","New York","Binghamton","city",NA,"May",2020,18600,16300,2300
+"36","NY","New York","Binghamton","city",NA,"May",2020,18700,16400,2300
+"36","NY","New York","Binghamton","city",NA,"June",2020,18800,16200,2600
 "36","NY","New York","Binghamton","city",NA,"January",2019,17700,16600,1100
 "36","NY","New York","Binghamton","city",NA,"February",2019,17800,16800,1000
 "36","NY","New York","Binghamton","city",NA,"March",2019,17800,16900,900
@@ -1193,7 +1263,8 @@
 "36","NY","New York","Brighton","city",NA,"February",2020,17600,17100,600
 "36","NY","New York","Brighton","city",NA,"March",2020,17500,16900,600
 "36","NY","New York","Brighton","city",NA,"April",2020,16300,14600,1700
-"36","NY","New York","Brighton","city",NA,"May",2020,16800,15400,1400
+"36","NY","New York","Brighton","city",NA,"May",2020,16900,15500,1400
+"36","NY","New York","Brighton","city",NA,"June",2020,17100,15600,1500
 "36","NY","New York","Brighton","city",NA,"January",2019,17300,16700,500
 "36","NY","New York","Brighton","city",NA,"February",2019,17400,16900,600
 "36","NY","New York","Brighton","city",NA,"March",2019,17500,16900,500
@@ -1210,7 +1281,8 @@
 "36","NY","New York","Brookhaven","city",NA,"February",2020,255700,245700,10000
 "36","NY","New York","Brookhaven","city",NA,"March",2020,253500,243600,10000
 "36","NY","New York","Brookhaven","city",NA,"April",2020,244000,204500,39500
-"36","NY","New York","Brookhaven","city",NA,"May",2020,250400,220200,30200
+"36","NY","New York","Brookhaven","city",NA,"May",2020,248800,218700,30000
+"36","NY","New York","Brookhaven","city",NA,"June",2020,253700,221900,31800
 "36","NY","New York","Brookhaven","city",NA,"January",2019,252200,240900,11300
 "36","NY","New York","Brookhaven","city",NA,"February",2019,250900,240800,10100
 "36","NY","New York","Brookhaven","city",NA,"March",2019,252400,243200,9200
@@ -1227,7 +1299,8 @@
 "36","NY","New York","Buffalo","city",NA,"February",2020,108300,102400,5900
 "36","NY","New York","Buffalo","city",NA,"March",2020,108300,102100,6100
 "36","NY","New York","Buffalo","city",NA,"April",2020,110000,86300,23700
-"36","NY","New York","Buffalo","city",NA,"May",2020,111400,92000,19300
+"36","NY","New York","Buffalo","city",NA,"May",2020,112100,92700,19400
+"36","NY","New York","Buffalo","city",NA,"June",2020,114800,93900,20900
 "36","NY","New York","Buffalo","city",NA,"January",2019,107900,101400,6500
 "36","NY","New York","Buffalo","city",NA,"February",2019,107500,101400,6100
 "36","NY","New York","Buffalo","city",NA,"March",2019,107800,102100,5700
@@ -1244,7 +1317,8 @@
 "36","NY","New York","Carmel","city",NA,"February",2020,17900,17100,800
 "36","NY","New York","Carmel","city",NA,"March",2020,17900,17100,800
 "36","NY","New York","Carmel","city",NA,"April",2020,17500,14700,2700
-"36","NY","New York","Carmel","city",NA,"May",2020,17700,15600,2100
+"36","NY","New York","Carmel","city",NA,"May",2020,17700,15600,2000
+"36","NY","New York","Carmel","city",NA,"June",2020,17700,15600,2100
 "36","NY","New York","Carmel","city",NA,"January",2019,17500,16800,700
 "36","NY","New York","Carmel","city",NA,"February",2019,17500,16900,700
 "36","NY","New York","Carmel","city",NA,"March",2019,17700,17000,600
@@ -1261,7 +1335,8 @@
 "36","NY","New York","Cheektowaga","city",NA,"February",2020,43700,41500,2100
 "36","NY","New York","Cheektowaga","city",NA,"March",2020,43600,41400,2200
 "36","NY","New York","Cheektowaga","city",NA,"April",2020,43900,35000,8900
-"36","NY","New York","Cheektowaga","city",NA,"May",2020,44000,37300,6700
+"36","NY","New York","Cheektowaga","city",NA,"May",2020,44300,37600,6700
+"36","NY","New York","Cheektowaga","city",NA,"June",2020,44400,38100,6400
 "36","NY","New York","Cheektowaga","city",NA,"January",2019,43400,41100,2200
 "36","NY","New York","Cheektowaga","city",NA,"February",2019,43200,41100,2100
 "36","NY","New York","Cheektowaga","city",NA,"March",2019,43300,41400,1900
@@ -1278,7 +1353,8 @@
 "36","NY","New York","Chili","city",NA,"February",2020,15200,14600,600
 "36","NY","New York","Chili","city",NA,"March",2020,15200,14600,600
 "36","NY","New York","Chili","city",NA,"April",2020,14600,12600,2100
-"36","NY","New York","Chili","city",NA,"May",2020,14800,13300,1600
+"36","NY","New York","Chili","city",NA,"May",2020,14900,13300,1600
+"36","NY","New York","Chili","city",NA,"June",2020,15000,13400,1600
 "36","NY","New York","Chili","city",NA,"January",2019,15000,14400,600
 "36","NY","New York","Chili","city",NA,"February",2019,15100,14500,600
 "36","NY","New York","Chili","city",NA,"March",2019,15100,14500,600
@@ -1296,6 +1372,7 @@
 "36","NY","New York","Cicero","city",NA,"March",2020,16000,15400,700
 "36","NY","New York","Cicero","city",NA,"April",2020,15900,13200,2700
 "36","NY","New York","Cicero","city",NA,"May",2020,16000,14100,1900
+"36","NY","New York","Cicero","city",NA,"June",2020,15800,14000,1800
 "36","NY","New York","Cicero","city",NA,"January",2019,15800,15100,700
 "36","NY","New York","Cicero","city",NA,"February",2019,15800,15200,700
 "36","NY","New York","Cicero","city",NA,"March",2019,15900,15200,600
@@ -1312,7 +1389,8 @@
 "36","NY","New York","Clarence","city",NA,"February",2020,16600,16000,600
 "36","NY","New York","Clarence","city",NA,"March",2020,16500,16000,600
 "36","NY","New York","Clarence","city",NA,"April",2020,15700,13500,2300
-"36","NY","New York","Clarence","city",NA,"May",2020,16000,14400,1600
+"36","NY","New York","Clarence","city",NA,"May",2020,16000,14500,1600
+"36","NY","New York","Clarence","city",NA,"June",2020,16200,14700,1500
 "36","NY","New York","Clarence","city",NA,"January",2019,16500,15800,700
 "36","NY","New York","Clarence","city",NA,"February",2019,16500,15800,600
 "36","NY","New York","Clarence","city",NA,"March",2019,16500,15900,600
@@ -1329,7 +1407,8 @@
 "36","NY","New York","Clarkstown","city",NA,"February",2020,44500,42800,1600
 "36","NY","New York","Clarkstown","city",NA,"March",2020,44400,42800,1600
 "36","NY","New York","Clarkstown","city",NA,"April",2020,41800,36100,5800
-"36","NY","New York","Clarkstown","city",NA,"May",2020,43100,38500,4600
+"36","NY","New York","Clarkstown","city",NA,"May",2020,43300,38600,4600
+"36","NY","New York","Clarkstown","city",NA,"June",2020,43800,38600,5300
 "36","NY","New York","Clarkstown","city",NA,"January",2019,43900,42300,1600
 "36","NY","New York","Clarkstown","city",NA,"February",2019,44100,42500,1600
 "36","NY","New York","Clarkstown","city",NA,"March",2019,44300,42800,1500
@@ -1347,6 +1426,7 @@
 "36","NY","New York","Clay","city",NA,"March",2020,31500,30400,1200
 "36","NY","New York","Clay","city",NA,"April",2020,31200,26100,5100
 "36","NY","New York","Clay","city",NA,"May",2020,31500,27800,3700
+"36","NY","New York","Clay","city",NA,"June",2020,31100,27700,3500
 "36","NY","New York","Clay","city",NA,"January",2019,31100,29900,1200
 "36","NY","New York","Clay","city",NA,"February",2019,31200,30000,1100
 "36","NY","New York","Clay","city",NA,"March",2019,31200,30100,1100
@@ -1364,6 +1444,7 @@
 "36","NY","New York","Clifton Park","city",NA,"March",2020,19700,19100,600
 "36","NY","New York","Clifton Park","city",NA,"April",2020,19100,16900,2200
 "36","NY","New York","Clifton Park","city",NA,"May",2020,19600,17900,1700
+"36","NY","New York","Clifton Park","city",NA,"June",2020,19500,17700,1800
 "36","NY","New York","Clifton Park","city",NA,"January",2019,19400,18700,600
 "36","NY","New York","Clifton Park","city",NA,"February",2019,19400,18700,700
 "36","NY","New York","Clifton Park","city",NA,"March",2019,19400,18800,600
@@ -1380,7 +1461,8 @@
 "36","NY","New York","Colonie","city",NA,"February",2020,45400,43900,1500
 "36","NY","New York","Colonie","city",NA,"March",2020,45300,43800,1500
 "36","NY","New York","Colonie","city",NA,"April",2020,43900,38700,5200
-"36","NY","New York","Colonie","city",NA,"May",2020,45100,41100,4100
+"36","NY","New York","Colonie","city",NA,"May",2020,45000,41000,4100
+"36","NY","New York","Colonie","city",NA,"June",2020,44900,40600,4400
 "36","NY","New York","Colonie","city",NA,"January",2019,44400,42800,1700
 "36","NY","New York","Colonie","city",NA,"February",2019,44500,42900,1600
 "36","NY","New York","Colonie","city",NA,"March",2019,44500,43000,1500
@@ -1397,7 +1479,8 @@
 "36","NY","New York","Cortlandt","city",NA,"February",2020,21800,21000,800
 "36","NY","New York","Cortlandt","city",NA,"March",2020,21800,21000,800
 "36","NY","New York","Cortlandt","city",NA,"April",2020,20500,17700,2900
-"36","NY","New York","Cortlandt","city",NA,"May",2020,21100,18900,2100
+"36","NY","New York","Cortlandt","city",NA,"May",2020,21100,19000,2100
+"36","NY","New York","Cortlandt","city",NA,"June",2020,21200,18900,2300
 "36","NY","New York","Cortlandt","city",NA,"January",2019,21500,20700,800
 "36","NY","New York","Cortlandt","city",NA,"February",2019,21600,20800,800
 "36","NY","New York","Cortlandt","city",NA,"March",2019,21700,21000,700
@@ -1415,6 +1498,7 @@
 "36","NY","New York","De Witt","city",NA,"March",2020,11800,11300,500
 "36","NY","New York","De Witt","city",NA,"April",2020,11500,9700,1800
 "36","NY","New York","De Witt","city",NA,"May",2020,11600,10400,1300
+"36","NY","New York","De Witt","city",NA,"June",2020,11600,10300,1300
 "36","NY","New York","De Witt","city",NA,"January",2019,11700,11200,500
 "36","NY","New York","De Witt","city",NA,"February",2019,11700,11200,500
 "36","NY","New York","De Witt","city",NA,"March",2019,11700,11200,400
@@ -1432,6 +1516,7 @@
 "36","NY","New York","East Fishkill Ny","city",NA,"March",2020,14400,13900,600
 "36","NY","New York","East Fishkill Ny","city",NA,"April",2020,14100,12000,2100
 "36","NY","New York","East Fishkill Ny","city",NA,"May",2020,14200,12700,1600
+"36","NY","New York","East Fishkill Ny","city",NA,"June",2020,14300,12600,1600
 "36","NY","New York","East Fishkill Ny","city",NA,"January",2019,14200,13700,500
 "36","NY","New York","East Fishkill Ny","city",NA,"February",2019,14300,13700,500
 "36","NY","New York","East Fishkill Ny","city",NA,"March",2019,14300,13800,500
@@ -1448,7 +1533,8 @@
 "36","NY","New York","Eastchester","city",NA,"February",2020,16300,15700,600
 "36","NY","New York","Eastchester","city",NA,"March",2020,16300,15700,600
 "36","NY","New York","Eastchester","city",NA,"April",2020,15300,13300,2000
-"36","NY","New York","Eastchester","city",NA,"May",2020,15700,14200,1600
+"36","NY","New York","Eastchester","city",NA,"May",2020,15800,14200,1600
+"36","NY","New York","Eastchester","city",NA,"June",2020,15900,14200,1800
 "36","NY","New York","Eastchester","city",NA,"January",2019,16100,15500,500
 "36","NY","New York","Eastchester","city",NA,"February",2019,16200,15600,600
 "36","NY","New York","Eastchester","city",NA,"March",2019,16300,15700,500
@@ -1465,7 +1551,8 @@
 "36","NY","New York","Elmira","city",NA,"February",2020,9600,9000,600
 "36","NY","New York","Elmira","city",NA,"March",2020,9600,9000,600
 "36","NY","New York","Elmira","city",NA,"April",2020,10200,8200,1900
-"36","NY","New York","Elmira","city",NA,"May",2020,10400,8800,1600
+"36","NY","New York","Elmira","city",NA,"May",2020,10400,8800,1500
+"36","NY","New York","Elmira","city",NA,"June",2020,10400,8900,1600
 "36","NY","New York","Elmira","city",NA,"January",2019,9600,9000,600
 "36","NY","New York","Elmira","city",NA,"February",2019,9500,9000,600
 "36","NY","New York","Elmira","city",NA,"March",2019,9500,9000,500
@@ -1482,7 +1569,8 @@
 "36","NY","New York","Freeport Village","city",NA,"February",2020,23000,21900,1000
 "36","NY","New York","Freeport Village","city",NA,"March",2020,22800,21800,1000
 "36","NY","New York","Freeport Village","city",NA,"April",2020,22500,18300,4200
-"36","NY","New York","Freeport Village","city",NA,"May",2020,23300,19700,3600
+"36","NY","New York","Freeport Village","city",NA,"May",2020,23100,19600,3600
+"36","NY","New York","Freeport Village","city",NA,"June",2020,23700,19800,3900
 "36","NY","New York","Freeport Village","city",NA,"January",2019,22600,21500,1100
 "36","NY","New York","Freeport Village","city",NA,"February",2019,22600,21500,1100
 "36","NY","New York","Freeport Village","city",NA,"March",2019,22700,21700,1000
@@ -1499,7 +1587,8 @@
 "36","NY","New York","Gates","city",NA,"February",2020,14600,13900,600
 "36","NY","New York","Gates","city",NA,"March",2020,14500,13800,700
 "36","NY","New York","Gates","city",NA,"April",2020,14500,11900,2600
-"36","NY","New York","Gates","city",NA,"May",2020,14500,12600,1900
+"36","NY","New York","Gates","city",NA,"May",2020,14500,12700,1900
+"36","NY","New York","Gates","city",NA,"June",2020,14700,12700,1900
 "36","NY","New York","Gates","city",NA,"January",2019,14300,13700,700
 "36","NY","New York","Gates","city",NA,"February",2019,14400,13800,700
 "36","NY","New York","Gates","city",NA,"March",2019,14400,13800,600
@@ -1516,7 +1605,8 @@
 "36","NY","New York","Glen Cove","city",NA,"February",2020,14400,13700,600
 "36","NY","New York","Glen Cove","city",NA,"March",2020,14200,13600,600
 "36","NY","New York","Glen Cove","city",NA,"April",2020,13500,11400,2100
-"36","NY","New York","Glen Cove","city",NA,"May",2020,13900,12300,1500
+"36","NY","New York","Glen Cove","city",NA,"May",2020,13800,12200,1500
+"36","NY","New York","Glen Cove","city",NA,"June",2020,14100,12400,1700
 "36","NY","New York","Glen Cove","city",NA,"January",2019,14100,13400,700
 "36","NY","New York","Glen Cove","city",NA,"February",2019,14100,13400,700
 "36","NY","New York","Glen Cove","city",NA,"March",2019,14200,13600,600
@@ -1534,6 +1624,7 @@
 "36","NY","New York","Glenville","city",NA,"March",2020,14700,14200,500
 "36","NY","New York","Glenville","city",NA,"April",2020,14300,12600,1700
 "36","NY","New York","Glenville","city",NA,"May",2020,14600,13300,1300
+"36","NY","New York","Glenville","city",NA,"June",2020,14500,13200,1400
 "36","NY","New York","Glenville","city",NA,"January",2019,14500,13900,600
 "36","NY","New York","Glenville","city",NA,"February",2019,14500,13900,600
 "36","NY","New York","Glenville","city",NA,"March",2019,14500,14000,500
@@ -1550,7 +1641,8 @@
 "36","NY","New York","Greece","city",NA,"February",2020,48900,46800,2100
 "36","NY","New York","Greece","city",NA,"March",2020,48700,46600,2100
 "36","NY","New York","Greece","city",NA,"April",2020,48200,40200,8000
-"36","NY","New York","Greece","city",NA,"May",2020,48500,42400,6000
+"36","NY","New York","Greece","city",NA,"May",2020,48600,42600,6000
+"36","NY","New York","Greece","city",NA,"June",2020,48600,42700,5900
 "36","NY","New York","Greece","city",NA,"January",2019,48200,46000,2200
 "36","NY","New York","Greece","city",NA,"February",2019,48500,46300,2200
 "36","NY","New York","Greece","city",NA,"March",2019,48500,46500,2000
@@ -1567,7 +1659,8 @@
 "36","NY","New York","Greenburgh","city",NA,"February",2020,48900,47200,1600
 "36","NY","New York","Greenburgh","city",NA,"March",2020,48900,47200,1700
 "36","NY","New York","Greenburgh","city",NA,"April",2020,45300,39800,5500
-"36","NY","New York","Greenburgh","city",NA,"May",2020,47000,42500,4500
+"36","NY","New York","Greenburgh","city",NA,"May",2020,47100,42600,4500
+"36","NY","New York","Greenburgh","city",NA,"June",2020,47700,42500,5200
 "36","NY","New York","Greenburgh","city",NA,"January",2019,48300,46600,1700
 "36","NY","New York","Greenburgh","city",NA,"February",2019,48500,46800,1700
 "36","NY","New York","Greenburgh","city",NA,"March",2019,48800,47200,1600
@@ -1584,7 +1677,8 @@
 "36","NY","New York","Guilderland","city",NA,"February",2020,19800,19200,600
 "36","NY","New York","Guilderland","city",NA,"March",2020,19700,19200,600
 "36","NY","New York","Guilderland","city",NA,"April",2020,18700,16900,1700
-"36","NY","New York","Guilderland","city",NA,"May",2020,19300,18000,1300
+"36","NY","New York","Guilderland","city",NA,"May",2020,19200,17900,1300
+"36","NY","New York","Guilderland","city",NA,"June",2020,19200,17700,1500
 "36","NY","New York","Guilderland","city",NA,"January",2019,19400,18700,700
 "36","NY","New York","Guilderland","city",NA,"February",2019,19400,18800,700
 "36","NY","New York","Guilderland","city",NA,"March",2019,19400,18800,600
@@ -1601,7 +1695,8 @@
 "36","NY","New York","Hamburg","city",NA,"February",2020,31200,29800,1400
 "36","NY","New York","Hamburg","city",NA,"March",2020,31200,29700,1400
 "36","NY","New York","Hamburg","city",NA,"April",2020,30700,25100,5600
-"36","NY","New York","Hamburg","city",NA,"May",2020,30800,26800,4000
+"36","NY","New York","Hamburg","city",NA,"May",2020,30900,27000,3900
+"36","NY","New York","Hamburg","city",NA,"June",2020,31000,27300,3600
 "36","NY","New York","Hamburg","city",NA,"January",2019,31000,29500,1400
 "36","NY","New York","Hamburg","city",NA,"February",2019,30900,29500,1400
 "36","NY","New York","Hamburg","city",NA,"March",2019,31000,29700,1300
@@ -1619,6 +1714,7 @@
 "36","NY","New York","Harrison Village","city",NA,"March",2020,13400,12800,500
 "36","NY","New York","Harrison Village","city",NA,"April",2020,12300,10800,1400
 "36","NY","New York","Harrison Village","city",NA,"May",2020,12700,11600,1100
+"36","NY","New York","Harrison Village","city",NA,"June",2020,12900,11600,1300
 "36","NY","New York","Harrison Village","city",NA,"January",2019,13200,12700,600
 "36","NY","New York","Harrison Village","city",NA,"February",2019,13300,12700,500
 "36","NY","New York","Harrison Village","city",NA,"March",2019,13300,12800,500
@@ -1635,7 +1731,8 @@
 "36","NY","New York","Haverstraw","city",NA,"February",2020,19800,18800,1000
 "36","NY","New York","Haverstraw","city",NA,"March",2020,19800,18800,1000
 "36","NY","New York","Haverstraw","city",NA,"April",2020,19600,15800,3800
-"36","NY","New York","Haverstraw","city",NA,"May",2020,20000,16900,3000
+"36","NY","New York","Haverstraw","city",NA,"May",2020,20000,17000,3100
+"36","NY","New York","Haverstraw","city",NA,"June",2020,20100,16900,3200
 "36","NY","New York","Haverstraw","city",NA,"January",2019,19700,18600,1100
 "36","NY","New York","Haverstraw","city",NA,"February",2019,19700,18600,1100
 "36","NY","New York","Haverstraw","city",NA,"March",2019,19800,18800,1000
@@ -1652,7 +1749,8 @@
 "36","NY","New York","Hempstead","city",NA,"February",2020,405100,390400,14700
 "36","NY","New York","Hempstead","city",NA,"March",2020,402500,387500,15000
 "36","NY","New York","Hempstead","city",NA,"April",2020,387100,325000,62100
-"36","NY","New York","Hempstead","city",NA,"May",2020,400600,350200,50300
+"36","NY","New York","Hempstead","city",NA,"May",2020,398100,347900,50200
+"36","NY","New York","Hempstead","city",NA,"June",2020,407800,352500,55300
 "36","NY","New York","Hempstead","city",NA,"January",2019,397500,381900,15500
 "36","NY","New York","Hempstead","city",NA,"February",2019,397600,382200,15300
 "36","NY","New York","Hempstead","city",NA,"March",2019,400800,386600,14200
@@ -1669,7 +1767,8 @@
 "36","NY","New York","Hempstead Village","city",NA,"February",2020,28000,26600,1400
 "36","NY","New York","Hempstead Village","city",NA,"March",2020,27800,26400,1400
 "36","NY","New York","Hempstead Village","city",NA,"April",2020,26600,22100,4400
-"36","NY","New York","Hempstead Village","city",NA,"May",2020,27800,23900,4000
+"36","NY","New York","Hempstead Village","city",NA,"May",2020,27700,23700,4000
+"36","NY","New York","Hempstead Village","city",NA,"June",2020,28600,24000,4600
 "36","NY","New York","Hempstead Village","city",NA,"January",2019,27700,26000,1700
 "36","NY","New York","Hempstead Village","city",NA,"February",2019,27600,26000,1600
 "36","NY","New York","Hempstead Village","city",NA,"March",2019,27800,26300,1500
@@ -1686,7 +1785,8 @@
 "36","NY","New York","Henrietta","city",NA,"February",2020,22700,21900,800
 "36","NY","New York","Henrietta","city",NA,"March",2020,22600,21800,800
 "36","NY","New York","Henrietta","city",NA,"April",2020,21600,18800,2800
-"36","NY","New York","Henrietta","city",NA,"May",2020,22100,19800,2200
+"36","NY","New York","Henrietta","city",NA,"May",2020,22100,19900,2200
+"36","NY","New York","Henrietta","city",NA,"June",2020,22300,20000,2400
 "36","NY","New York","Henrietta","city",NA,"January",2019,22400,21500,900
 "36","NY","New York","Henrietta","city",NA,"February",2019,22500,21700,900
 "36","NY","New York","Henrietta","city",NA,"March",2019,22500,21700,800
@@ -1703,7 +1803,8 @@
 "36","NY","New York","Huntington","city",NA,"February",2020,105100,101400,3700
 "36","NY","New York","Huntington","city",NA,"March",2020,104200,100500,3700
 "36","NY","New York","Huntington","city",NA,"April",2020,99400,84400,15100
-"36","NY","New York","Huntington","city",NA,"May",2020,102500,90800,11700
+"36","NY","New York","Huntington","city",NA,"May",2020,101900,90200,11700
+"36","NY","New York","Huntington","city",NA,"June",2020,104300,91500,12800
 "36","NY","New York","Huntington","city",NA,"January",2019,103200,99400,3900
 "36","NY","New York","Huntington","city",NA,"February",2019,103200,99300,3900
 "36","NY","New York","Huntington","city",NA,"March",2019,103900,100300,3500
@@ -1720,7 +1821,8 @@
 "36","NY","New York","Irondequoit","city",NA,"February",2020,25200,24100,1100
 "36","NY","New York","Irondequoit","city",NA,"March",2020,25100,24000,1100
 "36","NY","New York","Irondequoit","city",NA,"April",2020,24600,20700,3900
-"36","NY","New York","Irondequoit","city",NA,"May",2020,24800,21900,2900
+"36","NY","New York","Irondequoit","city",NA,"May",2020,24900,21900,2900
+"36","NY","New York","Irondequoit","city",NA,"June",2020,25000,22000,3000
 "36","NY","New York","Irondequoit","city",NA,"January",2019,24800,23700,1100
 "36","NY","New York","Irondequoit","city",NA,"February",2019,25000,23900,1100
 "36","NY","New York","Irondequoit","city",NA,"March",2019,25000,23900,1000
@@ -1737,7 +1839,8 @@
 "36","NY","New York","Islip","city",NA,"February",2020,179600,172600,6900
 "36","NY","New York","Islip","city",NA,"March",2020,178000,171100,6800
 "36","NY","New York","Islip","city",NA,"April",2020,172400,143700,28800
-"36","NY","New York","Islip","city",NA,"May",2020,177500,154700,22800
+"36","NY","New York","Islip","city",NA,"May",2020,176400,153700,22800
+"36","NY","New York","Islip","city",NA,"June",2020,180100,155900,24200
 "36","NY","New York","Islip","city",NA,"January",2019,176600,169200,7400
 "36","NY","New York","Islip","city",NA,"February",2019,176400,169200,7300
 "36","NY","New York","Islip","city",NA,"March",2019,177500,170900,6600
@@ -1754,7 +1857,8 @@
 "36","NY","New York","Ithaca","city",NA,"February",2020,13400,12900,500
 "36","NY","New York","Ithaca","city",NA,"March",2020,13300,12800,500
 "36","NY","New York","Ithaca","city",NA,"April",2020,12700,11600,1100
-"36","NY","New York","Ithaca","city",NA,"May",2020,13200,12200,1000
+"36","NY","New York","Ithaca","city",NA,"May",2020,13100,12200,1000
+"36","NY","New York","Ithaca","city",NA,"June",2020,13100,11900,1200
 "36","NY","New York","Ithaca","city",NA,"January",2019,13000,12400,500
 "36","NY","New York","Ithaca","city",NA,"February",2019,13600,13100,600
 "36","NY","New York","Ithaca","city",NA,"March",2019,13600,13000,500
@@ -1771,7 +1875,8 @@
 "36","NY","New York","Jamestown","city",NA,"February",2020,11700,10900,800
 "36","NY","New York","Jamestown","city",NA,"March",2020,11700,10900,800
 "36","NY","New York","Jamestown","city",NA,"April",2020,12200,9900,2300
-"36","NY","New York","Jamestown","city",NA,"May",2020,11900,10300,1600
+"36","NY","New York","Jamestown","city",NA,"May",2020,12000,10400,1600
+"36","NY","New York","Jamestown","city",NA,"June",2020,12100,10400,1600
 "36","NY","New York","Jamestown","city",NA,"January",2019,11600,10900,700
 "36","NY","New York","Jamestown","city",NA,"February",2019,11600,10900,700
 "36","NY","New York","Jamestown","city",NA,"March",2019,11500,10800,700
@@ -1788,7 +1893,8 @@
 "36","NY","New York","Lancaster","city",NA,"February",2020,23300,22300,1000
 "36","NY","New York","Lancaster","city",NA,"March",2020,23200,22300,1000
 "36","NY","New York","Lancaster","city",NA,"April",2020,22800,18800,4000
-"36","NY","New York","Lancaster","city",NA,"May",2020,22900,20100,2800
+"36","NY","New York","Lancaster","city",NA,"May",2020,23000,20200,2800
+"36","NY","New York","Lancaster","city",NA,"June",2020,23100,20500,2600
 "36","NY","New York","Lancaster","city",NA,"January",2019,23100,22100,1000
 "36","NY","New York","Lancaster","city",NA,"February",2019,23100,22100,1000
 "36","NY","New York","Lancaster","city",NA,"March",2019,23100,22300,900
@@ -1805,7 +1911,8 @@
 "36","NY","New York","Lindenhurst","city",NA,"February",2020,15300,14800,500
 "36","NY","New York","Lindenhurst","city",NA,"March",2020,15200,14700,500
 "36","NY","New York","Lindenhurst","city",NA,"April",2020,15200,12300,2900
-"36","NY","New York","Lindenhurst","city",NA,"May",2020,15500,13300,2200
+"36","NY","New York","Lindenhurst","city",NA,"May",2020,15400,13200,2200
+"36","NY","New York","Lindenhurst","city",NA,"June",2020,15500,13400,2200
 "36","NY","New York","Lindenhurst","city",NA,"January",2019,15100,14500,600
 "36","NY","New York","Lindenhurst","city",NA,"February",2019,15100,14500,600
 "36","NY","New York","Lindenhurst","city",NA,"March",2019,15200,14700,500
@@ -1822,7 +1929,8 @@
 "36","NY","New York","Lockport","city",NA,"February",2020,9400,8700,600
 "36","NY","New York","Lockport","city",NA,"March",2020,9300,8700,600
 "36","NY","New York","Lockport","city",NA,"April",2020,9900,7400,2500
-"36","NY","New York","Lockport","city",NA,"May",2020,9600,7900,1800
+"36","NY","New York","Lockport","city",NA,"May",2020,9700,7900,1800
+"36","NY","New York","Lockport","city",NA,"June",2020,9500,8000,1500
 "36","NY","New York","Lockport","city",NA,"January",2019,9300,8700,700
 "36","NY","New York","Lockport","city",NA,"February",2019,9300,8700,600
 "36","NY","New York","Lockport","city",NA,"March",2019,9300,8700,600
@@ -1839,7 +1947,8 @@
 "36","NY","New York","Long Beach","city",NA,"February",2020,20000,19300,600
 "36","NY","New York","Long Beach","city",NA,"March",2020,19900,19200,700
 "36","NY","New York","Long Beach","city",NA,"April",2020,18700,16100,2700
-"36","NY","New York","Long Beach","city",NA,"May",2020,19400,17300,2100
+"36","NY","New York","Long Beach","city",NA,"May",2020,19300,17200,2100
+"36","NY","New York","Long Beach","city",NA,"June",2020,19700,17400,2300
 "36","NY","New York","Long Beach","city",NA,"January",2019,19600,18900,700
 "36","NY","New York","Long Beach","city",NA,"February",2019,19600,18900,600
 "36","NY","New York","Long Beach","city",NA,"March",2019,19700,19100,600
@@ -1857,6 +1966,7 @@
 "36","NY","New York","Mamaroneck","city",NA,"March",2020,14800,14300,500
 "36","NY","New York","Mamaroneck","city",NA,"April",2020,13500,12000,1500
 "36","NY","New York","Mamaroneck","city",NA,"May",2020,14100,12900,1200
+"36","NY","New York","Mamaroneck","city",NA,"June",2020,14200,12900,1400
 "36","NY","New York","Mamaroneck","city",NA,"January",2019,14600,14100,500
 "36","NY","New York","Mamaroneck","city",NA,"February",2019,14600,14200,500
 "36","NY","New York","Mamaroneck","city",NA,"March",2019,14700,14300,400
@@ -1874,6 +1984,7 @@
 "36","NY","New York","Manlius","city",NA,"March",2020,16500,15900,600
 "36","NY","New York","Manlius","city",NA,"April",2020,15800,13700,2100
 "36","NY","New York","Manlius","city",NA,"May",2020,16000,14600,1400
+"36","NY","New York","Manlius","city",NA,"June",2020,15900,14500,1400
 "36","NY","New York","Manlius","city",NA,"January",2019,16300,15700,600
 "36","NY","New York","Manlius","city",NA,"February",2019,16300,15700,600
 "36","NY","New York","Manlius","city",NA,"March",2019,16300,15800,500
@@ -1891,6 +2002,7 @@
 "36","NY","New York","Middletown","city",NA,"March",2020,13800,13200,600
 "36","NY","New York","Middletown","city",NA,"April",2020,13600,11200,2400
 "36","NY","New York","Middletown","city",NA,"May",2020,13900,11900,2000
+"36","NY","New York","Middletown","city",NA,"June",2020,14200,12000,2200
 "36","NY","New York","Middletown","city",NA,"January",2019,13800,13200,600
 "36","NY","New York","Middletown","city",NA,"February",2019,13800,13200,600
 "36","NY","New York","Middletown","city",NA,"March",2019,13900,13300,600
@@ -1908,6 +2020,7 @@
 "36","NY","New York","Monroe","city",NA,"March",2020,7600,7200,400
 "36","NY","New York","Monroe","city",NA,"April",2020,7900,6100,1800
 "36","NY","New York","Monroe","city",NA,"May",2020,8000,6500,1500
+"36","NY","New York","Monroe","city",NA,"June",2020,8200,6600,1600
 "36","NY","New York","Monroe","city",NA,"January",2019,7600,7200,400
 "36","NY","New York","Monroe","city",NA,"February",2019,7600,7200,300
 "36","NY","New York","Monroe","city",NA,"March",2019,7600,7300,300
@@ -1924,7 +2037,8 @@
 "36","NY","New York","Mount Pleasant","city",NA,"February",2020,22500,21700,800
 "36","NY","New York","Mount Pleasant","city",NA,"March",2020,22400,21700,800
 "36","NY","New York","Mount Pleasant","city",NA,"April",2020,20900,18200,2700
-"36","NY","New York","Mount Pleasant","city",NA,"May",2020,21600,19500,2000
+"36","NY","New York","Mount Pleasant","city",NA,"May",2020,21600,19600,2000
+"36","NY","New York","Mount Pleasant","city",NA,"June",2020,21900,19500,2400
 "36","NY","New York","Mount Pleasant","city",NA,"January",2019,22200,21400,800
 "36","NY","New York","Mount Pleasant","city",NA,"February",2019,22300,21500,800
 "36","NY","New York","Mount Pleasant","city",NA,"March",2019,22500,21700,800
@@ -1941,7 +2055,8 @@
 "36","NY","New York","Mount Vernon","city",NA,"February",2020,33200,31600,1600
 "36","NY","New York","Mount Vernon","city",NA,"March",2020,33300,31500,1800
 "36","NY","New York","Mount Vernon","city",NA,"April",2020,32100,26600,5600
-"36","NY","New York","Mount Vernon","city",NA,"May",2020,33300,28400,4900
+"36","NY","New York","Mount Vernon","city",NA,"May",2020,33400,28500,4900
+"36","NY","New York","Mount Vernon","city",NA,"June",2020,34100,28400,5700
 "36","NY","New York","Mount Vernon","city",NA,"January",2019,32900,31100,1800
 "36","NY","New York","Mount Vernon","city",NA,"February",2019,33000,31300,1800
 "36","NY","New York","Mount Vernon","city",NA,"March",2019,33200,31500,1700
@@ -1958,7 +2073,8 @@
 "36","NY","New York","New Rochelle","city",NA,"February",2020,39400,37500,2000
 "36","NY","New York","New Rochelle","city",NA,"March",2020,39400,37400,2000
 "36","NY","New York","New Rochelle","city",NA,"April",2020,37100,31500,5500
-"36","NY","New York","New Rochelle","city",NA,"May",2020,38200,33700,4400
+"36","NY","New York","New Rochelle","city",NA,"May",2020,38200,33800,4400
+"36","NY","New York","New Rochelle","city",NA,"June",2020,38600,33700,4900
 "36","NY","New York","New Rochelle","city",NA,"January",2019,38900,37000,1900
 "36","NY","New York","New Rochelle","city",NA,"February",2019,39100,37100,2000
 "36","NY","New York","New Rochelle","city",NA,"March",2019,39300,37500,1800
@@ -1976,6 +2092,7 @@
 "36","NY","New York","New Windsor","city",NA,"March",2020,14300,13800,500
 "36","NY","New York","New Windsor","city",NA,"April",2020,13900,11600,2300
 "36","NY","New York","New Windsor","city",NA,"May",2020,14100,12400,1700
+"36","NY","New York","New Windsor","city",NA,"June",2020,14300,12500,1900
 "36","NY","New York","New Windsor","city",NA,"January",2019,14300,13800,500
 "36","NY","New York","New Windsor","city",NA,"February",2019,14300,13800,500
 "36","NY","New York","New Windsor","city",NA,"March",2019,14300,13800,500
@@ -1992,7 +2109,8 @@
 "36","NY","New York","Newburgh","city",NA,"February",2020,12400,11700,600
 "36","NY","New York","Newburgh","city",NA,"March",2020,12300,11700,700
 "36","NY","New York","Newburgh","city",NA,"April",2020,12000,9900,2200
-"36","NY","New York","Newburgh","city",NA,"May",2020,12300,10500,1700
+"36","NY","New York","Newburgh","city",NA,"May",2020,12300,10500,1800
+"36","NY","New York","Newburgh","city",NA,"June",2020,12500,10600,2000
 "36","NY","New York","Newburgh","city",NA,"January",2019,12300,11700,600
 "36","NY","New York","Newburgh","city",NA,"February",2019,12300,11700,600
 "36","NY","New York","Newburgh","city",NA,"March",2019,12300,11700,600
@@ -2009,7 +2127,8 @@
 "36","NY","New York","Newburgh","city",NA,"February",2020,16800,16000,700
 "36","NY","New York","Newburgh","city",NA,"March",2020,16700,15900,700
 "36","NY","New York","Newburgh","city",NA,"April",2020,16000,13500,2500
-"36","NY","New York","Newburgh","city",NA,"May",2020,16200,14400,1900
+"36","NY","New York","Newburgh","city",NA,"May",2020,16300,14400,1900
+"36","NY","New York","Newburgh","city",NA,"June",2020,16500,14400,2100
 "36","NY","New York","Newburgh","city",NA,"January",2019,16600,15900,700
 "36","NY","New York","Newburgh","city",NA,"February",2019,16600,15900,700
 "36","NY","New York","Newburgh","city",NA,"March",2019,16600,16000,600
@@ -2026,7 +2145,8 @@
 "36","NY","New York","Niagara Falls","city",NA,"February",2020,21000,19500,1500
 "36","NY","New York","Niagara Falls","city",NA,"March",2020,21000,19500,1600
 "36","NY","New York","Niagara Falls","city",NA,"April",2020,22100,16500,5700
-"36","NY","New York","Niagara Falls","city",NA,"May",2020,22000,17500,4500
+"36","NY","New York","Niagara Falls","city",NA,"May",2020,22100,17700,4400
+"36","NY","New York","Niagara Falls","city",NA,"June",2020,22400,17900,4500
 "36","NY","New York","Niagara Falls","city",NA,"January",2019,21100,19400,1600
 "36","NY","New York","Niagara Falls","city",NA,"February",2019,20900,19400,1500
 "36","NY","New York","Niagara Falls","city",NA,"March",2019,20900,19500,1400
@@ -2043,7 +2163,8 @@
 "36","NY","New York","North Hempstead","city",NA,"February",2020,115400,111600,3800
 "36","NY","New York","North Hempstead","city",NA,"March",2020,114700,110700,3900
 "36","NY","New York","North Hempstead","city",NA,"April",2020,108600,92900,15700
-"36","NY","New York","North Hempstead","city",NA,"May",2020,112400,100100,12300
+"36","NY","New York","North Hempstead","city",NA,"May",2020,111700,99400,12300
+"36","NY","New York","North Hempstead","city",NA,"June",2020,114700,100800,13900
 "36","NY","New York","North Hempstead","city",NA,"January",2019,113100,109200,4000
 "36","NY","New York","North Hempstead","city",NA,"February",2019,113200,109200,3900
 "36","NY","New York","North Hempstead","city",NA,"March",2019,114100,110500,3600
@@ -2060,7 +2181,8 @@
 "36","NY","New York","North Tonawanda","city",NA,"February",2020,15400,14700,700
 "36","NY","New York","North Tonawanda","city",NA,"March",2020,15400,14600,700
 "36","NY","New York","North Tonawanda","city",NA,"April",2020,15600,12400,3300
-"36","NY","New York","North Tonawanda","city",NA,"May",2020,15600,13200,2400
+"36","NY","New York","North Tonawanda","city",NA,"May",2020,15600,13300,2300
+"36","NY","New York","North Tonawanda","city",NA,"June",2020,15700,13500,2200
 "36","NY","New York","North Tonawanda","city",NA,"January",2019,15400,14600,800
 "36","NY","New York","North Tonawanda","city",NA,"February",2019,15300,14600,800
 "36","NY","New York","North Tonawanda","city",NA,"March",2019,15300,14600,700
@@ -2077,7 +2199,8 @@
 "36","NY","New York","Orangetown","city",NA,"February",2020,24700,23800,900
 "36","NY","New York","Orangetown","city",NA,"March",2020,24600,23700,900
 "36","NY","New York","Orangetown","city",NA,"April",2020,23200,20000,3200
-"36","NY","New York","Orangetown","city",NA,"May",2020,23900,21400,2500
+"36","NY","New York","Orangetown","city",NA,"May",2020,24000,21400,2500
+"36","NY","New York","Orangetown","city",NA,"June",2020,24300,21400,2900
 "36","NY","New York","Orangetown","city",NA,"January",2019,24400,23500,1000
 "36","NY","New York","Orangetown","city",NA,"February",2019,24500,23600,1000
 "36","NY","New York","Orangetown","city",NA,"March",2019,24600,23800,900
@@ -2094,7 +2217,8 @@
 "36","NY","New York","Orchard Park","city",NA,"February",2020,15200,14600,600
 "36","NY","New York","Orchard Park","city",NA,"March",2020,15200,14600,600
 "36","NY","New York","Orchard Park","city",NA,"April",2020,14500,12300,2200
-"36","NY","New York","Orchard Park","city",NA,"May",2020,14700,13100,1500
+"36","NY","New York","Orchard Park","city",NA,"May",2020,14700,13200,1500
+"36","NY","New York","Orchard Park","city",NA,"June",2020,14900,13400,1500
 "36","NY","New York","Orchard Park","city",NA,"January",2019,15100,14500,600
 "36","NY","New York","Orchard Park","city",NA,"February",2019,15000,14500,600
 "36","NY","New York","Orchard Park","city",NA,"March",2019,15100,14600,500
@@ -2111,7 +2235,8 @@
 "36","NY","New York","Ossining","city",NA,"February",2020,19500,18800,700
 "36","NY","New York","Ossining","city",NA,"March",2020,19400,18800,600
 "36","NY","New York","Ossining","city",NA,"April",2020,18100,15800,2200
-"36","NY","New York","Ossining","city",NA,"May",2020,18800,16900,1800
+"36","NY","New York","Ossining","city",NA,"May",2020,18800,17000,1800
+"36","NY","New York","Ossining","city",NA,"June",2020,19000,16900,2100
 "36","NY","New York","Ossining","city",NA,"January",2019,19300,18600,700
 "36","NY","New York","Ossining","city",NA,"February",2019,19400,18600,700
 "36","NY","New York","Ossining","city",NA,"March",2019,19500,18800,700
@@ -2128,7 +2253,8 @@
 "36","NY","New York","Oyster Bay","city",NA,"February",2020,157200,152100,5100
 "36","NY","New York","Oyster Bay","city",NA,"March",2020,156100,151000,5100
 "36","NY","New York","Oyster Bay","city",NA,"April",2020,150100,126700,23400
-"36","NY","New York","Oyster Bay","city",NA,"May",2020,154500,136500,18000
+"36","NY","New York","Oyster Bay","city",NA,"May",2020,153500,135600,17900
+"36","NY","New York","Oyster Bay","city",NA,"June",2020,156800,137400,19400
 "36","NY","New York","Oyster Bay","city",NA,"January",2019,154100,148900,5300
 "36","NY","New York","Oyster Bay","city",NA,"February",2019,154300,149000,5300
 "36","NY","New York","Oyster Bay","city",NA,"March",2019,155500,150700,4800
@@ -2145,7 +2271,8 @@
 "36","NY","New York","Penfield","city",NA,"February",2020,18800,18100,700
 "36","NY","New York","Penfield","city",NA,"March",2020,18700,18000,700
 "36","NY","New York","Penfield","city",NA,"April",2020,17900,15600,2300
-"36","NY","New York","Penfield","city",NA,"May",2020,18100,16400,1600
+"36","NY","New York","Penfield","city",NA,"May",2020,18100,16500,1600
+"36","NY","New York","Penfield","city",NA,"June",2020,18300,16600,1700
 "36","NY","New York","Penfield","city",NA,"January",2019,18400,17800,600
 "36","NY","New York","Penfield","city",NA,"February",2019,18600,18000,700
 "36","NY","New York","Penfield","city",NA,"March",2019,18600,18000,600
@@ -2162,7 +2289,8 @@
 "36","NY","New York","Perinton","city",NA,"February",2020,24600,23800,800
 "36","NY","New York","Perinton","city",NA,"March",2020,24500,23600,800
 "36","NY","New York","Perinton","city",NA,"April",2020,23100,20400,2700
-"36","NY","New York","Perinton","city",NA,"May",2020,23600,21500,2000
+"36","NY","New York","Perinton","city",NA,"May",2020,23600,21600,2000
+"36","NY","New York","Perinton","city",NA,"June",2020,23800,21700,2100
 "36","NY","New York","Perinton","city",NA,"January",2019,24200,23300,800
 "36","NY","New York","Perinton","city",NA,"February",2019,24400,23500,800
 "36","NY","New York","Perinton","city",NA,"March",2019,24400,23600,800
@@ -2179,7 +2307,8 @@
 "36","NY","New York","Pittsford","city",NA,"February",2020,14200,13700,400
 "36","NY","New York","Pittsford","city",NA,"March",2020,14100,13600,400
 "36","NY","New York","Pittsford","city",NA,"April",2020,13000,11800,1200
-"36","NY","New York","Pittsford","city",NA,"May",2020,13300,12400,900
+"36","NY","New York","Pittsford","city",NA,"May",2020,13400,12500,900
+"36","NY","New York","Pittsford","city",NA,"June",2020,13600,12500,1100
 "36","NY","New York","Pittsford","city",NA,"January",2019,13900,13500,500
 "36","NY","New York","Pittsford","city",NA,"February",2019,14100,13600,500
 "36","NY","New York","Pittsford","city",NA,"March",2019,14100,13600,400
@@ -2196,7 +2325,8 @@
 "36","NY","New York","Port Chester Village Ny","city",NA,"February",2020,16900,16200,600
 "36","NY","New York","Port Chester Village Ny","city",NA,"March",2020,16800,16200,600
 "36","NY","New York","Port Chester Village Ny","city",NA,"April",2020,15500,13700,1800
-"36","NY","New York","Port Chester Village Ny","city",NA,"May",2020,16200,14600,1500
+"36","NY","New York","Port Chester Village Ny","city",NA,"May",2020,16200,14700,1500
+"36","NY","New York","Port Chester Village Ny","city",NA,"June",2020,16300,14600,1700
 "36","NY","New York","Port Chester Village Ny","city",NA,"January",2019,16600,16000,600
 "36","NY","New York","Port Chester Village Ny","city",NA,"February",2019,16700,16100,600
 "36","NY","New York","Port Chester Village Ny","city",NA,"March",2019,16800,16200,600
@@ -2214,6 +2344,7 @@
 "36","NY","New York","Poughkeepsie","city",NA,"March",2020,13500,12900,600
 "36","NY","New York","Poughkeepsie","city",NA,"April",2020,13400,11100,2300
 "36","NY","New York","Poughkeepsie","city",NA,"May",2020,13600,11800,1800
+"36","NY","New York","Poughkeepsie","city",NA,"June",2020,14000,11800,2200
 "36","NY","New York","Poughkeepsie","city",NA,"January",2019,13500,12800,700
 "36","NY","New York","Poughkeepsie","city",NA,"February",2019,13500,12800,700
 "36","NY","New York","Poughkeepsie","city",NA,"March",2019,13500,12900,600
@@ -2230,7 +2361,8 @@
 "36","NY","New York","Poughkeepsie","city",NA,"February",2020,21900,21100,800
 "36","NY","New York","Poughkeepsie","city",NA,"March",2020,21900,21000,800
 "36","NY","New York","Poughkeepsie","city",NA,"April",2020,21100,18200,2900
-"36","NY","New York","Poughkeepsie","city",NA,"May",2020,21500,19200,2200
+"36","NY","New York","Poughkeepsie","city",NA,"May",2020,21500,19300,2200
+"36","NY","New York","Poughkeepsie","city",NA,"June",2020,21600,19200,2400
 "36","NY","New York","Poughkeepsie","city",NA,"January",2019,21600,20800,800
 "36","NY","New York","Poughkeepsie","city",NA,"February",2019,21600,20800,800
 "36","NY","New York","Poughkeepsie","city",NA,"March",2019,21700,21000,700
@@ -2247,7 +2379,8 @@
 "36","NY","New York","Queensbury","city",NA,"February",2020,13200,12700,600
 "36","NY","New York","Queensbury","city",NA,"March",2020,13200,12600,600
 "36","NY","New York","Queensbury","city",NA,"April",2020,12900,10900,2100
-"36","NY","New York","Queensbury","city",NA,"May",2020,13300,11800,1500
+"36","NY","New York","Queensbury","city",NA,"May",2020,13400,11900,1500
+"36","NY","New York","Queensbury","city",NA,"June",2020,13400,11900,1500
 "36","NY","New York","Queensbury","city",NA,"January",2019,13000,12300,600
 "36","NY","New York","Queensbury","city",NA,"February",2019,13000,12400,600
 "36","NY","New York","Queensbury","city",NA,"March",2019,13000,12400,600
@@ -2264,7 +2397,8 @@
 "36","NY","New York","Ramapo","city",NA,"February",2020,58400,56600,1800
 "36","NY","New York","Ramapo","city",NA,"March",2020,58400,56500,1900
 "36","NY","New York","Ramapo","city",NA,"April",2020,53600,47600,6000
-"36","NY","New York","Ramapo","city",NA,"May",2020,56300,50900,5400
+"36","NY","New York","Ramapo","city",NA,"May",2020,56600,51100,5500
+"36","NY","New York","Ramapo","city",NA,"June",2020,57000,51000,6100
 "36","NY","New York","Ramapo","city",NA,"January",2019,57800,55900,1900
 "36","NY","New York","Ramapo","city",NA,"February",2019,58100,56100,1900
 "36","NY","New York","Ramapo","city",NA,"March",2019,58400,56600,1800
@@ -2281,7 +2415,8 @@
 "36","NY","New York","Riverhead Ny","city",NA,"February",2020,16400,15600,900
 "36","NY","New York","Riverhead Ny","city",NA,"March",2020,16300,15400,900
 "36","NY","New York","Riverhead Ny","city",NA,"April",2020,15400,13000,2400
-"36","NY","New York","Riverhead Ny","city",NA,"May",2020,15800,13900,1900
+"36","NY","New York","Riverhead Ny","city",NA,"May",2020,15700,13900,1900
+"36","NY","New York","Riverhead Ny","city",NA,"June",2020,16000,14100,2000
 "36","NY","New York","Riverhead Ny","city",NA,"January",2019,16300,15300,1000
 "36","NY","New York","Riverhead Ny","city",NA,"February",2019,16200,15300,1000
 "36","NY","New York","Riverhead Ny","city",NA,"March",2019,16200,15400,800
@@ -2298,7 +2433,8 @@
 "36","NY","New York","Rochester","city",NA,"February",2020,90200,84800,5400
 "36","NY","New York","Rochester","city",NA,"March",2020,89900,84300,5600
 "36","NY","New York","Rochester","city",NA,"April",2020,88900,72700,16200
-"36","NY","New York","Rochester","city",NA,"May",2020,90300,76800,13500
+"36","NY","New York","Rochester","city",NA,"May",2020,90700,77100,13600
+"36","NY","New York","Rochester","city",NA,"June",2020,92800,77400,15400
 "36","NY","New York","Rochester","city",NA,"January",2019,88800,83200,5600
 "36","NY","New York","Rochester","city",NA,"February",2019,89500,83900,5600
 "36","NY","New York","Rochester","city",NA,"March",2019,89200,84100,5100
@@ -2315,7 +2451,8 @@
 "36","NY","New York","Rockville Centre","city",NA,"February",2020,12500,12100,400
 "36","NY","New York","Rockville Centre","city",NA,"March",2020,12400,12000,400
 "36","NY","New York","Rockville Centre","city",NA,"April",2020,11500,10100,1400
-"36","NY","New York","Rockville Centre","city",NA,"May",2020,12000,10900,1100
+"36","NY","New York","Rockville Centre","city",NA,"May",2020,11900,10800,1200
+"36","NY","New York","Rockville Centre","city",NA,"June",2020,12300,10900,1300
 "36","NY","New York","Rockville Centre","city",NA,"January",2019,12200,11800,400
 "36","NY","New York","Rockville Centre","city",NA,"February",2019,12200,11900,400
 "36","NY","New York","Rockville Centre","city",NA,"March",2019,12300,12000,400
@@ -2332,7 +2469,8 @@
 "36","NY","New York","Rome","city",NA,"February",2020,13300,12700,600
 "36","NY","New York","Rome","city",NA,"March",2020,13300,12600,600
 "36","NY","New York","Rome","city",NA,"April",2020,13400,11200,2200
-"36","NY","New York","Rome","city",NA,"May",2020,13500,11800,1700
+"36","NY","New York","Rome","city",NA,"May",2020,13600,11900,1700
+"36","NY","New York","Rome","city",NA,"June",2020,13600,12000,1600
 "36","NY","New York","Rome","city",NA,"January",2019,13300,12700,700
 "36","NY","New York","Rome","city",NA,"February",2019,13300,12700,600
 "36","NY","New York","Rome","city",NA,"March",2019,13300,12700,600
@@ -2349,7 +2487,8 @@
 "36","NY","New York","Rotterdam","city",NA,"February",2020,15800,15300,600
 "36","NY","New York","Rotterdam","city",NA,"March",2020,15800,15200,600
 "36","NY","New York","Rotterdam","city",NA,"April",2020,15600,13400,2100
-"36","NY","New York","Rotterdam","city",NA,"May",2020,15900,14300,1700
+"36","NY","New York","Rotterdam","city",NA,"May",2020,15900,14200,1700
+"36","NY","New York","Rotterdam","city",NA,"June",2020,15800,14100,1700
 "36","NY","New York","Rotterdam","city",NA,"January",2019,15500,14900,700
 "36","NY","New York","Rotterdam","city",NA,"February",2019,15600,14900,700
 "36","NY","New York","Rotterdam","city",NA,"March",2019,15500,14900,600
@@ -2366,7 +2505,8 @@
 "36","NY","New York","Rye","city",NA,"February",2020,25300,24400,900
 "36","NY","New York","Rye","city",NA,"March",2020,25300,24400,900
 "36","NY","New York","Rye","city",NA,"April",2020,23300,20600,2700
-"36","NY","New York","Rye","city",NA,"May",2020,24200,22000,2200
+"36","NY","New York","Rye","city",NA,"May",2020,24300,22100,2200
+"36","NY","New York","Rye","city",NA,"June",2020,24500,22000,2500
 "36","NY","New York","Rye","city",NA,"January",2019,25000,24100,900
 "36","NY","New York","Rye","city",NA,"February",2019,25100,24200,900
 "36","NY","New York","Rye","city",NA,"March",2019,25300,24400,800
@@ -2384,6 +2524,7 @@
 "36","NY","New York","Salina","city",NA,"March",2020,16400,15700,700
 "36","NY","New York","Salina","city",NA,"April",2020,16600,13600,3000
 "36","NY","New York","Salina","city",NA,"May",2020,16700,14400,2300
+"36","NY","New York","Salina","city",NA,"June",2020,16500,14300,2200
 "36","NY","New York","Salina","city",NA,"January",2019,16200,15500,700
 "36","NY","New York","Salina","city",NA,"February",2019,16300,15600,700
 "36","NY","New York","Salina","city",NA,"March",2019,16300,15600,600
@@ -2401,6 +2542,7 @@
 "36","NY","New York","Saratoga Springs","city",NA,"March",2020,14100,13600,500
 "36","NY","New York","Saratoga Springs","city",NA,"April",2020,14100,12000,2000
 "36","NY","New York","Saratoga Springs","city",NA,"May",2020,14300,12800,1600
+"36","NY","New York","Saratoga Springs","city",NA,"June",2020,14400,12600,1800
 "36","NY","New York","Saratoga Springs","city",NA,"January",2019,13900,13300,600
 "36","NY","New York","Saratoga Springs","city",NA,"February",2019,13900,13400,600
 "36","NY","New York","Saratoga Springs","city",NA,"March",2019,13900,13400,500
@@ -2418,6 +2560,7 @@
 "36","NY","New York","Schenectady","city",NA,"March",2020,30500,29000,1500
 "36","NY","New York","Schenectady","city",NA,"April",2020,30400,25600,4800
 "36","NY","New York","Schenectady","city",NA,"May",2020,31300,27100,4200
+"36","NY","New York","Schenectady","city",NA,"June",2020,31600,26800,4700
 "36","NY","New York","Schenectady","city",NA,"January",2019,29800,28300,1600
 "36","NY","New York","Schenectady","city",NA,"February",2019,29900,28400,1500
 "36","NY","New York","Schenectady","city",NA,"March",2019,29900,28400,1400
@@ -2434,7 +2577,8 @@
 "36","NY","New York","Smithtown","city",NA,"February",2020,60100,58200,2000
 "36","NY","New York","Smithtown","city",NA,"March",2020,59700,57700,2000
 "36","NY","New York","Smithtown","city",NA,"April",2020,57200,48400,8800
-"36","NY","New York","Smithtown","city",NA,"May",2020,58900,52100,6700
+"36","NY","New York","Smithtown","city",NA,"May",2020,58500,51800,6700
+"36","NY","New York","Smithtown","city",NA,"June",2020,59800,52600,7200
 "36","NY","New York","Smithtown","city",NA,"January",2019,59000,57000,2000
 "36","NY","New York","Smithtown","city",NA,"February",2019,59000,57000,2000
 "36","NY","New York","Smithtown","city",NA,"March",2019,59500,57600,1900
@@ -2451,7 +2595,8 @@
 "36","NY","New York","Southampton","city",NA,"February",2020,30300,28500,1800
 "36","NY","New York","Southampton","city",NA,"March",2020,30000,28200,1800
 "36","NY","New York","Southampton","city",NA,"April",2020,27900,23700,4200
-"36","NY","New York","Southampton","city",NA,"May",2020,28500,25500,3000
+"36","NY","New York","Southampton","city",NA,"May",2020,28300,25400,3000
+"36","NY","New York","Southampton","city",NA,"June",2020,28800,25700,3000
 "36","NY","New York","Southampton","city",NA,"January",2019,29700,27900,1800
 "36","NY","New York","Southampton","city",NA,"February",2019,29700,27900,1800
 "36","NY","New York","Southampton","city",NA,"March",2019,29800,28200,1600
@@ -2469,6 +2614,7 @@
 "36","NY","New York","Spring Valley Village","city",NA,"March",2020,14900,14400,500
 "36","NY","New York","Spring Valley Village","city",NA,"April",2020,13700,12100,1600
 "36","NY","New York","Spring Valley Village","city",NA,"May",2020,14400,13000,1400
+"36","NY","New York","Spring Valley Village","city",NA,"June",2020,14600,13000,1700
 "36","NY","New York","Spring Valley Village","city",NA,"January",2019,14800,14200,600
 "36","NY","New York","Spring Valley Village","city",NA,"February",2019,14800,14300,500
 "36","NY","New York","Spring Valley Village","city",NA,"March",2019,14900,14400,500
@@ -2486,6 +2632,7 @@
 "36","NY","New York","Syracuse","city",NA,"March",2020,58300,55200,3100
 "36","NY","New York","Syracuse","city",NA,"April",2020,58100,47500,10600
 "36","NY","New York","Syracuse","city",NA,"May",2020,59200,50500,8700
+"36","NY","New York","Syracuse","city",NA,"June",2020,60000,50300,9700
 "36","NY","New York","Syracuse","city",NA,"January",2019,57600,54400,3200
 "36","NY","New York","Syracuse","city",NA,"February",2019,57800,54500,3200
 "36","NY","New York","Syracuse","city",NA,"March",2019,57700,54700,3000
@@ -2502,7 +2649,8 @@
 "36","NY","New York","Tonawanda","city",NA,"February",2020,37700,36000,1600
 "36","NY","New York","Tonawanda","city",NA,"March",2020,37600,35900,1700
 "36","NY","New York","Tonawanda","city",NA,"April",2020,37400,30400,7100
-"36","NY","New York","Tonawanda","city",NA,"May",2020,37600,32400,5200
+"36","NY","New York","Tonawanda","city",NA,"May",2020,37800,32600,5200
+"36","NY","New York","Tonawanda","city",NA,"June",2020,37900,33000,4900
 "36","NY","New York","Tonawanda","city",NA,"January",2019,37300,35700,1700
 "36","NY","New York","Tonawanda","city",NA,"February",2019,37300,35700,1600
 "36","NY","New York","Tonawanda","city",NA,"March",2019,37400,35900,1500
@@ -2519,7 +2667,8 @@
 "36","NY","New York","Troy","city",NA,"February",2020,23200,22100,1100
 "36","NY","New York","Troy","city",NA,"March",2020,23200,22100,1200
 "36","NY","New York","Troy","city",NA,"April",2020,22900,19500,3400
-"36","NY","New York","Troy","city",NA,"May",2020,23500,20700,2800
+"36","NY","New York","Troy","city",NA,"May",2020,23400,20600,2800
+"36","NY","New York","Troy","city",NA,"June",2020,23600,20400,3200
 "36","NY","New York","Troy","city",NA,"January",2019,22800,21600,1200
 "36","NY","New York","Troy","city",NA,"February",2019,22800,21600,1200
 "36","NY","New York","Troy","city",NA,"March",2019,22800,21700,1100
@@ -2536,7 +2685,8 @@
 "36","NY","New York","Union","city",NA,"February",2020,24700,23500,1200
 "36","NY","New York","Union","city",NA,"March",2020,24700,23400,1200
 "36","NY","New York","Union","city",NA,"April",2020,25300,21200,4000
-"36","NY","New York","Union","city",NA,"May",2020,25600,22700,2900
+"36","NY","New York","Union","city",NA,"May",2020,25700,22800,2900
+"36","NY","New York","Union","city",NA,"June",2020,25500,22500,3000
 "36","NY","New York","Union","city",NA,"January",2019,24400,23100,1300
 "36","NY","New York","Union","city",NA,"February",2019,24500,23300,1200
 "36","NY","New York","Union","city",NA,"March",2019,24600,23400,1100
@@ -2553,7 +2703,8 @@
 "36","NY","New York","Utica","city",NA,"February",2020,23200,22000,1100
 "36","NY","New York","Utica","city",NA,"March",2020,23000,21900,1100
 "36","NY","New York","Utica","city",NA,"April",2020,23700,19500,4200
-"36","NY","New York","Utica","city",NA,"May",2020,24000,20500,3500
+"36","NY","New York","Utica","city",NA,"May",2020,24100,20600,3500
+"36","NY","New York","Utica","city",NA,"June",2020,24400,20800,3600
 "36","NY","New York","Utica","city",NA,"January",2019,23300,22000,1300
 "36","NY","New York","Utica","city",NA,"February",2019,23300,22000,1200
 "36","NY","New York","Utica","city",NA,"March",2019,23100,22000,1100
@@ -2570,7 +2721,8 @@
 "36","NY","New York","Valley Stream","city",NA,"February",2020,19800,19100,700
 "36","NY","New York","Valley Stream","city",NA,"March",2020,19700,18900,800
 "36","NY","New York","Valley Stream","city",NA,"April",2020,19400,15900,3600
-"36","NY","New York","Valley Stream","city",NA,"May",2020,20100,17100,2900
+"36","NY","New York","Valley Stream","city",NA,"May",2020,19900,17000,2900
+"36","NY","New York","Valley Stream","city",NA,"June",2020,20500,17200,3200
 "36","NY","New York","Valley Stream","city",NA,"January",2019,19400,18700,700
 "36","NY","New York","Valley Stream","city",NA,"February",2019,19400,18700,700
 "36","NY","New York","Valley Stream","city",NA,"March",2019,19600,18900,700
@@ -2587,7 +2739,8 @@
 "36","NY","New York","Vestal","city",NA,"February",2020,11500,10900,500
 "36","NY","New York","Vestal","city",NA,"March",2020,11400,10900,500
 "36","NY","New York","Vestal","city",NA,"April",2020,11200,9900,1300
-"36","NY","New York","Vestal","city",NA,"May",2020,11500,10500,900
+"36","NY","New York","Vestal","city",NA,"May",2020,11500,10600,900
+"36","NY","New York","Vestal","city",NA,"June",2020,11500,10500,1000
 "36","NY","New York","Vestal","city",NA,"January",2019,11300,10700,600
 "36","NY","New York","Vestal","city",NA,"February",2019,11400,10800,600
 "36","NY","New York","Vestal","city",NA,"March",2019,11400,10900,500
@@ -2605,6 +2758,7 @@
 "36","NY","New York","Wallkill Ny","city",NA,"March",2020,14900,14300,600
 "36","NY","New York","Wallkill Ny","city",NA,"April",2020,14400,12100,2300
 "36","NY","New York","Wallkill Ny","city",NA,"May",2020,14800,12900,1900
+"36","NY","New York","Wallkill Ny","city",NA,"June",2020,15000,12900,2100
 "36","NY","New York","Wallkill Ny","city",NA,"January",2019,14900,14300,600
 "36","NY","New York","Wallkill Ny","city",NA,"February",2019,14900,14300,600
 "36","NY","New York","Wallkill Ny","city",NA,"March",2019,14900,14300,600
@@ -2622,6 +2776,7 @@
 "36","NY","New York","Wappinger","city",NA,"March",2020,14500,14000,500
 "36","NY","New York","Wappinger","city",NA,"April",2020,14400,12100,2300
 "36","NY","New York","Wappinger","city",NA,"May",2020,14500,12800,1700
+"36","NY","New York","Wappinger","city",NA,"June",2020,14500,12800,1800
 "36","NY","New York","Wappinger","city",NA,"January",2019,14400,13800,500
 "36","NY","New York","Wappinger","city",NA,"February",2019,14400,13800,500
 "36","NY","New York","Wappinger","city",NA,"March",2019,14400,13900,500
@@ -2639,6 +2794,7 @@
 "36","NY","New York","Warwick","city",NA,"March",2020,15800,15200,600
 "36","NY","New York","Warwick","city",NA,"April",2020,15100,12800,2200
 "36","NY","New York","Warwick","city",NA,"May",2020,15300,13700,1600
+"36","NY","New York","Warwick","city",NA,"June",2020,15500,13700,1700
 "36","NY","New York","Warwick","city",NA,"January",2019,15800,15200,600
 "36","NY","New York","Warwick","city",NA,"February",2019,15800,15200,600
 "36","NY","New York","Warwick","city",NA,"March",2019,15800,15200,600
@@ -2655,7 +2811,8 @@
 "36","NY","New York","Watertown","city",NA,"February",2020,10300,9700,600
 "36","NY","New York","Watertown","city",NA,"March",2020,10200,9600,600
 "36","NY","New York","Watertown","city",NA,"April",2020,10500,8400,2100
-"36","NY","New York","Watertown","city",NA,"May",2020,10400,8800,1600
+"36","NY","New York","Watertown","city",NA,"May",2020,10400,8900,1500
+"36","NY","New York","Watertown","city",NA,"June",2020,10600,9100,1500
 "36","NY","New York","Watertown","city",NA,"January",2019,10200,9700,600
 "36","NY","New York","Watertown","city",NA,"February",2019,10200,9700,600
 "36","NY","New York","Watertown","city",NA,"March",2019,10200,9700,500
@@ -2672,7 +2829,8 @@
 "36","NY","New York","Webster","city",NA,"February",2020,22700,21900,800
 "36","NY","New York","Webster","city",NA,"March",2020,22600,21800,800
 "36","NY","New York","Webster","city",NA,"April",2020,21800,18800,3000
-"36","NY","New York","Webster","city",NA,"May",2020,22000,19900,2200
+"36","NY","New York","Webster","city",NA,"May",2020,22100,19900,2100
+"36","NY","New York","Webster","city",NA,"June",2020,22100,20000,2100
 "36","NY","New York","Webster","city",NA,"January",2019,22400,21500,900
 "36","NY","New York","Webster","city",NA,"February",2019,22500,21700,800
 "36","NY","New York","Webster","city",NA,"March",2019,22500,21700,800
@@ -2689,7 +2847,8 @@
 "36","NY","New York","West Seneca","city",NA,"February",2020,23100,22100,1000
 "36","NY","New York","West Seneca","city",NA,"March",2020,23100,22000,1100
 "36","NY","New York","West Seneca","city",NA,"April",2020,23000,18600,4400
-"36","NY","New York","West Seneca","city",NA,"May",2020,23000,19800,3100
+"36","NY","New York","West Seneca","city",NA,"May",2020,23100,20000,3100
+"36","NY","New York","West Seneca","city",NA,"June",2020,23000,20200,2800
 "36","NY","New York","West Seneca","city",NA,"January",2019,23000,21900,1100
 "36","NY","New York","West Seneca","city",NA,"February",2019,23000,21900,1100
 "36","NY","New York","West Seneca","city",NA,"March",2019,23000,22000,1000
@@ -2706,7 +2865,8 @@
 "36","NY","New York","White Plains","city",NA,"February",2020,32300,31200,1100
 "36","NY","New York","White Plains","city",NA,"March",2020,32400,31200,1200
 "36","NY","New York","White Plains","city",NA,"April",2020,30200,26300,3900
-"36","NY","New York","White Plains","city",NA,"May",2020,31400,28100,3300
+"36","NY","New York","White Plains","city",NA,"May",2020,31500,28200,3300
+"36","NY","New York","White Plains","city",NA,"June",2020,31900,28100,3800
 "36","NY","New York","White Plains","city",NA,"January",2019,32000,30800,1200
 "36","NY","New York","White Plains","city",NA,"February",2019,32100,31000,1100
 "36","NY","New York","White Plains","city",NA,"March",2019,32300,31200,1100
@@ -2723,7 +2883,8 @@
 "36","NY","New York","Yonkers","city",NA,"February",2020,96000,91700,4400
 "36","NY","New York","Yonkers","city",NA,"March",2020,96100,91600,4500
 "36","NY","New York","Yonkers","city",NA,"April",2020,94900,77200,17800
-"36","NY","New York","Yonkers","city",NA,"May",2020,97600,82500,15000
+"36","NY","New York","Yonkers","city",NA,"May",2020,97800,82800,15000
+"36","NY","New York","Yonkers","city",NA,"June",2020,99500,82500,17000
 "36","NY","New York","Yonkers","city",NA,"January",2019,95000,90400,4600
 "36","NY","New York","Yonkers","city",NA,"February",2019,95300,90800,4500
 "36","NY","New York","Yonkers","city",NA,"March",2019,95700,91600,4100
@@ -2740,7 +2901,8 @@
 "36","NY","New York","Yorktown","city",NA,"February",2020,18200,17600,700
 "36","NY","New York","Yorktown","city",NA,"March",2020,18300,17500,700
 "36","NY","New York","Yorktown","city",NA,"April",2020,17300,14800,2600
-"36","NY","New York","Yorktown","city",NA,"May",2020,17700,15800,1900
+"36","NY","New York","Yorktown","city",NA,"May",2020,17800,15900,1900
+"36","NY","New York","Yorktown","city",NA,"June",2020,17900,15800,2100
 "36","NY","New York","Yorktown","city",NA,"January",2019,18000,17300,700
 "36","NY","New York","Yorktown","city",NA,"February",2019,18100,17400,700
 "36","NY","New York","Yorktown","city",NA,"March",2019,18200,17600,600

@@ -1,1055 +1,1117 @@
-Number of Records,Region,Adjustment,area,Area,Area Type,areatype,Employed,Labor Force,Period,periodtype,Year,Period Type,Preliminary or Final,stfips,Unemployed,Unemployment Rate
-1,MT,Not Adj,0,Montana,State,1,502439,526011,January,3,2019,Monthly,Final,30,23572,4.50%
-1,MT,Not Adj,0,Montana,State,1,504628,526862,February,3,2019,Monthly,Final,30,22234,4.20%
-1,MT,Not Adj,0,Montana,State,1,505541,527703,March,3,2019,Monthly,Final,30,22162,4.20%
-1,MT,Not Adj,0,Montana,State,1,510921,528624,April,3,2019,Monthly,Final,30,17703,3.30%
-1,MT,Not Adj,0,Montana,State,1,516822,532019,May,3,2019,Monthly,Final,30,15197,2.90%
-1,MT,Not Adj,0,Montana,State,1,521553,539659,June,3,2019,Monthly,Final,30,18106,3.40%
-1,MT,Not Adj,0,Montana,State,1,527026,543860,July,3,2019,Monthly,Final,30,16834,3.10%
-1,MT,Not Adj,0,Montana,State,1,525258,542082,August,3,2019,Monthly,Final,30,16824,3.10%
-1,MT,Not Adj,0,Montana,State,1,518723,534592,September,3,2019,Monthly,Final,30,15869,3.00%
-1,MT,Not Adj,0,Montana,State,1,518171,535076,October,3,2019,Monthly,Final,30,16905,3.20%
-1,MT,Not Adj,0,Montana,State,1,516106,534315,November,3,2019,Monthly,Final,30,18209,3.40%
-1,MT,Not Adj,0,Montana,State,1,511817,531156,December,3,2019,Monthly,Final,30,19339,3.60%
-1,MT,Not Adj,0,Montana,State,1,510463,534089,January,3,2020,Monthly,Final,30,23626,4.40%
-1,MT,Not Adj,0,Montana,State,1,512749,535223,February,3,2020,Monthly,Final,30,22474,4.20%
-1,MT,Not Adj,0,Montana,State,1,512504,535146,March,3,2020,Monthly,Final,30,22642,4.20%
-1,MT,Not Adj,0,Montana,State,1,456449,518037,April,3,2020,Monthly,Final,30,61588,11.90%
-1,MT,Not Adj,0,Montana,State,1,477874,522050,May,3,2020,Monthly,Preliminary,30,44176,8.50%
-1,MT,Not Adj,1,Beaverhead,County,4,4858,5071,January,3,2019,Monthly,Final,30,213,4.20%
-1,MT,Not Adj,1,Beaverhead,County,4,4899,5060,February,3,2019,Monthly,Final,30,161,3.20%
-1,MT,Not Adj,1,Beaverhead,County,4,4836,5011,March,3,2019,Monthly,Final,30,175,3.50%
-1,MT,Not Adj,1,Beaverhead,County,4,4894,5038,April,3,2019,Monthly,Final,30,144,2.90%
-1,MT,Not Adj,1,Beaverhead,County,4,4935,5058,May,3,2019,Monthly,Final,30,123,2.40%
-1,MT,Not Adj,1,Beaverhead,County,4,4921,5062,June,3,2019,Monthly,Final,30,141,2.80%
-1,MT,Not Adj,1,Beaverhead,County,4,5038,5164,July,3,2019,Monthly,Final,30,126,2.40%
-1,MT,Not Adj,1,Beaverhead,County,4,5007,5132,August,3,2019,Monthly,Final,30,125,2.40%
-1,MT,Not Adj,1,Beaverhead,County,4,4932,5056,September,3,2019,Monthly,Final,30,124,2.50%
-1,MT,Not Adj,1,Beaverhead,County,4,4974,5105,October,3,2019,Monthly,Final,30,131,2.60%
-1,MT,Not Adj,1,Beaverhead,County,4,4925,5080,November,3,2019,Monthly,Final,30,155,3.10%
-1,MT,Not Adj,1,Beaverhead,County,4,4843,5009,December,3,2019,Monthly,Final,30,166,3.30%
-1,MT,Not Adj,1,Beaverhead,County,4,4798,4981,January,3,2020,Monthly,Final,30,183,3.70%
-1,MT,Not Adj,1,Beaverhead,County,4,4853,5024,February,3,2020,Monthly,Final,30,171,3.40%
-1,MT,Not Adj,1,Beaverhead,County,4,4920,5095,March,3,2020,Monthly,Final,30,175,3.40%
-1,MT,Not Adj,1,Beaverhead,County,4,4400,4744,April,3,2020,Monthly,Final,30,344,7.30%
-1,MT,Not Adj,1,Beaverhead,County,4,4560,4807,May,3,2020,Monthly,Preliminary,30,247,5.10%
-1,MT,Not Adj,3,Big Horn,County,4,4453,4904,January,3,2019,Monthly,Final,30,451,9.20%
-1,MT,Not Adj,3,Big Horn,County,4,4429,4854,February,3,2019,Monthly,Final,30,425,8.80%
-1,MT,Not Adj,3,Big Horn,County,4,4474,4894,March,3,2019,Monthly,Final,30,420,8.60%
-1,MT,Not Adj,3,Big Horn,County,4,4517,4890,April,3,2019,Monthly,Final,30,373,7.60%
-1,MT,Not Adj,3,Big Horn,County,4,4507,4826,May,3,2019,Monthly,Final,30,319,6.60%
-1,MT,Not Adj,3,Big Horn,County,4,4388,4748,June,3,2019,Monthly,Final,30,360,7.60%
-1,MT,Not Adj,3,Big Horn,County,4,4430,4768,July,3,2019,Monthly,Final,30,338,7.10%
-1,MT,Not Adj,3,Big Horn,County,4,4476,4823,August,3,2019,Monthly,Final,30,347,7.20%
-1,MT,Not Adj,3,Big Horn,County,4,4546,4854,September,3,2019,Monthly,Final,30,308,6.30%
-1,MT,Not Adj,3,Big Horn,County,4,4541,4849,October,3,2019,Monthly,Final,30,308,6.40%
-1,MT,Not Adj,3,Big Horn,County,4,4513,4834,November,3,2019,Monthly,Final,30,321,6.60%
-1,MT,Not Adj,3,Big Horn,County,4,4424,4740,December,3,2019,Monthly,Final,30,316,6.70%
-1,MT,Not Adj,3,Big Horn,County,4,4318,4657,January,3,2020,Monthly,Final,30,339,7.30%
-1,MT,Not Adj,3,Big Horn,County,4,4310,4657,February,3,2020,Monthly,Final,30,347,7.50%
-1,MT,Not Adj,3,Big Horn,County,4,4391,4755,March,3,2020,Monthly,Final,30,364,7.70%
-1,MT,Not Adj,3,Big Horn,County,4,3900,4362,April,3,2020,Monthly,Final,30,462,10.60%
-1,MT,Not Adj,3,Big Horn,County,4,4077,4497,May,3,2020,Monthly,Preliminary,30,420,9.30%
-1,MT,Not Adj,5,Blaine,County,4,2346,2473,January,3,2019,Monthly,Final,30,127,5.10%
-1,MT,Not Adj,5,Blaine,County,4,2344,2446,February,3,2019,Monthly,Final,30,102,4.20%
-1,MT,Not Adj,5,Blaine,County,4,2373,2479,March,3,2019,Monthly,Final,30,106,4.30%
-1,MT,Not Adj,5,Blaine,County,4,2415,2495,April,3,2019,Monthly,Final,30,80,3.20%
-1,MT,Not Adj,5,Blaine,County,4,2440,2505,May,3,2019,Monthly,Final,30,65,2.60%
-1,MT,Not Adj,5,Blaine,County,4,2318,2399,June,3,2019,Monthly,Final,30,81,3.40%
-1,MT,Not Adj,5,Blaine,County,4,2315,2388,July,3,2019,Monthly,Final,30,73,3.10%
-1,MT,Not Adj,5,Blaine,County,4,2448,2523,August,3,2019,Monthly,Final,30,75,3.00%
-1,MT,Not Adj,5,Blaine,County,4,2435,2509,September,3,2019,Monthly,Final,30,74,2.90%
-1,MT,Not Adj,5,Blaine,County,4,2481,2561,October,3,2019,Monthly,Final,30,80,3.10%
-1,MT,Not Adj,5,Blaine,County,4,2450,2540,November,3,2019,Monthly,Final,30,90,3.50%
-1,MT,Not Adj,5,Blaine,County,4,2421,2524,December,3,2019,Monthly,Final,30,103,4.10%
-1,MT,Not Adj,5,Blaine,County,4,2376,2495,January,3,2020,Monthly,Final,30,119,4.80%
-1,MT,Not Adj,5,Blaine,County,4,2424,2530,February,3,2020,Monthly,Final,30,106,4.20%
-1,MT,Not Adj,5,Blaine,County,4,2441,2549,March,3,2020,Monthly,Final,30,108,4.20%
-1,MT,Not Adj,5,Blaine,County,4,2227,2354,April,3,2020,Monthly,Final,30,127,5.40%
-1,MT,Not Adj,5,Blaine,County,4,2281,2394,May,3,2020,Monthly,Preliminary,30,113,4.70%
-1,MT,Not Adj,7,Broadwater,County,4,2406,2528,January,3,2019,Monthly,Final,30,122,4.80%
-1,MT,Not Adj,7,Broadwater,County,4,2430,2542,February,3,2019,Monthly,Final,30,112,4.40%
-1,MT,Not Adj,7,Broadwater,County,4,2453,2568,March,3,2019,Monthly,Final,30,115,4.50%
-1,MT,Not Adj,7,Broadwater,County,4,2442,2538,April,3,2019,Monthly,Final,30,96,3.80%
-1,MT,Not Adj,7,Broadwater,County,4,2480,2573,May,3,2019,Monthly,Final,30,93,3.60%
-1,MT,Not Adj,7,Broadwater,County,4,2518,2625,June,3,2019,Monthly,Final,30,107,4.10%
-1,MT,Not Adj,7,Broadwater,County,4,2568,2676,July,3,2019,Monthly,Final,30,108,4.00%
-1,MT,Not Adj,7,Broadwater,County,4,2552,2645,August,3,2019,Monthly,Final,30,93,3.50%
-1,MT,Not Adj,7,Broadwater,County,4,2491,2577,September,3,2019,Monthly,Final,30,86,3.30%
-1,MT,Not Adj,7,Broadwater,County,4,2494,2581,October,3,2019,Monthly,Final,30,87,3.40%
-1,MT,Not Adj,7,Broadwater,County,4,2494,2599,November,3,2019,Monthly,Final,30,105,4.00%
-1,MT,Not Adj,7,Broadwater,County,4,2451,2558,December,3,2019,Monthly,Final,30,107,4.20%
-1,MT,Not Adj,7,Broadwater,County,4,2442,2582,January,3,2020,Monthly,Final,30,140,5.40%
-1,MT,Not Adj,7,Broadwater,County,4,2464,2595,February,3,2020,Monthly,Final,30,131,5.00%
-1,MT,Not Adj,7,Broadwater,County,4,2468,2597,March,3,2020,Monthly,Final,30,129,5.00%
-1,MT,Not Adj,7,Broadwater,County,4,2184,2460,April,3,2020,Monthly,Final,30,276,11.20%
-1,MT,Not Adj,7,Broadwater,County,4,2282,2470,May,3,2020,Monthly,Preliminary,30,188,7.60%
-1,MT,Not Adj,9,Carbon,County,4,5230,5489,January,3,2019,Monthly,Final,30,259,4.70%
-1,MT,Not Adj,9,Carbon,County,4,5203,5447,February,3,2019,Monthly,Final,30,244,4.50%
-1,MT,Not Adj,9,Carbon,County,4,5235,5483,March,3,2019,Monthly,Final,30,248,4.50%
-1,MT,Not Adj,9,Carbon,County,4,5291,5471,April,3,2019,Monthly,Final,30,180,3.30%
-1,MT,Not Adj,9,Carbon,County,4,5302,5456,May,3,2019,Monthly,Final,30,154,2.80%
-1,MT,Not Adj,9,Carbon,County,4,5290,5460,June,3,2019,Monthly,Final,30,170,3.10%
-1,MT,Not Adj,9,Carbon,County,4,5319,5480,July,3,2019,Monthly,Final,30,161,2.90%
-1,MT,Not Adj,9,Carbon,County,4,5340,5497,August,3,2019,Monthly,Final,30,157,2.90%
-1,MT,Not Adj,9,Carbon,County,4,5340,5485,September,3,2019,Monthly,Final,30,145,2.60%
-1,MT,Not Adj,9,Carbon,County,4,5348,5511,October,3,2019,Monthly,Final,30,163,3.00%
-1,MT,Not Adj,9,Carbon,County,4,5329,5520,November,3,2019,Monthly,Final,30,191,3.50%
-1,MT,Not Adj,9,Carbon,County,4,5283,5482,December,3,2019,Monthly,Final,30,199,3.60%
-1,MT,Not Adj,9,Carbon,County,4,5245,5519,January,3,2020,Monthly,Final,30,274,5.00%
-1,MT,Not Adj,9,Carbon,County,4,5265,5516,February,3,2020,Monthly,Final,30,251,4.60%
-1,MT,Not Adj,9,Carbon,County,4,5266,5515,March,3,2020,Monthly,Final,30,249,4.50%
-1,MT,Not Adj,9,Carbon,County,4,4821,5499,April,3,2020,Monthly,Final,30,678,12.30%
-1,MT,Not Adj,9,Carbon,County,4,4941,5412,May,3,2020,Monthly,Preliminary,30,471,8.70%
-1,MT,Not Adj,11,Carter,County,4,629,658,January,3,2019,Monthly,Final,30,29,4.40%
-1,MT,Not Adj,11,Carter,County,4,593,612,February,3,2019,Monthly,Final,30,19,3.10%
-1,MT,Not Adj,11,Carter,County,4,598,621,March,3,2019,Monthly,Final,30,23,3.70%
-1,MT,Not Adj,11,Carter,County,4,611,629,April,3,2019,Monthly,Final,30,18,2.90%
-1,MT,Not Adj,11,Carter,County,4,603,622,May,3,2019,Monthly,Final,30,19,3.10%
-1,MT,Not Adj,11,Carter,County,4,592,612,June,3,2019,Monthly,Final,30,20,3.30%
-1,MT,Not Adj,11,Carter,County,4,591,607,July,3,2019,Monthly,Final,30,16,2.60%
-1,MT,Not Adj,11,Carter,County,4,667,680,August,3,2019,Monthly,Final,30,13,1.90%
-1,MT,Not Adj,11,Carter,County,4,646,661,September,3,2019,Monthly,Final,30,15,2.30%
-1,MT,Not Adj,11,Carter,County,4,672,689,October,3,2019,Monthly,Final,30,17,2.50%
-1,MT,Not Adj,11,Carter,County,4,667,681,November,3,2019,Monthly,Final,30,14,2.10%
-1,MT,Not Adj,11,Carter,County,4,647,660,December,3,2019,Monthly,Final,30,13,2.00%
-1,MT,Not Adj,11,Carter,County,4,599,614,January,3,2020,Monthly,Final,30,15,2.40%
-1,MT,Not Adj,11,Carter,County,4,613,628,February,3,2020,Monthly,Final,30,15,2.40%
-1,MT,Not Adj,11,Carter,County,4,634,651,March,3,2020,Monthly,Final,30,17,2.60%
-1,MT,Not Adj,11,Carter,County,4,607,628,April,3,2020,Monthly,Final,30,21,3.30%
-1,MT,Not Adj,11,Carter,County,4,584,601,May,3,2020,Monthly,Preliminary,30,17,2.80%
-1,MT,Not Adj,13,Cascade,County,4,36212,37737,January,3,2019,Monthly,Final,30,1525,4.00%
-1,MT,Not Adj,13,Cascade,County,4,36362,37930,February,3,2019,Monthly,Final,30,1568,4.10%
-1,MT,Not Adj,13,Cascade,County,4,36495,38029,March,3,2019,Monthly,Final,30,1534,4.00%
-1,MT,Not Adj,13,Cascade,County,4,36794,37969,April,3,2019,Monthly,Final,30,1175,3.10%
-1,MT,Not Adj,13,Cascade,County,4,37010,38071,May,3,2019,Monthly,Final,30,1061,2.80%
-1,MT,Not Adj,13,Cascade,County,4,37170,38463,June,3,2019,Monthly,Final,30,1293,3.40%
-1,MT,Not Adj,13,Cascade,County,4,36475,37674,July,3,2019,Monthly,Final,30,1199,3.20%
-1,MT,Not Adj,13,Cascade,County,4,36330,37579,August,3,2019,Monthly,Final,30,1249,3.30%
-1,MT,Not Adj,13,Cascade,County,4,36721,37879,September,3,2019,Monthly,Final,30,1158,3.10%
-1,MT,Not Adj,13,Cascade,County,4,36765,37962,October,3,2019,Monthly,Final,30,1197,3.20%
-1,MT,Not Adj,13,Cascade,County,4,36868,38083,November,3,2019,Monthly,Final,30,1215,3.20%
-1,MT,Not Adj,13,Cascade,County,4,36616,37894,December,3,2019,Monthly,Final,30,1278,3.40%
-1,MT,Not Adj,13,Cascade,County,4,36720,38343,January,3,2020,Monthly,Final,30,1623,4.20%
-1,MT,Not Adj,13,Cascade,County,4,36657,38088,February,3,2020,Monthly,Final,30,1431,3.80%
-1,MT,Not Adj,13,Cascade,County,4,36434,37866,March,3,2020,Monthly,Final,30,1432,3.80%
-1,MT,Not Adj,13,Cascade,County,4,32347,36848,April,3,2020,Monthly,Final,30,4501,12.20%
-1,MT,Not Adj,13,Cascade,County,4,34938,37961,May,3,2020,Monthly,Preliminary,30,3023,8.00%
-1,MT,Not Adj,15,Chouteau,County,4,2327,2416,January,3,2019,Monthly,Final,30,89,3.70%
-1,MT,Not Adj,15,Chouteau,County,4,2308,2385,February,3,2019,Monthly,Final,30,77,3.20%
-1,MT,Not Adj,15,Chouteau,County,4,2293,2372,March,3,2019,Monthly,Final,30,79,3.30%
-1,MT,Not Adj,15,Chouteau,County,4,2359,2418,April,3,2019,Monthly,Final,30,59,2.40%
-1,MT,Not Adj,15,Chouteau,County,4,2395,2449,May,3,2019,Monthly,Final,30,54,2.20%
-1,MT,Not Adj,15,Chouteau,County,4,2403,2461,June,3,2019,Monthly,Final,30,58,2.40%
-1,MT,Not Adj,15,Chouteau,County,4,2367,2423,July,3,2019,Monthly,Final,30,56,2.30%
-1,MT,Not Adj,15,Chouteau,County,4,2455,2508,August,3,2019,Monthly,Final,30,53,2.10%
-1,MT,Not Adj,15,Chouteau,County,4,2400,2460,September,3,2019,Monthly,Final,30,60,2.40%
-1,MT,Not Adj,15,Chouteau,County,4,2472,2540,October,3,2019,Monthly,Final,30,68,2.70%
-1,MT,Not Adj,15,Chouteau,County,4,2465,2526,November,3,2019,Monthly,Final,30,61,2.40%
-1,MT,Not Adj,15,Chouteau,County,4,2428,2509,December,3,2019,Monthly,Final,30,81,3.20%
-1,MT,Not Adj,15,Chouteau,County,4,2314,2401,January,3,2020,Monthly,Final,30,87,3.60%
-1,MT,Not Adj,15,Chouteau,County,4,2367,2449,February,3,2020,Monthly,Final,30,82,3.30%
-1,MT,Not Adj,15,Chouteau,County,4,2395,2479,March,3,2020,Monthly,Final,30,84,3.40%
-1,MT,Not Adj,15,Chouteau,County,4,2215,2356,April,3,2020,Monthly,Final,30,141,6.00%
-1,MT,Not Adj,15,Chouteau,County,4,2246,2356,May,3,2020,Monthly,Preliminary,30,110,4.70%
-1,MT,Not Adj,17,Custer,County,4,5715,5963,January,3,2019,Monthly,Final,30,248,4.20%
-1,MT,Not Adj,17,Custer,County,4,5745,5962,February,3,2019,Monthly,Final,30,217,3.60%
-1,MT,Not Adj,17,Custer,County,4,5724,5941,March,3,2019,Monthly,Final,30,217,3.70%
-1,MT,Not Adj,17,Custer,County,4,5851,6009,April,3,2019,Monthly,Final,30,158,2.60%
-1,MT,Not Adj,17,Custer,County,4,6037,6165,May,3,2019,Monthly,Final,30,128,2.10%
-1,MT,Not Adj,17,Custer,County,4,5849,6019,June,3,2019,Monthly,Final,30,170,2.80%
-1,MT,Not Adj,17,Custer,County,4,6007,6169,July,3,2019,Monthly,Final,30,162,2.60%
-1,MT,Not Adj,17,Custer,County,4,5911,6052,August,3,2019,Monthly,Final,30,141,2.30%
-1,MT,Not Adj,17,Custer,County,4,5937,6085,September,3,2019,Monthly,Final,30,148,2.40%
-1,MT,Not Adj,17,Custer,County,4,5961,6115,October,3,2019,Monthly,Final,30,154,2.50%
-1,MT,Not Adj,17,Custer,County,4,5987,6149,November,3,2019,Monthly,Final,30,162,2.60%
-1,MT,Not Adj,17,Custer,County,4,5907,6093,December,3,2019,Monthly,Final,30,186,3.10%
-1,MT,Not Adj,17,Custer,County,4,5839,6094,January,3,2020,Monthly,Final,30,255,4.20%
-1,MT,Not Adj,17,Custer,County,4,5874,6129,February,3,2020,Monthly,Final,30,255,4.20%
-1,MT,Not Adj,17,Custer,County,4,5825,6062,March,3,2020,Monthly,Final,30,237,3.90%
-1,MT,Not Adj,17,Custer,County,4,5132,5599,April,3,2020,Monthly,Final,30,467,8.30%
-1,MT,Not Adj,17,Custer,County,4,5445,5825,May,3,2020,Monthly,Preliminary,30,380,6.50%
-1,MT,Not Adj,19,Daniels,County,4,883,904,January,3,2019,Monthly,Final,30,21,2.30%
-1,MT,Not Adj,19,Daniels,County,4,850,868,February,3,2019,Monthly,Final,30,18,2.10%
-1,MT,Not Adj,19,Daniels,County,4,844,864,March,3,2019,Monthly,Final,30,20,2.30%
-1,MT,Not Adj,19,Daniels,County,4,870,882,April,3,2019,Monthly,Final,30,12,1.40%
-1,MT,Not Adj,19,Daniels,County,4,876,888,May,3,2019,Monthly,Final,30,12,1.40%
-1,MT,Not Adj,19,Daniels,County,4,844,867,June,3,2019,Monthly,Final,30,23,2.70%
-1,MT,Not Adj,19,Daniels,County,4,893,907,July,3,2019,Monthly,Final,30,14,1.50%
-1,MT,Not Adj,19,Daniels,County,4,902,916,August,3,2019,Monthly,Final,30,14,1.50%
-1,MT,Not Adj,19,Daniels,County,4,866,883,September,3,2019,Monthly,Final,30,17,1.90%
-1,MT,Not Adj,19,Daniels,County,4,893,910,October,3,2019,Monthly,Final,30,17,1.90%
-1,MT,Not Adj,19,Daniels,County,4,892,912,November,3,2019,Monthly,Final,30,20,2.20%
-1,MT,Not Adj,19,Daniels,County,4,883,906,December,3,2019,Monthly,Final,30,23,2.50%
-1,MT,Not Adj,19,Daniels,County,4,862,888,January,3,2020,Monthly,Final,30,26,2.90%
-1,MT,Not Adj,19,Daniels,County,4,869,896,February,3,2020,Monthly,Final,30,27,3.00%
-1,MT,Not Adj,19,Daniels,County,4,870,898,March,3,2020,Monthly,Final,30,28,3.10%
-1,MT,Not Adj,19,Daniels,County,4,799,835,April,3,2020,Monthly,Final,30,36,4.30%
-1,MT,Not Adj,19,Daniels,County,4,813,843,May,3,2020,Monthly,Preliminary,30,30,3.60%
-1,MT,Not Adj,21,Dawson,County,4,4458,4589,January,3,2019,Monthly,Final,30,131,2.90%
-1,MT,Not Adj,21,Dawson,County,4,4432,4549,February,3,2019,Monthly,Final,30,117,2.60%
-1,MT,Not Adj,21,Dawson,County,4,4411,4528,March,3,2019,Monthly,Final,30,117,2.60%
-1,MT,Not Adj,21,Dawson,County,4,4522,4619,April,3,2019,Monthly,Final,30,97,2.10%
-1,MT,Not Adj,21,Dawson,County,4,4507,4597,May,3,2019,Monthly,Final,30,90,2.00%
-1,MT,Not Adj,21,Dawson,County,4,4423,4536,June,3,2019,Monthly,Final,30,113,2.50%
-1,MT,Not Adj,21,Dawson,County,4,4483,4588,July,3,2019,Monthly,Final,30,105,2.30%
-1,MT,Not Adj,21,Dawson,County,4,4521,4619,August,3,2019,Monthly,Final,30,98,2.10%
-1,MT,Not Adj,21,Dawson,County,4,4421,4534,September,3,2019,Monthly,Final,30,113,2.50%
-1,MT,Not Adj,21,Dawson,County,4,4468,4580,October,3,2019,Monthly,Final,30,112,2.40%
-1,MT,Not Adj,21,Dawson,County,4,4483,4600,November,3,2019,Monthly,Final,30,117,2.50%
-1,MT,Not Adj,21,Dawson,County,4,4478,4603,December,3,2019,Monthly,Final,30,125,2.70%
-1,MT,Not Adj,21,Dawson,County,4,4398,4548,January,3,2020,Monthly,Final,30,150,3.30%
-1,MT,Not Adj,21,Dawson,County,4,4432,4568,February,3,2020,Monthly,Final,30,136,3.00%
-1,MT,Not Adj,21,Dawson,County,4,4415,4558,March,3,2020,Monthly,Final,30,143,3.10%
-1,MT,Not Adj,21,Dawson,County,4,3923,4230,April,3,2020,Monthly,Final,30,307,7.30%
-1,MT,Not Adj,21,Dawson,County,4,4052,4413,May,3,2020,Monthly,Preliminary,30,361,8.20%
-1,MT,Not Adj,23,Deer Lodge,County,4,4811,5015,January,3,2019,Monthly,Final,30,204,4.10%
-1,MT,Not Adj,23,Deer Lodge,County,4,4843,5039,February,3,2019,Monthly,Final,30,196,3.90%
-1,MT,Not Adj,23,Deer Lodge,County,4,4830,5008,March,3,2019,Monthly,Final,30,178,3.60%
-1,MT,Not Adj,23,Deer Lodge,County,4,4867,5029,April,3,2019,Monthly,Final,30,162,3.20%
-1,MT,Not Adj,23,Deer Lodge,County,4,4908,5040,May,3,2019,Monthly,Final,30,132,2.60%
-1,MT,Not Adj,23,Deer Lodge,County,4,4962,5115,June,3,2019,Monthly,Final,30,153,3.00%
-1,MT,Not Adj,23,Deer Lodge,County,4,5093,5248,July,3,2019,Monthly,Final,30,155,3.00%
-1,MT,Not Adj,23,Deer Lodge,County,4,4977,5142,August,3,2019,Monthly,Final,30,165,3.20%
-1,MT,Not Adj,23,Deer Lodge,County,4,4865,5001,September,3,2019,Monthly,Final,30,136,2.70%
-1,MT,Not Adj,23,Deer Lodge,County,4,4830,4965,October,3,2019,Monthly,Final,30,135,2.70%
-1,MT,Not Adj,23,Deer Lodge,County,4,4804,4951,November,3,2019,Monthly,Final,30,147,3.00%
-1,MT,Not Adj,23,Deer Lodge,County,4,4738,4904,December,3,2019,Monthly,Final,30,166,3.40%
-1,MT,Not Adj,23,Deer Lodge,County,4,4797,4989,January,3,2020,Monthly,Final,30,192,3.80%
-1,MT,Not Adj,23,Deer Lodge,County,4,4806,4999,February,3,2020,Monthly,Final,30,193,3.90%
-1,MT,Not Adj,23,Deer Lodge,County,4,4845,5053,March,3,2020,Monthly,Final,30,208,4.10%
-1,MT,Not Adj,23,Deer Lodge,County,4,4270,4772,April,3,2020,Monthly,Final,30,502,10.50%
-1,MT,Not Adj,23,Deer Lodge,County,4,4499,4822,May,3,2020,Monthly,Preliminary,30,323,6.70%
-1,MT,Not Adj,25,Fallon,County,4,1651,1688,January,3,2019,Monthly,Final,30,37,2.20%
-1,MT,Not Adj,25,Fallon,County,4,1634,1668,February,3,2019,Monthly,Final,30,34,2.00%
-1,MT,Not Adj,25,Fallon,County,4,1600,1636,March,3,2019,Monthly,Final,30,36,2.20%
-1,MT,Not Adj,25,Fallon,County,4,1661,1687,April,3,2019,Monthly,Final,30,26,1.50%
-1,MT,Not Adj,25,Fallon,County,4,1685,1706,May,3,2019,Monthly,Final,30,21,1.20%
-1,MT,Not Adj,25,Fallon,County,4,1686,1710,June,3,2019,Monthly,Final,30,24,1.40%
-1,MT,Not Adj,25,Fallon,County,4,1684,1706,July,3,2019,Monthly,Final,30,22,1.30%
-1,MT,Not Adj,25,Fallon,County,4,1778,1802,August,3,2019,Monthly,Final,30,24,1.30%
-1,MT,Not Adj,25,Fallon,County,4,1667,1696,September,3,2019,Monthly,Final,30,29,1.70%
-1,MT,Not Adj,25,Fallon,County,4,1695,1730,October,3,2019,Monthly,Final,30,35,2.00%
-1,MT,Not Adj,25,Fallon,County,4,1681,1718,November,3,2019,Monthly,Final,30,37,2.20%
-1,MT,Not Adj,25,Fallon,County,4,1669,1708,December,3,2019,Monthly,Final,30,39,2.30%
-1,MT,Not Adj,25,Fallon,County,4,1634,1672,January,3,2020,Monthly,Final,30,38,2.30%
-1,MT,Not Adj,25,Fallon,County,4,1654,1688,February,3,2020,Monthly,Final,30,34,2.00%
-1,MT,Not Adj,25,Fallon,County,4,1645,1685,March,3,2020,Monthly,Final,30,40,2.40%
-1,MT,Not Adj,25,Fallon,County,4,1485,1578,April,3,2020,Monthly,Final,30,93,5.90%
-1,MT,Not Adj,25,Fallon,County,4,1529,1610,May,3,2020,Monthly,Preliminary,30,81,5.00%
-1,MT,Not Adj,27,Fergus,County,4,5663,5945,January,3,2019,Monthly,Final,30,282,4.70%
-1,MT,Not Adj,27,Fergus,County,4,5524,5792,February,3,2019,Monthly,Final,30,268,4.60%
-1,MT,Not Adj,27,Fergus,County,4,5499,5757,March,3,2019,Monthly,Final,30,258,4.50%
-1,MT,Not Adj,27,Fergus,County,4,5910,6079,April,3,2019,Monthly,Final,30,169,2.80%
-1,MT,Not Adj,27,Fergus,County,4,5934,6064,May,3,2019,Monthly,Final,30,130,2.10%
-1,MT,Not Adj,27,Fergus,County,4,6075,6227,June,3,2019,Monthly,Final,30,152,2.40%
-1,MT,Not Adj,27,Fergus,County,4,5978,6133,July,3,2019,Monthly,Final,30,155,2.50%
-1,MT,Not Adj,27,Fergus,County,4,6079,6228,August,3,2019,Monthly,Final,30,149,2.40%
-1,MT,Not Adj,27,Fergus,County,4,5891,6037,September,3,2019,Monthly,Final,30,146,2.40%
-1,MT,Not Adj,27,Fergus,County,4,5963,6111,October,3,2019,Monthly,Final,30,148,2.40%
-1,MT,Not Adj,27,Fergus,County,4,5931,6107,November,3,2019,Monthly,Final,30,176,2.90%
-1,MT,Not Adj,27,Fergus,County,4,5820,6038,December,3,2019,Monthly,Final,30,218,3.60%
-1,MT,Not Adj,27,Fergus,County,4,5753,6040,January,3,2020,Monthly,Final,30,287,4.80%
-1,MT,Not Adj,27,Fergus,County,4,5796,6075,February,3,2020,Monthly,Final,30,279,4.60%
-1,MT,Not Adj,27,Fergus,County,4,5634,5898,March,3,2020,Monthly,Final,30,264,4.50%
-1,MT,Not Adj,27,Fergus,County,4,5093,5554,April,3,2020,Monthly,Final,30,461,8.30%
-1,MT,Not Adj,27,Fergus,County,4,5288,5606,May,3,2020,Monthly,Preliminary,30,318,5.70%
-1,MT,Not Adj,29,Flathead,County,4,43759,46640,January,3,2019,Monthly,Final,30,2881,6.20%
-1,MT,Not Adj,29,Flathead,County,4,43886,46720,February,3,2019,Monthly,Final,30,2834,6.10%
-1,MT,Not Adj,29,Flathead,County,4,44140,46977,March,3,2019,Monthly,Final,30,2837,6.00%
-1,MT,Not Adj,29,Flathead,County,4,44622,46972,April,3,2019,Monthly,Final,30,2350,5.00%
-1,MT,Not Adj,29,Flathead,County,4,45732,47572,May,3,2019,Monthly,Final,30,1840,3.90%
-1,MT,Not Adj,29,Flathead,County,4,47352,49408,June,3,2019,Monthly,Final,30,2056,4.20%
-1,MT,Not Adj,29,Flathead,County,4,48612,50466,July,3,2019,Monthly,Final,30,1854,3.70%
-1,MT,Not Adj,29,Flathead,County,4,48008,49912,August,3,2019,Monthly,Final,30,1904,3.80%
-1,MT,Not Adj,29,Flathead,County,4,46049,47813,September,3,2019,Monthly,Final,30,1764,3.70%
-1,MT,Not Adj,29,Flathead,County,4,45495,47428,October,3,2019,Monthly,Final,30,1933,4.10%
-1,MT,Not Adj,29,Flathead,County,4,45111,47351,November,3,2019,Monthly,Final,30,2240,4.70%
-1,MT,Not Adj,29,Flathead,County,4,44991,47451,December,3,2019,Monthly,Final,30,2460,5.20%
-1,MT,Not Adj,29,Flathead,County,4,44736,47869,January,3,2020,Monthly,Final,30,3133,6.50%
-1,MT,Not Adj,29,Flathead,County,4,44807,47768,February,3,2020,Monthly,Final,30,2961,6.20%
-1,MT,Not Adj,29,Flathead,County,4,45236,48195,March,3,2020,Monthly,Final,30,2959,6.10%
-1,MT,Not Adj,29,Flathead,County,4,39852,47788,April,3,2020,Monthly,Final,30,7936,16.60%
-1,MT,Not Adj,29,Flathead,County,4,42303,47991,May,3,2020,Monthly,Preliminary,30,5688,11.90%
-1,MT,Not Adj,31,Gallatin,County,4,64733,66559,January,3,2019,Monthly,Final,30,1826,2.70%
-1,MT,Not Adj,31,Gallatin,County,4,65670,67252,February,3,2019,Monthly,Final,30,1582,2.40%
-1,MT,Not Adj,31,Gallatin,County,4,65450,67140,March,3,2019,Monthly,Final,30,1690,2.50%
-1,MT,Not Adj,31,Gallatin,County,4,65587,66990,April,3,2019,Monthly,Final,30,1403,2.10%
-1,MT,Not Adj,31,Gallatin,County,4,66059,67561,May,3,2019,Monthly,Final,30,1502,2.20%
-1,MT,Not Adj,31,Gallatin,County,4,67918,69420,June,3,2019,Monthly,Final,30,1502,2.20%
-1,MT,Not Adj,31,Gallatin,County,4,71249,72563,July,3,2019,Monthly,Final,30,1314,1.80%
-1,MT,Not Adj,31,Gallatin,County,4,69838,71140,August,3,2019,Monthly,Final,30,1302,1.80%
-1,MT,Not Adj,31,Gallatin,County,4,67923,69274,September,3,2019,Monthly,Final,30,1351,2.00%
-1,MT,Not Adj,31,Gallatin,County,4,67586,69254,October,3,2019,Monthly,Final,30,1668,2.40%
-1,MT,Not Adj,31,Gallatin,County,4,67352,69227,November,3,2019,Monthly,Final,30,1875,2.70%
-1,MT,Not Adj,31,Gallatin,County,4,67096,68746,December,3,2019,Monthly,Final,30,1650,2.40%
-1,MT,Not Adj,31,Gallatin,County,4,67266,69025,January,3,2020,Monthly,Final,30,1759,2.50%
-1,MT,Not Adj,31,Gallatin,County,4,67824,69563,February,3,2020,Monthly,Final,30,1739,2.50%
-1,MT,Not Adj,31,Gallatin,County,4,67345,69133,March,3,2020,Monthly,Final,30,1788,2.60%
-1,MT,Not Adj,31,Gallatin,County,4,58831,67109,April,3,2020,Monthly,Final,30,8278,12.30%
-1,MT,Not Adj,31,Gallatin,County,4,61730,67753,May,3,2020,Monthly,Preliminary,30,6023,8.90%
-1,MT,Not Adj,33,Garfield,County,4,721,744,January,3,2019,Monthly,Final,30,23,3.10%
-1,MT,Not Adj,33,Garfield,County,4,698,719,February,3,2019,Monthly,Final,30,21,2.90%
-1,MT,Not Adj,33,Garfield,County,4,698,720,March,3,2019,Monthly,Final,30,22,3.10%
-1,MT,Not Adj,33,Garfield,County,4,724,736,April,3,2019,Monthly,Final,30,12,1.60%
-1,MT,Not Adj,33,Garfield,County,4,719,730,May,3,2019,Monthly,Final,30,11,1.50%
-1,MT,Not Adj,33,Garfield,County,4,679,694,June,3,2019,Monthly,Final,30,15,2.20%
-1,MT,Not Adj,33,Garfield,County,4,720,734,July,3,2019,Monthly,Final,30,14,1.90%
-1,MT,Not Adj,33,Garfield,County,4,728,746,August,3,2019,Monthly,Final,30,18,2.40%
-1,MT,Not Adj,33,Garfield,County,4,732,749,September,3,2019,Monthly,Final,30,17,2.30%
-1,MT,Not Adj,33,Garfield,County,4,752,768,October,3,2019,Monthly,Final,30,16,2.10%
-1,MT,Not Adj,33,Garfield,County,4,732,750,November,3,2019,Monthly,Final,30,18,2.40%
-1,MT,Not Adj,33,Garfield,County,4,738,764,December,3,2019,Monthly,Final,30,26,3.40%
-1,MT,Not Adj,33,Garfield,County,4,693,720,January,3,2020,Monthly,Final,30,27,3.80%
-1,MT,Not Adj,33,Garfield,County,4,708,730,February,3,2020,Monthly,Final,30,22,3.00%
-1,MT,Not Adj,33,Garfield,County,4,723,747,March,3,2020,Monthly,Final,30,24,3.20%
-1,MT,Not Adj,33,Garfield,County,4,690,722,April,3,2020,Monthly,Final,30,32,4.40%
-1,MT,Not Adj,33,Garfield,County,4,666,688,May,3,2020,Monthly,Preliminary,30,22,3.20%
-1,MT,Not Adj,35,Glacier,County,4,4976,5500,January,3,2019,Monthly,Final,30,524,9.50%
-1,MT,Not Adj,35,Glacier,County,4,4921,5436,February,3,2019,Monthly,Final,30,515,9.50%
-1,MT,Not Adj,35,Glacier,County,4,5009,5494,March,3,2019,Monthly,Final,30,485,8.80%
-1,MT,Not Adj,35,Glacier,County,4,5042,5455,April,3,2019,Monthly,Final,30,413,7.60%
-1,MT,Not Adj,35,Glacier,County,4,5258,5601,May,3,2019,Monthly,Final,30,343,6.10%
-1,MT,Not Adj,35,Glacier,County,4,5603,6062,June,3,2019,Monthly,Final,30,459,7.60%
-1,MT,Not Adj,35,Glacier,County,4,5624,6057,July,3,2019,Monthly,Final,30,433,7.10%
-1,MT,Not Adj,35,Glacier,County,4,5816,6228,August,3,2019,Monthly,Final,30,412,6.60%
-1,MT,Not Adj,35,Glacier,County,4,5591,5929,September,3,2019,Monthly,Final,30,338,5.70%
-1,MT,Not Adj,35,Glacier,County,4,5198,5586,October,3,2019,Monthly,Final,30,388,6.90%
-1,MT,Not Adj,35,Glacier,County,4,5124,5531,November,3,2019,Monthly,Final,30,407,7.40%
-1,MT,Not Adj,35,Glacier,County,4,5028,5431,December,3,2019,Monthly,Final,30,403,7.40%
-1,MT,Not Adj,35,Glacier,County,4,4981,5445,January,3,2020,Monthly,Final,30,464,8.50%
-1,MT,Not Adj,35,Glacier,County,4,4972,5419,February,3,2020,Monthly,Final,30,447,8.20%
-1,MT,Not Adj,35,Glacier,County,4,5090,5538,March,3,2020,Monthly,Final,30,448,8.10%
-1,MT,Not Adj,35,Glacier,County,4,4512,5186,April,3,2020,Monthly,Final,30,674,13.00%
-1,MT,Not Adj,35,Glacier,County,4,4833,5356,May,3,2020,Monthly,Preliminary,30,523,9.80%
-1,MT,Not Adj,37,Golden Valley,County,4,349,372,January,3,2019,Monthly,Final,30,23,6.20%
-1,MT,Not Adj,37,Golden Valley,County,4,342,361,February,3,2019,Monthly,Final,30,19,5.30%
-1,MT,Not Adj,37,Golden Valley,County,4,346,365,March,3,2019,Monthly,Final,30,19,5.20%
-1,MT,Not Adj,37,Golden Valley,County,4,352,367,April,3,2019,Monthly,Final,30,15,4.10%
-1,MT,Not Adj,37,Golden Valley,County,4,349,363,May,3,2019,Monthly,Final,30,14,3.90%
-1,MT,Not Adj,37,Golden Valley,County,4,348,362,June,3,2019,Monthly,Final,30,14,3.90%
-1,MT,Not Adj,37,Golden Valley,County,4,352,362,July,3,2019,Monthly,Final,30,10,2.80%
-1,MT,Not Adj,37,Golden Valley,County,4,357,365,August,3,2019,Monthly,Final,30,8,2.20%
-1,MT,Not Adj,37,Golden Valley,County,4,357,371,September,3,2019,Monthly,Final,30,14,3.80%
-1,MT,Not Adj,37,Golden Valley,County,4,362,375,October,3,2019,Monthly,Final,30,13,3.50%
-1,MT,Not Adj,37,Golden Valley,County,4,356,372,November,3,2019,Monthly,Final,30,16,4.30%
-1,MT,Not Adj,37,Golden Valley,County,4,355,368,December,3,2019,Monthly,Final,30,13,3.50%
-1,MT,Not Adj,37,Golden Valley,County,4,347,365,January,3,2020,Monthly,Final,30,18,4.90%
-1,MT,Not Adj,37,Golden Valley,County,4,351,369,February,3,2020,Monthly,Final,30,18,4.90%
-1,MT,Not Adj,37,Golden Valley,County,4,352,371,March,3,2020,Monthly,Final,30,19,5.10%
-1,MT,Not Adj,37,Golden Valley,County,4,329,352,April,3,2020,Monthly,Final,30,23,6.50%
-1,MT,Not Adj,37,Golden Valley,County,4,330,354,May,3,2020,Monthly,Preliminary,30,24,6.80%
-1,MT,Not Adj,39,Granite,County,4,1648,1784,January,3,2019,Monthly,Final,30,136,7.60%
-1,MT,Not Adj,39,Granite,County,4,1634,1776,February,3,2019,Monthly,Final,30,142,8.00%
-1,MT,Not Adj,39,Granite,County,4,1629,1738,March,3,2019,Monthly,Final,30,109,6.30%
-1,MT,Not Adj,39,Granite,County,4,1589,1697,April,3,2019,Monthly,Final,30,108,6.40%
-1,MT,Not Adj,39,Granite,County,4,1562,1640,May,3,2019,Monthly,Final,30,78,4.80%
-1,MT,Not Adj,39,Granite,County,4,1631,1708,June,3,2019,Monthly,Final,30,77,4.50%
-1,MT,Not Adj,39,Granite,County,4,1600,1672,July,3,2019,Monthly,Final,30,72,4.30%
-1,MT,Not Adj,39,Granite,County,4,1648,1722,August,3,2019,Monthly,Final,30,74,4.30%
-1,MT,Not Adj,39,Granite,County,4,1564,1635,September,3,2019,Monthly,Final,30,71,4.30%
-1,MT,Not Adj,39,Granite,County,4,1544,1618,October,3,2019,Monthly,Final,30,74,4.60%
-1,MT,Not Adj,39,Granite,County,4,1501,1598,November,3,2019,Monthly,Final,30,97,6.10%
-1,MT,Not Adj,39,Granite,County,4,1540,1648,December,3,2019,Monthly,Final,30,108,6.60%
-1,MT,Not Adj,39,Granite,County,4,1600,1747,January,3,2020,Monthly,Final,30,147,8.40%
-1,MT,Not Adj,39,Granite,County,4,1609,1729,February,3,2020,Monthly,Final,30,120,6.90%
-1,MT,Not Adj,39,Granite,County,4,1644,1771,March,3,2020,Monthly,Final,30,127,7.20%
-1,MT,Not Adj,39,Granite,County,4,1433,1713,April,3,2020,Monthly,Final,30,280,16.30%
-1,MT,Not Adj,39,Granite,County,4,1437,1614,May,3,2020,Monthly,Preliminary,30,177,11.00%
-1,MT,Not Adj,41,Hill,County,4,7165,7474,January,3,2019,Monthly,Final,30,309,4.10%
-1,MT,Not Adj,41,Hill,County,4,7287,7593,February,3,2019,Monthly,Final,30,306,4.00%
-1,MT,Not Adj,41,Hill,County,4,7313,7607,March,3,2019,Monthly,Final,30,294,3.90%
-1,MT,Not Adj,41,Hill,County,4,7308,7561,April,3,2019,Monthly,Final,30,253,3.30%
-1,MT,Not Adj,41,Hill,County,4,7433,7648,May,3,2019,Monthly,Final,30,215,2.80%
-1,MT,Not Adj,41,Hill,County,4,7376,7679,June,3,2019,Monthly,Final,30,303,3.90%
-1,MT,Not Adj,41,Hill,County,4,7386,7693,July,3,2019,Monthly,Final,30,307,4.00%
-1,MT,Not Adj,41,Hill,County,4,7387,7706,August,3,2019,Monthly,Final,30,319,4.10%
-1,MT,Not Adj,41,Hill,County,4,7421,7678,September,3,2019,Monthly,Final,30,257,3.30%
-1,MT,Not Adj,41,Hill,County,4,7447,7729,October,3,2019,Monthly,Final,30,282,3.60%
-1,MT,Not Adj,41,Hill,County,4,7445,7715,November,3,2019,Monthly,Final,30,270,3.50%
-1,MT,Not Adj,41,Hill,County,4,7346,7598,December,3,2019,Monthly,Final,30,252,3.30%
-1,MT,Not Adj,41,Hill,County,4,7275,7584,January,3,2020,Monthly,Final,30,309,4.10%
-1,MT,Not Adj,41,Hill,County,4,7354,7626,February,3,2020,Monthly,Final,30,272,3.60%
-1,MT,Not Adj,41,Hill,County,4,7335,7618,March,3,2020,Monthly,Final,30,283,3.70%
-1,MT,Not Adj,41,Hill,County,4,6438,7052,April,3,2020,Monthly,Final,30,614,8.70%
-1,MT,Not Adj,41,Hill,County,4,6709,7134,May,3,2020,Monthly,Preliminary,30,425,6.00%
-1,MT,Not Adj,43,Jefferson,County,4,5407,5663,January,3,2019,Monthly,Final,30,256,4.50%
-1,MT,Not Adj,43,Jefferson,County,4,5438,5672,February,3,2019,Monthly,Final,30,234,4.10%
-1,MT,Not Adj,43,Jefferson,County,4,5433,5667,March,3,2019,Monthly,Final,30,234,4.10%
-1,MT,Not Adj,43,Jefferson,County,4,5468,5641,April,3,2019,Monthly,Final,30,173,3.10%
-1,MT,Not Adj,43,Jefferson,County,4,5530,5667,May,3,2019,Monthly,Final,30,137,2.40%
-1,MT,Not Adj,43,Jefferson,County,4,5546,5717,June,3,2019,Monthly,Final,30,171,3.00%
-1,MT,Not Adj,43,Jefferson,County,4,5689,5852,July,3,2019,Monthly,Final,30,163,2.80%
-1,MT,Not Adj,43,Jefferson,County,4,5631,5796,August,3,2019,Monthly,Final,30,165,2.80%
-1,MT,Not Adj,43,Jefferson,County,4,5499,5661,September,3,2019,Monthly,Final,30,162,2.90%
-1,MT,Not Adj,43,Jefferson,County,4,5504,5681,October,3,2019,Monthly,Final,30,177,3.10%
-1,MT,Not Adj,43,Jefferson,County,4,5516,5704,November,3,2019,Monthly,Final,30,188,3.30%
-1,MT,Not Adj,43,Jefferson,County,4,5444,5655,December,3,2019,Monthly,Final,30,211,3.70%
-1,MT,Not Adj,43,Jefferson,County,4,5453,5700,January,3,2020,Monthly,Final,30,247,4.30%
-1,MT,Not Adj,43,Jefferson,County,4,5479,5708,February,3,2020,Monthly,Final,30,229,4.00%
-1,MT,Not Adj,43,Jefferson,County,4,5512,5753,March,3,2020,Monthly,Final,30,241,4.20%
-1,MT,Not Adj,43,Jefferson,County,4,4847,5363,April,3,2020,Monthly,Final,30,516,9.60%
-1,MT,Not Adj,43,Jefferson,County,4,5062,5446,May,3,2020,Monthly,Preliminary,30,384,7.10%
-1,MT,Not Adj,45,Judith Basin,County,4,880,924,January,3,2019,Monthly,Final,30,44,4.80%
-1,MT,Not Adj,45,Judith Basin,County,4,856,905,February,3,2019,Monthly,Final,30,49,5.40%
-1,MT,Not Adj,45,Judith Basin,County,4,864,900,March,3,2019,Monthly,Final,30,36,4.00%
-1,MT,Not Adj,45,Judith Basin,County,4,892,918,April,3,2019,Monthly,Final,30,26,2.80%
-1,MT,Not Adj,45,Judith Basin,County,4,902,922,May,3,2019,Monthly,Final,30,20,2.20%
-1,MT,Not Adj,45,Judith Basin,County,4,861,885,June,3,2019,Monthly,Final,30,24,2.70%
-1,MT,Not Adj,45,Judith Basin,County,4,890,912,July,3,2019,Monthly,Final,30,22,2.40%
-1,MT,Not Adj,45,Judith Basin,County,4,920,941,August,3,2019,Monthly,Final,30,21,2.20%
-1,MT,Not Adj,45,Judith Basin,County,4,978,1002,September,3,2019,Monthly,Final,30,24,2.40%
-1,MT,Not Adj,45,Judith Basin,County,4,1010,1038,October,3,2019,Monthly,Final,30,28,2.70%
-1,MT,Not Adj,45,Judith Basin,County,4,996,1023,November,3,2019,Monthly,Final,30,27,2.60%
-1,MT,Not Adj,45,Judith Basin,County,4,976,1008,December,3,2019,Monthly,Final,30,32,3.20%
-1,MT,Not Adj,45,Judith Basin,County,4,918,964,January,3,2020,Monthly,Final,30,46,4.80%
-1,MT,Not Adj,45,Judith Basin,County,4,943,985,February,3,2020,Monthly,Final,30,42,4.30%
-1,MT,Not Adj,45,Judith Basin,County,4,1029,1072,March,3,2020,Monthly,Final,30,43,4.00%
-1,MT,Not Adj,45,Judith Basin,County,4,952,1028,April,3,2020,Monthly,Final,30,76,7.40%
-1,MT,Not Adj,45,Judith Basin,County,4,949,1003,May,3,2020,Monthly,Preliminary,30,54,5.40%
-1,MT,Not Adj,47,Lake,County,4,12137,12829,January,3,2019,Monthly,Final,30,692,5.40%
-1,MT,Not Adj,47,Lake,County,4,12204,12874,February,3,2019,Monthly,Final,30,670,5.20%
-1,MT,Not Adj,47,Lake,County,4,12307,12955,March,3,2019,Monthly,Final,30,648,5.00%
-1,MT,Not Adj,47,Lake,County,4,12489,13014,April,3,2019,Monthly,Final,30,525,4.00%
-1,MT,Not Adj,47,Lake,County,4,12884,13337,May,3,2019,Monthly,Final,30,453,3.40%
-1,MT,Not Adj,47,Lake,County,4,13147,13690,June,3,2019,Monthly,Final,30,543,4.00%
-1,MT,Not Adj,47,Lake,County,4,12952,13480,July,3,2019,Monthly,Final,30,528,3.90%
-1,MT,Not Adj,47,Lake,County,4,12775,13313,August,3,2019,Monthly,Final,30,538,4.00%
-1,MT,Not Adj,47,Lake,County,4,12815,13298,September,3,2019,Monthly,Final,30,483,3.60%
-1,MT,Not Adj,47,Lake,County,4,12758,13273,October,3,2019,Monthly,Final,30,515,3.90%
-1,MT,Not Adj,47,Lake,County,4,12717,13246,November,3,2019,Monthly,Final,30,529,4.00%
-1,MT,Not Adj,47,Lake,County,4,12548,13113,December,3,2019,Monthly,Final,30,565,4.30%
-1,MT,Not Adj,47,Lake,County,4,12432,13195,January,3,2020,Monthly,Final,30,763,5.80%
-1,MT,Not Adj,47,Lake,County,4,12528,13257,February,3,2020,Monthly,Final,30,729,5.50%
-1,MT,Not Adj,47,Lake,County,4,12669,13364,March,3,2020,Monthly,Final,30,695,5.20%
-1,MT,Not Adj,47,Lake,County,4,11232,12435,April,3,2020,Monthly,Final,30,1203,9.70%
-1,MT,Not Adj,47,Lake,County,4,11888,12925,May,3,2020,Monthly,Preliminary,30,1037,8.00%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34067,35459,January,3,2019,Monthly,Final,30,1392,3.90%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34385,35633,February,3,2019,Monthly,Final,30,1248,3.50%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34375,35644,March,3,2019,Monthly,Final,30,1269,3.60%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34505,35453,April,3,2019,Monthly,Final,30,948,2.70%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34970,35797,May,3,2019,Monthly,Final,30,827,2.30%
-1,MT,Not Adj,49,Lewis and Clark,County,4,35127,36200,June,3,2019,Monthly,Final,30,1073,3.00%
-1,MT,Not Adj,49,Lewis and Clark,County,4,35990,36990,July,3,2019,Monthly,Final,30,1000,2.70%
-1,MT,Not Adj,49,Lewis and Clark,County,4,35523,36569,August,3,2019,Monthly,Final,30,1046,2.90%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34633,35586,September,3,2019,Monthly,Final,30,953,2.70%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34562,35525,October,3,2019,Monthly,Final,30,963,2.70%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34729,35723,November,3,2019,Monthly,Final,30,994,2.80%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34244,35311,December,3,2019,Monthly,Final,30,1067,3.00%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34450,35798,January,3,2020,Monthly,Final,30,1348,3.80%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34548,35827,February,3,2020,Monthly,Final,30,1279,3.60%
-1,MT,Not Adj,49,Lewis and Clark,County,4,34750,35991,March,3,2020,Monthly,Final,30,1241,3.40%
-1,MT,Not Adj,49,Lewis and Clark,County,4,30341,33958,April,3,2020,Monthly,Final,30,3617,10.70%
-1,MT,Not Adj,49,Lewis and Clark,County,4,31925,34294,May,3,2020,Monthly,Preliminary,30,2369,6.90%
-1,MT,Not Adj,51,Liberty,County,4,925,958,January,3,2019,Monthly,Final,30,33,3.40%
-1,MT,Not Adj,51,Liberty,County,4,898,923,February,3,2019,Monthly,Final,30,25,2.70%
-1,MT,Not Adj,51,Liberty,County,4,903,930,March,3,2019,Monthly,Final,30,27,2.90%
-1,MT,Not Adj,51,Liberty,County,4,949,968,April,3,2019,Monthly,Final,30,19,2.00%
-1,MT,Not Adj,51,Liberty,County,4,909,928,May,3,2019,Monthly,Final,30,19,2.00%
-1,MT,Not Adj,51,Liberty,County,4,890,914,June,3,2019,Monthly,Final,30,24,2.60%
-1,MT,Not Adj,51,Liberty,County,4,915,938,July,3,2019,Monthly,Final,30,23,2.50%
-1,MT,Not Adj,51,Liberty,County,4,927,949,August,3,2019,Monthly,Final,30,22,2.30%
-1,MT,Not Adj,51,Liberty,County,4,943,967,September,3,2019,Monthly,Final,30,24,2.50%
-1,MT,Not Adj,51,Liberty,County,4,974,1000,October,3,2019,Monthly,Final,30,26,2.60%
-1,MT,Not Adj,51,Liberty,County,4,958,986,November,3,2019,Monthly,Final,30,28,2.80%
-1,MT,Not Adj,51,Liberty,County,4,952,975,December,3,2019,Monthly,Final,30,23,2.40%
-1,MT,Not Adj,51,Liberty,County,4,902,933,January,3,2020,Monthly,Final,30,31,3.30%
-1,MT,Not Adj,51,Liberty,County,4,925,953,February,3,2020,Monthly,Final,30,28,2.90%
-1,MT,Not Adj,51,Liberty,County,4,967,994,March,3,2020,Monthly,Final,30,27,2.70%
-1,MT,Not Adj,51,Liberty,County,4,919,945,April,3,2020,Monthly,Final,30,26,2.80%
-1,MT,Not Adj,51,Liberty,County,4,883,905,May,3,2020,Monthly,Preliminary,30,22,2.40%
-1,MT,Not Adj,53,Lincoln,County,4,7164,7963,January,3,2019,Monthly,Final,30,799,10.00%
-1,MT,Not Adj,53,Lincoln,County,4,7155,7872,February,3,2019,Monthly,Final,30,717,9.10%
-1,MT,Not Adj,53,Lincoln,County,4,7209,7922,March,3,2019,Monthly,Final,30,713,9.00%
-1,MT,Not Adj,53,Lincoln,County,4,7351,7963,April,3,2019,Monthly,Final,30,612,7.70%
-1,MT,Not Adj,53,Lincoln,County,4,7643,8097,May,3,2019,Monthly,Final,30,454,5.60%
-1,MT,Not Adj,53,Lincoln,County,4,7759,8264,June,3,2019,Monthly,Final,30,505,6.10%
-1,MT,Not Adj,53,Lincoln,County,4,7736,8211,July,3,2019,Monthly,Final,30,475,5.80%
-1,MT,Not Adj,53,Lincoln,County,4,7781,8274,August,3,2019,Monthly,Final,30,493,6.00%
-1,MT,Not Adj,53,Lincoln,County,4,7646,8132,September,3,2019,Monthly,Final,30,486,6.00%
-1,MT,Not Adj,53,Lincoln,County,4,7668,8173,October,3,2019,Monthly,Final,30,505,6.20%
-1,MT,Not Adj,53,Lincoln,County,4,7544,8117,November,3,2019,Monthly,Final,30,573,7.10%
-1,MT,Not Adj,53,Lincoln,County,4,7334,8038,December,3,2019,Monthly,Final,30,704,8.80%
-1,MT,Not Adj,53,Lincoln,County,4,7260,8098,January,3,2020,Monthly,Final,30,838,10.30%
-1,MT,Not Adj,53,Lincoln,County,4,7261,8042,February,3,2020,Monthly,Final,30,781,9.70%
-1,MT,Not Adj,53,Lincoln,County,4,7212,8088,March,3,2020,Monthly,Final,30,876,10.80%
-1,MT,Not Adj,53,Lincoln,County,4,6465,7931,April,3,2020,Monthly,Final,30,1466,18.50%
-1,MT,Not Adj,53,Lincoln,County,4,6905,7905,May,3,2020,Monthly,Preliminary,30,1000,12.70%
-1,MT,Not Adj,55,McCone,County,4,924,942,January,3,2019,Monthly,Final,30,18,1.90%
-1,MT,Not Adj,55,McCone,County,4,898,912,February,3,2019,Monthly,Final,30,14,1.50%
-1,MT,Not Adj,55,McCone,County,4,894,913,March,3,2019,Monthly,Final,30,19,2.10%
-1,MT,Not Adj,55,McCone,County,4,928,943,April,3,2019,Monthly,Final,30,15,1.60%
-1,MT,Not Adj,55,McCone,County,4,923,937,May,3,2019,Monthly,Final,30,14,1.50%
-1,MT,Not Adj,55,McCone,County,4,919,939,June,3,2019,Monthly,Final,30,20,2.10%
-1,MT,Not Adj,55,McCone,County,4,927,953,July,3,2019,Monthly,Final,30,26,2.70%
-1,MT,Not Adj,55,McCone,County,4,933,951,August,3,2019,Monthly,Final,30,18,1.90%
-1,MT,Not Adj,55,McCone,County,4,950,970,September,3,2019,Monthly,Final,30,20,2.10%
-1,MT,Not Adj,55,McCone,County,4,976,998,October,3,2019,Monthly,Final,30,22,2.20%
-1,MT,Not Adj,55,McCone,County,4,953,971,November,3,2019,Monthly,Final,30,18,1.90%
-1,MT,Not Adj,55,McCone,County,4,953,974,December,3,2019,Monthly,Final,30,21,2.20%
-1,MT,Not Adj,55,McCone,County,4,908,930,January,3,2020,Monthly,Final,30,22,2.40%
-1,MT,Not Adj,55,McCone,County,4,931,951,February,3,2020,Monthly,Final,30,20,2.10%
-1,MT,Not Adj,55,McCone,County,4,930,950,March,3,2020,Monthly,Final,30,20,2.10%
-1,MT,Not Adj,55,McCone,County,4,872,900,April,3,2020,Monthly,Final,30,28,3.10%
-1,MT,Not Adj,55,McCone,County,4,858,889,May,3,2020,Monthly,Preliminary,30,31,3.50%
-1,MT,Not Adj,57,Madison,County,4,5125,5340,January,3,2019,Monthly,Final,30,215,4.00%
-1,MT,Not Adj,57,Madison,County,4,5072,5282,February,3,2019,Monthly,Final,30,210,4.00%
-1,MT,Not Adj,57,Madison,County,4,5094,5277,March,3,2019,Monthly,Final,30,183,3.50%
-1,MT,Not Adj,57,Madison,County,4,4957,5084,April,3,2019,Monthly,Final,30,127,2.50%
-1,MT,Not Adj,57,Madison,County,4,4330,4445,May,3,2019,Monthly,Final,30,115,2.60%
-1,MT,Not Adj,57,Madison,County,4,4340,4470,June,3,2019,Monthly,Final,30,130,2.90%
-1,MT,Not Adj,57,Madison,County,4,4667,4783,July,3,2019,Monthly,Final,30,116,2.40%
-1,MT,Not Adj,57,Madison,County,4,4610,4732,August,3,2019,Monthly,Final,30,122,2.60%
-1,MT,Not Adj,57,Madison,County,4,4331,4455,September,3,2019,Monthly,Final,30,124,2.80%
-1,MT,Not Adj,57,Madison,County,4,4064,4209,October,3,2019,Monthly,Final,30,145,3.40%
-1,MT,Not Adj,57,Madison,County,4,4241,4429,November,3,2019,Monthly,Final,30,188,4.20%
-1,MT,Not Adj,57,Madison,County,4,5014,5187,December,3,2019,Monthly,Final,30,173,3.30%
-1,MT,Not Adj,57,Madison,County,4,5324,5524,January,3,2020,Monthly,Final,30,200,3.60%
-1,MT,Not Adj,57,Madison,County,4,5351,5554,February,3,2020,Monthly,Final,30,203,3.70%
-1,MT,Not Adj,57,Madison,County,4,5201,5397,March,3,2020,Monthly,Final,30,196,3.60%
-1,MT,Not Adj,57,Madison,County,4,4502,4909,April,3,2020,Monthly,Final,30,407,8.30%
-1,MT,Not Adj,57,Madison,County,4,4003,4323,May,3,2020,Monthly,Preliminary,30,320,7.40%
-1,MT,Not Adj,59,Meagher,County,4,947,998,January,3,2019,Monthly,Final,30,51,5.10%
-1,MT,Not Adj,59,Meagher,County,4,948,992,February,3,2019,Monthly,Final,30,44,4.40%
-1,MT,Not Adj,59,Meagher,County,4,928,969,March,3,2019,Monthly,Final,30,41,4.20%
-1,MT,Not Adj,59,Meagher,County,4,918,950,April,3,2019,Monthly,Final,30,32,3.40%
-1,MT,Not Adj,59,Meagher,County,4,869,896,May,3,2019,Monthly,Final,30,27,3.00%
-1,MT,Not Adj,59,Meagher,County,4,868,896,June,3,2019,Monthly,Final,30,28,3.10%
-1,MT,Not Adj,59,Meagher,County,4,957,983,July,3,2019,Monthly,Final,30,26,2.60%
-1,MT,Not Adj,59,Meagher,County,4,885,906,August,3,2019,Monthly,Final,30,21,2.30%
-1,MT,Not Adj,59,Meagher,County,4,904,930,September,3,2019,Monthly,Final,30,26,2.80%
-1,MT,Not Adj,59,Meagher,County,4,923,951,October,3,2019,Monthly,Final,30,28,2.90%
-1,MT,Not Adj,59,Meagher,County,4,947,978,November,3,2019,Monthly,Final,30,31,3.20%
-1,MT,Not Adj,59,Meagher,County,4,967,1002,December,3,2019,Monthly,Final,30,35,3.50%
-1,MT,Not Adj,59,Meagher,County,4,955,995,January,3,2020,Monthly,Final,30,40,4.00%
-1,MT,Not Adj,59,Meagher,County,4,970,1008,February,3,2020,Monthly,Final,30,38,3.80%
-1,MT,Not Adj,59,Meagher,County,4,961,993,March,3,2020,Monthly,Final,30,32,3.20%
-1,MT,Not Adj,59,Meagher,County,4,833,903,April,3,2020,Monthly,Final,30,70,7.80%
-1,MT,Not Adj,59,Meagher,County,4,812,869,May,3,2020,Monthly,Preliminary,30,57,6.60%
-1,MT,Not Adj,61,Mineral,County,4,1563,1709,January,3,2019,Monthly,Final,30,146,8.50%
-1,MT,Not Adj,61,Mineral,County,4,1547,1689,February,3,2019,Monthly,Final,30,142,8.40%
-1,MT,Not Adj,61,Mineral,County,4,1572,1689,March,3,2019,Monthly,Final,30,117,6.90%
-1,MT,Not Adj,61,Mineral,County,4,1644,1741,April,3,2019,Monthly,Final,30,97,5.60%
-1,MT,Not Adj,61,Mineral,County,4,1727,1801,May,3,2019,Monthly,Final,30,74,4.10%
-1,MT,Not Adj,61,Mineral,County,4,1741,1836,June,3,2019,Monthly,Final,30,95,5.20%
-1,MT,Not Adj,61,Mineral,County,4,1777,1854,July,3,2019,Monthly,Final,30,77,4.20%
-1,MT,Not Adj,61,Mineral,County,4,1741,1824,August,3,2019,Monthly,Final,30,83,4.60%
-1,MT,Not Adj,61,Mineral,County,4,1710,1793,September,3,2019,Monthly,Final,30,83,4.60%
-1,MT,Not Adj,61,Mineral,County,4,1666,1747,October,3,2019,Monthly,Final,30,81,4.60%
-1,MT,Not Adj,61,Mineral,County,4,1624,1714,November,3,2019,Monthly,Final,30,90,5.30%
-1,MT,Not Adj,61,Mineral,County,4,1573,1683,December,3,2019,Monthly,Final,30,110,6.50%
-1,MT,Not Adj,61,Mineral,County,4,1577,1770,January,3,2020,Monthly,Final,30,193,10.90%
-1,MT,Not Adj,61,Mineral,County,4,1590,1774,February,3,2020,Monthly,Final,30,184,10.40%
-1,MT,Not Adj,61,Mineral,County,4,1594,1785,March,3,2020,Monthly,Final,30,191,10.70%
-1,MT,Not Adj,61,Mineral,County,4,1439,1760,April,3,2020,Monthly,Final,30,321,18.20%
-1,MT,Not Adj,61,Mineral,County,4,1553,1779,May,3,2020,Monthly,Preliminary,30,226,12.70%
-1,MT,Not Adj,63,Missoula,County,4,60366,63097,January,3,2019,Monthly,Final,30,2731,4.30%
-1,MT,Not Adj,63,Missoula,County,4,61090,63570,February,3,2019,Monthly,Final,30,2480,3.90%
-1,MT,Not Adj,63,Missoula,County,4,61236,63711,March,3,2019,Monthly,Final,30,2475,3.90%
-1,MT,Not Adj,63,Missoula,County,4,61632,63578,April,3,2019,Monthly,Final,30,1946,3.10%
-1,MT,Not Adj,63,Missoula,County,4,62547,64193,May,3,2019,Monthly,Final,30,1646,2.60%
-1,MT,Not Adj,63,Missoula,County,4,62426,64333,June,3,2019,Monthly,Final,30,1907,3.00%
-1,MT,Not Adj,63,Missoula,County,4,61580,63386,July,3,2019,Monthly,Final,30,1806,2.80%
-1,MT,Not Adj,63,Missoula,County,4,61812,63580,August,3,2019,Monthly,Final,30,1768,2.80%
-1,MT,Not Adj,63,Missoula,County,4,62579,64326,September,3,2019,Monthly,Final,30,1747,2.70%
-1,MT,Not Adj,63,Missoula,County,4,62603,64444,October,3,2019,Monthly,Final,30,1841,2.90%
-1,MT,Not Adj,63,Missoula,County,4,62028,64012,November,3,2019,Monthly,Final,30,1984,3.10%
-1,MT,Not Adj,63,Missoula,County,4,61409,63664,December,3,2019,Monthly,Final,30,2255,3.50%
-1,MT,Not Adj,63,Missoula,County,4,61591,64234,January,3,2020,Monthly,Final,30,2643,4.10%
-1,MT,Not Adj,63,Missoula,County,4,61886,64456,February,3,2020,Monthly,Final,30,2570,4.00%
-1,MT,Not Adj,63,Missoula,County,4,61734,64332,March,3,2020,Monthly,Final,30,2598,4.00%
-1,MT,Not Adj,63,Missoula,County,4,55553,64082,April,3,2020,Monthly,Final,30,8529,13.30%
-1,MT,Not Adj,63,Missoula,County,4,58042,64014,May,3,2020,Monthly,Preliminary,30,5972,9.30%
-1,MT,Not Adj,65,Musselshell,County,4,2144,2252,January,3,2019,Monthly,Final,30,108,4.80%
-1,MT,Not Adj,65,Musselshell,County,4,2134,2239,February,3,2019,Monthly,Final,30,105,4.70%
-1,MT,Not Adj,65,Musselshell,County,4,2143,2248,March,3,2019,Monthly,Final,30,105,4.70%
-1,MT,Not Adj,65,Musselshell,County,4,2182,2266,April,3,2019,Monthly,Final,30,84,3.70%
-1,MT,Not Adj,65,Musselshell,County,4,2172,2235,May,3,2019,Monthly,Final,30,63,2.80%
-1,MT,Not Adj,65,Musselshell,County,4,2192,2275,June,3,2019,Monthly,Final,30,83,3.60%
-1,MT,Not Adj,65,Musselshell,County,4,2183,2266,July,3,2019,Monthly,Final,30,83,3.70%
-1,MT,Not Adj,65,Musselshell,County,4,2175,2253,August,3,2019,Monthly,Final,30,78,3.50%
-1,MT,Not Adj,65,Musselshell,County,4,2189,2272,September,3,2019,Monthly,Final,30,83,3.70%
-1,MT,Not Adj,65,Musselshell,County,4,2205,2282,October,3,2019,Monthly,Final,30,77,3.40%
-1,MT,Not Adj,65,Musselshell,County,4,2211,2301,November,3,2019,Monthly,Final,30,90,3.90%
-1,MT,Not Adj,65,Musselshell,County,4,2188,2280,December,3,2019,Monthly,Final,30,92,4.00%
-1,MT,Not Adj,65,Musselshell,County,4,2151,2296,January,3,2020,Monthly,Final,30,145,6.30%
-1,MT,Not Adj,65,Musselshell,County,4,2164,2293,February,3,2020,Monthly,Final,30,129,5.60%
-1,MT,Not Adj,65,Musselshell,County,4,2148,2263,March,3,2020,Monthly,Final,30,115,5.10%
-1,MT,Not Adj,65,Musselshell,County,4,1936,2145,April,3,2020,Monthly,Final,30,209,9.70%
-1,MT,Not Adj,65,Musselshell,County,4,1991,2156,May,3,2020,Monthly,Preliminary,30,165,7.70%
-1,MT,Not Adj,67,Park,County,4,8021,8471,January,3,2019,Monthly,Final,30,450,5.30%
-1,MT,Not Adj,67,Park,County,4,8095,8458,February,3,2019,Monthly,Final,30,363,4.30%
-1,MT,Not Adj,67,Park,County,4,8142,8526,March,3,2019,Monthly,Final,30,384,4.50%
-1,MT,Not Adj,67,Park,County,4,8332,8629,April,3,2019,Monthly,Final,30,297,3.40%
-1,MT,Not Adj,67,Park,County,4,8677,8938,May,3,2019,Monthly,Final,30,261,2.90%
-1,MT,Not Adj,67,Park,County,4,9040,9316,June,3,2019,Monthly,Final,30,276,3.00%
-1,MT,Not Adj,67,Park,County,4,9226,9467,July,3,2019,Monthly,Final,30,241,2.50%
-1,MT,Not Adj,67,Park,County,4,9265,9496,August,3,2019,Monthly,Final,30,231,2.40%
-1,MT,Not Adj,67,Park,County,4,8878,9105,September,3,2019,Monthly,Final,30,227,2.50%
-1,MT,Not Adj,67,Park,County,4,8768,9020,October,3,2019,Monthly,Final,30,252,2.80%
-1,MT,Not Adj,67,Park,County,4,8484,8811,November,3,2019,Monthly,Final,30,327,3.70%
-1,MT,Not Adj,67,Park,County,4,8345,8699,December,3,2019,Monthly,Final,30,354,4.10%
-1,MT,Not Adj,67,Park,County,4,8234,8618,January,3,2020,Monthly,Final,30,384,4.50%
-1,MT,Not Adj,67,Park,County,4,8304,8694,February,3,2020,Monthly,Final,30,390,4.50%
-1,MT,Not Adj,67,Park,County,4,8382,8801,March,3,2020,Monthly,Final,30,419,4.80%
-1,MT,Not Adj,67,Park,County,4,7501,9034,April,3,2020,Monthly,Final,30,1533,17.00%
-1,MT,Not Adj,67,Park,County,4,8065,9232,May,3,2020,Monthly,Preliminary,30,1167,12.60%
-1,MT,Not Adj,69,Petroleum,County,4,268,283,January,3,2019,Monthly,Final,30,15,5.30%
-1,MT,Not Adj,69,Petroleum,County,4,260,273,February,3,2019,Monthly,Final,30,13,4.80%
-1,MT,Not Adj,69,Petroleum,County,4,259,271,March,3,2019,Monthly,Final,30,12,4.40%
-1,MT,Not Adj,69,Petroleum,County,4,270,278,April,3,2019,Monthly,Final,30,8,2.90%
-1,MT,Not Adj,69,Petroleum,County,4,264,270,May,3,2019,Monthly,Final,30,6,2.20%
-1,MT,Not Adj,69,Petroleum,County,4,262,270,June,3,2019,Monthly,Final,30,8,3.00%
-1,MT,Not Adj,69,Petroleum,County,4,267,274,July,3,2019,Monthly,Final,30,7,2.60%
-1,MT,Not Adj,69,Petroleum,County,4,271,279,August,3,2019,Monthly,Final,30,8,2.90%
-1,MT,Not Adj,69,Petroleum,County,4,275,283,September,3,2019,Monthly,Final,30,8,2.80%
-1,MT,Not Adj,69,Petroleum,County,4,283,292,October,3,2019,Monthly,Final,30,9,3.10%
-1,MT,Not Adj,69,Petroleum,County,4,277,288,November,3,2019,Monthly,Final,30,11,3.80%
-1,MT,Not Adj,69,Petroleum,County,4,276,289,December,3,2019,Monthly,Final,30,13,4.50%
-1,MT,Not Adj,69,Petroleum,County,4,263,273,January,3,2020,Monthly,Final,30,10,3.70%
-1,MT,Not Adj,69,Petroleum,County,4,269,283,February,3,2020,Monthly,Final,30,14,4.90%
-1,MT,Not Adj,69,Petroleum,County,4,269,280,March,3,2020,Monthly,Final,30,11,3.90%
-1,MT,Not Adj,69,Petroleum,County,4,255,263,April,3,2020,Monthly,Final,30,8,3.00%
-1,MT,Not Adj,69,Petroleum,County,4,249,259,May,3,2020,Monthly,Preliminary,30,10,3.90%
-1,MT,Not Adj,71,Phillips,County,4,1801,1901,January,3,2019,Monthly,Final,30,100,5.30%
-1,MT,Not Adj,71,Phillips,County,4,1763,1856,February,3,2019,Monthly,Final,30,93,5.00%
-1,MT,Not Adj,71,Phillips,County,4,1762,1847,March,3,2019,Monthly,Final,30,85,4.60%
-1,MT,Not Adj,71,Phillips,County,4,1813,1886,April,3,2019,Monthly,Final,30,73,3.90%
-1,MT,Not Adj,71,Phillips,County,4,1795,1841,May,3,2019,Monthly,Final,30,46,2.50%
-1,MT,Not Adj,71,Phillips,County,4,1791,1854,June,3,2019,Monthly,Final,30,63,3.40%
-1,MT,Not Adj,71,Phillips,County,4,1773,1838,July,3,2019,Monthly,Final,30,65,3.50%
-1,MT,Not Adj,71,Phillips,County,4,1824,1875,August,3,2019,Monthly,Final,30,51,2.70%
-1,MT,Not Adj,71,Phillips,County,4,1849,1902,September,3,2019,Monthly,Final,30,53,2.80%
-1,MT,Not Adj,71,Phillips,County,4,1890,1948,October,3,2019,Monthly,Final,30,58,3.00%
-1,MT,Not Adj,71,Phillips,County,4,1855,1919,November,3,2019,Monthly,Final,30,64,3.30%
-1,MT,Not Adj,71,Phillips,County,4,1842,1928,December,3,2019,Monthly,Final,30,86,4.50%
-1,MT,Not Adj,71,Phillips,County,4,1767,1866,January,3,2020,Monthly,Final,30,99,5.30%
-1,MT,Not Adj,71,Phillips,County,4,1790,1876,February,3,2020,Monthly,Final,30,86,4.60%
-1,MT,Not Adj,71,Phillips,County,4,1816,1900,March,3,2020,Monthly,Final,30,84,4.40%
-1,MT,Not Adj,71,Phillips,County,4,1667,1807,April,3,2020,Monthly,Final,30,140,7.70%
-1,MT,Not Adj,71,Phillips,County,4,1682,1790,May,3,2020,Monthly,Preliminary,30,108,6.00%
-1,MT,Not Adj,73,Pondera,County,4,2542,2677,January,3,2019,Monthly,Final,30,135,5.00%
-1,MT,Not Adj,73,Pondera,County,4,2551,2683,February,3,2019,Monthly,Final,30,132,4.90%
-1,MT,Not Adj,73,Pondera,County,4,2536,2666,March,3,2019,Monthly,Final,30,130,4.90%
-1,MT,Not Adj,73,Pondera,County,4,2563,2662,April,3,2019,Monthly,Final,30,99,3.70%
-1,MT,Not Adj,73,Pondera,County,4,2610,2695,May,3,2019,Monthly,Final,30,85,3.20%
-1,MT,Not Adj,73,Pondera,County,4,2604,2711,June,3,2019,Monthly,Final,30,107,3.90%
-1,MT,Not Adj,73,Pondera,County,4,2523,2626,July,3,2019,Monthly,Final,30,103,3.90%
-1,MT,Not Adj,73,Pondera,County,4,2563,2651,August,3,2019,Monthly,Final,30,88,3.30%
-1,MT,Not Adj,73,Pondera,County,4,2560,2643,September,3,2019,Monthly,Final,30,83,3.10%
-1,MT,Not Adj,73,Pondera,County,4,2625,2705,October,3,2019,Monthly,Final,30,80,3.00%
-1,MT,Not Adj,73,Pondera,County,4,2590,2671,November,3,2019,Monthly,Final,30,81,3.00%
-1,MT,Not Adj,73,Pondera,County,4,2570,2656,December,3,2019,Monthly,Final,30,86,3.20%
-1,MT,Not Adj,73,Pondera,County,4,2503,2602,January,3,2020,Monthly,Final,30,99,3.80%
-1,MT,Not Adj,73,Pondera,County,4,2551,2641,February,3,2020,Monthly,Final,30,90,3.40%
-1,MT,Not Adj,73,Pondera,County,4,2561,2664,March,3,2020,Monthly,Final,30,103,3.90%
-1,MT,Not Adj,73,Pondera,County,4,2333,2517,April,3,2020,Monthly,Final,30,184,7.30%
-1,MT,Not Adj,73,Pondera,County,4,2380,2542,May,3,2020,Monthly,Preliminary,30,162,6.40%
-1,MT,Not Adj,75,Powder River,County,4,920,955,January,3,2019,Monthly,Final,30,35,3.70%
-1,MT,Not Adj,75,Powder River,County,4,895,926,February,3,2019,Monthly,Final,30,31,3.30%
-1,MT,Not Adj,75,Powder River,County,4,885,912,March,3,2019,Monthly,Final,30,27,3.00%
-1,MT,Not Adj,75,Powder River,County,4,922,938,April,3,2019,Monthly,Final,30,16,1.70%
-1,MT,Not Adj,75,Powder River,County,4,927,942,May,3,2019,Monthly,Final,30,15,1.60%
-1,MT,Not Adj,75,Powder River,County,4,932,952,June,3,2019,Monthly,Final,30,20,2.10%
-1,MT,Not Adj,75,Powder River,County,4,927,946,July,3,2019,Monthly,Final,30,19,2.00%
-1,MT,Not Adj,75,Powder River,County,4,952,971,August,3,2019,Monthly,Final,30,19,2.00%
-1,MT,Not Adj,75,Powder River,County,4,963,984,September,3,2019,Monthly,Final,30,21,2.10%
-1,MT,Not Adj,75,Powder River,County,4,985,1007,October,3,2019,Monthly,Final,30,22,2.20%
-1,MT,Not Adj,75,Powder River,County,4,976,1000,November,3,2019,Monthly,Final,30,24,2.40%
-1,MT,Not Adj,75,Powder River,County,4,952,975,December,3,2019,Monthly,Final,30,23,2.40%
-1,MT,Not Adj,75,Powder River,County,4,911,939,January,3,2020,Monthly,Final,30,28,3.00%
-1,MT,Not Adj,75,Powder River,County,4,927,956,February,3,2020,Monthly,Final,30,29,3.00%
-1,MT,Not Adj,75,Powder River,County,4,939,971,March,3,2020,Monthly,Final,30,32,3.30%
-1,MT,Not Adj,75,Powder River,County,4,880,929,April,3,2020,Monthly,Final,30,49,5.30%
-1,MT,Not Adj,75,Powder River,County,4,876,911,May,3,2020,Monthly,Preliminary,30,35,3.80%
-1,MT,Not Adj,77,Powell,County,4,2664,2788,January,3,2019,Monthly,Final,30,124,4.40%
-1,MT,Not Adj,77,Powell,County,4,2702,2831,February,3,2019,Monthly,Final,30,129,4.60%
-1,MT,Not Adj,77,Powell,County,4,2725,2860,March,3,2019,Monthly,Final,30,135,4.70%
-1,MT,Not Adj,77,Powell,County,4,2794,2914,April,3,2019,Monthly,Final,30,120,4.10%
-1,MT,Not Adj,77,Powell,County,4,2870,2975,May,3,2019,Monthly,Final,30,105,3.50%
-1,MT,Not Adj,77,Powell,County,4,2946,3044,June,3,2019,Monthly,Final,30,98,3.20%
-1,MT,Not Adj,77,Powell,County,4,3007,3094,July,3,2019,Monthly,Final,30,87,2.80%
-1,MT,Not Adj,77,Powell,County,4,2968,3066,August,3,2019,Monthly,Final,30,98,3.20%
-1,MT,Not Adj,77,Powell,County,4,2928,3025,September,3,2019,Monthly,Final,30,97,3.20%
-1,MT,Not Adj,77,Powell,County,4,2940,3040,October,3,2019,Monthly,Final,30,100,3.30%
-1,MT,Not Adj,77,Powell,County,4,2930,3037,November,3,2019,Monthly,Final,30,107,3.50%
-1,MT,Not Adj,77,Powell,County,4,2907,3008,December,3,2019,Monthly,Final,30,101,3.40%
-1,MT,Not Adj,77,Powell,County,4,2762,2891,January,3,2020,Monthly,Final,30,129,4.50%
-1,MT,Not Adj,77,Powell,County,4,2797,2921,February,3,2020,Monthly,Final,30,124,4.20%
-1,MT,Not Adj,77,Powell,County,4,2734,2874,March,3,2020,Monthly,Final,30,140,4.90%
-1,MT,Not Adj,77,Powell,County,4,2457,2737,April,3,2020,Monthly,Final,30,280,10.20%
-1,MT,Not Adj,77,Powell,County,4,2579,2762,May,3,2020,Monthly,Preliminary,30,183,6.60%
-1,MT,Not Adj,79,Prairie,County,4,456,478,January,3,2019,Monthly,Final,30,22,4.60%
-1,MT,Not Adj,79,Prairie,County,4,455,472,February,3,2019,Monthly,Final,30,17,3.60%
-1,MT,Not Adj,79,Prairie,County,4,446,463,March,3,2019,Monthly,Final,30,17,3.70%
-1,MT,Not Adj,79,Prairie,County,4,454,470,April,3,2019,Monthly,Final,30,16,3.40%
-1,MT,Not Adj,79,Prairie,County,4,457,472,May,3,2019,Monthly,Final,30,15,3.20%
-1,MT,Not Adj,79,Prairie,County,4,440,458,June,3,2019,Monthly,Final,30,18,3.90%
-1,MT,Not Adj,79,Prairie,County,4,458,477,July,3,2019,Monthly,Final,30,19,4.00%
-1,MT,Not Adj,79,Prairie,County,4,465,484,August,3,2019,Monthly,Final,30,19,3.90%
-1,MT,Not Adj,79,Prairie,County,4,465,485,September,3,2019,Monthly,Final,30,20,4.10%
-1,MT,Not Adj,79,Prairie,County,4,471,490,October,3,2019,Monthly,Final,30,19,3.90%
-1,MT,Not Adj,79,Prairie,County,4,478,495,November,3,2019,Monthly,Final,30,17,3.40%
-1,MT,Not Adj,79,Prairie,County,4,464,481,December,3,2019,Monthly,Final,30,17,3.50%
-1,MT,Not Adj,79,Prairie,County,4,449,473,January,3,2020,Monthly,Final,30,24,5.10%
-1,MT,Not Adj,79,Prairie,County,4,460,484,February,3,2020,Monthly,Final,30,24,5.00%
-1,MT,Not Adj,79,Prairie,County,4,454,477,March,3,2020,Monthly,Final,30,23,4.80%
-1,MT,Not Adj,79,Prairie,County,4,412,439,April,3,2020,Monthly,Final,30,27,6.20%
-1,MT,Not Adj,79,Prairie,County,4,423,457,May,3,2020,Monthly,Preliminary,30,34,7.40%
-1,MT,Not Adj,81,Ravalli,County,4,18676,19823,January,3,2019,Monthly,Final,30,1147,5.80%
-1,MT,Not Adj,81,Ravalli,County,4,18734,19824,February,3,2019,Monthly,Final,30,1090,5.50%
-1,MT,Not Adj,81,Ravalli,County,4,18904,19952,March,3,2019,Monthly,Final,30,1048,5.30%
-1,MT,Not Adj,81,Ravalli,County,4,19312,20103,April,3,2019,Monthly,Final,30,791,3.90%
-1,MT,Not Adj,81,Ravalli,County,4,19679,20337,May,3,2019,Monthly,Final,30,658,3.20%
-1,MT,Not Adj,81,Ravalli,County,4,19836,20611,June,3,2019,Monthly,Final,30,775,3.80%
-1,MT,Not Adj,81,Ravalli,County,4,19727,20435,July,3,2019,Monthly,Final,30,708,3.50%
-1,MT,Not Adj,81,Ravalli,County,4,19668,20365,August,3,2019,Monthly,Final,30,697,3.40%
-1,MT,Not Adj,81,Ravalli,County,4,19613,20279,September,3,2019,Monthly,Final,30,666,3.30%
-1,MT,Not Adj,81,Ravalli,County,4,19774,20449,October,3,2019,Monthly,Final,30,675,3.30%
-1,MT,Not Adj,81,Ravalli,County,4,19677,20408,November,3,2019,Monthly,Final,30,731,3.60%
-1,MT,Not Adj,81,Ravalli,County,4,19327,20172,December,3,2019,Monthly,Final,30,845,4.20%
-1,MT,Not Adj,81,Ravalli,County,4,19217,20261,January,3,2020,Monthly,Final,30,1044,5.20%
-1,MT,Not Adj,81,Ravalli,County,4,19320,20338,February,3,2020,Monthly,Final,30,1018,5.00%
-1,MT,Not Adj,81,Ravalli,County,4,19408,20403,March,3,2020,Monthly,Final,30,995,4.90%
-1,MT,Not Adj,81,Ravalli,County,4,17296,19388,April,3,2020,Monthly,Final,30,2092,10.80%
-1,MT,Not Adj,81,Ravalli,County,4,18117,19562,May,3,2020,Monthly,Preliminary,30,1445,7.40%
-1,MT,Not Adj,83,Richland,County,4,5662,5825,January,3,2019,Monthly,Final,30,163,2.80%
-1,MT,Not Adj,83,Richland,County,4,5619,5765,February,3,2019,Monthly,Final,30,146,2.50%
-1,MT,Not Adj,83,Richland,County,4,5623,5802,March,3,2019,Monthly,Final,30,179,3.10%
-1,MT,Not Adj,83,Richland,County,4,5646,5797,April,3,2019,Monthly,Final,30,151,2.60%
-1,MT,Not Adj,83,Richland,County,4,5689,5822,May,3,2019,Monthly,Final,30,133,2.30%
-1,MT,Not Adj,83,Richland,County,4,5676,5840,June,3,2019,Monthly,Final,30,164,2.80%
-1,MT,Not Adj,83,Richland,County,4,5729,5880,July,3,2019,Monthly,Final,30,151,2.60%
-1,MT,Not Adj,83,Richland,County,4,5929,6096,August,3,2019,Monthly,Final,30,167,2.70%
-1,MT,Not Adj,83,Richland,County,4,5664,5833,September,3,2019,Monthly,Final,30,169,2.90%
-1,MT,Not Adj,83,Richland,County,4,5854,6015,October,3,2019,Monthly,Final,30,161,2.70%
-1,MT,Not Adj,83,Richland,County,4,5827,5971,November,3,2019,Monthly,Final,30,144,2.40%
-1,MT,Not Adj,83,Richland,County,4,5774,5917,December,3,2019,Monthly,Final,30,143,2.40%
-1,MT,Not Adj,83,Richland,County,4,5712,5900,January,3,2020,Monthly,Final,30,188,3.20%
-1,MT,Not Adj,83,Richland,County,4,5723,5904,February,3,2020,Monthly,Final,30,181,3.10%
-1,MT,Not Adj,83,Richland,County,4,5557,5749,March,3,2020,Monthly,Final,30,192,3.30%
-1,MT,Not Adj,83,Richland,County,4,4862,5475,April,3,2020,Monthly,Final,30,613,11.20%
-1,MT,Not Adj,83,Richland,County,4,5044,5573,May,3,2020,Monthly,Preliminary,30,529,9.50%
-1,MT,Not Adj,85,Roosevelt,County,4,4278,4503,January,3,2019,Monthly,Final,30,225,5.00%
-1,MT,Not Adj,85,Roosevelt,County,4,4257,4467,February,3,2019,Monthly,Final,30,210,4.70%
-1,MT,Not Adj,85,Roosevelt,County,4,4239,4472,March,3,2019,Monthly,Final,30,233,5.20%
-1,MT,Not Adj,85,Roosevelt,County,4,4322,4533,April,3,2019,Monthly,Final,30,211,4.70%
-1,MT,Not Adj,85,Roosevelt,County,4,4395,4554,May,3,2019,Monthly,Final,30,159,3.50%
-1,MT,Not Adj,85,Roosevelt,County,4,4405,4610,June,3,2019,Monthly,Final,30,205,4.40%
-1,MT,Not Adj,85,Roosevelt,County,4,4245,4464,July,3,2019,Monthly,Final,30,219,4.90%
-1,MT,Not Adj,85,Roosevelt,County,4,4277,4469,August,3,2019,Monthly,Final,30,192,4.30%
-1,MT,Not Adj,85,Roosevelt,County,4,4292,4455,September,3,2019,Monthly,Final,30,163,3.70%
-1,MT,Not Adj,85,Roosevelt,County,4,4345,4508,October,3,2019,Monthly,Final,30,163,3.60%
-1,MT,Not Adj,85,Roosevelt,County,4,4343,4505,November,3,2019,Monthly,Final,30,162,3.60%
-1,MT,Not Adj,85,Roosevelt,County,4,4293,4474,December,3,2019,Monthly,Final,30,181,4.00%
-1,MT,Not Adj,85,Roosevelt,County,4,4245,4461,January,3,2020,Monthly,Final,30,216,4.80%
-1,MT,Not Adj,85,Roosevelt,County,4,4270,4492,February,3,2020,Monthly,Final,30,222,4.90%
-1,MT,Not Adj,85,Roosevelt,County,4,4202,4427,March,3,2020,Monthly,Final,30,225,5.10%
-1,MT,Not Adj,85,Roosevelt,County,4,3734,4060,April,3,2020,Monthly,Final,30,326,8.00%
-1,MT,Not Adj,85,Roosevelt,County,4,3908,4235,May,3,2020,Monthly,Preliminary,30,327,7.70%
-1,MT,Not Adj,87,Rosebud,County,4,3545,3769,January,3,2019,Monthly,Final,30,224,5.90%
-1,MT,Not Adj,87,Rosebud,County,4,3523,3732,February,3,2019,Monthly,Final,30,209,5.60%
-1,MT,Not Adj,87,Rosebud,County,4,3531,3748,March,3,2019,Monthly,Final,30,217,5.80%
-1,MT,Not Adj,87,Rosebud,County,4,3605,3781,April,3,2019,Monthly,Final,30,176,4.70%
-1,MT,Not Adj,87,Rosebud,County,4,3669,3822,May,3,2019,Monthly,Final,30,153,4.00%
-1,MT,Not Adj,87,Rosebud,County,4,3596,3818,June,3,2019,Monthly,Final,30,222,5.80%
-1,MT,Not Adj,87,Rosebud,County,4,3690,3902,July,3,2019,Monthly,Final,30,212,5.40%
-1,MT,Not Adj,87,Rosebud,County,4,3767,3986,August,3,2019,Monthly,Final,30,219,5.50%
-1,MT,Not Adj,87,Rosebud,County,4,3669,3831,September,3,2019,Monthly,Final,30,162,4.20%
-1,MT,Not Adj,87,Rosebud,County,4,3725,3904,October,3,2019,Monthly,Final,30,179,4.60%
-1,MT,Not Adj,87,Rosebud,County,4,3676,3848,November,3,2019,Monthly,Final,30,172,4.50%
-1,MT,Not Adj,87,Rosebud,County,4,3621,3779,December,3,2019,Monthly,Final,30,158,4.20%
-1,MT,Not Adj,87,Rosebud,County,4,3546,3732,January,3,2020,Monthly,Final,30,186,5.00%
-1,MT,Not Adj,87,Rosebud,County,4,3580,3768,February,3,2020,Monthly,Final,30,188,5.00%
-1,MT,Not Adj,87,Rosebud,County,4,3573,3754,March,3,2020,Monthly,Final,30,181,4.80%
-1,MT,Not Adj,87,Rosebud,County,4,3242,3513,April,3,2020,Monthly,Final,30,271,7.70%
-1,MT,Not Adj,87,Rosebud,County,4,3463,3760,May,3,2020,Monthly,Preliminary,30,297,7.90%
-1,MT,Not Adj,89,Sanders,County,4,4327,4743,January,3,2019,Monthly,Final,30,416,8.80%
-1,MT,Not Adj,89,Sanders,County,4,4368,4763,February,3,2019,Monthly,Final,30,395,8.30%
-1,MT,Not Adj,89,Sanders,County,4,4346,4717,March,3,2019,Monthly,Final,30,371,7.90%
-1,MT,Not Adj,89,Sanders,County,4,4502,4807,April,3,2019,Monthly,Final,30,305,6.30%
-1,MT,Not Adj,89,Sanders,County,4,4659,4879,May,3,2019,Monthly,Final,30,220,4.50%
-1,MT,Not Adj,89,Sanders,County,4,4671,4933,June,3,2019,Monthly,Final,30,262,5.30%
-1,MT,Not Adj,89,Sanders,County,4,4672,4913,July,3,2019,Monthly,Final,30,241,4.90%
-1,MT,Not Adj,89,Sanders,County,4,4725,4975,August,3,2019,Monthly,Final,30,250,5.00%
-1,MT,Not Adj,89,Sanders,County,4,4675,4891,September,3,2019,Monthly,Final,30,216,4.40%
-1,MT,Not Adj,89,Sanders,County,4,4670,4888,October,3,2019,Monthly,Final,30,218,4.50%
-1,MT,Not Adj,89,Sanders,County,4,4616,4849,November,3,2019,Monthly,Final,30,233,4.80%
-1,MT,Not Adj,89,Sanders,County,4,4476,4771,December,3,2019,Monthly,Final,30,295,6.20%
-1,MT,Not Adj,89,Sanders,County,4,4405,4811,January,3,2020,Monthly,Final,30,406,8.40%
-1,MT,Not Adj,89,Sanders,County,4,4434,4817,February,3,2020,Monthly,Final,30,383,8.00%
-1,MT,Not Adj,89,Sanders,County,4,4507,4870,March,3,2020,Monthly,Final,30,363,7.50%
-1,MT,Not Adj,89,Sanders,County,4,4066,4727,April,3,2020,Monthly,Final,30,661,14.00%
-1,MT,Not Adj,89,Sanders,County,4,4288,4765,May,3,2020,Monthly,Preliminary,30,477,10.00%
-1,MT,Not Adj,91,Sheridan,County,4,1693,1748,January,3,2019,Monthly,Final,30,55,3.10%
-1,MT,Not Adj,91,Sheridan,County,4,1685,1725,February,3,2019,Monthly,Final,30,40,2.30%
-1,MT,Not Adj,91,Sheridan,County,4,1714,1763,March,3,2019,Monthly,Final,30,49,2.80%
-1,MT,Not Adj,91,Sheridan,County,4,1720,1752,April,3,2019,Monthly,Final,30,32,1.80%
-1,MT,Not Adj,91,Sheridan,County,4,1707,1739,May,3,2019,Monthly,Final,30,32,1.80%
-1,MT,Not Adj,91,Sheridan,County,4,1714,1751,June,3,2019,Monthly,Final,30,37,2.10%
-1,MT,Not Adj,91,Sheridan,County,4,1645,1675,July,3,2019,Monthly,Final,30,30,1.80%
-1,MT,Not Adj,91,Sheridan,County,4,1705,1740,August,3,2019,Monthly,Final,30,35,2.00%
-1,MT,Not Adj,91,Sheridan,County,4,1700,1738,September,3,2019,Monthly,Final,30,38,2.20%
-1,MT,Not Adj,91,Sheridan,County,4,1729,1768,October,3,2019,Monthly,Final,30,39,2.20%
-1,MT,Not Adj,91,Sheridan,County,4,1718,1758,November,3,2019,Monthly,Final,30,40,2.30%
-1,MT,Not Adj,91,Sheridan,County,4,1699,1741,December,3,2019,Monthly,Final,30,42,2.40%
-1,MT,Not Adj,91,Sheridan,County,4,1666,1722,January,3,2020,Monthly,Final,30,56,3.30%
-1,MT,Not Adj,91,Sheridan,County,4,1680,1727,February,3,2020,Monthly,Final,30,47,2.70%
-1,MT,Not Adj,91,Sheridan,County,4,1722,1779,March,3,2020,Monthly,Final,30,57,3.20%
-1,MT,Not Adj,91,Sheridan,County,4,1548,1689,April,3,2020,Monthly,Final,30,141,8.30%
-1,MT,Not Adj,91,Sheridan,County,4,1575,1680,May,3,2020,Monthly,Preliminary,30,105,6.30%
-1,MT,Not Adj,93,Silver Bow,County,4,16163,16956,January,3,2019,Monthly,Final,30,793,4.70%
-1,MT,Not Adj,93,Silver Bow,County,4,16274,17020,February,3,2019,Monthly,Final,30,746,4.40%
-1,MT,Not Adj,93,Silver Bow,County,4,16192,16957,March,3,2019,Monthly,Final,30,765,4.50%
-1,MT,Not Adj,93,Silver Bow,County,4,16451,17086,April,3,2019,Monthly,Final,30,635,3.70%
-1,MT,Not Adj,93,Silver Bow,County,4,16575,17086,May,3,2019,Monthly,Final,30,511,3.00%
-1,MT,Not Adj,93,Silver Bow,County,4,16808,17455,June,3,2019,Monthly,Final,30,647,3.70%
-1,MT,Not Adj,93,Silver Bow,County,4,17154,17766,July,3,2019,Monthly,Final,30,612,3.40%
-1,MT,Not Adj,93,Silver Bow,County,4,16987,17621,August,3,2019,Monthly,Final,30,634,3.60%
-1,MT,Not Adj,93,Silver Bow,County,4,16465,17009,September,3,2019,Monthly,Final,30,544,3.20%
-1,MT,Not Adj,93,Silver Bow,County,4,16522,17123,October,3,2019,Monthly,Final,30,601,3.50%
-1,MT,Not Adj,93,Silver Bow,County,4,16570,17202,November,3,2019,Monthly,Final,30,632,3.70%
-1,MT,Not Adj,93,Silver Bow,County,4,16347,17017,December,3,2019,Monthly,Final,30,670,3.90%
-1,MT,Not Adj,93,Silver Bow,County,4,16390,17201,January,3,2020,Monthly,Final,30,811,4.70%
-1,MT,Not Adj,93,Silver Bow,County,4,16386,17165,February,3,2020,Monthly,Final,30,779,4.50%
-1,MT,Not Adj,93,Silver Bow,County,4,16266,17067,March,3,2020,Monthly,Final,30,801,4.70%
-1,MT,Not Adj,93,Silver Bow,County,4,14269,16567,April,3,2020,Monthly,Final,30,2298,13.90%
-1,MT,Not Adj,93,Silver Bow,County,4,14963,16443,May,3,2020,Monthly,Preliminary,30,1480,9.00%
-1,MT,Not Adj,95,Stillwater,County,4,4806,5001,January,3,2019,Monthly,Final,30,195,3.90%
-1,MT,Not Adj,95,Stillwater,County,4,4825,5035,February,3,2019,Monthly,Final,30,210,4.20%
-1,MT,Not Adj,95,Stillwater,County,4,4821,5030,March,3,2019,Monthly,Final,30,209,4.20%
-1,MT,Not Adj,95,Stillwater,County,4,4962,5115,April,3,2019,Monthly,Final,30,153,3.00%
-1,MT,Not Adj,95,Stillwater,County,4,5017,5153,May,3,2019,Monthly,Final,30,136,2.60%
-1,MT,Not Adj,95,Stillwater,County,4,4900,5055,June,3,2019,Monthly,Final,30,155,3.10%
-1,MT,Not Adj,95,Stillwater,County,4,5063,5208,July,3,2019,Monthly,Final,30,145,2.80%
-1,MT,Not Adj,95,Stillwater,County,4,5099,5242,August,3,2019,Monthly,Final,30,143,2.70%
-1,MT,Not Adj,95,Stillwater,County,4,5164,5301,September,3,2019,Monthly,Final,30,137,2.60%
-1,MT,Not Adj,95,Stillwater,County,4,5213,5353,October,3,2019,Monthly,Final,30,140,2.60%
-1,MT,Not Adj,95,Stillwater,County,4,5201,5352,November,3,2019,Monthly,Final,30,151,2.80%
-1,MT,Not Adj,95,Stillwater,County,4,5140,5310,December,3,2019,Monthly,Final,30,170,3.20%
-1,MT,Not Adj,95,Stillwater,County,4,5114,5315,January,3,2020,Monthly,Final,30,201,3.80%
-1,MT,Not Adj,95,Stillwater,County,4,5151,5335,February,3,2020,Monthly,Final,30,184,3.40%
-1,MT,Not Adj,95,Stillwater,County,4,5224,5401,March,3,2020,Monthly,Final,30,177,3.30%
-1,MT,Not Adj,95,Stillwater,County,4,4690,5180,April,3,2020,Monthly,Final,30,490,9.50%
-1,MT,Not Adj,95,Stillwater,County,4,4878,5223,May,3,2020,Monthly,Preliminary,30,345,6.60%
-1,MT,Not Adj,97,Sweet Grass,County,4,1706,1767,January,3,2019,Monthly,Final,30,61,3.50%
-1,MT,Not Adj,97,Sweet Grass,County,4,1683,1740,February,3,2019,Monthly,Final,30,57,3.30%
-1,MT,Not Adj,97,Sweet Grass,County,4,1676,1727,March,3,2019,Monthly,Final,30,51,3.00%
-1,MT,Not Adj,97,Sweet Grass,County,4,1713,1763,April,3,2019,Monthly,Final,30,50,2.80%
-1,MT,Not Adj,97,Sweet Grass,County,4,1734,1778,May,3,2019,Monthly,Final,30,44,2.50%
-1,MT,Not Adj,97,Sweet Grass,County,4,1774,1825,June,3,2019,Monthly,Final,30,51,2.80%
-1,MT,Not Adj,97,Sweet Grass,County,4,1765,1811,July,3,2019,Monthly,Final,30,46,2.50%
-1,MT,Not Adj,97,Sweet Grass,County,4,1762,1807,August,3,2019,Monthly,Final,30,45,2.50%
-1,MT,Not Adj,97,Sweet Grass,County,4,1788,1830,September,3,2019,Monthly,Final,30,42,2.30%
-1,MT,Not Adj,97,Sweet Grass,County,4,1814,1863,October,3,2019,Monthly,Final,30,49,2.60%
-1,MT,Not Adj,97,Sweet Grass,County,4,1790,1837,November,3,2019,Monthly,Final,30,47,2.60%
-1,MT,Not Adj,97,Sweet Grass,County,4,1765,1816,December,3,2019,Monthly,Final,30,51,2.80%
-1,MT,Not Adj,97,Sweet Grass,County,4,1729,1794,January,3,2020,Monthly,Final,30,65,3.60%
-1,MT,Not Adj,97,Sweet Grass,County,4,1750,1803,February,3,2020,Monthly,Final,30,53,2.90%
-1,MT,Not Adj,97,Sweet Grass,County,4,1750,1806,March,3,2020,Monthly,Final,30,56,3.10%
-1,MT,Not Adj,97,Sweet Grass,County,4,1590,1707,April,3,2020,Monthly,Final,30,117,6.90%
-1,MT,Not Adj,97,Sweet Grass,County,4,1633,1713,May,3,2020,Monthly,Preliminary,30,80,4.70%
-1,MT,Not Adj,99,Teton,County,4,2587,2706,January,3,2019,Monthly,Final,30,119,4.40%
-1,MT,Not Adj,99,Teton,County,4,2559,2667,February,3,2019,Monthly,Final,30,108,4.00%
-1,MT,Not Adj,99,Teton,County,4,2543,2650,March,3,2019,Monthly,Final,30,107,4.00%
-1,MT,Not Adj,99,Teton,County,4,2654,2739,April,3,2019,Monthly,Final,30,85,3.10%
-1,MT,Not Adj,99,Teton,County,4,2683,2753,May,3,2019,Monthly,Final,30,70,2.50%
-1,MT,Not Adj,99,Teton,County,4,2695,2776,June,3,2019,Monthly,Final,30,81,2.90%
-1,MT,Not Adj,99,Teton,County,4,2651,2726,July,3,2019,Monthly,Final,30,75,2.80%
-1,MT,Not Adj,99,Teton,County,4,2688,2762,August,3,2019,Monthly,Final,30,74,2.70%
-1,MT,Not Adj,99,Teton,County,4,2686,2762,September,3,2019,Monthly,Final,30,76,2.80%
-1,MT,Not Adj,99,Teton,County,4,2718,2801,October,3,2019,Monthly,Final,30,83,3.00%
-1,MT,Not Adj,99,Teton,County,4,2689,2779,November,3,2019,Monthly,Final,30,90,3.20%
-1,MT,Not Adj,99,Teton,County,4,2647,2759,December,3,2019,Monthly,Final,30,112,4.10%
-1,MT,Not Adj,99,Teton,County,4,2586,2723,January,3,2020,Monthly,Final,30,137,5.00%
-1,MT,Not Adj,99,Teton,County,4,2629,2744,February,3,2020,Monthly,Final,30,115,4.20%
-1,MT,Not Adj,99,Teton,County,4,2647,2758,March,3,2020,Monthly,Final,30,111,4.00%
-1,MT,Not Adj,99,Teton,County,4,2432,2616,April,3,2020,Monthly,Final,30,184,7.00%
-1,MT,Not Adj,99,Teton,County,4,2492,2626,May,3,2020,Monthly,Preliminary,30,134,5.10%
-1,MT,Not Adj,101,Toole,County,4,2064,2116,January,3,2019,Monthly,Final,30,52,2.50%
-1,MT,Not Adj,101,Toole,County,4,2032,2081,February,3,2019,Monthly,Final,30,49,2.40%
-1,MT,Not Adj,101,Toole,County,4,2020,2073,March,3,2019,Monthly,Final,30,53,2.60%
-1,MT,Not Adj,101,Toole,County,4,2053,2091,April,3,2019,Monthly,Final,30,38,1.80%
-1,MT,Not Adj,101,Toole,County,4,2068,2112,May,3,2019,Monthly,Final,30,44,2.10%
-1,MT,Not Adj,101,Toole,County,4,2078,2129,June,3,2019,Monthly,Final,30,51,2.40%
-1,MT,Not Adj,101,Toole,County,4,2106,2155,July,3,2019,Monthly,Final,30,49,2.30%
-1,MT,Not Adj,101,Toole,County,4,2104,2155,August,3,2019,Monthly,Final,30,51,2.40%
-1,MT,Not Adj,101,Toole,County,4,2065,2112,September,3,2019,Monthly,Final,30,47,2.20%
-1,MT,Not Adj,101,Toole,County,4,2082,2142,October,3,2019,Monthly,Final,30,60,2.80%
-1,MT,Not Adj,101,Toole,County,4,2054,2115,November,3,2019,Monthly,Final,30,61,2.90%
-1,MT,Not Adj,101,Toole,County,4,2042,2102,December,3,2019,Monthly,Final,30,60,2.90%
-1,MT,Not Adj,101,Toole,County,4,2011,2079,January,3,2020,Monthly,Final,30,68,3.30%
-1,MT,Not Adj,101,Toole,County,4,2023,2093,February,3,2020,Monthly,Final,30,70,3.30%
-1,MT,Not Adj,101,Toole,County,4,2027,2100,March,3,2020,Monthly,Final,30,73,3.50%
-1,MT,Not Adj,101,Toole,County,4,1823,1983,April,3,2020,Monthly,Final,30,160,8.10%
-1,MT,Not Adj,101,Toole,County,4,1881,2025,May,3,2020,Monthly,Preliminary,30,144,7.10%
-1,MT,Not Adj,103,Treasure,County,4,322,334,January,3,2019,Monthly,Final,30,12,3.60%
-1,MT,Not Adj,103,Treasure,County,4,309,321,February,3,2019,Monthly,Final,30,12,3.70%
-1,MT,Not Adj,103,Treasure,County,4,318,333,March,3,2019,Monthly,Final,30,15,4.50%
-1,MT,Not Adj,103,Treasure,County,4,325,334,April,3,2019,Monthly,Final,30,9,2.70%
-1,MT,Not Adj,103,Treasure,County,4,324,331,May,3,2019,Monthly,Final,30,7,2.10%
-1,MT,Not Adj,103,Treasure,County,4,314,323,June,3,2019,Monthly,Final,30,9,2.80%
-1,MT,Not Adj,103,Treasure,County,4,319,326,July,3,2019,Monthly,Final,30,7,2.10%
-1,MT,Not Adj,103,Treasure,County,4,328,338,August,3,2019,Monthly,Final,30,10,3.00%
-1,MT,Not Adj,103,Treasure,County,4,333,341,September,3,2019,Monthly,Final,30,8,2.30%
-1,MT,Not Adj,103,Treasure,County,4,339,346,October,3,2019,Monthly,Final,30,7,2.00%
-1,MT,Not Adj,103,Treasure,County,4,341,348,November,3,2019,Monthly,Final,30,7,2.00%
-1,MT,Not Adj,103,Treasure,County,4,331,339,December,3,2019,Monthly,Final,30,8,2.40%
-1,MT,Not Adj,103,Treasure,County,4,323,331,January,3,2020,Monthly,Final,30,8,2.40%
-1,MT,Not Adj,103,Treasure,County,4,327,335,February,3,2020,Monthly,Final,30,8,2.40%
-1,MT,Not Adj,103,Treasure,County,4,333,341,March,3,2020,Monthly,Final,30,8,2.30%
-1,MT,Not Adj,103,Treasure,County,4,311,326,April,3,2020,Monthly,Final,30,15,4.60%
-1,MT,Not Adj,103,Treasure,County,4,310,325,May,3,2020,Monthly,Preliminary,30,15,4.60%
-1,MT,Not Adj,105,Valley,County,4,3864,4019,January,3,2019,Monthly,Final,30,155,3.90%
-1,MT,Not Adj,105,Valley,County,4,3824,3969,February,3,2019,Monthly,Final,30,145,3.70%
-1,MT,Not Adj,105,Valley,County,4,3819,3966,March,3,2019,Monthly,Final,30,147,3.70%
-1,MT,Not Adj,105,Valley,County,4,3910,4023,April,3,2019,Monthly,Final,30,113,2.80%
-1,MT,Not Adj,105,Valley,County,4,4007,4096,May,3,2019,Monthly,Final,30,89,2.20%
-1,MT,Not Adj,105,Valley,County,4,4032,4151,June,3,2019,Monthly,Final,30,119,2.90%
-1,MT,Not Adj,105,Valley,County,4,4065,4187,July,3,2019,Monthly,Final,30,122,2.90%
-1,MT,Not Adj,105,Valley,County,4,4021,4141,August,3,2019,Monthly,Final,30,120,2.90%
-1,MT,Not Adj,105,Valley,County,4,3968,4101,September,3,2019,Monthly,Final,30,133,3.20%
-1,MT,Not Adj,105,Valley,County,4,4017,4151,October,3,2019,Monthly,Final,30,134,3.20%
-1,MT,Not Adj,105,Valley,County,4,3977,4115,November,3,2019,Monthly,Final,30,138,3.40%
-1,MT,Not Adj,105,Valley,County,4,3901,4037,December,3,2019,Monthly,Final,30,136,3.40%
-1,MT,Not Adj,105,Valley,County,4,3852,4022,January,3,2020,Monthly,Final,30,170,4.20%
-1,MT,Not Adj,105,Valley,County,4,3870,4025,February,3,2020,Monthly,Final,30,155,3.90%
-1,MT,Not Adj,105,Valley,County,4,3914,4069,March,3,2020,Monthly,Final,30,155,3.80%
-1,MT,Not Adj,105,Valley,County,4,3528,3814,April,3,2020,Monthly,Final,30,286,7.50%
-1,MT,Not Adj,105,Valley,County,4,3695,3897,May,3,2020,Monthly,Preliminary,30,202,5.20%
-1,MT,Not Adj,107,Wheatland,County,4,732,775,January,3,2019,Monthly,Final,30,43,5.50%
-1,MT,Not Adj,107,Wheatland,County,4,720,759,February,3,2019,Monthly,Final,30,39,5.10%
-1,MT,Not Adj,107,Wheatland,County,4,727,759,March,3,2019,Monthly,Final,30,32,4.20%
-1,MT,Not Adj,107,Wheatland,County,4,751,774,April,3,2019,Monthly,Final,30,23,3.00%
-1,MT,Not Adj,107,Wheatland,County,4,756,777,May,3,2019,Monthly,Final,30,21,2.70%
-1,MT,Not Adj,107,Wheatland,County,4,727,755,June,3,2019,Monthly,Final,30,28,3.70%
-1,MT,Not Adj,107,Wheatland,County,4,740,769,July,3,2019,Monthly,Final,30,29,3.80%
-1,MT,Not Adj,107,Wheatland,County,4,772,801,August,3,2019,Monthly,Final,30,29,3.60%
-1,MT,Not Adj,107,Wheatland,County,4,774,798,September,3,2019,Monthly,Final,30,24,3.00%
-1,MT,Not Adj,107,Wheatland,County,4,795,820,October,3,2019,Monthly,Final,30,25,3.00%
-1,MT,Not Adj,107,Wheatland,County,4,791,819,November,3,2019,Monthly,Final,30,28,3.40%
-1,MT,Not Adj,107,Wheatland,County,4,775,810,December,3,2019,Monthly,Final,30,35,4.30%
-1,MT,Not Adj,107,Wheatland,County,4,728,775,January,3,2020,Monthly,Final,30,47,6.10%
-1,MT,Not Adj,107,Wheatland,County,4,747,785,February,3,2020,Monthly,Final,30,38,4.80%
-1,MT,Not Adj,107,Wheatland,County,4,756,796,March,3,2020,Monthly,Final,30,40,5.00%
-1,MT,Not Adj,107,Wheatland,County,4,717,815,April,3,2020,Monthly,Final,30,98,12.00%
-1,MT,Not Adj,107,Wheatland,County,4,710,788,May,3,2020,Monthly,Preliminary,30,78,9.90%
-1,MT,Not Adj,109,Wibaux,County,4,447,464,January,3,2019,Monthly,Final,30,17,3.70%
-1,MT,Not Adj,109,Wibaux,County,4,433,445,February,3,2019,Monthly,Final,30,12,2.70%
-1,MT,Not Adj,109,Wibaux,County,4,428,442,March,3,2019,Monthly,Final,30,14,3.20%
-1,MT,Not Adj,109,Wibaux,County,4,436,450,April,3,2019,Monthly,Final,30,14,3.10%
-1,MT,Not Adj,109,Wibaux,County,4,448,459,May,3,2019,Monthly,Final,30,11,2.40%
-1,MT,Not Adj,109,Wibaux,County,4,453,467,June,3,2019,Monthly,Final,30,14,3.00%
-1,MT,Not Adj,109,Wibaux,County,4,470,483,July,3,2019,Monthly,Final,30,13,2.70%
-1,MT,Not Adj,109,Wibaux,County,4,462,472,August,3,2019,Monthly,Final,30,10,2.10%
-1,MT,Not Adj,109,Wibaux,County,4,447,462,September,3,2019,Monthly,Final,30,15,3.20%
-1,MT,Not Adj,109,Wibaux,County,4,458,473,October,3,2019,Monthly,Final,30,15,3.20%
-1,MT,Not Adj,109,Wibaux,County,4,442,456,November,3,2019,Monthly,Final,30,14,3.10%
-1,MT,Not Adj,109,Wibaux,County,4,446,459,December,3,2019,Monthly,Final,30,13,2.80%
-1,MT,Not Adj,109,Wibaux,County,4,437,451,January,3,2020,Monthly,Final,30,14,3.10%
-1,MT,Not Adj,109,Wibaux,County,4,438,452,February,3,2020,Monthly,Final,30,14,3.10%
-1,MT,Not Adj,109,Wibaux,County,4,427,444,March,3,2020,Monthly,Final,30,17,3.80%
-1,MT,Not Adj,109,Wibaux,County,4,395,441,April,3,2020,Monthly,Final,30,46,10.40%
-1,MT,Not Adj,109,Wibaux,County,4,408,435,May,3,2020,Monthly,Preliminary,30,27,6.20%
-1,MT,Not Adj,111,Yellowstone,County,4,78249,81315,January,3,2019,Monthly,Final,30,3066,3.80%
-1,MT,Not Adj,111,Yellowstone,County,4,78407,81482,February,3,2019,Monthly,Final,30,3075,3.80%
-1,MT,Not Adj,111,Yellowstone,County,4,78674,81709,March,3,2019,Monthly,Final,30,3035,3.70%
-1,MT,Not Adj,111,Yellowstone,County,4,79269,81651,April,3,2019,Monthly,Final,30,2382,2.90%
-1,MT,Not Adj,111,Yellowstone,County,4,79672,81792,May,3,2019,Monthly,Final,30,2120,2.60%
-1,MT,Not Adj,111,Yellowstone,County,4,79697,82501,June,3,2019,Monthly,Final,30,2804,3.40%
-1,MT,Not Adj,111,Yellowstone,County,4,79763,82360,July,3,2019,Monthly,Final,30,2597,3.20%
-1,MT,Not Adj,111,Yellowstone,County,4,79719,82243,August,3,2019,Monthly,Final,30,2524,3.10%
-1,MT,Not Adj,111,Yellowstone,County,4,79527,81865,September,3,2019,Monthly,Final,30,2338,2.90%
-1,MT,Not Adj,111,Yellowstone,County,4,79294,81676,October,3,2019,Monthly,Final,30,2382,2.90%
-1,MT,Not Adj,111,Yellowstone,County,4,79232,81686,November,3,2019,Monthly,Final,30,2454,3.00%
-1,MT,Not Adj,111,Yellowstone,County,4,78574,81096,December,3,2019,Monthly,Final,30,2522,3.10%
-1,MT,Not Adj,111,Yellowstone,County,4,78700,81833,January,3,2020,Monthly,Final,30,3133,3.80%
-1,MT,Not Adj,111,Yellowstone,County,4,78737,81734,February,3,2020,Monthly,Final,30,2997,3.70%
-1,MT,Not Adj,111,Yellowstone,County,4,78417,81396,March,3,2020,Monthly,Final,30,2979,3.70%
-1,MT,Not Adj,111,Yellowstone,County,4,71061,79904,April,3,2020,Monthly,Final,30,8843,11.10%
-1,MT,Not Adj,111,Yellowstone,County,4,73843,80033,May,3,2020,Monthly,Preliminary,30,6190,7.70%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,53602,55692,January,3,2019,Monthly,Final,30,2090,3.80%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,53710,55781,February,3,2019,Monthly,Final,30,2071,3.70%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,53893,55978,March,3,2019,Monthly,Final,30,2085,3.70%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,54301,55967,April,3,2019,Monthly,Final,30,1666,3.00%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,54577,56050,May,3,2019,Monthly,Final,30,1473,2.60%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,54594,56577,June,3,2019,Monthly,Final,30,1983,3.50%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,54639,56483,July,3,2019,Monthly,Final,30,1844,3.30%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,54609,56401,August,3,2019,Monthly,Final,30,1792,3.20%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,54478,56088,September,3,2019,Monthly,Final,30,1610,2.90%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,54318,55966,October,3,2019,Monthly,Final,30,1648,2.90%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,54276,55934,November,3,2019,Monthly,Final,30,1658,3.00%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,53825,55503,December,3,2019,Monthly,Final,30,1678,3.00%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,53911,55990,January,3,2020,Monthly,Final,30,2079,3.70%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,53936,55939,February,3,2020,Monthly,Final,30,2003,3.60%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,53717,55733,March,3,2020,Monthly,Final,30,2016,3.60%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,48678,55178,April,3,2020,Monthly,Final,30,6500,11.80%
-1,MT,Not Adj,6550,Billings,"Cities above 25,000 population",11,50584,55112,May,3,2020,Monthly,Preliminary,30,4528,8.20%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,29105,29909,January,3,2019,Monthly,Final,30,804,2.70%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,29526,30227,February,3,2019,Monthly,Final,30,701,2.30%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,29427,30178,March,3,2019,Monthly,Final,30,751,2.50%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,29489,30063,April,3,2019,Monthly,Final,30,574,1.90%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,29701,30294,May,3,2019,Monthly,Final,30,593,2.00%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,30537,31212,June,3,2019,Monthly,Final,30,675,2.20%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,32035,32675,July,3,2019,Monthly,Final,30,640,2.00%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,31400,32016,August,3,2019,Monthly,Final,30,616,1.90%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,30539,31180,September,3,2019,Monthly,Final,30,641,2.10%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,30388,31069,October,3,2019,Monthly,Final,30,681,2.20%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,30283,30996,November,3,2019,Monthly,Final,30,713,2.30%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,30168,30832,December,3,2019,Monthly,Final,30,664,2.20%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,30244,30997,January,3,2020,Monthly,Final,30,753,2.40%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,30495,31233,February,3,2020,Monthly,Final,30,738,2.40%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,30279,31039,March,3,2020,Monthly,Final,30,760,2.40%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,26451,30453,April,3,2020,Monthly,Final,30,4002,13.10%
-1,MT,Not Adj,8950,Bozeman,"Cities above 25,000 population",11,27755,30534,May,3,2020,Monthly,Preliminary,30,2779,9.10%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,26704,27816,January,3,2019,Monthly,Final,30,1112,4.00%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,26815,27936,February,3,2019,Monthly,Final,30,1121,4.00%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,26913,28008,March,3,2019,Monthly,Final,30,1095,3.90%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27134,27978,April,3,2019,Monthly,Final,30,844,3.00%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27293,28086,May,3,2019,Monthly,Final,30,793,2.80%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27411,28383,June,3,2019,Monthly,Final,30,972,3.40%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,26898,27814,July,3,2019,Monthly,Final,30,916,3.30%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,26791,27746,August,3,2019,Monthly,Final,30,955,3.40%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27080,27952,September,3,2019,Monthly,Final,30,872,3.10%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27112,28032,October,3,2019,Monthly,Final,30,920,3.30%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27188,28084,November,3,2019,Monthly,Final,30,896,3.20%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27002,27926,December,3,2019,Monthly,Final,30,924,3.30%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27079,28211,January,3,2020,Monthly,Final,30,1132,4.00%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,27033,28019,February,3,2020,Monthly,Final,30,986,3.50%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,26868,27871,March,3,2020,Monthly,Final,30,1003,3.60%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,23854,27369,April,3,2020,Monthly,Final,30,3515,12.80%
-1,MT,Not Adj,32800,Great Falls,"Cities above 25,000 population",11,25765,28119,May,3,2020,Monthly,Preliminary,30,2354,8.40%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16711,17297,January,3,2019,Monthly,Final,30,586,3.40%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16867,17411,February,3,2019,Monthly,Final,30,544,3.10%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16862,17415,March,3,2019,Monthly,Final,30,553,3.20%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16926,17350,April,3,2019,Monthly,Final,30,424,2.40%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,17154,17563,May,3,2019,Monthly,Final,30,409,2.30%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,17231,17747,June,3,2019,Monthly,Final,30,516,2.90%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,17654,18118,July,3,2019,Monthly,Final,30,464,2.60%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,17425,17895,August,3,2019,Monthly,Final,30,470,2.60%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16989,17452,September,3,2019,Monthly,Final,30,463,2.70%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16954,17408,October,3,2019,Monthly,Final,30,454,2.60%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,17036,17509,November,3,2019,Monthly,Final,30,473,2.70%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16798,17299,December,3,2019,Monthly,Final,30,501,2.90%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16899,17516,January,3,2020,Monthly,Final,30,617,3.50%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,16947,17487,February,3,2020,Monthly,Final,30,540,3.10%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,17046,17590,March,3,2020,Monthly,Final,30,544,3.10%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,14883,16613,April,3,2020,Monthly,Final,30,1730,10.40%
-1,MT,Not Adj,35600,Helena,"Cities above 25,000 population",11,15660,16789,May,3,2020,Monthly,Preliminary,30,1129,6.70%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,38805,40449,January,3,2019,Monthly,Final,30,1644,4.10%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39271,40755,February,3,2019,Monthly,Final,30,1484,3.60%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39365,40860,March,3,2019,Monthly,Final,30,1495,3.70%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39619,40820,April,3,2019,Monthly,Final,30,1201,2.90%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,40207,41233,May,3,2019,Monthly,Final,30,1026,2.50%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,40130,41318,June,3,2019,Monthly,Final,30,1188,2.90%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39586,40720,July,3,2019,Monthly,Final,30,1134,2.80%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39735,40835,August,3,2019,Monthly,Final,30,1100,2.70%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,40228,41311,September,3,2019,Monthly,Final,30,1083,2.60%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,40243,41383,October,3,2019,Monthly,Final,30,1140,2.80%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39874,41146,November,3,2019,Monthly,Final,30,1272,3.10%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39476,40869,December,3,2019,Monthly,Final,30,1393,3.40%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39593,41249,January,3,2020,Monthly,Final,30,1656,4.00%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39783,41377,February,3,2020,Monthly,Final,30,1594,3.90%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,39685,41319,March,3,2020,Monthly,Final,30,1634,4.00%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,35711,41650,April,3,2020,Monthly,Final,30,5939,14.30%
-1,MT,Not Adj,50200,Missoula,"Cities above 25,000 population",11,37311,41488,May,3,2020,Monthly,Preliminary,30,4177,10.10%
+﻿Index,Region,Area,Year,Period,Adjustment,Preliminary or Final,Labor Force,Employed,Unemployed,Unemployment Rate
+1,MT,Beaverhead,2020,June,Not Adj,Preliminary,"4,974","4,754",220,4.40%
+2,MT,Beaverhead,2020,May,Not Adj,Final,"4,831","4,581",250,5.20%
+3,MT,Beaverhead,2020,April,Not Adj,Final,"4,744","4,400",344,7.30%
+4,MT,Beaverhead,2020,March,Not Adj,Final,"5,095","4,920",175,3.40%
+5,MT,Beaverhead,2020,February,Not Adj,Final,"5,024","4,853",171,3.40%
+6,MT,Beaverhead,2020,January,Not Adj,Final,"4,981","4,798",183,3.70%
+7,MT,Beaverhead,2019,December,Not Adj,Final,"5,009","4,843",166,3.30%
+8,MT,Beaverhead,2019,November,Not Adj,Final,"5,080","4,925",155,3.10%
+9,MT,Beaverhead,2019,October,Not Adj,Final,"5,105","4,974",131,2.60%
+10,MT,Beaverhead,2019,September,Not Adj,Final,"5,056","4,932",124,2.50%
+11,MT,Beaverhead,2019,August,Not Adj,Final,"5,132","5,007",125,2.40%
+12,MT,Beaverhead,2019,July,Not Adj,Final,"5,164","5,038",126,2.40%
+13,MT,Beaverhead,2019,June,Not Adj,Final,"5,062","4,921",141,2.80%
+14,MT,Beaverhead,2019,May,Not Adj,Final,"5,058","4,935",123,2.40%
+15,MT,Beaverhead,2019,April,Not Adj,Final,"5,038","4,894",144,2.90%
+16,MT,Beaverhead,2019,March,Not Adj,Final,"5,011","4,836",175,3.50%
+17,MT,Beaverhead,2019,February,Not Adj,Final,"5,060","4,899",161,3.20%
+18,MT,Beaverhead,2019,January,Not Adj,Final,"5,071","4,858",213,4.20%
+19,MT,Big Horn,2020,June,Not Adj,Preliminary,"4,584","4,207",377,8.20%
+20,MT,Big Horn,2020,May,Not Adj,Final,"4,520","4,099",421,9.30%
+21,MT,Big Horn,2020,April,Not Adj,Final,"4,362","3,900",462,10.60%
+22,MT,Big Horn,2020,March,Not Adj,Final,"4,755","4,391",364,7.70%
+23,MT,Big Horn,2020,February,Not Adj,Final,"4,657","4,310",347,7.50%
+24,MT,Big Horn,2020,January,Not Adj,Final,"4,657","4,318",339,7.30%
+25,MT,Big Horn,2019,December,Not Adj,Final,"4,740","4,424",316,6.70%
+26,MT,Big Horn,2019,November,Not Adj,Final,"4,834","4,513",321,6.60%
+27,MT,Big Horn,2019,October,Not Adj,Final,"4,849","4,541",308,6.40%
+28,MT,Big Horn,2019,September,Not Adj,Final,"4,854","4,546",308,6.30%
+29,MT,Big Horn,2019,August,Not Adj,Final,"4,823","4,476",347,7.20%
+30,MT,Big Horn,2019,July,Not Adj,Final,"4,768","4,430",338,7.10%
+31,MT,Big Horn,2019,June,Not Adj,Final,"4,748","4,388",360,7.60%
+32,MT,Big Horn,2019,May,Not Adj,Final,"4,826","4,507",319,6.60%
+33,MT,Big Horn,2019,April,Not Adj,Final,"4,890","4,517",373,7.60%
+34,MT,Big Horn,2019,March,Not Adj,Final,"4,894","4,474",420,8.60%
+35,MT,Big Horn,2019,February,Not Adj,Final,"4,854","4,429",425,8.80%
+36,MT,Big Horn,2019,January,Not Adj,Final,"4,904","4,453",451,9.20%
+37,MT,Billings,2020,June,Not Adj,Preliminary,"57,552","53,512","4,040",7.00%
+38,MT,Billings,2020,May,Not Adj,Final,"54,976","50,409","4,567",8.30%
+39,MT,Billings,2020,April,Not Adj,Final,"55,178","48,678","6,500",11.80%
+40,MT,Billings,2020,March,Not Adj,Final,"55,733","53,717","2,016",3.60%
+41,MT,Billings,2020,February,Not Adj,Final,"55,939","53,936","2,003",3.60%
+42,MT,Billings,2020,January,Not Adj,Final,"55,990","53,911","2,079",3.70%
+43,MT,Billings,2019,December,Not Adj,Final,"55,503","53,825","1,678",3.00%
+44,MT,Billings,2019,November,Not Adj,Final,"55,934","54,276","1,658",3.00%
+45,MT,Billings,2019,October,Not Adj,Final,"55,966","54,318","1,648",2.90%
+46,MT,Billings,2019,September,Not Adj,Final,"56,088","54,478","1,610",2.90%
+47,MT,Billings,2019,August,Not Adj,Final,"56,401","54,609","1,792",3.20%
+48,MT,Billings,2019,July,Not Adj,Final,"56,483","54,639","1,844",3.30%
+49,MT,Billings,2019,June,Not Adj,Final,"56,577","54,594","1,983",3.50%
+50,MT,Billings,2019,May,Not Adj,Final,"56,050","54,577","1,473",2.60%
+51,MT,Billings,2019,April,Not Adj,Final,"55,967","54,301","1,666",3.00%
+52,MT,Billings,2019,March,Not Adj,Final,"55,978","53,893","2,085",3.70%
+53,MT,Billings,2019,February,Not Adj,Final,"55,781","53,710","2,071",3.70%
+54,MT,Billings,2019,January,Not Adj,Final,"55,692","53,602","2,090",3.80%
+55,MT,Blaine,2020,June,Not Adj,Preliminary,"2,327","2,217",110,4.70%
+56,MT,Blaine,2020,May,Not Adj,Final,"2,405","2,290",115,4.80%
+57,MT,Blaine,2020,April,Not Adj,Final,"2,354","2,227",127,5.40%
+58,MT,Blaine,2020,March,Not Adj,Final,"2,549","2,441",108,4.20%
+59,MT,Blaine,2020,February,Not Adj,Final,"2,530","2,424",106,4.20%
+60,MT,Blaine,2020,January,Not Adj,Final,"2,495","2,376",119,4.80%
+61,MT,Blaine,2019,December,Not Adj,Final,"2,524","2,421",103,4.10%
+62,MT,Blaine,2019,November,Not Adj,Final,"2,540","2,450",90,3.50%
+63,MT,Blaine,2019,October,Not Adj,Final,"2,561","2,481",80,3.10%
+64,MT,Blaine,2019,September,Not Adj,Final,"2,509","2,435",74,2.90%
+65,MT,Blaine,2019,August,Not Adj,Final,"2,523","2,448",75,3.00%
+66,MT,Blaine,2019,July,Not Adj,Final,"2,388","2,315",73,3.10%
+67,MT,Blaine,2019,June,Not Adj,Final,"2,399","2,318",81,3.40%
+68,MT,Blaine,2019,May,Not Adj,Final,"2,505","2,440",65,2.60%
+69,MT,Blaine,2019,April,Not Adj,Final,"2,495","2,415",80,3.20%
+70,MT,Blaine,2019,March,Not Adj,Final,"2,479","2,373",106,4.30%
+71,MT,Blaine,2019,February,Not Adj,Final,"2,446","2,344",102,4.20%
+72,MT,Blaine,2019,January,Not Adj,Final,"2,473","2,346",127,5.10%
+73,MT,Bozeman,2020,June,Not Adj,Preliminary,"31,934","29,740","2,194",6.90%
+74,MT,Bozeman,2020,May,Not Adj,Final,"30,717","27,910","2,807",9.10%
+75,MT,Bozeman,2020,April,Not Adj,Final,"30,453","26,451","4,002",13.10%
+76,MT,Bozeman,2020,March,Not Adj,Final,"31,039","30,279",760,2.40%
+77,MT,Bozeman,2020,February,Not Adj,Final,"31,233","30,495",738,2.40%
+78,MT,Bozeman,2020,January,Not Adj,Final,"30,997","30,244",753,2.40%
+79,MT,Bozeman,2019,December,Not Adj,Final,"30,832","30,168",664,2.20%
+80,MT,Bozeman,2019,November,Not Adj,Final,"30,996","30,283",713,2.30%
+81,MT,Bozeman,2019,October,Not Adj,Final,"31,069","30,388",681,2.20%
+82,MT,Bozeman,2019,September,Not Adj,Final,"31,180","30,539",641,2.10%
+83,MT,Bozeman,2019,August,Not Adj,Final,"32,016","31,400",616,1.90%
+84,MT,Bozeman,2019,July,Not Adj,Final,"32,675","32,035",640,2.00%
+85,MT,Bozeman,2019,June,Not Adj,Final,"31,212","30,537",675,2.20%
+86,MT,Bozeman,2019,May,Not Adj,Final,"30,294","29,701",593,2.00%
+87,MT,Bozeman,2019,April,Not Adj,Final,"30,063","29,489",574,1.90%
+88,MT,Bozeman,2019,March,Not Adj,Final,"30,178","29,427",751,2.50%
+89,MT,Bozeman,2019,February,Not Adj,Final,"30,227","29,526",701,2.30%
+90,MT,Bozeman,2019,January,Not Adj,Final,"29,909","29,105",804,2.70%
+91,MT,Broadwater,2020,June,Not Adj,Preliminary,"2,571","2,384",187,7.30%
+92,MT,Broadwater,2020,May,Not Adj,Final,"2,482","2,293",189,7.60%
+93,MT,Broadwater,2020,April,Not Adj,Final,"2,460","2,184",276,11.20%
+94,MT,Broadwater,2020,March,Not Adj,Final,"2,597","2,468",129,5.00%
+95,MT,Broadwater,2020,February,Not Adj,Final,"2,595","2,464",131,5.00%
+96,MT,Broadwater,2020,January,Not Adj,Final,"2,582","2,442",140,5.40%
+97,MT,Broadwater,2019,December,Not Adj,Final,"2,558","2,451",107,4.20%
+98,MT,Broadwater,2019,November,Not Adj,Final,"2,599","2,494",105,4.00%
+99,MT,Broadwater,2019,October,Not Adj,Final,"2,581","2,494",87,3.40%
+100,MT,Broadwater,2019,September,Not Adj,Final,"2,577","2,491",86,3.30%
+101,MT,Broadwater,2019,August,Not Adj,Final,"2,645","2,552",93,3.50%
+102,MT,Broadwater,2019,July,Not Adj,Final,"2,676","2,568",108,4.00%
+103,MT,Broadwater,2019,June,Not Adj,Final,"2,625","2,518",107,4.10%
+104,MT,Broadwater,2019,May,Not Adj,Final,"2,573","2,480",93,3.60%
+105,MT,Broadwater,2019,April,Not Adj,Final,"2,538","2,442",96,3.80%
+106,MT,Broadwater,2019,March,Not Adj,Final,"2,568","2,453",115,4.50%
+107,MT,Broadwater,2019,February,Not Adj,Final,"2,542","2,430",112,4.40%
+108,MT,Broadwater,2019,January,Not Adj,Final,"2,528","2,406",122,4.80%
+109,MT,Carbon,2020,June,Not Adj,Preliminary,"5,549","5,176",373,6.70%
+110,MT,Carbon,2020,May,Not Adj,Final,"5,399","4,925",474,8.80%
+111,MT,Carbon,2020,April,Not Adj,Final,"5,499","4,821",678,12.30%
+112,MT,Carbon,2020,March,Not Adj,Final,"5,515","5,266",249,4.50%
+113,MT,Carbon,2020,February,Not Adj,Final,"5,516","5,265",251,4.60%
+114,MT,Carbon,2020,January,Not Adj,Final,"5,519","5,245",274,5.00%
+115,MT,Carbon,2019,December,Not Adj,Final,"5,482","5,283",199,3.60%
+116,MT,Carbon,2019,November,Not Adj,Final,"5,520","5,329",191,3.50%
+117,MT,Carbon,2019,October,Not Adj,Final,"5,511","5,348",163,3.00%
+118,MT,Carbon,2019,September,Not Adj,Final,"5,485","5,340",145,2.60%
+119,MT,Carbon,2019,August,Not Adj,Final,"5,497","5,340",157,2.90%
+120,MT,Carbon,2019,July,Not Adj,Final,"5,480","5,319",161,2.90%
+121,MT,Carbon,2019,June,Not Adj,Final,"5,460","5,290",170,3.10%
+122,MT,Carbon,2019,May,Not Adj,Final,"5,456","5,302",154,2.80%
+123,MT,Carbon,2019,April,Not Adj,Final,"5,471","5,291",180,3.30%
+124,MT,Carbon,2019,March,Not Adj,Final,"5,483","5,235",248,4.50%
+125,MT,Carbon,2019,February,Not Adj,Final,"5,447","5,203",244,4.50%
+126,MT,Carbon,2019,January,Not Adj,Final,"5,489","5,230",259,4.70%
+127,MT,Carter,2020,June,Not Adj,Preliminary,588,569,19,3.20%
+128,MT,Carter,2020,May,Not Adj,Final,603,586,17,2.80%
+129,MT,Carter,2020,April,Not Adj,Final,628,607,21,3.30%
+130,MT,Carter,2020,March,Not Adj,Final,651,634,17,2.60%
+131,MT,Carter,2020,February,Not Adj,Final,628,613,15,2.40%
+132,MT,Carter,2020,January,Not Adj,Final,614,599,15,2.40%
+133,MT,Carter,2019,December,Not Adj,Final,660,647,13,2.00%
+134,MT,Carter,2019,November,Not Adj,Final,681,667,14,2.10%
+135,MT,Carter,2019,October,Not Adj,Final,689,672,17,2.50%
+136,MT,Carter,2019,September,Not Adj,Final,661,646,15,2.30%
+137,MT,Carter,2019,August,Not Adj,Final,680,667,13,1.90%
+138,MT,Carter,2019,July,Not Adj,Final,607,591,16,2.60%
+139,MT,Carter,2019,June,Not Adj,Final,612,592,20,3.30%
+140,MT,Carter,2019,May,Not Adj,Final,622,603,19,3.10%
+141,MT,Carter,2019,April,Not Adj,Final,629,611,18,2.90%
+142,MT,Carter,2019,March,Not Adj,Final,621,598,23,3.70%
+143,MT,Carter,2019,February,Not Adj,Final,612,593,19,3.10%
+144,MT,Carter,2019,January,Not Adj,Final,658,629,29,4.40%
+145,MT,Cascade,2020,June,Not Adj,Preliminary,"38,739","36,056","2,683",6.90%
+146,MT,Cascade,2020,May,Not Adj,Final,"37,557","34,510","3,047",8.10%
+147,MT,Cascade,2020,April,Not Adj,Final,"36,848","32,347","4,501",12.20%
+148,MT,Cascade,2020,March,Not Adj,Final,"37,866","36,434","1,432",3.80%
+149,MT,Cascade,2020,February,Not Adj,Final,"38,088","36,657","1,431",3.80%
+150,MT,Cascade,2020,January,Not Adj,Final,"38,343","36,720","1,623",4.20%
+151,MT,Cascade,2019,December,Not Adj,Final,"37,894","36,616","1,278",3.40%
+152,MT,Cascade,2019,November,Not Adj,Final,"38,083","36,868","1,215",3.20%
+153,MT,Cascade,2019,October,Not Adj,Final,"37,962","36,765","1,197",3.20%
+154,MT,Cascade,2019,September,Not Adj,Final,"37,879","36,721","1,158",3.10%
+155,MT,Cascade,2019,August,Not Adj,Final,"37,579","36,330","1,249",3.30%
+156,MT,Cascade,2019,July,Not Adj,Final,"37,674","36,475","1,199",3.20%
+157,MT,Cascade,2019,June,Not Adj,Final,"38,463","37,170","1,293",3.40%
+158,MT,Cascade,2019,May,Not Adj,Final,"38,071","37,010","1,061",2.80%
+159,MT,Cascade,2019,April,Not Adj,Final,"37,969","36,794","1,175",3.10%
+160,MT,Cascade,2019,March,Not Adj,Final,"38,029","36,495","1,534",4.00%
+161,MT,Cascade,2019,February,Not Adj,Final,"37,930","36,362","1,568",4.10%
+162,MT,Cascade,2019,January,Not Adj,Final,"37,737","36,212","1,525",4.00%
+163,MT,Chouteau,2020,June,Not Adj,Preliminary,"2,386","2,287",99,4.10%
+164,MT,Chouteau,2020,May,Not Adj,Final,"2,362","2,252",110,4.70%
+165,MT,Chouteau,2020,April,Not Adj,Final,"2,356","2,215",141,6.00%
+166,MT,Chouteau,2020,March,Not Adj,Final,"2,479","2,395",84,3.40%
+167,MT,Chouteau,2020,February,Not Adj,Final,"2,449","2,367",82,3.30%
+168,MT,Chouteau,2020,January,Not Adj,Final,"2,401","2,314",87,3.60%
+169,MT,Chouteau,2019,December,Not Adj,Final,"2,509","2,428",81,3.20%
+170,MT,Chouteau,2019,November,Not Adj,Final,"2,526","2,465",61,2.40%
+171,MT,Chouteau,2019,October,Not Adj,Final,"2,540","2,472",68,2.70%
+172,MT,Chouteau,2019,September,Not Adj,Final,"2,460","2,400",60,2.40%
+173,MT,Chouteau,2019,August,Not Adj,Final,"2,508","2,455",53,2.10%
+174,MT,Chouteau,2019,July,Not Adj,Final,"2,423","2,367",56,2.30%
+175,MT,Chouteau,2019,June,Not Adj,Final,"2,461","2,403",58,2.40%
+176,MT,Chouteau,2019,May,Not Adj,Final,"2,449","2,395",54,2.20%
+177,MT,Chouteau,2019,April,Not Adj,Final,"2,418","2,359",59,2.40%
+178,MT,Chouteau,2019,March,Not Adj,Final,"2,372","2,293",79,3.30%
+179,MT,Chouteau,2019,February,Not Adj,Final,"2,385","2,308",77,3.20%
+180,MT,Chouteau,2019,January,Not Adj,Final,"2,416","2,327",89,3.70%
+181,MT,Custer,2020,June,Not Adj,Preliminary,"5,901","5,518",383,6.50%
+182,MT,Custer,2020,May,Not Adj,Final,"5,854","5,473",381,6.50%
+183,MT,Custer,2020,April,Not Adj,Final,"5,599","5,132",467,8.30%
+184,MT,Custer,2020,March,Not Adj,Final,"6,062","5,825",237,3.90%
+185,MT,Custer,2020,February,Not Adj,Final,"6,129","5,874",255,4.20%
+186,MT,Custer,2020,January,Not Adj,Final,"6,094","5,839",255,4.20%
+187,MT,Custer,2019,December,Not Adj,Final,"6,093","5,907",186,3.10%
+188,MT,Custer,2019,November,Not Adj,Final,"6,149","5,987",162,2.60%
+189,MT,Custer,2019,October,Not Adj,Final,"6,115","5,961",154,2.50%
+190,MT,Custer,2019,September,Not Adj,Final,"6,085","5,937",148,2.40%
+191,MT,Custer,2019,August,Not Adj,Final,"6,052","5,911",141,2.30%
+192,MT,Custer,2019,July,Not Adj,Final,"6,169","6,007",162,2.60%
+193,MT,Custer,2019,June,Not Adj,Final,"6,019","5,849",170,2.80%
+194,MT,Custer,2019,May,Not Adj,Final,"6,165","6,037",128,2.10%
+195,MT,Custer,2019,April,Not Adj,Final,"6,009","5,851",158,2.60%
+196,MT,Custer,2019,March,Not Adj,Final,"5,941","5,724",217,3.70%
+197,MT,Custer,2019,February,Not Adj,Final,"5,962","5,745",217,3.60%
+198,MT,Custer,2019,January,Not Adj,Final,"5,963","5,715",248,4.20%
+199,MT,Daniels,2020,June,Not Adj,Preliminary,822,798,24,2.90%
+200,MT,Daniels,2020,May,Not Adj,Final,846,816,30,3.50%
+201,MT,Daniels,2020,April,Not Adj,Final,835,799,36,4.30%
+202,MT,Daniels,2020,March,Not Adj,Final,898,870,28,3.10%
+203,MT,Daniels,2020,February,Not Adj,Final,896,869,27,3.00%
+204,MT,Daniels,2020,January,Not Adj,Final,888,862,26,2.90%
+205,MT,Daniels,2019,December,Not Adj,Final,906,883,23,2.50%
+206,MT,Daniels,2019,November,Not Adj,Final,912,892,20,2.20%
+207,MT,Daniels,2019,October,Not Adj,Final,910,893,17,1.90%
+208,MT,Daniels,2019,September,Not Adj,Final,883,866,17,1.90%
+209,MT,Daniels,2019,August,Not Adj,Final,916,902,14,1.50%
+210,MT,Daniels,2019,July,Not Adj,Final,907,893,14,1.50%
+211,MT,Daniels,2019,June,Not Adj,Final,867,844,23,2.70%
+212,MT,Daniels,2019,May,Not Adj,Final,888,876,12,1.40%
+213,MT,Daniels,2019,April,Not Adj,Final,882,870,12,1.40%
+214,MT,Daniels,2019,March,Not Adj,Final,864,844,20,2.30%
+215,MT,Daniels,2019,February,Not Adj,Final,868,850,18,2.10%
+216,MT,Daniels,2019,January,Not Adj,Final,904,883,21,2.30%
+217,MT,Dawson,2020,June,Not Adj,Preliminary,"4,476","4,118",358,8.00%
+218,MT,Dawson,2020,May,Not Adj,Final,"4,437","4,074",363,8.20%
+219,MT,Dawson,2020,April,Not Adj,Final,"4,230","3,923",307,7.30%
+220,MT,Dawson,2020,March,Not Adj,Final,"4,558","4,415",143,3.10%
+221,MT,Dawson,2020,February,Not Adj,Final,"4,568","4,432",136,3.00%
+222,MT,Dawson,2020,January,Not Adj,Final,"4,548","4,398",150,3.30%
+223,MT,Dawson,2019,December,Not Adj,Final,"4,603","4,478",125,2.70%
+224,MT,Dawson,2019,November,Not Adj,Final,"4,600","4,483",117,2.50%
+225,MT,Dawson,2019,October,Not Adj,Final,"4,580","4,468",112,2.40%
+226,MT,Dawson,2019,September,Not Adj,Final,"4,534","4,421",113,2.50%
+227,MT,Dawson,2019,August,Not Adj,Final,"4,619","4,521",98,2.10%
+228,MT,Dawson,2019,July,Not Adj,Final,"4,588","4,483",105,2.30%
+229,MT,Dawson,2019,June,Not Adj,Final,"4,536","4,423",113,2.50%
+230,MT,Dawson,2019,May,Not Adj,Final,"4,597","4,507",90,2.00%
+231,MT,Dawson,2019,April,Not Adj,Final,"4,619","4,522",97,2.10%
+232,MT,Dawson,2019,March,Not Adj,Final,"4,528","4,411",117,2.60%
+233,MT,Dawson,2019,February,Not Adj,Final,"4,549","4,432",117,2.60%
+234,MT,Dawson,2019,January,Not Adj,Final,"4,589","4,458",131,2.90%
+235,MT,Deer Lodge,2020,June,Not Adj,Preliminary,"5,031","4,751",280,5.60%
+236,MT,Deer Lodge,2020,May,Not Adj,Final,"4,848","4,524",324,6.70%
+237,MT,Deer Lodge,2020,April,Not Adj,Final,"4,772","4,270",502,10.50%
+238,MT,Deer Lodge,2020,March,Not Adj,Final,"5,053","4,845",208,4.10%
+239,MT,Deer Lodge,2020,February,Not Adj,Final,"4,999","4,806",193,3.90%
+240,MT,Deer Lodge,2020,January,Not Adj,Final,"4,989","4,797",192,3.80%
+241,MT,Deer Lodge,2019,December,Not Adj,Final,"4,904","4,738",166,3.40%
+242,MT,Deer Lodge,2019,November,Not Adj,Final,"4,951","4,804",147,3.00%
+243,MT,Deer Lodge,2019,October,Not Adj,Final,"4,965","4,830",135,2.70%
+244,MT,Deer Lodge,2019,September,Not Adj,Final,"5,001","4,865",136,2.70%
+245,MT,Deer Lodge,2019,August,Not Adj,Final,"5,142","4,977",165,3.20%
+246,MT,Deer Lodge,2019,July,Not Adj,Final,"5,248","5,093",155,3.00%
+247,MT,Deer Lodge,2019,June,Not Adj,Final,"5,115","4,962",153,3.00%
+248,MT,Deer Lodge,2019,May,Not Adj,Final,"5,040","4,908",132,2.60%
+249,MT,Deer Lodge,2019,April,Not Adj,Final,"5,029","4,867",162,3.20%
+250,MT,Deer Lodge,2019,March,Not Adj,Final,"5,008","4,830",178,3.60%
+251,MT,Deer Lodge,2019,February,Not Adj,Final,"5,039","4,843",196,3.90%
+252,MT,Deer Lodge,2019,January,Not Adj,Final,"5,015","4,811",204,4.10%
+253,MT,Fallon,2020,June,Not Adj,Preliminary,"1,644","1,563",81,4.90%
+254,MT,Fallon,2020,May,Not Adj,Final,"1,617","1,535",82,5.10%
+255,MT,Fallon,2020,April,Not Adj,Final,"1,578","1,485",93,5.90%
+256,MT,Fallon,2020,March,Not Adj,Final,"1,685","1,645",40,2.40%
+257,MT,Fallon,2020,February,Not Adj,Final,"1,688","1,654",34,2.00%
+258,MT,Fallon,2020,January,Not Adj,Final,"1,672","1,634",38,2.30%
+259,MT,Fallon,2019,December,Not Adj,Final,"1,708","1,669",39,2.30%
+260,MT,Fallon,2019,November,Not Adj,Final,"1,718","1,681",37,2.20%
+261,MT,Fallon,2019,October,Not Adj,Final,"1,730","1,695",35,2.00%
+262,MT,Fallon,2019,September,Not Adj,Final,"1,696","1,667",29,1.70%
+263,MT,Fallon,2019,August,Not Adj,Final,"1,802","1,778",24,1.30%
+264,MT,Fallon,2019,July,Not Adj,Final,"1,706","1,684",22,1.30%
+265,MT,Fallon,2019,June,Not Adj,Final,"1,710","1,686",24,1.40%
+266,MT,Fallon,2019,May,Not Adj,Final,"1,706","1,685",21,1.20%
+267,MT,Fallon,2019,April,Not Adj,Final,"1,687","1,661",26,1.50%
+268,MT,Fallon,2019,March,Not Adj,Final,"1,636","1,600",36,2.20%
+269,MT,Fallon,2019,February,Not Adj,Final,"1,668","1,634",34,2.00%
+270,MT,Fallon,2019,January,Not Adj,Final,"1,688","1,651",37,2.20%
+271,MT,Fergus,2020,June,Not Adj,Preliminary,"5,760","5,477",283,4.90%
+272,MT,Fergus,2020,May,Not Adj,Final,"5,635","5,315",320,5.70%
+273,MT,Fergus,2020,April,Not Adj,Final,"5,554","5,093",461,8.30%
+274,MT,Fergus,2020,March,Not Adj,Final,"5,898","5,634",264,4.50%
+275,MT,Fergus,2020,February,Not Adj,Final,"6,075","5,796",279,4.60%
+276,MT,Fergus,2020,January,Not Adj,Final,"6,040","5,753",287,4.80%
+277,MT,Fergus,2019,December,Not Adj,Final,"6,038","5,820",218,3.60%
+278,MT,Fergus,2019,November,Not Adj,Final,"6,107","5,931",176,2.90%
+279,MT,Fergus,2019,October,Not Adj,Final,"6,111","5,963",148,2.40%
+280,MT,Fergus,2019,September,Not Adj,Final,"6,037","5,891",146,2.40%
+281,MT,Fergus,2019,August,Not Adj,Final,"6,228","6,079",149,2.40%
+282,MT,Fergus,2019,July,Not Adj,Final,"6,133","5,978",155,2.50%
+283,MT,Fergus,2019,June,Not Adj,Final,"6,227","6,075",152,2.40%
+284,MT,Fergus,2019,May,Not Adj,Final,"6,064","5,934",130,2.10%
+285,MT,Fergus,2019,April,Not Adj,Final,"6,079","5,910",169,2.80%
+286,MT,Fergus,2019,March,Not Adj,Final,"5,757","5,499",258,4.50%
+287,MT,Fergus,2019,February,Not Adj,Final,"5,792","5,524",268,4.60%
+288,MT,Fergus,2019,January,Not Adj,Final,"5,945","5,663",282,4.70%
+289,MT,Flathead,2020,June,Not Adj,Preliminary,"50,375","45,749","4,626",9.20%
+290,MT,Flathead,2020,May,Not Adj,Final,"48,287","42,531","5,756",11.90%
+291,MT,Flathead,2020,April,Not Adj,Final,"47,788","39,852","7,936",16.60%
+292,MT,Flathead,2020,March,Not Adj,Final,"48,195","45,236","2,959",6.10%
+293,MT,Flathead,2020,February,Not Adj,Final,"47,768","44,807","2,961",6.20%
+294,MT,Flathead,2020,January,Not Adj,Final,"47,869","44,736","3,133",6.50%
+295,MT,Flathead,2019,December,Not Adj,Final,"47,451","44,991","2,460",5.20%
+296,MT,Flathead,2019,November,Not Adj,Final,"47,351","45,111","2,240",4.70%
+297,MT,Flathead,2019,October,Not Adj,Final,"47,428","45,495","1,933",4.10%
+298,MT,Flathead,2019,September,Not Adj,Final,"47,813","46,049","1,764",3.70%
+299,MT,Flathead,2019,August,Not Adj,Final,"49,912","48,008","1,904",3.80%
+300,MT,Flathead,2019,July,Not Adj,Final,"50,466","48,612","1,854",3.70%
+301,MT,Flathead,2019,June,Not Adj,Final,"49,408","47,352","2,056",4.20%
+302,MT,Flathead,2019,May,Not Adj,Final,"47,572","45,732","1,840",3.90%
+303,MT,Flathead,2019,April,Not Adj,Final,"46,972","44,622","2,350",5.00%
+304,MT,Flathead,2019,March,Not Adj,Final,"46,977","44,140","2,837",6.00%
+305,MT,Flathead,2019,February,Not Adj,Final,"46,720","43,886","2,834",6.10%
+306,MT,Flathead,2019,January,Not Adj,Final,"46,640","43,759","2,881",6.20%
+307,MT,Gallatin,2020,June,Not Adj,Preliminary,"70,822","66,145","4,677",6.60%
+308,MT,Gallatin,2020,May,Not Adj,Final,"68,160","62,076","6,084",8.90%
+309,MT,Gallatin,2020,April,Not Adj,Final,"67,109","58,831","8,278",12.30%
+310,MT,Gallatin,2020,March,Not Adj,Final,"69,133","67,345","1,788",2.60%
+311,MT,Gallatin,2020,February,Not Adj,Final,"69,563","67,824","1,739",2.50%
+312,MT,Gallatin,2020,January,Not Adj,Final,"69,025","67,266","1,759",2.50%
+313,MT,Gallatin,2019,December,Not Adj,Final,"68,746","67,096","1,650",2.40%
+314,MT,Gallatin,2019,November,Not Adj,Final,"69,227","67,352","1,875",2.70%
+315,MT,Gallatin,2019,October,Not Adj,Final,"69,254","67,586","1,668",2.40%
+316,MT,Gallatin,2019,September,Not Adj,Final,"69,274","67,923","1,351",2.00%
+317,MT,Gallatin,2019,August,Not Adj,Final,"71,140","69,838","1,302",1.80%
+318,MT,Gallatin,2019,July,Not Adj,Final,"72,563","71,249","1,314",1.80%
+319,MT,Gallatin,2019,June,Not Adj,Final,"69,420","67,918","1,502",2.20%
+320,MT,Gallatin,2019,May,Not Adj,Final,"67,561","66,059","1,502",2.20%
+321,MT,Gallatin,2019,April,Not Adj,Final,"66,990","65,587","1,403",2.10%
+322,MT,Gallatin,2019,March,Not Adj,Final,"67,140","65,450","1,690",2.50%
+323,MT,Gallatin,2019,February,Not Adj,Final,"67,252","65,670","1,582",2.40%
+324,MT,Gallatin,2019,January,Not Adj,Final,"66,559","64,733","1,826",2.70%
+325,MT,Garfield,2020,June,Not Adj,Preliminary,660,640,20,3.00%
+326,MT,Garfield,2020,May,Not Adj,Final,691,669,22,3.20%
+327,MT,Garfield,2020,April,Not Adj,Final,722,690,32,4.40%
+328,MT,Garfield,2020,March,Not Adj,Final,747,723,24,3.20%
+329,MT,Garfield,2020,February,Not Adj,Final,730,708,22,3.00%
+330,MT,Garfield,2020,January,Not Adj,Final,720,693,27,3.80%
+331,MT,Garfield,2019,December,Not Adj,Final,764,738,26,3.40%
+332,MT,Garfield,2019,November,Not Adj,Final,750,732,18,2.40%
+333,MT,Garfield,2019,October,Not Adj,Final,768,752,16,2.10%
+334,MT,Garfield,2019,September,Not Adj,Final,749,732,17,2.30%
+335,MT,Garfield,2019,August,Not Adj,Final,746,728,18,2.40%
+336,MT,Garfield,2019,July,Not Adj,Final,734,720,14,1.90%
+337,MT,Garfield,2019,June,Not Adj,Final,694,679,15,2.20%
+338,MT,Garfield,2019,May,Not Adj,Final,730,719,11,1.50%
+339,MT,Garfield,2019,April,Not Adj,Final,736,724,12,1.60%
+340,MT,Garfield,2019,March,Not Adj,Final,720,698,22,3.10%
+341,MT,Garfield,2019,February,Not Adj,Final,719,698,21,2.90%
+342,MT,Garfield,2019,January,Not Adj,Final,744,721,23,3.10%
+343,MT,Glacier,2020,June,Not Adj,Preliminary,"5,946","5,363",583,9.80%
+344,MT,Glacier,2020,May,Not Adj,Final,"5,381","4,857",524,9.70%
+345,MT,Glacier,2020,April,Not Adj,Final,"5,186","4,512",674,13.00%
+346,MT,Glacier,2020,March,Not Adj,Final,"5,538","5,090",448,8.10%
+347,MT,Glacier,2020,February,Not Adj,Final,"5,419","4,972",447,8.20%
+348,MT,Glacier,2020,January,Not Adj,Final,"5,445","4,981",464,8.50%
+349,MT,Glacier,2019,December,Not Adj,Final,"5,431","5,028",403,7.40%
+350,MT,Glacier,2019,November,Not Adj,Final,"5,531","5,124",407,7.40%
+351,MT,Glacier,2019,October,Not Adj,Final,"5,586","5,198",388,6.90%
+352,MT,Glacier,2019,September,Not Adj,Final,"5,929","5,591",338,5.70%
+353,MT,Glacier,2019,August,Not Adj,Final,"6,228","5,816",412,6.60%
+354,MT,Glacier,2019,July,Not Adj,Final,"6,057","5,624",433,7.10%
+355,MT,Glacier,2019,June,Not Adj,Final,"6,062","5,603",459,7.60%
+356,MT,Glacier,2019,May,Not Adj,Final,"5,601","5,258",343,6.10%
+357,MT,Glacier,2019,April,Not Adj,Final,"5,455","5,042",413,7.60%
+358,MT,Glacier,2019,March,Not Adj,Final,"5,494","5,009",485,8.80%
+359,MT,Glacier,2019,February,Not Adj,Final,"5,436","4,921",515,9.50%
+360,MT,Glacier,2019,January,Not Adj,Final,"5,500","4,976",524,9.50%
+361,MT,Golden Valley,2020,June,Not Adj,Preliminary,361,338,23,6.40%
+362,MT,Golden Valley,2020,May,Not Adj,Final,352,328,24,6.80%
+363,MT,Golden Valley,2020,April,Not Adj,Final,352,329,23,6.50%
+364,MT,Golden Valley,2020,March,Not Adj,Final,371,352,19,5.10%
+365,MT,Golden Valley,2020,February,Not Adj,Final,369,351,18,4.90%
+366,MT,Golden Valley,2020,January,Not Adj,Final,365,347,18,4.90%
+367,MT,Golden Valley,2019,December,Not Adj,Final,368,355,13,3.50%
+368,MT,Golden Valley,2019,November,Not Adj,Final,372,356,16,4.30%
+369,MT,Golden Valley,2019,October,Not Adj,Final,375,362,13,3.50%
+370,MT,Golden Valley,2019,September,Not Adj,Final,371,357,14,3.80%
+371,MT,Golden Valley,2019,August,Not Adj,Final,365,357,8,2.20%
+372,MT,Golden Valley,2019,July,Not Adj,Final,362,352,10,2.80%
+373,MT,Golden Valley,2019,June,Not Adj,Final,362,348,14,3.90%
+374,MT,Golden Valley,2019,May,Not Adj,Final,363,349,14,3.90%
+375,MT,Golden Valley,2019,April,Not Adj,Final,367,352,15,4.10%
+376,MT,Golden Valley,2019,March,Not Adj,Final,365,346,19,5.20%
+377,MT,Golden Valley,2019,February,Not Adj,Final,361,342,19,5.30%
+378,MT,Golden Valley,2019,January,Not Adj,Final,372,349,23,6.20%
+379,MT,Granite,2020,June,Not Adj,Preliminary,"1,718","1,595",123,7.20%
+380,MT,Granite,2020,May,Not Adj,Final,"1,625","1,444",181,11.10%
+381,MT,Granite,2020,April,Not Adj,Final,"1,713","1,433",280,16.30%
+382,MT,Granite,2020,March,Not Adj,Final,"1,771","1,644",127,7.20%
+383,MT,Granite,2020,February,Not Adj,Final,"1,729","1,609",120,6.90%
+384,MT,Granite,2020,January,Not Adj,Final,"1,747","1,600",147,8.40%
+385,MT,Granite,2019,December,Not Adj,Final,"1,648","1,540",108,6.60%
+386,MT,Granite,2019,November,Not Adj,Final,"1,598","1,501",97,6.10%
+387,MT,Granite,2019,October,Not Adj,Final,"1,618","1,544",74,4.60%
+388,MT,Granite,2019,September,Not Adj,Final,"1,635","1,564",71,4.30%
+389,MT,Granite,2019,August,Not Adj,Final,"1,722","1,648",74,4.30%
+390,MT,Granite,2019,July,Not Adj,Final,"1,672","1,600",72,4.30%
+391,MT,Granite,2019,June,Not Adj,Final,"1,708","1,631",77,4.50%
+392,MT,Granite,2019,May,Not Adj,Final,"1,640","1,562",78,4.80%
+393,MT,Granite,2019,April,Not Adj,Final,"1,697","1,589",108,6.40%
+394,MT,Granite,2019,March,Not Adj,Final,"1,738","1,629",109,6.30%
+395,MT,Granite,2019,February,Not Adj,Final,"1,776","1,634",142,8.00%
+396,MT,Granite,2019,January,Not Adj,Final,"1,784","1,648",136,7.60%
+397,MT,Great Falls,2020,June,Not Adj,Preliminary,"28,701","26,589","2,112",7.40%
+398,MT,Great Falls,2020,May,Not Adj,Final,"27,819","25,449","2,370",8.50%
+399,MT,Great Falls,2020,April,Not Adj,Final,"27,369","23,854","3,515",12.80%
+400,MT,Great Falls,2020,March,Not Adj,Final,"27,871","26,868","1,003",3.60%
+401,MT,Great Falls,2020,February,Not Adj,Final,"28,019","27,033",986,3.50%
+402,MT,Great Falls,2020,January,Not Adj,Final,"28,211","27,079","1,132",4.00%
+403,MT,Great Falls,2019,December,Not Adj,Final,"27,926","27,002",924,3.30%
+404,MT,Great Falls,2019,November,Not Adj,Final,"28,084","27,188",896,3.20%
+405,MT,Great Falls,2019,October,Not Adj,Final,"28,032","27,112",920,3.30%
+406,MT,Great Falls,2019,September,Not Adj,Final,"27,952","27,080",872,3.10%
+407,MT,Great Falls,2019,August,Not Adj,Final,"27,746","26,791",955,3.40%
+408,MT,Great Falls,2019,July,Not Adj,Final,"27,814","26,898",916,3.30%
+409,MT,Great Falls,2019,June,Not Adj,Final,"28,383","27,411",972,3.40%
+410,MT,Great Falls,2019,May,Not Adj,Final,"28,086","27,293",793,2.80%
+411,MT,Great Falls,2019,April,Not Adj,Final,"27,978","27,134",844,3.00%
+412,MT,Great Falls,2019,March,Not Adj,Final,"28,008","26,913","1,095",3.90%
+413,MT,Great Falls,2019,February,Not Adj,Final,"27,936","26,815","1,121",4.00%
+414,MT,Great Falls,2019,January,Not Adj,Final,"27,816","26,704","1,112",4.00%
+415,MT,Helena,2020,June,Not Adj,Preliminary,"17,497","16,491","1,006",5.70%
+416,MT,Helena,2020,May,Not Adj,Final,"16,892","15,750","1,142",6.80%
+417,MT,Helena,2020,April,Not Adj,Final,"16,613","14,883","1,730",10.40%
+418,MT,Helena,2020,March,Not Adj,Final,"17,590","17,046",544,3.10%
+419,MT,Helena,2020,February,Not Adj,Final,"17,487","16,947",540,3.10%
+420,MT,Helena,2020,January,Not Adj,Final,"17,516","16,899",617,3.50%
+421,MT,Helena,2019,December,Not Adj,Final,"17,299","16,798",501,2.90%
+422,MT,Helena,2019,November,Not Adj,Final,"17,509","17,036",473,2.70%
+423,MT,Helena,2019,October,Not Adj,Final,"17,408","16,954",454,2.60%
+424,MT,Helena,2019,September,Not Adj,Final,"17,452","16,989",463,2.70%
+425,MT,Helena,2019,August,Not Adj,Final,"17,895","17,425",470,2.60%
+426,MT,Helena,2019,July,Not Adj,Final,"18,118","17,654",464,2.60%
+427,MT,Helena,2019,June,Not Adj,Final,"17,747","17,231",516,2.90%
+428,MT,Helena,2019,May,Not Adj,Final,"17,563","17,154",409,2.30%
+429,MT,Helena,2019,April,Not Adj,Final,"17,350","16,926",424,2.40%
+430,MT,Helena,2019,March,Not Adj,Final,"17,415","16,862",553,3.20%
+431,MT,Helena,2019,February,Not Adj,Final,"17,411","16,867",544,3.10%
+432,MT,Helena,2019,January,Not Adj,Final,"17,297","16,711",586,3.40%
+433,MT,Hill,2020,June,Not Adj,Preliminary,"7,333","6,932",401,5.50%
+434,MT,Hill,2020,May,Not Adj,Final,"7,177","6,745",432,6.00%
+435,MT,Hill,2020,April,Not Adj,Final,"7,052","6,438",614,8.70%
+436,MT,Hill,2020,March,Not Adj,Final,"7,618","7,335",283,3.70%
+437,MT,Hill,2020,February,Not Adj,Final,"7,626","7,354",272,3.60%
+438,MT,Hill,2020,January,Not Adj,Final,"7,584","7,275",309,4.10%
+439,MT,Hill,2019,December,Not Adj,Final,"7,598","7,346",252,3.30%
+440,MT,Hill,2019,November,Not Adj,Final,"7,715","7,445",270,3.50%
+441,MT,Hill,2019,October,Not Adj,Final,"7,729","7,447",282,3.60%
+442,MT,Hill,2019,September,Not Adj,Final,"7,678","7,421",257,3.30%
+443,MT,Hill,2019,August,Not Adj,Final,"7,706","7,387",319,4.10%
+444,MT,Hill,2019,July,Not Adj,Final,"7,693","7,386",307,4.00%
+445,MT,Hill,2019,June,Not Adj,Final,"7,679","7,376",303,3.90%
+446,MT,Hill,2019,May,Not Adj,Final,"7,648","7,433",215,2.80%
+447,MT,Hill,2019,April,Not Adj,Final,"7,561","7,308",253,3.30%
+448,MT,Hill,2019,March,Not Adj,Final,"7,607","7,313",294,3.90%
+449,MT,Hill,2019,February,Not Adj,Final,"7,593","7,287",306,4.00%
+450,MT,Hill,2019,January,Not Adj,Final,"7,474","7,165",309,4.10%
+451,MT,Jefferson,2020,June,Not Adj,Preliminary,"5,664","5,303",361,6.40%
+452,MT,Jefferson,2020,May,Not Adj,Final,"5,482","5,090",392,7.20%
+453,MT,Jefferson,2020,April,Not Adj,Final,"5,363","4,847",516,9.60%
+454,MT,Jefferson,2020,March,Not Adj,Final,"5,753","5,512",241,4.20%
+455,MT,Jefferson,2020,February,Not Adj,Final,"5,708","5,479",229,4.00%
+456,MT,Jefferson,2020,January,Not Adj,Final,"5,700","5,453",247,4.30%
+457,MT,Jefferson,2019,December,Not Adj,Final,"5,655","5,444",211,3.70%
+458,MT,Jefferson,2019,November,Not Adj,Final,"5,704","5,516",188,3.30%
+459,MT,Jefferson,2019,October,Not Adj,Final,"5,681","5,504",177,3.10%
+460,MT,Jefferson,2019,September,Not Adj,Final,"5,661","5,499",162,2.90%
+461,MT,Jefferson,2019,August,Not Adj,Final,"5,796","5,631",165,2.80%
+462,MT,Jefferson,2019,July,Not Adj,Final,"5,852","5,689",163,2.80%
+463,MT,Jefferson,2019,June,Not Adj,Final,"5,717","5,546",171,3.00%
+464,MT,Jefferson,2019,May,Not Adj,Final,"5,667","5,530",137,2.40%
+465,MT,Jefferson,2019,April,Not Adj,Final,"5,641","5,468",173,3.10%
+466,MT,Jefferson,2019,March,Not Adj,Final,"5,667","5,433",234,4.10%
+467,MT,Jefferson,2019,February,Not Adj,Final,"5,672","5,438",234,4.10%
+468,MT,Jefferson,2019,January,Not Adj,Final,"5,663","5,407",256,4.50%
+469,MT,Judith Basin,2020,June,Not Adj,Preliminary,980,934,46,4.70%
+470,MT,Judith Basin,2020,May,Not Adj,Final,"1,007",952,55,5.50%
+471,MT,Judith Basin,2020,April,Not Adj,Final,"1,028",952,76,7.40%
+472,MT,Judith Basin,2020,March,Not Adj,Final,"1,072","1,029",43,4.00%
+473,MT,Judith Basin,2020,February,Not Adj,Final,985,943,42,4.30%
+474,MT,Judith Basin,2020,January,Not Adj,Final,964,918,46,4.80%
+475,MT,Judith Basin,2019,December,Not Adj,Final,"1,008",976,32,3.20%
+476,MT,Judith Basin,2019,November,Not Adj,Final,"1,023",996,27,2.60%
+477,MT,Judith Basin,2019,October,Not Adj,Final,"1,038","1,010",28,2.70%
+478,MT,Judith Basin,2019,September,Not Adj,Final,"1,002",978,24,2.40%
+479,MT,Judith Basin,2019,August,Not Adj,Final,941,920,21,2.20%
+480,MT,Judith Basin,2019,July,Not Adj,Final,912,890,22,2.40%
+481,MT,Judith Basin,2019,June,Not Adj,Final,885,861,24,2.70%
+482,MT,Judith Basin,2019,May,Not Adj,Final,922,902,20,2.20%
+483,MT,Judith Basin,2019,April,Not Adj,Final,918,892,26,2.80%
+484,MT,Judith Basin,2019,March,Not Adj,Final,900,864,36,4.00%
+485,MT,Judith Basin,2019,February,Not Adj,Final,905,856,49,5.40%
+486,MT,Judith Basin,2019,January,Not Adj,Final,924,880,44,4.80%
+487,MT,Lake,2020,June,Not Adj,Preliminary,"13,595","12,610",985,7.20%
+488,MT,Lake,2020,May,Not Adj,Final,"13,000","11,950","1,050",8.10%
+489,MT,Lake,2020,April,Not Adj,Final,"12,435","11,232","1,203",9.70%
+490,MT,Lake,2020,March,Not Adj,Final,"13,364","12,669",695,5.20%
+491,MT,Lake,2020,February,Not Adj,Final,"13,257","12,528",729,5.50%
+492,MT,Lake,2020,January,Not Adj,Final,"13,195","12,432",763,5.80%
+493,MT,Lake,2019,December,Not Adj,Final,"13,113","12,548",565,4.30%
+494,MT,Lake,2019,November,Not Adj,Final,"13,246","12,717",529,4.00%
+495,MT,Lake,2019,October,Not Adj,Final,"13,273","12,758",515,3.90%
+496,MT,Lake,2019,September,Not Adj,Final,"13,298","12,815",483,3.60%
+497,MT,Lake,2019,August,Not Adj,Final,"13,313","12,775",538,4.00%
+498,MT,Lake,2019,July,Not Adj,Final,"13,480","12,952",528,3.90%
+499,MT,Lake,2019,June,Not Adj,Final,"13,690","13,147",543,4.00%
+500,MT,Lake,2019,May,Not Adj,Final,"13,337","12,884",453,3.40%
+501,MT,Lake,2019,April,Not Adj,Final,"13,014","12,489",525,4.00%
+502,MT,Lake,2019,March,Not Adj,Final,"12,955","12,307",648,5.00%
+503,MT,Lake,2019,February,Not Adj,Final,"12,874","12,204",670,5.20%
+504,MT,Lake,2019,January,Not Adj,Final,"12,829","12,137",692,5.40%
+505,MT,Lewis and Clark,2020,June,Not Adj,Preliminary,"35,743","33,619","2,124",5.90%
+506,MT,Lewis and Clark,2020,May,Not Adj,Final,"34,501","32,107","2,394",6.90%
+507,MT,Lewis and Clark,2020,April,Not Adj,Final,"33,958","30,341","3,617",10.70%
+508,MT,Lewis and Clark,2020,March,Not Adj,Final,"35,991","34,750","1,241",3.40%
+509,MT,Lewis and Clark,2020,February,Not Adj,Final,"35,827","34,548","1,279",3.60%
+510,MT,Lewis and Clark,2020,January,Not Adj,Final,"35,798","34,450","1,348",3.80%
+511,MT,Lewis and Clark,2019,December,Not Adj,Final,"35,311","34,244","1,067",3.00%
+512,MT,Lewis and Clark,2019,November,Not Adj,Final,"35,723","34,729",994,2.80%
+513,MT,Lewis and Clark,2019,October,Not Adj,Final,"35,525","34,562",963,2.70%
+514,MT,Lewis and Clark,2019,September,Not Adj,Final,"35,586","34,633",953,2.70%
+515,MT,Lewis and Clark,2019,August,Not Adj,Final,"36,569","35,523","1,046",2.90%
+516,MT,Lewis and Clark,2019,July,Not Adj,Final,"36,990","35,990","1,000",2.70%
+517,MT,Lewis and Clark,2019,June,Not Adj,Final,"36,200","35,127","1,073",3.00%
+518,MT,Lewis and Clark,2019,May,Not Adj,Final,"35,797","34,970",827,2.30%
+519,MT,Lewis and Clark,2019,April,Not Adj,Final,"35,453","34,505",948,2.70%
+520,MT,Lewis and Clark,2019,March,Not Adj,Final,"35,644","34,375","1,269",3.60%
+521,MT,Lewis and Clark,2019,February,Not Adj,Final,"35,633","34,385","1,248",3.50%
+522,MT,Lewis and Clark,2019,January,Not Adj,Final,"35,459","34,067","1,392",3.90%
+523,MT,Liberty,2020,June,Not Adj,Preliminary,890,865,25,2.80%
+524,MT,Liberty,2020,May,Not Adj,Final,908,886,22,2.40%
+525,MT,Liberty,2020,April,Not Adj,Final,945,919,26,2.80%
+526,MT,Liberty,2020,March,Not Adj,Final,994,967,27,2.70%
+527,MT,Liberty,2020,February,Not Adj,Final,953,925,28,2.90%
+528,MT,Liberty,2020,January,Not Adj,Final,933,902,31,3.30%
+529,MT,Liberty,2019,December,Not Adj,Final,975,952,23,2.40%
+530,MT,Liberty,2019,November,Not Adj,Final,986,958,28,2.80%
+531,MT,Liberty,2019,October,Not Adj,Final,"1,000",974,26,2.60%
+532,MT,Liberty,2019,September,Not Adj,Final,967,943,24,2.50%
+533,MT,Liberty,2019,August,Not Adj,Final,949,927,22,2.30%
+534,MT,Liberty,2019,July,Not Adj,Final,938,915,23,2.50%
+535,MT,Liberty,2019,June,Not Adj,Final,914,890,24,2.60%
+536,MT,Liberty,2019,May,Not Adj,Final,928,909,19,2.00%
+537,MT,Liberty,2019,April,Not Adj,Final,968,949,19,2.00%
+538,MT,Liberty,2019,March,Not Adj,Final,930,903,27,2.90%
+539,MT,Liberty,2019,February,Not Adj,Final,923,898,25,2.70%
+540,MT,Liberty,2019,January,Not Adj,Final,958,925,33,3.40%
+541,MT,Lincoln,2020,June,Not Adj,Preliminary,"8,181","7,348",833,10.20%
+542,MT,Lincoln,2020,May,Not Adj,Final,"7,945","6,938","1,007",12.70%
+543,MT,Lincoln,2020,April,Not Adj,Final,"7,931","6,465","1,466",18.50%
+544,MT,Lincoln,2020,March,Not Adj,Final,"8,088","7,212",876,10.80%
+545,MT,Lincoln,2020,February,Not Adj,Final,"8,042","7,261",781,9.70%
+546,MT,Lincoln,2020,January,Not Adj,Final,"8,098","7,260",838,10.30%
+547,MT,Lincoln,2019,December,Not Adj,Final,"8,038","7,334",704,8.80%
+548,MT,Lincoln,2019,November,Not Adj,Final,"8,117","7,544",573,7.10%
+549,MT,Lincoln,2019,October,Not Adj,Final,"8,173","7,668",505,6.20%
+550,MT,Lincoln,2019,September,Not Adj,Final,"8,132","7,646",486,6.00%
+551,MT,Lincoln,2019,August,Not Adj,Final,"8,274","7,781",493,6.00%
+552,MT,Lincoln,2019,July,Not Adj,Final,"8,211","7,736",475,5.80%
+553,MT,Lincoln,2019,June,Not Adj,Final,"8,264","7,759",505,6.10%
+554,MT,Lincoln,2019,May,Not Adj,Final,"8,097","7,643",454,5.60%
+555,MT,Lincoln,2019,April,Not Adj,Final,"7,963","7,351",612,7.70%
+556,MT,Lincoln,2019,March,Not Adj,Final,"7,922","7,209",713,9.00%
+557,MT,Lincoln,2019,February,Not Adj,Final,"7,872","7,155",717,9.10%
+558,MT,Lincoln,2019,January,Not Adj,Final,"7,963","7,164",799,10.00%
+559,MT,Madison,2020,June,Not Adj,Preliminary,"4,404","4,162",242,5.50%
+560,MT,Madison,2020,May,Not Adj,Final,"4,345","4,019",326,7.50%
+561,MT,Madison,2020,April,Not Adj,Final,"4,909","4,502",407,8.30%
+562,MT,Madison,2020,March,Not Adj,Final,"5,397","5,201",196,3.60%
+563,MT,Madison,2020,February,Not Adj,Final,"5,554","5,351",203,3.70%
+564,MT,Madison,2020,January,Not Adj,Final,"5,524","5,324",200,3.60%
+565,MT,Madison,2019,December,Not Adj,Final,"5,187","5,014",173,3.30%
+566,MT,Madison,2019,November,Not Adj,Final,"4,429","4,241",188,4.20%
+567,MT,Madison,2019,October,Not Adj,Final,"4,209","4,064",145,3.40%
+568,MT,Madison,2019,September,Not Adj,Final,"4,455","4,331",124,2.80%
+569,MT,Madison,2019,August,Not Adj,Final,"4,732","4,610",122,2.60%
+570,MT,Madison,2019,July,Not Adj,Final,"4,783","4,667",116,2.40%
+571,MT,Madison,2019,June,Not Adj,Final,"4,470","4,340",130,2.90%
+572,MT,Madison,2019,May,Not Adj,Final,"4,445","4,330",115,2.60%
+573,MT,Madison,2019,April,Not Adj,Final,"5,084","4,957",127,2.50%
+574,MT,Madison,2019,March,Not Adj,Final,"5,277","5,094",183,3.50%
+575,MT,Madison,2019,February,Not Adj,Final,"5,282","5,072",210,4.00%
+576,MT,Madison,2019,January,Not Adj,Final,"5,340","5,125",215,4.00%
+577,MT,McCone,2020,June,Not Adj,Preliminary,880,846,34,3.90%
+578,MT,McCone,2020,May,Not Adj,Final,892,860,32,3.60%
+579,MT,McCone,2020,April,Not Adj,Final,900,872,28,3.10%
+580,MT,McCone,2020,March,Not Adj,Final,950,930,20,2.10%
+581,MT,McCone,2020,February,Not Adj,Final,951,931,20,2.10%
+582,MT,McCone,2020,January,Not Adj,Final,930,908,22,2.40%
+583,MT,McCone,2019,December,Not Adj,Final,974,953,21,2.20%
+584,MT,McCone,2019,November,Not Adj,Final,971,953,18,1.90%
+585,MT,McCone,2019,October,Not Adj,Final,998,976,22,2.20%
+586,MT,McCone,2019,September,Not Adj,Final,970,950,20,2.10%
+587,MT,McCone,2019,August,Not Adj,Final,951,933,18,1.90%
+588,MT,McCone,2019,July,Not Adj,Final,953,927,26,2.70%
+589,MT,McCone,2019,June,Not Adj,Final,939,919,20,2.10%
+590,MT,McCone,2019,May,Not Adj,Final,937,923,14,1.50%
+591,MT,McCone,2019,April,Not Adj,Final,943,928,15,1.60%
+592,MT,McCone,2019,March,Not Adj,Final,913,894,19,2.10%
+593,MT,McCone,2019,February,Not Adj,Final,912,898,14,1.50%
+594,MT,McCone,2019,January,Not Adj,Final,942,924,18,1.90%
+595,MT,Meagher,2020,June,Not Adj,Preliminary,892,839,53,5.90%
+596,MT,Meagher,2020,May,Not Adj,Final,872,815,57,6.50%
+597,MT,Meagher,2020,April,Not Adj,Final,903,833,70,7.80%
+598,MT,Meagher,2020,March,Not Adj,Final,993,961,32,3.20%
+599,MT,Meagher,2020,February,Not Adj,Final,"1,008",970,38,3.80%
+600,MT,Meagher,2020,January,Not Adj,Final,995,955,40,4.00%
+601,MT,Meagher,2019,December,Not Adj,Final,"1,002",967,35,3.50%
+602,MT,Meagher,2019,November,Not Adj,Final,978,947,31,3.20%
+603,MT,Meagher,2019,October,Not Adj,Final,951,923,28,2.90%
+604,MT,Meagher,2019,September,Not Adj,Final,930,904,26,2.80%
+605,MT,Meagher,2019,August,Not Adj,Final,906,885,21,2.30%
+606,MT,Meagher,2019,July,Not Adj,Final,983,957,26,2.60%
+607,MT,Meagher,2019,June,Not Adj,Final,896,868,28,3.10%
+608,MT,Meagher,2019,May,Not Adj,Final,896,869,27,3.00%
+609,MT,Meagher,2019,April,Not Adj,Final,950,918,32,3.40%
+610,MT,Meagher,2019,March,Not Adj,Final,969,928,41,4.20%
+611,MT,Meagher,2019,February,Not Adj,Final,992,948,44,4.40%
+612,MT,Meagher,2019,January,Not Adj,Final,998,947,51,5.10%
+613,MT,Mineral,2020,June,Not Adj,Preliminary,"1,887","1,675",212,11.20%
+614,MT,Mineral,2020,May,Not Adj,Final,"1,789","1,561",228,12.70%
+615,MT,Mineral,2020,April,Not Adj,Final,"1,760","1,439",321,18.20%
+616,MT,Mineral,2020,March,Not Adj,Final,"1,785","1,594",191,10.70%
+617,MT,Mineral,2020,February,Not Adj,Final,"1,774","1,590",184,10.40%
+618,MT,Mineral,2020,January,Not Adj,Final,"1,770","1,577",193,10.90%
+619,MT,Mineral,2019,December,Not Adj,Final,"1,683","1,573",110,6.50%
+620,MT,Mineral,2019,November,Not Adj,Final,"1,714","1,624",90,5.30%
+621,MT,Mineral,2019,October,Not Adj,Final,"1,747","1,666",81,4.60%
+622,MT,Mineral,2019,September,Not Adj,Final,"1,793","1,710",83,4.60%
+623,MT,Mineral,2019,August,Not Adj,Final,"1,824","1,741",83,4.60%
+624,MT,Mineral,2019,July,Not Adj,Final,"1,854","1,777",77,4.20%
+625,MT,Mineral,2019,June,Not Adj,Final,"1,836","1,741",95,5.20%
+626,MT,Mineral,2019,May,Not Adj,Final,"1,801","1,727",74,4.10%
+627,MT,Mineral,2019,April,Not Adj,Final,"1,741","1,644",97,5.60%
+628,MT,Mineral,2019,March,Not Adj,Final,"1,689","1,572",117,6.90%
+629,MT,Mineral,2019,February,Not Adj,Final,"1,689","1,547",142,8.40%
+630,MT,Mineral,2019,January,Not Adj,Final,"1,709","1,563",146,8.50%
+631,MT,Missoula,2020,June,Not Adj,Preliminary,"66,814","61,914","4,900",7.30%
+632,MT,Missoula,2020,June,Not Adj,Preliminary,"43,234","39,801","3,433",7.90%
+633,MT,Missoula,2020,May,Not Adj,Final,"64,615","58,607","6,008",9.30%
+634,MT,Missoula,2020,May,Not Adj,Final,"41,875","37,675","4,200",10.00%
+635,MT,Missoula,2020,April,Not Adj,Final,"64,082","55,553","8,529",13.30%
+636,MT,Missoula,2020,April,Not Adj,Final,"41,650","35,711","5,939",14.30%
+637,MT,Missoula,2020,March,Not Adj,Final,"64,332","61,734","2,598",4.00%
+638,MT,Missoula,2020,March,Not Adj,Final,"41,319","39,685","1,634",4.00%
+639,MT,Missoula,2020,February,Not Adj,Final,"64,456","61,886","2,570",4.00%
+640,MT,Missoula,2020,February,Not Adj,Final,"41,377","39,783","1,594",3.90%
+641,MT,Missoula,2020,January,Not Adj,Final,"41,249","39,593","1,656",4.00%
+642,MT,Missoula,2020,January,Not Adj,Final,"64,234","61,591","2,643",4.10%
+643,MT,Missoula,2019,December,Not Adj,Final,"40,869","39,476","1,393",3.40%
+644,MT,Missoula,2019,December,Not Adj,Final,"63,664","61,409","2,255",3.50%
+645,MT,Missoula,2019,November,Not Adj,Final,"41,146","39,874","1,272",3.10%
+646,MT,Missoula,2019,November,Not Adj,Final,"64,012","62,028","1,984",3.10%
+647,MT,Missoula,2019,October,Not Adj,Final,"41,383","40,243","1,140",2.80%
+648,MT,Missoula,2019,October,Not Adj,Final,"64,444","62,603","1,841",2.90%
+649,MT,Missoula,2019,September,Not Adj,Final,"41,311","40,228","1,083",2.60%
+650,MT,Missoula,2019,September,Not Adj,Final,"64,326","62,579","1,747",2.70%
+651,MT,Missoula,2019,August,Not Adj,Final,"40,835","39,735","1,100",2.70%
+652,MT,Missoula,2019,August,Not Adj,Final,"63,580","61,812","1,768",2.80%
+653,MT,Missoula,2019,July,Not Adj,Final,"40,720","39,586","1,134",2.80%
+654,MT,Missoula,2019,July,Not Adj,Final,"63,386","61,580","1,806",2.80%
+655,MT,Missoula,2019,June,Not Adj,Final,"64,333","62,426","1,907",3.00%
+656,MT,Missoula,2019,June,Not Adj,Final,"41,318","40,130","1,188",2.90%
+657,MT,Missoula,2019,May,Not Adj,Final,"64,193","62,547","1,646",2.60%
+658,MT,Missoula,2019,May,Not Adj,Final,"41,233","40,207","1,026",2.50%
+659,MT,Missoula,2019,April,Not Adj,Final,"63,578","61,632","1,946",3.10%
+660,MT,Missoula,2019,April,Not Adj,Final,"40,820","39,619","1,201",2.90%
+661,MT,Missoula,2019,March,Not Adj,Final,"63,711","61,236","2,475",3.90%
+662,MT,Missoula,2019,March,Not Adj,Final,"40,860","39,365","1,495",3.70%
+663,MT,Missoula,2019,February,Not Adj,Final,"63,570","61,090","2,480",3.90%
+664,MT,Missoula,2019,February,Not Adj,Final,"40,755","39,271","1,484",3.60%
+665,MT,Missoula,2019,January,Not Adj,Final,"63,097","60,366","2,731",4.30%
+666,MT,Missoula,2019,January,Not Adj,Final,"40,449","38,805","1,644",4.10%
+667,MT,Montana,2020,June,Not Adj,Preliminary,"542,444","504,456","37,988",7.00%
+668,MT,Montana,2020,May,Not Adj,Final,"523,912","479,325","44,587",8.50%
+669,MT,Montana,2020,April,Not Adj,Final,"518,037","456,449","61,588",11.90%
+670,MT,Montana,2020,March,Not Adj,Final,"535,146","512,504","22,642",4.20%
+671,MT,Montana,2020,February,Not Adj,Final,"535,223","512,749","22,474",4.20%
+672,MT,Montana,2020,January,Not Adj,Final,"534,089","510,463","23,626",4.40%
+673,MT,Montana,2019,December,Not Adj,Final,"531,156","511,817","19,339",3.60%
+674,MT,Montana,2019,November,Not Adj,Final,"534,315","516,106","18,209",3.40%
+675,MT,Montana,2019,October,Not Adj,Final,"535,076","518,171","16,905",3.20%
+676,MT,Montana,2019,September,Not Adj,Final,"534,592","518,723","15,869",3.00%
+677,MT,Montana,2019,August,Not Adj,Final,"542,082","525,258","16,824",3.10%
+678,MT,Montana,2019,July,Not Adj,Final,"543,860","527,026","16,834",3.10%
+679,MT,Montana,2019,June,Not Adj,Final,"539,659","521,553","18,106",3.40%
+680,MT,Montana,2019,May,Not Adj,Final,"532,019","516,822","15,197",2.90%
+681,MT,Montana,2019,April,Not Adj,Final,"528,624","510,921","17,703",3.30%
+682,MT,Montana,2019,March,Not Adj,Final,"527,703","505,541","22,162",4.20%
+683,MT,Montana,2019,February,Not Adj,Final,"526,862","504,628","22,234",4.20%
+684,MT,Montana,2019,January,Not Adj,Final,"526,011","502,439","23,572",4.50%
+685,MT,Musselshell,2020,June,Not Adj,Preliminary,"2,235","2,077",158,7.10%
+686,MT,Musselshell,2020,May,Not Adj,Final,"2,162","1,996",166,7.70%
+687,MT,Musselshell,2020,April,Not Adj,Final,"2,145","1,936",209,9.70%
+688,MT,Musselshell,2020,March,Not Adj,Final,"2,263","2,148",115,5.10%
+689,MT,Musselshell,2020,February,Not Adj,Final,"2,293","2,164",129,5.60%
+690,MT,Musselshell,2020,January,Not Adj,Final,"2,296","2,151",145,6.30%
+691,MT,Musselshell,2019,December,Not Adj,Final,"2,280","2,188",92,4.00%
+692,MT,Musselshell,2019,November,Not Adj,Final,"2,301","2,211",90,3.90%
+693,MT,Musselshell,2019,October,Not Adj,Final,"2,282","2,205",77,3.40%
+694,MT,Musselshell,2019,September,Not Adj,Final,"2,272","2,189",83,3.70%
+695,MT,Musselshell,2019,August,Not Adj,Final,"2,253","2,175",78,3.50%
+696,MT,Musselshell,2019,July,Not Adj,Final,"2,266","2,183",83,3.70%
+697,MT,Musselshell,2019,June,Not Adj,Final,"2,275","2,192",83,3.60%
+698,MT,Musselshell,2019,May,Not Adj,Final,"2,235","2,172",63,2.80%
+699,MT,Musselshell,2019,April,Not Adj,Final,"2,266","2,182",84,3.70%
+700,MT,Musselshell,2019,March,Not Adj,Final,"2,248","2,143",105,4.70%
+701,MT,Musselshell,2019,February,Not Adj,Final,"2,239","2,134",105,4.70%
+702,MT,Musselshell,2019,January,Not Adj,Final,"2,252","2,144",108,4.80%
+703,MT,Park,2020,June,Not Adj,Preliminary,"9,581","8,824",757,7.90%
+704,MT,Park,2020,May,Not Adj,Final,"9,291","8,106","1,185",12.80%
+705,MT,Park,2020,April,Not Adj,Final,"9,034","7,501","1,533",17.00%
+706,MT,Park,2020,March,Not Adj,Final,"8,801","8,382",419,4.80%
+707,MT,Park,2020,February,Not Adj,Final,"8,694","8,304",390,4.50%
+708,MT,Park,2020,January,Not Adj,Final,"8,618","8,234",384,4.50%
+709,MT,Park,2019,December,Not Adj,Final,"8,699","8,345",354,4.10%
+710,MT,Park,2019,November,Not Adj,Final,"8,811","8,484",327,3.70%
+711,MT,Park,2019,October,Not Adj,Final,"9,020","8,768",252,2.80%
+712,MT,Park,2019,September,Not Adj,Final,"9,105","8,878",227,2.50%
+713,MT,Park,2019,August,Not Adj,Final,"9,496","9,265",231,2.40%
+714,MT,Park,2019,July,Not Adj,Final,"9,467","9,226",241,2.50%
+715,MT,Park,2019,June,Not Adj,Final,"9,316","9,040",276,3.00%
+716,MT,Park,2019,May,Not Adj,Final,"8,938","8,677",261,2.90%
+717,MT,Park,2019,April,Not Adj,Final,"8,629","8,332",297,3.40%
+718,MT,Park,2019,March,Not Adj,Final,"8,526","8,142",384,4.50%
+719,MT,Park,2019,February,Not Adj,Final,"8,458","8,095",363,4.30%
+720,MT,Park,2019,January,Not Adj,Final,"8,471","8,021",450,5.30%
+721,MT,Petroleum,2020,June,Not Adj,Preliminary,258,247,11,4.30%
+722,MT,Petroleum,2020,May,Not Adj,Final,258,248,10,3.90%
+723,MT,Petroleum,2020,April,Not Adj,Final,263,255,8,3.00%
+724,MT,Petroleum,2020,March,Not Adj,Final,280,269,11,3.90%
+725,MT,Petroleum,2020,February,Not Adj,Final,283,269,14,4.90%
+726,MT,Petroleum,2020,January,Not Adj,Final,273,263,10,3.70%
+727,MT,Petroleum,2019,December,Not Adj,Final,289,276,13,4.50%
+728,MT,Petroleum,2019,November,Not Adj,Final,288,277,11,3.80%
+729,MT,Petroleum,2019,October,Not Adj,Final,292,283,9,3.10%
+730,MT,Petroleum,2019,September,Not Adj,Final,283,275,8,2.80%
+731,MT,Petroleum,2019,August,Not Adj,Final,279,271,8,2.90%
+732,MT,Petroleum,2019,July,Not Adj,Final,274,267,7,2.60%
+733,MT,Petroleum,2019,June,Not Adj,Final,270,262,8,3.00%
+734,MT,Petroleum,2019,May,Not Adj,Final,270,264,6,2.20%
+735,MT,Petroleum,2019,April,Not Adj,Final,278,270,8,2.90%
+736,MT,Petroleum,2019,March,Not Adj,Final,271,259,12,4.40%
+737,MT,Petroleum,2019,February,Not Adj,Final,273,260,13,4.80%
+738,MT,Petroleum,2019,January,Not Adj,Final,283,268,15,5.30%
+739,MT,Phillips,2020,June,Not Adj,Preliminary,"1,793","1,686",107,6.00%
+740,MT,Phillips,2020,May,Not Adj,Final,"1,797","1,690",107,6.00%
+741,MT,Phillips,2020,April,Not Adj,Final,"1,807","1,667",140,7.70%
+742,MT,Phillips,2020,March,Not Adj,Final,"1,900","1,816",84,4.40%
+743,MT,Phillips,2020,February,Not Adj,Final,"1,876","1,790",86,4.60%
+744,MT,Phillips,2020,January,Not Adj,Final,"1,866","1,767",99,5.30%
+745,MT,Phillips,2019,December,Not Adj,Final,"1,928","1,842",86,4.50%
+746,MT,Phillips,2019,November,Not Adj,Final,"1,919","1,855",64,3.30%
+747,MT,Phillips,2019,October,Not Adj,Final,"1,948","1,890",58,3.00%
+748,MT,Phillips,2019,September,Not Adj,Final,"1,902","1,849",53,2.80%
+749,MT,Phillips,2019,August,Not Adj,Final,"1,875","1,824",51,2.70%
+750,MT,Phillips,2019,July,Not Adj,Final,"1,838","1,773",65,3.50%
+751,MT,Phillips,2019,June,Not Adj,Final,"1,854","1,791",63,3.40%
+752,MT,Phillips,2019,May,Not Adj,Final,"1,841","1,795",46,2.50%
+753,MT,Phillips,2019,April,Not Adj,Final,"1,886","1,813",73,3.90%
+754,MT,Phillips,2019,March,Not Adj,Final,"1,847","1,762",85,4.60%
+755,MT,Phillips,2019,February,Not Adj,Final,"1,856","1,763",93,5.00%
+756,MT,Phillips,2019,January,Not Adj,Final,"1,901","1,801",100,5.30%
+757,MT,Pondera,2020,June,Not Adj,Preliminary,"2,572","2,403",169,6.60%
+758,MT,Pondera,2020,May,Not Adj,Final,"2,554","2,390",164,6.40%
+759,MT,Pondera,2020,April,Not Adj,Final,"2,517","2,333",184,7.30%
+760,MT,Pondera,2020,March,Not Adj,Final,"2,664","2,561",103,3.90%
+761,MT,Pondera,2020,February,Not Adj,Final,"2,641","2,551",90,3.40%
+762,MT,Pondera,2020,January,Not Adj,Final,"2,602","2,503",99,3.80%
+763,MT,Pondera,2019,December,Not Adj,Final,"2,656","2,570",86,3.20%
+764,MT,Pondera,2019,November,Not Adj,Final,"2,671","2,590",81,3.00%
+765,MT,Pondera,2019,October,Not Adj,Final,"2,705","2,625",80,3.00%
+766,MT,Pondera,2019,September,Not Adj,Final,"2,643","2,560",83,3.10%
+767,MT,Pondera,2019,August,Not Adj,Final,"2,651","2,563",88,3.30%
+768,MT,Pondera,2019,July,Not Adj,Final,"2,626","2,523",103,3.90%
+769,MT,Pondera,2019,June,Not Adj,Final,"2,711","2,604",107,3.90%
+770,MT,Pondera,2019,May,Not Adj,Final,"2,695","2,610",85,3.20%
+771,MT,Pondera,2019,April,Not Adj,Final,"2,662","2,563",99,3.70%
+772,MT,Pondera,2019,March,Not Adj,Final,"2,666","2,536",130,4.90%
+773,MT,Pondera,2019,February,Not Adj,Final,"2,683","2,551",132,4.90%
+774,MT,Pondera,2019,January,Not Adj,Final,"2,677","2,542",135,5.00%
+775,MT,Powder River,2020,June,Not Adj,Preliminary,924,889,35,3.80%
+776,MT,Powder River,2020,May,Not Adj,Final,914,879,35,3.80%
+777,MT,Powder River,2020,April,Not Adj,Final,929,880,49,5.30%
+778,MT,Powder River,2020,March,Not Adj,Final,971,939,32,3.30%
+779,MT,Powder River,2020,February,Not Adj,Final,956,927,29,3.00%
+780,MT,Powder River,2020,January,Not Adj,Final,939,911,28,3.00%
+781,MT,Powder River,2019,December,Not Adj,Final,975,952,23,2.40%
+782,MT,Powder River,2019,November,Not Adj,Final,"1,000",976,24,2.40%
+783,MT,Powder River,2019,October,Not Adj,Final,"1,007",985,22,2.20%
+784,MT,Powder River,2019,September,Not Adj,Final,984,963,21,2.10%
+785,MT,Powder River,2019,August,Not Adj,Final,971,952,19,2.00%
+786,MT,Powder River,2019,July,Not Adj,Final,946,927,19,2.00%
+787,MT,Powder River,2019,June,Not Adj,Final,952,932,20,2.10%
+788,MT,Powder River,2019,May,Not Adj,Final,942,927,15,1.60%
+789,MT,Powder River,2019,April,Not Adj,Final,938,922,16,1.70%
+790,MT,Powder River,2019,March,Not Adj,Final,912,885,27,3.00%
+791,MT,Powder River,2019,February,Not Adj,Final,926,895,31,3.30%
+792,MT,Powder River,2019,January,Not Adj,Final,955,920,35,3.70%
+793,MT,Powell,2020,June,Not Adj,Preliminary,"2,886","2,730",156,5.40%
+794,MT,Powell,2020,May,Not Adj,Final,"2,775","2,591",184,6.60%
+795,MT,Powell,2020,April,Not Adj,Final,"2,737","2,457",280,10.20%
+796,MT,Powell,2020,March,Not Adj,Final,"2,874","2,734",140,4.90%
+797,MT,Powell,2020,February,Not Adj,Final,"2,921","2,797",124,4.20%
+798,MT,Powell,2020,January,Not Adj,Final,"2,891","2,762",129,4.50%
+799,MT,Powell,2019,December,Not Adj,Final,"3,008","2,907",101,3.40%
+800,MT,Powell,2019,November,Not Adj,Final,"3,037","2,930",107,3.50%
+801,MT,Powell,2019,October,Not Adj,Final,"3,040","2,940",100,3.30%
+802,MT,Powell,2019,September,Not Adj,Final,"3,025","2,928",97,3.20%
+803,MT,Powell,2019,August,Not Adj,Final,"3,066","2,968",98,3.20%
+804,MT,Powell,2019,July,Not Adj,Final,"3,094","3,007",87,2.80%
+805,MT,Powell,2019,June,Not Adj,Final,"3,044","2,946",98,3.20%
+806,MT,Powell,2019,May,Not Adj,Final,"2,975","2,870",105,3.50%
+807,MT,Powell,2019,April,Not Adj,Final,"2,914","2,794",120,4.10%
+808,MT,Powell,2019,March,Not Adj,Final,"2,860","2,725",135,4.70%
+809,MT,Powell,2019,February,Not Adj,Final,"2,831","2,702",129,4.60%
+810,MT,Powell,2019,January,Not Adj,Final,"2,788","2,664",124,4.40%
+811,MT,Prairie,2020,June,Not Adj,Preliminary,460,424,36,7.80%
+812,MT,Prairie,2020,May,Not Adj,Final,458,424,34,7.40%
+813,MT,Prairie,2020,April,Not Adj,Final,439,412,27,6.20%
+814,MT,Prairie,2020,March,Not Adj,Final,477,454,23,4.80%
+815,MT,Prairie,2020,February,Not Adj,Final,484,460,24,5.00%
+816,MT,Prairie,2020,January,Not Adj,Final,473,449,24,5.10%
+817,MT,Prairie,2019,December,Not Adj,Final,481,464,17,3.50%
+818,MT,Prairie,2019,November,Not Adj,Final,495,478,17,3.40%
+819,MT,Prairie,2019,October,Not Adj,Final,490,471,19,3.90%
+820,MT,Prairie,2019,September,Not Adj,Final,485,465,20,4.10%
+821,MT,Prairie,2019,August,Not Adj,Final,484,465,19,3.90%
+822,MT,Prairie,2019,July,Not Adj,Final,477,458,19,4.00%
+823,MT,Prairie,2019,June,Not Adj,Final,458,440,18,3.90%
+824,MT,Prairie,2019,May,Not Adj,Final,472,457,15,3.20%
+825,MT,Prairie,2019,April,Not Adj,Final,470,454,16,3.40%
+826,MT,Prairie,2019,March,Not Adj,Final,463,446,17,3.70%
+827,MT,Prairie,2019,February,Not Adj,Final,472,455,17,3.60%
+828,MT,Prairie,2019,January,Not Adj,Final,478,456,22,4.60%
+829,MT,Ravalli,2020,June,Not Adj,Preliminary,"20,417","19,109","1,308",6.40%
+830,MT,Ravalli,2020,May,Not Adj,Final,"19,680","18,225","1,455",7.40%
+831,MT,Ravalli,2020,April,Not Adj,Final,"19,388","17,296","2,092",10.80%
+832,MT,Ravalli,2020,March,Not Adj,Final,"20,403","19,408",995,4.90%
+833,MT,Ravalli,2020,February,Not Adj,Final,"20,338","19,320","1,018",5.00%
+834,MT,Ravalli,2020,January,Not Adj,Final,"20,261","19,217","1,044",5.20%
+835,MT,Ravalli,2019,December,Not Adj,Final,"20,172","19,327",845,4.20%
+836,MT,Ravalli,2019,November,Not Adj,Final,"20,408","19,677",731,3.60%
+837,MT,Ravalli,2019,October,Not Adj,Final,"20,449","19,774",675,3.30%
+838,MT,Ravalli,2019,September,Not Adj,Final,"20,279","19,613",666,3.30%
+839,MT,Ravalli,2019,August,Not Adj,Final,"20,365","19,668",697,3.40%
+840,MT,Ravalli,2019,July,Not Adj,Final,"20,435","19,727",708,3.50%
+841,MT,Ravalli,2019,June,Not Adj,Final,"20,611","19,836",775,3.80%
+842,MT,Ravalli,2019,May,Not Adj,Final,"20,337","19,679",658,3.20%
+843,MT,Ravalli,2019,April,Not Adj,Final,"20,103","19,312",791,3.90%
+844,MT,Ravalli,2019,March,Not Adj,Final,"19,952","18,904","1,048",5.30%
+845,MT,Ravalli,2019,February,Not Adj,Final,"19,824","18,734","1,090",5.50%
+846,MT,Ravalli,2019,January,Not Adj,Final,"19,823","18,676","1,147",5.80%
+847,MT,Richland,2020,June,Not Adj,Preliminary,"5,752","5,249",503,8.70%
+848,MT,Richland,2020,May,Not Adj,Final,"5,601","5,070",531,9.50%
+849,MT,Richland,2020,April,Not Adj,Final,"5,475","4,862",613,11.20%
+850,MT,Richland,2020,March,Not Adj,Final,"5,749","5,557",192,3.30%
+851,MT,Richland,2020,February,Not Adj,Final,"5,904","5,723",181,3.10%
+852,MT,Richland,2020,January,Not Adj,Final,"5,900","5,712",188,3.20%
+853,MT,Richland,2019,December,Not Adj,Final,"5,917","5,774",143,2.40%
+854,MT,Richland,2019,November,Not Adj,Final,"5,971","5,827",144,2.40%
+855,MT,Richland,2019,October,Not Adj,Final,"6,015","5,854",161,2.70%
+856,MT,Richland,2019,September,Not Adj,Final,"5,833","5,664",169,2.90%
+857,MT,Richland,2019,August,Not Adj,Final,"6,096","5,929",167,2.70%
+858,MT,Richland,2019,July,Not Adj,Final,"5,880","5,729",151,2.60%
+859,MT,Richland,2019,June,Not Adj,Final,"5,840","5,676",164,2.80%
+860,MT,Richland,2019,May,Not Adj,Final,"5,822","5,689",133,2.30%
+861,MT,Richland,2019,April,Not Adj,Final,"5,797","5,646",151,2.60%
+862,MT,Richland,2019,March,Not Adj,Final,"5,802","5,623",179,3.10%
+863,MT,Richland,2019,February,Not Adj,Final,"5,765","5,619",146,2.50%
+864,MT,Richland,2019,January,Not Adj,Final,"5,825","5,662",163,2.80%
+865,MT,Roosevelt,2020,June,Not Adj,Preliminary,"4,410","4,064",346,7.80%
+866,MT,Roosevelt,2020,May,Not Adj,Final,"4,260","3,929",331,7.80%
+867,MT,Roosevelt,2020,April,Not Adj,Final,"4,060","3,734",326,8.00%
+868,MT,Roosevelt,2020,March,Not Adj,Final,"4,427","4,202",225,5.10%
+869,MT,Roosevelt,2020,February,Not Adj,Final,"4,492","4,270",222,4.90%
+870,MT,Roosevelt,2020,January,Not Adj,Final,"4,461","4,245",216,4.80%
+871,MT,Roosevelt,2019,December,Not Adj,Final,"4,474","4,293",181,4.00%
+872,MT,Roosevelt,2019,November,Not Adj,Final,"4,505","4,343",162,3.60%
+873,MT,Roosevelt,2019,October,Not Adj,Final,"4,508","4,345",163,3.60%
+874,MT,Roosevelt,2019,September,Not Adj,Final,"4,455","4,292",163,3.70%
+875,MT,Roosevelt,2019,August,Not Adj,Final,"4,469","4,277",192,4.30%
+876,MT,Roosevelt,2019,July,Not Adj,Final,"4,464","4,245",219,4.90%
+877,MT,Roosevelt,2019,June,Not Adj,Final,"4,610","4,405",205,4.40%
+878,MT,Roosevelt,2019,May,Not Adj,Final,"4,554","4,395",159,3.50%
+879,MT,Roosevelt,2019,April,Not Adj,Final,"4,533","4,322",211,4.70%
+880,MT,Roosevelt,2019,March,Not Adj,Final,"4,472","4,239",233,5.20%
+881,MT,Roosevelt,2019,February,Not Adj,Final,"4,467","4,257",210,4.70%
+882,MT,Roosevelt,2019,January,Not Adj,Final,"4,503","4,278",225,5.00%
+883,MT,Rosebud,2020,June,Not Adj,Preliminary,"3,777","3,516",261,6.90%
+884,MT,Rosebud,2020,May,Not Adj,Final,"3,779","3,481",298,7.90%
+885,MT,Rosebud,2020,April,Not Adj,Final,"3,513","3,242",271,7.70%
+886,MT,Rosebud,2020,March,Not Adj,Final,"3,754","3,573",181,4.80%
+887,MT,Rosebud,2020,February,Not Adj,Final,"3,768","3,580",188,5.00%
+888,MT,Rosebud,2020,January,Not Adj,Final,"3,732","3,546",186,5.00%
+889,MT,Rosebud,2019,December,Not Adj,Final,"3,779","3,621",158,4.20%
+890,MT,Rosebud,2019,November,Not Adj,Final,"3,848","3,676",172,4.50%
+891,MT,Rosebud,2019,October,Not Adj,Final,"3,904","3,725",179,4.60%
+892,MT,Rosebud,2019,September,Not Adj,Final,"3,831","3,669",162,4.20%
+893,MT,Rosebud,2019,August,Not Adj,Final,"3,986","3,767",219,5.50%
+894,MT,Rosebud,2019,July,Not Adj,Final,"3,902","3,690",212,5.40%
+895,MT,Rosebud,2019,June,Not Adj,Final,"3,818","3,596",222,5.80%
+896,MT,Rosebud,2019,May,Not Adj,Final,"3,822","3,669",153,4.00%
+897,MT,Rosebud,2019,April,Not Adj,Final,"3,781","3,605",176,4.70%
+898,MT,Rosebud,2019,March,Not Adj,Final,"3,748","3,531",217,5.80%
+899,MT,Rosebud,2019,February,Not Adj,Final,"3,732","3,523",209,5.60%
+900,MT,Rosebud,2019,January,Not Adj,Final,"3,769","3,545",224,5.90%
+901,MT,Sanders,2020,June,Not Adj,Preliminary,"4,890","4,504",386,7.90%
+902,MT,Sanders,2020,May,Not Adj,Final,"4,791","4,309",482,10.10%
+903,MT,Sanders,2020,April,Not Adj,Final,"4,727","4,066",661,14.00%
+904,MT,Sanders,2020,March,Not Adj,Final,"4,870","4,507",363,7.50%
+905,MT,Sanders,2020,February,Not Adj,Final,"4,817","4,434",383,8.00%
+906,MT,Sanders,2020,January,Not Adj,Final,"4,811","4,405",406,8.40%
+907,MT,Sanders,2019,December,Not Adj,Final,"4,771","4,476",295,6.20%
+908,MT,Sanders,2019,November,Not Adj,Final,"4,849","4,616",233,4.80%
+909,MT,Sanders,2019,October,Not Adj,Final,"4,888","4,670",218,4.50%
+910,MT,Sanders,2019,September,Not Adj,Final,"4,891","4,675",216,4.40%
+911,MT,Sanders,2019,August,Not Adj,Final,"4,975","4,725",250,5.00%
+912,MT,Sanders,2019,July,Not Adj,Final,"4,913","4,672",241,4.90%
+913,MT,Sanders,2019,June,Not Adj,Final,"4,933","4,671",262,5.30%
+914,MT,Sanders,2019,May,Not Adj,Final,"4,879","4,659",220,4.50%
+915,MT,Sanders,2019,April,Not Adj,Final,"4,807","4,502",305,6.30%
+916,MT,Sanders,2019,March,Not Adj,Final,"4,717","4,346",371,7.90%
+917,MT,Sanders,2019,February,Not Adj,Final,"4,763","4,368",395,8.30%
+918,MT,Sanders,2019,January,Not Adj,Final,"4,743","4,327",416,8.80%
+919,MT,Sheridan,2020,June,Not Adj,Preliminary,"1,712","1,611",101,5.90%
+920,MT,Sheridan,2020,May,Not Adj,Final,"1,687","1,581",106,6.30%
+921,MT,Sheridan,2020,April,Not Adj,Final,"1,689","1,548",141,8.30%
+922,MT,Sheridan,2020,March,Not Adj,Final,"1,779","1,722",57,3.20%
+923,MT,Sheridan,2020,February,Not Adj,Final,"1,727","1,680",47,2.70%
+924,MT,Sheridan,2020,January,Not Adj,Final,"1,722","1,666",56,3.30%
+925,MT,Sheridan,2019,December,Not Adj,Final,"1,741","1,699",42,2.40%
+926,MT,Sheridan,2019,November,Not Adj,Final,"1,758","1,718",40,2.30%
+927,MT,Sheridan,2019,October,Not Adj,Final,"1,768","1,729",39,2.20%
+928,MT,Sheridan,2019,September,Not Adj,Final,"1,738","1,700",38,2.20%
+929,MT,Sheridan,2019,August,Not Adj,Final,"1,740","1,705",35,2.00%
+930,MT,Sheridan,2019,July,Not Adj,Final,"1,675","1,645",30,1.80%
+931,MT,Sheridan,2019,June,Not Adj,Final,"1,751","1,714",37,2.10%
+932,MT,Sheridan,2019,May,Not Adj,Final,"1,739","1,707",32,1.80%
+933,MT,Sheridan,2019,April,Not Adj,Final,"1,752","1,720",32,1.80%
+934,MT,Sheridan,2019,March,Not Adj,Final,"1,763","1,714",49,2.80%
+935,MT,Sheridan,2019,February,Not Adj,Final,"1,725","1,685",40,2.30%
+936,MT,Sheridan,2019,January,Not Adj,Final,"1,748","1,693",55,3.10%
+937,MT,Silver Bow,2020,June,Not Adj,Preliminary,"17,201","15,804","1,397",8.10%
+938,MT,Silver Bow,2020,May,Not Adj,Final,"16,549","15,050","1,499",9.10%
+939,MT,Silver Bow,2020,April,Not Adj,Final,"16,567","14,269","2,298",13.90%
+940,MT,Silver Bow,2020,March,Not Adj,Final,"17,067","16,266",801,4.70%
+941,MT,Silver Bow,2020,February,Not Adj,Final,"17,165","16,386",779,4.50%
+942,MT,Silver Bow,2020,January,Not Adj,Final,"17,201","16,390",811,4.70%
+943,MT,Silver Bow,2019,December,Not Adj,Final,"17,017","16,347",670,3.90%
+944,MT,Silver Bow,2019,November,Not Adj,Final,"17,202","16,570",632,3.70%
+945,MT,Silver Bow,2019,October,Not Adj,Final,"17,123","16,522",601,3.50%
+946,MT,Silver Bow,2019,September,Not Adj,Final,"17,009","16,465",544,3.20%
+947,MT,Silver Bow,2019,August,Not Adj,Final,"17,621","16,987",634,3.60%
+948,MT,Silver Bow,2019,July,Not Adj,Final,"17,766","17,154",612,3.40%
+949,MT,Silver Bow,2019,June,Not Adj,Final,"17,455","16,808",647,3.70%
+950,MT,Silver Bow,2019,May,Not Adj,Final,"17,086","16,575",511,3.00%
+951,MT,Silver Bow,2019,April,Not Adj,Final,"17,086","16,451",635,3.70%
+952,MT,Silver Bow,2019,March,Not Adj,Final,"16,957","16,192",765,4.50%
+953,MT,Silver Bow,2019,February,Not Adj,Final,"17,020","16,274",746,4.40%
+954,MT,Silver Bow,2019,January,Not Adj,Final,"16,956","16,163",793,4.70%
+955,MT,Stillwater,2020,June,Not Adj,Preliminary,"5,295","5,000",295,5.60%
+956,MT,Stillwater,2020,May,Not Adj,Final,"5,247","4,893",354,6.70%
+957,MT,Stillwater,2020,April,Not Adj,Final,"5,180","4,690",490,9.50%
+958,MT,Stillwater,2020,March,Not Adj,Final,"5,401","5,224",177,3.30%
+959,MT,Stillwater,2020,February,Not Adj,Final,"5,335","5,151",184,3.40%
+960,MT,Stillwater,2020,January,Not Adj,Final,"5,315","5,114",201,3.80%
+961,MT,Stillwater,2019,December,Not Adj,Final,"5,310","5,140",170,3.20%
+962,MT,Stillwater,2019,November,Not Adj,Final,"5,352","5,201",151,2.80%
+963,MT,Stillwater,2019,October,Not Adj,Final,"5,353","5,213",140,2.60%
+964,MT,Stillwater,2019,September,Not Adj,Final,"5,301","5,164",137,2.60%
+965,MT,Stillwater,2019,August,Not Adj,Final,"5,242","5,099",143,2.70%
+966,MT,Stillwater,2019,July,Not Adj,Final,"5,208","5,063",145,2.80%
+967,MT,Stillwater,2019,June,Not Adj,Final,"5,055","4,900",155,3.10%
+968,MT,Stillwater,2019,May,Not Adj,Final,"5,153","5,017",136,2.60%
+969,MT,Stillwater,2019,April,Not Adj,Final,"5,115","4,962",153,3.00%
+970,MT,Stillwater,2019,March,Not Adj,Final,"5,030","4,821",209,4.20%
+971,MT,Stillwater,2019,February,Not Adj,Final,"5,035","4,825",210,4.20%
+972,MT,Stillwater,2019,January,Not Adj,Final,"5,001","4,806",195,3.90%
+973,MT,Sweet Grass,2020,June,Not Adj,Preliminary,"1,784","1,710",74,4.10%
+974,MT,Sweet Grass,2020,May,Not Adj,Final,"1,721","1,640",81,4.70%
+975,MT,Sweet Grass,2020,April,Not Adj,Final,"1,707","1,590",117,6.90%
+976,MT,Sweet Grass,2020,March,Not Adj,Final,"1,806","1,750",56,3.10%
+977,MT,Sweet Grass,2020,February,Not Adj,Final,"1,803","1,750",53,2.90%
+978,MT,Sweet Grass,2020,January,Not Adj,Final,"1,794","1,729",65,3.60%
+979,MT,Sweet Grass,2019,December,Not Adj,Final,"1,816","1,765",51,2.80%
+980,MT,Sweet Grass,2019,November,Not Adj,Final,"1,837","1,790",47,2.60%
+981,MT,Sweet Grass,2019,October,Not Adj,Final,"1,863","1,814",49,2.60%
+982,MT,Sweet Grass,2019,September,Not Adj,Final,"1,830","1,788",42,2.30%
+983,MT,Sweet Grass,2019,August,Not Adj,Final,"1,807","1,762",45,2.50%
+984,MT,Sweet Grass,2019,July,Not Adj,Final,"1,811","1,765",46,2.50%
+985,MT,Sweet Grass,2019,June,Not Adj,Final,"1,825","1,774",51,2.80%
+986,MT,Sweet Grass,2019,May,Not Adj,Final,"1,778","1,734",44,2.50%
+987,MT,Sweet Grass,2019,April,Not Adj,Final,"1,763","1,713",50,2.80%
+988,MT,Sweet Grass,2019,March,Not Adj,Final,"1,727","1,676",51,3.00%
+989,MT,Sweet Grass,2019,February,Not Adj,Final,"1,740","1,683",57,3.30%
+990,MT,Sweet Grass,2019,January,Not Adj,Final,"1,767","1,706",61,3.50%
+991,MT,Teton,2020,June,Not Adj,Preliminary,"2,674","2,537",137,5.10%
+992,MT,Teton,2020,May,Not Adj,Final,"2,630","2,495",135,5.10%
+993,MT,Teton,2020,April,Not Adj,Final,"2,616","2,432",184,7.00%
+994,MT,Teton,2020,March,Not Adj,Final,"2,758","2,647",111,4.00%
+995,MT,Teton,2020,February,Not Adj,Final,"2,744","2,629",115,4.20%
+996,MT,Teton,2020,January,Not Adj,Final,"2,723","2,586",137,5.00%
+997,MT,Teton,2019,December,Not Adj,Final,"2,759","2,647",112,4.10%
+998,MT,Teton,2019,November,Not Adj,Final,"2,779","2,689",90,3.20%
+999,MT,Teton,2019,October,Not Adj,Final,"2,801","2,718",83,3.00%
+"1,000",MT,Teton,2019,September,Not Adj,Final,"2,762","2,686",76,2.80%
+"1,001",MT,Teton,2019,August,Not Adj,Final,"2,762","2,688",74,2.70%
+"1,002",MT,Teton,2019,July,Not Adj,Final,"2,726","2,651",75,2.80%
+"1,003",MT,Teton,2019,June,Not Adj,Final,"2,776","2,695",81,2.90%
+"1,004",MT,Teton,2019,May,Not Adj,Final,"2,753","2,683",70,2.50%
+"1,005",MT,Teton,2019,April,Not Adj,Final,"2,739","2,654",85,3.10%
+"1,006",MT,Teton,2019,March,Not Adj,Final,"2,650","2,543",107,4.00%
+"1,007",MT,Teton,2019,February,Not Adj,Final,"2,667","2,559",108,4.00%
+"1,008",MT,Teton,2019,January,Not Adj,Final,"2,706","2,587",119,4.40%
+"1,009",MT,Toole,2020,June,Not Adj,Preliminary,"2,100","1,951",149,7.10%
+"1,010",MT,Toole,2020,May,Not Adj,Final,"2,035","1,889",146,7.20%
+"1,011",MT,Toole,2020,April,Not Adj,Final,"1,983","1,823",160,8.10%
+"1,012",MT,Toole,2020,March,Not Adj,Final,"2,100","2,027",73,3.50%
+"1,013",MT,Toole,2020,February,Not Adj,Final,"2,093","2,023",70,3.30%
+"1,014",MT,Toole,2020,January,Not Adj,Final,"2,079","2,011",68,3.30%
+"1,015",MT,Toole,2019,December,Not Adj,Final,"2,102","2,042",60,2.90%
+"1,016",MT,Toole,2019,November,Not Adj,Final,"2,115","2,054",61,2.90%
+"1,017",MT,Toole,2019,October,Not Adj,Final,"2,142","2,082",60,2.80%
+"1,018",MT,Toole,2019,September,Not Adj,Final,"2,112","2,065",47,2.20%
+"1,019",MT,Toole,2019,August,Not Adj,Final,"2,155","2,104",51,2.40%
+"1,020",MT,Toole,2019,July,Not Adj,Final,"2,155","2,106",49,2.30%
+"1,021",MT,Toole,2019,June,Not Adj,Final,"2,129","2,078",51,2.40%
+"1,022",MT,Toole,2019,May,Not Adj,Final,"2,112","2,068",44,2.10%
+"1,023",MT,Toole,2019,April,Not Adj,Final,"2,091","2,053",38,1.80%
+"1,024",MT,Toole,2019,March,Not Adj,Final,"2,073","2,020",53,2.60%
+"1,025",MT,Toole,2019,February,Not Adj,Final,"2,081","2,032",49,2.40%
+"1,026",MT,Toole,2019,January,Not Adj,Final,"2,116","2,064",52,2.50%
+"1,027",MT,Treasure,2020,June,Not Adj,Preliminary,308,294,14,4.50%
+"1,028",MT,Treasure,2020,May,Not Adj,Final,325,310,15,4.60%
+"1,029",MT,Treasure,2020,April,Not Adj,Final,326,311,15,4.60%
+"1,030",MT,Treasure,2020,March,Not Adj,Final,341,333,8,2.30%
+"1,031",MT,Treasure,2020,February,Not Adj,Final,335,327,8,2.40%
+"1,032",MT,Treasure,2020,January,Not Adj,Final,331,323,8,2.40%
+"1,033",MT,Treasure,2019,December,Not Adj,Final,339,331,8,2.40%
+"1,034",MT,Treasure,2019,November,Not Adj,Final,348,341,7,2.00%
+"1,035",MT,Treasure,2019,October,Not Adj,Final,346,339,7,2.00%
+"1,036",MT,Treasure,2019,September,Not Adj,Final,341,333,8,2.30%
+"1,037",MT,Treasure,2019,August,Not Adj,Final,338,328,10,3.00%
+"1,038",MT,Treasure,2019,July,Not Adj,Final,326,319,7,2.10%
+"1,039",MT,Treasure,2019,June,Not Adj,Final,323,314,9,2.80%
+"1,040",MT,Treasure,2019,May,Not Adj,Final,331,324,7,2.10%
+"1,041",MT,Treasure,2019,April,Not Adj,Final,334,325,9,2.70%
+"1,042",MT,Treasure,2019,March,Not Adj,Final,333,318,15,4.50%
+"1,043",MT,Treasure,2019,February,Not Adj,Final,321,309,12,3.70%
+"1,044",MT,Treasure,2019,January,Not Adj,Final,334,322,12,3.60%
+"1,045",MT,Valley,2020,June,Not Adj,Preliminary,"4,038","3,850",188,4.70%
+"1,046",MT,Valley,2020,May,Not Adj,Final,"3,920","3,714",206,5.30%
+"1,047",MT,Valley,2020,April,Not Adj,Final,"3,814","3,528",286,7.50%
+"1,048",MT,Valley,2020,March,Not Adj,Final,"4,069","3,914",155,3.80%
+"1,049",MT,Valley,2020,February,Not Adj,Final,"4,025","3,870",155,3.90%
+"1,050",MT,Valley,2020,January,Not Adj,Final,"4,022","3,852",170,4.20%
+"1,051",MT,Valley,2019,December,Not Adj,Final,"4,037","3,901",136,3.40%
+"1,052",MT,Valley,2019,November,Not Adj,Final,"4,115","3,977",138,3.40%
+"1,053",MT,Valley,2019,October,Not Adj,Final,"4,151","4,017",134,3.20%
+"1,054",MT,Valley,2019,September,Not Adj,Final,"4,101","3,968",133,3.20%
+"1,055",MT,Valley,2019,August,Not Adj,Final,"4,141","4,021",120,2.90%
+"1,056",MT,Valley,2019,July,Not Adj,Final,"4,187","4,065",122,2.90%
+"1,057",MT,Valley,2019,June,Not Adj,Final,"4,151","4,032",119,2.90%
+"1,058",MT,Valley,2019,May,Not Adj,Final,"4,096","4,007",89,2.20%
+"1,059",MT,Valley,2019,April,Not Adj,Final,"4,023","3,910",113,2.80%
+"1,060",MT,Valley,2019,March,Not Adj,Final,"3,966","3,819",147,3.70%
+"1,061",MT,Valley,2019,February,Not Adj,Final,"3,969","3,824",145,3.70%
+"1,062",MT,Valley,2019,January,Not Adj,Final,"4,019","3,864",155,3.90%
+"1,063",MT,Wheatland,2020,June,Not Adj,Preliminary,748,690,58,7.80%
+"1,064",MT,Wheatland,2020,May,Not Adj,Final,789,711,78,9.90%
+"1,065",MT,Wheatland,2020,April,Not Adj,Final,815,717,98,12.00%
+"1,066",MT,Wheatland,2020,March,Not Adj,Final,796,756,40,5.00%
+"1,067",MT,Wheatland,2020,February,Not Adj,Final,785,747,38,4.80%
+"1,068",MT,Wheatland,2020,January,Not Adj,Final,775,728,47,6.10%
+"1,069",MT,Wheatland,2019,December,Not Adj,Final,810,775,35,4.30%
+"1,070",MT,Wheatland,2019,November,Not Adj,Final,819,791,28,3.40%
+"1,071",MT,Wheatland,2019,October,Not Adj,Final,820,795,25,3.00%
+"1,072",MT,Wheatland,2019,September,Not Adj,Final,798,774,24,3.00%
+"1,073",MT,Wheatland,2019,August,Not Adj,Final,801,772,29,3.60%
+"1,074",MT,Wheatland,2019,July,Not Adj,Final,769,740,29,3.80%
+"1,075",MT,Wheatland,2019,June,Not Adj,Final,755,727,28,3.70%
+"1,076",MT,Wheatland,2019,May,Not Adj,Final,777,756,21,2.70%
+"1,077",MT,Wheatland,2019,April,Not Adj,Final,774,751,23,3.00%
+"1,078",MT,Wheatland,2019,March,Not Adj,Final,759,727,32,4.20%
+"1,079",MT,Wheatland,2019,February,Not Adj,Final,759,720,39,5.10%
+"1,080",MT,Wheatland,2019,January,Not Adj,Final,775,732,43,5.50%
+"1,081",MT,Wibaux,2020,June,Not Adj,Preliminary,447,416,31,6.90%
+"1,082",MT,Wibaux,2020,May,Not Adj,Final,436,409,27,6.20%
+"1,083",MT,Wibaux,2020,April,Not Adj,Final,441,395,46,10.40%
+"1,084",MT,Wibaux,2020,March,Not Adj,Final,444,427,17,3.80%
+"1,085",MT,Wibaux,2020,February,Not Adj,Final,452,438,14,3.10%
+"1,086",MT,Wibaux,2020,January,Not Adj,Final,451,437,14,3.10%
+"1,087",MT,Wibaux,2019,December,Not Adj,Final,459,446,13,2.80%
+"1,088",MT,Wibaux,2019,November,Not Adj,Final,456,442,14,3.10%
+"1,089",MT,Wibaux,2019,October,Not Adj,Final,473,458,15,3.20%
+"1,090",MT,Wibaux,2019,September,Not Adj,Final,462,447,15,3.20%
+"1,091",MT,Wibaux,2019,August,Not Adj,Final,472,462,10,2.10%
+"1,092",MT,Wibaux,2019,July,Not Adj,Final,483,470,13,2.70%
+"1,093",MT,Wibaux,2019,June,Not Adj,Final,467,453,14,3.00%
+"1,094",MT,Wibaux,2019,May,Not Adj,Final,459,448,11,2.40%
+"1,095",MT,Wibaux,2019,April,Not Adj,Final,450,436,14,3.10%
+"1,096",MT,Wibaux,2019,March,Not Adj,Final,442,428,14,3.20%
+"1,097",MT,Wibaux,2019,February,Not Adj,Final,445,433,12,2.70%
+"1,098",MT,Wibaux,2019,January,Not Adj,Final,464,447,17,3.70%
+"1,099",MT,Yellowstone,2020,June,Not Adj,Preliminary,"83,685","78,118","5,567",6.70%
+"1,100",MT,Yellowstone,2020,May,Not Adj,Final,"79,830","73,587","6,243",7.80%
+"1,101",MT,Yellowstone,2020,April,Not Adj,Final,"79,904","71,061","8,843",11.10%
+"1,102",MT,Yellowstone,2020,March,Not Adj,Final,"81,396","78,417","2,979",3.70%
+"1,103",MT,Yellowstone,2020,February,Not Adj,Final,"81,734","78,737","2,997",3.70%
+"1,104",MT,Yellowstone,2020,January,Not Adj,Final,"81,833","78,700","3,133",3.80%
+"1,105",MT,Yellowstone,2019,December,Not Adj,Final,"81,096","78,574","2,522",3.10%
+"1,106",MT,Yellowstone,2019,November,Not Adj,Final,"81,686","79,232","2,454",3.00%
+"1,107",MT,Yellowstone,2019,October,Not Adj,Final,"81,676","79,294","2,382",2.90%
+"1,108",MT,Yellowstone,2019,September,Not Adj,Final,"81,865","79,527","2,338",2.90%
+"1,109",MT,Yellowstone,2019,August,Not Adj,Final,"82,243","79,719","2,524",3.10%
+"1,110",MT,Yellowstone,2019,July,Not Adj,Final,"82,360","79,763","2,597",3.20%
+"1,111",MT,Yellowstone,2019,June,Not Adj,Final,"82,501","79,697","2,804",3.40%
+"1,112",MT,Yellowstone,2019,May,Not Adj,Final,"81,792","79,672","2,120",2.60%
+"1,113",MT,Yellowstone,2019,April,Not Adj,Final,"81,651","79,269","2,382",2.90%
+"1,114",MT,Yellowstone,2019,March,Not Adj,Final,"81,709","78,674","3,035",3.70%
+"1,115",MT,Yellowstone,2019,February,Not Adj,Final,"81,482","78,407","3,075",3.80%
+"1,116",MT,Yellowstone,2019,January,Not Adj,Final,"81,315","78,249","3,066",3.80%

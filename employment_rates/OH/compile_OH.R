@@ -17,7 +17,11 @@ output <- raw %>%
     state_short = "OH",
     state = "Ohio",
     area = str_to_title(area),
-    area_type = str_to_lower(area_type),
+    area_type = case_when(
+      area == "Montana" ~ "state",
+      str_detect(area, "County") ~ "county",
+      TRUE ~ "city"
+    ),
     period = month(mdy(paste(period, "-01-2020", sep = "")), label = T, abbr = F),
     polyname = case_when(
       area_type == "county" ~ paste("ohio,",
