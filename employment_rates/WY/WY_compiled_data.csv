@@ -28,13 +28,13 @@ Big Horn,County,April,"5,104","4,758",346
 Campbell,County,April,"23,527","21,129","2,398"
 Carbon,County,April,"7,520","7,011",509
 Converse,County,April,"8,766","8,209",557
-Crook,County,April,3553,"3,350","3"
+Crook,County,April,3553,"3,350",3
 Fremont,County,April,"18,885","17,129","1,756"
 Goshen,County,April,"6,300","5,911",389
 Hot Springs,County,April,"2,161","2,003",158
 Johnson,County,April,"4,095","3,698",397
 Laramie,County,April,"50,162","45,626","4,536"
-Lincoln,County,April,8827,"8,040","787"
+Lincoln,County,April,8827,"8,040",787
 Natrona,County,April,"40,233","35,152","5,081"
 Niobrara,County,April,"1,170","1,116",54
 Park,County,April,"14,827","13,425","1,402"
@@ -47,3 +47,27 @@ Uinta,County,April,"8,918","8,081",837
 Washakie,County,April,"3,765","3,487",278
 Weston,County,April,"3,715","3,503",212
 Wyoming,State,April,"293,713","265,476","28,237"
+Albany,County,June,"22,056","21,067",989
+Big Horn,County,June,"5,406","5,105",301
+Campbell,County,June,"24,587","22,255",2332
+Carbon,County,June,"7,958",7.5,7950.5
+Converse,County,June,"9,353","8,666",687
+Crook,County,June,3.873,3.683,0.19
+Fremont,County,June,"19,604","18,072",1532
+Goshen,County,June,"6,756","6,432",324
+Hot Springs,County,June,"2,252","2,115",137
+Johnson,County,June,"4,262","3,967",295
+Laramie,County,June,"50,385","47,052",3333
+Lincoln,County,June,"9,068","8,464",604
+Natrona,County,June,"40,001","35,619",4382
+Niobrara,County,June,"1,281","1,219",62
+Park,County,June,"15,289","14,320",969
+Platte,County,June,"4,900","4,628",272
+Sheridan,County,June,"16,246","15,309",937
+Sublette,County,June,"4,217","3,864",353
+Sweetwater,County,June,"21,932","19,879",2053
+Teton,County,June,"14,737","13,364",1373
+Uinta,County,June,"9,296","8,506",790
+Washakie,County,June,"3,966","3,705",261
+Weston,County,June,"3,910","3,715",195
+Wyoming,State,June,"301,336","278,504",22832

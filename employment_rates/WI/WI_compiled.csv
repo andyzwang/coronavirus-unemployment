@@ -1,5 +1,6 @@
 "state_fips","state_short","state","area","area_type","fips","period","year","labor_force","employment","unemployment"
-"55","WI","Wisconsin","Wisconsin","state",NA,"May",2020,3081769,2719991,361778
+"55","WI","Wisconsin","Wisconsin","state",NA,"June",2020,3100848,2829866,270982
+"55","WI","Wisconsin","Wisconsin","state",NA,"May",2020,3088644,2721739,366905
 "55","WI","Wisconsin","Wisconsin","state",NA,"April",2020,3029571,2617882,411689
 "55","WI","Wisconsin","Wisconsin","state",NA,"March",2020,3073342,2970150,103192
 "55","WI","Wisconsin","Wisconsin","state",NA,"February",2020,3095473,2971093,124380
@@ -16,7 +17,8 @@
 "55","WI","Wisconsin","Wisconsin","state",NA,"March",2019,3096679,2979102,117577
 "55","WI","Wisconsin","Wisconsin","state",NA,"February",2019,3101942,2983353,118589
 "55","WI","Wisconsin","Wisconsin","state",NA,"January",2019,3083718,2970152,113566
-"55","WI","Wisconsin","Adams County","county",55001,"May",2020,8248,6838,1410
+"55","WI","Wisconsin","Adams County","county",55001,"June",2020,8202,7251,951
+"55","WI","Wisconsin","Adams County","county",55001,"May",2020,8350,6931,1419
 "55","WI","Wisconsin","Adams County","county",55001,"April",2020,8261,6578,1683
 "55","WI","Wisconsin","Adams County","county",55001,"March",2020,8000,7495,505
 "55","WI","Wisconsin","Adams County","county",55001,"February",2020,8031,7401,630
@@ -33,7 +35,8 @@
 "55","WI","Wisconsin","Adams County","county",55001,"March",2019,7979,7436,543
 "55","WI","Wisconsin","Adams County","county",55001,"February",2019,8035,7452,583
 "55","WI","Wisconsin","Adams County","county",55001,"January",2019,8072,7496,576
-"55","WI","Wisconsin","Ashland County","county",55003,"May",2020,7881,6619,1262
+"55","WI","Wisconsin","Ashland County","county",55003,"June",2020,7855,7019,836
+"55","WI","Wisconsin","Ashland County","county",55003,"May",2020,7977,6705,1272
 "55","WI","Wisconsin","Ashland County","county",55003,"April",2020,7824,6346,1478
 "55","WI","Wisconsin","Ashland County","county",55003,"March",2020,7597,7211,386
 "55","WI","Wisconsin","Ashland County","county",55003,"February",2020,7614,7159,455
@@ -50,7 +53,8 @@
 "55","WI","Wisconsin","Ashland County","county",55003,"March",2019,7562,7129,433
 "55","WI","Wisconsin","Ashland County","county",55003,"February",2019,7587,7162,425
 "55","WI","Wisconsin","Ashland County","county",55003,"January",2019,7706,7260,446
-"55","WI","Wisconsin","Barron County","county",55005,"May",2020,23583,20961,2622
+"55","WI","Wisconsin","Barron County","county",55005,"June",2020,23920,22209,1711
+"55","WI","Wisconsin","Barron County","county",55005,"May",2020,23803,21154,2649
 "55","WI","Wisconsin","Barron County","county",55005,"April",2020,23613,20165,3448
 "55","WI","Wisconsin","Barron County","county",55005,"March",2020,23943,22828,1115
 "55","WI","Wisconsin","Barron County","county",55005,"February",2020,23992,22581,1411
@@ -67,7 +71,8 @@
 "55","WI","Wisconsin","Barron County","county",55005,"March",2019,24313,23003,1310
 "55","WI","Wisconsin","Barron County","county",55005,"February",2019,24487,23065,1422
 "55","WI","Wisconsin","Barron County","county",55005,"January",2019,24822,23523,1299
-"55","WI","Wisconsin","Bayfield County","county",55007,"May",2020,7588,6303,1285
+"55","WI","Wisconsin","Bayfield County","county",55007,"June",2020,7465,6689,776
+"55","WI","Wisconsin","Bayfield County","county",55007,"May",2020,7663,6379,1284
 "55","WI","Wisconsin","Bayfield County","county",55007,"April",2020,7783,6053,1730
 "55","WI","Wisconsin","Bayfield County","county",55007,"March",2020,7322,6850,472
 "55","WI","Wisconsin","Bayfield County","county",55007,"February",2020,7371,6785,586
@@ -84,7 +89,8 @@
 "55","WI","Wisconsin","Bayfield County","county",55007,"March",2019,7315,6746,569
 "55","WI","Wisconsin","Bayfield County","county",55007,"February",2019,7341,6768,573
 "55","WI","Wisconsin","Bayfield County","county",55007,"January",2019,7454,6933,521
-"55","WI","Wisconsin","Brown County","county",55009,"May",2020,142948,125583,17365
+"55","WI","Wisconsin","Brown County","county",55009,"June",2020,141745,129323,12422
+"55","WI","Wisconsin","Brown County","county",55009,"May",2020,142576,124859,17717
 "55","WI","Wisconsin","Brown County","county",55009,"April",2020,138248,120300,17948
 "55","WI","Wisconsin","Brown County","county",55009,"March",2020,140385,136293,4092
 "55","WI","Wisconsin","Brown County","county",55009,"February",2020,141950,137028,4922
@@ -101,7 +107,8 @@
 "55","WI","Wisconsin","Brown County","county",55009,"March",2019,141649,136913,4736
 "55","WI","Wisconsin","Brown County","county",55009,"February",2019,141741,137033,4708
 "55","WI","Wisconsin","Brown County","county",55009,"January",2019,140807,136300,4507
-"55","WI","Wisconsin","Buffalo County","county",55011,"May",2020,6617,5775,842
+"55","WI","Wisconsin","Buffalo County","county",55011,"June",2020,6614,5992,622
+"55","WI","Wisconsin","Buffalo County","county",55011,"May",2020,6488,5647,841
 "55","WI","Wisconsin","Buffalo County","county",55011,"April",2020,6680,5490,1190
 "55","WI","Wisconsin","Buffalo County","county",55011,"March",2020,6360,6020,340
 "55","WI","Wisconsin","Buffalo County","county",55011,"February",2020,6290,5902,388
@@ -118,7 +125,8 @@
 "55","WI","Wisconsin","Buffalo County","county",55011,"March",2019,6368,6026,342
 "55","WI","Wisconsin","Buffalo County","county",55011,"February",2019,6325,5977,348
 "55","WI","Wisconsin","Buffalo County","county",55011,"January",2019,6620,6293,327
-"55","WI","Wisconsin","Burnett County","county",55013,"May",2020,7043,5952,1091
+"55","WI","Wisconsin","Burnett County","county",55013,"June",2020,7121,6327,794
+"55","WI","Wisconsin","Burnett County","county",55013,"May",2020,7154,6051,1103
 "55","WI","Wisconsin","Burnett County","county",55013,"April",2020,7289,5718,1571
 "55","WI","Wisconsin","Burnett County","county",55013,"March",2020,6945,6468,477
 "55","WI","Wisconsin","Burnett County","county",55013,"February",2020,6959,6391,568
@@ -135,7 +143,8 @@
 "55","WI","Wisconsin","Burnett County","county",55013,"March",2019,7078,6549,529
 "55","WI","Wisconsin","Burnett County","county",55013,"February",2019,7081,6553,528
 "55","WI","Wisconsin","Burnett County","county",55013,"January",2019,7186,6683,503
-"55","WI","Wisconsin","Calumet County","county",55015,"May",2020,26745,24316,2429
+"55","WI","Wisconsin","Calumet County","county",55015,"June",2020,27081,25277,1804
+"55","WI","Wisconsin","Calumet County","county",55015,"May",2020,26659,24194,2465
 "55","WI","Wisconsin","Calumet County","county",55015,"April",2020,26362,23446,2916
 "55","WI","Wisconsin","Calumet County","county",55015,"March",2020,27084,26377,707
 "55","WI","Wisconsin","Calumet County","county",55015,"February",2020,27281,26394,887
@@ -152,7 +161,8 @@
 "55","WI","Wisconsin","Calumet County","county",55015,"March",2019,27351,26544,807
 "55","WI","Wisconsin","Calumet County","county",55015,"February",2019,27422,26588,834
 "55","WI","Wisconsin","Calumet County","county",55015,"January",2019,27608,26779,829
-"55","WI","Wisconsin","Chippewa County","county",55017,"May",2020,32172,28861,3311
+"55","WI","Wisconsin","Chippewa County","county",55017,"June",2020,32282,29660,2622
+"55","WI","Wisconsin","Chippewa County","county",55017,"May",2020,31879,28529,3350
 "55","WI","Wisconsin","Chippewa County","county",55017,"April",2020,32028,27916,4112
 "55","WI","Wisconsin","Chippewa County","county",55017,"March",2020,33367,31789,1578
 "55","WI","Wisconsin","Chippewa County","county",55017,"February",2020,33595,31693,1902
@@ -169,7 +179,8 @@
 "55","WI","Wisconsin","Chippewa County","county",55017,"March",2019,33412,31723,1689
 "55","WI","Wisconsin","Chippewa County","county",55017,"February",2019,33439,31670,1769
 "55","WI","Wisconsin","Chippewa County","county",55017,"January",2019,33225,31541,1684
-"55","WI","Wisconsin","Clark County","county",55019,"May",2020,16875,15653,1222
+"55","WI","Wisconsin","Clark County","county",55019,"June",2020,17921,16828,1093
+"55","WI","Wisconsin","Clark County","county",55019,"May",2020,17081,15858,1223
 "55","WI","Wisconsin","Clark County","county",55019,"April",2020,16843,15265,1578
 "55","WI","Wisconsin","Clark County","county",55019,"March",2020,17506,16895,611
 "55","WI","Wisconsin","Clark County","county",55019,"February",2020,17336,16521,815
@@ -186,7 +197,8 @@
 "55","WI","Wisconsin","Clark County","county",55019,"March",2019,17592,16838,754
 "55","WI","Wisconsin","Clark County","county",55019,"February",2019,17425,16641,784
 "55","WI","Wisconsin","Clark County","county",55019,"January",2019,18227,17470,757
-"55","WI","Wisconsin","Columbia County","county",55021,"May",2020,30660,27131,3529
+"55","WI","Wisconsin","Columbia County","county",55021,"June",2020,30708,28127,2581
+"55","WI","Wisconsin","Columbia County","county",55021,"May",2020,30673,27093,3580
 "55","WI","Wisconsin","Columbia County","county",55021,"April",2020,30569,26307,4262
 "55","WI","Wisconsin","Columbia County","county",55021,"March",2020,31654,30620,1034
 "55","WI","Wisconsin","Columbia County","county",55021,"February",2020,31858,30522,1336
@@ -203,7 +215,8 @@
 "55","WI","Wisconsin","Columbia County","county",55021,"March",2019,31458,30287,1171
 "55","WI","Wisconsin","Columbia County","county",55021,"February",2019,31589,30343,1246
 "55","WI","Wisconsin","Columbia County","county",55021,"January",2019,31218,30140,1078
-"55","WI","Wisconsin","Crawford County","county",55023,"May",2020,7442,6460,982
+"55","WI","Wisconsin","Crawford County","county",55023,"June",2020,7605,6945,660
+"55","WI","Wisconsin","Crawford County","county",55023,"May",2020,7589,6592,997
 "55","WI","Wisconsin","Crawford County","county",55023,"April",2020,7610,6247,1363
 "55","WI","Wisconsin","Crawford County","county",55023,"March",2020,7408,6997,411
 "55","WI","Wisconsin","Crawford County","county",55023,"February",2020,7453,6906,547
@@ -220,7 +233,8 @@
 "55","WI","Wisconsin","Crawford County","county",55023,"March",2019,7569,7121,448
 "55","WI","Wisconsin","Crawford County","county",55023,"February",2019,7630,7161,469
 "55","WI","Wisconsin","Crawford County","county",55023,"January",2019,7850,7452,398
-"55","WI","Wisconsin","Dane County","county",55025,"May",2020,306037,277626,28411
+"55","WI","Wisconsin","Dane County","county",55025,"June",2020,309173,286603,22570
+"55","WI","Wisconsin","Dane County","county",55025,"May",2020,306192,277303,28889
 "55","WI","Wisconsin","Dane County","county",55025,"April",2020,299526,267983,31543
 "55","WI","Wisconsin","Dane County","county",55025,"March",2020,321488,314587,6901
 "55","WI","Wisconsin","Dane County","county",55025,"February",2020,322376,314298,8078
@@ -237,7 +251,8 @@
 "55","WI","Wisconsin","Dane County","county",55025,"March",2019,319756,311377,8379
 "55","WI","Wisconsin","Dane County","county",55025,"February",2019,320566,312422,8144
 "55","WI","Wisconsin","Dane County","county",55025,"January",2019,314773,306739,8034
-"55","WI","Wisconsin","Dodge County","county",55027,"May",2020,46272,41821,4451
+"55","WI","Wisconsin","Dodge County","county",55027,"June",2020,47442,43960,3482
+"55","WI","Wisconsin","Dodge County","county",55027,"May",2020,46519,42000,4519
 "55","WI","Wisconsin","Dodge County","county",55027,"April",2020,45279,40241,5038
 "55","WI","Wisconsin","Dodge County","county",55027,"March",2020,46946,45486,1460
 "55","WI","Wisconsin","Dodge County","county",55027,"February",2020,46971,45192,1779
@@ -254,7 +269,8 @@
 "55","WI","Wisconsin","Dodge County","county",55027,"March",2019,47052,45366,1686
 "55","WI","Wisconsin","Dodge County","county",55027,"February",2019,47145,45455,1690
 "55","WI","Wisconsin","Dodge County","county",55027,"January",2019,47505,45946,1559
-"55","WI","Wisconsin","Door County","county",55029,"May",2020,13975,12049,1926
+"55","WI","Wisconsin","Door County","county",55029,"June",2020,13983,12781,1202
+"55","WI","Wisconsin","Door County","county",55029,"May",2020,14179,12226,1953
 "55","WI","Wisconsin","Door County","county",55029,"April",2020,14161,11530,2631
 "55","WI","Wisconsin","Door County","county",55029,"March",2020,13811,13131,680
 "55","WI","Wisconsin","Door County","county",55029,"February",2020,13773,12960,813
@@ -271,7 +287,8 @@
 "55","WI","Wisconsin","Door County","county",55029,"March",2019,13967,13149,818
 "55","WI","Wisconsin","Door County","county",55029,"February",2019,13925,13073,852
 "55","WI","Wisconsin","Door County","county",55029,"January",2019,14155,13364,791
-"55","WI","Wisconsin","Douglas County","county",55031,"May",2020,24196,19881,4315
+"55","WI","Wisconsin","Douglas County","county",55031,"June",2020,23633,20792,2841
+"55","WI","Wisconsin","Douglas County","county",55031,"May",2020,24149,19848,4301
 "55","WI","Wisconsin","Douglas County","county",55031,"April",2020,24414,19288,5126
 "55","WI","Wisconsin","Douglas County","county",55031,"March",2020,22875,21690,1185
 "55","WI","Wisconsin","Douglas County","county",55031,"February",2020,23291,21884,1407
@@ -288,7 +305,8 @@
 "55","WI","Wisconsin","Douglas County","county",55031,"March",2019,23196,22035,1161
 "55","WI","Wisconsin","Douglas County","county",55031,"February",2019,23431,22210,1221
 "55","WI","Wisconsin","Douglas County","county",55031,"January",2019,22878,21772,1106
-"55","WI","Wisconsin","Dunn County","county",55033,"May",2020,22757,20415,2342
+"55","WI","Wisconsin","Dunn County","county",55033,"June",2020,23596,21743,1853
+"55","WI","Wisconsin","Dunn County","county",55033,"May",2020,23511,21154,2357
 "55","WI","Wisconsin","Dunn County","county",55033,"April",2020,22168,19704,2464
 "55","WI","Wisconsin","Dunn County","county",55033,"March",2020,24521,23529,992
 "55","WI","Wisconsin","Dunn County","county",55033,"February",2020,24550,23387,1163
@@ -305,7 +323,8 @@
 "55","WI","Wisconsin","Dunn County","county",55033,"March",2019,24833,23792,1041
 "55","WI","Wisconsin","Dunn County","county",55033,"February",2019,24815,23713,1102
 "55","WI","Wisconsin","Dunn County","county",55033,"January",2019,24126,23097,1029
-"55","WI","Wisconsin","Eau Claire County","county",55035,"May",2020,57801,51553,6248
+"55","WI","Wisconsin","Eau Claire County","county",55035,"June",2020,57575,52741,4834
+"55","WI","Wisconsin","Eau Claire County","county",55035,"May",2020,57262,50949,6313
 "55","WI","Wisconsin","Eau Claire County","county",55035,"April",2020,56385,49650,6735
 "55","WI","Wisconsin","Eau Claire County","county",55035,"March",2020,58685,56993,1692
 "55","WI","Wisconsin","Eau Claire County","county",55035,"February",2020,58971,56979,1992
@@ -322,7 +341,8 @@
 "55","WI","Wisconsin","Eau Claire County","county",55035,"March",2019,58938,56992,1946
 "55","WI","Wisconsin","Eau Claire County","county",55035,"February",2019,58936,56978,1958
 "55","WI","Wisconsin","Eau Claire County","county",55035,"January",2019,57995,55996,1999
-"55","WI","Wisconsin","Florence County","county",55037,"May",2020,2333,1997,336
+"55","WI","Wisconsin","Florence County","county",55037,"June",2020,2316,2079,237
+"55","WI","Wisconsin","Florence County","county",55037,"May",2020,2342,2006,336
 "55","WI","Wisconsin","Florence County","county",55037,"April",2020,2248,1862,386
 "55","WI","Wisconsin","Florence County","county",55037,"March",2020,2161,2055,106
 "55","WI","Wisconsin","Florence County","county",55037,"February",2020,2173,2048,125
@@ -339,7 +359,8 @@
 "55","WI","Wisconsin","Florence County","county",55037,"March",2019,2200,2078,122
 "55","WI","Wisconsin","Florence County","county",55037,"February",2019,2239,2105,134
 "55","WI","Wisconsin","Florence County","county",55037,"January",2019,2264,2142,122
-"55","WI","Wisconsin","Fond du Lac County","county",55039,"May",2020,58080,51529,6551
+"55","WI","Wisconsin","Fond du Lac County","county",55039,"June",2020,59131,54221,4910
+"55","WI","Wisconsin","Fond du Lac County","county",55039,"May",2020,58505,51898,6607
 "55","WI","Wisconsin","Fond du Lac County","county",55039,"April",2020,57329,48716,8613
 "55","WI","Wisconsin","Fond du Lac County","county",55039,"March",2020,56591,54900,1691
 "55","WI","Wisconsin","Fond du Lac County","county",55039,"February",2020,57255,55297,1958
@@ -356,7 +377,8 @@
 "55","WI","Wisconsin","Fond du Lac County","county",55039,"March",2019,57225,55362,1863
 "55","WI","Wisconsin","Fond du Lac County","county",55039,"February",2019,57104,55240,1864
 "55","WI","Wisconsin","Fond du Lac County","county",55039,"January",2019,57096,55269,1827
-"55","WI","Wisconsin","Forest County","county",55041,"May",2020,4407,3452,955
+"55","WI","Wisconsin","Forest County","county",55041,"June",2020,4519,3683,836
+"55","WI","Wisconsin","Forest County","county",55041,"May",2020,4478,3505,973
 "55","WI","Wisconsin","Forest County","county",55041,"April",2020,3929,3325,604
 "55","WI","Wisconsin","Forest County","county",55041,"March",2020,3976,3749,227
 "55","WI","Wisconsin","Forest County","county",55041,"February",2020,3958,3710,248
@@ -373,7 +395,8 @@
 "55","WI","Wisconsin","Forest County","county",55041,"March",2019,3950,3701,249
 "55","WI","Wisconsin","Forest County","county",55041,"February",2019,3971,3718,253
 "55","WI","Wisconsin","Forest County","county",55041,"January",2019,4064,3800,264
-"55","WI","Wisconsin","Grant County","county",55043,"May",2020,26852,23829,3023
+"55","WI","Wisconsin","Grant County","county",55043,"June",2020,27776,25824,1952
+"55","WI","Wisconsin","Grant County","county",55043,"May",2020,27954,24898,3056
 "55","WI","Wisconsin","Grant County","county",55043,"April",2020,25899,23024,2875
 "55","WI","Wisconsin","Grant County","county",55043,"March",2020,28129,27161,968
 "55","WI","Wisconsin","Grant County","county",55043,"February",2020,27896,26658,1238
@@ -390,7 +413,8 @@
 "55","WI","Wisconsin","Grant County","county",55043,"March",2019,28140,27067,1073
 "55","WI","Wisconsin","Grant County","county",55043,"February",2019,27980,26850,1130
 "55","WI","Wisconsin","Grant County","county",55043,"January",2019,27768,26742,1026
-"55","WI","Wisconsin","Green County","county",55045,"May",2020,19838,18164,1674
+"55","WI","Wisconsin","Green County","county",55045,"June",2020,20262,18916,1346
+"55","WI","Wisconsin","Green County","county",55045,"May",2020,19828,18135,1693
 "55","WI","Wisconsin","Green County","county",55045,"April",2020,19867,17692,2175
 "55","WI","Wisconsin","Green County","county",55045,"March",2020,21053,20391,662
 "55","WI","Wisconsin","Green County","county",55045,"February",2020,21090,20261,829
@@ -407,7 +431,8 @@
 "55","WI","Wisconsin","Green County","county",55045,"March",2019,20902,20127,775
 "55","WI","Wisconsin","Green County","county",55045,"February",2019,20909,20130,779
 "55","WI","Wisconsin","Green County","county",55045,"January",2019,21042,20296,746
-"55","WI","Wisconsin","Green Lake County","county",55047,"May",2020,9190,7976,1214
+"55","WI","Wisconsin","Green Lake County","county",55047,"June",2020,9413,8663,750
+"55","WI","Wisconsin","Green Lake County","county",55047,"May",2020,9487,8266,1221
 "55","WI","Wisconsin","Green Lake County","county",55047,"April",2020,9425,7652,1773
 "55","WI","Wisconsin","Green Lake County","county",55047,"March",2020,9002,8584,418
 "55","WI","Wisconsin","Green Lake County","county",55047,"February",2020,9038,8503,535
@@ -424,7 +449,8 @@
 "55","WI","Wisconsin","Green Lake County","county",55047,"March",2019,9237,8781,456
 "55","WI","Wisconsin","Green Lake County","county",55047,"February",2019,9301,8787,514
 "55","WI","Wisconsin","Green Lake County","county",55047,"January",2019,9477,9010,467
-"55","WI","Wisconsin","Iowa County","county",55049,"May",2020,13589,11877,1712
+"55","WI","Wisconsin","Iowa County","county",55049,"June",2020,13420,12419,1001
+"55","WI","Wisconsin","Iowa County","county",55049,"May",2020,13591,11853,1738
 "55","WI","Wisconsin","Iowa County","county",55049,"April",2020,13884,11616,2268
 "55","WI","Wisconsin","Iowa County","county",55049,"March",2020,13754,13264,490
 "55","WI","Wisconsin","Iowa County","county",55049,"February",2020,13732,13140,592
@@ -441,7 +467,8 @@
 "55","WI","Wisconsin","Iowa County","county",55049,"March",2019,13602,13066,536
 "55","WI","Wisconsin","Iowa County","county",55049,"February",2019,13594,13046,548
 "55","WI","Wisconsin","Iowa County","county",55049,"January",2019,13847,13342,505
-"55","WI","Wisconsin","Iron County","county",55051,"May",2020,2687,2177,510
+"55","WI","Wisconsin","Iron County","county",55051,"June",2020,2661,2282,379
+"55","WI","Wisconsin","Iron County","county",55051,"May",2020,2703,2188,515
 "55","WI","Wisconsin","Iron County","county",55051,"April",2020,2737,2069,668
 "55","WI","Wisconsin","Iron County","county",55051,"March",2020,2500,2342,158
 "55","WI","Wisconsin","Iron County","county",55051,"February",2020,2527,2338,189
@@ -458,7 +485,8 @@
 "55","WI","Wisconsin","Iron County","county",55051,"March",2019,2533,2340,193
 "55","WI","Wisconsin","Iron County","county",55051,"February",2019,2550,2347,203
 "55","WI","Wisconsin","Iron County","county",55051,"January",2019,2591,2421,170
-"55","WI","Wisconsin","Jackson County","county",55053,"May",2020,10447,8839,1608
+"55","WI","Wisconsin","Jackson County","county",55053,"June",2020,10812,9381,1431
+"55","WI","Wisconsin","Jackson County","county",55053,"May",2020,10521,8903,1618
 "55","WI","Wisconsin","Jackson County","county",55053,"April",2020,10451,8537,1914
 "55","WI","Wisconsin","Jackson County","county",55053,"March",2020,10091,9596,495
 "55","WI","Wisconsin","Jackson County","county",55053,"February",2020,10040,9402,638
@@ -475,7 +503,8 @@
 "55","WI","Wisconsin","Jackson County","county",55053,"March",2019,10118,9587,531
 "55","WI","Wisconsin","Jackson County","county",55053,"February",2019,10131,9565,566
 "55","WI","Wisconsin","Jackson County","county",55053,"January",2019,10426,9902,524
-"55","WI","Wisconsin","Jefferson County","county",55055,"May",2020,44791,40371,4420
+"55","WI","Wisconsin","Jefferson County","county",55055,"June",2020,46365,42993,3372
+"55","WI","Wisconsin","Jefferson County","county",55055,"May",2020,45795,41308,4487
 "55","WI","Wisconsin","Jefferson County","county",55055,"April",2020,44054,38783,5271
 "55","WI","Wisconsin","Jefferson County","county",55055,"March",2020,45650,44161,1489
 "55","WI","Wisconsin","Jefferson County","county",55055,"February",2020,45751,43894,1857
@@ -492,7 +521,8 @@
 "55","WI","Wisconsin","Jefferson County","county",55055,"March",2019,45763,44047,1716
 "55","WI","Wisconsin","Jefferson County","county",55055,"February",2019,45830,44050,1780
 "55","WI","Wisconsin","Jefferson County","county",55055,"January",2019,45702,44032,1670
-"55","WI","Wisconsin","Juneau County","county",55057,"May",2020,13633,11758,1875
+"55","WI","Wisconsin","Juneau County","county",55057,"June",2020,13852,12506,1346
+"55","WI","Wisconsin","Juneau County","county",55057,"May",2020,13862,11948,1914
 "55","WI","Wisconsin","Juneau County","county",55057,"April",2020,13333,11279,2054
 "55","WI","Wisconsin","Juneau County","county",55057,"March",2020,13360,12831,529
 "55","WI","Wisconsin","Juneau County","county",55057,"February",2020,13317,12641,676
@@ -509,7 +539,8 @@
 "55","WI","Wisconsin","Juneau County","county",55057,"March",2019,13282,12720,562
 "55","WI","Wisconsin","Juneau County","county",55057,"February",2019,13234,12646,588
 "55","WI","Wisconsin","Juneau County","county",55057,"January",2019,13339,12793,546
-"55","WI","Wisconsin","Kenosha County","county",55059,"May",2020,90485,78625,11860
+"55","WI","Wisconsin","Kenosha County","county",55059,"June",2020,88718,79908,8810
+"55","WI","Wisconsin","Kenosha County","county",55059,"May",2020,90059,78029,12030
 "55","WI","Wisconsin","Kenosha County","county",55059,"April",2020,89137,75897,13240
 "55","WI","Wisconsin","Kenosha County","county",55059,"March",2020,86918,83500,3418
 "55","WI","Wisconsin","Kenosha County","county",55059,"February",2020,88212,84052,4160
@@ -526,7 +557,8 @@
 "55","WI","Wisconsin","Kenosha County","county",55059,"March",2019,89209,85294,3915
 "55","WI","Wisconsin","Kenosha County","county",55059,"February",2019,89336,85419,3917
 "55","WI","Wisconsin","Kenosha County","county",55059,"January",2019,88029,84379,3650
-"55","WI","Wisconsin","Kewaunee County","county",55061,"May",2020,10768,9786,982
+"55","WI","Wisconsin","Kewaunee County","county",55061,"June",2020,10928,10207,721
+"55","WI","Wisconsin","Kewaunee County","county",55061,"May",2020,10710,9728,982
 "55","WI","Wisconsin","Kewaunee County","county",55061,"April",2020,10477,9504,973
 "55","WI","Wisconsin","Kewaunee County","county",55061,"March",2020,10883,10529,354
 "55","WI","Wisconsin","Kewaunee County","county",55061,"February",2020,10900,10491,409
@@ -543,7 +575,8 @@
 "55","WI","Wisconsin","Kewaunee County","county",55061,"March",2019,10930,10513,417
 "55","WI","Wisconsin","Kewaunee County","county",55061,"February",2019,10934,10475,459
 "55","WI","Wisconsin","Kewaunee County","county",55061,"January",2019,11288,10820,468
-"55","WI","Wisconsin","La Crosse County","county",55063,"May",2020,64354,57281,7073
+"55","WI","Wisconsin","La Crosse County","county",55063,"June",2020,65304,60220,5084
+"55","WI","Wisconsin","La Crosse County","county",55063,"May",2020,65059,57860,7199
 "55","WI","Wisconsin","La Crosse County","county",55063,"April",2020,63860,56032,7828
 "55","WI","Wisconsin","La Crosse County","county",55063,"March",2020,65856,64101,1755
 "55","WI","Wisconsin","La Crosse County","county",55063,"February",2020,66656,64483,2173
@@ -560,7 +593,8 @@
 "55","WI","Wisconsin","La Crosse County","county",55063,"March",2019,66846,64648,2198
 "55","WI","Wisconsin","La Crosse County","county",55063,"February",2019,67186,64979,2207
 "55","WI","Wisconsin","La Crosse County","county",55063,"January",2019,65574,63398,2176
-"55","WI","Wisconsin","Lafayette County","county",55065,"May",2020,9728,8915,813
+"55","WI","Wisconsin","Lafayette County","county",55065,"June",2020,10119,9540,579
+"55","WI","Wisconsin","Lafayette County","county",55065,"May",2020,9849,9028,821
 "55","WI","Wisconsin","Lafayette County","county",55065,"April",2020,9588,8724,864
 "55","WI","Wisconsin","Lafayette County","county",55065,"March",2020,10082,9781,301
 "55","WI","Wisconsin","Lafayette County","county",55065,"February",2020,9979,9615,364
@@ -577,7 +611,8 @@
 "55","WI","Wisconsin","Lafayette County","county",55065,"March",2019,9940,9609,331
 "55","WI","Wisconsin","Lafayette County","county",55065,"February",2019,9889,9534,355
 "55","WI","Wisconsin","Lafayette County","county",55065,"January",2019,10311,9974,337
-"55","WI","Wisconsin","Langlade County","county",55067,"May",2020,9007,8071,936
+"55","WI","Wisconsin","Langlade County","county",55067,"June",2020,9425,8666,759
+"55","WI","Wisconsin","Langlade County","county",55067,"May",2020,9189,8246,943
 "55","WI","Wisconsin","Langlade County","county",55067,"April",2020,8952,7785,1167
 "55","WI","Wisconsin","Langlade County","county",55067,"March",2020,9201,8770,431
 "55","WI","Wisconsin","Langlade County","county",55067,"February",2020,9209,8694,515
@@ -594,7 +629,8 @@
 "55","WI","Wisconsin","Langlade County","county",55067,"March",2019,9337,8858,479
 "55","WI","Wisconsin","Langlade County","county",55067,"February",2019,9383,8876,507
 "55","WI","Wisconsin","Langlade County","county",55067,"January",2019,9515,9040,475
-"55","WI","Wisconsin","Lincoln County","county",55069,"May",2020,14659,13212,1447
+"55","WI","Wisconsin","Lincoln County","county",55069,"June",2020,14940,13890,1050
+"55","WI","Wisconsin","Lincoln County","county",55069,"May",2020,14798,13337,1461
 "55","WI","Wisconsin","Lincoln County","county",55069,"April",2020,14482,12585,1897
 "55","WI","Wisconsin","Lincoln County","county",55069,"March",2020,15022,14369,653
 "55","WI","Wisconsin","Lincoln County","county",55069,"February",2020,15088,14277,811
@@ -611,7 +647,8 @@
 "55","WI","Wisconsin","Lincoln County","county",55069,"March",2019,15022,14334,688
 "55","WI","Wisconsin","Lincoln County","county",55069,"February",2019,15124,14432,692
 "55","WI","Wisconsin","Lincoln County","county",55069,"January",2019,15217,14580,637
-"55","WI","Wisconsin","Manitowoc County","county",55071,"May",2020,40679,35914,4765
+"55","WI","Wisconsin","Manitowoc County","county",55071,"June",2020,41709,38306,3403
+"55","WI","Wisconsin","Manitowoc County","county",55071,"May",2020,41487,36655,4832
 "55","WI","Wisconsin","Manitowoc County","county",55071,"April",2020,40462,34416,6046
 "55","WI","Wisconsin","Manitowoc County","county",55071,"March",2020,40686,39236,1450
 "55","WI","Wisconsin","Manitowoc County","county",55071,"February",2020,40567,38782,1785
@@ -628,7 +665,8 @@
 "55","WI","Wisconsin","Manitowoc County","county",55071,"March",2019,40996,39383,1613
 "55","WI","Wisconsin","Manitowoc County","county",55071,"February",2019,40925,39312,1613
 "55","WI","Wisconsin","Manitowoc County","county",55071,"January",2019,41130,39536,1594
-"55","WI","Wisconsin","Marathon County","county",55073,"May",2020,73341,66682,6659
+"55","WI","Wisconsin","Marathon County","county",55073,"June",2020,73441,68398,5043
+"55","WI","Wisconsin","Marathon County","county",55073,"May",2020,72918,66177,6741
 "55","WI","Wisconsin","Marathon County","county",55073,"April",2020,70998,62867,8131
 "55","WI","Wisconsin","Marathon County","county",55073,"March",2020,73692,71668,2024
 "55","WI","Wisconsin","Marathon County","county",55073,"February",2020,73830,71417,2413
@@ -645,7 +683,8 @@
 "55","WI","Wisconsin","Marathon County","county",55073,"March",2019,73431,71007,2424
 "55","WI","Wisconsin","Marathon County","county",55073,"February",2019,73263,70875,2388
 "55","WI","Wisconsin","Marathon County","county",55073,"January",2019,73659,71378,2281
-"55","WI","Wisconsin","Marinette County","county",55075,"May",2020,19628,16679,2949
+"55","WI","Wisconsin","Marinette County","county",55075,"June",2020,19679,17650,2029
+"55","WI","Wisconsin","Marinette County","county",55075,"May",2020,19862,16900,2962
 "55","WI","Wisconsin","Marinette County","county",55075,"April",2020,19436,15963,3473
 "55","WI","Wisconsin","Marinette County","county",55075,"March",2020,19212,18240,972
 "55","WI","Wisconsin","Marinette County","county",55075,"February",2020,19187,18074,1113
@@ -662,7 +701,8 @@
 "55","WI","Wisconsin","Marinette County","county",55075,"March",2019,19403,18406,997
 "55","WI","Wisconsin","Marinette County","county",55075,"February",2019,19391,18376,1015
 "55","WI","Wisconsin","Marinette County","county",55075,"January",2019,19474,18471,1003
-"55","WI","Wisconsin","Marquette County","county",55077,"May",2020,7593,6664,929
+"55","WI","Wisconsin","Marquette County","county",55077,"June",2020,7703,7060,643
+"55","WI","Wisconsin","Marquette County","county",55077,"May",2020,7706,6755,951
 "55","WI","Wisconsin","Marquette County","county",55077,"April",2020,7568,6436,1132
 "55","WI","Wisconsin","Marquette County","county",55077,"March",2020,7710,7355,355
 "55","WI","Wisconsin","Marquette County","county",55077,"February",2020,7793,7292,501
@@ -679,7 +719,8 @@
 "55","WI","Wisconsin","Marquette County","county",55077,"March",2019,7636,7202,434
 "55","WI","Wisconsin","Marquette County","county",55077,"February",2019,7652,7191,461
 "55","WI","Wisconsin","Marquette County","county",55077,"January",2019,7680,7278,402
-"55","WI","Wisconsin","Menominee County","county",55078,"May",2020,1968,1354,614
+"55","WI","Wisconsin","Menominee County","county",55078,"June",2020,1811,1448,363
+"55","WI","Wisconsin","Menominee County","county",55078,"May",2020,1995,1373,622
 "55","WI","Wisconsin","Menominee County","county",55078,"April",2020,1738,1313,425
 "55","WI","Wisconsin","Menominee County","county",55078,"March",2020,1560,1467,93
 "55","WI","Wisconsin","Menominee County","county",55078,"February",2020,1554,1453,101
@@ -696,7 +737,8 @@
 "55","WI","Wisconsin","Menominee County","county",55078,"March",2019,1579,1476,103
 "55","WI","Wisconsin","Menominee County","county",55078,"February",2019,1560,1473,87
 "55","WI","Wisconsin","Menominee County","county",55078,"January",2019,1618,1524,94
-"55","WI","Wisconsin","Milwaukee County","county",55079,"May",2020,479533,411936,67597
+"55","WI","Wisconsin","Milwaukee County","county",55079,"June",2020,477594,422557,55037
+"55","WI","Wisconsin","Milwaukee County","county",55079,"May",2020,476959,407954,69005
 "55","WI","Wisconsin","Milwaukee County","county",55079,"April",2020,464262,395528,68734
 "55","WI","Wisconsin","Milwaukee County","county",55079,"March",2020,462615,445666,16949
 "55","WI","Wisconsin","Milwaukee County","county",55079,"February",2020,468820,448726,20094
@@ -713,7 +755,8 @@
 "55","WI","Wisconsin","Milwaukee County","county",55079,"March",2019,467459,448249,19210
 "55","WI","Wisconsin","Milwaukee County","county",55079,"February",2019,468628,449594,19034
 "55","WI","Wisconsin","Milwaukee County","county",55079,"January",2019,461607,443152,18455
-"55","WI","Wisconsin","Monroe County","county",55081,"May",2020,22779,20595,2184
+"55","WI","Wisconsin","Monroe County","county",55081,"June",2020,23611,21862,1749
+"55","WI","Wisconsin","Monroe County","county",55081,"May",2020,23069,20846,2223
 "55","WI","Wisconsin","Monroe County","county",55081,"April",2020,22580,19844,2736
 "55","WI","Wisconsin","Monroe County","county",55081,"March",2020,23176,22479,697
 "55","WI","Wisconsin","Monroe County","county",55081,"February",2020,23071,22184,887
@@ -730,7 +773,8 @@
 "55","WI","Wisconsin","Monroe County","county",55081,"March",2019,23194,22330,864
 "55","WI","Wisconsin","Monroe County","county",55081,"February",2019,23213,22300,913
 "55","WI","Wisconsin","Monroe County","county",55081,"January",2019,23555,22660,895
-"55","WI","Wisconsin","Oconto County","county",55083,"May",2020,20339,18130,2209
+"55","WI","Wisconsin","Oconto County","county",55083,"June",2020,20467,18773,1694
+"55","WI","Wisconsin","Oconto County","county",55083,"May",2020,20253,18023,2230
 "55","WI","Wisconsin","Oconto County","county",55083,"April",2020,20397,17467,2930
 "55","WI","Wisconsin","Oconto County","county",55083,"March",2020,20494,19590,904
 "55","WI","Wisconsin","Oconto County","county",55083,"February",2020,20723,19602,1121
@@ -747,7 +791,8 @@
 "55","WI","Wisconsin","Oconto County","county",55083,"March",2019,20529,19593,936
 "55","WI","Wisconsin","Oconto County","county",55083,"February",2019,20539,19571,968
 "55","WI","Wisconsin","Oconto County","county",55083,"January",2019,20762,19840,922
-"55","WI","Wisconsin","Oneida County","county",55085,"May",2020,17034,14756,2278
+"55","WI","Wisconsin","Oneida County","county",55085,"June",2020,17103,15614,1489
+"55","WI","Wisconsin","Oneida County","county",55085,"May",2020,17277,14961,2316
 "55","WI","Wisconsin","Oneida County","county",55085,"April",2020,17302,14093,3209
 "55","WI","Wisconsin","Oneida County","county",55085,"March",2020,17047,16129,918
 "55","WI","Wisconsin","Oneida County","county",55085,"February",2020,17146,16037,1109
@@ -764,7 +809,8 @@
 "55","WI","Wisconsin","Oneida County","county",55085,"March",2019,17550,16572,978
 "55","WI","Wisconsin","Oneida County","county",55085,"February",2019,17660,16645,1015
 "55","WI","Wisconsin","Oneida County","county",55085,"January",2019,17614,16685,929
-"55","WI","Wisconsin","Outagamie County","county",55087,"May",2020,101787,90699,11088
+"55","WI","Wisconsin","Outagamie County","county",55087,"June",2020,101727,93866,7861
+"55","WI","Wisconsin","Outagamie County","county",55087,"May",2020,101498,90252,11246
 "55","WI","Wisconsin","Outagamie County","county",55087,"April",2020,100381,87023,13358
 "55","WI","Wisconsin","Outagamie County","county",55087,"March",2020,101547,98710,2837
 "55","WI","Wisconsin","Outagamie County","county",55087,"February",2020,102506,99091,3415
@@ -781,7 +827,8 @@
 "55","WI","Wisconsin","Outagamie County","county",55087,"March",2019,103026,99575,3451
 "55","WI","Wisconsin","Outagamie County","county",55087,"February",2019,103381,99908,3473
 "55","WI","Wisconsin","Outagamie County","county",55087,"January",2019,102654,99254,3400
-"55","WI","Wisconsin","Ozaukee County","county",55089,"May",2020,48703,43758,4945
+"55","WI","Wisconsin","Ozaukee County","county",55089,"June",2020,48805,44970,3835
+"55","WI","Wisconsin","Ozaukee County","county",55089,"May",2020,48384,43339,5045
 "55","WI","Wisconsin","Ozaukee County","county",55089,"April",2020,47674,42073,5601
 "55","WI","Wisconsin","Ozaukee County","county",55089,"March",2020,48449,47255,1194
 "55","WI","Wisconsin","Ozaukee County","county",55089,"February",2020,48862,47465,1397
@@ -798,7 +845,8 @@
 "55","WI","Wisconsin","Ozaukee County","county",55089,"March",2019,48871,47377,1494
 "55","WI","Wisconsin","Ozaukee County","county",55089,"February",2019,48936,47479,1457
 "55","WI","Wisconsin","Ozaukee County","county",55089,"January",2019,48601,47218,1383
-"55","WI","Wisconsin","Pepin County","county",55091,"May",2020,4021,3569,452
+"55","WI","Wisconsin","Pepin County","county",55091,"June",2020,4147,3809,338
+"55","WI","Wisconsin","Pepin County","county",55091,"May",2020,4055,3607,448
 "55","WI","Wisconsin","Pepin County","county",55091,"April",2020,4034,3477,557
 "55","WI","Wisconsin","Pepin County","county",55091,"March",2020,4032,3860,172
 "55","WI","Wisconsin","Pepin County","county",55091,"February",2020,4009,3782,227
@@ -815,7 +863,8 @@
 "55","WI","Wisconsin","Pepin County","county",55091,"March",2019,4051,3855,196
 "55","WI","Wisconsin","Pepin County","county",55091,"February",2019,4048,3820,228
 "55","WI","Wisconsin","Pepin County","county",55091,"January",2019,4188,3974,214
-"55","WI","Wisconsin","Pierce County","county",55093,"May",2020,25769,22228,3541
+"55","WI","Wisconsin","Pierce County","county",55093,"June",2020,25696,23090,2606
+"55","WI","Wisconsin","Pierce County","county",55093,"May",2020,25692,22161,3531
 "55","WI","Wisconsin","Pierce County","county",55093,"April",2020,25684,21669,4015
 "55","WI","Wisconsin","Pierce County","county",55093,"March",2020,25073,24053,1020
 "55","WI","Wisconsin","Pierce County","county",55093,"February",2020,25402,24134,1268
@@ -832,7 +881,8 @@
 "55","WI","Wisconsin","Pierce County","county",55093,"March",2019,25229,24152,1077
 "55","WI","Wisconsin","Pierce County","county",55093,"February",2019,25455,24284,1171
 "55","WI","Wisconsin","Pierce County","county",55093,"January",2019,25549,24446,1103
-"55","WI","Wisconsin","Polk County","county",55095,"May",2020,24238,21233,3005
+"55","WI","Wisconsin","Polk County","county",55095,"June",2020,24442,22330,2112
+"55","WI","Wisconsin","Polk County","county",55095,"May",2020,24402,21386,3016
 "55","WI","Wisconsin","Polk County","county",55095,"April",2020,24392,20451,3941
 "55","WI","Wisconsin","Polk County","county",55095,"March",2020,24460,23094,1366
 "55","WI","Wisconsin","Polk County","county",55095,"February",2020,24604,22936,1668
@@ -849,7 +899,8 @@
 "55","WI","Wisconsin","Polk County","county",55095,"March",2019,24540,23158,1382
 "55","WI","Wisconsin","Polk County","county",55095,"February",2019,24691,23172,1519
 "55","WI","Wisconsin","Polk County","county",55095,"January",2019,24880,23392,1488
-"55","WI","Wisconsin","Portage County","county",55097,"May",2020,36704,33005,3699
+"55","WI","Wisconsin","Portage County","county",55097,"June",2020,38868,35966,2902
+"55","WI","Wisconsin","Portage County","county",55097,"May",2020,38509,34762,3747
 "55","WI","Wisconsin","Portage County","county",55097,"April",2020,35604,31699,3905
 "55","WI","Wisconsin","Portage County","county",55097,"March",2020,38678,37363,1315
 "55","WI","Wisconsin","Portage County","county",55097,"February",2020,38493,36974,1519
@@ -866,7 +917,8 @@
 "55","WI","Wisconsin","Portage County","county",55097,"March",2019,39011,37472,1539
 "55","WI","Wisconsin","Portage County","county",55097,"February",2019,39021,37494,1527
 "55","WI","Wisconsin","Portage County","county",55097,"January",2019,38179,36733,1446
-"55","WI","Wisconsin","Price County","county",55099,"May",2020,6321,5576,745
+"55","WI","Wisconsin","Price County","county",55099,"June",2020,6488,5936,552
+"55","WI","Wisconsin","Price County","county",55099,"May",2020,6406,5649,757
 "55","WI","Wisconsin","Price County","county",55099,"April",2020,6379,5371,1008
 "55","WI","Wisconsin","Price County","county",55099,"March",2020,6347,6054,293
 "55","WI","Wisconsin","Price County","county",55099,"February",2020,6347,5953,394
@@ -883,7 +935,8 @@
 "55","WI","Wisconsin","Price County","county",55099,"March",2019,6409,6091,318
 "55","WI","Wisconsin","Price County","county",55099,"February",2019,6327,6022,305
 "55","WI","Wisconsin","Price County","county",55099,"January",2019,6520,6226,294
-"55","WI","Wisconsin","Racine County","county",55101,"May",2020,101551,89093,12458
+"55","WI","Wisconsin","Racine County","county",55101,"June",2020,102018,92485,9533
+"55","WI","Wisconsin","Racine County","county",55101,"May",2020,101807,89160,12647
 "55","WI","Wisconsin","Racine County","county",55101,"April",2020,99971,85699,14272
 "55","WI","Wisconsin","Racine County","county",55101,"March",2020,96984,92966,4018
 "55","WI","Wisconsin","Racine County","county",55101,"February",2020,98104,93236,4868
@@ -900,7 +953,8 @@
 "55","WI","Wisconsin","Racine County","county",55101,"March",2019,98748,94253,4495
 "55","WI","Wisconsin","Racine County","county",55101,"February",2019,99147,94630,4517
 "55","WI","Wisconsin","Racine County","county",55101,"January",2019,98045,93829,4216
-"55","WI","Wisconsin","Richland County","county",55103,"May",2020,8870,8053,817
+"55","WI","Wisconsin","Richland County","county",55103,"June",2020,9248,8662,586
+"55","WI","Wisconsin","Richland County","county",55103,"May",2020,9071,8236,835
 "55","WI","Wisconsin","Richland County","county",55103,"April",2020,8851,7793,1058
 "55","WI","Wisconsin","Richland County","county",55103,"March",2020,9080,8765,315
 "55","WI","Wisconsin","Richland County","county",55103,"February",2020,9006,8626,380
@@ -917,7 +971,8 @@
 "55","WI","Wisconsin","Richland County","county",55103,"March",2019,9168,8791,377
 "55","WI","Wisconsin","Richland County","county",55103,"February",2019,9089,8734,355
 "55","WI","Wisconsin","Richland County","county",55103,"January",2019,9415,9069,346
-"55","WI","Wisconsin","Rock County","county",55105,"May",2020,84386,72884,11502
+"55","WI","Wisconsin","Rock County","county",55105,"June",2020,84589,76372,8217
+"55","WI","Wisconsin","Rock County","county",55105,"May",2020,84030,72397,11633
 "55","WI","Wisconsin","Rock County","county",55105,"April",2020,85026,71565,13461
 "55","WI","Wisconsin","Rock County","county",55105,"March",2020,84583,81348,3235
 "55","WI","Wisconsin","Rock County","county",55105,"February",2020,85480,81528,3952
@@ -934,7 +989,8 @@
 "55","WI","Wisconsin","Rock County","county",55105,"March",2019,85227,81703,3524
 "55","WI","Wisconsin","Rock County","county",55105,"February",2019,84948,81459,3489
 "55","WI","Wisconsin","Rock County","county",55105,"January",2019,84426,81176,3250
-"55","WI","Wisconsin","Rusk County","county",55107,"May",2020,6440,5767,673
+"55","WI","Wisconsin","Rusk County","county",55107,"June",2020,6721,6172,549
+"55","WI","Wisconsin","Rusk County","county",55107,"May",2020,6543,5862,681
 "55","WI","Wisconsin","Rusk County","county",55107,"April",2020,6488,5568,920
 "55","WI","Wisconsin","Rusk County","county",55107,"March",2020,6597,6255,342
 "55","WI","Wisconsin","Rusk County","county",55107,"February",2020,6793,6320,473
@@ -951,7 +1007,8 @@
 "55","WI","Wisconsin","Rusk County","county",55107,"March",2019,6687,6239,448
 "55","WI","Wisconsin","Rusk County","county",55107,"February",2019,6848,6399,449
 "55","WI","Wisconsin","Rusk County","county",55107,"January",2019,7060,6641,419
-"55","WI","Wisconsin","St. Croix County","county",55109,"May",2020,51280,44187,7093
+"55","WI","Wisconsin","St. Croix County","county",55109,"June",2020,50710,45764,4946
+"55","WI","Wisconsin","St. Croix County","county",55109,"May",2020,51155,44058,7097
 "55","WI","Wisconsin","St. Croix County","county",55109,"April",2020,51173,42945,8228
 "55","WI","Wisconsin","St. Croix County","county",55109,"March",2020,49911,47907,2004
 "55","WI","Wisconsin","St. Croix County","county",55109,"February",2020,50592,48161,2431
@@ -968,7 +1025,8 @@
 "55","WI","Wisconsin","St. Croix County","county",55109,"March",2019,50203,48148,2055
 "55","WI","Wisconsin","St. Croix County","county",55109,"February",2019,50678,48469,2209
 "55","WI","Wisconsin","St. Croix County","county",55109,"January",2019,50508,48392,2116
-"55","WI","Wisconsin","Sauk County","county",55111,"May",2020,36440,30785,5655
+"55","WI","Wisconsin","Sauk County","county",55111,"June",2020,36155,32451,3704
+"55","WI","Wisconsin","Sauk County","county",55111,"May",2020,36797,31050,5747
 "55","WI","Wisconsin","Sauk County","county",55111,"April",2020,36622,29603,7019
 "55","WI","Wisconsin","Sauk County","county",55111,"March",2020,34994,33859,1135
 "55","WI","Wisconsin","Sauk County","county",55111,"February",2020,34779,33411,1368
@@ -985,7 +1043,8 @@
 "55","WI","Wisconsin","Sauk County","county",55111,"March",2019,34909,33681,1228
 "55","WI","Wisconsin","Sauk County","county",55111,"February",2019,34775,33536,1239
 "55","WI","Wisconsin","Sauk County","county",55111,"January",2019,35273,34084,1189
-"55","WI","Wisconsin","Sawyer County","county",55113,"May",2020,7516,6589,927
+"55","WI","Wisconsin","Sawyer County","county",55113,"June",2020,7626,6970,656
+"55","WI","Wisconsin","Sawyer County","county",55113,"May",2020,7591,6653,938
 "55","WI","Wisconsin","Sawyer County","county",55113,"April",2020,7842,6320,1522
 "55","WI","Wisconsin","Sawyer County","county",55113,"March",2020,7603,7169,434
 "55","WI","Wisconsin","Sawyer County","county",55113,"February",2020,7696,7130,566
@@ -1002,7 +1061,8 @@
 "55","WI","Wisconsin","Sawyer County","county",55113,"March",2019,7599,7117,482
 "55","WI","Wisconsin","Sawyer County","county",55113,"February",2019,7667,7160,507
 "55","WI","Wisconsin","Sawyer County","county",55113,"January",2019,7734,7296,438
-"55","WI","Wisconsin","Shawano County","county",55115,"May",2020,21294,18370,2924
+"55","WI","Wisconsin","Shawano County","county",55115,"June",2020,21380,19598,1782
+"55","WI","Wisconsin","Shawano County","county",55115,"May",2020,21570,18624,2946
 "55","WI","Wisconsin","Shawano County","county",55115,"April",2020,20629,17773,2856
 "55","WI","Wisconsin","Shawano County","county",55115,"March",2020,20642,19896,746
 "55","WI","Wisconsin","Shawano County","county",55115,"February",2020,20618,19684,934
@@ -1019,7 +1079,8 @@
 "55","WI","Wisconsin","Shawano County","county",55115,"March",2019,20740,19935,805
 "55","WI","Wisconsin","Shawano County","county",55115,"February",2019,20764,19910,854
 "55","WI","Wisconsin","Shawano County","county",55115,"January",2019,21466,20625,841
-"55","WI","Wisconsin","Sheboygan County","county",55117,"May",2020,62772,54899,7873
+"55","WI","Wisconsin","Sheboygan County","county",55117,"June",2020,63297,58269,5028
+"55","WI","Wisconsin","Sheboygan County","county",55117,"May",2020,62640,54707,7933
 "55","WI","Wisconsin","Sheboygan County","county",55117,"April",2020,61425,52880,8545
 "55","WI","Wisconsin","Sheboygan County","county",55117,"March",2020,60703,59011,1692
 "55","WI","Wisconsin","Sheboygan County","county",55117,"February",2020,61246,59298,1948
@@ -1036,7 +1097,8 @@
 "55","WI","Wisconsin","Sheboygan County","county",55117,"March",2019,61845,59994,1851
 "55","WI","Wisconsin","Sheboygan County","county",55117,"February",2019,61720,59928,1792
 "55","WI","Wisconsin","Sheboygan County","county",55117,"January",2019,61728,59996,1732
-"55","WI","Wisconsin","Taylor County","county",55119,"May",2020,10304,9579,725
+"55","WI","Wisconsin","Taylor County","county",55119,"June",2020,10954,10276,678
+"55","WI","Wisconsin","Taylor County","county",55119,"May",2020,10461,9736,725
 "55","WI","Wisconsin","Taylor County","county",55119,"April",2020,10309,9282,1027
 "55","WI","Wisconsin","Taylor County","county",55119,"March",2020,10881,10369,512
 "55","WI","Wisconsin","Taylor County","county",55119,"February",2020,10906,10218,688
@@ -1053,7 +1115,8 @@
 "55","WI","Wisconsin","Taylor County","county",55119,"March",2019,10856,10294,562
 "55","WI","Wisconsin","Taylor County","county",55119,"February",2019,10954,10351,603
 "55","WI","Wisconsin","Taylor County","county",55119,"January",2019,11324,10737,587
-"55","WI","Wisconsin","Trempealeau County","county",55121,"May",2020,15754,13860,1894
+"55","WI","Wisconsin","Trempealeau County","county",55121,"June",2020,16194,14778,1416
+"55","WI","Wisconsin","Trempealeau County","county",55121,"May",2020,15952,14040,1912
 "55","WI","Wisconsin","Trempealeau County","county",55121,"April",2020,16283,13425,2858
 "55","WI","Wisconsin","Trempealeau County","county",55121,"March",2020,15774,15094,680
 "55","WI","Wisconsin","Trempealeau County","county",55121,"February",2020,15736,14941,795
@@ -1070,7 +1133,8 @@
 "55","WI","Wisconsin","Trempealeau County","county",55121,"March",2019,15963,15166,797
 "55","WI","Wisconsin","Trempealeau County","county",55121,"February",2019,15908,15121,787
 "55","WI","Wisconsin","Trempealeau County","county",55121,"January",2019,16307,15545,762
-"55","WI","Wisconsin","Vernon County","county",55123,"May",2020,14670,13373,1297
+"55","WI","Wisconsin","Vernon County","county",55123,"June",2020,15413,14379,1034
+"55","WI","Wisconsin","Vernon County","county",55123,"May",2020,14935,13631,1304
 "55","WI","Wisconsin","Vernon County","county",55123,"April",2020,14628,13028,1600
 "55","WI","Wisconsin","Vernon County","county",55123,"March",2020,15128,14540,588
 "55","WI","Wisconsin","Vernon County","county",55123,"February",2020,15031,14309,722
@@ -1087,7 +1151,8 @@
 "55","WI","Wisconsin","Vernon County","county",55123,"March",2019,15201,14539,662
 "55","WI","Wisconsin","Vernon County","county",55123,"February",2019,15092,14392,700
 "55","WI","Wisconsin","Vernon County","county",55123,"January",2019,15609,14961,648
-"55","WI","Wisconsin","Vilas County","county",55125,"May",2020,9511,8273,1238
+"55","WI","Wisconsin","Vilas County","county",55125,"June",2020,9596,8730,866
+"55","WI","Wisconsin","Vilas County","county",55125,"May",2020,9612,8369,1243
 "55","WI","Wisconsin","Vilas County","county",55125,"April",2020,9857,7892,1965
 "55","WI","Wisconsin","Vilas County","county",55125,"March",2020,9526,9002,524
 "55","WI","Wisconsin","Vilas County","county",55125,"February",2020,9584,8990,594
@@ -1104,7 +1169,8 @@
 "55","WI","Wisconsin","Vilas County","county",55125,"March",2019,9518,8957,561
 "55","WI","Wisconsin","Vilas County","county",55125,"February",2019,9569,9021,548
 "55","WI","Wisconsin","Vilas County","county",55125,"January",2019,9708,9178,530
-"55","WI","Wisconsin","Walworth County","county",55127,"May",2020,55682,49156,6526
+"55","WI","Wisconsin","Walworth County","county",55127,"June",2020,57198,52451,4747
+"55","WI","Wisconsin","Walworth County","county",55127,"May",2020,57283,50726,6557
 "55","WI","Wisconsin","Walworth County","county",55127,"April",2020,54739,47066,7673
 "55","WI","Wisconsin","Walworth County","county",55127,"March",2020,57080,55199,1881
 "55","WI","Wisconsin","Walworth County","county",55127,"February",2020,57230,54855,2375
@@ -1121,7 +1187,8 @@
 "55","WI","Wisconsin","Walworth County","county",55127,"March",2019,57469,55282,2187
 "55","WI","Wisconsin","Walworth County","county",55127,"February",2019,57568,55297,2271
 "55","WI","Wisconsin","Walworth County","county",55127,"January",2019,56839,54737,2102
-"55","WI","Wisconsin","Washburn County","county",55129,"May",2020,7621,6728,893
+"55","WI","Wisconsin","Washburn County","county",55129,"June",2020,7877,7249,628
+"55","WI","Wisconsin","Washburn County","county",55129,"May",2020,7824,6925,899
 "55","WI","Wisconsin","Washburn County","county",55129,"April",2020,7828,6461,1367
 "55","WI","Wisconsin","Washburn County","county",55129,"March",2020,7717,7309,408
 "55","WI","Wisconsin","Washburn County","county",55129,"February",2020,7653,7206,447
@@ -1138,7 +1205,8 @@
 "55","WI","Wisconsin","Washburn County","county",55129,"March",2019,7620,7222,398
 "55","WI","Wisconsin","Washburn County","county",55129,"February",2019,7640,7184,456
 "55","WI","Wisconsin","Washburn County","county",55129,"January",2019,7756,7343,413
-"55","WI","Wisconsin","Washington County","county",55131,"May",2020,77201,68894,8307
+"55","WI","Wisconsin","Washington County","county",55131,"June",2020,76936,70803,6133
+"55","WI","Wisconsin","Washington County","county",55131,"May",2020,76659,68232,8427
 "55","WI","Wisconsin","Washington County","county",55131,"April",2020,75793,66275,9518
 "55","WI","Wisconsin","Washington County","county",55131,"March",2020,76567,74452,2115
 "55","WI","Wisconsin","Washington County","county",55131,"February",2020,77412,74870,2542
@@ -1155,7 +1223,8 @@
 "55","WI","Wisconsin","Washington County","county",55131,"March",2019,77255,74821,2434
 "55","WI","Wisconsin","Washington County","county",55131,"February",2019,77453,74999,2454
 "55","WI","Wisconsin","Washington County","county",55131,"January",2019,76672,74321,2351
-"55","WI","Wisconsin","Waukesha County","county",55133,"May",2020,224006,200453,23553
+"55","WI","Wisconsin","Waukesha County","county",55133,"June",2020,223411,205631,17780
+"55","WI","Wisconsin","Waukesha County","county",55133,"May",2020,222369,198518,23851
 "55","WI","Wisconsin","Waukesha County","county",55133,"April",2020,218068,192449,25619
 "55","WI","Wisconsin","Waukesha County","county",55133,"March",2020,222810,216817,5993
 "55","WI","Wisconsin","Waukesha County","county",55133,"February",2020,225357,218223,7134
@@ -1172,7 +1241,8 @@
 "55","WI","Wisconsin","Waukesha County","county",55133,"March",2019,224990,217914,7076
 "55","WI","Wisconsin","Waukesha County","county",55133,"February",2019,225502,218552,6950
 "55","WI","Wisconsin","Waukesha County","county",55133,"January",2019,222406,215678,6728
-"55","WI","Wisconsin","Waupaca County","county",55135,"May",2020,25318,22672,2646
+"55","WI","Wisconsin","Waupaca County","county",55135,"June",2020,25869,24025,1844
+"55","WI","Wisconsin","Waupaca County","county",55135,"May",2020,25580,22916,2664
 "55","WI","Wisconsin","Waupaca County","county",55135,"April",2020,24931,21824,3107
 "55","WI","Wisconsin","Waupaca County","county",55135,"March",2020,25574,24700,874
 "55","WI","Wisconsin","Waupaca County","county",55135,"February",2020,25477,24475,1002
@@ -1189,7 +1259,8 @@
 "55","WI","Wisconsin","Waupaca County","county",55135,"March",2019,25944,24952,992
 "55","WI","Wisconsin","Waupaca County","county",55135,"February",2019,25832,24856,976
 "55","WI","Wisconsin","Waupaca County","county",55135,"January",2019,26162,25184,978
-"55","WI","Wisconsin","Waushara County","county",55137,"May",2020,11110,9908,1202
+"55","WI","Wisconsin","Waushara County","county",55137,"June",2020,11606,10731,875
+"55","WI","Wisconsin","Waushara County","county",55137,"May",2020,11461,10234,1227
 "55","WI","Wisconsin","Waushara County","county",55137,"April",2020,11165,9563,1602
 "55","WI","Wisconsin","Waushara County","county",55137,"March",2020,11233,10714,519
 "55","WI","Wisconsin","Waushara County","county",55137,"February",2020,11213,10583,630
@@ -1206,7 +1277,8 @@
 "55","WI","Wisconsin","Waushara County","county",55137,"March",2019,11534,10935,599
 "55","WI","Wisconsin","Waushara County","county",55137,"February",2019,11524,10881,643
 "55","WI","Wisconsin","Waushara County","county",55137,"January",2019,11816,11230,586
-"55","WI","Wisconsin","Winnebago County","county",55139,"May",2020,91007,81331,9676
+"55","WI","Wisconsin","Winnebago County","county",55139,"June",2020,91026,84010,7016
+"55","WI","Wisconsin","Winnebago County","county",55139,"May",2020,90840,80959,9881
 "55","WI","Wisconsin","Winnebago County","county",55139,"April",2020,89910,78010,11900
 "55","WI","Wisconsin","Winnebago County","county",55139,"March",2020,90159,87717,2442
 "55","WI","Wisconsin","Winnebago County","county",55139,"February",2020,91287,88391,2896
@@ -1223,7 +1295,8 @@
 "55","WI","Wisconsin","Winnebago County","county",55139,"March",2019,91766,88893,2873
 "55","WI","Wisconsin","Winnebago County","county",55139,"February",2019,91955,89170,2785
 "55","WI","Wisconsin","Winnebago County","county",55139,"January",2019,90800,88052,2748
-"55","WI","Wisconsin","Wood County","county",55141,"May",2020,34916,30707,4209
+"55","WI","Wisconsin","Wood County","county",55141,"June",2020,35846,32755,3091
+"55","WI","Wisconsin","Wood County","county",55141,"May",2020,35557,31296,4261
 "55","WI","Wisconsin","Wood County","county",55141,"April",2020,34450,29466,4984
 "55","WI","Wisconsin","Wood County","county",55141,"March",2020,34891,33497,1394
 "55","WI","Wisconsin","Wood County","county",55141,"February",2020,34880,33250,1630
@@ -1240,7 +1313,8 @@
 "55","WI","Wisconsin","Wood County","county",55141,"March",2019,34899,33210,1689
 "55","WI","Wisconsin","Wood County","county",55141,"February",2019,35003,33323,1680
 "55","WI","Wisconsin","Wood County","county",55141,"January",2019,35216,33586,1630
-"55","WI","Wisconsin","De Pere","city",NA,"May",2020,13898,12198,1700
+"55","WI","Wisconsin","De Pere","city",NA,"June",2020,13806,12561,1245
+"55","WI","Wisconsin","De Pere","city",NA,"May",2020,13884,12128,1756
 "55","WI","Wisconsin","De Pere","city",NA,"April",2020,13461,11685,1776
 "55","WI","Wisconsin","De Pere","city",NA,"March",2020,13615,13238,377
 "55","WI","Wisconsin","De Pere","city",NA,"February",2020,13748,13310,438
@@ -1257,7 +1331,8 @@
 "55","WI","Wisconsin","De Pere","city",NA,"March",2019,13745,13298,447
 "55","WI","Wisconsin","De Pere","city",NA,"February",2019,13764,13310,454
 "55","WI","Wisconsin","De Pere","city",NA,"January",2019,13649,13239,410
-"55","WI","Wisconsin","Green Bay","city",NA,"May",2020,55590,47785,7805
+"55","WI","Wisconsin","Green Bay","city",NA,"June",2020,54717,49208,5509
+"55","WI","Wisconsin","Green Bay","city",NA,"May",2020,55483,47510,7973
 "55","WI","Wisconsin","Green Bay","city",NA,"April",2020,53572,45775,7797
 "55","WI","Wisconsin","Green Bay","city",NA,"March",2020,53557,51860,1697
 "55","WI","Wisconsin","Green Bay","city",NA,"February",2020,54200,52140,2060
@@ -1274,7 +1349,8 @@
 "55","WI","Wisconsin","Green Bay","city",NA,"March",2019,54050,52096,1954
 "55","WI","Wisconsin","Green Bay","city",NA,"February",2019,54100,52142,1958
 "55","WI","Wisconsin","Green Bay","city",NA,"January",2019,53709,51863,1846
-"55","WI","Wisconsin","Madison","city",NA,"May",2020,149778,135519,14259
+"55","WI","Wisconsin","Madison","city",NA,"June",2020,151478,139901,11577
+"55","WI","Wisconsin","Madison","city",NA,"May",2020,149827,135362,14465
 "55","WI","Wisconsin","Madison","city",NA,"April",2020,146016,130812,15204
 "55","WI","Wisconsin","Madison","city",NA,"March",2020,156601,153561,3040
 "55","WI","Wisconsin","Madison","city",NA,"February",2020,157023,153420,3603
@@ -1291,7 +1367,8 @@
 "55","WI","Wisconsin","Madison","city",NA,"March",2019,155891,151994,3897
 "55","WI","Wisconsin","Madison","city",NA,"February",2019,156289,152504,3785
 "55","WI","Wisconsin","Madison","city",NA,"January",2019,153465,149730,3735
-"55","WI","Wisconsin","Sun Prairie","city",NA,"May",2020,19228,17321,1907
+"55","WI","Wisconsin","Sun Prairie","city",NA,"June",2020,19328,17881,1447
+"55","WI","Wisconsin","Sun Prairie","city",NA,"May",2020,19254,17301,1953
 "55","WI","Wisconsin","Sun Prairie","city",NA,"April",2020,18869,16720,2149
 "55","WI","Wisconsin","Sun Prairie","city",NA,"March",2020,20065,19627,438
 "55","WI","Wisconsin","Sun Prairie","city",NA,"February",2020,20162,19609,553
@@ -1308,7 +1385,8 @@
 "55","WI","Wisconsin","Sun Prairie","city",NA,"March",2019,19941,19427,514
 "55","WI","Wisconsin","Sun Prairie","city",NA,"February",2019,20006,19492,514
 "55","WI","Wisconsin","Sun Prairie","city",NA,"January",2019,19628,19138,490
-"55","WI","Wisconsin","Fitchburg","city",NA,"May",2020,16045,14728,1317
+"55","WI","Wisconsin","Fitchburg","city",NA,"June",2020,16318,15204,1114
+"55","WI","Wisconsin","Fitchburg","city",NA,"May",2020,16054,14710,1344
 "55","WI","Wisconsin","Fitchburg","city",NA,"April",2020,15645,14216,1429
 "55","WI","Wisconsin","Fitchburg","city",NA,"March",2020,17048,16688,360
 "55","WI","Wisconsin","Fitchburg","city",NA,"February",2020,17088,16673,415
@@ -1325,7 +1403,8 @@
 "55","WI","Wisconsin","Fitchburg","city",NA,"March",2019,16944,16518,426
 "55","WI","Wisconsin","Fitchburg","city",NA,"February",2019,16956,16573,383
 "55","WI","Wisconsin","Fitchburg","city",NA,"January",2019,16670,16272,398
-"55","WI","Wisconsin","Superior","city",NA,"May",2020,15092,12454,2638
+"55","WI","Wisconsin","Superior","city",NA,"June",2020,14785,13025,1760
+"55","WI","Wisconsin","Superior","city",NA,"May",2020,15068,12433,2635
 "55","WI","Wisconsin","Superior","city",NA,"April",2020,14958,12083,2875
 "55","WI","Wisconsin","Superior","city",NA,"March",2020,14126,13587,539
 "55","WI","Wisconsin","Superior","city",NA,"February",2020,14358,13709,649
@@ -1342,7 +1421,8 @@
 "55","WI","Wisconsin","Superior","city",NA,"March",2019,14409,13803,606
 "55","WI","Wisconsin","Superior","city",NA,"February",2019,14521,13913,608
 "55","WI","Wisconsin","Superior","city",NA,"January",2019,14162,13639,523
-"55","WI","Wisconsin","Fond Du Lac","city",NA,"May",2020,23532,20487,3045
+"55","WI","Wisconsin","Fond Du Lac","city",NA,"June",2020,23875,21558,2317
+"55","WI","Wisconsin","Fond Du Lac","city",NA,"May",2020,23708,20634,3074
 "55","WI","Wisconsin","Fond Du Lac","city",NA,"April",2020,23288,19369,3919
 "55","WI","Wisconsin","Fond Du Lac","city",NA,"March",2020,22474,21828,646
 "55","WI","Wisconsin","Fond Du Lac","city",NA,"February",2020,22754,21986,768
@@ -1359,7 +1439,8 @@
 "55","WI","Wisconsin","Fond Du Lac","city",NA,"March",2019,22743,22011,732
 "55","WI","Wisconsin","Fond Du Lac","city",NA,"February",2019,22695,21963,732
 "55","WI","Wisconsin","Fond Du Lac","city",NA,"January",2019,22691,21974,717
-"55","WI","Wisconsin","Kenosha","city",NA,"May",2020,51708,44268,7440
+"55","WI","Wisconsin","Kenosha","city",NA,"June",2020,50456,44991,5465
+"55","WI","Wisconsin","Kenosha","city",NA,"May",2020,51508,43933,7575
 "55","WI","Wisconsin","Kenosha","city",NA,"April",2020,51076,42732,8344
 "55","WI","Wisconsin","Kenosha","city",NA,"March",2020,49099,47013,2086
 "55","WI","Wisconsin","Kenosha","city",NA,"February",2020,49793,47324,2469
@@ -1376,7 +1457,8 @@
 "55","WI","Wisconsin","Kenosha","city",NA,"March",2019,50355,48023,2332
 "55","WI","Wisconsin","Kenosha","city",NA,"February",2019,50395,48094,2301
 "55","WI","Wisconsin","Kenosha","city",NA,"January",2019,49712,47508,2204
-"55","WI","Wisconsin","La Crosse","city",NA,"May",2020,28491,25085,3406
+"55","WI","Wisconsin","La Crosse","city",NA,"June",2020,28818,26372,2446
+"55","WI","Wisconsin","La Crosse","city",NA,"May",2020,28801,25339,3462
 "55","WI","Wisconsin","La Crosse","city",NA,"April",2020,28214,24538,3676
 "55","WI","Wisconsin","La Crosse","city",NA,"March",2020,28792,28072,720
 "55","WI","Wisconsin","La Crosse","city",NA,"February",2020,29159,28239,920
@@ -1393,7 +1475,8 @@
 "55","WI","Wisconsin","La Crosse","city",NA,"March",2019,29266,28312,954
 "55","WI","Wisconsin","La Crosse","city",NA,"February",2019,29376,28457,919
 "55","WI","Wisconsin","La Crosse","city",NA,"January",2019,28714,27764,950
-"55","WI","Wisconsin","Manitowoc","city",NA,"May",2020,16263,13925,2338
+"55","WI","Wisconsin","Manitowoc","city",NA,"June",2020,16475,14852,1623
+"55","WI","Wisconsin","Manitowoc","city",NA,"May",2020,16582,14212,2370
 "55","WI","Wisconsin","Manitowoc","city",NA,"April",2020,16211,13344,2867
 "55","WI","Wisconsin","Manitowoc","city",NA,"March",2020,15785,15213,572
 "55","WI","Wisconsin","Manitowoc","city",NA,"February",2020,15727,15037,690
@@ -1410,7 +1493,8 @@
 "55","WI","Wisconsin","Manitowoc","city",NA,"March",2019,15909,15270,639
 "55","WI","Wisconsin","Manitowoc","city",NA,"February",2019,15841,15242,599
 "55","WI","Wisconsin","Manitowoc","city",NA,"January",2019,15954,15329,625
-"55","WI","Wisconsin","Wausau","city",NA,"May",2020,20075,17715,2360
+"55","WI","Wisconsin","Wausau","city",NA,"June",2020,19848,18171,1677
+"55","WI","Wisconsin","Wausau","city",NA,"May",2020,19976,17581,2395
 "55","WI","Wisconsin","Wausau","city",NA,"April",2020,19538,16702,2836
 "55","WI","Wisconsin","Wausau","city",NA,"March",2020,19627,19040,587
 "55","WI","Wisconsin","Wausau","city",NA,"February",2020,19660,18973,687
@@ -1427,7 +1511,8 @@
 "55","WI","Wisconsin","Wausau","city",NA,"March",2019,19529,18864,665
 "55","WI","Wisconsin","Wausau","city",NA,"February",2019,19450,18829,621
 "55","WI","Wisconsin","Wausau","city",NA,"January",2019,19556,18963,593
-"55","WI","Wisconsin","Franklin","city",NA,"May",2020,18027,16098,1929
+"55","WI","Wisconsin","Franklin","city",NA,"June",2020,18011,16513,1498
+"55","WI","Wisconsin","Franklin","city",NA,"May",2020,17892,15942,1950
 "55","WI","Wisconsin","Franklin","city",NA,"April",2020,17507,15457,2050
 "55","WI","Wisconsin","Franklin","city",NA,"March",2020,17931,17416,515
 "55","WI","Wisconsin","Franklin","city",NA,"February",2020,18209,17535,674
@@ -1444,7 +1529,8 @@
 "55","WI","Wisconsin","Franklin","city",NA,"March",2019,18136,17517,619
 "55","WI","Wisconsin","Franklin","city",NA,"February",2019,18168,17569,599
 "55","WI","Wisconsin","Franklin","city",NA,"January",2019,17917,17318,599
-"55","WI","Wisconsin","Greenfield","city",NA,"May",2020,20387,17608,2779
+"55","WI","Wisconsin","Greenfield","city",NA,"June",2020,20084,18062,2022
+"55","WI","Wisconsin","Greenfield","city",NA,"May",2020,20254,17438,2816
 "55","WI","Wisconsin","Greenfield","city",NA,"April",2020,19879,16907,2972
 "55","WI","Wisconsin","Greenfield","city",NA,"March",2020,19701,19050,651
 "55","WI","Wisconsin","Greenfield","city",NA,"February",2020,19981,19180,801
@@ -1461,7 +1547,8 @@
 "55","WI","Wisconsin","Greenfield","city",NA,"March",2019,19925,19160,765
 "55","WI","Wisconsin","Greenfield","city",NA,"February",2019,19945,19218,727
 "55","WI","Wisconsin","Greenfield","city",NA,"January",2019,19655,18942,713
-"55","WI","Wisconsin","Milwaukee","city",NA,"May",2020,283816,240532,43284
+"55","WI","Wisconsin","Milwaukee","city",NA,"June",2020,282942,246734,36208
+"55","WI","Wisconsin","Milwaukee","city",NA,"May",2020,282517,238207,44310
 "55","WI","Wisconsin","Milwaukee","city",NA,"April",2020,274201,230952,43249
 "55","WI","Wisconsin","Milwaukee","city",NA,"March",2020,271264,260228,11036
 "55","WI","Wisconsin","Milwaukee","city",NA,"February",2020,275048,262014,13034
@@ -1478,7 +1565,8 @@
 "55","WI","Wisconsin","Milwaukee","city",NA,"March",2019,274071,261736,12335
 "55","WI","Wisconsin","Milwaukee","city",NA,"February",2019,274839,262521,12318
 "55","WI","Wisconsin","Milwaukee","city",NA,"January",2019,270695,258760,11935
-"55","WI","Wisconsin","Oak Creek","city",NA,"May",2020,20986,18691,2295
+"55","WI","Wisconsin","Oak Creek","city",NA,"June",2020,21023,19173,1850
+"55","WI","Wisconsin","Oak Creek","city",NA,"May",2020,20828,18510,2318
 "55","WI","Wisconsin","Oak Creek","city",NA,"April",2020,20339,17947,2392
 "55","WI","Wisconsin","Oak Creek","city",NA,"March",2020,20784,20222,562
 "55","WI","Wisconsin","Oak Creek","city",NA,"February",2020,21001,20360,641
@@ -1495,7 +1583,8 @@
 "55","WI","Wisconsin","Oak Creek","city",NA,"March",2019,21037,20339,698
 "55","WI","Wisconsin","Oak Creek","city",NA,"February",2019,21054,20400,654
 "55","WI","Wisconsin","Oak Creek","city",NA,"January",2019,20705,20107,598
-"55","WI","Wisconsin","Wauwatosa","city",NA,"May",2020,27521,24538,2983
+"55","WI","Wisconsin","Wauwatosa","city",NA,"June",2020,27566,25170,2396
+"55","WI","Wisconsin","Wauwatosa","city",NA,"May",2020,27340,24300,3040
 "55","WI","Wisconsin","Wauwatosa","city",NA,"April",2020,26529,23560,2969
 "55","WI","Wisconsin","Wauwatosa","city",NA,"March",2020,27210,26547,663
 "55","WI","Wisconsin","Wauwatosa","city",NA,"February",2020,27506,26729,777
@@ -1512,7 +1601,8 @@
 "55","WI","Wisconsin","Wauwatosa","city",NA,"March",2019,27502,26701,801
 "55","WI","Wisconsin","Wauwatosa","city",NA,"February",2019,27541,26781,760
 "55","WI","Wisconsin","Wauwatosa","city",NA,"January",2019,27165,26397,768
-"55","WI","Wisconsin","West Allis","city",NA,"May",2020,34355,29053,5302
+"55","WI","Wisconsin","West Allis","city",NA,"June",2020,33646,29802,3844
+"55","WI","Wisconsin","West Allis","city",NA,"May",2020,34162,28772,5390
 "55","WI","Wisconsin","West Allis","city",NA,"April",2020,33579,27896,5683
 "55","WI","Wisconsin","West Allis","city",NA,"March",2020,32698,31432,1266
 "55","WI","Wisconsin","West Allis","city",NA,"February",2020,33152,31648,1504
@@ -1529,7 +1619,8 @@
 "55","WI","Wisconsin","West Allis","city",NA,"March",2019,32991,31614,1377
 "55","WI","Wisconsin","West Allis","city",NA,"February",2019,33064,31709,1355
 "55","WI","Wisconsin","West Allis","city",NA,"January",2019,32583,31255,1328
-"55","WI","Wisconsin","Stevens Point","city",NA,"May",2020,13731,12260,1471
+"55","WI","Wisconsin","Stevens Point","city",NA,"June",2020,14546,13359,1187
+"55","WI","Wisconsin","Stevens Point","city",NA,"May",2020,14390,12912,1478
 "55","WI","Wisconsin","Stevens Point","city",NA,"April",2020,13329,11774,1555
 "55","WI","Wisconsin","Stevens Point","city",NA,"March",2020,14305,13878,427
 "55","WI","Wisconsin","Stevens Point","city",NA,"February",2020,14231,13734,497
@@ -1546,7 +1637,8 @@
 "55","WI","Wisconsin","Stevens Point","city",NA,"March",2019,14438,13919,519
 "55","WI","Wisconsin","Stevens Point","city",NA,"February",2019,14441,13927,514
 "55","WI","Wisconsin","Stevens Point","city",NA,"January",2019,14134,13644,490
-"55","WI","Wisconsin","Mount Pleasant","city",NA,"May",2020,14687,13038,1649
+"55","WI","Wisconsin","Mount Pleasant","city",NA,"June",2020,14812,13535,1277
+"55","WI","Wisconsin","Mount Pleasant","city",NA,"May",2020,14724,13048,1676
 "55","WI","Wisconsin","Mount Pleasant","city",NA,"April",2020,14453,12541,1912
 "55","WI","Wisconsin","Mount Pleasant","city",NA,"March",2020,14124,13605,519
 "55","WI","Wisconsin","Mount Pleasant","city",NA,"February",2020,14237,13644,593
@@ -1563,7 +1655,8 @@
 "55","WI","Wisconsin","Mount Pleasant","city",NA,"March",2019,14334,13793,541
 "55","WI","Wisconsin","Mount Pleasant","city",NA,"February",2019,14392,13848,544
 "55","WI","Wisconsin","Mount Pleasant","city",NA,"January",2019,14261,13731,530
-"55","WI","Wisconsin","Racine","city",NA,"May",2020,36781,31393,5388
+"55","WI","Wisconsin","Racine","city",NA,"June",2020,36732,32588,4144
+"55","WI","Wisconsin","Racine","city",NA,"May",2020,36917,31416,5501
 "55","WI","Wisconsin","Racine","city",NA,"April",2020,36208,30197,6011
 "55","WI","Wisconsin","Racine","city",NA,"March",2020,34510,32757,1753
 "55","WI","Wisconsin","Racine","city",NA,"February",2020,35015,32853,2162
@@ -1580,7 +1673,8 @@
 "55","WI","Wisconsin","Racine","city",NA,"March",2019,35210,33211,1999
 "55","WI","Wisconsin","Racine","city",NA,"February",2019,35336,33344,1992
 "55","WI","Wisconsin","Racine","city",NA,"January",2019,34914,33061,1853
-"55","WI","Wisconsin","Caledonia","city",NA,"May",2020,13901,12331,1570
+"55","WI","Wisconsin","Caledonia","city",NA,"June",2020,13989,12801,1188
+"55","WI","Wisconsin","Caledonia","city",NA,"May",2020,13927,12340,1587
 "55","WI","Wisconsin","Caledonia","city",NA,"April",2020,13607,11861,1746
 "55","WI","Wisconsin","Caledonia","city",NA,"March",2020,13329,12867,462
 "55","WI","Wisconsin","Caledonia","city",NA,"February",2020,13415,12905,510
@@ -1597,7 +1691,8 @@
 "55","WI","Wisconsin","Caledonia","city",NA,"March",2019,13556,13045,511
 "55","WI","Wisconsin","Caledonia","city",NA,"February",2019,13582,13098,484
 "55","WI","Wisconsin","Caledonia","city",NA,"January",2019,13462,12987,475
-"55","WI","Wisconsin","Beloit","city",NA,"May",2020,17159,14647,2512
+"55","WI","Wisconsin","Beloit","city",NA,"June",2020,17208,15348,1860
+"55","WI","Wisconsin","Beloit","city",NA,"May",2020,17087,14549,2538
 "55","WI","Wisconsin","Beloit","city",NA,"April",2020,17112,14382,2730
 "55","WI","Wisconsin","Beloit","city",NA,"March",2020,17146,16348,798
 "55","WI","Wisconsin","Beloit","city",NA,"February",2020,17340,16384,956
@@ -1614,7 +1709,8 @@
 "55","WI","Wisconsin","Beloit","city",NA,"March",2019,17290,16419,871
 "55","WI","Wisconsin","Beloit","city",NA,"February",2019,17244,16370,874
 "55","WI","Wisconsin","Beloit","city",NA,"January",2019,17094,16313,781
-"55","WI","Wisconsin","Janesville","city",NA,"May",2020,33879,28851,5028
+"55","WI","Wisconsin","Janesville","city",NA,"June",2020,33691,30232,3459
+"55","WI","Wisconsin","Janesville","city",NA,"May",2020,33748,28658,5090
 "55","WI","Wisconsin","Janesville","city",NA,"April",2020,34177,28329,5848
 "55","WI","Wisconsin","Janesville","city",NA,"March",2020,33389,32202,1187
 "55","WI","Wisconsin","Janesville","city",NA,"February",2020,33746,32273,1473
@@ -1631,7 +1727,8 @@
 "55","WI","Wisconsin","Janesville","city",NA,"March",2019,33653,32342,1311
 "55","WI","Wisconsin","Janesville","city",NA,"February",2019,33527,32246,1281
 "55","WI","Wisconsin","Janesville","city",NA,"January",2019,33351,32134,1217
-"55","WI","Wisconsin","Sheboygan","city",NA,"May",2020,26272,22142,4130
+"55","WI","Wisconsin","Sheboygan","city",NA,"June",2020,25951,23501,2450
+"55","WI","Wisconsin","Sheboygan","city",NA,"May",2020,26234,22065,4169
 "55","WI","Wisconsin","Sheboygan","city",NA,"April",2020,25771,21328,4443
 "55","WI","Wisconsin","Sheboygan","city",NA,"March",2020,24537,23800,737
 "55","WI","Wisconsin","Sheboygan","city",NA,"February",2020,24731,23916,815
@@ -1648,7 +1745,8 @@
 "55","WI","Wisconsin","Sheboygan","city",NA,"March",2019,24972,24197,775
 "55","WI","Wisconsin","Sheboygan","city",NA,"February",2019,24925,24170,755
 "55","WI","Wisconsin","Sheboygan","city",NA,"January",2019,24937,24198,739
-"55","WI","Wisconsin","West Bend","city",NA,"May",2020,17166,15097,2069
+"55","WI","Wisconsin","West Bend","city",NA,"June",2020,16982,15515,1467
+"55","WI","Wisconsin","West Bend","city",NA,"May",2020,17047,14952,2095
 "55","WI","Wisconsin","West Bend","city",NA,"April",2020,16977,14523,2454
 "55","WI","Wisconsin","West Bend","city",NA,"March",2020,16812,16315,497
 "55","WI","Wisconsin","West Bend","city",NA,"February",2020,16989,16406,583
@@ -1665,7 +1763,8 @@
 "55","WI","Wisconsin","West Bend","city",NA,"March",2019,16989,16396,593
 "55","WI","Wisconsin","West Bend","city",NA,"February",2019,17028,16435,593
 "55","WI","Wisconsin","West Bend","city",NA,"January",2019,16838,16286,552
-"55","WI","Wisconsin","Brookfield","city",NA,"May",2020,19580,17458,2122
+"55","WI","Wisconsin","Brookfield","city",NA,"June",2020,19618,17909,1709
+"55","WI","Wisconsin","Brookfield","city",NA,"May",2020,19453,17289,2164
 "55","WI","Wisconsin","Brookfield","city",NA,"April",2020,18912,16761,2151
 "55","WI","Wisconsin","Brookfield","city",NA,"March",2020,19384,18883,501
 "55","WI","Wisconsin","Brookfield","city",NA,"February",2020,19594,19005,589
@@ -1682,7 +1781,8 @@
 "55","WI","Wisconsin","Brookfield","city",NA,"March",2019,19557,18979,578
 "55","WI","Wisconsin","Brookfield","city",NA,"February",2019,19598,19034,564
 "55","WI","Wisconsin","Brookfield","city",NA,"January",2019,19336,18784,552
-"55","WI","Wisconsin","Menomonee Falls","city",NA,"May",2020,20747,18432,2315
+"55","WI","Wisconsin","Menomonee Falls","city",NA,"June",2020,20562,18908,1654
+"55","WI","Wisconsin","Menomonee Falls","city",NA,"May",2020,20577,18254,2323
 "55","WI","Wisconsin","Menomonee Falls","city",NA,"April",2020,20141,17696,2445
 "55","WI","Wisconsin","Menomonee Falls","city",NA,"March",2020,20472,19936,536
 "55","WI","Wisconsin","Menomonee Falls","city",NA,"February",2020,20715,20066,649
@@ -1699,7 +1799,8 @@
 "55","WI","Wisconsin","Menomonee Falls","city",NA,"March",2019,20704,20037,667
 "55","WI","Wisconsin","Menomonee Falls","city",NA,"February",2019,20692,20096,596
 "55","WI","Wisconsin","Menomonee Falls","city",NA,"January",2019,20397,19832,565
-"55","WI","Wisconsin","Muskego","city",NA,"May",2020,14920,13447,1473
+"55","WI","Wisconsin","Muskego","city",NA,"June",2020,14870,13795,1075
+"55","WI","Wisconsin","Muskego","city",NA,"May",2020,14801,13317,1484
 "55","WI","Wisconsin","Muskego","city",NA,"April",2020,14520,12910,1610
 "55","WI","Wisconsin","Muskego","city",NA,"March",2020,14931,14545,386
 "55","WI","Wisconsin","Muskego","city",NA,"February",2020,15103,14639,464
@@ -1716,7 +1817,8 @@
 "55","WI","Wisconsin","Muskego","city",NA,"March",2019,15061,14619,442
 "55","WI","Wisconsin","Muskego","city",NA,"February",2019,15106,14661,445
 "55","WI","Wisconsin","Muskego","city",NA,"January",2019,14886,14469,417
-"55","WI","Wisconsin","New Berlin","city",NA,"May",2020,21877,19389,2488
+"55","WI","Wisconsin","New Berlin","city",NA,"June",2020,21832,19890,1942
+"55","WI","Wisconsin","New Berlin","city",NA,"May",2020,21720,19202,2518
 "55","WI","Wisconsin","New Berlin","city",NA,"April",2020,21225,18615,2610
 "55","WI","Wisconsin","New Berlin","city",NA,"March",2020,21557,20972,585
 "55","WI","Wisconsin","New Berlin","city",NA,"February",2020,21819,21108,711
@@ -1733,7 +1835,8 @@
 "55","WI","Wisconsin","New Berlin","city",NA,"March",2019,21779,21078,701
 "55","WI","Wisconsin","New Berlin","city",NA,"February",2019,21811,21139,672
 "55","WI","Wisconsin","New Berlin","city",NA,"January",2019,21525,20861,664
-"55","WI","Wisconsin","Waukesha","city",NA,"May",2020,42250,37291,4959
+"55","WI","Wisconsin","Waukesha","city",NA,"June",2020,41907,38254,3653
+"55","WI","Wisconsin","Waukesha","city",NA,"May",2020,41994,36931,5063
 "55","WI","Wisconsin","Waukesha","city",NA,"April",2020,41258,35802,5456
 "55","WI","Wisconsin","Waukesha","city",NA,"March",2020,41495,40335,1160
 "55","WI","Wisconsin","Waukesha","city",NA,"February",2020,42002,40597,1405
@@ -1750,7 +1853,8 @@
 "55","WI","Wisconsin","Waukesha","city",NA,"March",2019,41839,40539,1300
 "55","WI","Wisconsin","Waukesha","city",NA,"February",2019,42036,40658,1378
 "55","WI","Wisconsin","Waukesha","city",NA,"January",2019,41437,40123,1314
-"55","WI","Wisconsin","Neenah","city",NA,"May",2020,14012,12400,1612
+"55","WI","Wisconsin","Neenah","city",NA,"June",2020,13978,12809,1169
+"55","WI","Wisconsin","Neenah","city",NA,"May",2020,14014,12343,1671
 "55","WI","Wisconsin","Neenah","city",NA,"April",2020,13916,11894,2022
 "55","WI","Wisconsin","Neenah","city",NA,"March",2020,13755,13374,381
 "55","WI","Wisconsin","Neenah","city",NA,"February",2020,13922,13477,445
@@ -1767,7 +1871,8 @@
 "55","WI","Wisconsin","Neenah","city",NA,"March",2019,13984,13553,431
 "55","WI","Wisconsin","Neenah","city",NA,"February",2019,14009,13595,414
 "55","WI","Wisconsin","Neenah","city",NA,"January",2019,13848,13425,423
-"55","WI","Wisconsin","Oshkosh","city",NA,"May",2020,34450,30642,3808
+"55","WI","Wisconsin","Oshkosh","city",NA,"June",2020,34452,31651,2801
+"55","WI","Wisconsin","Oshkosh","city",NA,"May",2020,34385,30502,3883
 "55","WI","Wisconsin","Oshkosh","city",NA,"April",2020,33897,29391,4506
 "55","WI","Wisconsin","Oshkosh","city",NA,"March",2020,33940,33048,892
 "55","WI","Wisconsin","Oshkosh","city",NA,"February",2020,34332,33302,1030
@@ -1784,7 +1889,8 @@
 "55","WI","Wisconsin","Oshkosh","city",NA,"March",2019,34564,33491,1073
 "55","WI","Wisconsin","Oshkosh","city",NA,"February",2019,34649,33596,1053
 "55","WI","Wisconsin","Oshkosh","city",NA,"January",2019,34198,33174,1024
-"55","WI","Wisconsin","Eau Claire ","city",NA,"May",2020,39135,34807,4328
+"55","WI","Wisconsin","Eau Claire ","city",NA,"June",2020,38932,35613,3319
+"55","WI","Wisconsin","Eau Claire ","city",NA,"May",2020,38781,34399,4382
 "55","WI","Wisconsin","Eau Claire ","city",NA,"April",2020,38130,33526,4604
 "55","WI","Wisconsin","Eau Claire ","city",NA,"March",2020,39518,38476,1042
 "55","WI","Wisconsin","Eau Claire ","city",NA,"February",2020,39719,38464,1255
@@ -1801,7 +1907,8 @@
 "55","WI","Wisconsin","Eau Claire ","city",NA,"March",2019,39686,38474,1212
 "55","WI","Wisconsin","Eau Claire ","city",NA,"February",2019,39660,38463,1197
 "55","WI","Wisconsin","Eau Claire ","city",NA,"January",2019,39038,37813,1225
-"55","WI","Wisconsin","Appleton ","city",NA,"May",2020,39508,34883,4625
+"55","WI","Wisconsin","Appleton ","city",NA,"June",2020,39371,36125,3246
+"55","WI","Wisconsin","Appleton ","city",NA,"May",2020,39433,34711,4722
 "55","WI","Wisconsin","Appleton ","city",NA,"April",2020,39193,33496,5697
 "55","WI","Wisconsin","Appleton ","city",NA,"March",2020,39004,37937,1067
 "55","WI","Wisconsin","Appleton ","city",NA,"February",2020,39301,38067,1234

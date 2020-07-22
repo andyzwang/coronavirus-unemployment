@@ -3,224 +3,269 @@
 "44","RI","Rhode Island","Rhode Island","state",NA,"February",2020,558430,536232,22198
 "44","RI","Rhode Island","Rhode Island","state",NA,"March",2020,560847,532920,27927
 "44","RI","Rhode Island","Rhode Island","state",NA,"April",2020,523359,429849,93510
-"44","RI","Rhode Island","Rhode Island","state",NA,"May",2020,518556,435646,82910
+"44","RI","Rhode Island","Rhode Island","state",NA,"May",2020,518867,435059,83808
+"44","RI","Rhode Island","Rhode Island","state",NA,"June",2020,552974,485994,66980
 "44","RI","Rhode Island","Barrington","city",NA,"January",2020,8346,8135,211
 "44","RI","Rhode Island","Barrington","city",NA,"February",2020,8399,8182,217
 "44","RI","Rhode Island","Barrington","city",NA,"March",2020,8383,8131,252
 "44","RI","Rhode Island","Barrington","city",NA,"April",2020,7409,6576,833
-"44","RI","Rhode Island","Barrington","city",NA,"May",2020,7363,6661,702
+"44","RI","Rhode Island","Barrington","city",NA,"May",2020,7354,6650,704
+"44","RI","Rhode Island","Barrington","city",NA,"June",2020,8026,7411,615
 "44","RI","Rhode Island","Bristol","city",NA,"January",2020,11981,11559,422
 "44","RI","Rhode Island","Bristol","city",NA,"February",2020,12036,11626,410
 "44","RI","Rhode Island","Bristol","city",NA,"March",2020,12071,11553,518
 "44","RI","Rhode Island","Bristol","city",NA,"April",2020,10985,9343,1642
-"44","RI","Rhode Island","Bristol","city",NA,"May",2020,10884,9464,1420
+"44","RI","Rhode Island","Bristol","city",NA,"May",2020,10881,9449,1432
+"44","RI","Rhode Island","Bristol","city",NA,"June",2020,11698,10530,1168
 "44","RI","Rhode Island","Burrillville","city",NA,"January",2020,9241,8857,384
 "44","RI","Rhode Island","Burrillville","city",NA,"February",2020,9285,8908,377
 "44","RI","Rhode Island","Burrillville","city",NA,"March",2020,9305,8852,453
 "44","RI","Rhode Island","Burrillville","city",NA,"April",2020,8550,7159,1391
-"44","RI","Rhode Island","Burrillville","city",NA,"May",2020,8442,7252,1190
+"44","RI","Rhode Island","Burrillville","city",NA,"May",2020,8443,7240,1203
+"44","RI","Rhode Island","Burrillville","city",NA,"June",2020,9047,8068,979
 "44","RI","Rhode Island","Central Falls","city",NA,"January",2020,8557,8119,438
 "44","RI","Rhode Island","Central Falls","city",NA,"February",2020,8564,8165,399
 "44","RI","Rhode Island","Central Falls","city",NA,"March",2020,8625,8114,511
 "44","RI","Rhode Island","Central Falls","city",NA,"April",2020,8279,6562,1717
-"44","RI","Rhode Island","Central Falls","city",NA,"May",2020,8295,6647,1648
+"44","RI","Rhode Island","Central Falls","city",NA,"May",2020,8300,6637,1663
+"44","RI","Rhode Island","Central Falls","city",NA,"June",2020,8806,7396,1410
 "44","RI","Rhode Island","Charlestown","city",NA,"January",2020,4160,3940,220
 "44","RI","Rhode Island","Charlestown","city",NA,"February",2020,4184,3963,221
 "44","RI","Rhode Island","Charlestown","city",NA,"March",2020,4209,3938,271
 "44","RI","Rhode Island","Charlestown","city",NA,"April",2020,3928,3185,743
-"44","RI","Rhode Island","Charlestown","city",NA,"May",2020,3840,3226,614
+"44","RI","Rhode Island","Charlestown","city",NA,"May",2020,3845,3221,624
+"44","RI","Rhode Island","Charlestown","city",NA,"June",2020,4080,3589,491
 "44","RI","Rhode Island","Coventry","city",NA,"January",2020,18738,17975,763
 "44","RI","Rhode Island","Coventry","city",NA,"February",2020,18836,18079,757
 "44","RI","Rhode Island","Coventry","city",NA,"March",2020,18875,17966,909
 "44","RI","Rhode Island","Coventry","city",NA,"April",2020,17762,14529,3233
-"44","RI","Rhode Island","Coventry","city",NA,"May",2020,17390,14718,2672
+"44","RI","Rhode Island","Coventry","city",NA,"May",2020,17400,14694,2706
+"44","RI","Rhode Island","Coventry","city",NA,"June",2020,18338,16375,1963
 "44","RI","Rhode Island","Cranston","city",NA,"January",2020,41472,39924,1548
 "44","RI","Rhode Island","Cranston","city",NA,"February",2020,41695,40153,1542
 "44","RI","Rhode Island","Cranston","city",NA,"March",2020,41895,39903,1992
 "44","RI","Rhode Island","Cranston","city",NA,"April",2020,39854,32270,7584
-"44","RI","Rhode Island","Cranston","city",NA,"May",2020,39347,32688,6659
+"44","RI","Rhode Island","Cranston","city",NA,"May",2020,39370,32636,6734
+"44","RI","Rhode Island","Cranston","city",NA,"June",2020,41674,36368,5306
 "44","RI","Rhode Island","Cumberland","city",NA,"January",2020,19833,19173,660
 "44","RI","Rhode Island","Cumberland","city",NA,"February",2020,19935,19283,652
 "44","RI","Rhode Island","Cumberland","city",NA,"March",2020,19982,19163,819
 "44","RI","Rhode Island","Cumberland","city",NA,"April",2020,18368,15497,2871
-"44","RI","Rhode Island","Cumberland","city",NA,"May",2020,18214,15698,2516
+"44","RI","Rhode Island","Cumberland","city",NA,"May",2020,18206,15673,2533
+"44","RI","Rhode Island","Cumberland","city",NA,"June",2020,19498,17466,2032
 "44","RI","Rhode Island","East Greenwich","city",NA,"January",2020,6826,6625,201
 "44","RI","Rhode Island","East Greenwich","city",NA,"February",2020,6868,6663,205
 "44","RI","Rhode Island","East Greenwich","city",NA,"March",2020,6889,6621,268
 "44","RI","Rhode Island","East Greenwich","city",NA,"April",2020,6478,5355,1123
-"44","RI","Rhode Island","East Greenwich","city",NA,"May",2020,6346,5424,922
+"44","RI","Rhode Island","East Greenwich","city",NA,"May",2020,6347,5415,932
+"44","RI","Rhode Island","East Greenwich","city",NA,"June",2020,6766,6035,731
 "44","RI","Rhode Island","East Providence","city",NA,"January",2020,24423,23331,1092
 "44","RI","Rhode Island","East Providence","city",NA,"February",2020,24525,23465,1060
 "44","RI","Rhode Island","East Providence","city",NA,"March",2020,24641,23319,1322
 "44","RI","Rhode Island","East Providence","city",NA,"April",2020,23149,18858,4291
-"44","RI","Rhode Island","East Providence","city",NA,"May",2020,22817,19103,3714
+"44","RI","Rhode Island","East Providence","city",NA,"May",2020,22812,19072,3740
+"44","RI","Rhode Island","East Providence","city",NA,"June",2020,24227,21253,2974
 "44","RI","Rhode Island","Exeter","city",NA,"January",2020,3908,3778,130
 "44","RI","Rhode Island","Exeter","city",NA,"February",2020,3943,3800,143
 "44","RI","Rhode Island","Exeter","city",NA,"March",2020,3947,3776,171
 "44","RI","Rhode Island","Exeter","city",NA,"April",2020,3598,3054,544
-"44","RI","Rhode Island","Exeter","city",NA,"May",2020,3526,3094,432
+"44","RI","Rhode Island","Exeter","city",NA,"May",2020,3522,3089,433
+"44","RI","Rhode Island","Exeter","city",NA,"June",2020,3779,3442,337
 "44","RI","Rhode Island","Foster","city",NA,"January",2020,2883,2751,132
 "44","RI","Rhode Island","Foster","city",NA,"February",2020,2892,2767,125
 "44","RI","Rhode Island","Foster","city",NA,"March",2020,2888,2750,138
 "44","RI","Rhode Island","Foster","city",NA,"April",2020,2653,2224,429
-"44","RI","Rhode Island","Foster","city",NA,"May",2020,2617,2253,364
+"44","RI","Rhode Island","Foster","city",NA,"May",2020,2615,2249,366
+"44","RI","Rhode Island","Foster","city",NA,"June",2020,2800,2506,294
 "44","RI","Rhode Island","Glocester","city",NA,"January",2020,6141,5946,195
 "44","RI","Rhode Island","Glocester","city",NA,"February",2020,6162,5980,182
 "44","RI","Rhode Island","Glocester","city",NA,"March",2020,6158,5943,215
 "44","RI","Rhode Island","Glocester","city",NA,"April",2020,5471,4806,665
-"44","RI","Rhode Island","Glocester","city",NA,"May",2020,5406,4868,538
+"44","RI","Rhode Island","Glocester","city",NA,"May",2020,5404,4860,544
+"44","RI","Rhode Island","Glocester","city",NA,"June",2020,5865,5416,449
 "44","RI","Rhode Island","Hopkinton","city",NA,"January",2020,4730,4529,201
 "44","RI","Rhode Island","Hopkinton","city",NA,"February",2020,4694,4516,178
 "44","RI","Rhode Island","Hopkinton","city",NA,"March",2020,4717,4499,218
 "44","RI","Rhode Island","Hopkinton","city",NA,"April",2020,4002,3293,709
-"44","RI","Rhode Island","Hopkinton","city",NA,"May",2020,3922,3352,570
+"44","RI","Rhode Island","Hopkinton","city",NA,"May",2020,3949,3379,570
+"44","RI","Rhode Island","Hopkinton","city",NA,"June",2020,4439,3984,455
 "44","RI","Rhode Island","Jamestown","city",NA,"January",2020,3237,3150,87
 "44","RI","Rhode Island","Jamestown","city",NA,"February",2020,3264,3168,96
 "44","RI","Rhode Island","Jamestown","city",NA,"March",2020,3243,3148,95
 "44","RI","Rhode Island","Jamestown","city",NA,"April",2020,2827,2546,281
-"44","RI","Rhode Island","Jamestown","city",NA,"May",2020,2815,2579,236
+"44","RI","Rhode Island","Jamestown","city",NA,"May",2020,2818,2575,243
+"44","RI","Rhode Island","Jamestown","city",NA,"June",2020,3088,2869,219
 "44","RI","Rhode Island","Johnston","city",NA,"January",2020,15786,15105,681
 "44","RI","Rhode Island","Johnston","city",NA,"February",2020,15876,15192,684
 "44","RI","Rhode Island","Johnston","city",NA,"March",2020,16008,15097,911
 "44","RI","Rhode Island","Johnston","city",NA,"April",2020,15226,12209,3017
-"44","RI","Rhode Island","Johnston","city",NA,"May",2020,15018,12368,2650
+"44","RI","Rhode Island","Johnston","city",NA,"May",2020,15028,12348,2680
+"44","RI","Rhode Island","Johnston","city",NA,"June",2020,15794,13760,2034
 "44","RI","Rhode Island","Lincoln","city",NA,"January",2020,12463,12026,437
 "44","RI","Rhode Island","Lincoln","city",NA,"February",2020,12531,12095,436
 "44","RI","Rhode Island","Lincoln","city",NA,"March",2020,12568,12020,548
 "44","RI","Rhode Island","Lincoln","city",NA,"April",2020,11613,9721,1892
-"44","RI","Rhode Island","Lincoln","city",NA,"May",2020,11507,9847,1660
+"44","RI","Rhode Island","Lincoln","city",NA,"May",2020,11504,9831,1673
+"44","RI","Rhode Island","Lincoln","city",NA,"June",2020,12277,10955,1322
 "44","RI","Rhode Island","Little Compton","city",NA,"January",2020,1898,1818,80
 "44","RI","Rhode Island","Little Compton","city",NA,"February",2020,1910,1829,81
 "44","RI","Rhode Island","Little Compton","city",NA,"March",2020,1924,1817,107
 "44","RI","Rhode Island","Little Compton","city",NA,"April",2020,1683,1470,213
-"44","RI","Rhode Island","Little Compton","city",NA,"May",2020,1673,1489,184
+"44","RI","Rhode Island","Little Compton","city",NA,"May",2020,1669,1486,183
+"44","RI","Rhode Island","Little Compton","city",NA,"June",2020,1800,1656,144
 "44","RI","Rhode Island","Middletown","city",NA,"January",2020,7978,7634,344
 "44","RI","Rhode Island","Middletown","city",NA,"February",2020,7991,7678,313
 "44","RI","Rhode Island","Middletown","city",NA,"March",2020,8012,7630,382
 "44","RI","Rhode Island","Middletown","city",NA,"April",2020,7517,6170,1347
-"44","RI","Rhode Island","Middletown","city",NA,"May",2020,7378,6250,1128
+"44","RI","Rhode Island","Middletown","city",NA,"May",2020,7379,6240,1139
+"44","RI","Rhode Island","Middletown","city",NA,"June",2020,7858,6954,904
 "44","RI","Rhode Island","Narragansett","city",NA,"January",2020,8998,8748,250
 "44","RI","Rhode Island","Narragansett","city",NA,"February",2020,9063,8799,264
 "44","RI","Rhode Island","Narragansett","city",NA,"March",2020,9052,8744,308
 "44","RI","Rhode Island","Narragansett","city",NA,"April",2020,7942,7071,871
-"44","RI","Rhode Island","Narragansett","city",NA,"May",2020,7941,7163,778
+"44","RI","Rhode Island","Narragansett","city",NA,"May",2020,7936,7151,785
+"44","RI","Rhode Island","Narragansett","city",NA,"June",2020,8613,7969,644
 "44","RI","Rhode Island","New Shoreham","city",NA,"January",2020,534,431,103
 "44","RI","Rhode Island","New Shoreham","city",NA,"February",2020,498,403,95
 "44","RI","Rhode Island","New Shoreham","city",NA,"March",2020,520,397,123
 "44","RI","Rhode Island","New Shoreham","city",NA,"April",2020,524,355,169
-"44","RI","Rhode Island","New Shoreham","city",NA,"May",2020,656,527,129
+"44","RI","Rhode Island","New Shoreham","city",NA,"May",2020,657,526,131
+"44","RI","Rhode Island","New Shoreham","city",NA,"June",2020,1116,1029,87
 "44","RI","Rhode Island","Newport","city",NA,"January",2020,13866,13273,593
 "44","RI","Rhode Island","Newport","city",NA,"February",2020,13884,13350,534
 "44","RI","Rhode Island","Newport","city",NA,"March",2020,13955,13266,689
 "44","RI","Rhode Island","Newport","city",NA,"April",2020,12870,10729,2141
-"44","RI","Rhode Island","Newport","city",NA,"May",2020,12715,10868,1847
+"44","RI","Rhode Island","Newport","city",NA,"May",2020,12725,10850,1875
+"44","RI","Rhode Island","Newport","city",NA,"June",2020,13531,12091,1440
 "44","RI","Rhode Island","North Kingstown","city",NA,"January",2020,14711,14231,480
 "44","RI","Rhode Island","North Kingstown","city",NA,"February",2020,14795,14313,482
 "44","RI","Rhode Island","North Kingstown","city",NA,"March",2020,14829,14224,605
 "44","RI","Rhode Island","North Kingstown","city",NA,"April",2020,13597,11503,2094
-"44","RI","Rhode Island","North Kingstown","city",NA,"May",2020,13425,11652,1773
+"44","RI","Rhode Island","North Kingstown","city",NA,"May",2020,13430,11634,1796
+"44","RI","Rhode Island","North Kingstown","city",NA,"June",2020,14321,12964,1357
 "44","RI","Rhode Island","North Providence","city",NA,"January",2020,18030,17390,640
 "44","RI","Rhode Island","North Providence","city",NA,"February",2020,18137,17490,647
 "44","RI","Rhode Island","North Providence","city",NA,"March",2020,18262,17381,881
 "44","RI","Rhode Island","North Providence","city",NA,"April",2020,17449,14056,3393
-"44","RI","Rhode Island","North Providence","city",NA,"May",2020,17321,14239,3082
+"44","RI","Rhode Island","North Providence","city",NA,"May",2020,17320,14216,3104
+"44","RI","Rhode Island","North Providence","city",NA,"June",2020,18305,15842,2463
 "44","RI","Rhode Island","North Smithfield","city",NA,"January",2020,6962,6724,238
 "44","RI","Rhode Island","North Smithfield","city",NA,"February",2020,6981,6762,219
 "44","RI","Rhode Island","North Smithfield","city",NA,"March",2020,6985,6720,265
 "44","RI","Rhode Island","North Smithfield","city",NA,"April",2020,6335,5435,900
-"44","RI","Rhode Island","North Smithfield","city",NA,"May",2020,6336,5505,831
+"44","RI","Rhode Island","North Smithfield","city",NA,"May",2020,6334,5496,838
+"44","RI","Rhode Island","North Smithfield","city",NA,"June",2020,6792,6125,667
 "44","RI","Rhode Island","Pawtucket","city",NA,"January",2020,36556,34856,1700
 "44","RI","Rhode Island","Pawtucket","city",NA,"February",2020,36705,35056,1649
 "44","RI","Rhode Island","Pawtucket","city",NA,"March",2020,36969,34838,2131
 "44","RI","Rhode Island","Pawtucket","city",NA,"April",2020,35400,28173,7227
-"44","RI","Rhode Island","Pawtucket","city",NA,"May",2020,35305,28539,6766
+"44","RI","Rhode Island","Pawtucket","city",NA,"May",2020,35329,28493,6836
+"44","RI","Rhode Island","Pawtucket","city",NA,"June",2020,37294,31752,5542
 "44","RI","Rhode Island","Portsmouth","city",NA,"January",2020,8838,8504,334
 "44","RI","Rhode Island","Portsmouth","city",NA,"February",2020,8884,8553,331
 "44","RI","Rhode Island","Portsmouth","city",NA,"March",2020,8897,8500,397
 "44","RI","Rhode Island","Portsmouth","city",NA,"April",2020,8177,6874,1303
-"44","RI","Rhode Island","Portsmouth","city",NA,"May",2020,8072,6963,1109
+"44","RI","Rhode Island","Portsmouth","city",NA,"May",2020,8075,6952,1123
+"44","RI","Rhode Island","Portsmouth","city",NA,"June",2020,8629,7747,882
 "44","RI","Rhode Island","Providence","city",NA,"January",2020,86467,82365,4102
 "44","RI","Rhode Island","Providence","city",NA,"February",2020,86950,82839,4111
 "44","RI","Rhode Island","Providence","city",NA,"March",2020,87520,82323,5197
 "44","RI","Rhode Island","Providence","city",NA,"April",2020,82701,66575,16126
-"44","RI","Rhode Island","Providence","city",NA,"May",2020,82671,67438,15233
+"44","RI","Rhode Island","Providence","city",NA,"May",2020,82823,67330,15493
+"44","RI","Rhode Island","Providence","city",NA,"June",2020,88190,75031,13159
 "44","RI","Rhode Island","Richmond","city",NA,"January",2020,4305,4178,127
 "44","RI","Rhode Island","Richmond","city",NA,"February",2020,4333,4202,131
 "44","RI","Rhode Island","Richmond","city",NA,"March",2020,4318,4175,143
 "44","RI","Rhode Island","Richmond","city",NA,"April",2020,3811,3377,434
-"44","RI","Rhode Island","Richmond","city",NA,"May",2020,3776,3421,355
+"44","RI","Rhode Island","Richmond","city",NA,"May",2020,3768,3415,353
+"44","RI","Rhode Island","Richmond","city",NA,"June",2020,4095,3806,289
 "44","RI","Rhode Island","Scituate","city",NA,"January",2020,6230,5997,233
 "44","RI","Rhode Island","Scituate","city",NA,"February",2020,6260,6031,229
 "44","RI","Rhode Island","Scituate","city",NA,"March",2020,6304,5994,310
 "44","RI","Rhode Island","Scituate","city",NA,"April",2020,5946,4847,1099
-"44","RI","Rhode Island","Scituate","city",NA,"May",2020,5817,4910,907
+"44","RI","Rhode Island","Scituate","city",NA,"May",2020,5818,4902,916
+"44","RI","Rhode Island","Scituate","city",NA,"June",2020,6163,5463,700
 "44","RI","Rhode Island","Smithfield","city",NA,"January",2020,11428,11003,425
 "44","RI","Rhode Island","Smithfield","city",NA,"February",2020,11493,11067,426
 "44","RI","Rhode Island","Smithfield","city",NA,"March",2020,11494,10998,496
 "44","RI","Rhode Island","Smithfield","city",NA,"April",2020,10496,8894,1602
-"44","RI","Rhode Island","Smithfield","city",NA,"May",2020,10402,9009,1393
+"44","RI","Rhode Island","Smithfield","city",NA,"May",2020,10390,8995,1395
+"44","RI","Rhode Island","Smithfield","city",NA,"June",2020,11122,10024,1098
 "44","RI","Rhode Island","South Kingstown","city",NA,"January",2020,16366,15852,514
 "44","RI","Rhode Island","South Kingstown","city",NA,"February",2020,16510,15944,566
 "44","RI","Rhode Island","South Kingstown","city",NA,"March",2020,16434,15844,590
 "44","RI","Rhode Island","South Kingstown","city",NA,"April",2020,14637,12813,1824
-"44","RI","Rhode Island","South Kingstown","city",NA,"May",2020,14579,12980,1599
+"44","RI","Rhode Island","South Kingstown","city",NA,"May",2020,14575,12959,1616
+"44","RI","Rhode Island","South Kingstown","city",NA,"June",2020,15767,14441,1326
 "44","RI","Rhode Island","Tiverton","city",NA,"January",2020,8731,8350,381
 "44","RI","Rhode Island","Tiverton","city",NA,"February",2020,8765,8398,367
 "44","RI","Rhode Island","Tiverton","city",NA,"March",2020,8794,8346,448
 "44","RI","Rhode Island","Tiverton","city",NA,"April",2020,8098,6749,1349
-"44","RI","Rhode Island","Tiverton","city",NA,"May",2020,7999,6837,1162
+"44","RI","Rhode Island","Tiverton","city",NA,"May",2020,8000,6826,1174
+"44","RI","Rhode Island","Tiverton","city",NA,"June",2020,8518,7606,912
 "44","RI","Rhode Island","Warren","city",NA,"January",2020,5684,5429,255
 "44","RI","Rhode Island","Warren","city",NA,"February",2020,5685,5460,225
 "44","RI","Rhode Island","Warren","city",NA,"March",2020,5728,5426,302
 "44","RI","Rhode Island","Warren","city",NA,"April",2020,5365,4388,977
-"44","RI","Rhode Island","Warren","city",NA,"May",2020,5234,4445,789
+"44","RI","Rhode Island","Warren","city",NA,"May",2020,5232,4438,794
+"44","RI","Rhode Island","Warren","city",NA,"June",2020,5567,4945,622
 "44","RI","Rhode Island","Warwick","city",NA,"January",2020,45743,44148,1595
 "44","RI","Rhode Island","Warwick","city",NA,"February",2020,45958,44402,1556
 "44","RI","Rhode Island","Warwick","city",NA,"March",2020,46106,44125,1981
 "44","RI","Rhode Island","Warwick","city",NA,"April",2020,43227,35684,7543
-"44","RI","Rhode Island","Warwick","city",NA,"May",2020,42643,36147,6496
+"44","RI","Rhode Island","Warwick","city",NA,"May",2020,42644,36090,6554
+"44","RI","Rhode Island","Warwick","city",NA,"June",2020,45236,40217,5019
 "44","RI","Rhode Island","West Greenwich","city",NA,"January",2020,3334,3197,137
 "44","RI","Rhode Island","West Greenwich","city",NA,"February",2020,3344,3215,129
 "44","RI","Rhode Island","West Greenwich","city",NA,"March",2020,3347,3195,152
 "44","RI","Rhode Island","West Greenwich","city",NA,"April",2020,3120,2584,536
-"44","RI","Rhode Island","West Greenwich","city",NA,"May",2020,3064,2617,447
+"44","RI","Rhode Island","West Greenwich","city",NA,"May",2020,3065,2613,452
+"44","RI","Rhode Island","West Greenwich","city",NA,"June",2020,3266,2912,354
 "44","RI","Rhode Island","West Warwick","city",NA,"January",2020,16237,15513,724
 "44","RI","Rhode Island","West Warwick","city",NA,"February",2020,16296,15602,694
 "44","RI","Rhode Island","West Warwick","city",NA,"March",2020,16409,15505,904
 "44","RI","Rhode Island","West Warwick","city",NA,"April",2020,15693,12539,3154
-"44","RI","Rhode Island","West Warwick","city",NA,"May",2020,15466,12701,2765
+"44","RI","Rhode Island","West Warwick","city",NA,"May",2020,15466,12681,2785
+"44","RI","Rhode Island","West Warwick","city",NA,"June",2020,16187,14131,2056
 "44","RI","Rhode Island","Westerly","city",NA,"January",2020,11210,10672,538
 "44","RI","Rhode Island","Westerly","city",NA,"February",2020,11155,10642,513
 "44","RI","Rhode Island","Westerly","city",NA,"March",2020,11218,10601,617
 "44","RI","Rhode Island","Westerly","city",NA,"April",2020,10255,7758,2497
-"44","RI","Rhode Island","Westerly","city",NA,"May",2020,9975,7897,2078
+"44","RI","Rhode Island","Westerly","city",NA,"May",2020,10076,7962,2114
+"44","RI","Rhode Island","Westerly","city",NA,"June",2020,10926,9389,1537
 "44","RI","Rhode Island","Woonsocket","city",NA,"January",2020,19046,18087,959
 "44","RI","Rhode Island","Woonsocket","city",NA,"February",2020,19145,18191,954
 "44","RI","Rhode Island","Woonsocket","city",NA,"March",2020,19363,18077,1286
 "44","RI","Rhode Island","Woonsocket","city",NA,"April",2020,18366,14619,3747
-"44","RI","Rhode Island","Woonsocket","city",NA,"May",2020,18363,14809,3554
+"44","RI","Rhode Island","Woonsocket","city",NA,"May",2020,18360,14785,3575
+"44","RI","Rhode Island","Woonsocket","city",NA,"June",2020,19472,16476,2996
 "44","RI","Rhode Island","Bristol County","county",44001,"January",2020,26011,25123,888
 "44","RI","Rhode Island","Bristol County","county",44001,"February",2020,26120,25268,852
 "44","RI","Rhode Island","Bristol County","county",44001,"March",2020,26182,25110,1072
 "44","RI","Rhode Island","Bristol County","county",44001,"April",2020,23759,20307,3452
-"44","RI","Rhode Island","Bristol County","county",44001,"May",2020,23481,20570,2911
+"44","RI","Rhode Island","Bristol County","county",44001,"May",2020,23467,20537,2930
+"44","RI","Rhode Island","Bristol County","county",44001,"June",2020,25291,22886,2405
 "44","RI","Rhode Island","Kent County","county",44003,"January",2020,90878,87458,3420
 "44","RI","Rhode Island","Kent County","county",44003,"February",2020,91302,87961,3341
 "44","RI","Rhode Island","Kent County","county",44003,"March",2020,91626,87412,4214
 "44","RI","Rhode Island","Kent County","county",44003,"April",2020,86280,70691,15589
-"44","RI","Rhode Island","Kent County","county",44003,"May",2020,84909,71607,13302
+"44","RI","Rhode Island","Kent County","county",44003,"May",2020,84922,71493,13429
+"44","RI","Rhode Island","Kent County","county",44003,"June",2020,89793,79670,10123
 "44","RI","Rhode Island","Newport County","county",44005,"January",2020,44548,42729,1819
 "44","RI","Rhode Island","Newport County","county",44005,"February",2020,44698,42976,1722
 "44","RI","Rhode Island","Newport County","county",44005,"March",2020,44825,42707,2118
 "44","RI","Rhode Island","Newport County","county",44005,"April",2020,41172,34538,6634
-"44","RI","Rhode Island","Newport County","county",44005,"May",2020,40652,34986,5666
+"44","RI","Rhode Island","Newport County","county",44005,"May",2020,40666,34929,5737
+"44","RI","Rhode Island","Newport County","county",44005,"June",2020,43424,38923,4501
 "44","RI","Rhode Island","Providence County","county",44007,"January",2020,325518,311654,13864
 "44","RI","Rhode Island","Providence County","county",44007,"February",2020,327136,313444,13692
 "44","RI","Rhode Island","Providence County","county",44007,"March",2020,328967,311492,17475
 "44","RI","Rhode Island","Providence County","county",44007,"April",2020,309856,251905,57951
-"44","RI","Rhode Island","Providence County","county",44007,"May",2020,307878,255173,52705
+"44","RI","Rhode Island","Providence County","county",44007,"May",2020,308056,254763,53293
+"44","RI","Rhode Island","Providence County","county",44007,"June",2020,327326,283901,43425
 "44","RI","Rhode Island","Washington County","county",44009,"January",2020,68922,66359,2563
 "44","RI","Rhode Island","Washington County","county",44009,"February",2020,69175,66582,2593
 "44","RI","Rhode Island","Washington County","county",44009,"March",2020,69244,66198,3046
 "44","RI","Rhode Island","Washington County","county",44009,"April",2020,62294,52409,9885
-"44","RI","Rhode Island","Washington County","county",44009,"May",2020,61640,53312,8328
+"44","RI","Rhode Island","Washington County","county",44009,"May",2020,61758,53336,8422
+"44","RI","Rhode Island","Washington County","county",44009,"June",2020,67136,60613,6523
