@@ -6017,6 +6017,790 @@
 "06","CA","California","Solana Beach city","city",NA,"March",2020,6800,6700,200
 "06","CA","California","Larkspur city","city",NA,"March",2020,6900,6700,200
 "06","CA","California","Orinda city","city",NA,"March",2020,8800,8600,200
+"06","CA","California","Angels City city","city",NA,"April",2019,1820,1820,0
+"06","CA","California","Carmel by the Sea city","city",NA,"April",2019,1600,1600,0
+"06","CA","California","Avalon city","city",NA,"April",2019,2100,2100,0
+"06","CA","California","St. Helena city","city",NA,"April",2019,2900,2900,0
+"06","CA","California","Big Bear Lake city","city",NA,"April",2019,2300,2300,0
+"06","CA","California","Bradbury city","city",NA,"April",2019,500,500,0
+"06","CA","California","Ferndale city","city",NA,"April",2019,600,600,0
+"06","CA","California","Buellton city","city",NA,"April",2019,2800,2700,0
+"06","CA","California","Vernon city","city",NA,"April",2019,0,0,0
+"06","CA","California","Del Mar city","city",NA,"April",2019,2300,2200,0
+"06","CA","California","Trinidad city","city",NA,"April",2019,100,100,0
+"06","CA","California","Needles city","city",NA,"April",2019,1700,1700,0
+"06","CA","California","Biggs city","city",NA,"April",2019,900,900,0
+"06","CA","California","San Juan Bautista city","city",NA,"April",2019,1000,1000,0
+"06","CA","California","Isleton city","city",NA,"April",2019,300,300,0
+"06","CA","California","Hidden Hills city","city",NA,"April",2019,600,600,0
+"06","CA","California","Blue Lake city","city",NA,"April",2019,500,500,0
+"06","CA","California","Rolling Hills city","city",NA,"April",2019,600,500,0
+"06","CA","California","Colfax city","city",NA,"April",2019,1000,900,0
+"06","CA","California","Industry city","city",NA,"April",2019,200,100,0
+"06","CA","California","Sand City city","city",NA,"April",2019,200,200,0
+"06","CA","California","Amador City city","city",NA,"April",2019,80,70,0
+"06","CA","California","Irwindale city","city",NA,"April",2019,700,600,0
+"06","CA","California","Maricopa city","city",NA,"April",2019,400,300,0
+"06","CA","California","Plymouth city","city",NA,"April",2019,460,450,10
+"06","CA","California","Point Arena city","city",NA,"April",2019,220,210,10
+"06","CA","California","Tehama city","city",NA,"April",2019,180,170,10
+"06","CA","California","Sutter Creek city","city",NA,"April",2019,1050,1030,20
+"06","CA","California","Portola city","city",NA,"April",2019,720,700,20
+"06","CA","California","Mount Shasta city","city",NA,"April",2019,1470,1450,30
+"06","CA","California","Dunsmuir city","city",NA,"April",2019,630,600,30
+"06","CA","California","Loyalton city","city",NA,"April",2019,450,420,30
+"06","CA","California","Nevada City city","city",NA,"April",2019,1410,1370,40
+"06","CA","California","Bishop city","city",NA,"April",2019,1610,1560,50
+"06","CA","California","Willits city","city",NA,"April",2019,1920,1870,60
+"06","CA","California","Lakeport city","city",NA,"April",2019,2550,2480,70
+"06","CA","California","Jackson city","city",NA,"April",2019,2150,2090,70
+"06","CA","California","Crescent City city","city",NA,"April",2019,1450,1380,70
+"06","CA","California","Ione city","city",NA,"April",2019,2120,2050,80
+"06","CA","California","Sonora city","city",NA,"April",2019,1930,1850,90
+"06","CA","California","Alturas city","city",NA,"April",2019,1060,970,90
+"06","CA","California","Clayton city","city",NA,"April",2019,5900,5800,100
+"06","CA","California","Cloverdale city","city",NA,"April",2019,4400,4300,100
+"06","CA","California","Gonzales city","city",NA,"April",2019,4100,4100,100
+"06","CA","California","Half Moon Bay city","city",NA,"April",2019,7600,7500,100
+"06","CA","California","Mill Valley city","city",NA,"April",2019,7000,6900,100
+"06","CA","California","Pismo Beach city","city",NA,"April",2019,4600,4500,100
+"06","CA","California","Piedmont city","city",NA,"April",2019,5100,5000,100
+"06","CA","California","Solana Beach city","city",NA,"April",2019,6800,6700,100
+"06","CA","California","Capitola city","city",NA,"April",2019,5700,5600,100
+"06","CA","California","Larkspur city","city",NA,"April",2019,6900,6800,100
+"06","CA","California","Orinda city","city",NA,"April",2019,8900,8800,100
+"06","CA","California","Laguna Woods city","city",NA,"April",2019,3100,3100,100
+"06","CA","California","Brisbane city","city",NA,"April",2019,2900,2800,100
+"06","CA","California","Canyon Lake city","city",NA,"April",2019,5400,5300,100
+"06","CA","California","Emeryville city","city",NA,"April",2019,7400,7200,100
+"06","CA","California","Palos Verdes Estates city","city",NA,"April",2019,5600,5500,100
+"06","CA","California","Solvang city","city",NA,"April",2019,3000,3000,100
+"06","CA","California","Sonoma city","city",NA,"April",2019,5500,5400,100
+"06","CA","California","San Marino city","city",NA,"April",2019,5600,5500,100
+"06","CA","California","Sausalito city","city",NA,"April",2019,4400,4300,100
+"06","CA","California","Westlake Village city","city",NA,"April",2019,3900,3800,100
+"06","CA","California","Healdsburg city","city",NA,"April",2019,6000,5800,100
+"06","CA","California","Ojai city","city",NA,"April",2019,3500,3500,100
+"06","CA","California","Placerville city","city",NA,"April",2019,5000,4900,100
+"06","CA","California","Cotati city","city",NA,"April",2019,4300,4100,100
+"06","CA","California","Guadalupe city","city",NA,"April",2019,3300,3200,100
+"06","CA","California","Villa Park city","city",NA,"April",2019,2500,2400,100
+"06","CA","California","Rolling Hills Estates city","city",NA,"April",2019,3500,3400,100
+"06","CA","California","Escalon city","city",NA,"April",2019,3800,3600,100
+"06","CA","California","Indian Wells city","city",NA,"April",2019,1800,1800,100
+"06","CA","California","La Habra Heights city","city",NA,"April",2019,2600,2600,100
+"06","CA","California","Calistoga city","city",NA,"April",2019,2700,2600,100
+"06","CA","California","Calimesa city","city",NA,"April",2019,3500,3400,100
+"06","CA","California","Rio Vista city","city",NA,"April",2019,2900,2800,100
+"06","CA","California","Rio Dell city","city",NA,"April",2019,1400,1300,100
+"06","CA","California","Dos Palos city","city",NA,"April",2019,2200,2000,100
+"06","CA","California","Wheatland city","city",NA,"April",2019,1600,1500,100
+"06","CA","California","Del Rey Oaks city","city",NA,"April",2019,1000,900,100
+"06","CA","California","Weed city","city",NA,"April",2019,1060,970,100
+"06","CA","California","Westmorland city","city",NA,"April",2019,900,800,100
+"06","CA","California","Fort Bragg city","city",NA,"April",2019,3160,3040,130
+"06","CA","California","Susanville city","city",NA,"April",2019,3020,2870,150
+"06","CA","California","Millbrae city","city",NA,"April",2019,12700,12500,200
+"06","CA","California","Hermosa Beach city","city",NA,"April",2019,12500,12300,200
+"06","CA","California","La Canada Flintridge city","city",NA,"April",2019,9500,9300,200
+"06","CA","California","Albany city","city",NA,"April",2019,9800,9600,200
+"06","CA","California","Loma Linda city","city",NA,"April",2019,11000,10800,200
+"06","CA","California","Arroyo Grande city","city",NA,"April",2019,9300,9100,200
+"06","CA","California","Santa Fe Springs city","city",NA,"April",2019,8200,8000,200
+"06","CA","California","La Palma city","city",NA,"April",2019,7700,7500,200
+"06","CA","California","Malibu city","city",NA,"April",2019,6600,6400,200
+"06","CA","California","Los Alamitos city","city",NA,"April",2019,5800,5700,200
+"06","CA","California","Fillmore city","city",NA,"April",2019,7300,7100,200
+"06","CA","California","Coronado city","city",NA,"April",2019,7600,7400,200
+"06","CA","California","Rancho Mirage city","city",NA,"April",2019,6300,6100,200
+"06","CA","California","Carpinteria city","city",NA,"April",2019,7300,7100,200
+"06","CA","California","Fortuna city","city",NA,"April",2019,5200,5000,200
+"06","CA","California","Scotts Valley city","city",NA,"April",2019,6100,5900,200
+"06","CA","California","Auburn city","city",NA,"April",2019,6900,6700,200
+"06","CA","California","Grover Beach city","city",NA,"April",2019,6900,6700,200
+"06","CA","California","Ripon city","city",NA,"April",2019,7200,7000,200
+"06","CA","California","Grand Terrace city","city",NA,"April",2019,6500,6300,200
+"06","CA","California","Signal Hill city","city",NA,"April",2019,6400,6100,200
+"06","CA","California","Blythe city","city",NA,"April",2019,5700,5500,200
+"06","CA","California","Morro Bay city","city",NA,"April",2019,5000,4800,200
+"06","CA","California","Sierra Madre city","city",NA,"April",2019,5600,5400,200
+"06","CA","California","Winters city","city",NA,"April",2019,3800,3700,200
+"06","CA","California","Anderson city","city",NA,"April",2019,4200,4000,200
+"06","CA","California","Sebastopol city","city",NA,"April",2019,4000,3800,200
+"06","CA","California","Hughson city","city",NA,"April",2019,3400,3200,200
+"06","CA","California","Taft city","city",NA,"April",2019,3000,2900,200
+"06","CA","California","Tehachapi city","city",NA,"April",2019,3700,3500,200
+"06","CA","California","Fowler city","city",NA,"April",2019,2900,2800,200
+"06","CA","California","Gridley city","city",NA,"April",2019,2600,2500,200
+"06","CA","California","Shasta Lake city","city",NA,"April",2019,4400,4100,200
+"06","CA","California","Corning city","city",NA,"April",2019,2940,2740,200
+"06","CA","California","Willows city","city",NA,"April",2019,2550,2350,200
+"06","CA","California","San Joaquin city","city",NA,"April",2019,1600,1400,200
+"06","CA","California","Calipatria city","city",NA,"April",2019,1100,900,200
+"06","CA","California","Yreka city","city",NA,"April",2019,3000,2770,230
+"06","CA","California","Grass Valley city","city",NA,"April",2019,5820,5580,240
+"06","CA","California","Orland city","city",NA,"April",2019,3680,3440,240
+"06","CA","California","Williams city","city",NA,"April",2019,2710,2440,270
+"06","CA","California","Menlo Park city","city",NA,"April",2019,19800,19500,300
+"06","CA","California","Burlingame city","city",NA,"April",2019,18300,17900,300
+"06","CA","California","San Carlos city","city",NA,"April",2019,17700,17400,300
+"06","CA","California","Monterey city","city",NA,"April",2019,15300,15000,300
+"06","CA","California","Belmont city","city",NA,"April",2019,16700,16300,300
+"06","CA","California","Los Altos city","city",NA,"April",2019,14600,14400,300
+"06","CA","California","East Palo Alto city","city",NA,"April",2019,14900,14600,300
+"06","CA","California","Lafayette city","city",NA,"April",2019,12500,12300,300
+"06","CA","California","Saratoga city","city",NA,"April",2019,14700,14400,300
+"06","CA","California","Ridgecrest city","city",NA,"April",2019,13500,13200,300
+"06","CA","California","Benicia city","city",NA,"April",2019,14800,14400,300
+"06","CA","California","El Cerrito city","city",NA,"April",2019,13800,13500,300
+"06","CA","California","Laguna Beach city","city",NA,"April",2019,12500,12200,300
+"06","CA","California","Calabasas city","city",NA,"April",2019,12200,11900,300
+"06","CA","California","Hercules city","city",NA,"April",2019,13800,13500,300
+"06","CA","California","Marina city","city",NA,"April",2019,12700,12300,300
+"06","CA","California","Seal Beach city","city",NA,"April",2019,9900,9700,300
+"06","CA","California","Pinole city","city",NA,"April",2019,9900,9600,300
+"06","CA","California","Port Hueneme city","city",NA,"April",2019,10100,9800,300
+"06","CA","California","Artesia city","city",NA,"April",2019,8000,7700,300
+"06","CA","California","Dixon city","city",NA,"April",2019,9700,9300,300
+"06","CA","California","King City city","city",NA,"April",2019,6500,6200,300
+"06","CA","California","Twentynine Palms city","city",NA,"April",2019,6900,6600,300
+"06","CA","California","Hawaiian Gardens city","city",NA,"April",2019,6300,6100,300
+"06","CA","California","Livingston city","city",NA,"April",2019,6700,6400,300
+"06","CA","California","Commerce city","city",NA,"April",2019,5900,5600,300
+"06","CA","California","Kingsburg city","city",NA,"April",2019,5700,5400,300
+"06","CA","California","Oroville city","city",NA,"April",2019,6000,5700,300
+"06","CA","California","Marysville city","city",NA,"April",2019,5000,4700,300
+"06","CA","California","Chowchilla city","city",NA,"April",2019,4400,4100,300
+"06","CA","California","Live Oak city","city",NA,"April",2019,4000,3700,300
+"06","CA","California","Waterford city","city",NA,"April",2019,3400,3200,300
+"06","CA","California","Woodlake city","city",NA,"April",2019,3300,3000,300
+"06","CA","California","Gustine city","city",NA,"April",2019,2800,2500,300
+"06","CA","California","Huron city","city",NA,"April",2019,2500,2300,300
+"06","CA","California","Red Bluff city","city",NA,"April",2019,5310,4980,340
+"06","CA","California","Ukiah city","city",NA,"April",2019,7290,6910,380
+"06","CA","California","Colusa city","city",NA,"April",2019,3070,2680,390
+"06","CA","California","Pacifica city","city",NA,"April",2019,24100,23700,400
+"06","CA","California","Foster City city","city",NA,"April",2019,20000,19600,400
+"06","CA","California","Seaside city","city",NA,"April",2019,17300,17000,400
+"06","CA","California","Laguna Hills city","city",NA,"April",2019,17000,16600,400
+"06","CA","California","Dana Point city","city",NA,"April",2019,18700,18200,400
+"06","CA","California","San Juan Capistrano city","city",NA,"April",2019,17200,16800,400
+"06","CA","California","Atascadero city","city",NA,"April",2019,15500,15100,400
+"06","CA","California","El Paso de Robles (Paso Robles) city","city",NA,"April",2019,16400,16000,400
+"06","CA","California","Eureka city","city",NA,"April",2019,12600,12200,400
+"06","CA","California","San Pablo city","city",NA,"April",2019,13800,13300,400
+"06","CA","California","Norco city","city",NA,"April",2019,11600,11200,400
+"06","CA","California","American Canyon city","city",NA,"April",2019,10100,9800,400
+"06","CA","California","Lemon Grove city","city",NA,"April",2019,12400,11900,400
+"06","CA","California","Lomita city","city",NA,"April",2019,11200,10700,400
+"06","CA","California","Imperial Beach city","city",NA,"April",2019,11900,11500,400
+"06","CA","California","Agoura Hills city","city",NA,"April",2019,11500,11100,400
+"06","CA","California","Cudahy city","city",NA,"April",2019,10000,9600,400
+"06","CA","California","South El Monte city","city",NA,"April",2019,9300,9000,400
+"06","CA","California","Lathrop city","city",NA,"April",2019,9600,9200,400
+"06","CA","California","Barstow city","city",NA,"April",2019,8800,8400,400
+"06","CA","California","El Segundo city","city",NA,"April",2019,9400,9000,400
+"06","CA","California","Kerman city","city",NA,"April",2019,6800,6400,400
+"06","CA","California","Newman city","city",NA,"April",2019,4700,4300,400
+"06","CA","California","Orange Cove city","city",NA,"April",2019,3700,3300,400
+"06","CA","California","Holtville city","city",NA,"April",2019,2500,2000,400
+"06","CA","California","San Bruno city","city",NA,"April",2019,26800,26300,500
+"06","CA","California","Campbell city","city",NA,"April",2019,26500,25900,500
+"06","CA","California","San Luis Obispo city","city",NA,"April",2019,25500,25000,500
+"06","CA","California","Brea city","city",NA,"April",2019,23000,22500,500
+"06","CA","California","Moorpark city","city",NA,"April",2019,19500,19000,500
+"06","CA","California","Pleasant Hill city","city",NA,"April",2019,18000,17500,500
+"06","CA","California","Martinez city","city",NA,"April",2019,20500,19900,500
+"06","CA","California","Montclair city","city",NA,"April",2019,19100,18600,500
+"06","CA","California","Stanton city","city",NA,"April",2019,18400,17900,500
+"06","CA","California","Walnut city","city",NA,"April",2019,16000,15500,500
+"06","CA","California","South Pasadena city","city",NA,"April",2019,14800,14300,500
+"06","CA","California","Suisun City city","city",NA,"April",2019,14300,13800,500
+"06","CA","California","Maywood city","city",NA,"April",2019,12300,11800,500
+"06","CA","California","San Fernando city","city",NA,"April",2019,11800,11300,500
+"06","CA","California","South Lake Tahoe city","city",NA,"April",2019,12600,12100,500
+"06","CA","California","Desert Hot Springs city","city",NA,"April",2019,11400,10900,500
+"06","CA","California","Banning city","city",NA,"April",2019,11200,10600,500
+"06","CA","California","Duarte city","city",NA,"April",2019,11000,10500,500
+"06","CA","California","Arcata city","city",NA,"April",2019,9600,9100,500
+"06","CA","California","Pacific Grove city","city",NA,"April",2019,8400,7900,500
+"06","CA","California","Greenfield city","city",NA,"April",2019,8300,7800,500
+"06","CA","California","Coalinga city","city",NA,"April",2019,6400,5900,500
+"06","CA","California","Exeter city","city",NA,"April",2019,4700,4200,500
+"06","CA","California","Firebaugh city","city",NA,"April",2019,3800,3300,500
+"06","CA","California","Avenal city","city",NA,"April",2019,3700,3200,500
+"06","CA","California","Clearlake city","city",NA,"April",2019,6120,5540,580
+"06","CA","California","Palo Alto city","city",NA,"April",2019,35400,34800,600
+"06","CA","California","Cupertino city","city",NA,"April",2019,29400,28800,600
+"06","CA","California","San Rafael city","city",NA,"April",2019,32000,31400,600
+"06","CA","California","Novato city","city",NA,"April",2019,29300,28700,600
+"06","CA","California","Morgan Hill city","city",NA,"April",2019,24100,23500,600
+"06","CA","California","Rancho Santa Margarita city","city",NA,"April",2019,27600,27000,600
+"06","CA","California","Poway city","city",NA,"April",2019,25500,24800,600
+"06","CA","California","Cypress city","city",NA,"April",2019,24900,24300,600
+"06","CA","California","Newark city","city",NA,"April",2019,25000,24400,600
+"06","CA","California","Rohnert Park city","city",NA,"April",2019,23500,23000,600
+"06","CA","California","La Quinta city","city",NA,"April",2019,18800,18300,600
+"06","CA","California","Manhattan Beach city","city",NA,"April",2019,19700,19100,600
+"06","CA","California","Rancho Palos Verdes city","city",NA,"April",2019,19500,18900,600
+"06","CA","California","Temple City city","city",NA,"April",2019,18200,17600,600
+"06","CA","California","Beverly Hills city","city",NA,"April",2019,18200,17600,600
+"06","CA","California","Lincoln city","city",NA,"April",2019,19100,18400,600
+"06","CA","California","Claremont city","city",NA,"April",2019,17100,16500,600
+"06","CA","California","Wildomar city","city",NA,"April",2019,17600,17000,600
+"06","CA","California","San Dimas city","city",NA,"April",2019,17800,17200,600
+"06","CA","California","La Verne city","city",NA,"April",2019,16000,15400,600
+"06","CA","California","Lawndale city","city",NA,"April",2019,16500,15900,600
+"06","CA","California","Bell city","city",NA,"April",2019,15100,14400,600
+"06","CA","California","Riverbank city","city",NA,"April",2019,11900,11300,600
+"06","CA","California","Galt city","city",NA,"April",2019,11600,11000,600
+"06","CA","California","Patterson city","city",NA,"April",2019,10000,9400,600
+"06","CA","California","Selma city","city",NA,"April",2019,10900,10300,600
+"06","CA","California","Parlier city","city",NA,"April",2019,6900,6300,600
+"06","CA","California","McFarland city","city",NA,"April",2019,5700,5100,600
+"06","CA","California","Farmersville city","city",NA,"April",2019,5000,4400,600
+"06","CA","California","Davis city","city",NA,"April",2019,35300,34500,700
+"06","CA","California","Petaluma city","city",NA,"April",2019,33500,32800,700
+"06","CA","California","Aliso Viejo city","city",NA,"April",2019,30300,29600,700
+"06","CA","California","Dublin city","city",NA,"April",2019,32200,31500,700
+"06","CA","California","San Clemente city","city",NA,"April",2019,31700,30900,700
+"06","CA","California","Fountain Valley city","city",NA,"April",2019,28200,27400,700
+"06","CA","California","Cathedral City city","city",NA,"April",2019,25900,25200,700
+"06","CA","California","Placentia city","city",NA,"April",2019,25700,25100,700
+"06","CA","California","Palm Desert city","city",NA,"April",2019,24400,23700,700
+"06","CA","California","Yucaipa city","city",NA,"April",2019,25000,24300,700
+"06","CA","California","Palm Springs city","city",NA,"April",2019,22700,22000,700
+"06","CA","California","Beaumont city","city",NA,"April",2019,22800,22100,700
+"06","CA","California","Monrovia city","city",NA,"April",2019,20800,20100,700
+"06","CA","California","San Gabriel city","city",NA,"April",2019,21400,20700,700
+"06","CA","California","Oakley city","city",NA,"April",2019,19800,19100,700
+"06","CA","California","Bell Gardens city","city",NA,"April",2019,18000,17300,700
+"06","CA","California","Lemoore city","city",NA,"April",2019,12000,11300,700
+"06","CA","California","Adelanto city","city",NA,"April",2019,9700,8900,700
+"06","CA","California","Arvin city","city",NA,"April",2019,8900,8200,700
+"06","CA","California","Oakdale city","city",NA,"April",2019,9600,8800,700
+"06","CA","California","California City city","city",NA,"April",2019,4500,3800,700
+"06","CA","California","Mountain View city","city",NA,"April",2019,52300,51500,800
+"06","CA","California","Encinitas city","city",NA,"April",2019,33000,32300,800
+"06","CA","California","Walnut Creek city","city",NA,"April",2019,34100,33300,800
+"06","CA","California","Yorba Linda city","city",NA,"April",2019,34800,34000,800
+"06","CA","California","Santa Cruz city","city",NA,"April",2019,33200,32400,800
+"06","CA","California","Eastvale City city","city",NA,"April",2019,32500,31600,800
+"06","CA","California","La Habra city","city",NA,"April",2019,30800,30000,800
+"06","CA","California","Santee city","city",NA,"April",2019,29100,28300,800
+"06","CA","California","Cerritos city","city",NA,"April",2019,25300,24400,800
+"06","CA","California","La Puente city","city",NA,"April",2019,19000,18200,800
+"06","CA","California","Lompoc city","city",NA,"April",2019,17300,16500,800
+"06","CA","California","Lindsay city","city",NA,"April",2019,5500,4700,800
+"06","CA","California","Corcoran city","city",NA,"April",2019,4500,3800,800
+"06","CA","California","Redwood City city","city",NA,"April",2019,50800,50000,900
+"06","CA","California","Pleasanton city","city",NA,"April",2019,40800,39900,900
+"06","CA","California","South San Francisco city","city",NA,"April",2019,39500,38600,900
+"06","CA","California","San Ramon city","city",NA,"April",2019,39300,38400,900
+"06","CA","California","Folsom city","city",NA,"April",2019,37200,36300,900
+"06","CA","California","Laguna Niguel city","city",NA,"April",2019,35500,34600,900
+"06","CA","California","Camarillo city","city",NA,"April",2019,34300,33400,900
+"06","CA","California","Rocklin city","city",NA,"April",2019,33100,32200,900
+"06","CA","California","La Mesa city","city",NA,"April",2019,30300,29400,900
+"06","CA","California","Arcadia city","city",NA,"April",2019,29700,28800,900
+"06","CA","California","Gilroy city","city",NA,"April",2019,30200,29300,900
+"06","CA","California","Brentwood city","city",NA,"April",2019,29200,28300,900
+"06","CA","California","Glendora city","city",NA,"April",2019,26000,25100,900
+"06","CA","California","Highland city","city",NA,"April",2019,24500,23700,900
+"06","CA","California","West Sacramento city","city",NA,"April",2019,25400,24500,900
+"06","CA","California","Colton city","city",NA,"April",2019,24500,23600,900
+"06","CA","California","La Mirada city","city",NA,"April",2019,24100,23200,900
+"06","CA","California","Rosemead city","city",NA,"April",2019,25100,24200,900
+"06","CA","California","National City city","city",NA,"April",2019,24600,23700,900
+"06","CA","California","Culver City city","city",NA,"April",2019,23000,22100,900
+"06","CA","California","San Jacinto city","city",NA,"April",2019,18900,17900,900
+"06","CA","California","Santa Paula city","city",NA,"April",2019,13800,12900,900
+"06","CA","California","Atwater city","city",NA,"April",2019,11900,11000,900
+"06","CA","California","Soledad city","city",NA,"April",2019,8200,7300,900
+"06","CA","California","Shafter city","city",NA,"April",2019,7500,6600,900
+"06","CA","California","Mendota city","city",NA,"April",2019,5000,4100,900
+"06","CA","California","Santa Barbara city","city",NA,"April",2019,50500,49600,1000
+"06","CA","California","Chino Hills city","city",NA,"April",2019,45300,44200,1000
+"06","CA","California","Newport Beach city","city",NA,"April",2019,44900,43800,1000
+"06","CA","California","Alameda city","city",NA,"April",2019,41000,40000,1000
+"06","CA","California","Tustin city","city",NA,"April",2019,42500,41500,1000
+"06","CA","California","Union City city","city",NA,"April",2019,36600,35700,1000
+"06","CA","California","Upland city","city",NA,"April",2019,39300,38200,1000
+"06","CA","California","Redlands city","city",NA,"April",2019,35500,34500,1000
+"06","CA","California","Diamond Bar city","city",NA,"April",2019,30300,29300,1000
+"06","CA","California","Azusa city","city",NA,"April",2019,25100,24200,1000
+"06","CA","California","Sanger city","city",NA,"April",2019,11600,10600,1000
+"06","CA","California","San Mateo city","city",NA,"April",2019,64600,63500,1100
+"06","CA","California","Lake Forest city","city",NA,"April",2019,49000,47900,1100
+"06","CA","California","Livermore city","city",NA,"April",2019,48100,47000,1100
+"06","CA","California","Milpitas city","city",NA,"April",2019,42700,41600,1100
+"06","CA","California","Buena Park city","city",NA,"April",2019,40100,38900,1100
+"06","CA","California","Lake Elsinore city","city",NA,"April",2019,30500,29400,1100
+"06","CA","California","Monterey Park city","city",NA,"April",2019,29300,28200,1100
+"06","CA","California","Huntington Park city","city",NA,"April",2019,26500,25300,1100
+"06","CA","California","Paramount city","city",NA,"April",2019,24500,23400,1100
+"06","CA","California","Covina city","city",NA,"April",2019,24000,22900,1100
+"06","CA","California","Imperial city","city",NA,"April",2019,7800,6700,1100
+"06","CA","California","Daly City city","city",NA,"April",2019,64800,63500,1200
+"06","CA","California","Mission Viejo city","city",NA,"April",2019,49500,48200,1200
+"06","CA","California","Chino city","city",NA,"April",2019,43100,41900,1200
+"06","CA","California","Napa city","city",NA,"April",2019,41500,40300,1200
+"06","CA","California","San Marcos city","city",NA,"April",2019,42300,41100,1200
+"06","CA","California","Westminster city","city",NA,"April",2019,41600,40500,1200
+"06","CA","California","Pittsburg city","city",NA,"April",2019,34100,32900,1200
+"06","CA","California","Gardena city","city",NA,"April",2019,30100,28900,1200
+"06","CA","California","West Hollywood city","city",NA,"April",2019,27100,25900,1200
+"06","CA","California","Hollister city","city",NA,"April",2019,20000,18800,1200
+"06","CA","California","Brawley city","city",NA,"April",2019,9900,8600,1200
+"06","CA","California","Vacaville city","city",NA,"April",2019,45800,44500,1300
+"06","CA","California","Montebello city","city",NA,"April",2019,28800,27500,1300
+"06","CA","California","Lynwood city","city",NA,"April",2019,28300,27000,1300
+"06","CA","California","Wasco city","city",NA,"April",2019,8900,7700,1300
+"06","CA","California","Santa Clara city","city",NA,"April",2019,71000,69600,1400
+"06","CA","California","San Leandro city","city",NA,"April",2019,46100,44800,1400
+"06","CA","California","Citrus Heights city","city",NA,"April",2019,43200,41800,1400
+"06","CA","California","Redondo Beach city","city",NA,"April",2019,41300,39900,1400
+"06","CA","California","Baldwin Park city","city",NA,"April",2019,34400,33000,1400
+"06","CA","California","Turlock city","city",NA,"April",2019,33400,32000,1400
+"06","CA","California","Pico Rivera city","city",NA,"April",2019,30200,28900,1400
+"06","CA","California","Dinuba city","city",NA,"April",2019,10700,9300,1400
+"06","CA","California","Costa Mesa city","city",NA,"April",2019,65700,64200,1500
+"06","CA","California","Berkeley city","city",NA,"April",2019,62100,60600,1500
+"06","CA","California","Carlsbad city","city",NA,"April",2019,54900,53400,1500
+"06","CA","California","El Cajon city","city",NA,"April",2019,44700,43200,1500
+"06","CA","California","Vista city","city",NA,"April",2019,44700,43300,1500
+"06","CA","California","Tracy city","city",NA,"April",2019,43000,41600,1500
+"06","CA","California","Indio city","city",NA,"April",2019,40300,38800,1500
+"06","CA","California","Perris city","city",NA,"April",2019,30900,29400,1500
+"06","CA","California","Tulare city","city",NA,"April",2019,27800,26300,1500
+"06","CA","California","Sunnyvale city","city",NA,"April",2019,87000,85400,1600
+"06","CA","California","San Buenaventura (Ventura) city","city",NA,"April",2019,56300,54600,1600
+"06","CA","California","Temecula city","city",NA,"April",2019,55000,53400,1600
+"06","CA","California","Richmond city","city",NA,"April",2019,52400,50800,1600
+"06","CA","California","Alhambra city","city",NA,"April",2019,46200,44600,1600
+"06","CA","California","Lakewood city","city",NA,"April",2019,42800,41100,1600
+"06","CA","California","Redding city","city",NA,"April",2019,39200,37600,1600
+"06","CA","California","Manteca city","city",NA,"April",2019,37100,35600,1600
+"06","CA","California","Woodland city","city",NA,"April",2019,30400,28800,1600
+"06","CA","California","Hemet city","city",NA,"April",2019,29500,27900,1600
+"06","CA","California","Hanford city","city",NA,"April",2019,24800,23200,1600
+"06","CA","California","Ceres city","city",NA,"April",2019,21400,19900,1600
+"06","CA","California","Coachella city","city",NA,"April",2019,19500,18000,1600
+"06","CA","California","Concord city","city",NA,"April",2019,65400,63700,1700
+"06","CA","California","Thousand Oaks city","city",NA,"April",2019,64800,63000,1700
+"06","CA","California","Murrieta city","city",NA,"April",2019,55600,53900,1700
+"06","CA","California","Clovis city","city",NA,"April",2019,54100,52400,1700
+"06","CA","California","Jurupa Valley city","city",NA,"April",2019,48600,46900,1700
+"06","CA","California","Chico city","city",NA,"April",2019,47400,45700,1700
+"06","CA","California","Whittier city","city",NA,"April",2019,43600,41900,1700
+"06","CA","California","Bellflower city","city",NA,"April",2019,36300,34600,1700
+"06","CA","California","Hesperia city","city",NA,"April",2019,35700,34000,1700
+"06","CA","California","Lodi city","city",NA,"April",2019,29600,27900,1700
+"06","CA","California","Orange city","city",NA,"April",2019,71900,70100,1800
+"06","CA","California","Fullerton city","city",NA,"April",2019,69900,68100,1800
+"06","CA","California","Fairfield city","city",NA,"April",2019,53400,51500,1800
+"06","CA","California","Antioch city","city",NA,"April",2019,50300,48500,1800
+"06","CA","California","Hawthorne city","city",NA,"April",2019,44500,42700,1800
+"06","CA","California","South Gate city","city",NA,"April",2019,42400,40600,1800
+"06","CA","California","Simi Valley city","city",NA,"April",2019,67500,65700,1900
+"06","CA","California","Escondido city","city",NA,"April",2019,68900,67000,1900
+"06","CA","California","Roseville city","city",NA,"April",2019,68600,66700,1900
+"06","CA","California","Rialto city","city",NA,"April",2019,44500,42600,1900
+"06","CA","California","El Centro city","city",NA,"April",2019,17800,15900,1900
+"06","CA","California","El Monte city","city",NA,"April",2019,51400,49400,2000
+"06","CA","California","Los Banos city","city",NA,"April",2019,17200,15200,2000
+"06","CA","California","Downey city","city",NA,"April",2019,57000,54900,2100
+"06","CA","California","Vallejo city","city",NA,"April",2019,56400,54200,2100
+"06","CA","California","West Covina city","city",NA,"April",2019,52500,50400,2100
+"06","CA","California","Norwalk city","city",NA,"April",2019,50200,48100,2100
+"06","CA","California","Carson city","city",NA,"April",2019,45900,43900,2100
+"06","CA","California","Compton city","city",NA,"April",2019,38900,36800,2100
+"06","CA","California","Garden Grove city","city",NA,"April",2019,81200,79000,2200
+"06","CA","California","Santa Monica city","city",NA,"April",2019,56200,54000,2200
+"06","CA","California","Victorville city","city",NA,"April",2019,45600,43300,2200
+"06","CA","California","Merced city","city",NA,"April",2019,33900,31700,2200
+"06","CA","California","Santa Rosa city","city",NA,"April",2019,89000,86600,2300
+"06","CA","California","Hayward city","city",NA,"April",2019,77200,75000,2300
+"06","CA","California","Corona city","city",NA,"April",2019,84000,81600,2400
+"06","CA","California","Madera city","city",NA,"April",2019,27400,25000,2400
+"06","CA","California","Rancho Cucamonga city","city",NA,"April",2019,95900,93400,2500
+"06","CA","California","Oceanside city","city",NA,"April",2019,81600,79200,2500
+"06","CA","California","Torrance city","city",NA,"April",2019,77800,75400,2500
+"06","CA","California","Inglewood city","city",NA,"April",2019,52400,49900,2600
+"06","CA","California","Yuba City city","city",NA,"April",2019,31200,28500,2600
+"06","CA","California","Reedley city","city",NA,"April",2019,13300,10800,2600
+"06","CA","California","Fremont city","city",NA,"April",2019,119500,116800,2700
+"06","CA","California","Huntington Beach city","city",NA,"April",2019,108400,105600,2700
+"06","CA","California","Ontario city","city",NA,"April",2019,88000,85300,2700
+"06","CA","California","Visalia city","city",NA,"April",2019,61300,58500,2800
+"06","CA","California","Burbank city","city",NA,"April",2019,59000,56100,2800
+"06","CA","California","Pasadena city","city",NA,"April",2019,78800,75900,2900
+"06","CA","California","Pomona city","city",NA,"April",2019,67700,64700,3000
+"06","CA","California","Santa Maria city","city",NA,"April",2019,50000,46900,3100
+"06","CA","California","Fontana city","city",NA,"April",2019,98700,95500,3200
+"06","CA","California","Porterville city","city",NA,"April",2019,25800,22600,3200
+"06","CA","California","Irvine city","city",NA,"April",2019,147200,143700,3500
+"06","CA","California","Palmdale city","city",NA,"April",2019,64000,60400,3600
+"06","CA","California","Oxnard city","city",NA,"April",2019,100200,96500,3700
+"06","CA","California","San Bernardino city","city",NA,"April",2019,83800,80100,3700
+"06","CA","California","Chula Vista city","city",NA,"April",2019,122400,118500,3800
+"06","CA","California","Lancaster city","city",NA,"April",2019,64600,60800,3800
+"06","CA","California","Glendale city","city",NA,"April",2019,103100,99200,3900
+"06","CA","California","Moreno Valley city","city",NA,"April",2019,94600,90700,3900
+"06","CA","California","Watsonville city","city",NA,"April",2019,27600,23700,3900
+"06","CA","California","Santa Ana city","city",NA,"April",2019,157200,153000,4100
+"06","CA","California","Santa Clarita city","city",NA,"April",2019,112500,108300,4200
+"06","CA","California","Anaheim city","city",NA,"April",2019,170500,166000,4500
+"06","CA","California","Modesto city","city",NA,"April",2019,94000,89100,4900
+"06","CA","California","Calexico city","city",NA,"April",2019,17500,12700,4900
+"06","CA","California","Riverside city","city",NA,"April",2019,153700,148500,5200
+"06","CA","California","Oakland city","city",NA,"April",2019,212800,206300,6500
+"06","CA","California","Delano city","city",NA,"April",2019,23500,16700,6800
+"06","CA","California","Sacramento city","city",NA,"April",2019,234600,226300,8300
+"06","CA","California","Salinas city","city",NA,"April",2019,82400,74100,8300
+"06","CA","California","Bakersfield city","city",NA,"April",2019,174600,166300,8400
+"06","CA","California","Stockton city","city",NA,"April",2019,128800,120200,8600
+"06","CA","California","Long Beach city","city",NA,"April",2019,237400,227800,9600
+"06","CA","California","San Francisco city","city",NA,"April",2019,575500,563800,11700
+"06","CA","California","Fresno city","city",NA,"April",2019,232300,220100,12200
+"06","CA","California","San Jose city","city",NA,"April",2019,549000,535900,13100
+"06","CA","California","San Diego city","city",NA,"April",2019,714000,694400,19600
+"06","CA","California","Los Angeles city","city",NA,"April",2019,2063600,1979100,84500
+"06","CA","California","Angels City city","city",NA,"August",2019,1900,1900,0
+"06","CA","California","Carmel by the Sea city","city",NA,"August",2019,1700,1700,0
+"06","CA","California","Avalon city","city",NA,"August",2019,2100,2100,0
+"06","CA","California","Gonzales city","city",NA,"August",2019,4300,4300,0
+"06","CA","California","St. Helena city","city",NA,"August",2019,3000,3000,0
+"06","CA","California","Buellton city","city",NA,"August",2019,2800,2700,0
+"06","CA","California","Big Bear Lake city","city",NA,"August",2019,2300,2300,0
+"06","CA","California","Bradbury city","city",NA,"August",2019,500,500,0
+"06","CA","California","Ferndale city","city",NA,"August",2019,600,600,0
+"06","CA","California","Vernon city","city",NA,"August",2019,0,0,0
+"06","CA","California","San Juan Bautista city","city",NA,"August",2019,1000,1000,0
+"06","CA","California","Sand City city","city",NA,"August",2019,200,200,0
+"06","CA","California","Biggs city","city",NA,"August",2019,900,900,0
+"06","CA","California","Needles city","city",NA,"August",2019,1800,1700,0
+"06","CA","California","Trinidad city","city",NA,"August",2019,100,100,0
+"06","CA","California","Blue Lake city","city",NA,"August",2019,500,500,0
+"06","CA","California","Isleton city","city",NA,"August",2019,300,300,0
+"06","CA","California","Hidden Hills city","city",NA,"August",2019,600,600,0
+"06","CA","California","Rolling Hills city","city",NA,"August",2019,600,500,0
+"06","CA","California","Del Rey Oaks city","city",NA,"August",2019,1000,1000,0
+"06","CA","California","Colfax city","city",NA,"August",2019,1000,900,0
+"06","CA","California","Amador City city","city",NA,"August",2019,80,70,0
+"06","CA","California","Industry city","city",NA,"August",2019,200,100,0
+"06","CA","California","Irwindale city","city",NA,"August",2019,700,600,0
+"06","CA","California","Maricopa city","city",NA,"August",2019,400,300,0
+"06","CA","California","Portola city","city",NA,"August",2019,830,820,10
+"06","CA","California","Plymouth city","city",NA,"August",2019,480,460,10
+"06","CA","California","Point Arena city","city",NA,"August",2019,220,210,10
+"06","CA","California","Tehama city","city",NA,"August",2019,180,170,10
+"06","CA","California","Mount Shasta city","city",NA,"August",2019,1560,1540,20
+"06","CA","California","Sutter Creek city","city",NA,"August",2019,1070,1050,20
+"06","CA","California","Dunsmuir city","city",NA,"August",2019,660,640,20
+"06","CA","California","Loyalton city","city",NA,"August",2019,470,450,20
+"06","CA","California","Nevada City city","city",NA,"August",2019,1420,1380,40
+"06","CA","California","Willits city","city",NA,"August",2019,1930,1880,50
+"06","CA","California","Bishop city","city",NA,"August",2019,1660,1620,50
+"06","CA","California","Lakeport city","city",NA,"August",2019,2570,2510,60
+"06","CA","California","Jackson city","city",NA,"August",2019,2210,2140,70
+"06","CA","California","Crescent City city","city",NA,"August",2019,1490,1420,70
+"06","CA","California","Alturas city","city",NA,"August",2019,1120,1050,70
+"06","CA","California","Ione city","city",NA,"August",2019,2180,2100,80
+"06","CA","California","Sonora city","city",NA,"August",2019,1960,1880,80
+"06","CA","California","Weed city","city",NA,"August",2019,1100,1030,80
+"06","CA","California","Capitola city","city",NA,"August",2019,5800,5700,100
+"06","CA","California","Clayton city","city",NA,"August",2019,5900,5800,100
+"06","CA","California","Cloverdale city","city",NA,"August",2019,4500,4400,100
+"06","CA","California","Mill Valley city","city",NA,"August",2019,7200,7100,100
+"06","CA","California","Half Moon Bay city","city",NA,"August",2019,7800,7600,100
+"06","CA","California","Pismo Beach city","city",NA,"August",2019,4500,4400,100
+"06","CA","California","Piedmont city","city",NA,"August",2019,5200,5100,100
+"06","CA","California","Solana Beach city","city",NA,"August",2019,6900,6800,100
+"06","CA","California","Larkspur city","city",NA,"August",2019,7000,6900,100
+"06","CA","California","Solvang city","city",NA,"August",2019,3000,3000,100
+"06","CA","California","Laguna Woods city","city",NA,"August",2019,3200,3100,100
+"06","CA","California","Brisbane city","city",NA,"August",2019,2900,2900,100
+"06","CA","California","Scotts Valley city","city",NA,"August",2019,6200,6000,100
+"06","CA","California","Sonoma city","city",NA,"August",2019,5600,5500,100
+"06","CA","California","Canyon Lake city","city",NA,"August",2019,5400,5300,100
+"06","CA","California","Palos Verdes Estates city","city",NA,"August",2019,5700,5500,100
+"06","CA","California","Del Mar city","city",NA,"August",2019,2300,2200,100
+"06","CA","California","San Marino city","city",NA,"August",2019,5600,5500,100
+"06","CA","California","Sausalito city","city",NA,"August",2019,4500,4400,100
+"06","CA","California","Westlake Village city","city",NA,"August",2019,3900,3800,100
+"06","CA","California","Placerville city","city",NA,"August",2019,5100,4900,100
+"06","CA","California","Guadalupe city","city",NA,"August",2019,3300,3200,100
+"06","CA","California","Cotati city","city",NA,"August",2019,4400,4200,100
+"06","CA","California","Escalon city","city",NA,"August",2019,3800,3700,100
+"06","CA","California","Ojai city","city",NA,"August",2019,3500,3400,100
+"06","CA","California","Villa Park city","city",NA,"August",2019,2500,2400,100
+"06","CA","California","Calistoga city","city",NA,"August",2019,2800,2700,100
+"06","CA","California","Rolling Hills Estates city","city",NA,"August",2019,3500,3400,100
+"06","CA","California","Indian Wells city","city",NA,"August",2019,1800,1800,100
+"06","CA","California","La Habra Heights city","city",NA,"August",2019,2700,2600,100
+"06","CA","California","Taft city","city",NA,"August",2019,3100,3000,100
+"06","CA","California","Rio Vista city","city",NA,"August",2019,3000,2800,100
+"06","CA","California","Fowler city","city",NA,"August",2019,3000,2800,100
+"06","CA","California","Rio Dell city","city",NA,"August",2019,1400,1300,100
+"06","CA","California","Dos Palos city","city",NA,"August",2019,2200,2100,100
+"06","CA","California","Gridley city","city",NA,"August",2019,2600,2400,100
+"06","CA","California","Wheatland city","city",NA,"August",2019,1700,1600,100
+"06","CA","California","Fort Bragg city","city",NA,"August",2019,3180,3060,120
+"06","CA","California","Susanville city","city",NA,"August",2019,3050,2930,120
+"06","CA","California","Williams city","city",NA,"August",2019,2880,2730,150
+"06","CA","California","Yreka city","city",NA,"August",2019,3130,2950,180
+"06","CA","California","Willows city","city",NA,"August",2019,2540,2360,180
+"06","CA","California","Corning city","city",NA,"August",2019,2980,2790,190
+"06","CA","California","Orinda city","city",NA,"August",2019,9000,8800,200
+"06","CA","California","Emeryville city","city",NA,"August",2019,7500,7300,200
+"06","CA","California","La Canada Flintridge city","city",NA,"August",2019,9500,9300,200
+"06","CA","California","King City city","city",NA,"August",2019,6700,6500,200
+"06","CA","California","Healdsburg city","city",NA,"August",2019,6100,6000,200
+"06","CA","California","Arroyo Grande city","city",NA,"August",2019,9200,8900,200
+"06","CA","California","Carpinteria city","city",NA,"August",2019,7300,7100,200
+"06","CA","California","Santa Fe Springs city","city",NA,"August",2019,8200,8000,200
+"06","CA","California","La Palma city","city",NA,"August",2019,7800,7500,200
+"06","CA","California","Malibu city","city",NA,"August",2019,6600,6400,200
+"06","CA","California","Los Alamitos city","city",NA,"August",2019,5800,5700,200
+"06","CA","California","Ripon city","city",NA,"August",2019,7400,7100,200
+"06","CA","California","Fillmore city","city",NA,"August",2019,7200,7000,200
+"06","CA","California","Fortuna city","city",NA,"August",2019,5100,5000,200
+"06","CA","California","Auburn city","city",NA,"August",2019,7000,6700,200
+"06","CA","California","Rancho Mirage city","city",NA,"August",2019,6300,6100,200
+"06","CA","California","Livingston city","city",NA,"August",2019,6700,6500,200
+"06","CA","California","Anderson city","city",NA,"August",2019,4200,4100,200
+"06","CA","California","Winters city","city",NA,"August",2019,3900,3700,200
+"06","CA","California","Hughson city","city",NA,"August",2019,3400,3300,200
+"06","CA","California","Calimesa city","city",NA,"August",2019,3500,3400,200
+"06","CA","California","Morro Bay city","city",NA,"August",2019,5000,4700,200
+"06","CA","California","Sebastopol city","city",NA,"August",2019,4100,3900,200
+"06","CA","California","Tehachapi city","city",NA,"August",2019,3900,3700,200
+"06","CA","California","Live Oak city","city",NA,"August",2019,4100,3900,200
+"06","CA","California","Shasta Lake city","city",NA,"August",2019,4400,4200,200
+"06","CA","California","Gustine city","city",NA,"August",2019,2800,2500,200
+"06","CA","California","Huron city","city",NA,"August",2019,2500,2300,200
+"06","CA","California","San Joaquin city","city",NA,"August",2019,1600,1500,200
+"06","CA","California","Westmorland city","city",NA,"August",2019,900,700,200
+"06","CA","California","Colusa city","city",NA,"August",2019,3210,3000,210
+"06","CA","California","Orland city","city",NA,"August",2019,3670,3450,230
+"06","CA","California","Grass Valley city","city",NA,"August",2019,5860,5620,240
+"06","CA","California","Millbrae city","city",NA,"August",2019,13000,12700,300
+"06","CA","California","Hermosa Beach city","city",NA,"August",2019,12600,12300,300
+"06","CA","California","Albany city","city",NA,"August",2019,9900,9600,300
+"06","CA","California","Lafayette city","city",NA,"August",2019,12700,12400,300
+"06","CA","California","Laguna Beach city","city",NA,"August",2019,12600,12200,300
+"06","CA","California","Loma Linda city","city",NA,"August",2019,11000,10700,300
+"06","CA","California","Pinole city","city",NA,"August",2019,10000,9700,300
+"06","CA","California","Coronado city","city",NA,"August",2019,7700,7400,300
+"06","CA","California","Pacific Grove city","city",NA,"August",2019,8600,8300,300
+"06","CA","California","Greenfield city","city",NA,"August",2019,8500,8200,300
+"06","CA","California","Grover Beach city","city",NA,"August",2019,6800,6500,300
+"06","CA","California","Artesia city","city",NA,"August",2019,8000,7700,300
+"06","CA","California","Grand Terrace city","city",NA,"August",2019,6500,6300,300
+"06","CA","California","Signal Hill city","city",NA,"August",2019,6400,6100,300
+"06","CA","California","Kingsburg city","city",NA,"August",2019,5700,5500,300
+"06","CA","California","Blythe city","city",NA,"August",2019,5700,5400,300
+"06","CA","California","Sierra Madre city","city",NA,"August",2019,5700,5400,300
+"06","CA","California","Hawaiian Gardens city","city",NA,"August",2019,6400,6100,300
+"06","CA","California","Marysville city","city",NA,"August",2019,5100,4900,300
+"06","CA","California","Oroville city","city",NA,"August",2019,5900,5600,300
+"06","CA","California","Chowchilla city","city",NA,"August",2019,4500,4200,300
+"06","CA","California","Commerce city","city",NA,"August",2019,5900,5600,300
+"06","CA","California","Waterford city","city",NA,"August",2019,3500,3200,300
+"06","CA","California","Woodlake city","city",NA,"August",2019,3300,3100,300
+"06","CA","California","Calipatria city","city",NA,"August",2019,1200,900,300
+"06","CA","California","Red Bluff city","city",NA,"August",2019,5390,5060,330
+"06","CA","California","Ukiah city","city",NA,"August",2019,7320,6980,340
+"06","CA","California","Burlingame city","city",NA,"August",2019,18600,18200,400
+"06","CA","California","Foster City city","city",NA,"August",2019,20300,19900,400
+"06","CA","California","Menlo Park city","city",NA,"August",2019,20200,19800,400
+"06","CA","California","San Carlos city","city",NA,"August",2019,18100,17700,400
+"06","CA","California","Belmont city","city",NA,"August",2019,17000,16600,400
+"06","CA","California","East Palo Alto city","city",NA,"August",2019,15200,14800,400
+"06","CA","California","Laguna Hills city","city",NA,"August",2019,17000,16600,400
+"06","CA","California","El Cerrito city","city",NA,"August",2019,13900,13600,400
+"06","CA","California","Los Altos city","city",NA,"August",2019,14900,14500,400
+"06","CA","California","Saratoga city","city",NA,"August",2019,14900,14500,400
+"06","CA","California","Benicia city","city",NA,"August",2019,14900,14500,400
+"06","CA","California","Calabasas city","city",NA,"August",2019,12200,11900,400
+"06","CA","California","Hercules city","city",NA,"August",2019,14000,13500,400
+"06","CA","California","American Canyon city","city",NA,"August",2019,10500,10100,400
+"06","CA","California","Norco city","city",NA,"August",2019,11600,11200,400
+"06","CA","California","Seal Beach city","city",NA,"August",2019,10000,9700,400
+"06","CA","California","Dixon city","city",NA,"August",2019,9700,9300,400
+"06","CA","California","Port Hueneme city","city",NA,"August",2019,10000,9600,400
+"06","CA","California","Lathrop city","city",NA,"August",2019,9800,9400,400
+"06","CA","California","South El Monte city","city",NA,"August",2019,9400,9000,400
+"06","CA","California","Soledad city","city",NA,"August",2019,8200,7700,400
+"06","CA","California","Twentynine Palms city","city",NA,"August",2019,7000,6600,400
+"06","CA","California","Kerman city","city",NA,"August",2019,6900,6500,400
+"06","CA","California","Coalinga city","city",NA,"August",2019,6400,6000,400
+"06","CA","California","Newman city","city",NA,"August",2019,4700,4400,400
+"06","CA","California","Exeter city","city",NA,"August",2019,4700,4300,400
+"06","CA","California","Orange Cove city","city",NA,"August",2019,3700,3300,400
+"06","CA","California","Avenal city","city",NA,"August",2019,3700,3300,400
+"06","CA","California","Firebaugh city","city",NA,"August",2019,3800,3300,400
+"06","CA","California","Pacifica city","city",NA,"August",2019,24600,24100,500
+"06","CA","California","Dana Point city","city",NA,"August",2019,18700,18200,500
+"06","CA","California","Pleasant Hill city","city",NA,"August",2019,18100,17600,500
+"06","CA","California","El Paso de Robles (Paso Robles) city","city",NA,"August",2019,16200,15700,500
+"06","CA","California","San Juan Capistrano city","city",NA,"August",2019,17300,16800,500
+"06","CA","California","Atascadero city","city",NA,"August",2019,15300,14900,500
+"06","CA","California","Monterey city","city",NA,"August",2019,16300,15800,500
+"06","CA","California","Ridgecrest city","city",NA,"August",2019,14200,13700,500
+"06","CA","California","Marina city","city",NA,"August",2019,13500,13000,500
+"06","CA","California","San Pablo city","city",NA,"August",2019,13900,13400,500
+"06","CA","California","Suisun City city","city",NA,"August",2019,14400,13900,500
+"06","CA","California","Lemon Grove city","city",NA,"August",2019,12500,12000,500
+"06","CA","California","Eureka city","city",NA,"August",2019,12600,12100,500
+"06","CA","California","Imperial Beach city","city",NA,"August",2019,12000,11500,500
+"06","CA","California","South Lake Tahoe city","city",NA,"August",2019,12700,12200,500
+"06","CA","California","Agoura Hills city","city",NA,"August",2019,11600,11100,500
+"06","CA","California","Galt city","city",NA,"August",2019,11600,11100,500
+"06","CA","California","Maywood city","city",NA,"August",2019,12400,11800,500
+"06","CA","California","Lomita city","city",NA,"August",2019,11200,10700,500
+"06","CA","California","San Fernando city","city",NA,"August",2019,11800,11300,500
+"06","CA","California","Cudahy city","city",NA,"August",2019,10100,9600,500
+"06","CA","California","Selma city","city",NA,"August",2019,11000,10400,500
+"06","CA","California","Patterson city","city",NA,"August",2019,10100,9600,500
+"06","CA","California","Barstow city","city",NA,"August",2019,8900,8400,500
+"06","CA","California","El Segundo city","city",NA,"August",2019,9500,9000,500
+"06","CA","California","Arcata city","city",NA,"August",2019,9500,8900,500
+"06","CA","California","Parlier city","city",NA,"August",2019,6900,6400,500
+"06","CA","California","McFarland city","city",NA,"August",2019,5900,5400,500
+"06","CA","California","Clearlake city","city",NA,"August",2019,6140,5610,530
+"06","CA","California","San Bruno city","city",NA,"August",2019,27300,26800,600
+"06","CA","California","Campbell city","city",NA,"August",2019,26900,26300,600
+"06","CA","California","Morgan Hill city","city",NA,"August",2019,24400,23800,600
+"06","CA","California","Martinez city","city",NA,"August",2019,20700,20100,600
+"06","CA","California","Seaside city","city",NA,"August",2019,18500,17900,600
+"06","CA","California","Moorpark city","city",NA,"August",2019,19400,18800,600
+"06","CA","California","Stanton city","city",NA,"August",2019,18500,17900,600
+"06","CA","California","Montclair city","city",NA,"August",2019,19200,18600,600
+"06","CA","California","Walnut city","city",NA,"August",2019,16000,15500,600
+"06","CA","California","Wildomar city","city",NA,"August",2019,17600,16900,600
+"06","CA","California","Riverbank city","city",NA,"August",2019,12000,11500,600
+"06","CA","California","Lemoore city","city",NA,"August",2019,12200,11500,600
+"06","CA","California","Banning city","city",NA,"August",2019,11200,10600,600
+"06","CA","California","Duarte city","city",NA,"August",2019,11100,10400,600
+"06","CA","California","Arvin city","city",NA,"August",2019,9200,8500,600
+"06","CA","California","Farmersville city","city",NA,"August",2019,5000,4500,600
+"06","CA","California","Corcoran city","city",NA,"August",2019,4400,3800,600
+"06","CA","California","Holtville city","city",NA,"August",2019,2600,2000,600
+"06","CA","California","Palo Alto city","city",NA,"August",2019,36000,35200,700
+"06","CA","California","Novato city","city",NA,"August",2019,29900,29200,700
+"06","CA","California","Poway city","city",NA,"August",2019,25600,25000,700
+"06","CA","California","Rancho Santa Margarita city","city",NA,"August",2019,27700,27000,700
+"06","CA","California","Rohnert Park city","city",NA,"August",2019,24200,23500,700
+"06","CA","California","San Luis Obispo city","city",NA,"August",2019,25200,24500,700
+"06","CA","California","Brea city","city",NA,"August",2019,23100,22500,700
+"06","CA","California","Newark city","city",NA,"August",2019,25300,24600,700
+"06","CA","California","Beaumont city","city",NA,"August",2019,22800,22100,700
+"06","CA","California","Lincoln city","city",NA,"August",2019,19300,18600,700
+"06","CA","California","Oakley city","city",NA,"August",2019,19900,19200,700
+"06","CA","California","Manhattan Beach city","city",NA,"August",2019,19800,19100,700
+"06","CA","California","Temple City city","city",NA,"August",2019,18300,17600,700
+"06","CA","California","Lawndale city","city",NA,"August",2019,16600,15900,700
+"06","CA","California","South Pasadena city","city",NA,"August",2019,15000,14300,700
+"06","CA","California","La Verne city","city",NA,"August",2019,16100,15400,700
+"06","CA","California","Santa Paula city","city",NA,"August",2019,13400,12700,700
+"06","CA","California","Oakdale city","city",NA,"August",2019,9700,9000,700
+"06","CA","California","Lindsay city","city",NA,"August",2019,5500,4800,700
+"06","CA","California","California City city","city",NA,"August",2019,4600,3900,700
+"06","CA","California","San Rafael city","city",NA,"August",2019,32700,32000,800
+"06","CA","California","Cupertino city","city",NA,"August",2019,29900,29200,800
+"06","CA","California","Aliso Viejo city","city",NA,"August",2019,30500,29600,800
+"06","CA","California","Cypress city","city",NA,"August",2019,25100,24300,800
+"06","CA","California","Placentia city","city",NA,"August",2019,25900,25000,800
+"06","CA","California","Yucaipa city","city",NA,"August",2019,25200,24300,800
+"06","CA","California","San Gabriel city","city",NA,"August",2019,21500,20700,800
+"06","CA","California","Monrovia city","city",NA,"August",2019,20900,20100,800
+"06","CA","California","Rancho Palos Verdes city","city",NA,"August",2019,19700,18900,800
+"06","CA","California","Beverly Hills city","city",NA,"August",2019,18400,17600,800
+"06","CA","California","San Dimas city","city",NA,"August",2019,18000,17200,800
+"06","CA","California","Claremont city","city",NA,"August",2019,17300,16500,800
+"06","CA","California","Lompoc city","city",NA,"August",2019,17400,16600,800
+"06","CA","California","Bell Gardens city","city",NA,"August",2019,18100,17300,800
+"06","CA","California","Bell city","city",NA,"August",2019,15200,14400,800
+"06","CA","California","Desert Hot Springs city","city",NA,"August",2019,11700,10900,800
+"06","CA","California","Adelanto city","city",NA,"August",2019,9700,8900,800
+"06","CA","California","Shafter city","city",NA,"August",2019,7700,6900,800
+"06","CA","California","Mendota city","city",NA,"August",2019,4900,4200,800
+"06","CA","California","Petaluma city","city",NA,"August",2019,34400,33600,900
+"06","CA","California","Dublin city","city",NA,"August",2019,32600,31700,900
+"06","CA","California","Encinitas city","city",NA,"August",2019,33300,32400,900
+"06","CA","California","Gilroy city","city",NA,"August",2019,30600,29700,900
+"06","CA","California","San Clemente city","city",NA,"August",2019,31900,30900,900
+"06","CA","California","La Habra city","city",NA,"August",2019,30900,30000,900
+"06","CA","California","Santee city","city",NA,"August",2019,29300,28500,900
+"06","CA","California","Fountain Valley city","city",NA,"August",2019,28300,27400,900
+"06","CA","California","Brentwood city","city",NA,"August",2019,29500,28500,900
+"06","CA","California","La Puente city","city",NA,"August",2019,19000,18200,900
+"06","CA","California","Atwater city","city",NA,"August",2019,12100,11200,900
+"06","CA","California","Sanger city","city",NA,"August",2019,11700,10800,900
+"06","CA","California","Mountain View city","city",NA,"August",2019,53200,52100,1000
+"06","CA","California","South San Francisco city","city",NA,"August",2019,40200,39200,1000
+"06","CA","California","Yorba Linda city","city",NA,"August",2019,35000,34000,1000
+"06","CA","California","Walnut Creek city","city",NA,"August",2019,34500,33500,1000
+"06","CA","California","Laguna Niguel city","city",NA,"August",2019,35600,34600,1000
+"06","CA","California","Eastvale City city","city",NA,"August",2019,32600,31600,1000
+"06","CA","California","Camarillo city","city",NA,"August",2019,33900,32900,1000
+"06","CA","California","La Mesa city","city",NA,"August",2019,30600,29600,1000
+"06","CA","California","Cerritos city","city",NA,"August",2019,25400,24400,1000
+"06","CA","California","West Sacramento city","city",NA,"August",2019,25900,24900,1000
+"06","CA","California","Highland city","city",NA,"August",2019,24700,23700,1000
+"06","CA","California","National City city","city",NA,"August",2019,24800,23800,1000
+"06","CA","California","Culver City city","city",NA,"August",2019,23000,22000,1000
+"06","CA","California","Hollister city","city",NA,"August",2019,20100,19100,1000
+"06","CA","California","San Jacinto city","city",NA,"August",2019,18900,17900,1000
+"06","CA","California","Wasco city","city",NA,"August",2019,9000,8000,1000
+"06","CA","California","Redwood City city","city",NA,"August",2019,51900,50800,1100
+"06","CA","California","San Ramon city","city",NA,"August",2019,39800,38700,1100
+"06","CA","California","Davis city","city",NA,"August",2019,36100,35100,1100
+"06","CA","California","Folsom city","city",NA,"August",2019,37700,36600,1100
+"06","CA","California","Redlands city","city",NA,"August",2019,35600,34500,1100
+"06","CA","California","Rocklin city","city",NA,"August",2019,33600,32500,1100
+"06","CA","California","Arcadia city","city",NA,"August",2019,29900,28800,1100
+"06","CA","California","Colton city","city",NA,"August",2019,24700,23600,1100
+"06","CA","California","Glendora city","city",NA,"August",2019,26200,25000,1100
+"06","CA","California","Azusa city","city",NA,"August",2019,25300,24100,1100
+"06","CA","California","La Mirada city","city",NA,"August",2019,24300,23200,1100
+"06","CA","California","Palm Springs city","city",NA,"August",2019,23100,22000,1100
+"06","CA","California","La Quinta city","city",NA,"August",2019,19400,18200,1100
+"06","CA","California","Livermore city","city",NA,"August",2019,48500,47300,1200
+"06","CA","California","Newport Beach city","city",NA,"August",2019,45000,43800,1200
+"06","CA","California","Chino Hills city","city",NA,"August",2019,45500,44200,1200
+"06","CA","California","Napa city","city",NA,"August",2019,43000,41900,1200
+"06","CA","California","Alameda city","city",NA,"August",2019,41400,40200,1200
+"06","CA","California","Pleasanton city","city",NA,"August",2019,41300,40100,1200
+"06","CA","California","Tustin city","city",NA,"August",2019,42600,41500,1200
+"06","CA","California","Milpitas city","city",NA,"August",2019,43400,42200,1200
+"06","CA","California","Union City city","city",NA,"August",2019,37100,35900,1200
+"06","CA","California","Diamond Bar city","city",NA,"August",2019,30400,29300,1200
+"06","CA","California","Lake Elsinore city","city",NA,"August",2019,30500,29400,1200
+"06","CA","California","Rosemead city","city",NA,"August",2019,25400,24200,1200
+"06","CA","California","Covina city","city",NA,"August",2019,24000,22900,1200
+"06","CA","California","Watsonville city","city",NA,"August",2019,25300,24000,1200
+"06","CA","California","Los Banos city","city",NA,"August",2019,16600,15400,1200
+"06","CA","California","San Mateo city","city",NA,"August",2019,65900,64600,1300
+"06","CA","California","Lake Forest city","city",NA,"August",2019,49100,47800,1300
+"06","CA","California","San Marcos city","city",NA,"August",2019,42600,41300,1300
+"06","CA","California","Buena Park city","city",NA,"August",2019,40300,38900,1300
+"06","CA","California","Pittsburg city","city",NA,"August",2019,34500,33100,1300
+"06","CA","California","Santa Cruz city","city",NA,"August",2019,34200,32900,1300
+"06","CA","California","Woodland city","city",NA,"August",2019,30600,29300,1300
+"06","CA","California","Monterey Park city","city",NA,"August",2019,29400,28200,1300
+"06","CA","California","Huntington Park city","city",NA,"August",2019,26600,25300,1300
+"06","CA","California","Paramount city","city",NA,"August",2019,24700,23400,1300
+"06","CA","California","Reedley city","city",NA,"August",2019,12200,10900,1300
+"06","CA","California","Dinuba city","city",NA,"August",2019,10700,9400,1300
+"06","CA","California","Santa Barbara city","city",NA,"August",2019,51200,49800,1400
+"06","CA","California","Westminster city","city",NA,"August",2019,41800,40500,1400
+"06","CA","California","Upland city","city",NA,"August",2019,39500,38200,1400
+"06","CA","California","West Hollywood city","city",NA,"August",2019,27200,25900,1400
+"06","CA","California","Ceres city","city",NA,"August",2019,21500,20100,1400
+"06","CA","California","Daly City city","city",NA,"August",2019,66100,64600,1500
 "06","CA","California","Emeryville city","city",NA,"March",2020,7400,7100,200
 "06","CA","California","Sonoma city","city",NA,"March",2020,5500,5300,200
 "06","CA","California","Palos Verdes Estates city","city",NA,"March",2020,5500,5300,200
@@ -6848,790 +7632,6 @@
 "06","CA","California","San Jose city","city",NA,"May",2020,543500,473100,70400
 "06","CA","California","San Diego city","city",NA,"May",2020,702300,599000,103300
 "06","CA","California","Los Angeles city","city",NA,"May",2020,1917000,1518500,398500
-"06","CA","California","Angels City city","city",NA,"April",2019,1820,1820,0
-"06","CA","California","Carmel by the Sea city","city",NA,"April",2019,1600,1600,0
-"06","CA","California","Avalon city","city",NA,"April",2019,2100,2100,0
-"06","CA","California","St. Helena city","city",NA,"April",2019,2900,2900,0
-"06","CA","California","Big Bear Lake city","city",NA,"April",2019,2300,2300,0
-"06","CA","California","Bradbury city","city",NA,"April",2019,500,500,0
-"06","CA","California","Ferndale city","city",NA,"April",2019,600,600,0
-"06","CA","California","Buellton city","city",NA,"April",2019,2800,2700,0
-"06","CA","California","Vernon city","city",NA,"April",2019,0,0,0
-"06","CA","California","Del Mar city","city",NA,"April",2019,2300,2200,0
-"06","CA","California","Trinidad city","city",NA,"April",2019,100,100,0
-"06","CA","California","Needles city","city",NA,"April",2019,1700,1700,0
-"06","CA","California","Biggs city","city",NA,"April",2019,900,900,0
-"06","CA","California","San Juan Bautista city","city",NA,"April",2019,1000,1000,0
-"06","CA","California","Isleton city","city",NA,"April",2019,300,300,0
-"06","CA","California","Hidden Hills city","city",NA,"April",2019,600,600,0
-"06","CA","California","Blue Lake city","city",NA,"April",2019,500,500,0
-"06","CA","California","Rolling Hills city","city",NA,"April",2019,600,500,0
-"06","CA","California","Colfax city","city",NA,"April",2019,1000,900,0
-"06","CA","California","Industry city","city",NA,"April",2019,200,100,0
-"06","CA","California","Sand City city","city",NA,"April",2019,200,200,0
-"06","CA","California","Amador City city","city",NA,"April",2019,80,70,0
-"06","CA","California","Irwindale city","city",NA,"April",2019,700,600,0
-"06","CA","California","Maricopa city","city",NA,"April",2019,400,300,0
-"06","CA","California","Plymouth city","city",NA,"April",2019,460,450,10
-"06","CA","California","Point Arena city","city",NA,"April",2019,220,210,10
-"06","CA","California","Tehama city","city",NA,"April",2019,180,170,10
-"06","CA","California","Sutter Creek city","city",NA,"April",2019,1050,1030,20
-"06","CA","California","Portola city","city",NA,"April",2019,720,700,20
-"06","CA","California","Mount Shasta city","city",NA,"April",2019,1470,1450,30
-"06","CA","California","Dunsmuir city","city",NA,"April",2019,630,600,30
-"06","CA","California","Loyalton city","city",NA,"April",2019,450,420,30
-"06","CA","California","Nevada City city","city",NA,"April",2019,1410,1370,40
-"06","CA","California","Bishop city","city",NA,"April",2019,1610,1560,50
-"06","CA","California","Willits city","city",NA,"April",2019,1920,1870,60
-"06","CA","California","Lakeport city","city",NA,"April",2019,2550,2480,70
-"06","CA","California","Jackson city","city",NA,"April",2019,2150,2090,70
-"06","CA","California","Crescent City city","city",NA,"April",2019,1450,1380,70
-"06","CA","California","Ione city","city",NA,"April",2019,2120,2050,80
-"06","CA","California","Sonora city","city",NA,"April",2019,1930,1850,90
-"06","CA","California","Alturas city","city",NA,"April",2019,1060,970,90
-"06","CA","California","Clayton city","city",NA,"April",2019,5900,5800,100
-"06","CA","California","Cloverdale city","city",NA,"April",2019,4400,4300,100
-"06","CA","California","Gonzales city","city",NA,"April",2019,4100,4100,100
-"06","CA","California","Half Moon Bay city","city",NA,"April",2019,7600,7500,100
-"06","CA","California","Mill Valley city","city",NA,"April",2019,7000,6900,100
-"06","CA","California","Pismo Beach city","city",NA,"April",2019,4600,4500,100
-"06","CA","California","Piedmont city","city",NA,"April",2019,5100,5000,100
-"06","CA","California","Solana Beach city","city",NA,"April",2019,6800,6700,100
-"06","CA","California","Capitola city","city",NA,"April",2019,5700,5600,100
-"06","CA","California","Larkspur city","city",NA,"April",2019,6900,6800,100
-"06","CA","California","Orinda city","city",NA,"April",2019,8900,8800,100
-"06","CA","California","Laguna Woods city","city",NA,"April",2019,3100,3100,100
-"06","CA","California","Brisbane city","city",NA,"April",2019,2900,2800,100
-"06","CA","California","Canyon Lake city","city",NA,"April",2019,5400,5300,100
-"06","CA","California","Emeryville city","city",NA,"April",2019,7400,7200,100
-"06","CA","California","Palos Verdes Estates city","city",NA,"April",2019,5600,5500,100
-"06","CA","California","Solvang city","city",NA,"April",2019,3000,3000,100
-"06","CA","California","Sonoma city","city",NA,"April",2019,5500,5400,100
-"06","CA","California","San Marino city","city",NA,"April",2019,5600,5500,100
-"06","CA","California","Sausalito city","city",NA,"April",2019,4400,4300,100
-"06","CA","California","Westlake Village city","city",NA,"April",2019,3900,3800,100
-"06","CA","California","Healdsburg city","city",NA,"April",2019,6000,5800,100
-"06","CA","California","Ojai city","city",NA,"April",2019,3500,3500,100
-"06","CA","California","Placerville city","city",NA,"April",2019,5000,4900,100
-"06","CA","California","Cotati city","city",NA,"April",2019,4300,4100,100
-"06","CA","California","Guadalupe city","city",NA,"April",2019,3300,3200,100
-"06","CA","California","Villa Park city","city",NA,"April",2019,2500,2400,100
-"06","CA","California","Rolling Hills Estates city","city",NA,"April",2019,3500,3400,100
-"06","CA","California","Escalon city","city",NA,"April",2019,3800,3600,100
-"06","CA","California","Indian Wells city","city",NA,"April",2019,1800,1800,100
-"06","CA","California","La Habra Heights city","city",NA,"April",2019,2600,2600,100
-"06","CA","California","Calistoga city","city",NA,"April",2019,2700,2600,100
-"06","CA","California","Calimesa city","city",NA,"April",2019,3500,3400,100
-"06","CA","California","Rio Vista city","city",NA,"April",2019,2900,2800,100
-"06","CA","California","Rio Dell city","city",NA,"April",2019,1400,1300,100
-"06","CA","California","Dos Palos city","city",NA,"April",2019,2200,2000,100
-"06","CA","California","Wheatland city","city",NA,"April",2019,1600,1500,100
-"06","CA","California","Del Rey Oaks city","city",NA,"April",2019,1000,900,100
-"06","CA","California","Weed city","city",NA,"April",2019,1060,970,100
-"06","CA","California","Westmorland city","city",NA,"April",2019,900,800,100
-"06","CA","California","Fort Bragg city","city",NA,"April",2019,3160,3040,130
-"06","CA","California","Susanville city","city",NA,"April",2019,3020,2870,150
-"06","CA","California","Millbrae city","city",NA,"April",2019,12700,12500,200
-"06","CA","California","Hermosa Beach city","city",NA,"April",2019,12500,12300,200
-"06","CA","California","La Canada Flintridge city","city",NA,"April",2019,9500,9300,200
-"06","CA","California","Albany city","city",NA,"April",2019,9800,9600,200
-"06","CA","California","Loma Linda city","city",NA,"April",2019,11000,10800,200
-"06","CA","California","Arroyo Grande city","city",NA,"April",2019,9300,9100,200
-"06","CA","California","Santa Fe Springs city","city",NA,"April",2019,8200,8000,200
-"06","CA","California","La Palma city","city",NA,"April",2019,7700,7500,200
-"06","CA","California","Malibu city","city",NA,"April",2019,6600,6400,200
-"06","CA","California","Los Alamitos city","city",NA,"April",2019,5800,5700,200
-"06","CA","California","Fillmore city","city",NA,"April",2019,7300,7100,200
-"06","CA","California","Coronado city","city",NA,"April",2019,7600,7400,200
-"06","CA","California","Rancho Mirage city","city",NA,"April",2019,6300,6100,200
-"06","CA","California","Carpinteria city","city",NA,"April",2019,7300,7100,200
-"06","CA","California","Fortuna city","city",NA,"April",2019,5200,5000,200
-"06","CA","California","Scotts Valley city","city",NA,"April",2019,6100,5900,200
-"06","CA","California","Auburn city","city",NA,"April",2019,6900,6700,200
-"06","CA","California","Grover Beach city","city",NA,"April",2019,6900,6700,200
-"06","CA","California","Ripon city","city",NA,"April",2019,7200,7000,200
-"06","CA","California","Grand Terrace city","city",NA,"April",2019,6500,6300,200
-"06","CA","California","Signal Hill city","city",NA,"April",2019,6400,6100,200
-"06","CA","California","Blythe city","city",NA,"April",2019,5700,5500,200
-"06","CA","California","Morro Bay city","city",NA,"April",2019,5000,4800,200
-"06","CA","California","Sierra Madre city","city",NA,"April",2019,5600,5400,200
-"06","CA","California","Winters city","city",NA,"April",2019,3800,3700,200
-"06","CA","California","Anderson city","city",NA,"April",2019,4200,4000,200
-"06","CA","California","Sebastopol city","city",NA,"April",2019,4000,3800,200
-"06","CA","California","Hughson city","city",NA,"April",2019,3400,3200,200
-"06","CA","California","Taft city","city",NA,"April",2019,3000,2900,200
-"06","CA","California","Tehachapi city","city",NA,"April",2019,3700,3500,200
-"06","CA","California","Fowler city","city",NA,"April",2019,2900,2800,200
-"06","CA","California","Gridley city","city",NA,"April",2019,2600,2500,200
-"06","CA","California","Shasta Lake city","city",NA,"April",2019,4400,4100,200
-"06","CA","California","Corning city","city",NA,"April",2019,2940,2740,200
-"06","CA","California","Willows city","city",NA,"April",2019,2550,2350,200
-"06","CA","California","San Joaquin city","city",NA,"April",2019,1600,1400,200
-"06","CA","California","Calipatria city","city",NA,"April",2019,1100,900,200
-"06","CA","California","Yreka city","city",NA,"April",2019,3000,2770,230
-"06","CA","California","Grass Valley city","city",NA,"April",2019,5820,5580,240
-"06","CA","California","Orland city","city",NA,"April",2019,3680,3440,240
-"06","CA","California","Williams city","city",NA,"April",2019,2710,2440,270
-"06","CA","California","Menlo Park city","city",NA,"April",2019,19800,19500,300
-"06","CA","California","Burlingame city","city",NA,"April",2019,18300,17900,300
-"06","CA","California","San Carlos city","city",NA,"April",2019,17700,17400,300
-"06","CA","California","Monterey city","city",NA,"April",2019,15300,15000,300
-"06","CA","California","Belmont city","city",NA,"April",2019,16700,16300,300
-"06","CA","California","Los Altos city","city",NA,"April",2019,14600,14400,300
-"06","CA","California","East Palo Alto city","city",NA,"April",2019,14900,14600,300
-"06","CA","California","Lafayette city","city",NA,"April",2019,12500,12300,300
-"06","CA","California","Saratoga city","city",NA,"April",2019,14700,14400,300
-"06","CA","California","Ridgecrest city","city",NA,"April",2019,13500,13200,300
-"06","CA","California","Benicia city","city",NA,"April",2019,14800,14400,300
-"06","CA","California","El Cerrito city","city",NA,"April",2019,13800,13500,300
-"06","CA","California","Laguna Beach city","city",NA,"April",2019,12500,12200,300
-"06","CA","California","Calabasas city","city",NA,"April",2019,12200,11900,300
-"06","CA","California","Hercules city","city",NA,"April",2019,13800,13500,300
-"06","CA","California","Marina city","city",NA,"April",2019,12700,12300,300
-"06","CA","California","Seal Beach city","city",NA,"April",2019,9900,9700,300
-"06","CA","California","Pinole city","city",NA,"April",2019,9900,9600,300
-"06","CA","California","Port Hueneme city","city",NA,"April",2019,10100,9800,300
-"06","CA","California","Artesia city","city",NA,"April",2019,8000,7700,300
-"06","CA","California","Dixon city","city",NA,"April",2019,9700,9300,300
-"06","CA","California","King City city","city",NA,"April",2019,6500,6200,300
-"06","CA","California","Twentynine Palms city","city",NA,"April",2019,6900,6600,300
-"06","CA","California","Hawaiian Gardens city","city",NA,"April",2019,6300,6100,300
-"06","CA","California","Livingston city","city",NA,"April",2019,6700,6400,300
-"06","CA","California","Commerce city","city",NA,"April",2019,5900,5600,300
-"06","CA","California","Kingsburg city","city",NA,"April",2019,5700,5400,300
-"06","CA","California","Oroville city","city",NA,"April",2019,6000,5700,300
-"06","CA","California","Marysville city","city",NA,"April",2019,5000,4700,300
-"06","CA","California","Chowchilla city","city",NA,"April",2019,4400,4100,300
-"06","CA","California","Live Oak city","city",NA,"April",2019,4000,3700,300
-"06","CA","California","Waterford city","city",NA,"April",2019,3400,3200,300
-"06","CA","California","Woodlake city","city",NA,"April",2019,3300,3000,300
-"06","CA","California","Gustine city","city",NA,"April",2019,2800,2500,300
-"06","CA","California","Huron city","city",NA,"April",2019,2500,2300,300
-"06","CA","California","Red Bluff city","city",NA,"April",2019,5310,4980,340
-"06","CA","California","Ukiah city","city",NA,"April",2019,7290,6910,380
-"06","CA","California","Colusa city","city",NA,"April",2019,3070,2680,390
-"06","CA","California","Pacifica city","city",NA,"April",2019,24100,23700,400
-"06","CA","California","Foster City city","city",NA,"April",2019,20000,19600,400
-"06","CA","California","Seaside city","city",NA,"April",2019,17300,17000,400
-"06","CA","California","Laguna Hills city","city",NA,"April",2019,17000,16600,400
-"06","CA","California","Dana Point city","city",NA,"April",2019,18700,18200,400
-"06","CA","California","San Juan Capistrano city","city",NA,"April",2019,17200,16800,400
-"06","CA","California","Atascadero city","city",NA,"April",2019,15500,15100,400
-"06","CA","California","El Paso de Robles (Paso Robles) city","city",NA,"April",2019,16400,16000,400
-"06","CA","California","Eureka city","city",NA,"April",2019,12600,12200,400
-"06","CA","California","San Pablo city","city",NA,"April",2019,13800,13300,400
-"06","CA","California","Norco city","city",NA,"April",2019,11600,11200,400
-"06","CA","California","American Canyon city","city",NA,"April",2019,10100,9800,400
-"06","CA","California","Lemon Grove city","city",NA,"April",2019,12400,11900,400
-"06","CA","California","Lomita city","city",NA,"April",2019,11200,10700,400
-"06","CA","California","Imperial Beach city","city",NA,"April",2019,11900,11500,400
-"06","CA","California","Agoura Hills city","city",NA,"April",2019,11500,11100,400
-"06","CA","California","Cudahy city","city",NA,"April",2019,10000,9600,400
-"06","CA","California","South El Monte city","city",NA,"April",2019,9300,9000,400
-"06","CA","California","Lathrop city","city",NA,"April",2019,9600,9200,400
-"06","CA","California","Barstow city","city",NA,"April",2019,8800,8400,400
-"06","CA","California","El Segundo city","city",NA,"April",2019,9400,9000,400
-"06","CA","California","Kerman city","city",NA,"April",2019,6800,6400,400
-"06","CA","California","Newman city","city",NA,"April",2019,4700,4300,400
-"06","CA","California","Orange Cove city","city",NA,"April",2019,3700,3300,400
-"06","CA","California","Holtville city","city",NA,"April",2019,2500,2000,400
-"06","CA","California","San Bruno city","city",NA,"April",2019,26800,26300,500
-"06","CA","California","Campbell city","city",NA,"April",2019,26500,25900,500
-"06","CA","California","San Luis Obispo city","city",NA,"April",2019,25500,25000,500
-"06","CA","California","Brea city","city",NA,"April",2019,23000,22500,500
-"06","CA","California","Moorpark city","city",NA,"April",2019,19500,19000,500
-"06","CA","California","Pleasant Hill city","city",NA,"April",2019,18000,17500,500
-"06","CA","California","Martinez city","city",NA,"April",2019,20500,19900,500
-"06","CA","California","Montclair city","city",NA,"April",2019,19100,18600,500
-"06","CA","California","Stanton city","city",NA,"April",2019,18400,17900,500
-"06","CA","California","Walnut city","city",NA,"April",2019,16000,15500,500
-"06","CA","California","South Pasadena city","city",NA,"April",2019,14800,14300,500
-"06","CA","California","Suisun City city","city",NA,"April",2019,14300,13800,500
-"06","CA","California","Maywood city","city",NA,"April",2019,12300,11800,500
-"06","CA","California","San Fernando city","city",NA,"April",2019,11800,11300,500
-"06","CA","California","South Lake Tahoe city","city",NA,"April",2019,12600,12100,500
-"06","CA","California","Desert Hot Springs city","city",NA,"April",2019,11400,10900,500
-"06","CA","California","Banning city","city",NA,"April",2019,11200,10600,500
-"06","CA","California","Duarte city","city",NA,"April",2019,11000,10500,500
-"06","CA","California","Arcata city","city",NA,"April",2019,9600,9100,500
-"06","CA","California","Pacific Grove city","city",NA,"April",2019,8400,7900,500
-"06","CA","California","Greenfield city","city",NA,"April",2019,8300,7800,500
-"06","CA","California","Coalinga city","city",NA,"April",2019,6400,5900,500
-"06","CA","California","Exeter city","city",NA,"April",2019,4700,4200,500
-"06","CA","California","Firebaugh city","city",NA,"April",2019,3800,3300,500
-"06","CA","California","Avenal city","city",NA,"April",2019,3700,3200,500
-"06","CA","California","Clearlake city","city",NA,"April",2019,6120,5540,580
-"06","CA","California","Palo Alto city","city",NA,"April",2019,35400,34800,600
-"06","CA","California","Cupertino city","city",NA,"April",2019,29400,28800,600
-"06","CA","California","San Rafael city","city",NA,"April",2019,32000,31400,600
-"06","CA","California","Novato city","city",NA,"April",2019,29300,28700,600
-"06","CA","California","Morgan Hill city","city",NA,"April",2019,24100,23500,600
-"06","CA","California","Rancho Santa Margarita city","city",NA,"April",2019,27600,27000,600
-"06","CA","California","Poway city","city",NA,"April",2019,25500,24800,600
-"06","CA","California","Cypress city","city",NA,"April",2019,24900,24300,600
-"06","CA","California","Newark city","city",NA,"April",2019,25000,24400,600
-"06","CA","California","Rohnert Park city","city",NA,"April",2019,23500,23000,600
-"06","CA","California","La Quinta city","city",NA,"April",2019,18800,18300,600
-"06","CA","California","Manhattan Beach city","city",NA,"April",2019,19700,19100,600
-"06","CA","California","Rancho Palos Verdes city","city",NA,"April",2019,19500,18900,600
-"06","CA","California","Temple City city","city",NA,"April",2019,18200,17600,600
-"06","CA","California","Beverly Hills city","city",NA,"April",2019,18200,17600,600
-"06","CA","California","Lincoln city","city",NA,"April",2019,19100,18400,600
-"06","CA","California","Claremont city","city",NA,"April",2019,17100,16500,600
-"06","CA","California","Wildomar city","city",NA,"April",2019,17600,17000,600
-"06","CA","California","San Dimas city","city",NA,"April",2019,17800,17200,600
-"06","CA","California","La Verne city","city",NA,"April",2019,16000,15400,600
-"06","CA","California","Lawndale city","city",NA,"April",2019,16500,15900,600
-"06","CA","California","Bell city","city",NA,"April",2019,15100,14400,600
-"06","CA","California","Riverbank city","city",NA,"April",2019,11900,11300,600
-"06","CA","California","Galt city","city",NA,"April",2019,11600,11000,600
-"06","CA","California","Patterson city","city",NA,"April",2019,10000,9400,600
-"06","CA","California","Selma city","city",NA,"April",2019,10900,10300,600
-"06","CA","California","Parlier city","city",NA,"April",2019,6900,6300,600
-"06","CA","California","McFarland city","city",NA,"April",2019,5700,5100,600
-"06","CA","California","Farmersville city","city",NA,"April",2019,5000,4400,600
-"06","CA","California","Davis city","city",NA,"April",2019,35300,34500,700
-"06","CA","California","Petaluma city","city",NA,"April",2019,33500,32800,700
-"06","CA","California","Aliso Viejo city","city",NA,"April",2019,30300,29600,700
-"06","CA","California","Dublin city","city",NA,"April",2019,32200,31500,700
-"06","CA","California","San Clemente city","city",NA,"April",2019,31700,30900,700
-"06","CA","California","Fountain Valley city","city",NA,"April",2019,28200,27400,700
-"06","CA","California","Cathedral City city","city",NA,"April",2019,25900,25200,700
-"06","CA","California","Placentia city","city",NA,"April",2019,25700,25100,700
-"06","CA","California","Palm Desert city","city",NA,"April",2019,24400,23700,700
-"06","CA","California","Yucaipa city","city",NA,"April",2019,25000,24300,700
-"06","CA","California","Palm Springs city","city",NA,"April",2019,22700,22000,700
-"06","CA","California","Beaumont city","city",NA,"April",2019,22800,22100,700
-"06","CA","California","Monrovia city","city",NA,"April",2019,20800,20100,700
-"06","CA","California","San Gabriel city","city",NA,"April",2019,21400,20700,700
-"06","CA","California","Oakley city","city",NA,"April",2019,19800,19100,700
-"06","CA","California","Bell Gardens city","city",NA,"April",2019,18000,17300,700
-"06","CA","California","Lemoore city","city",NA,"April",2019,12000,11300,700
-"06","CA","California","Adelanto city","city",NA,"April",2019,9700,8900,700
-"06","CA","California","Arvin city","city",NA,"April",2019,8900,8200,700
-"06","CA","California","Oakdale city","city",NA,"April",2019,9600,8800,700
-"06","CA","California","California City city","city",NA,"April",2019,4500,3800,700
-"06","CA","California","Mountain View city","city",NA,"April",2019,52300,51500,800
-"06","CA","California","Encinitas city","city",NA,"April",2019,33000,32300,800
-"06","CA","California","Walnut Creek city","city",NA,"April",2019,34100,33300,800
-"06","CA","California","Yorba Linda city","city",NA,"April",2019,34800,34000,800
-"06","CA","California","Santa Cruz city","city",NA,"April",2019,33200,32400,800
-"06","CA","California","Eastvale City city","city",NA,"April",2019,32500,31600,800
-"06","CA","California","La Habra city","city",NA,"April",2019,30800,30000,800
-"06","CA","California","Santee city","city",NA,"April",2019,29100,28300,800
-"06","CA","California","Cerritos city","city",NA,"April",2019,25300,24400,800
-"06","CA","California","La Puente city","city",NA,"April",2019,19000,18200,800
-"06","CA","California","Lompoc city","city",NA,"April",2019,17300,16500,800
-"06","CA","California","Lindsay city","city",NA,"April",2019,5500,4700,800
-"06","CA","California","Corcoran city","city",NA,"April",2019,4500,3800,800
-"06","CA","California","Redwood City city","city",NA,"April",2019,50800,50000,900
-"06","CA","California","Pleasanton city","city",NA,"April",2019,40800,39900,900
-"06","CA","California","South San Francisco city","city",NA,"April",2019,39500,38600,900
-"06","CA","California","San Ramon city","city",NA,"April",2019,39300,38400,900
-"06","CA","California","Folsom city","city",NA,"April",2019,37200,36300,900
-"06","CA","California","Laguna Niguel city","city",NA,"April",2019,35500,34600,900
-"06","CA","California","Camarillo city","city",NA,"April",2019,34300,33400,900
-"06","CA","California","Rocklin city","city",NA,"April",2019,33100,32200,900
-"06","CA","California","La Mesa city","city",NA,"April",2019,30300,29400,900
-"06","CA","California","Arcadia city","city",NA,"April",2019,29700,28800,900
-"06","CA","California","Gilroy city","city",NA,"April",2019,30200,29300,900
-"06","CA","California","Brentwood city","city",NA,"April",2019,29200,28300,900
-"06","CA","California","Glendora city","city",NA,"April",2019,26000,25100,900
-"06","CA","California","Highland city","city",NA,"April",2019,24500,23700,900
-"06","CA","California","West Sacramento city","city",NA,"April",2019,25400,24500,900
-"06","CA","California","Colton city","city",NA,"April",2019,24500,23600,900
-"06","CA","California","La Mirada city","city",NA,"April",2019,24100,23200,900
-"06","CA","California","Rosemead city","city",NA,"April",2019,25100,24200,900
-"06","CA","California","National City city","city",NA,"April",2019,24600,23700,900
-"06","CA","California","Culver City city","city",NA,"April",2019,23000,22100,900
-"06","CA","California","San Jacinto city","city",NA,"April",2019,18900,17900,900
-"06","CA","California","Santa Paula city","city",NA,"April",2019,13800,12900,900
-"06","CA","California","Atwater city","city",NA,"April",2019,11900,11000,900
-"06","CA","California","Soledad city","city",NA,"April",2019,8200,7300,900
-"06","CA","California","Shafter city","city",NA,"April",2019,7500,6600,900
-"06","CA","California","Mendota city","city",NA,"April",2019,5000,4100,900
-"06","CA","California","Santa Barbara city","city",NA,"April",2019,50500,49600,1000
-"06","CA","California","Chino Hills city","city",NA,"April",2019,45300,44200,1000
-"06","CA","California","Newport Beach city","city",NA,"April",2019,44900,43800,1000
-"06","CA","California","Alameda city","city",NA,"April",2019,41000,40000,1000
-"06","CA","California","Tustin city","city",NA,"April",2019,42500,41500,1000
-"06","CA","California","Union City city","city",NA,"April",2019,36600,35700,1000
-"06","CA","California","Upland city","city",NA,"April",2019,39300,38200,1000
-"06","CA","California","Redlands city","city",NA,"April",2019,35500,34500,1000
-"06","CA","California","Diamond Bar city","city",NA,"April",2019,30300,29300,1000
-"06","CA","California","Azusa city","city",NA,"April",2019,25100,24200,1000
-"06","CA","California","Sanger city","city",NA,"April",2019,11600,10600,1000
-"06","CA","California","San Mateo city","city",NA,"April",2019,64600,63500,1100
-"06","CA","California","Lake Forest city","city",NA,"April",2019,49000,47900,1100
-"06","CA","California","Livermore city","city",NA,"April",2019,48100,47000,1100
-"06","CA","California","Milpitas city","city",NA,"April",2019,42700,41600,1100
-"06","CA","California","Buena Park city","city",NA,"April",2019,40100,38900,1100
-"06","CA","California","Lake Elsinore city","city",NA,"April",2019,30500,29400,1100
-"06","CA","California","Monterey Park city","city",NA,"April",2019,29300,28200,1100
-"06","CA","California","Huntington Park city","city",NA,"April",2019,26500,25300,1100
-"06","CA","California","Paramount city","city",NA,"April",2019,24500,23400,1100
-"06","CA","California","Covina city","city",NA,"April",2019,24000,22900,1100
-"06","CA","California","Imperial city","city",NA,"April",2019,7800,6700,1100
-"06","CA","California","Daly City city","city",NA,"April",2019,64800,63500,1200
-"06","CA","California","Mission Viejo city","city",NA,"April",2019,49500,48200,1200
-"06","CA","California","Chino city","city",NA,"April",2019,43100,41900,1200
-"06","CA","California","Napa city","city",NA,"April",2019,41500,40300,1200
-"06","CA","California","San Marcos city","city",NA,"April",2019,42300,41100,1200
-"06","CA","California","Westminster city","city",NA,"April",2019,41600,40500,1200
-"06","CA","California","Pittsburg city","city",NA,"April",2019,34100,32900,1200
-"06","CA","California","Gardena city","city",NA,"April",2019,30100,28900,1200
-"06","CA","California","West Hollywood city","city",NA,"April",2019,27100,25900,1200
-"06","CA","California","Hollister city","city",NA,"April",2019,20000,18800,1200
-"06","CA","California","Brawley city","city",NA,"April",2019,9900,8600,1200
-"06","CA","California","Vacaville city","city",NA,"April",2019,45800,44500,1300
-"06","CA","California","Montebello city","city",NA,"April",2019,28800,27500,1300
-"06","CA","California","Lynwood city","city",NA,"April",2019,28300,27000,1300
-"06","CA","California","Wasco city","city",NA,"April",2019,8900,7700,1300
-"06","CA","California","Santa Clara city","city",NA,"April",2019,71000,69600,1400
-"06","CA","California","San Leandro city","city",NA,"April",2019,46100,44800,1400
-"06","CA","California","Citrus Heights city","city",NA,"April",2019,43200,41800,1400
-"06","CA","California","Redondo Beach city","city",NA,"April",2019,41300,39900,1400
-"06","CA","California","Baldwin Park city","city",NA,"April",2019,34400,33000,1400
-"06","CA","California","Turlock city","city",NA,"April",2019,33400,32000,1400
-"06","CA","California","Pico Rivera city","city",NA,"April",2019,30200,28900,1400
-"06","CA","California","Dinuba city","city",NA,"April",2019,10700,9300,1400
-"06","CA","California","Costa Mesa city","city",NA,"April",2019,65700,64200,1500
-"06","CA","California","Berkeley city","city",NA,"April",2019,62100,60600,1500
-"06","CA","California","Carlsbad city","city",NA,"April",2019,54900,53400,1500
-"06","CA","California","El Cajon city","city",NA,"April",2019,44700,43200,1500
-"06","CA","California","Vista city","city",NA,"April",2019,44700,43300,1500
-"06","CA","California","Tracy city","city",NA,"April",2019,43000,41600,1500
-"06","CA","California","Indio city","city",NA,"April",2019,40300,38800,1500
-"06","CA","California","Perris city","city",NA,"April",2019,30900,29400,1500
-"06","CA","California","Tulare city","city",NA,"April",2019,27800,26300,1500
-"06","CA","California","Sunnyvale city","city",NA,"April",2019,87000,85400,1600
-"06","CA","California","San Buenaventura (Ventura) city","city",NA,"April",2019,56300,54600,1600
-"06","CA","California","Temecula city","city",NA,"April",2019,55000,53400,1600
-"06","CA","California","Richmond city","city",NA,"April",2019,52400,50800,1600
-"06","CA","California","Alhambra city","city",NA,"April",2019,46200,44600,1600
-"06","CA","California","Lakewood city","city",NA,"April",2019,42800,41100,1600
-"06","CA","California","Redding city","city",NA,"April",2019,39200,37600,1600
-"06","CA","California","Manteca city","city",NA,"April",2019,37100,35600,1600
-"06","CA","California","Woodland city","city",NA,"April",2019,30400,28800,1600
-"06","CA","California","Hemet city","city",NA,"April",2019,29500,27900,1600
-"06","CA","California","Hanford city","city",NA,"April",2019,24800,23200,1600
-"06","CA","California","Ceres city","city",NA,"April",2019,21400,19900,1600
-"06","CA","California","Coachella city","city",NA,"April",2019,19500,18000,1600
-"06","CA","California","Concord city","city",NA,"April",2019,65400,63700,1700
-"06","CA","California","Thousand Oaks city","city",NA,"April",2019,64800,63000,1700
-"06","CA","California","Murrieta city","city",NA,"April",2019,55600,53900,1700
-"06","CA","California","Clovis city","city",NA,"April",2019,54100,52400,1700
-"06","CA","California","Jurupa Valley city","city",NA,"April",2019,48600,46900,1700
-"06","CA","California","Chico city","city",NA,"April",2019,47400,45700,1700
-"06","CA","California","Whittier city","city",NA,"April",2019,43600,41900,1700
-"06","CA","California","Bellflower city","city",NA,"April",2019,36300,34600,1700
-"06","CA","California","Hesperia city","city",NA,"April",2019,35700,34000,1700
-"06","CA","California","Lodi city","city",NA,"April",2019,29600,27900,1700
-"06","CA","California","Orange city","city",NA,"April",2019,71900,70100,1800
-"06","CA","California","Fullerton city","city",NA,"April",2019,69900,68100,1800
-"06","CA","California","Fairfield city","city",NA,"April",2019,53400,51500,1800
-"06","CA","California","Antioch city","city",NA,"April",2019,50300,48500,1800
-"06","CA","California","Hawthorne city","city",NA,"April",2019,44500,42700,1800
-"06","CA","California","South Gate city","city",NA,"April",2019,42400,40600,1800
-"06","CA","California","Simi Valley city","city",NA,"April",2019,67500,65700,1900
-"06","CA","California","Escondido city","city",NA,"April",2019,68900,67000,1900
-"06","CA","California","Roseville city","city",NA,"April",2019,68600,66700,1900
-"06","CA","California","Rialto city","city",NA,"April",2019,44500,42600,1900
-"06","CA","California","El Centro city","city",NA,"April",2019,17800,15900,1900
-"06","CA","California","El Monte city","city",NA,"April",2019,51400,49400,2000
-"06","CA","California","Los Banos city","city",NA,"April",2019,17200,15200,2000
-"06","CA","California","Downey city","city",NA,"April",2019,57000,54900,2100
-"06","CA","California","Vallejo city","city",NA,"April",2019,56400,54200,2100
-"06","CA","California","West Covina city","city",NA,"April",2019,52500,50400,2100
-"06","CA","California","Norwalk city","city",NA,"April",2019,50200,48100,2100
-"06","CA","California","Carson city","city",NA,"April",2019,45900,43900,2100
-"06","CA","California","Compton city","city",NA,"April",2019,38900,36800,2100
-"06","CA","California","Garden Grove city","city",NA,"April",2019,81200,79000,2200
-"06","CA","California","Santa Monica city","city",NA,"April",2019,56200,54000,2200
-"06","CA","California","Victorville city","city",NA,"April",2019,45600,43300,2200
-"06","CA","California","Merced city","city",NA,"April",2019,33900,31700,2200
-"06","CA","California","Santa Rosa city","city",NA,"April",2019,89000,86600,2300
-"06","CA","California","Hayward city","city",NA,"April",2019,77200,75000,2300
-"06","CA","California","Corona city","city",NA,"April",2019,84000,81600,2400
-"06","CA","California","Madera city","city",NA,"April",2019,27400,25000,2400
-"06","CA","California","Rancho Cucamonga city","city",NA,"April",2019,95900,93400,2500
-"06","CA","California","Oceanside city","city",NA,"April",2019,81600,79200,2500
-"06","CA","California","Torrance city","city",NA,"April",2019,77800,75400,2500
-"06","CA","California","Inglewood city","city",NA,"April",2019,52400,49900,2600
-"06","CA","California","Yuba City city","city",NA,"April",2019,31200,28500,2600
-"06","CA","California","Reedley city","city",NA,"April",2019,13300,10800,2600
-"06","CA","California","Fremont city","city",NA,"April",2019,119500,116800,2700
-"06","CA","California","Huntington Beach city","city",NA,"April",2019,108400,105600,2700
-"06","CA","California","Ontario city","city",NA,"April",2019,88000,85300,2700
-"06","CA","California","Visalia city","city",NA,"April",2019,61300,58500,2800
-"06","CA","California","Burbank city","city",NA,"April",2019,59000,56100,2800
-"06","CA","California","Pasadena city","city",NA,"April",2019,78800,75900,2900
-"06","CA","California","Pomona city","city",NA,"April",2019,67700,64700,3000
-"06","CA","California","Santa Maria city","city",NA,"April",2019,50000,46900,3100
-"06","CA","California","Fontana city","city",NA,"April",2019,98700,95500,3200
-"06","CA","California","Porterville city","city",NA,"April",2019,25800,22600,3200
-"06","CA","California","Irvine city","city",NA,"April",2019,147200,143700,3500
-"06","CA","California","Palmdale city","city",NA,"April",2019,64000,60400,3600
-"06","CA","California","Oxnard city","city",NA,"April",2019,100200,96500,3700
-"06","CA","California","San Bernardino city","city",NA,"April",2019,83800,80100,3700
-"06","CA","California","Chula Vista city","city",NA,"April",2019,122400,118500,3800
-"06","CA","California","Lancaster city","city",NA,"April",2019,64600,60800,3800
-"06","CA","California","Glendale city","city",NA,"April",2019,103100,99200,3900
-"06","CA","California","Moreno Valley city","city",NA,"April",2019,94600,90700,3900
-"06","CA","California","Watsonville city","city",NA,"April",2019,27600,23700,3900
-"06","CA","California","Santa Ana city","city",NA,"April",2019,157200,153000,4100
-"06","CA","California","Santa Clarita city","city",NA,"April",2019,112500,108300,4200
-"06","CA","California","Anaheim city","city",NA,"April",2019,170500,166000,4500
-"06","CA","California","Modesto city","city",NA,"April",2019,94000,89100,4900
-"06","CA","California","Calexico city","city",NA,"April",2019,17500,12700,4900
-"06","CA","California","Riverside city","city",NA,"April",2019,153700,148500,5200
-"06","CA","California","Oakland city","city",NA,"April",2019,212800,206300,6500
-"06","CA","California","Delano city","city",NA,"April",2019,23500,16700,6800
-"06","CA","California","Sacramento city","city",NA,"April",2019,234600,226300,8300
-"06","CA","California","Salinas city","city",NA,"April",2019,82400,74100,8300
-"06","CA","California","Bakersfield city","city",NA,"April",2019,174600,166300,8400
-"06","CA","California","Stockton city","city",NA,"April",2019,128800,120200,8600
-"06","CA","California","Long Beach city","city",NA,"April",2019,237400,227800,9600
-"06","CA","California","San Francisco city","city",NA,"April",2019,575500,563800,11700
-"06","CA","California","Fresno city","city",NA,"April",2019,232300,220100,12200
-"06","CA","California","San Jose city","city",NA,"April",2019,549000,535900,13100
-"06","CA","California","San Diego city","city",NA,"April",2019,714000,694400,19600
-"06","CA","California","Los Angeles city","city",NA,"April",2019,2063600,1979100,84500
-"06","CA","California","Angels City city","city",NA,"August",2019,1900,1900,0
-"06","CA","California","Carmel by the Sea city","city",NA,"August",2019,1700,1700,0
-"06","CA","California","Avalon city","city",NA,"August",2019,2100,2100,0
-"06","CA","California","Gonzales city","city",NA,"August",2019,4300,4300,0
-"06","CA","California","St. Helena city","city",NA,"August",2019,3000,3000,0
-"06","CA","California","Buellton city","city",NA,"August",2019,2800,2700,0
-"06","CA","California","Big Bear Lake city","city",NA,"August",2019,2300,2300,0
-"06","CA","California","Bradbury city","city",NA,"August",2019,500,500,0
-"06","CA","California","Ferndale city","city",NA,"August",2019,600,600,0
-"06","CA","California","Vernon city","city",NA,"August",2019,0,0,0
-"06","CA","California","San Juan Bautista city","city",NA,"August",2019,1000,1000,0
-"06","CA","California","Sand City city","city",NA,"August",2019,200,200,0
-"06","CA","California","Biggs city","city",NA,"August",2019,900,900,0
-"06","CA","California","Needles city","city",NA,"August",2019,1800,1700,0
-"06","CA","California","Trinidad city","city",NA,"August",2019,100,100,0
-"06","CA","California","Blue Lake city","city",NA,"August",2019,500,500,0
-"06","CA","California","Isleton city","city",NA,"August",2019,300,300,0
-"06","CA","California","Hidden Hills city","city",NA,"August",2019,600,600,0
-"06","CA","California","Rolling Hills city","city",NA,"August",2019,600,500,0
-"06","CA","California","Del Rey Oaks city","city",NA,"August",2019,1000,1000,0
-"06","CA","California","Colfax city","city",NA,"August",2019,1000,900,0
-"06","CA","California","Amador City city","city",NA,"August",2019,80,70,0
-"06","CA","California","Industry city","city",NA,"August",2019,200,100,0
-"06","CA","California","Irwindale city","city",NA,"August",2019,700,600,0
-"06","CA","California","Maricopa city","city",NA,"August",2019,400,300,0
-"06","CA","California","Portola city","city",NA,"August",2019,830,820,10
-"06","CA","California","Plymouth city","city",NA,"August",2019,480,460,10
-"06","CA","California","Point Arena city","city",NA,"August",2019,220,210,10
-"06","CA","California","Tehama city","city",NA,"August",2019,180,170,10
-"06","CA","California","Mount Shasta city","city",NA,"August",2019,1560,1540,20
-"06","CA","California","Sutter Creek city","city",NA,"August",2019,1070,1050,20
-"06","CA","California","Dunsmuir city","city",NA,"August",2019,660,640,20
-"06","CA","California","Loyalton city","city",NA,"August",2019,470,450,20
-"06","CA","California","Nevada City city","city",NA,"August",2019,1420,1380,40
-"06","CA","California","Willits city","city",NA,"August",2019,1930,1880,50
-"06","CA","California","Bishop city","city",NA,"August",2019,1660,1620,50
-"06","CA","California","Lakeport city","city",NA,"August",2019,2570,2510,60
-"06","CA","California","Jackson city","city",NA,"August",2019,2210,2140,70
-"06","CA","California","Crescent City city","city",NA,"August",2019,1490,1420,70
-"06","CA","California","Alturas city","city",NA,"August",2019,1120,1050,70
-"06","CA","California","Ione city","city",NA,"August",2019,2180,2100,80
-"06","CA","California","Sonora city","city",NA,"August",2019,1960,1880,80
-"06","CA","California","Weed city","city",NA,"August",2019,1100,1030,80
-"06","CA","California","Capitola city","city",NA,"August",2019,5800,5700,100
-"06","CA","California","Clayton city","city",NA,"August",2019,5900,5800,100
-"06","CA","California","Cloverdale city","city",NA,"August",2019,4500,4400,100
-"06","CA","California","Mill Valley city","city",NA,"August",2019,7200,7100,100
-"06","CA","California","Half Moon Bay city","city",NA,"August",2019,7800,7600,100
-"06","CA","California","Pismo Beach city","city",NA,"August",2019,4500,4400,100
-"06","CA","California","Piedmont city","city",NA,"August",2019,5200,5100,100
-"06","CA","California","Solana Beach city","city",NA,"August",2019,6900,6800,100
-"06","CA","California","Larkspur city","city",NA,"August",2019,7000,6900,100
-"06","CA","California","Solvang city","city",NA,"August",2019,3000,3000,100
-"06","CA","California","Laguna Woods city","city",NA,"August",2019,3200,3100,100
-"06","CA","California","Brisbane city","city",NA,"August",2019,2900,2900,100
-"06","CA","California","Scotts Valley city","city",NA,"August",2019,6200,6000,100
-"06","CA","California","Sonoma city","city",NA,"August",2019,5600,5500,100
-"06","CA","California","Canyon Lake city","city",NA,"August",2019,5400,5300,100
-"06","CA","California","Palos Verdes Estates city","city",NA,"August",2019,5700,5500,100
-"06","CA","California","Del Mar city","city",NA,"August",2019,2300,2200,100
-"06","CA","California","San Marino city","city",NA,"August",2019,5600,5500,100
-"06","CA","California","Sausalito city","city",NA,"August",2019,4500,4400,100
-"06","CA","California","Westlake Village city","city",NA,"August",2019,3900,3800,100
-"06","CA","California","Placerville city","city",NA,"August",2019,5100,4900,100
-"06","CA","California","Guadalupe city","city",NA,"August",2019,3300,3200,100
-"06","CA","California","Cotati city","city",NA,"August",2019,4400,4200,100
-"06","CA","California","Escalon city","city",NA,"August",2019,3800,3700,100
-"06","CA","California","Ojai city","city",NA,"August",2019,3500,3400,100
-"06","CA","California","Villa Park city","city",NA,"August",2019,2500,2400,100
-"06","CA","California","Calistoga city","city",NA,"August",2019,2800,2700,100
-"06","CA","California","Rolling Hills Estates city","city",NA,"August",2019,3500,3400,100
-"06","CA","California","Indian Wells city","city",NA,"August",2019,1800,1800,100
-"06","CA","California","La Habra Heights city","city",NA,"August",2019,2700,2600,100
-"06","CA","California","Taft city","city",NA,"August",2019,3100,3000,100
-"06","CA","California","Rio Vista city","city",NA,"August",2019,3000,2800,100
-"06","CA","California","Fowler city","city",NA,"August",2019,3000,2800,100
-"06","CA","California","Rio Dell city","city",NA,"August",2019,1400,1300,100
-"06","CA","California","Dos Palos city","city",NA,"August",2019,2200,2100,100
-"06","CA","California","Gridley city","city",NA,"August",2019,2600,2400,100
-"06","CA","California","Wheatland city","city",NA,"August",2019,1700,1600,100
-"06","CA","California","Fort Bragg city","city",NA,"August",2019,3180,3060,120
-"06","CA","California","Susanville city","city",NA,"August",2019,3050,2930,120
-"06","CA","California","Williams city","city",NA,"August",2019,2880,2730,150
-"06","CA","California","Yreka city","city",NA,"August",2019,3130,2950,180
-"06","CA","California","Willows city","city",NA,"August",2019,2540,2360,180
-"06","CA","California","Corning city","city",NA,"August",2019,2980,2790,190
-"06","CA","California","Orinda city","city",NA,"August",2019,9000,8800,200
-"06","CA","California","Emeryville city","city",NA,"August",2019,7500,7300,200
-"06","CA","California","La Canada Flintridge city","city",NA,"August",2019,9500,9300,200
-"06","CA","California","King City city","city",NA,"August",2019,6700,6500,200
-"06","CA","California","Healdsburg city","city",NA,"August",2019,6100,6000,200
-"06","CA","California","Arroyo Grande city","city",NA,"August",2019,9200,8900,200
-"06","CA","California","Carpinteria city","city",NA,"August",2019,7300,7100,200
-"06","CA","California","Santa Fe Springs city","city",NA,"August",2019,8200,8000,200
-"06","CA","California","La Palma city","city",NA,"August",2019,7800,7500,200
-"06","CA","California","Malibu city","city",NA,"August",2019,6600,6400,200
-"06","CA","California","Los Alamitos city","city",NA,"August",2019,5800,5700,200
-"06","CA","California","Ripon city","city",NA,"August",2019,7400,7100,200
-"06","CA","California","Fillmore city","city",NA,"August",2019,7200,7000,200
-"06","CA","California","Fortuna city","city",NA,"August",2019,5100,5000,200
-"06","CA","California","Auburn city","city",NA,"August",2019,7000,6700,200
-"06","CA","California","Rancho Mirage city","city",NA,"August",2019,6300,6100,200
-"06","CA","California","Livingston city","city",NA,"August",2019,6700,6500,200
-"06","CA","California","Anderson city","city",NA,"August",2019,4200,4100,200
-"06","CA","California","Winters city","city",NA,"August",2019,3900,3700,200
-"06","CA","California","Hughson city","city",NA,"August",2019,3400,3300,200
-"06","CA","California","Calimesa city","city",NA,"August",2019,3500,3400,200
-"06","CA","California","Morro Bay city","city",NA,"August",2019,5000,4700,200
-"06","CA","California","Sebastopol city","city",NA,"August",2019,4100,3900,200
-"06","CA","California","Tehachapi city","city",NA,"August",2019,3900,3700,200
-"06","CA","California","Live Oak city","city",NA,"August",2019,4100,3900,200
-"06","CA","California","Shasta Lake city","city",NA,"August",2019,4400,4200,200
-"06","CA","California","Gustine city","city",NA,"August",2019,2800,2500,200
-"06","CA","California","Huron city","city",NA,"August",2019,2500,2300,200
-"06","CA","California","San Joaquin city","city",NA,"August",2019,1600,1500,200
-"06","CA","California","Westmorland city","city",NA,"August",2019,900,700,200
-"06","CA","California","Colusa city","city",NA,"August",2019,3210,3000,210
-"06","CA","California","Orland city","city",NA,"August",2019,3670,3450,230
-"06","CA","California","Grass Valley city","city",NA,"August",2019,5860,5620,240
-"06","CA","California","Millbrae city","city",NA,"August",2019,13000,12700,300
-"06","CA","California","Hermosa Beach city","city",NA,"August",2019,12600,12300,300
-"06","CA","California","Albany city","city",NA,"August",2019,9900,9600,300
-"06","CA","California","Lafayette city","city",NA,"August",2019,12700,12400,300
-"06","CA","California","Laguna Beach city","city",NA,"August",2019,12600,12200,300
-"06","CA","California","Loma Linda city","city",NA,"August",2019,11000,10700,300
-"06","CA","California","Pinole city","city",NA,"August",2019,10000,9700,300
-"06","CA","California","Coronado city","city",NA,"August",2019,7700,7400,300
-"06","CA","California","Pacific Grove city","city",NA,"August",2019,8600,8300,300
-"06","CA","California","Greenfield city","city",NA,"August",2019,8500,8200,300
-"06","CA","California","Grover Beach city","city",NA,"August",2019,6800,6500,300
-"06","CA","California","Artesia city","city",NA,"August",2019,8000,7700,300
-"06","CA","California","Grand Terrace city","city",NA,"August",2019,6500,6300,300
-"06","CA","California","Signal Hill city","city",NA,"August",2019,6400,6100,300
-"06","CA","California","Kingsburg city","city",NA,"August",2019,5700,5500,300
-"06","CA","California","Blythe city","city",NA,"August",2019,5700,5400,300
-"06","CA","California","Sierra Madre city","city",NA,"August",2019,5700,5400,300
-"06","CA","California","Hawaiian Gardens city","city",NA,"August",2019,6400,6100,300
-"06","CA","California","Marysville city","city",NA,"August",2019,5100,4900,300
-"06","CA","California","Oroville city","city",NA,"August",2019,5900,5600,300
-"06","CA","California","Chowchilla city","city",NA,"August",2019,4500,4200,300
-"06","CA","California","Commerce city","city",NA,"August",2019,5900,5600,300
-"06","CA","California","Waterford city","city",NA,"August",2019,3500,3200,300
-"06","CA","California","Woodlake city","city",NA,"August",2019,3300,3100,300
-"06","CA","California","Calipatria city","city",NA,"August",2019,1200,900,300
-"06","CA","California","Red Bluff city","city",NA,"August",2019,5390,5060,330
-"06","CA","California","Ukiah city","city",NA,"August",2019,7320,6980,340
-"06","CA","California","Burlingame city","city",NA,"August",2019,18600,18200,400
-"06","CA","California","Foster City city","city",NA,"August",2019,20300,19900,400
-"06","CA","California","Menlo Park city","city",NA,"August",2019,20200,19800,400
-"06","CA","California","San Carlos city","city",NA,"August",2019,18100,17700,400
-"06","CA","California","Belmont city","city",NA,"August",2019,17000,16600,400
-"06","CA","California","East Palo Alto city","city",NA,"August",2019,15200,14800,400
-"06","CA","California","Laguna Hills city","city",NA,"August",2019,17000,16600,400
-"06","CA","California","El Cerrito city","city",NA,"August",2019,13900,13600,400
-"06","CA","California","Los Altos city","city",NA,"August",2019,14900,14500,400
-"06","CA","California","Saratoga city","city",NA,"August",2019,14900,14500,400
-"06","CA","California","Benicia city","city",NA,"August",2019,14900,14500,400
-"06","CA","California","Calabasas city","city",NA,"August",2019,12200,11900,400
-"06","CA","California","Hercules city","city",NA,"August",2019,14000,13500,400
-"06","CA","California","American Canyon city","city",NA,"August",2019,10500,10100,400
-"06","CA","California","Norco city","city",NA,"August",2019,11600,11200,400
-"06","CA","California","Seal Beach city","city",NA,"August",2019,10000,9700,400
-"06","CA","California","Dixon city","city",NA,"August",2019,9700,9300,400
-"06","CA","California","Port Hueneme city","city",NA,"August",2019,10000,9600,400
-"06","CA","California","Lathrop city","city",NA,"August",2019,9800,9400,400
-"06","CA","California","South El Monte city","city",NA,"August",2019,9400,9000,400
-"06","CA","California","Soledad city","city",NA,"August",2019,8200,7700,400
-"06","CA","California","Twentynine Palms city","city",NA,"August",2019,7000,6600,400
-"06","CA","California","Kerman city","city",NA,"August",2019,6900,6500,400
-"06","CA","California","Coalinga city","city",NA,"August",2019,6400,6000,400
-"06","CA","California","Newman city","city",NA,"August",2019,4700,4400,400
-"06","CA","California","Exeter city","city",NA,"August",2019,4700,4300,400
-"06","CA","California","Orange Cove city","city",NA,"August",2019,3700,3300,400
-"06","CA","California","Avenal city","city",NA,"August",2019,3700,3300,400
-"06","CA","California","Firebaugh city","city",NA,"August",2019,3800,3300,400
-"06","CA","California","Pacifica city","city",NA,"August",2019,24600,24100,500
-"06","CA","California","Dana Point city","city",NA,"August",2019,18700,18200,500
-"06","CA","California","Pleasant Hill city","city",NA,"August",2019,18100,17600,500
-"06","CA","California","El Paso de Robles (Paso Robles) city","city",NA,"August",2019,16200,15700,500
-"06","CA","California","San Juan Capistrano city","city",NA,"August",2019,17300,16800,500
-"06","CA","California","Atascadero city","city",NA,"August",2019,15300,14900,500
-"06","CA","California","Monterey city","city",NA,"August",2019,16300,15800,500
-"06","CA","California","Ridgecrest city","city",NA,"August",2019,14200,13700,500
-"06","CA","California","Marina city","city",NA,"August",2019,13500,13000,500
-"06","CA","California","San Pablo city","city",NA,"August",2019,13900,13400,500
-"06","CA","California","Suisun City city","city",NA,"August",2019,14400,13900,500
-"06","CA","California","Lemon Grove city","city",NA,"August",2019,12500,12000,500
-"06","CA","California","Eureka city","city",NA,"August",2019,12600,12100,500
-"06","CA","California","Imperial Beach city","city",NA,"August",2019,12000,11500,500
-"06","CA","California","South Lake Tahoe city","city",NA,"August",2019,12700,12200,500
-"06","CA","California","Agoura Hills city","city",NA,"August",2019,11600,11100,500
-"06","CA","California","Galt city","city",NA,"August",2019,11600,11100,500
-"06","CA","California","Maywood city","city",NA,"August",2019,12400,11800,500
-"06","CA","California","Lomita city","city",NA,"August",2019,11200,10700,500
-"06","CA","California","San Fernando city","city",NA,"August",2019,11800,11300,500
-"06","CA","California","Cudahy city","city",NA,"August",2019,10100,9600,500
-"06","CA","California","Selma city","city",NA,"August",2019,11000,10400,500
-"06","CA","California","Patterson city","city",NA,"August",2019,10100,9600,500
-"06","CA","California","Barstow city","city",NA,"August",2019,8900,8400,500
-"06","CA","California","El Segundo city","city",NA,"August",2019,9500,9000,500
-"06","CA","California","Arcata city","city",NA,"August",2019,9500,8900,500
-"06","CA","California","Parlier city","city",NA,"August",2019,6900,6400,500
-"06","CA","California","McFarland city","city",NA,"August",2019,5900,5400,500
-"06","CA","California","Clearlake city","city",NA,"August",2019,6140,5610,530
-"06","CA","California","San Bruno city","city",NA,"August",2019,27300,26800,600
-"06","CA","California","Campbell city","city",NA,"August",2019,26900,26300,600
-"06","CA","California","Morgan Hill city","city",NA,"August",2019,24400,23800,600
-"06","CA","California","Martinez city","city",NA,"August",2019,20700,20100,600
-"06","CA","California","Seaside city","city",NA,"August",2019,18500,17900,600
-"06","CA","California","Moorpark city","city",NA,"August",2019,19400,18800,600
-"06","CA","California","Stanton city","city",NA,"August",2019,18500,17900,600
-"06","CA","California","Montclair city","city",NA,"August",2019,19200,18600,600
-"06","CA","California","Walnut city","city",NA,"August",2019,16000,15500,600
-"06","CA","California","Wildomar city","city",NA,"August",2019,17600,16900,600
-"06","CA","California","Riverbank city","city",NA,"August",2019,12000,11500,600
-"06","CA","California","Lemoore city","city",NA,"August",2019,12200,11500,600
-"06","CA","California","Banning city","city",NA,"August",2019,11200,10600,600
-"06","CA","California","Duarte city","city",NA,"August",2019,11100,10400,600
-"06","CA","California","Arvin city","city",NA,"August",2019,9200,8500,600
-"06","CA","California","Farmersville city","city",NA,"August",2019,5000,4500,600
-"06","CA","California","Corcoran city","city",NA,"August",2019,4400,3800,600
-"06","CA","California","Holtville city","city",NA,"August",2019,2600,2000,600
-"06","CA","California","Palo Alto city","city",NA,"August",2019,36000,35200,700
-"06","CA","California","Novato city","city",NA,"August",2019,29900,29200,700
-"06","CA","California","Poway city","city",NA,"August",2019,25600,25000,700
-"06","CA","California","Rancho Santa Margarita city","city",NA,"August",2019,27700,27000,700
-"06","CA","California","Rohnert Park city","city",NA,"August",2019,24200,23500,700
-"06","CA","California","San Luis Obispo city","city",NA,"August",2019,25200,24500,700
-"06","CA","California","Brea city","city",NA,"August",2019,23100,22500,700
-"06","CA","California","Newark city","city",NA,"August",2019,25300,24600,700
-"06","CA","California","Beaumont city","city",NA,"August",2019,22800,22100,700
-"06","CA","California","Lincoln city","city",NA,"August",2019,19300,18600,700
-"06","CA","California","Oakley city","city",NA,"August",2019,19900,19200,700
-"06","CA","California","Manhattan Beach city","city",NA,"August",2019,19800,19100,700
-"06","CA","California","Temple City city","city",NA,"August",2019,18300,17600,700
-"06","CA","California","Lawndale city","city",NA,"August",2019,16600,15900,700
-"06","CA","California","South Pasadena city","city",NA,"August",2019,15000,14300,700
-"06","CA","California","La Verne city","city",NA,"August",2019,16100,15400,700
-"06","CA","California","Santa Paula city","city",NA,"August",2019,13400,12700,700
-"06","CA","California","Oakdale city","city",NA,"August",2019,9700,9000,700
-"06","CA","California","Lindsay city","city",NA,"August",2019,5500,4800,700
-"06","CA","California","California City city","city",NA,"August",2019,4600,3900,700
-"06","CA","California","San Rafael city","city",NA,"August",2019,32700,32000,800
-"06","CA","California","Cupertino city","city",NA,"August",2019,29900,29200,800
-"06","CA","California","Aliso Viejo city","city",NA,"August",2019,30500,29600,800
-"06","CA","California","Cypress city","city",NA,"August",2019,25100,24300,800
-"06","CA","California","Placentia city","city",NA,"August",2019,25900,25000,800
-"06","CA","California","Yucaipa city","city",NA,"August",2019,25200,24300,800
-"06","CA","California","San Gabriel city","city",NA,"August",2019,21500,20700,800
-"06","CA","California","Monrovia city","city",NA,"August",2019,20900,20100,800
-"06","CA","California","Rancho Palos Verdes city","city",NA,"August",2019,19700,18900,800
-"06","CA","California","Beverly Hills city","city",NA,"August",2019,18400,17600,800
-"06","CA","California","San Dimas city","city",NA,"August",2019,18000,17200,800
-"06","CA","California","Claremont city","city",NA,"August",2019,17300,16500,800
-"06","CA","California","Lompoc city","city",NA,"August",2019,17400,16600,800
-"06","CA","California","Bell Gardens city","city",NA,"August",2019,18100,17300,800
-"06","CA","California","Bell city","city",NA,"August",2019,15200,14400,800
-"06","CA","California","Desert Hot Springs city","city",NA,"August",2019,11700,10900,800
-"06","CA","California","Adelanto city","city",NA,"August",2019,9700,8900,800
-"06","CA","California","Shafter city","city",NA,"August",2019,7700,6900,800
-"06","CA","California","Mendota city","city",NA,"August",2019,4900,4200,800
-"06","CA","California","Petaluma city","city",NA,"August",2019,34400,33600,900
-"06","CA","California","Dublin city","city",NA,"August",2019,32600,31700,900
-"06","CA","California","Encinitas city","city",NA,"August",2019,33300,32400,900
-"06","CA","California","Gilroy city","city",NA,"August",2019,30600,29700,900
-"06","CA","California","San Clemente city","city",NA,"August",2019,31900,30900,900
-"06","CA","California","La Habra city","city",NA,"August",2019,30900,30000,900
-"06","CA","California","Santee city","city",NA,"August",2019,29300,28500,900
-"06","CA","California","Fountain Valley city","city",NA,"August",2019,28300,27400,900
-"06","CA","California","Brentwood city","city",NA,"August",2019,29500,28500,900
-"06","CA","California","La Puente city","city",NA,"August",2019,19000,18200,900
-"06","CA","California","Atwater city","city",NA,"August",2019,12100,11200,900
-"06","CA","California","Sanger city","city",NA,"August",2019,11700,10800,900
-"06","CA","California","Mountain View city","city",NA,"August",2019,53200,52100,1000
-"06","CA","California","South San Francisco city","city",NA,"August",2019,40200,39200,1000
-"06","CA","California","Yorba Linda city","city",NA,"August",2019,35000,34000,1000
-"06","CA","California","Walnut Creek city","city",NA,"August",2019,34500,33500,1000
-"06","CA","California","Laguna Niguel city","city",NA,"August",2019,35600,34600,1000
-"06","CA","California","Eastvale City city","city",NA,"August",2019,32600,31600,1000
-"06","CA","California","Camarillo city","city",NA,"August",2019,33900,32900,1000
-"06","CA","California","La Mesa city","city",NA,"August",2019,30600,29600,1000
-"06","CA","California","Cerritos city","city",NA,"August",2019,25400,24400,1000
-"06","CA","California","West Sacramento city","city",NA,"August",2019,25900,24900,1000
-"06","CA","California","Highland city","city",NA,"August",2019,24700,23700,1000
-"06","CA","California","National City city","city",NA,"August",2019,24800,23800,1000
-"06","CA","California","Culver City city","city",NA,"August",2019,23000,22000,1000
-"06","CA","California","Hollister city","city",NA,"August",2019,20100,19100,1000
-"06","CA","California","San Jacinto city","city",NA,"August",2019,18900,17900,1000
-"06","CA","California","Wasco city","city",NA,"August",2019,9000,8000,1000
-"06","CA","California","Redwood City city","city",NA,"August",2019,51900,50800,1100
-"06","CA","California","San Ramon city","city",NA,"August",2019,39800,38700,1100
-"06","CA","California","Davis city","city",NA,"August",2019,36100,35100,1100
-"06","CA","California","Folsom city","city",NA,"August",2019,37700,36600,1100
-"06","CA","California","Redlands city","city",NA,"August",2019,35600,34500,1100
-"06","CA","California","Rocklin city","city",NA,"August",2019,33600,32500,1100
-"06","CA","California","Arcadia city","city",NA,"August",2019,29900,28800,1100
-"06","CA","California","Colton city","city",NA,"August",2019,24700,23600,1100
-"06","CA","California","Glendora city","city",NA,"August",2019,26200,25000,1100
-"06","CA","California","Azusa city","city",NA,"August",2019,25300,24100,1100
-"06","CA","California","La Mirada city","city",NA,"August",2019,24300,23200,1100
-"06","CA","California","Palm Springs city","city",NA,"August",2019,23100,22000,1100
-"06","CA","California","La Quinta city","city",NA,"August",2019,19400,18200,1100
-"06","CA","California","Livermore city","city",NA,"August",2019,48500,47300,1200
-"06","CA","California","Newport Beach city","city",NA,"August",2019,45000,43800,1200
-"06","CA","California","Chino Hills city","city",NA,"August",2019,45500,44200,1200
-"06","CA","California","Napa city","city",NA,"August",2019,43000,41900,1200
-"06","CA","California","Alameda city","city",NA,"August",2019,41400,40200,1200
-"06","CA","California","Pleasanton city","city",NA,"August",2019,41300,40100,1200
-"06","CA","California","Tustin city","city",NA,"August",2019,42600,41500,1200
-"06","CA","California","Milpitas city","city",NA,"August",2019,43400,42200,1200
-"06","CA","California","Union City city","city",NA,"August",2019,37100,35900,1200
-"06","CA","California","Diamond Bar city","city",NA,"August",2019,30400,29300,1200
-"06","CA","California","Lake Elsinore city","city",NA,"August",2019,30500,29400,1200
-"06","CA","California","Rosemead city","city",NA,"August",2019,25400,24200,1200
-"06","CA","California","Covina city","city",NA,"August",2019,24000,22900,1200
-"06","CA","California","Watsonville city","city",NA,"August",2019,25300,24000,1200
-"06","CA","California","Los Banos city","city",NA,"August",2019,16600,15400,1200
-"06","CA","California","San Mateo city","city",NA,"August",2019,65900,64600,1300
-"06","CA","California","Lake Forest city","city",NA,"August",2019,49100,47800,1300
-"06","CA","California","San Marcos city","city",NA,"August",2019,42600,41300,1300
-"06","CA","California","Buena Park city","city",NA,"August",2019,40300,38900,1300
-"06","CA","California","Pittsburg city","city",NA,"August",2019,34500,33100,1300
-"06","CA","California","Santa Cruz city","city",NA,"August",2019,34200,32900,1300
-"06","CA","California","Woodland city","city",NA,"August",2019,30600,29300,1300
-"06","CA","California","Monterey Park city","city",NA,"August",2019,29400,28200,1300
-"06","CA","California","Huntington Park city","city",NA,"August",2019,26600,25300,1300
-"06","CA","California","Paramount city","city",NA,"August",2019,24700,23400,1300
-"06","CA","California","Reedley city","city",NA,"August",2019,12200,10900,1300
-"06","CA","California","Dinuba city","city",NA,"August",2019,10700,9400,1300
-"06","CA","California","Santa Barbara city","city",NA,"August",2019,51200,49800,1400
-"06","CA","California","Westminster city","city",NA,"August",2019,41800,40500,1400
-"06","CA","California","Upland city","city",NA,"August",2019,39500,38200,1400
-"06","CA","California","West Hollywood city","city",NA,"August",2019,27200,25900,1400
-"06","CA","California","Ceres city","city",NA,"August",2019,21500,20100,1400
-"06","CA","California","Daly City city","city",NA,"August",2019,66100,64600,1500
 "06","CA","California","Alameda County","County","06001","April",2020,804200,691200,112900
 "06","CA","California","Alpine County","County","06003","April",2020,500,390,110
 "06","CA","California","Amador County","County","06005","April",2020,14520,12430,2090

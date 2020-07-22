@@ -14,7 +14,6 @@ raw <- read_csv("AR_data.csv") %>%
 
 output <- raw %>%
   # pivot wide
-  pivot_wider(names_from = measure_names, values_from = measure_values) %>%
   clean_names("snake") %>%
   mutate(
     # set basics

@@ -1275,7 +1275,8 @@
 "04","AZ","Arizona","Arizona","state",NA,"February",2020,3633324,3475066,158258
 "04","AZ","Arizona","Arizona","state",NA,"March",2020,3588453,3368003,220450
 "04","AZ","Arizona","Arizona","state",NA,"April",2020,3534894,3070772,464122
-"04","AZ","Arizona","Arizona","state",NA,"May",2020,3535642,3226641,309001
+"04","AZ","Arizona","Arizona","state",NA,"May",2020,3541208,3230745,310463
+"04","AZ","Arizona","Arizona","state",NA,"June",2020,3499212,3139703,359509
 "04","AZ","Arizona","Apache County","county","04001","January",2020,20785,18490,2295
 "04","AZ","Arizona","Cochise County","county","04003","January",2020,51901,48897,3004
 "04","AZ","Arizona","Coconino County","county","04005","January",2020,77687,72788,4899
@@ -1336,21 +1337,36 @@
 "04","AZ","Arizona","Santa Cruz County","county","04023","April",2020,19320,16248,3072
 "04","AZ","Arizona","Yavapai County","county","04025","April",2020,109749,94226,15523
 "04","AZ","Arizona","Yuma County","county","04027","April",2020,96910,73904,23006
-"04","AZ","Arizona","Apache County","county","04001","May",2020,19539,17357,2182
-"04","AZ","Arizona","Cochise County","county","04003","May",2020,50680,47015,3665
-"04","AZ","Arizona","Coconino County","county","04005","May",2020,70371,62160,8211
-"04","AZ","Arizona","Gila County","county","04007","May",2020,20923,19343,1580
-"04","AZ","Arizona","Graham County","county","04009","May",2020,15500,14569,931
-"04","AZ","Arizona","Greenlee County","county","04011","May",2020,4648,4456,192
-"04","AZ","Arizona","La Paz County","county","04012","May",2020,8715,8190,525
-"04","AZ","Arizona","Maricopa County","county","04013","May",2020,2314133,2122717,191416
-"04","AZ","Arizona","Mohave County","county","04015","May",2020,86578,74623,11955
-"04","AZ","Arizona","Navajo County","county","04017","May",2020,39627,35805,3822
-"04","AZ","Arizona","Pima County","county","04019","May",2020,500776,458809,41967
-"04","AZ","Arizona","Pinal County","county","04021","May",2020,183440,168641,14799
-"04","AZ","Arizona","Santa Cruz County","county","04023","May",2020,18759,16740,2019
-"04","AZ","Arizona","Yavapai County","county","04025","May",2020,109463,100204,9259
-"04","AZ","Arizona","Yuma County","county","04027","May",2020,92493,76013,16480
+"04","AZ","Arizona","Apache County","county","04001","May",2020,19607,17415,2192
+"04","AZ","Arizona","Cochise County","county","04003","May",2020,51250,47570,3680
+"04","AZ","Arizona","Coconino County","county","04005","May",2020,70186,61948,8238
+"04","AZ","Arizona","Gila County","county","04007","May",2020,20990,19408,1582
+"04","AZ","Arizona","Graham County","county","04009","May",2020,15510,14580,930
+"04","AZ","Arizona","Greenlee County","county","04011","May",2020,4578,4386,192
+"04","AZ","Arizona","La Paz County","county","04012","May",2020,8799,8269,530
+"04","AZ","Arizona","Maricopa County","county","04013","May",2020,2315974,2123837,192137
+"04","AZ","Arizona","Mohave County","county","04015","May",2020,88464,76387,12077
+"04","AZ","Arizona","Navajo County","county","04017","May",2020,39771,35931,3840
+"04","AZ","Arizona","Pima County","county","04019","May",2020,502124,460027,42097
+"04","AZ","Arizona","Pinal County","county","04021","May",2020,183657,168733,14924
+"04","AZ","Arizona","Santa Cruz County","county","04023","May",2020,18821,16788,2033
+"04","AZ","Arizona","Yavapai County","county","04025","May",2020,109444,100165,9279
+"04","AZ","Arizona","Yuma County","county","04027","May",2020,92032,75299,16733
+"04","AZ","Arizona","Apache County","county","04001","June",2020,19634,16448,3186
+"04","AZ","Arizona","Cochise County","county","04003","June",2020,50587,46138,4449
+"04","AZ","Arizona","Coconino County","county","04005","June",2020,70333,60995,9338
+"04","AZ","Arizona","Gila County","county","04007","June",2020,20634,18733,1901
+"04","AZ","Arizona","Graham County","county","04009","June",2020,14850,13532,1318
+"04","AZ","Arizona","Greenlee County","county","04011","June",2020,4610,4282,328
+"04","AZ","Arizona","La Paz County","county","04012","June",2020,8725,8029,696
+"04","AZ","Arizona","Maricopa County","county","04013","June",2020,2288896,2066225,222671
+"04","AZ","Arizona","Mohave County","county","04015","June",2020,85201,74319,10882
+"04","AZ","Arizona","Navajo County","county","04017","June",2020,39649,34545,5104
+"04","AZ","Arizona","Pima County","county","04019","June",2020,494119,445181,48938
+"04","AZ","Arizona","Pinal County","county","04021","June",2020,182345,164320,18025
+"04","AZ","Arizona","Santa Cruz County","county","04023","June",2020,18695,16163,2532
+"04","AZ","Arizona","Yavapai County","county","04025","June",2020,108341,98391,9950
+"04","AZ","Arizona","Yuma County","county","04027","June",2020,92592,72401,20191
 "04","AZ","Arizona","Apache Junction city","city",NA,"January",2020,16259,15326,933
 "04","AZ","Arizona","Avondale city","city",NA,"January",2020,47153,45137,2016
 "04","AZ","Arizona","Benson city","city",NA,"January",2020,1767,1638,129
@@ -1711,93 +1727,183 @@
 "04","AZ","Arizona","Winslow city","city",NA,"April",2020,3369,2984,385
 "04","AZ","Arizona","Youngtown town","city",NA,"April",2020,3438,2760,678
 "04","AZ","Arizona","Yuma city","city",NA,"April",2020,45104,36611,8493
-"04","AZ","Arizona","Apache Junction city","city",NA,"May",2020,15828,14155,1673
-"04","AZ","Arizona","Avondale city","city",NA,"May",2020,46055,42279,3776
-"04","AZ","Arizona","Benson city","city",NA,"May",2020,1733,1575,158
-"04","AZ","Arizona","Bisbee city","city",NA,"May",2020,1892,1844,48
-"04","AZ","Arizona","Buckeye town","city",NA,"May",2020,31608,28638,2970
-"04","AZ","Arizona","Bullhead City city","city",NA,"May",2020,17782,14766,3016
-"04","AZ","Arizona","Camp Verde town","city",NA,"May",2020,4748,4425,323
-"04","AZ","Arizona","Carefree town","city",NA,"May",2020,1153,1153,0
-"04","AZ","Arizona","Casa Grande city","city",NA,"May",2020,25405,23431,1974
-"04","AZ","Arizona","Cave Creek town","city",NA,"May",2020,2941,2585,356
-"04","AZ","Arizona","Chandler city","city",NA,"May",2020,153251,141749,11502
-"04","AZ","Arizona","Chino Valley town","city",NA,"May",2020,6081,5619,462
-"04","AZ","Arizona","Clarkdale town","city",NA,"May",2020,2399,2091,308
-"04","AZ","Arizona","Clifton town","city",NA,"May",2020,1843,1772,71
-"04","AZ","Arizona","Colorado City town","city",NA,"May",2020,1418,1004,414
-"04","AZ","Arizona","Coolidge city","city",NA,"May",2020,5973,5209,764
-"04","AZ","Arizona","Cottonwood city","city",NA,"May",2020,6128,5665,463
-"04","AZ","Arizona","Dewey-Humboldt town","city",NA,"May",2020,1953,1813,140
-"04","AZ","Arizona","Douglas city","city",NA,"May",2020,4478,3923,555
-"04","AZ","Arizona","Duncan town","city",NA,"May",2020,271,270,1
-"04","AZ","Arizona","Eagar town","city",NA,"May",2020,1556,1490,66
-"04","AZ","Arizona","El Mirage city","city",NA,"May",2020,17293,15777,1516
-"04","AZ","Arizona","Eloy city","city",NA,"May",2020,4168,3678,490
-"04","AZ","Arizona","Flagstaff city","city",NA,"May",2020,39449,35813,3636
-"04","AZ","Arizona","Florence town","city",NA,"May",2020,3759,3400,359
-"04","AZ","Arizona","Fountain Hills town","city",NA,"May",2020,13334,12342,992
-"04","AZ","Arizona","Fredonia town","city",NA,"May",2020,559,498,61
-"04","AZ","Arizona","Gila Bend town","city",NA,"May",2020,777,720,57
-"04","AZ","Arizona","Gilbert town","city",NA,"May",2020,142590,132596,9994
-"04","AZ","Arizona","Glendale city","city",NA,"May",2020,129114,117817,11297
-"04","AZ","Arizona","Globe city","city",NA,"May",2020,3631,3352,279
-"04","AZ","Arizona","Goodyear city","city",NA,"May",2020,41181,37867,3314
-"04","AZ","Arizona","Guadalupe town","city",NA,"May",2020,2594,2139,455
+"04","AZ","Arizona","Apache Junction city","city",NA,"May",2020,15854,14163,1691
+"04","AZ","Arizona","Avondale city","city",NA,"May",2020,46111,42302,3809
+"04","AZ","Arizona","Benson city","city",NA,"May",2020,1753,1594,159
+"04","AZ","Arizona","Bisbee city","city",NA,"May",2020,1913,1865,48
+"04","AZ","Arizona","Buckeye town","city",NA,"May",2020,31655,28653,3002
+"04","AZ","Arizona","Bullhead City city","city",NA,"May",2020,18161,15115,3046
+"04","AZ","Arizona","Camp Verde town","city",NA,"May",2020,4748,4424,324
+"04","AZ","Arizona","Carefree town","city",NA,"May",2020,1154,1154,0
+"04","AZ","Arizona","Casa Grande city","city",NA,"May",2020,25422,23444,1978
+"04","AZ","Arizona","Cave Creek town","city",NA,"May",2020,2945,2587,358
+"04","AZ","Arizona","Chandler city","city",NA,"May",2020,153372,141824,11548
+"04","AZ","Arizona","Chino Valley town","city",NA,"May",2020,6079,5616,463
+"04","AZ","Arizona","Clarkdale town","city",NA,"May",2020,2398,2090,308
+"04","AZ","Arizona","Clifton town","city",NA,"May",2020,1815,1744,71
+"04","AZ","Arizona","Colorado City town","city",NA,"May",2020,1447,1028,419
+"04","AZ","Arizona","Coolidge city","city",NA,"May",2020,5982,5212,770
+"04","AZ","Arizona","Cottonwood city","city",NA,"May",2020,6127,5663,464
+"04","AZ","Arizona","Dewey-Humboldt town","city",NA,"May",2020,1952,1812,140
+"04","AZ","Arizona","Douglas city","city",NA,"May",2020,4526,3969,557
+"04","AZ","Arizona","Duncan town","city",NA,"May",2020,267,266,1
+"04","AZ","Arizona","Eagar town","city",NA,"May",2020,1562,1495,67
+"04","AZ","Arizona","El Mirage city","city",NA,"May",2020,17301,15785,1516
+"04","AZ","Arizona","Eloy city","city",NA,"May",2020,4174,3680,494
+"04","AZ","Arizona","Flagstaff city","city",NA,"May",2020,39337,35690,3647
+"04","AZ","Arizona","Florence town","city",NA,"May",2020,3767,3402,365
+"04","AZ","Arizona","Fountain Hills town","city",NA,"May",2020,13347,12348,999
+"04","AZ","Arizona","Fredonia town","city",NA,"May",2020,557,496,61
+"04","AZ","Arizona","Gila Bend town","city",NA,"May",2020,778,721,57
+"04","AZ","Arizona","Gilbert town","city",NA,"May",2020,142702,132666,10036
+"04","AZ","Arizona","Glendale city","city",NA,"May",2020,129213,117880,11333
+"04","AZ","Arizona","Globe city","city",NA,"May",2020,3642,3363,279
+"04","AZ","Arizona","Goodyear city","city",NA,"May",2020,41238,37887,3351
+"04","AZ","Arizona","Guadalupe town","city",NA,"May",2020,2597,2141,456
 "04","AZ","Arizona","Hayden town","city",NA,"May",2020,180,160,20
-"04","AZ","Arizona","Holbrook city","city",NA,"May",2020,2123,2047,76
-"04","AZ","Arizona","Huachuca City town","city",NA,"May",2020,1051,958,93
+"04","AZ","Arizona","Holbrook city","city",NA,"May",2020,2130,2054,76
+"04","AZ","Arizona","Huachuca City town","city",NA,"May",2020,1063,969,94
 "04","AZ","Arizona","Jerome town","city",NA,"May",2020,330,287,43
-"04","AZ","Arizona","Kearny town","city",NA,"May",2020,994,899,95
-"04","AZ","Arizona","Kingman city","city",NA,"May",2020,13634,12005,1629
-"04","AZ","Arizona","Lake Havasu City city","city",NA,"May",2020,24960,21687,3273
-"04","AZ","Arizona","Litchfield Park city","city",NA,"May",2020,2879,2694,185
-"04","AZ","Arizona","Mammoth town","city",NA,"May",2020,696,613,83
-"04","AZ","Arizona","Marana town","city",NA,"May",2020,24460,22818,1642
-"04","AZ","Arizona","Maricopa city","city",NA,"May",2020,26159,23760,2399
-"04","AZ","Arizona","Mesa city","city",NA,"May",2020,261632,240817,20815
-"04","AZ","Arizona","Miami town","city",NA,"May",2020,870,809,61
-"04","AZ","Arizona","Nogales city","city",NA,"May",2020,7791,6778,1013
-"04","AZ","Arizona","Oro Valley town","city",NA,"May",2020,20339,18797,1542
-"04","AZ","Arizona","Page city","city",NA,"May",2020,3940,3367,573
-"04","AZ","Arizona","Paradise Valley town","city",NA,"May",2020,6756,6614,142
-"04","AZ","Arizona","Parker town","city",NA,"May",2020,2011,1935,76
+"04","AZ","Arizona","Kearny town","city",NA,"May",2020,995,899,96
+"04","AZ","Arizona","Kingman city","city",NA,"May",2020,13929,12288,1641
+"04","AZ","Arizona","Lake Havasu City city","city",NA,"May",2020,25504,22200,3304
+"04","AZ","Arizona","Litchfield Park city","city",NA,"May",2020,2881,2696,185
+"04","AZ","Arizona","Mammoth town","city",NA,"May",2020,697,613,84
+"04","AZ","Arizona","Marana town","city",NA,"May",2020,24525,22879,1646
+"04","AZ","Arizona","Maricopa city","city",NA,"May",2020,26183,23773,2410
+"04","AZ","Arizona","Mesa city","city",NA,"May",2020,261896,240944,20952
+"04","AZ","Arizona","Miami town","city",NA,"May",2020,873,812,61
+"04","AZ","Arizona","Nogales city","city",NA,"May",2020,7818,6798,1020
+"04","AZ","Arizona","Oro Valley town","city",NA,"May",2020,20398,18847,1551
+"04","AZ","Arizona","Page city","city",NA,"May",2020,3931,3356,575
+"04","AZ","Arizona","Paradise Valley town","city",NA,"May",2020,6761,6618,143
+"04","AZ","Arizona","Parker town","city",NA,"May",2020,2030,1954,76
 "04","AZ","Arizona","Patagonia town","city",NA,"May",2020,298,284,14
-"04","AZ","Arizona","Payson town","city",NA,"May",2020,6304,6090,214
-"04","AZ","Arizona","Peoria city","city",NA,"May",2020,93397,85703,7694
-"04","AZ","Arizona","Phoenix city","city",NA,"May",2020,873587,796850,76737
-"04","AZ","Arizona","Pima town","city",NA,"May",2020,1092,1029,63
-"04","AZ","Arizona","Pinetop-Lakeside town","city",NA,"May",2020,1820,1761,59
-"04","AZ","Arizona","Prescott city","city",NA,"May",2020,18782,17324,1458
-"04","AZ","Arizona","Prescott Valley town","city",NA,"May",2020,22892,21350,1542
-"04","AZ","Arizona","Quartzsite town","city",NA,"May",2020,1145,1145,0
-"04","AZ","Arizona","Queen Creek town","city",NA,"May",2020,22163,20489,1674
-"04","AZ","Arizona","Safford city","city",NA,"May",2020,4955,4750,205
-"04","AZ","Arizona","Sahuarita town","city",NA,"May",2020,13140,12221,919
-"04","AZ","Arizona","St. Johns city","city",NA,"May",2020,4320,4040,280
-"04","AZ","Arizona","San Luis city","city",NA,"May",2020,16353,10568,5785
-"04","AZ","Arizona","Scottsdale city","city",NA,"May",2020,151468,139440,12028
-"04","AZ","Arizona","Show Low city","city",NA,"May",2020,2187,2040,147
-"04","AZ","Arizona","Sierra Vista city","city",NA,"May",2020,19070,17781,1289
-"04","AZ","Arizona","Snowflake town","city",NA,"May",2020,7234,6801,433
-"04","AZ","Arizona","Somerton city","city",NA,"May",2020,2832,2133,699
-"04","AZ","Arizona","South Tucson city","city",NA,"May",2020,860,797,63
-"04","AZ","Arizona","Springerville town","city",NA,"May",2020,1129,1112,17
-"04","AZ","Arizona","Star Valley town","city",NA,"May",2020,693,693,0
-"04","AZ","Arizona","Superior town","city",NA,"May",2020,1373,1242,131
-"04","AZ","Arizona","Surprise city","city",NA,"May",2020,60288,55146,5142
-"04","AZ","Arizona","Taylor town","city",NA,"May",2020,1895,1709,186
-"04","AZ","Arizona","Tempe city","city",NA,"May",2020,120629,110594,10035
-"04","AZ","Arizona","Thatcher town","city",NA,"May",2020,2366,2320,46
-"04","AZ","Arizona","Tolleson city","city",NA,"May",2020,3482,3283,199
-"04","AZ","Arizona","Tombstone city","city",NA,"May",2020,527,497,30
-"04","AZ","Arizona","Tucson city","city",NA,"May",2020,271019,246146,24873
-"04","AZ","Arizona","Tusayan town","city",NA,"May",2020,261,261,0
-"04","AZ","Arizona","Wellton town","city",NA,"May",2020,763,674,89
-"04","AZ","Arizona","Wickenburg town","city",NA,"May",2020,3208,3098,110
-"04","AZ","Arizona","Willcox city","city",NA,"May",2020,1515,1427,88
-"04","AZ","Arizona","Williams city","city",NA,"May",2020,1424,1355,69
+"04","AZ","Arizona","Payson town","city",NA,"May",2020,6324,6110,214
+"04","AZ","Arizona","Peoria city","city",NA,"May",2020,93473,85749,7724
+"04","AZ","Arizona","Phoenix city","city",NA,"May",2020,874173,797271,76902
+"04","AZ","Arizona","Pima town","city",NA,"May",2020,1093,1030,63
+"04","AZ","Arizona","Pinetop-Lakeside town","city",NA,"May",2020,1826,1767,59
+"04","AZ","Arizona","Prescott city","city",NA,"May",2020,18776,17317,1459
+"04","AZ","Arizona","Prescott Valley town","city",NA,"May",2020,22889,21341,1548
+"04","AZ","Arizona","Quartzsite town","city",NA,"May",2020,1156,1156,0
+"04","AZ","Arizona","Queen Creek town","city",NA,"May",2020,22195,20500,1695
+"04","AZ","Arizona","Safford city","city",NA,"May",2020,4958,4753,205
+"04","AZ","Arizona","Sahuarita town","city",NA,"May",2020,13175,12254,921
+"04","AZ","Arizona","St. Johns city","city",NA,"May",2020,4335,4054,281
+"04","AZ","Arizona","San Luis city","city",NA,"May",2020,16331,10469,5862
+"04","AZ","Arizona","Scottsdale city","city",NA,"May",2020,151575,139514,12061
+"04","AZ","Arizona","Show Low city","city",NA,"May",2020,2195,2048,147
+"04","AZ","Arizona","Sierra Vista city","city",NA,"May",2020,19284,17991,1293
+"04","AZ","Arizona","Snowflake town","city",NA,"May",2020,7260,6825,435
+"04","AZ","Arizona","Somerton city","city",NA,"May",2020,2822,2113,709
+"04","AZ","Arizona","South Tucson city","city",NA,"May",2020,862,799,63
+"04","AZ","Arizona","Springerville town","city",NA,"May",2020,1133,1116,17
+"04","AZ","Arizona","Star Valley town","city",NA,"May",2020,696,696,0
+"04","AZ","Arizona","Superior town","city",NA,"May",2020,1375,1243,132
+"04","AZ","Arizona","Surprise city","city",NA,"May",2020,60331,55175,5156
+"04","AZ","Arizona","Taylor town","city",NA,"May",2020,1902,1715,187
+"04","AZ","Arizona","Tempe city","city",NA,"May",2020,120702,110652,10050
+"04","AZ","Arizona","Thatcher town","city",NA,"May",2020,2367,2322,45
+"04","AZ","Arizona","Tolleson city","city",NA,"May",2020,3485,3285,200
+"04","AZ","Arizona","Tombstone city","city",NA,"May",2020,533,503,30
+"04","AZ","Arizona","Tucson city","city",NA,"May",2020,271739,246799,24940
+"04","AZ","Arizona","Tusayan town","city",NA,"May",2020,260,260,0
+"04","AZ","Arizona","Wellton town","city",NA,"May",2020,759,668,91
+"04","AZ","Arizona","Wickenburg town","city",NA,"May",2020,3210,3100,110
+"04","AZ","Arizona","Willcox city","city",NA,"May",2020,1532,1444,88
+"04","AZ","Arizona","Williams city","city",NA,"May",2020,1419,1350,69
 "04","AZ","Arizona","Winkelman town","city",NA,"May",2020,85,77,8
-"04","AZ","Arizona","Winslow city","city",NA,"May",2020,3359,3104,255
-"04","AZ","Arizona","Youngtown town","city",NA,"May",2020,3351,2901,450
-"04","AZ","Arizona","Yuma city","city",NA,"May",2020,43411,37656,5755
+"04","AZ","Arizona","Winslow city","city",NA,"May",2020,3371,3114,257
+"04","AZ","Arizona","Youngtown town","city",NA,"May",2020,3353,2902,451
+"04","AZ","Arizona","Yuma city","city",NA,"May",2020,43176,37303,5873
+"04","AZ","Arizona","Apache Junction city","city",NA,"June",2020,15769,13793,1976
+"04","AZ","Arizona","Avondale city","city",NA,"June",2020,45673,41154,4519
+"04","AZ","Arizona","Benson city","city",NA,"June",2020,1738,1546,192
+"04","AZ","Arizona","Bisbee city","city",NA,"June",2020,1868,1809,59
+"04","AZ","Arizona","Buckeye town","city",NA,"June",2020,31394,27875,3519
+"04","AZ","Arizona","Bullhead City city","city",NA,"June",2020,17295,14706,2589
+"04","AZ","Arizona","Camp Verde town","city",NA,"June",2020,4692,4345,347
+"04","AZ","Arizona","Carefree town","city",NA,"June",2020,1123,1123,0
+"04","AZ","Arizona","Casa Grande city","city",NA,"June",2020,25291,22831,2460
+"04","AZ","Arizona","Cave Creek town","city",NA,"June",2020,2931,2516,415
+"04","AZ","Arizona","Chandler city","city",NA,"June",2020,151118,137977,13141
+"04","AZ","Arizona","Chino Valley town","city",NA,"June",2020,6013,5517,496
+"04","AZ","Arizona","Clarkdale town","city",NA,"June",2020,2384,2053,331
+"04","AZ","Arizona","Clifton town","city",NA,"June",2020,1825,1703,122
+"04","AZ","Arizona","Colorado City town","city",NA,"June",2020,1377,1000,377
+"04","AZ","Arizona","Coolidge city","city",NA,"June",2020,6006,5075,931
+"04","AZ","Arizona","Cottonwood city","city",NA,"June",2020,6061,5563,498
+"04","AZ","Arizona","Dewey-Humboldt town","city",NA,"June",2020,1931,1780,151
+"04","AZ","Arizona","Douglas city","city",NA,"June",2020,4524,3850,674
+"04","AZ","Arizona","Duncan town","city",NA,"June",2020,261,259,2
+"04","AZ","Arizona","Eagar town","city",NA,"June",2020,1509,1412,97
+"04","AZ","Arizona","El Mirage city","city",NA,"June",2020,17101,15357,1744
+"04","AZ","Arizona","Eloy city","city",NA,"June",2020,4180,3584,596
+"04","AZ","Arizona","Flagstaff city","city",NA,"June",2020,39272,35141,4131
+"04","AZ","Arizona","Florence town","city",NA,"June",2020,3730,3313,417
+"04","AZ","Arizona","Fountain Hills town","city",NA,"June",2020,13141,12013,1128
+"04","AZ","Arizona","Fredonia town","city",NA,"June",2020,557,488,69
+"04","AZ","Arizona","Gila Bend town","city",NA,"June",2020,768,701,67
+"04","AZ","Arizona","Gilbert town","city",NA,"June",2020,140235,129068,11167
+"04","AZ","Arizona","Glendale city","city",NA,"June",2020,127743,114682,13061
+"04","AZ","Arizona","Globe city","city",NA,"June",2020,3581,3246,335
+"04","AZ","Arizona","Goodyear city","city",NA,"June",2020,40660,36859,3801
+"04","AZ","Arizona","Guadalupe town","city",NA,"June",2020,2611,2082,529
+"04","AZ","Arizona","Hayden town","city",NA,"June",2020,179,155,24
+"04","AZ","Arizona","Holbrook city","city",NA,"June",2020,2076,1975,101
+"04","AZ","Arizona","Huachuca City town","city",NA,"June",2020,1053,940,113
+"04","AZ","Arizona","Jerome town","city",NA,"June",2020,328,282,46
+"04","AZ","Arizona","Kearny town","city",NA,"June",2020,992,876,116
+"04","AZ","Arizona","Kingman city","city",NA,"June",2020,13456,11956,1500
+"04","AZ","Arizona","Lake Havasu City city","city",NA,"June",2020,24520,21599,2921
+"04","AZ","Arizona","Litchfield Park city","city",NA,"June",2020,2838,2623,215
+"04","AZ","Arizona","Mammoth town","city",NA,"June",2020,699,597,102
+"04","AZ","Arizona","Marana town","city",NA,"June",2020,23996,22140,1856
+"04","AZ","Arizona","Maricopa city","city",NA,"June",2020,25923,23151,2772
+"04","AZ","Arizona","Mesa city","city",NA,"June",2020,258732,234408,24324
+"04","AZ","Arizona","Miami town","city",NA,"June",2020,857,784,73
+"04","AZ","Arizona","Nogales city","city",NA,"June",2020,7815,6545,1270
+"04","AZ","Arizona","Oro Valley town","city",NA,"June",2020,19960,18239,1721
+"04","AZ","Arizona","Page city","city",NA,"June",2020,3955,3304,651
+"04","AZ","Arizona","Paradise Valley town","city",NA,"June",2020,6603,6438,165
+"04","AZ","Arizona","Parker town","city",NA,"June",2020,1997,1897,100
+"04","AZ","Arizona","Patagonia town","city",NA,"June",2020,292,274,18
+"04","AZ","Arizona","Payson town","city",NA,"June",2020,6156,5898,258
+"04","AZ","Arizona","Peoria city","city",NA,"June",2020,91978,83423,8555
+"04","AZ","Arizona","Phoenix city","city",NA,"June",2020,866240,775644,90596
+"04","AZ","Arizona","Pima town","city",NA,"June",2020,1045,956,89
+"04","AZ","Arizona","Pinetop-Lakeside town","city",NA,"June",2020,1777,1699,78
+"04","AZ","Arizona","Prescott city","city",NA,"June",2020,18675,17011,1664
+"04","AZ","Arizona","Prescott Valley town","city",NA,"June",2020,22731,20963,1768
+"04","AZ","Arizona","Quartzsite town","city",NA,"June",2020,1123,1123,0
+"04","AZ","Arizona","Queen Creek town","city",NA,"June",2020,21814,19944,1870
+"04","AZ","Arizona","Safford city","city",NA,"June",2020,4703,4412,291
+"04","AZ","Arizona","Sahuarita town","city",NA,"June",2020,12929,11858,1071
+"04","AZ","Arizona","St. Johns city","city",NA,"June",2020,4237,3829,408
+"04","AZ","Arizona","San Luis city","city",NA,"June",2020,17091,10066,7025
+"04","AZ","Arizona","Scottsdale city","city",NA,"June",2020,148998,135729,13269
+"04","AZ","Arizona","Show Low city","city",NA,"June",2020,2165,1969,196
+"04","AZ","Arizona","Sierra Vista city","city",NA,"June",2020,19000,17449,1551
+"04","AZ","Arizona","Snowflake town","city",NA,"June",2020,7140,6562,578
+"04","AZ","Arizona","Somerton city","city",NA,"June",2020,2887,2031,856
+"04","AZ","Arizona","South Tucson city","city",NA,"June",2020,846,773,73
+"04","AZ","Arizona","Springerville town","city",NA,"June",2020,1078,1054,24
+"04","AZ","Arizona","Star Valley town","city",NA,"June",2020,671,671,0
+"04","AZ","Arizona","Superior town","city",NA,"June",2020,1369,1210,159
+"04","AZ","Arizona","Surprise city","city",NA,"June",2020,59571,53679,5892
+"04","AZ","Arizona","Taylor town","city",NA,"June",2020,1898,1649,249
+"04","AZ","Arizona","Tempe city","city",NA,"June",2020,119265,107650,11615
+"04","AZ","Arizona","Thatcher town","city",NA,"June",2020,2219,2155,64
+"04","AZ","Arizona","Tolleson city","city",NA,"June",2020,3428,3196,232
+"04","AZ","Arizona","Tombstone city","city",NA,"June",2020,524,488,36
+"04","AZ","Arizona","Tucson city","city",NA,"June",2020,267884,238834,29050
+"04","AZ","Arizona","Tusayan town","city",NA,"June",2020,256,256,0
+"04","AZ","Arizona","Wellton town","city",NA,"June",2020,751,642,109
+"04","AZ","Arizona","Wickenburg town","city",NA,"June",2020,3142,3015,127
+"04","AZ","Arizona","Willcox city","city",NA,"June",2020,1506,1400,106
+"04","AZ","Arizona","Williams city","city",NA,"June",2020,1407,1329,78
+"04","AZ","Arizona","Winkelman town","city",NA,"June",2020,84,74,10
+"04","AZ","Arizona","Winslow city","city",NA,"June",2020,3335,2994,341
+"04","AZ","Arizona","Youngtown town","city",NA,"June",2020,3347,2824,523
+"04","AZ","Arizona","Yuma city","city",NA,"June",2020,42969,35867,7102

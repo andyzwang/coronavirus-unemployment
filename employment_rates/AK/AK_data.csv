@@ -577,7 +577,8 @@ Alaska,1,0,2020,January,1,0,339445,317141,22304,6.6
 Alaska,1,0,2020,February,2,0,338951,319053,19898,5.9
 Alaska,1,0,2020,March,3,0,340653,320700,19953,5.9
 Alaska,1,0,2020,April,4,0,334391,288431,45960,13.7
-Alaska,1,0,2020,May,5,1,333842,292175,41667,12.5
+Alaska,1,0,2020,May,5,0,334106,292153,41953,12.6
+Alaska,1,0,2020,June,6,1,350583,307521,43062,12.3
 Aleutians East Borough,4,13,1990,January,1,0,1221,1204,17,1.4
 Aleutians East Borough,4,13,1990,February,2,0,1297,1291,6,0.5
 Aleutians East Borough,4,13,1990,March,3,0,1305,1296,9,0.7
@@ -972,7 +973,8 @@ Aleutians East Borough,4,13,2020,January,1,0,1810,1734,76,4.2
 Aleutians East Borough,4,13,2020,February,2,0,3104,3041,63,2
 Aleutians East Borough,4,13,2020,March,3,0,2870,2805,65,2.3
 Aleutians East Borough,4,13,2020,April,4,0,2302,2078,224,9.7
-Aleutians East Borough,4,13,2020,May,5,1,1517,1277,240,15.8
+Aleutians East Borough,4,13,2020,May,5,0,1540,1298,242,15.7
+Aleutians East Borough,4,13,2020,June,6,1,2498,2358,140,5.6
 Aleutians West Census Area,4,16,1990,January,1,0,3293,3271,22,0.7
 Aleutians West Census Area,4,16,1990,February,2,0,3524,3504,20,0.6
 Aleutians West Census Area,4,16,1990,March,3,0,3543,3519,24,0.7
@@ -1367,7 +1369,8 @@ Aleutians West Census Area,4,16,2020,January,1,0,3963,3830,133,3.4
 Aleutians West Census Area,4,16,2020,February,2,0,4625,4532,93,2
 Aleutians West Census Area,4,16,2020,March,3,0,4571,4478,93,2
 Aleutians West Census Area,4,16,2020,April,4,0,3849,3676,173,4.5
-Aleutians West Census Area,4,16,2020,May,5,1,3047,2453,594,19.5
+Aleutians West Census Area,4,16,2020,May,5,0,3094,2501,593,19.2
+Aleutians West Census Area,4,16,2020,June,6,1,3211,2904,307,9.6
 Municipality of Anchorage,4,20,1990,January,1,0,120297,113482,6815,5.7
 Municipality of Anchorage,4,20,1990,February,2,0,119818,113073,6745,5.6
 Municipality of Anchorage,4,20,1990,March,3,0,120710,113917,6793,5.6
@@ -1762,7 +1765,8 @@ Municipality of Anchorage,4,20,2020,January,1,0,144538,137112,7426,5.1
 Municipality of Anchorage,4,20,2020,February,2,0,144632,138169,6463,4.5
 Municipality of Anchorage,4,20,2020,March,3,0,144897,138052,6845,4.7
 Municipality of Anchorage,4,20,2020,April,4,0,143893,123898,19995,13.9
-Municipality of Anchorage,4,20,2020,May,5,1,142804,125284,17520,12.3
+Municipality of Anchorage,4,20,2020,May,5,0,142856,125242,17614,12.3
+Municipality of Anchorage,4,20,2020,June,6,1,148507,130753,17754,12
 Bethel Census Area,4,50,1990,January,1,0,3719,3476,243,6.5
 Bethel Census Area,4,50,1990,February,2,0,3935,3725,210,5.3
 Bethel Census Area,4,50,1990,March,3,0,4010,3741,269,6.7
@@ -2157,7 +2161,8 @@ Bethel Census Area,4,50,2020,January,1,0,6866,5990,876,12.8
 Bethel Census Area,4,50,2020,February,2,0,6832,5973,859,12.6
 Bethel Census Area,4,50,2020,March,3,0,6863,6071,792,11.5
 Bethel Census Area,4,50,2020,April,4,0,6695,5854,841,12.6
-Bethel Census Area,4,50,2020,May,5,1,6633,5704,929,14
+Bethel Census Area,4,50,2020,May,5,0,6799,5843,956,14.1
+Bethel Census Area,4,50,2020,June,6,1,7476,6306,1170,15.7
 Bristol Bay Borough,4,60,1990,January,1,0,444,420,24,5.4
 Bristol Bay Borough,4,60,1990,February,2,0,477,450,27,5.7
 Bristol Bay Borough,4,60,1990,March,3,0,482,451,31,6.4
@@ -2552,7 +2557,8 @@ Bristol Bay Borough,4,60,2020,January,1,0,243,209,34,14
 Bristol Bay Borough,4,60,2020,February,2,0,236,200,36,15.3
 Bristol Bay Borough,4,60,2020,March,3,0,238,208,30,12.6
 Bristol Bay Borough,4,60,2020,April,4,0,406,364,42,10.3
-Bristol Bay Borough,4,60,2020,May,5,1,440,394,46,10.5
+Bristol Bay Borough,4,60,2020,May,5,0,447,401,46,10.3
+Bristol Bay Borough,4,60,2020,June,6,1,683,636,47,6.9
 Denali Borough,4,68,1990,January,1,0,1016,819,197,19.4
 Denali Borough,4,68,1990,February,2,0,1007,820,187,18.6
 Denali Borough,4,68,1990,March,3,0,1032,827,205,19.9
@@ -2947,7 +2953,8 @@ Denali Borough,4,68,2020,January,1,0,547,439,108,19.7
 Denali Borough,4,68,2020,February,2,0,561,459,102,18.2
 Denali Borough,4,68,2020,March,3,0,576,479,97,16.8
 Denali Borough,4,68,2020,April,4,0,673,507,166,24.7
-Denali Borough,4,68,2020,May,5,1,1099,937,162,14.7
+Denali Borough,4,68,2020,May,5,0,1101,937,164,14.9
+Denali Borough,4,68,2020,June,6,1,1364,1199,165,12.1
 Dillingham Census Area,4,70,1990,January,1,0,1181,1050,131,11.1
 Dillingham Census Area,4,70,1990,February,2,0,1249,1124,125,10
 Dillingham Census Area,4,70,1990,March,3,0,1231,1129,102,8.3
@@ -3342,7 +3349,8 @@ Dillingham Census Area,4,70,2020,January,1,0,1765,1611,154,8.7
 Dillingham Census Area,4,70,2020,February,2,0,1805,1676,129,7.1
 Dillingham Census Area,4,70,2020,March,3,0,1801,1671,130,7.2
 Dillingham Census Area,4,70,2020,April,4,0,1833,1657,176,9.6
-Dillingham Census Area,4,70,2020,May,5,1,1838,1644,194,10.6
+Dillingham Census Area,4,70,2020,May,5,0,1872,1677,195,10.4
+Dillingham Census Area,4,70,2020,June,6,1,2320,2087,233,10
 Fairbanks North Star Borough,4,90,1990,January,1,0,34332,30978,3354,9.8
 Fairbanks North Star Borough,4,90,1990,February,2,0,34355,31002,3353,9.8
 Fairbanks North Star Borough,4,90,1990,March,3,0,34483,31267,3216,9.3
@@ -3737,7 +3745,8 @@ Fairbanks North Star Borough,4,90,2020,January,1,0,43217,40674,2543,5.9
 Fairbanks North Star Borough,4,90,2020,February,2,0,43236,41081,2155,5
 Fairbanks North Star Borough,4,90,2020,March,3,0,43731,41555,2176,5
 Fairbanks North Star Borough,4,90,2020,April,4,0,42677,37874,4803,11.3
-Fairbanks North Star Borough,4,90,2020,May,5,1,42900,38503,4397,10.2
+Fairbanks North Star Borough,4,90,2020,May,5,0,43026,38611,4415,10.3
+Fairbanks North Star Borough,4,90,2020,June,6,1,43854,39274,4580,10.4
 Haines Borough,4,100,1990,January,1,0,1042,928,114,10.9
 Haines Borough,4,100,1990,February,2,0,1027,929,98,9.5
 Haines Borough,4,100,1990,March,3,0,1044,950,94,9
@@ -4132,7 +4141,8 @@ Haines Borough,4,100,2020,January,1,0,889,747,142,16
 Haines Borough,4,100,2020,February,2,0,896,753,143,16
 Haines Borough,4,100,2020,March,3,0,925,791,134,14.5
 Haines Borough,4,100,2020,April,4,0,1018,740,278,27.3
-Haines Borough,4,100,2020,May,5,1,1151,892,259,22.5
+Haines Borough,4,100,2020,May,5,0,1150,890,260,22.6
+Haines Borough,4,100,2020,June,6,1,1273,1019,254,20
 Hoonah-Angoon Census Area,4,105,2010,January,1,0,953,761,192,20.1
 Hoonah-Angoon Census Area,4,105,2010,February,2,0,966,768,198,20.5
 Hoonah-Angoon Census Area,4,105,2010,March,3,0,977,795,182,18.6
@@ -4267,7 +4277,8 @@ Hoonah-Angoon Census Area,4,105,2020,January,1,0,1046,878,168,16.1
 Hoonah-Angoon Census Area,4,105,2020,February,2,0,960,793,167,17.4
 Hoonah-Angoon Census Area,4,105,2020,March,3,0,967,825,142,14.7
 Hoonah-Angoon Census Area,4,105,2020,April,4,0,937,768,169,18
-Hoonah-Angoon Census Area,4,105,2020,May,5,1,1179,983,196,16.6
+Hoonah-Angoon Census Area,4,105,2020,May,5,0,1178,980,198,16.8
+Hoonah-Angoon Census Area,4,105,2020,June,6,1,1276,1065,211,16.5
 City and Borough of Juneau,4,110,1990,January,1,0,14037,13196,841,6
 City and Borough of Juneau,4,110,1990,February,2,0,14108,13202,906,6.4
 City and Borough of Juneau,4,110,1990,March,3,0,14299,13493,806,5.6
@@ -4662,7 +4673,8 @@ City and Borough of Juneau,4,110,2020,January,1,0,16310,15541,769,4.7
 City and Borough of Juneau,4,110,2020,February,2,0,16178,15527,651,4
 City and Borough of Juneau,4,110,2020,March,3,0,16505,15836,669,4.1
 City and Borough of Juneau,4,110,2020,April,4,0,16273,14502,1771,10.9
-City and Borough of Juneau,4,110,2020,May,5,1,16180,14428,1752,10.8
+City and Borough of Juneau,4,110,2020,May,5,0,16146,14393,1753,10.9
+City and Borough of Juneau,4,110,2020,June,6,1,16532,14609,1923,11.6
 Kenai Peninsula Borough,4,122,1990,January,1,0,17077,14431,2646,15.5
 Kenai Peninsula Borough,4,122,1990,February,2,0,17571,14873,2698,15.4
 Kenai Peninsula Borough,4,122,1990,March,3,0,17738,15155,2583,14.6
@@ -5057,7 +5069,8 @@ Kenai Peninsula Borough,4,122,2020,January,1,0,25758,23758,2000,7.8
 Kenai Peninsula Borough,4,122,2020,February,2,0,24616,22822,1794,7.3
 Kenai Peninsula Borough,4,122,2020,March,3,0,24947,23154,1793,7.2
 Kenai Peninsula Borough,4,122,2020,April,4,0,24143,19989,4154,17.2
-Kenai Peninsula Borough,4,122,2020,May,5,1,24905,21367,3538,14.2
+Kenai Peninsula Borough,4,122,2020,May,5,0,25378,21807,3571,14.1
+Kenai Peninsula Borough,4,122,2020,June,6,1,26877,23280,3597,13.4
 Ketchikan Gateway Borough,4,130,1990,January,1,0,7087,6318,769,10.9
 Ketchikan Gateway Borough,4,130,1990,February,2,0,7244,6320,924,12.8
 Ketchikan Gateway Borough,4,130,1990,March,3,0,7170,6460,710,9.9
@@ -5452,7 +5465,8 @@ Ketchikan Gateway Borough,4,130,2020,January,1,0,6322,5826,496,7.8
 Ketchikan Gateway Borough,4,130,2020,February,2,0,6143,5690,453,7.4
 Ketchikan Gateway Borough,4,130,2020,March,3,0,6226,5774,452,7.3
 Ketchikan Gateway Borough,4,130,2020,April,4,0,6217,5137,1080,17.4
-Ketchikan Gateway Borough,4,130,2020,May,5,1,6514,5521,993,15.2
+Ketchikan Gateway Borough,4,130,2020,May,5,0,6509,5506,1003,15.4
+Ketchikan Gateway Borough,4,130,2020,June,6,1,6959,5962,997,14.3
 Kodiak Island Borough,4,150,1990,January,1,0,5492,5201,291,5.3
 Kodiak Island Borough,4,150,1990,February,2,0,5836,5360,476,8.2
 Kodiak Island Borough,4,150,1990,March,3,0,5784,5462,322,5.6
@@ -5847,7 +5861,8 @@ Kodiak Island Borough,4,150,2020,January,1,0,5744,5306,438,7.6
 Kodiak Island Borough,4,150,2020,February,2,0,5943,5681,262,4.4
 Kodiak Island Borough,4,150,2020,March,3,0,5983,5733,250,4.2
 Kodiak Island Borough,4,150,2020,April,4,0,5484,4903,581,10.6
-Kodiak Island Borough,4,150,2020,May,5,1,5844,5309,535,9.2
+Kodiak Island Borough,4,150,2020,May,5,0,5253,4716,537,10.2
+Kodiak Island Borough,4,150,2020,June,6,1,5603,5015,588,10.5
 Kusilvak Census Area,4,158,1990,January,1,0,1248,1114,134,10.7
 Kusilvak Census Area,4,158,1990,February,2,0,1314,1193,121,9.2
 Kusilvak Census Area,4,158,1990,March,3,0,1383,1198,185,13.4
@@ -6242,7 +6257,8 @@ Kusilvak Census Area,4,158,2020,January,1,0,2642,2156,486,18.4
 Kusilvak Census Area,4,158,2020,February,2,0,2681,2165,516,19.2
 Kusilvak Census Area,4,158,2020,March,3,0,2680,2214,466,17.4
 Kusilvak Census Area,4,158,2020,April,4,0,2530,2015,515,20.4
-Kusilvak Census Area,4,158,2020,May,5,1,2637,2097,540,20.5
+Kusilvak Census Area,4,158,2020,May,5,0,2718,2167,551,20.3
+Kusilvak Census Area,4,158,2020,June,6,1,2593,1957,636,24.5
 Lake and Peninsula Borough,4,164,1990,January,1,0,420,384,36,8.6
 Lake and Peninsula Borough,4,164,1990,February,2,0,448,412,36,8
 Lake and Peninsula Borough,4,164,1990,March,3,0,459,413,46,10
@@ -6637,7 +6653,8 @@ Lake and Peninsula Borough,4,164,2020,January,1,0,606,539,67,11.1
 Lake and Peninsula Borough,4,164,2020,February,2,0,585,519,66,11.3
 Lake and Peninsula Borough,4,164,2020,March,3,0,615,551,64,10.4
 Lake and Peninsula Borough,4,164,2020,April,4,0,613,526,87,14.2
-Lake and Peninsula Borough,4,164,2020,May,5,1,708,618,90,12.7
+Lake and Peninsula Borough,4,164,2020,May,5,0,720,629,91,12.6
+Lake and Peninsula Borough,4,164,2020,June,6,1,859,754,105,12.2
 Matanuska-Susitna Borough,4,170,1990,January,1,0,17345,14858,2487,14.3
 Matanuska-Susitna Borough,4,170,1990,February,2,0,17508,15039,2469,14.1
 Matanuska-Susitna Borough,4,170,1990,March,3,0,17478,15146,2332,13.3
@@ -7032,7 +7049,8 @@ Matanuska-Susitna Borough,4,170,2020,January,1,0,46577,43126,3451,7.4
 Matanuska-Susitna Borough,4,170,2020,February,2,0,46350,43247,3103,6.7
 Matanuska-Susitna Borough,4,170,2020,March,3,0,46363,43181,3182,6.9
 Matanuska-Susitna Borough,4,170,2020,April,4,0,45906,38770,7136,15.5
-Matanuska-Susitna Borough,4,170,2020,May,5,1,45020,39204,5816,12.9
+Matanuska-Susitna Borough,4,170,2020,May,5,0,45046,39191,5855,13
+Matanuska-Susitna Borough,4,170,2020,June,6,1,47119,40963,6156,13.1
 Nome Census Area,4,180,1990,January,1,0,2972,2660,312,10.5
 Nome Census Area,4,180,1990,February,2,0,3005,2691,314,10.4
 Nome Census Area,4,180,1990,March,3,0,3010,2697,313,10.4
@@ -7427,7 +7445,8 @@ Nome Census Area,4,180,2020,January,1,0,4137,3717,420,10.2
 Nome Census Area,4,180,2020,February,2,0,4095,3671,424,10.4
 Nome Census Area,4,180,2020,March,3,0,4105,3713,392,9.5
 Nome Census Area,4,180,2020,April,4,0,3874,3381,493,12.7
-Nome Census Area,4,180,2020,May,5,1,3847,3283,564,14.7
+Nome Census Area,4,180,2020,May,5,0,3836,3267,569,14.8
+Nome Census Area,4,180,2020,June,6,1,4045,3398,647,16
 North Slope Borough,4,185,1990,January,1,0,2639,2500,139,5.3
 North Slope Borough,4,185,1990,February,2,0,2633,2531,102,3.9
 North Slope Borough,4,185,1990,March,3,0,2632,2534,98,3.7
@@ -7822,7 +7841,8 @@ North Slope Borough,4,185,2020,January,1,0,3592,3380,212,5.9
 North Slope Borough,4,185,2020,February,2,0,3723,3548,175,4.7
 North Slope Borough,4,185,2020,March,3,0,3724,3562,162,4.4
 North Slope Borough,4,185,2020,April,4,0,3242,3059,183,5.6
-North Slope Borough,4,185,2020,May,5,1,2986,2744,242,8.1
+North Slope Borough,4,185,2020,May,5,0,2970,2729,241,8.1
+North Slope Borough,4,185,2020,June,6,1,3095,2789,306,9.9
 Northwest Arctic Borough,4,188,1990,January,1,0,1939,1661,278,14.3
 Northwest Arctic Borough,4,188,1990,February,2,0,1947,1682,265,13.6
 Northwest Arctic Borough,4,188,1990,March,3,0,1999,1685,314,15.7
@@ -8217,7 +8237,8 @@ Northwest Arctic Borough,4,188,2020,January,1,0,2828,2447,381,13.5
 Northwest Arctic Borough,4,188,2020,February,2,0,2925,2525,400,13.7
 Northwest Arctic Borough,4,188,2020,March,3,0,2882,2534,348,12.1
 Northwest Arctic Borough,4,188,2020,April,4,0,2752,2351,401,14.6
-Northwest Arctic Borough,4,188,2020,May,5,1,2709,2279,430,15.9
+Northwest Arctic Borough,4,188,2020,May,5,0,2710,2268,442,16.3
+Northwest Arctic Borough,4,188,2020,June,6,1,2861,2323,538,18.8
 Petersburg Borough,4,195,2010,January,1,0,1741,1509,232,13.3
 Petersburg Borough,4,195,2010,February,2,0,1774,1556,218,12.3
 Petersburg Borough,4,195,2010,March,3,0,1792,1601,191,10.7
@@ -8352,7 +8373,8 @@ Petersburg Borough,4,195,2020,January,1,0,1615,1466,149,9.2
 Petersburg Borough,4,195,2020,February,2,0,1248,1127,121,9.7
 Petersburg Borough,4,195,2020,March,3,0,1303,1179,124,9.5
 Petersburg Borough,4,195,2020,April,4,0,1288,1087,201,15.6
-Petersburg Borough,4,195,2020,May,5,1,1243,1054,189,15.2
+Petersburg Borough,4,195,2020,May,5,0,1245,1053,192,15.4
+Petersburg Borough,4,195,2020,June,6,1,1343,1163,180,13.4
 Prince of Wales-Hyder Census Area,4,198,2010,January,1,0,2518,2110,408,16.2
 Prince of Wales-Hyder Census Area,4,198,2010,February,2,0,2459,2068,391,15.9
 Prince of Wales-Hyder Census Area,4,198,2010,March,3,0,2417,2060,357,14.8
@@ -8487,7 +8509,8 @@ Prince of Wales-Hyder Census Area,4,198,2020,January,1,0,3004,2722,282,9.4
 Prince of Wales-Hyder Census Area,4,198,2020,February,2,0,2688,2419,269,10
 Prince of Wales-Hyder Census Area,4,198,2020,March,3,0,2735,2473,262,9.6
 Prince of Wales-Hyder Census Area,4,198,2020,April,4,0,2628,2271,357,13.6
-Prince of Wales-Hyder Census Area,4,198,2020,May,5,1,2666,2309,357,13.4
+Prince of Wales-Hyder Census Area,4,198,2020,May,5,0,2666,2304,362,13.6
+Prince of Wales-Hyder Census Area,4,198,2020,June,6,1,2957,2542,415,14
 City and Borough of Sitka,4,220,1990,January,1,0,4163,3906,257,6.2
 City and Borough of Sitka,4,220,1990,February,2,0,4213,3908,305,7.2
 City and Borough of Sitka,4,220,1990,March,3,0,4250,3994,256,6
@@ -8882,7 +8905,8 @@ City and Borough of Sitka,4,220,2020,January,1,0,4111,3910,201,4.9
 City and Borough of Sitka,4,220,2020,February,2,0,3951,3781,170,4.3
 City and Borough of Sitka,4,220,2020,March,3,0,4133,3961,172,4.2
 City and Borough of Sitka,4,220,2020,April,4,0,4055,3536,519,12.8
-City and Borough of Sitka,4,220,2020,May,5,1,4112,3607,505,12.3
+City and Borough of Sitka,4,220,2020,May,5,0,4105,3598,507,12.4
+City and Borough of Sitka,4,220,2020,June,6,1,4460,3937,523,11.7
 Municipality of Skagway,4,230,2010,January,1,0,614,451,163,26.5
 Municipality of Skagway,4,230,2010,February,2,0,593,425,168,28.3
 Municipality of Skagway,4,230,2010,March,3,0,577,442,135,23.4
@@ -9017,7 +9041,8 @@ Municipality of Skagway,4,230,2020,January,1,0,597,477,120,20.1
 Municipality of Skagway,4,230,2020,February,2,0,591,466,125,21.2
 Municipality of Skagway,4,230,2020,March,3,0,589,489,100,17
 Municipality of Skagway,4,230,2020,April,4,0,669,458,211,31.5
-Municipality of Skagway,4,230,2020,May,5,1,906,726,180,19.9
+Municipality of Skagway,4,230,2020,May,5,0,906,723,183,20.2
+Municipality of Skagway,4,230,2020,June,6,1,963,784,179,18.6
 Southeast Fairbanks Census Area,4,240,1990,January,1,0,2224,1853,371,16.7
 Southeast Fairbanks Census Area,4,240,1990,February,2,0,2261,1855,406,18
 Southeast Fairbanks Census Area,4,240,1990,March,3,0,2264,1870,394,17.4
@@ -9412,7 +9437,8 @@ Southeast Fairbanks Census Area,4,240,2020,January,1,0,2814,2537,277,9.8
 Southeast Fairbanks Census Area,4,240,2020,February,2,0,2692,2434,258,9.6
 Southeast Fairbanks Census Area,4,240,2020,March,3,0,2682,2461,221,8.2
 Southeast Fairbanks Census Area,4,240,2020,April,4,0,2567,2295,272,10.6
-Southeast Fairbanks Census Area,4,240,2020,May,5,1,2695,2417,278,10.3
+Southeast Fairbanks Census Area,4,240,2020,May,5,0,2707,2423,284,10.5
+Southeast Fairbanks Census Area,4,240,2020,June,6,1,2819,2515,304,10.8
 Valdez-Cordova Census Area,4,261,1990,January,1,0,4669,3999,670,14.3
 Valdez-Cordova Census Area,4,261,1990,February,2,0,4889,4121,768,15.7
 Valdez-Cordova Census Area,4,261,1990,March,3,0,5013,4198,815,16.3
@@ -9807,7 +9833,8 @@ Valdez-Cordova Census Area,4,261,2020,January,1,0,4242,3787,455,10.7
 Valdez-Cordova Census Area,4,261,2020,February,2,0,4102,3645,457,11.1
 Valdez-Cordova Census Area,4,261,2020,March,3,0,4213,3809,404,9.6
 Valdez-Cordova Census Area,4,261,2020,April,4,0,4340,3736,604,13.9
-Valdez-Cordova Census Area,4,261,2020,May,5,1,4613,4051,562,12.2
+Valdez-Cordova Census Area,4,261,2020,May,5,0,4470,3908,562,12.6
+Valdez-Cordova Census Area,4,261,2020,June,6,1,5171,4641,530,10.2
 City and Borough of Wrangell,4,275,2010,January,1,0,987,857,130,13.2
 City and Borough of Wrangell,4,275,2010,February,2,0,1002,875,127,12.7
 City and Borough of Wrangell,4,275,2010,March,3,0,1039,930,109,10.5
@@ -9942,7 +9969,8 @@ City and Borough of Wrangell,4,275,2020,January,1,0,1036,953,83,8
 City and Borough of Wrangell,4,275,2020,February,2,0,941,867,74,7.9
 City and Borough of Wrangell,4,275,2020,March,3,0,935,866,69,7.4
 City and Borough of Wrangell,4,275,2020,April,4,0,935,797,138,14.8
-City and Borough of Wrangell,4,275,2020,May,5,1,970,845,125,12.9
+City and Borough of Wrangell,4,275,2020,May,5,0,971,843,128,13.2
+City and Borough of Wrangell,4,275,2020,June,6,1,1029,897,132,12.8
 City and Borough of Yakutat,4,282,1994,January,1,0,304,239,65,21.4
 City and Borough of Yakutat,4,282,1994,February,2,0,306,238,68,22.2
 City and Borough of Yakutat,4,282,1994,March,3,0,307,241,66,21.5
@@ -10285,7 +10313,8 @@ City and Borough of Yakutat,4,282,2020,January,1,0,261,230,31,11.9
 City and Borough of Yakutat,4,282,2020,February,2,0,217,189,28,12.9
 City and Borough of Yakutat,4,282,2020,March,3,0,213,190,23,10.8
 City and Borough of Yakutat,4,282,2020,April,4,0,231,203,28,12.1
-City and Borough of Yakutat,4,282,2020,May,5,1,232,202,30,12.9
+City and Borough of Yakutat,4,282,2020,May,5,0,231,201,30,13
+City and Borough of Yakutat,4,282,2020,June,6,1,235,205,30,12.8
 Yukon-Koyukuk Census Area,4,290,1990,January,1,0,1916,1584,332,17.3
 Yukon-Koyukuk Census Area,4,290,1990,February,2,0,1886,1585,301,16
 Yukon-Koyukuk Census Area,4,290,1990,March,3,0,1942,1599,343,17.7
@@ -10680,7 +10709,8 @@ Yukon-Koyukuk Census Area,4,290,2020,January,1,0,2362,2037,325,13.8
 Yukon-Koyukuk Census Area,4,290,2020,February,2,0,2394,2054,340,14.2
 Yukon-Koyukuk Census Area,4,290,2020,March,3,0,2382,2086,296,12.4
 Yukon-Koyukuk Census Area,4,290,2020,April,4,0,2361,2000,361,15.3
-Yukon-Koyukuk Census Area,4,290,2020,May,5,1,2449,2044,405,16.5
+Yukon-Koyukuk Census Area,4,290,2020,May,5,0,2455,2045,410,16.7
+Yukon-Koyukuk Census Area,4,290,2020,June,6,1,2605,2188,417,16
 Anchorage/Mat-Su MSA,2,0,1990,January,1,0,137642,128340,9302,6.8
 Anchorage/Mat-Su MSA,2,0,1990,February,2,0,137326,128112,9214,6.7
 Anchorage/Mat-Su MSA,2,0,1990,March,3,0,138188,129063,9125,6.6
@@ -11075,7 +11105,8 @@ Anchorage/Mat-Su MSA,2,0,2020,January,1,0,191115,180238,10877,5.7
 Anchorage/Mat-Su MSA,2,0,2020,February,2,0,190982,181416,9566,5
 Anchorage/Mat-Su MSA,2,0,2020,March,3,0,191260,181233,10027,5.2
 Anchorage/Mat-Su MSA,2,0,2020,April,4,0,189799,162668,27131,14.3
-Anchorage/Mat-Su MSA,2,0,2020,May,5,1,187824,164488,23336,12.4
+Anchorage/Mat-Su MSA,2,0,2020,May,5,0,187902,164433,23469,12.5
+Anchorage/Mat-Su MSA,2,0,2020,June,6,1,195626,171716,23910,12.2
 Fairbanks MSA,2,90,1990,January,1,0,34332,30978,3354,9.8
 Fairbanks MSA,2,90,1990,February,2,0,34355,31002,3353,9.8
 Fairbanks MSA,2,90,1990,March,3,0,34483,31267,3216,9.3
@@ -11340,7 +11371,8 @@ Fairbanks MSA,2,90,2020,January,1,0,43217,40674,2543,5.9
 Fairbanks MSA,2,90,2020,February,2,0,43236,41081,2155,5
 Fairbanks MSA,2,90,2020,March,3,0,43731,41555,2176,5
 Fairbanks MSA,2,90,2020,April,4,0,42677,37874,4803,11.3
-Fairbanks MSA,2,90,2020,May,5,1,42900,38503,4397,10.2
+Fairbanks MSA,2,90,2020,May,5,0,43026,38611,4415,10.3
+Fairbanks MSA,2,90,2020,June,6,1,43854,39274,4580,10.4
 Anchorage/Mat-Su Economic Region,60,0,1990,January,1,0,137642,128340,9302,6.8
 Anchorage/Mat-Su Economic Region,60,0,1990,February,2,0,137326,128112,9214,6.7
 Anchorage/Mat-Su Economic Region,60,0,1990,March,3,0,138188,129063,9125,6.6
@@ -11735,7 +11767,8 @@ Anchorage/Mat-Su Economic Region,60,0,2020,January,1,0,191115,180238,10877,5.7
 Anchorage/Mat-Su Economic Region,60,0,2020,February,2,0,190982,181416,9566,5
 Anchorage/Mat-Su Economic Region,60,0,2020,March,3,0,191260,181233,10027,5.2
 Anchorage/Mat-Su Economic Region,60,0,2020,April,4,0,189799,162668,27131,14.3
-Anchorage/Mat-Su Economic Region,60,0,2020,May,5,1,187824,164488,23336,12.4
+Anchorage/Mat-Su Economic Region,60,0,2020,May,5,0,187902,164433,23469,12.5
+Anchorage/Mat-Su Economic Region,60,0,2020,June,6,1,195626,171716,23910,12.2
 Gulf Coast Economic Region,60,3,1990,January,1,0,27238,23631,3607,13.2
 Gulf Coast Economic Region,60,3,1990,February,2,0,28296,24354,3942,13.9
 Gulf Coast Economic Region,60,3,1990,March,3,0,28535,24815,3720,13
@@ -12130,7 +12163,8 @@ Gulf Coast Economic Region,60,3,2020,January,1,0,35744,32851,2893,8.1
 Gulf Coast Economic Region,60,3,2020,February,2,0,34661,32148,2513,7.3
 Gulf Coast Economic Region,60,3,2020,March,3,0,35143,32696,2447,7
 Gulf Coast Economic Region,60,3,2020,April,4,0,33967,28628,5339,15.7
-Gulf Coast Economic Region,60,3,2020,May,5,1,35362,30727,4635,13.1
+Gulf Coast Economic Region,60,3,2020,May,5,0,35101,30431,4670,13.3
+Gulf Coast Economic Region,60,3,2020,June,6,1,37651,32936,4715,12.5
 Interior Economic Region,60,6,1990,January,1,0,39488,35234,4254,10.8
 Interior Economic Region,60,6,1990,February,2,0,39509,35262,4247,10.7
 Interior Economic Region,60,6,1990,March,3,0,39721,35563,4158,10.5
@@ -12525,7 +12559,8 @@ Interior Economic Region,60,6,2020,January,1,0,48940,45687,3253,6.6
 Interior Economic Region,60,6,2020,February,2,0,48883,46028,2855,5.8
 Interior Economic Region,60,6,2020,March,3,0,49371,46581,2790,5.7
 Interior Economic Region,60,6,2020,April,4,0,48278,42676,5602,11.6
-Interior Economic Region,60,6,2020,May,5,1,49143,43901,5242,10.7
+Interior Economic Region,60,6,2020,May,5,0,49289,44016,5273,10.7
+Interior Economic Region,60,6,2020,June,6,1,50642,45176,5466,10.8
 Northern Economic Region,60,7,1990,January,1,0,7550,6821,729,9.7
 Northern Economic Region,60,7,1990,February,2,0,7585,6904,681,9
 Northern Economic Region,60,7,1990,March,3,0,7641,6916,725,9.5
@@ -12920,7 +12955,8 @@ Northern Economic Region,60,7,2020,January,1,0,10557,9544,1013,9.6
 Northern Economic Region,60,7,2020,February,2,0,10743,9744,999,9.3
 Northern Economic Region,60,7,2020,March,3,0,10711,9809,902,8.4
 Northern Economic Region,60,7,2020,April,4,0,9868,8791,1077,10.9
-Northern Economic Region,60,7,2020,May,5,1,9542,8306,1236,13
+Northern Economic Region,60,7,2020,May,5,0,9516,8264,1252,13.2
+Northern Economic Region,60,7,2020,June,6,1,10001,8510,1491,14.9
 Southeast Economic Region,60,1,1990,January,1,0,26329,24348,1981,7.5
 Southeast Economic Region,60,1,1990,February,2,0,26592,24359,2233,8.4
 Southeast Economic Region,60,1,1990,March,3,0,26763,24897,1866,7
@@ -13315,7 +13351,8 @@ Southeast Economic Region,60,1,2020,January,1,0,35191,32750,2441,6.9
 Southeast Economic Region,60,1,2020,February,2,0,33813,31612,2201,6.5
 Southeast Economic Region,60,1,2020,March,3,0,34531,32384,2147,6.2
 Southeast Economic Region,60,1,2020,April,4,0,34251,29499,4752,13.9
-Southeast Economic Region,60,1,2020,May,5,1,35153,30567,4586,13
+Southeast Economic Region,60,1,2020,May,5,0,35107,30491,4616,13.1
+Southeast Economic Region,60,1,2020,June,6,1,37027,32183,4844,13.1
 Southwest Economic Region,60,4,1990,January,1,0,11526,10919,607,5.3
 Southwest Economic Region,60,4,1990,February,2,0,12244,11699,545,4.5
 Southwest Economic Region,60,4,1990,March,3,0,12413,11747,666,5.4
@@ -13710,7 +13747,8 @@ Southwest Economic Region,60,4,2020,January,1,0,17895,16069,1826,10.2
 Southwest Economic Region,60,4,2020,February,2,0,19868,18106,1762,8.9
 Southwest Economic Region,60,4,2020,March,3,0,19638,17998,1640,8.4
 Southwest Economic Region,60,4,2020,April,4,0,18228,16170,2058,11.3
-Southwest Economic Region,60,4,2020,May,5,1,16820,14187,2633,15.7
+Southwest Economic Region,60,4,2020,May,5,0,17190,14516,2674,15.6
+Southwest Economic Region,60,4,2020,June,6,1,19640,17002,2638,13.4
 Prince of Wales-Outer Ketchikan Census Area,4,201,1990,January,1,0,2929,2423,506,17.3
 Prince of Wales-Outer Ketchikan Census Area,4,201,1990,February,2,0,2900,2408,492,17
 Prince of Wales-Outer Ketchikan Census Area,4,201,1990,March,3,0,2827,2450,377,13.3
@@ -14492,4 +14530,4 @@ Wrangell-Petersburg Census Area,4,280,2009,November,11,0,2638,2360,278,10.5
 Wrangell-Petersburg Census Area,4,280,2009,December,12,0,2618,2293,325,12.4
 Wrangell-Petersburg Census Area,4,280,2009,Annual,0,0,2871,2572,299,10.4
 ,,,,,,,,,,
-Source: Alaska Department of Labor and Workforce Development - Research and Analysis Section.  6/19/2020,,,,,,,,,,
+Source: Alaska Department of Labor and Workforce Development - Research and Analysis Section.  7/17/2020,,,,,,,,,,

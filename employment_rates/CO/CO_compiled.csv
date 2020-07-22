@@ -319,8 +319,73 @@
 "08","CO","Colorado","Washington County","county","08121","February",2020,2792,2726,66
 "08","CO","Colorado","Weld County","county","08123","February",2020,172414,167500,4914
 "08","CO","Colorado","Yuma County","county","08125","February",2020,5600,5494,106
+"08","CO","Colorado","Adams County","county","08001","June",2020,282039,249254,32785
+"08","CO","Colorado","Alamosa County","county","08003","June",2020,7997,7269,728
+"08","CO","Colorado","Arapahoe County","county","08005","June",2020,378525,334946,43579
+"08","CO","Colorado","Archuleta County","county","08007","June",2020,7260,6443,817
+"08","CO","Colorado","Baca County","county","08009","June",2020,1860,1784,76
+"08","CO","Colorado","Bent County","county","08011","June",2020,1659,1551,108
+"08","CO","Colorado","Boulder County","county","08013","June",2020,199071,180240,18831
+"08","CO","Colorado","Broomfield County","county","08014","June",2020,41029,36876,4153
+"08","CO","Colorado","Chaffee County","county","08015","June",2020,10565,9599,966
+"08","CO","Colorado","Cheyenne County","county","08017","June",2020,1021,982,39
+"08","CO","Colorado","Clear Creek County","county","08019","June",2020,6391,5567,824
+"08","CO","Colorado","Conejos County","county","08021","June",2020,3737,3447,290
+"08","CO","Colorado","Costilla County","county","08023","June",2020,1731,1554,177
+"08","CO","Colorado","Crowley County","county","08025","June",2020,1328,1227,101
+"08","CO","Colorado","Custer County","county","08027","June",2020,2021,1857,164
+"08","CO","Colorado","Delta County","county","08029","June",2020,13940,12600,1340
+"08","CO","Colorado","Denver County","county","08031","June",2020,434773,382895,51878
+"08","CO","Colorado","Dolores County","county","08033","June",2020,1109,997,112
+"08","CO","Colorado","Douglas County","county","08035","June",2020,195979,178863,17116
+"08","CO","Colorado","Eagle County","county","08037","June",2020,38024,32045,5979
+"08","CO","Colorado","El Paso County","county","08041","June",2020,351888,315356,36532
+"08","CO","Colorado","Elbert County","county","08039","June",2020,14963,13905,1058
+"08","CO","Colorado","Fremont County","county","08043","June",2020,15100,13459,1641
+"08","CO","Colorado","Garfield County","county","08045","June",2020,33093,29886,3207
+"08","CO","Colorado","Gilpin County","county","08047","June",2020,4345,3489,856
+"08","CO","Colorado","Grand County","county","08049","June",2020,9885,8584,1301
+"08","CO","Colorado","Gunnison County","county","08051","June",2020,11684,10421,1263
+"08","CO","Colorado","Hinsdale County","county","08053","June",2020,441,416,25
+"08","CO","Colorado","Huerfano County","county","08055","June",2020,2388,2055,333
+"08","CO","Colorado","Jackson County","county","08057","June",2020,931,882,49
+"08","CO","Colorado","Jefferson County","county","08059","June",2020,344382,308397,35985
+"08","CO","Colorado","Kiowa County","county","08061","June",2020,844,810,34
+"08","CO","Colorado","Kit Carson County","county","08063","June",2020,3838,3660,178
+"08","CO","Colorado","La Plata County","county","08067","June",2020,31368,28135,3233
+"08","CO","Colorado","Lake County","county","08065","June",2020,5056,4358,698
+"08","CO","Colorado","Larimer County","county","08069","June",2020,209001,189770,19231
+"08","CO","Colorado","Las Animas County","county","08071","June",2020,6094,5406,688
+"08","CO","Colorado","Lincoln County","county","08073","June",2020,2015,1873,142
+"08","CO","Colorado","Logan County","county","08075","June",2020,9758,9017,741
+"08","CO","Colorado","Mesa County","county","08077","June",2020,79326,71366,7960
+"08","CO","Colorado","Mineral County","county","08079","June",2020,534,489,45
+"08","CO","Colorado","Moffat County","county","08081","June",2020,6584,5996,588
+"08","CO","Colorado","Montezuma County","county","08083","June",2020,11537,10362,1175
+"08","CO","Colorado","Montrose County","county","08085","June",2020,20068,17995,2073
+"08","CO","Colorado","Morgan County","county","08087","June",2020,14754,13489,1265
+"08","CO","Colorado","Otero County","county","08089","June",2020,7519,6866,653
+"08","CO","Colorado","Ouray County","county","08091","June",2020,2753,2413,340
+"08","CO","Colorado","Park County","county","08093","June",2020,11266,10300,966
+"08","CO","Colorado","Phillips County","county","08095","June",2020,2364,2253,111
+"08","CO","Colorado","Pitkin County","county","08097","June",2020,12317,10351,1966
+"08","CO","Colorado","Prowers County","county","08099","June",2020,5778,5395,383
+"08","CO","Colorado","Pueblo County","county","08101","June",2020,77572,69220,8352
+"08","CO","Colorado","Rio Blanco County","county","08103","June",2020,2769,2552,217
+"08","CO","Colorado","Rio Grande County","county","08105","June",2020,5008,4521,487
+"08","CO","Colorado","Routt County","county","08107","June",2020,16361,14223,2138
+"08","CO","Colorado","Saguache County","county","08109","June",2020,3404,3070,334
+"08","CO","Colorado","San Juan County","county","08111","June",2020,691,634,57
+"08","CO","Colorado","San Miguel County","county","08113","June",2020,6298,5219,1079
+"08","CO","Colorado","Sedgwick County","county","08115","June",2020,1126,1064,62
+"08","CO","Colorado","Summit County","county","08117","June",2020,23704,19773,3931
+"08","CO","Colorado","Teller County","county","08119","June",2020,13392,11861,1531
+"08","CO","Colorado","Washington County","county","08121","June",2020,2449,2323,126
+"08","CO","Colorado","Weld County","county","08123","June",2020,169810,152738,17072
+"08","CO","Colorado","Yuma County","county","08125","June",2020,5284,5030,254
 "08","CO","Colorado","Colorado","state",NA,"January",2020,3169480,3079301,90179
 "08","CO","Colorado","Colorado","state",NA,"February",2020,3190122,3096352,93770
 "08","CO","Colorado","Colorado","state",NA,"March",2020,3120125,2952457,167668
 "08","CO","Colorado","Colorado","state",NA,"April",2020,3039495,2669804,369691
 "08","CO","Colorado","Colorado","state",NA,"May",2020,3049684,2744071,305613
+"08","CO","Colorado","Colorado","state",NA,"June",2020,3189798,2849376,340422

@@ -8,6 +8,7 @@ library(stringr)
 
 # import
 
+
 raw_counties <- read_csv("CO_counties_data.csv") %>%
   clean_names(case = "snake") 
 

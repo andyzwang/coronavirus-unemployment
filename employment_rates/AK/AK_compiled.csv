@@ -15,7 +15,8 @@
 "02","AK","Alaska","Alaska","state",NA,"February",2020,338951,319053,19898
 "02","AK","Alaska","Alaska","state",NA,"March",2020,340653,320700,19953
 "02","AK","Alaska","Alaska","state",NA,"April",2020,334391,288431,45960
-"02","AK","Alaska","Alaska","state",NA,"May",2020,333842,292175,41667
+"02","AK","Alaska","Alaska","state",NA,"May",2020,334106,292153,41953
+"02","AK","Alaska","Alaska","state",NA,"June",2020,350583,307521,43062
 "02","AK","Alaska","Aleutians East Borough","county","02013","January",2019,1759,1685,74
 "02","AK","Alaska","Aleutians East Borough","county","02013","February",2019,3175,3110,65
 "02","AK","Alaska","Aleutians East Borough","county","02013","March",2019,2841,2775,66
@@ -32,7 +33,8 @@
 "02","AK","Alaska","Aleutians East Borough","county","02013","February",2020,3104,3041,63
 "02","AK","Alaska","Aleutians East Borough","county","02013","March",2020,2870,2805,65
 "02","AK","Alaska","Aleutians East Borough","county","02013","April",2020,2302,2078,224
-"02","AK","Alaska","Aleutians East Borough","county","02013","May",2020,1517,1277,240
+"02","AK","Alaska","Aleutians East Borough","county","02013","May",2020,1540,1298,242
+"02","AK","Alaska","Aleutians East Borough","county","02013","June",2020,2498,2358,140
 "02","AK","Alaska","Aleutians West Census Area","county","02016","January",2019,4062,3924,138
 "02","AK","Alaska","Aleutians West Census Area","county","02016","February",2019,4759,4632,127
 "02","AK","Alaska","Aleutians West Census Area","county","02016","March",2019,4560,4434,126
@@ -49,7 +51,8 @@
 "02","AK","Alaska","Aleutians West Census Area","county","02016","February",2020,4625,4532,93
 "02","AK","Alaska","Aleutians West Census Area","county","02016","March",2020,4571,4478,93
 "02","AK","Alaska","Aleutians West Census Area","county","02016","April",2020,3849,3676,173
-"02","AK","Alaska","Aleutians West Census Area","county","02016","May",2020,3047,2453,594
+"02","AK","Alaska","Aleutians West Census Area","county","02016","May",2020,3094,2501,593
+"02","AK","Alaska","Aleutians West Census Area","county","02016","June",2020,3211,2904,307
 "02","AK","Alaska","Municipality of Anchorage","county","02020","January",2019,148049,140162,7887
 "02","AK","Alaska","Municipality of Anchorage","county","02020","February",2019,146967,138920,8047
 "02","AK","Alaska","Municipality of Anchorage","county","02020","March",2019,146913,138995,7918
@@ -66,7 +69,8 @@
 "02","AK","Alaska","Municipality of Anchorage","county","02020","February",2020,144632,138169,6463
 "02","AK","Alaska","Municipality of Anchorage","county","02020","March",2020,144897,138052,6845
 "02","AK","Alaska","Municipality of Anchorage","county","02020","April",2020,143893,123898,19995
-"02","AK","Alaska","Municipality of Anchorage","county","02020","May",2020,142804,125284,17520
+"02","AK","Alaska","Municipality of Anchorage","county","02020","May",2020,142856,125242,17614
+"02","AK","Alaska","Municipality of Anchorage","county","02020","June",2020,148507,130753,17754
 "02","AK","Alaska","Bethel Census Area","county","02050","January",2019,7055,6154,901
 "02","AK","Alaska","Bethel Census Area","county","02050","February",2019,7070,6088,982
 "02","AK","Alaska","Bethel Census Area","county","02050","March",2019,6922,5999,923
@@ -83,7 +87,8 @@
 "02","AK","Alaska","Bethel Census Area","county","02050","February",2020,6832,5973,859
 "02","AK","Alaska","Bethel Census Area","county","02050","March",2020,6863,6071,792
 "02","AK","Alaska","Bethel Census Area","county","02050","April",2020,6695,5854,841
-"02","AK","Alaska","Bethel Census Area","county","02050","May",2020,6633,5704,929
+"02","AK","Alaska","Bethel Census Area","county","02050","May",2020,6799,5843,956
+"02","AK","Alaska","Bethel Census Area","county","02050","June",2020,7476,6306,1170
 "02","AK","Alaska","Bristol Bay Borough","county","02060","January",2019,237,199,38
 "02","AK","Alaska","Bristol Bay Borough","county","02060","February",2019,244,204,40
 "02","AK","Alaska","Bristol Bay Borough","county","02060","March",2019,243,210,33
@@ -100,7 +105,8 @@
 "02","AK","Alaska","Bristol Bay Borough","county","02060","February",2020,236,200,36
 "02","AK","Alaska","Bristol Bay Borough","county","02060","March",2020,238,208,30
 "02","AK","Alaska","Bristol Bay Borough","county","02060","April",2020,406,364,42
-"02","AK","Alaska","Bristol Bay Borough","county","02060","May",2020,440,394,46
+"02","AK","Alaska","Bristol Bay Borough","county","02060","May",2020,447,401,46
+"02","AK","Alaska","Bristol Bay Borough","county","02060","June",2020,683,636,47
 "02","AK","Alaska","Denali Borough","county","02068","January",2019,565,443,122
 "02","AK","Alaska","Denali Borough","county","02068","February",2019,579,462,117
 "02","AK","Alaska","Denali Borough","county","02068","March",2019,593,481,112
@@ -117,7 +123,8 @@
 "02","AK","Alaska","Denali Borough","county","02068","February",2020,561,459,102
 "02","AK","Alaska","Denali Borough","county","02068","March",2020,576,479,97
 "02","AK","Alaska","Denali Borough","county","02068","April",2020,673,507,166
-"02","AK","Alaska","Denali Borough","county","02068","May",2020,1099,937,162
+"02","AK","Alaska","Denali Borough","county","02068","May",2020,1101,937,164
+"02","AK","Alaska","Denali Borough","county","02068","June",2020,1364,1199,165
 "02","AK","Alaska","Dillingham Census Area","county","02070","January",2019,1784,1623,161
 "02","AK","Alaska","Dillingham Census Area","county","02070","February",2019,1890,1712,178
 "02","AK","Alaska","Dillingham Census Area","county","02070","March",2019,1835,1657,178
@@ -134,7 +141,8 @@
 "02","AK","Alaska","Dillingham Census Area","county","02070","February",2020,1805,1676,129
 "02","AK","Alaska","Dillingham Census Area","county","02070","March",2020,1801,1671,130
 "02","AK","Alaska","Dillingham Census Area","county","02070","April",2020,1833,1657,176
-"02","AK","Alaska","Dillingham Census Area","county","02070","May",2020,1838,1644,194
+"02","AK","Alaska","Dillingham Census Area","county","02070","May",2020,1872,1677,195
+"02","AK","Alaska","Dillingham Census Area","county","02070","June",2020,2320,2087,233
 "02","AK","Alaska","Fairbanks North Star Borough","county","02090","January",2019,44741,41992,2749
 "02","AK","Alaska","Fairbanks North Star Borough","county","02090","February",2019,44307,41548,2759
 "02","AK","Alaska","Fairbanks North Star Borough","county","02090","March",2019,44388,41714,2674
@@ -151,7 +159,8 @@
 "02","AK","Alaska","Fairbanks North Star Borough","county","02090","February",2020,43236,41081,2155
 "02","AK","Alaska","Fairbanks North Star Borough","county","02090","March",2020,43731,41555,2176
 "02","AK","Alaska","Fairbanks North Star Borough","county","02090","April",2020,42677,37874,4803
-"02","AK","Alaska","Fairbanks North Star Borough","county","02090","May",2020,42900,38503,4397
+"02","AK","Alaska","Fairbanks North Star Borough","county","02090","May",2020,43026,38611,4415
+"02","AK","Alaska","Fairbanks North Star Borough","county","02090","June",2020,43854,39274,4580
 "02","AK","Alaska","Haines Borough","county","02100","January",2019,863,737,126
 "02","AK","Alaska","Haines Borough","county","02100","February",2019,890,755,135
 "02","AK","Alaska","Haines Borough","county","02100","March",2019,929,800,129
@@ -168,7 +177,8 @@
 "02","AK","Alaska","Haines Borough","county","02100","February",2020,896,753,143
 "02","AK","Alaska","Haines Borough","county","02100","March",2020,925,791,134
 "02","AK","Alaska","Haines Borough","county","02100","April",2020,1018,740,278
-"02","AK","Alaska","Haines Borough","county","02100","May",2020,1151,892,259
+"02","AK","Alaska","Haines Borough","county","02100","May",2020,1150,890,260
+"02","AK","Alaska","Haines Borough","county","02100","June",2020,1273,1019,254
 "02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","January",2019,1013,822,191
 "02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","February",2019,996,794,202
 "02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","March",2019,1007,822,185
@@ -185,7 +195,8 @@
 "02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","February",2020,960,793,167
 "02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","March",2020,967,825,142
 "02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","April",2020,937,768,169
-"02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","May",2020,1179,983,196
+"02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","May",2020,1178,980,198
+"02","AK","Alaska","Hoonah-Angoon Census Area","county","02105","June",2020,1276,1065,211
 "02","AK","Alaska","City and Borough of Juneau","county","02110","January",2019,16380,15517,863
 "02","AK","Alaska","City and Borough of Juneau","county","02110","February",2019,16431,15531,900
 "02","AK","Alaska","City and Borough of Juneau","county","02110","March",2019,16519,15658,861
@@ -202,7 +213,8 @@
 "02","AK","Alaska","City and Borough of Juneau","county","02110","February",2020,16178,15527,651
 "02","AK","Alaska","City and Borough of Juneau","county","02110","March",2020,16505,15836,669
 "02","AK","Alaska","City and Borough of Juneau","county","02110","April",2020,16273,14502,1771
-"02","AK","Alaska","City and Borough of Juneau","county","02110","May",2020,16180,14428,1752
+"02","AK","Alaska","City and Borough of Juneau","county","02110","May",2020,16146,14393,1753
+"02","AK","Alaska","City and Borough of Juneau","county","02110","June",2020,16532,14609,1923
 "02","AK","Alaska","Kenai Peninsula Borough","county","02122","January",2019,25390,23254,2136
 "02","AK","Alaska","Kenai Peninsula Borough","county","02122","February",2019,25190,23037,2153
 "02","AK","Alaska","Kenai Peninsula Borough","county","02122","March",2019,25347,23313,2034
@@ -219,7 +231,8 @@
 "02","AK","Alaska","Kenai Peninsula Borough","county","02122","February",2020,24616,22822,1794
 "02","AK","Alaska","Kenai Peninsula Borough","county","02122","March",2020,24947,23154,1793
 "02","AK","Alaska","Kenai Peninsula Borough","county","02122","April",2020,24143,19989,4154
-"02","AK","Alaska","Kenai Peninsula Borough","county","02122","May",2020,24905,21367,3538
+"02","AK","Alaska","Kenai Peninsula Borough","county","02122","May",2020,25378,21807,3571
+"02","AK","Alaska","Kenai Peninsula Borough","county","02122","June",2020,26877,23280,3597
 "02","AK","Alaska","Ketchikan Gateway Borough","county","02130","January",2019,6271,5783,488
 "02","AK","Alaska","Ketchikan Gateway Borough","county","02130","February",2019,6231,5726,505
 "02","AK","Alaska","Ketchikan Gateway Borough","county","02130","March",2019,6305,5825,480
@@ -236,7 +249,8 @@
 "02","AK","Alaska","Ketchikan Gateway Borough","county","02130","February",2020,6143,5690,453
 "02","AK","Alaska","Ketchikan Gateway Borough","county","02130","March",2020,6226,5774,452
 "02","AK","Alaska","Ketchikan Gateway Borough","county","02130","April",2020,6217,5137,1080
-"02","AK","Alaska","Ketchikan Gateway Borough","county","02130","May",2020,6514,5521,993
+"02","AK","Alaska","Ketchikan Gateway Borough","county","02130","May",2020,6509,5506,1003
+"02","AK","Alaska","Ketchikan Gateway Borough","county","02130","June",2020,6959,5962,997
 "02","AK","Alaska","Kodiak Island Borough","county","02150","January",2019,5540,5020,520
 "02","AK","Alaska","Kodiak Island Borough","county","02150","February",2019,6067,5753,314
 "02","AK","Alaska","Kodiak Island Borough","county","02150","March",2019,6071,5757,314
@@ -253,7 +267,8 @@
 "02","AK","Alaska","Kodiak Island Borough","county","02150","February",2020,5943,5681,262
 "02","AK","Alaska","Kodiak Island Borough","county","02150","March",2020,5983,5733,250
 "02","AK","Alaska","Kodiak Island Borough","county","02150","April",2020,5484,4903,581
-"02","AK","Alaska","Kodiak Island Borough","county","02150","May",2020,5844,5309,535
+"02","AK","Alaska","Kodiak Island Borough","county","02150","May",2020,5253,4716,537
+"02","AK","Alaska","Kodiak Island Borough","county","02150","June",2020,5603,5015,588
 "02","AK","Alaska","Kusilvak Census Area","county","02158","January",2019,2775,2233,542
 "02","AK","Alaska","Kusilvak Census Area","county","02158","February",2019,2807,2205,602
 "02","AK","Alaska","Kusilvak Census Area","county","02158","March",2019,2754,2183,571
@@ -270,7 +285,8 @@
 "02","AK","Alaska","Kusilvak Census Area","county","02158","February",2020,2681,2165,516
 "02","AK","Alaska","Kusilvak Census Area","county","02158","March",2020,2680,2214,466
 "02","AK","Alaska","Kusilvak Census Area","county","02158","April",2020,2530,2015,515
-"02","AK","Alaska","Kusilvak Census Area","county","02158","May",2020,2637,2097,540
+"02","AK","Alaska","Kusilvak Census Area","county","02158","May",2020,2718,2167,551
+"02","AK","Alaska","Kusilvak Census Area","county","02158","June",2020,2593,1957,636
 "02","AK","Alaska","Lake and Peninsula Borough","county","02164","January",2019,609,533,76
 "02","AK","Alaska","Lake and Peninsula Borough","county","02164","February",2019,623,529,94
 "02","AK","Alaska","Lake and Peninsula Borough","county","02164","March",2019,633,548,85
@@ -287,7 +303,8 @@
 "02","AK","Alaska","Lake and Peninsula Borough","county","02164","February",2020,585,519,66
 "02","AK","Alaska","Lake and Peninsula Borough","county","02164","March",2020,615,551,64
 "02","AK","Alaska","Lake and Peninsula Borough","county","02164","April",2020,613,526,87
-"02","AK","Alaska","Lake and Peninsula Borough","county","02164","May",2020,708,618,90
+"02","AK","Alaska","Lake and Peninsula Borough","county","02164","May",2020,720,629,91
+"02","AK","Alaska","Lake and Peninsula Borough","county","02164","June",2020,859,754,105
 "02","AK","Alaska","Matanuska-Susitna Borough","county","02170","January",2019,47470,43798,3672
 "02","AK","Alaska","Matanuska-Susitna Borough","county","02170","February",2019,47201,43473,3728
 "02","AK","Alaska","Matanuska-Susitna Borough","county","02170","March",2019,47202,43537,3665
@@ -304,7 +321,8 @@
 "02","AK","Alaska","Matanuska-Susitna Borough","county","02170","February",2020,46350,43247,3103
 "02","AK","Alaska","Matanuska-Susitna Borough","county","02170","March",2020,46363,43181,3182
 "02","AK","Alaska","Matanuska-Susitna Borough","county","02170","April",2020,45906,38770,7136
-"02","AK","Alaska","Matanuska-Susitna Borough","county","02170","May",2020,45020,39204,5816
+"02","AK","Alaska","Matanuska-Susitna Borough","county","02170","May",2020,45046,39191,5855
+"02","AK","Alaska","Matanuska-Susitna Borough","county","02170","June",2020,47119,40963,6156
 "02","AK","Alaska","Nome Census Area","county","02180","January",2019,4118,3656,462
 "02","AK","Alaska","Nome Census Area","county","02180","February",2019,4047,3557,490
 "02","AK","Alaska","Nome Census Area","county","02180","March",2019,4056,3593,463
@@ -321,7 +339,8 @@
 "02","AK","Alaska","Nome Census Area","county","02180","February",2020,4095,3671,424
 "02","AK","Alaska","Nome Census Area","county","02180","March",2020,4105,3713,392
 "02","AK","Alaska","Nome Census Area","county","02180","April",2020,3874,3381,493
-"02","AK","Alaska","Nome Census Area","county","02180","May",2020,3847,3283,564
+"02","AK","Alaska","Nome Census Area","county","02180","May",2020,3836,3267,569
+"02","AK","Alaska","Nome Census Area","county","02180","June",2020,4045,3398,647
 "02","AK","Alaska","North Slope Borough","county","02185","January",2019,3559,3350,209
 "02","AK","Alaska","North Slope Borough","county","02185","February",2019,3659,3440,219
 "02","AK","Alaska","North Slope Borough","county","02185","March",2019,3673,3449,224
@@ -338,7 +357,8 @@
 "02","AK","Alaska","North Slope Borough","county","02185","February",2020,3723,3548,175
 "02","AK","Alaska","North Slope Borough","county","02185","March",2020,3724,3562,162
 "02","AK","Alaska","North Slope Borough","county","02185","April",2020,3242,3059,183
-"02","AK","Alaska","North Slope Borough","county","02185","May",2020,2986,2744,242
+"02","AK","Alaska","North Slope Borough","county","02185","May",2020,2970,2729,241
+"02","AK","Alaska","North Slope Borough","county","02185","June",2020,3095,2789,306
 "02","AK","Alaska","Northwest Arctic Borough","county","02188","January",2019,2796,2439,357
 "02","AK","Alaska","Northwest Arctic Borough","county","02188","February",2019,2849,2439,410
 "02","AK","Alaska","Northwest Arctic Borough","county","02188","March",2019,2827,2440,387
@@ -355,7 +375,8 @@
 "02","AK","Alaska","Northwest Arctic Borough","county","02188","February",2020,2925,2525,400
 "02","AK","Alaska","Northwest Arctic Borough","county","02188","March",2020,2882,2534,348
 "02","AK","Alaska","Northwest Arctic Borough","county","02188","April",2020,2752,2351,401
-"02","AK","Alaska","Northwest Arctic Borough","county","02188","May",2020,2709,2279,430
+"02","AK","Alaska","Northwest Arctic Borough","county","02188","May",2020,2710,2268,442
+"02","AK","Alaska","Northwest Arctic Borough","county","02188","June",2020,2861,2323,538
 "02","AK","Alaska","Petersburg Borough","county","02195","January",2019,1306,1135,171
 "02","AK","Alaska","Petersburg Borough","county","02195","February",2019,1275,1129,146
 "02","AK","Alaska","Petersburg Borough","county","02195","March",2019,1326,1175,151
@@ -372,7 +393,8 @@
 "02","AK","Alaska","Petersburg Borough","county","02195","February",2020,1248,1127,121
 "02","AK","Alaska","Petersburg Borough","county","02195","March",2020,1303,1179,124
 "02","AK","Alaska","Petersburg Borough","county","02195","April",2020,1288,1087,201
-"02","AK","Alaska","Petersburg Borough","county","02195","May",2020,1243,1054,189
+"02","AK","Alaska","Petersburg Borough","county","02195","May",2020,1245,1053,192
+"02","AK","Alaska","Petersburg Borough","county","02195","June",2020,1343,1163,180
 "02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","January",2019,2752,2402,350
 "02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","February",2019,2837,2420,417
 "02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","March",2019,2830,2460,370
@@ -389,7 +411,8 @@
 "02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","February",2020,2688,2419,269
 "02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","March",2020,2735,2473,262
 "02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","April",2020,2628,2271,357
-"02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","May",2020,2666,2309,357
+"02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","May",2020,2666,2304,362
+"02","AK","Alaska","Prince of Wales-Hyder Census Area","county","02198","June",2020,2957,2542,415
 "02","AK","Alaska","City and Borough of Sitka","county","02220","January",2019,3879,3673,206
 "02","AK","Alaska","City and Borough of Sitka","county","02220","February",2019,3979,3788,191
 "02","AK","Alaska","City and Borough of Sitka","county","02220","March",2019,4113,3925,188
@@ -406,7 +429,8 @@
 "02","AK","Alaska","City and Borough of Sitka","county","02220","February",2020,3951,3781,170
 "02","AK","Alaska","City and Borough of Sitka","county","02220","March",2020,4133,3961,172
 "02","AK","Alaska","City and Borough of Sitka","county","02220","April",2020,4055,3536,519
-"02","AK","Alaska","City and Borough of Sitka","county","02220","May",2020,4112,3607,505
+"02","AK","Alaska","City and Borough of Sitka","county","02220","May",2020,4105,3598,507
+"02","AK","Alaska","City and Borough of Sitka","county","02220","June",2020,4460,3937,523
 "02","AK","Alaska","Municipality of Skagway","county","02230","January",2019,603,476,127
 "02","AK","Alaska","Municipality of Skagway","county","02230","February",2019,603,467,136
 "02","AK","Alaska","Municipality of Skagway","county","02230","March",2019,596,492,104
@@ -423,7 +447,8 @@
 "02","AK","Alaska","Municipality of Skagway","county","02230","February",2020,591,466,125
 "02","AK","Alaska","Municipality of Skagway","county","02230","March",2020,589,489,100
 "02","AK","Alaska","Municipality of Skagway","county","02230","April",2020,669,458,211
-"02","AK","Alaska","Municipality of Skagway","county","02230","May",2020,906,726,180
+"02","AK","Alaska","Municipality of Skagway","county","02230","May",2020,906,723,183
+"02","AK","Alaska","Municipality of Skagway","county","02230","June",2020,963,784,179
 "02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","January",2019,2768,2463,305
 "02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","February",2019,2768,2442,326
 "02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","March",2019,2731,2442,289
@@ -440,7 +465,8 @@
 "02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","February",2020,2692,2434,258
 "02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","March",2020,2682,2461,221
 "02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","April",2020,2567,2295,272
-"02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","May",2020,2695,2417,278
+"02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","May",2020,2707,2423,284
+"02","AK","Alaska","Southeast Fairbanks Census Area","county","02240","June",2020,2819,2515,304
 "02","AK","Alaska","Valdez-Cordova Census Area","county","02261","January",2019,4066,3632,434
 "02","AK","Alaska","Valdez-Cordova Census Area","county","02261","February",2019,4094,3658,436
 "02","AK","Alaska","Valdez-Cordova Census Area","county","02261","March",2019,4208,3808,400
@@ -457,7 +483,8 @@
 "02","AK","Alaska","Valdez-Cordova Census Area","county","02261","February",2020,4102,3645,457
 "02","AK","Alaska","Valdez-Cordova Census Area","county","02261","March",2020,4213,3809,404
 "02","AK","Alaska","Valdez-Cordova Census Area","county","02261","April",2020,4340,3736,604
-"02","AK","Alaska","Valdez-Cordova Census Area","county","02261","May",2020,4613,4051,562
+"02","AK","Alaska","Valdez-Cordova Census Area","county","02261","May",2020,4470,3908,562
+"02","AK","Alaska","Valdez-Cordova Census Area","county","02261","June",2020,5171,4641,530
 "02","AK","Alaska","City and Borough of Wrangell","county","02275","January",2019,957,863,94
 "02","AK","Alaska","City and Borough of Wrangell","county","02275","February",2019,966,867,99
 "02","AK","Alaska","City and Borough of Wrangell","county","02275","March",2019,948,861,87
@@ -474,7 +501,8 @@
 "02","AK","Alaska","City and Borough of Wrangell","county","02275","February",2020,941,867,74
 "02","AK","Alaska","City and Borough of Wrangell","county","02275","March",2020,935,866,69
 "02","AK","Alaska","City and Borough of Wrangell","county","02275","April",2020,935,797,138
-"02","AK","Alaska","City and Borough of Wrangell","county","02275","May",2020,970,845,125
+"02","AK","Alaska","City and Borough of Wrangell","county","02275","May",2020,971,843,128
+"02","AK","Alaska","City and Borough of Wrangell","county","02275","June",2020,1029,897,132
 "02","AK","Alaska","City and Borough of Yakutat","county","02282","January",2019,229,208,21
 "02","AK","Alaska","City and Borough of Yakutat","county","02282","February",2019,217,191,26
 "02","AK","Alaska","City and Borough of Yakutat","county","02282","March",2019,214,189,25
@@ -491,7 +519,8 @@
 "02","AK","Alaska","City and Borough of Yakutat","county","02282","February",2020,217,189,28
 "02","AK","Alaska","City and Borough of Yakutat","county","02282","March",2020,213,190,23
 "02","AK","Alaska","City and Borough of Yakutat","county","02282","April",2020,231,203,28
-"02","AK","Alaska","City and Borough of Yakutat","county","02282","May",2020,232,202,30
+"02","AK","Alaska","City and Borough of Yakutat","county","02282","May",2020,231,201,30
+"02","AK","Alaska","City and Borough of Yakutat","county","02282","June",2020,235,205,30
 "02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","January",2019,2474,2085,389
 "02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","February",2019,2509,2066,443
 "02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","March",2019,2479,2064,415
@@ -508,7 +537,8 @@
 "02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","February",2020,2394,2054,340
 "02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","March",2020,2382,2086,296
 "02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","April",2020,2361,2000,361
-"02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","May",2020,2449,2044,405
+"02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","May",2020,2455,2045,410
+"02","AK","Alaska","Yukon-Koyukuk Census Area","county","02290","June",2020,2605,2188,417
 "02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"January",2019,195519,183960,11559
 "02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"February",2019,194168,182393,11775
 "02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"March",2019,194115,182532,11583
@@ -525,9 +555,11 @@
 "02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"February",2020,190982,181416,9566
 "02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"March",2020,191260,181233,10027
 "02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"April",2020,189799,162668,27131
-"02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"May",2020,187824,164488,23336
+"02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"May",2020,187902,164433,23469
+"02","AK","Alaska","Anchorage/Mat-Su MSA","city",NA,"June",2020,195626,171716,23910
 "02","AK","Alaska","Fairbanks MSA","city",NA,"January",2020,43217,40674,2543
 "02","AK","Alaska","Fairbanks MSA","city",NA,"February",2020,43236,41081,2155
 "02","AK","Alaska","Fairbanks MSA","city",NA,"March",2020,43731,41555,2176
 "02","AK","Alaska","Fairbanks MSA","city",NA,"April",2020,42677,37874,4803
-"02","AK","Alaska","Fairbanks MSA","city",NA,"May",2020,42900,38503,4397
+"02","AK","Alaska","Fairbanks MSA","city",NA,"May",2020,43026,38611,4415
+"02","AK","Alaska","Fairbanks MSA","city",NA,"June",2020,43854,39274,4580

@@ -9,6 +9,7 @@ library(readxl)
 
 # import
 
+
 raw <- read_excel("CT_data.xlsx", range = "A1:I913")
 
 

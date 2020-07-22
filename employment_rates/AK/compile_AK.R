@@ -6,8 +6,6 @@ library(lubridate)
 library(maps)
 library(stringr)
 
-# import
-
 raw <- read_csv("AK_data.csv", skip = 2) %>%
   clean_names(case = "snake") 
 

@@ -57,13 +57,13 @@ output_counties <- raw_counties %>%
     labor_force, employment, unemployment
   )
 
-raw_cities <- read_excel("FL_cities_data.xlsx")
+raw_cities <- read_excel("FL_cities_data.xlsx", skip = 6)
 
 output_cities <- raw_cities %>%
   filter(!is.na(City)) %>%
   remove_empty("cols") %>%
   pivot_longer(
-    cols = JAN:MAY, names_to = "month_label",
+    cols = JAN:JUN, names_to = "month_label",
     values_to = "value"
   ) %>%
   clean_names("snake") %>%
